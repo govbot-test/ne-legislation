@@ -1,0 +1,24 @@
+{
+  "action": {
+    "description": "Conrad MO1 Indefinitely postpone pursuant to Rule 6, Sec. 3(f) filed",
+    "occurred_at": "2025-01-13",
+    "jurisdiction_id": "~{\"classification\": \"legislature\"}",
+    "session_id": "109",
+    "entity_type": "bill",
+    "classifications": [
+      "filing"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://nebraskalegislature.gov/bills/search_by_date.php?SessionDay=2025",
+        "note": ""
+      },
+      {
+        "url": "https://nebraskalegislature.gov/bills/view_bill.php?DocumentID=58830",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "LB3"
+}

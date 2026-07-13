@@ -1,0 +1,24 @@
+{
+  "action": {
+    "description": "Presented to Governor on  May 14, 2025",
+    "occurred_at": "2025-05-14",
+    "jurisdiction_id": "~{\"classification\": \"executive\"}",
+    "session_id": "109",
+    "entity_type": "bill",
+    "classifications": [
+      "executive-receipt"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://nebraskalegislature.gov/bills/search_by_date.php?SessionDay=2025",
+        "note": ""
+      },
+      {
+        "url": "https://nebraskalegislature.gov/bills/view_bill.php?DocumentID=59439",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "LB704"
+}

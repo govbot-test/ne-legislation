@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "Provisions/portions of LB531 amended into LB288 by AM1181",
+    "occurred_at": "2025-06-06",
+    "jurisdiction_id": "~{\"classification\": \"legislature\"}",
+    "session_id": "109",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://nebraskalegislature.gov/bills/search_by_date.php?SessionDay=2025",
+        "note": ""
+      },
+      {
+        "url": "https://nebraskalegislature.gov/bills/view_bill.php?DocumentID=58066",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "LB531"
+}
