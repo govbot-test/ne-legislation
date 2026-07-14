@@ -1,0 +1,24 @@
+{
+  "action": {
+    "description": "Murman MO582 Invoke cloture pursuant to Rule 7, Sec. 10 filed",
+    "occurred_at": "2026-04-08",
+    "jurisdiction_id": "~{\"classification\": \"legislature\"}",
+    "session_id": "109",
+    "entity_type": "bill",
+    "classifications": [
+      "filing"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://nebraskalegislature.gov/bills/search_by_date.php?SessionDay=2026",
+        "note": ""
+      },
+      {
+        "url": "https://nebraskalegislature.gov/bills/view_bill.php?DocumentID=63185",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "LB1050"
+}

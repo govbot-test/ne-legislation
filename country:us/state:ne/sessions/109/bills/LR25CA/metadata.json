@@ -16,6 +16,28 @@
   ],
   "actions": [
     {
+      "description": "Indefinitely postponed",
+      "date": "2026-04-17",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "committee-failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:00:27Z"
+      }
+    },
+    {
+      "description": "Title printed. Carryover resolution",
+      "date": "2026-01-07",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:00:27Z"
+      }
+    },
+    {
       "description": "Passed over",
       "date": "2025-03-17",
       "organization_id": "~{\"classification\": \"legislature\"}",
@@ -203,8 +225,7 @@
   ],
   "extras": {
     "NE_REF_DATE": "February 24, 2025",
-    "NE_REF_COM": "Executive Board",
-    "NE_PRIORITIZER": "Executive Board"
+    "NE_REF_COM": "Executive Board"
   },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:ne/government",
@@ -213,7 +234,7 @@
     "division_id": "ocd-division/country:us/state:ne"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:04:21Z",
+    "logs_latest_update": "2026-07-14T13:00:27Z",
     "text_extraction_latest_update": "2026-07-13T08:40:11.182117Z"
   }
 }

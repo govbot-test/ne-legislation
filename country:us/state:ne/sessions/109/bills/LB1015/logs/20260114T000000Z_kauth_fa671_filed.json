@@ -1,0 +1,24 @@
+{
+  "action": {
+    "description": "Kauth FA671 filed",
+    "occurred_at": "2026-01-14",
+    "jurisdiction_id": "~{\"classification\": \"legislature\"}",
+    "session_id": "109",
+    "entity_type": "bill",
+    "classifications": [
+      "filing"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://nebraskalegislature.gov/bills/search_by_date.php?SessionDay=2026",
+        "note": ""
+      },
+      {
+        "url": "https://nebraskalegislature.gov/bills/view_bill.php?DocumentID=63253",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "LB1015"
+}

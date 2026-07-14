@@ -16,6 +16,38 @@
   ],
   "actions": [
     {
+      "description": "Indefinitely postponed",
+      "date": "2026-04-17",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "committee-failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:00:27Z"
+      }
+    },
+    {
+      "description": "Spivey name added",
+      "date": "2026-02-18",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:00:27Z"
+      }
+    },
+    {
+      "description": "Title printed. Carryover bill",
+      "date": "2026-01-07",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:00:27Z"
+      }
+    },
+    {
       "description": "Cavanaugh, M. AM483 filed",
       "date": "2025-03-11",
       "organization_id": "~{\"classification\": \"legislature\"}",
@@ -114,6 +146,14 @@
       "organization_id": null
     },
     {
+      "name": "Spivey",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Spivey\"}",
+      "organization_id": null
+    },
+    {
       "name": "Raybould",
       "classification": "cosponsor",
       "entity_type": "person",
@@ -198,7 +238,7 @@
     "division_id": "ocd-division/country:us/state:ne"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:04:22Z",
+    "logs_latest_update": "2026-07-14T13:00:27Z",
     "text_extraction_latest_update": "2026-07-13T08:26:17.485995Z"
   }
 }

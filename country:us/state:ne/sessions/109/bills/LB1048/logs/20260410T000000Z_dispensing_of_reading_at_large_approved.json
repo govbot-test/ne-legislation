@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "Dispensing of reading at large approved",
+    "occurred_at": "2026-04-10",
+    "jurisdiction_id": "~{\"classification\": \"legislature\"}",
+    "session_id": "109",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://nebraskalegislature.gov/bills/search_by_date.php?SessionDay=2026",
+        "note": ""
+      },
+      {
+        "url": "https://nebraskalegislature.gov/bills/view_bill.php?DocumentID=62865",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "LB1048"
+}

@@ -1,0 +1,24 @@
+{
+  "action": {
+    "description": "Approved by Governor on March 12, 2026",
+    "occurred_at": "2026-03-17",
+    "jurisdiction_id": "~{\"classification\": \"executive\"}",
+    "session_id": "109",
+    "entity_type": "bill",
+    "classifications": [
+      "executive-signature"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://nebraskalegislature.gov/bills/search_by_date.php?SessionDay=2026",
+        "note": ""
+      },
+      {
+        "url": "https://nebraskalegislature.gov/bills/view_bill.php?DocumentID=63243",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "LB956"
+}

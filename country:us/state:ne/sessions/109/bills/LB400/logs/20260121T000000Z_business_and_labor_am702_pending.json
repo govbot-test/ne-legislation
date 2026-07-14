@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "Business and Labor AM702 pending",
+    "occurred_at": "2026-01-21",
+    "jurisdiction_id": "~{\"classification\": \"legislature\"}",
+    "session_id": "109",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://nebraskalegislature.gov/bills/search_by_date.php?SessionDay=2025",
+        "note": ""
+      },
+      {
+        "url": "https://nebraskalegislature.gov/bills/view_bill.php?DocumentID=59535",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "LB400"
+}

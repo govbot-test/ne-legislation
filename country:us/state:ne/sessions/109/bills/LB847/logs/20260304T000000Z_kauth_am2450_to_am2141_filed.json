@@ -1,0 +1,24 @@
+{
+  "action": {
+    "description": "Kauth AM2450 to AM2141 filed",
+    "occurred_at": "2026-03-04",
+    "jurisdiction_id": "~{\"classification\": \"legislature\"}",
+    "session_id": "109",
+    "entity_type": "bill",
+    "classifications": [
+      "filing"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://nebraskalegislature.gov/bills/search_by_date.php?SessionDay=2026",
+        "note": ""
+      },
+      {
+        "url": "https://nebraskalegislature.gov/bills/view_bill.php?DocumentID=63335",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "LB847"
+}

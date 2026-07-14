@@ -16,6 +16,28 @@
   ],
   "actions": [
     {
+      "description": "Indefinitely postponed",
+      "date": "2026-04-17",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "committee-failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:00:26Z"
+      }
+    },
+    {
+      "description": "Title printed. Carryover bill",
+      "date": "2026-01-07",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:00:26Z"
+      }
+    },
+    {
       "description": "Spivey FA198 filed",
       "date": "2025-05-08",
       "organization_id": "~{\"classification\": \"legislature\"}",
@@ -493,8 +515,7 @@
   ],
   "extras": {
     "NE_REF_DATE": "March 06, 2025",
-    "NE_REF_COM": "Health and Human Services Committee",
-    "NE_PRIORITIZER": "Senator Lonowski"
+    "NE_REF_COM": "Health and Human Services Committee"
   },
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:ne/government",
@@ -503,7 +524,7 @@
     "division_id": "ocd-division/country:us/state:ne"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:04:22Z",
+    "logs_latest_update": "2026-07-14T13:00:26Z",
     "text_extraction_latest_update": "2026-07-13T08:39:18.153574Z"
   }
 }
