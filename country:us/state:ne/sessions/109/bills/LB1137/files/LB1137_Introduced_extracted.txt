@@ -1,0 +1,1218 @@
+Title: LEGISLATIVE BILL 1137
+Official Title: LEGISLATIVE BILL 1137
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 18 sections found
+
+================================================================================
+
+Section 1:
+LB1137 LB1137
+2026 2026
+LEGISLATURE OF NEBRASKA
+ONE HUNDRED NINTH LEGISLATURE
+SECOND SESSION
+Introduced by Ballard, 21; Hallstrom, 1; Jacobson, 42.
+Read first time January 20, 2026
+Committee: Banking, Commerce and Insurance
+1 A BILL FOR AN ACT relating to insurance; to amend sections 28-631,
+2 44-6604, 44-8602, 44-8603, 44-8604, 44-8605, 44-9204, 44-9214, and
+3 44-9217, Reissue Revised Statutes of Nebraska; to change provisions
+4 and penalties relating to fraudulent insurance acts; to redefine
+5 terms, and change provisions relating to residential contracts,
+6 notice of cancellations, prohibited acts, and post-loss assignment
+7 of rights or benefits under the Insured Homeowners Protection Act;
+8 to change provisions relating to licenses, contracts, prohibited
+9 acts, and fees under the Public Adjusters Licensing Act; to
+10 harmonize provisions; and to repeal the original sections.
+11 Be it enacted by the people of the State of Nebraska,
+-1-
+LB1137 LB1137
+2026 2026
+1 Section 1. Section 28-631, Reissue Revised Statutes of Nebraska, is
+2 amended to read:
+3 28-631 (1) A person or entity commits a fraudulent insurance act if
+4 the person or entity he or she:
+5 (a) Knowingly and with intent to defraud or deceive presents, causes
+6 to be presented, or prepares with knowledge or belief that it will be
+7 presented to or by an insurer, or any agent of an insurer, any statement
+8 as part of, in support of, or in denial of a claim for payment or other
+9 benefit from an insurer or pursuant to an insurance policy knowing that
+10 the statement contains any false, incomplete, or misleading information
+11 concerning any fact or thing material to a claim;
+12 (b) Assists, abets, solicits, or conspires with another to prepare
+13 or make any statement that is intended to be presented to or by an
+14 insurer or person in connection with or in support of any claim for
+15 payment or other benefit from an insurer or pursuant to an insurance
+16 policy knowing that the statement contains any false, incomplete, or
+17 misleading information concerning any fact or thing material to the
+18 claim;
+19 (c) Makes any false or fraudulent representations as to the death or
+20 disability of a policy or certificate holder or a covered person in any
+21 statement or certificate for the purpose of fraudulently obtaining money
+22 or benefit from an insurer;
+23 (d) Knowingly and willfully transacts any contract, agreement, or
+24 instrument which violates this section;
+25 (e) Receives money for the purpose of purchasing insurance and
+26 converts the money to the person's own benefit;
+27 (f) Willfully embezzles, abstracts, purloins, misappropriates, or
+28 converts money, funds, premiums, credits, or other property of an insurer
+29 or person engaged in the business of insurance;
+30 (g) Knowingly and with intent to defraud or deceive issues fake or
+31 counterfeit insurance policies, certificates of insurance, insurance
+-2-
+LB1137 LB1137
+2026 2026
+1 identification cards, or insurance binders;
+2 (h) Knowingly and with intent to defraud or deceive possesses fake
+3 or counterfeit insurance policies, certificates of insurance, insurance
+4 identification cards, or insurance binders;
+5 (i) Knowingly and with intent to defraud or deceive makes any false
+6 entry of a material fact in or pertaining to any document or statement
+7 filed with or required by the Department of Insurance;
+8 (j) Knowingly and with the intent to defraud or deceive provides
+9 false, incomplete, or misleading information to an insurer concerning the
+10 number, location, or classification of employees for the purpose of
+11 lessening or reducing the premium otherwise chargeable for workers'
+12 compensation insurance coverage;
+13 (k) Knowingly and with intent to defraud or deceive removes,
+14 conceals, alters, diverts, or destroys assets or records of an insurer or
+15 person engaged in the business of insurance or attempts to remove,
+16 conceal, alter, divert, or destroy assets or records of an insurer or
+17 person engaged in the business of insurance;
+18 (l) Willfully operates as or aids and abets another operating as a
+19 discount medical plan organization in violation of subsection (1) of
+20 section 44-8306; or
+21 (m) Willfully collects fees for purported membership in a discount
+22 medical plan organization but purposefully fails to provide the promised
+23 benefits; or .
+24 (n) Violates subdivision (13), (14), (15), or (16) of section
+25 44-6604;
+26 (2)(a) A violation of subdivisions (1)(a) through (f) of this
+27 section is a Class III felony when the amount involved is five thousand
+28 dollars or more.
+29 (b) A violation of subdivisions (1)(a) through (f) of this section
+30 is a Class IV felony when the amount involved is one thousand five
+31 hundred dollars or more but less than five thousand dollars.
+-3-
+LB1137 LB1137
+2026 2026
+1 (c) A violation of subdivisions (1)(a) through (f) of this section
+2 is a Class I misdemeanor when the amount involved is five hundred dollars
+3 or more but less than one thousand five hundred dollars.
+4 (d) A violation of subdivisions (1)(a) through (f) of this section
+5 is a Class II misdemeanor when the amount involved is less than five
+6 hundred dollars.
+7 (e) For any second or subsequent conviction under subdivision (2)(c)
+8 of this section, the violation is a Class IV felony.
+9 (f) A violation of subdivisions (1)(g), (i), (j), (k), (l), and (m)
+10 of this section is a Class IV felony.
+11 (g) A violation of subdivision (1)(h) of this section is a Class I
+12 misdemeanor.
+13 (3) Amounts taken pursuant to one scheme or course of conduct from
+14 one person, entity, or insurer may be aggregated in the indictment or
+15 information in determining the classification of the offense, except that
+16 amounts may not be aggregated into more than one offense.
+17 (4) In any prosecution under this section, if the amounts are
+18 aggregated pursuant to subsection (3) of this section, the amount
+19 involved in the offense shall be an essential element of the offense that
+20 must be proved beyond a reasonable doubt.
+21 (5) A prosecution under this section shall be in lieu of an action
+22 under section 44-6607.
+23 (6) For purposes of this section:
+24 (a) Insurer means any person or entity transacting insurance as
+25 defined in section 44-102 with or without a certificate of authority
+26 issued by the Director of Insurance. Insurer also means health
+27 maintenance organizations, legal service insurance corporations, prepaid
+28 limited health service organizations, dental and other similar health
+29 service plans, discount medical plan organizations, and entities licensed
+30 pursuant to the Intergovernmental Risk Management Act and the
+31 Comprehensive Health Insurance Pool Act. Insurer also means an employer
+-4-
+LB1137 LB1137
+2026 2026
+1 who is approved by the Nebraska Workers' Compensation Court as a self-
+2 insurer; and
+3 (b) Statement includes, but is not limited to, any notice,
+4 statement, proof of loss, bill of lading, receipt for payment, invoice,
+5 account, estimate of property damages, bill for services, diagnosis,
+6 prescription, hospital or medical records, X-rays, test result, or other
+7 evidence of loss, injury, or expense, whether oral, written, or computer-
+8 generated.
+9 Sec. 2. Section 44-6604, Reissue Revised Statutes of Nebraska, is
+10 amended to read:
+11 44-6604 For purposes of the Insurance Fraud Act, a person or entity
+12 commits a fraudulent insurance act if the person or entity he or she:
+13 (1) Knowingly and with intent to defraud or deceive presents, causes
+14 to be presented, or prepares with knowledge or belief that it will be
+15 presented to or by an insurer, or any agent of an insurer, any statement
+16 as part of, in support of, or in denial of a claim for payment or other
+17 benefit from an insurer or pursuant to an insurance policy knowing that
+18 the statement contains any false, incomplete, or misleading information
+19 concerning any fact or thing material to a claim;
+20 (2) Assists, abets, solicits, or conspires with another to prepare
+21 or make any statement that is intended to be presented to or by an
+22 insurer or person in connection with or in support of any claim for
+23 payment or other benefit from an insurer or pursuant to an insurance
+24 policy knowing that the statement contains any false, incomplete, or
+25 misleading information concerning any fact or thing material to the
+26 claim;
+27 (3) Makes any false or fraudulent representations as to the death or
+28 disability of a policy or certificate holder or a covered person in any
+29 statement or certificate for the purpose of fraudulently obtaining money
+30 or benefit from an insurer;
+31 (4) Knowingly and willfully transacts any contract, agreement, or
+-5-
+LB1137 LB1137
+2026 2026
+1 instrument which violates this section;
+2 (5) Receives money for the purpose of purchasing insurance and
+3 converts the money to the person's own benefit;
+4 (6) Willfully embezzles, abstracts, purloins, misappropriates, or
+5 converts money, funds, premiums, credits, or other property of an insurer
+6 or person engaged in the business of insurance;
+7 (7) Knowingly and with intent to defraud or deceive issues or
+8 possesses fake or counterfeit insurance policies, certificates of
+9 insurance, insurance identification cards, or insurance binders;
+10 (8) Knowingly and with intent to defraud or deceive makes any false
+11 entry of a material fact in or pertaining to any document or statement
+12 filed with or required by the department;
+13 (9) Knowingly and with intent to defraud or deceive removes,
+14 conceals, alters, diverts, or destroys assets or records of an insurer or
+15 person engaged in the business of insurance or attempts to remove,
+16 conceal, alter, divert, or destroy assets or records of an insurer or
+17 person engaged in the business of insurance;
+18 (10) Knowingly and with the intent to defraud or deceive provides
+19 false, incomplete, or misleading information to an insurer concerning the
+20 number, location, or classification of employees for the purpose of
+21 lessening or reducing the premium otherwise chargeable for workers'
+22 compensation insurance coverage;
+23 (11) Willfully operates as or aids and abets another operating as a
+24 discount medical plan organization in violation of subsection (1) of
+25 section 44-8306; or
+26 (12) Willfully collects fees for purported membership in a discount
+27 medical plan but purposefully fails to provide the promised benefits; .
+28 (13) Knowingly represents themselves to be a public adjuster without
+29 having met the requirements of licensure under the Public Adjusters
+30 Licensing Act;
+31 (14) Knowingly conducts business for which a license is required
+-6-
+LB1137 LB1137
+2026 2026
+1 under the Public Adjuster Licensing Act without a license;
+2 (15) Willfully provides a rebate in violation of subsection (1) of
+3 section 44-8604 or violates subsection (13) of section 44-9217; or
+4 (16) Knowingly presents, causes to be presented, or prepares with
+5 knowledge or belief that it will be presented, to or by an insured, an
+6 insurer, an insurance producer, or a premium finance company in
+7 connection with an insurance transaction or premium finance transaction,
+8 a statement, an estimate, an invoice, a bid, a proposal, a proof of loss,
+9 or any other document that misrepresents the scope of damages or costs of
+10 repairs associated with a property insurance claim.
+11 Sec. 3. Section 44-8602, Reissue Revised Statutes of Nebraska, is
+12 amended to read:
+13 44-8602 For purposes of the Insured Homeowners Protection Act:
+14 (1) Post-loss assignment means any contract or agreement whereby a
+15 homeowner, after property damage, transfers, sells, or assigns any or all
+16 of their insurance claim rights under a property and casualty insurance
+17 policy, including, but not limited to, payment and negotiations;
+18 (2) (1) Residential contractor means a person in the business of
+19 contracting or offering to contract with an owner or possessor of
+20 residential real estate to:
+21 (a) Perform Repair or replace a roof system or perform any other
+22 exterior repair, replacement, construction, or reconstruction work on
+23 residential real estate;
+24 (b) Perform interior or exterior cleanup services on residential
+25 real estate; or
+26 (c) Arrange for, manage, or process the work referred to in
+27 subdivision (1)(a) or (b) of this section; or
+28 (d) Serve as a representative, agent, or assignee of the owner or
+29 possessor of residential real estate;
+30 (3) (2) Residential real estate means a new or existing building,
+31 including a detached garage, constructed for habitation by at least one
+-7-
+LB1137 LB1137
+2026 2026
+1 but no more than four families; and
+2 (4) (3) Roof system means and includes roof coverings, roof
+3 sheathing, roof weatherproofing, and insulation.
+4 Sec. 4. Section 44-8603, Reissue Revised Statutes of Nebraska, is
+5 amended to read:
+6 44-8603 (1) A person who has entered into a written contract with a
+7 residential contractor to provide goods or services to be paid from the
+8 proceeds of a property and casualty insurance policy may cancel the
+9 contract prior to midnight on the later of the fifth third business day
+10 after the person has (a) entered into the written contract or (b)
+11 received written notice from the person's insurer that all or part of the
+12 claim or contract is not a covered loss under the insurance policy.
+13 Cancellation shall be evidenced by the person giving written notice of
+14 the cancellation to the residential contractor at the address of the
+15 residential contractor's place of business as stated in the contract.
+16 Written notice of cancellation may be given by delivering or mailing a
+17 signed and dated copy of the written notice of cancellation to the
+18 residential contractor at the address of the residential contractor's
+19 place of business as stated in the contract. The notice of cancellation
+20 shall include a copy of the written notice from the person's insurer, if
+21 applicable, to the effect that all or part of the claim or contract is
+22 not a covered loss under the insurance policy. Notice of cancellation
+23 given by mail shall be effective upon deposit in the United States mail,
+24 postage prepaid, if properly addressed to the residential contractor.
+25 Notice of cancellation may be provided on the form given to the insurer
+26 pursuant to subsection (2) of this section or in another is not required
+27 to be in any particular form. Notice and is sufficient if the notice
+28 indicates, by any form of written expression, the intent of the insured
+29 not to be bound by the contract.
+30 (2) Before entering a contract as provided in subsection (1) of this
+31 section, the residential contractor shall:
+-8-
+LB1137 LB1137
+2026 2026
+1 (a) Furnish the insured a statement in boldface type of a minimum
+2 size of ten points, in substantially the following form:
+3 'YOU MAY CANCEL THIS CONTRACT AT ANY TIME BEFORE MIDNIGHT ON THE
+4 FIFTH BUSINESS DAY AFTER YOU HAVE SIGNED THIS CONTRACT OR YOU HAVE
+5 RECEIVED WRITTEN NOTIFICATION FROM YOUR INSURER THAT ALL OR ANY PART OF
+6 THE CLAIM OR CONTRACT IS NOT A COVERED LOSS UNDER THE INSURANCE POLICY.
+7 THIS RIGHT TO CANCEL IS IN ADDITION TO ANY OTHER RIGHTS OF CANCELLATION
+8 WHICH MAY BE FOUND IN STATE OR FEDERAL LAW OR REGULATION. SEE ATTACHED
+9 NOTICE OF CANCELLATION FORM FOR AN EXPLANATION OF THIS RIGHT'; and
+10 (b) Furnish each insured a fully completed form in duplicate,
+11 captioned 'NOTICE OF CANCELLATION,' which shall be attached to the
+12 contract but easily detachable, and which shall contain in boldface type
+13 of a minimum size of ten points, the following statement:
+14 'NOTICE OF CANCELLATION'
+15 IF YOU ARE NOTIFIED BY YOUR INSURER THAT ALL OR ANY PART OF THE
+16 CLAIM OR CONTRACT IS NOT A COVERED LOSS UNDER THE INSURANCE POLICY, YOU
+17 MAY CANCEL THE CONTRACT BY MAILING OR DELIVERING A SIGNED AND DATED COPY
+18 OF THIS CANCELLATION NOTICE OR ANY OTHER WRITTEN NOTICE TO (NAME OF
+19 CONTRACTOR) AT (ADDRESS OF CONTRACTOR'S PLACE OF BUSINESS) AT ANY TIME
+20 PRIOR TO MIDNIGHT ON THE FIFTH BUSINESS DAY AFTER YOU RECEIVED SUCH
+21 NOTICE FROM YOUR INSURER.
+22 I HEREBY CANCEL THIS TRANSACTION
+23 (DATE)
+24 (INSURED'S SIGNATURE).
+25 (3) (2) Within ten days after a contract to provide goods or
+26 services to be paid from the proceeds of a property and casualty
+27 insurance policy has been canceled by notification pursuant to this
+28 section, the residential contractor shall tender to the person canceling
+29 the contract any payments, partial payments, or deposits made by the
+30 person and any note or other evidence of indebtedness, except that if the
+31 residential contractor has provided any goods or services agreed to by
+-9-
+LB1137 LB1137
+2026 2026
+1 such person in writing to be necessary to prevent damage to the premises,
+2 the residential contractor shall be entitled to be paid the reasonable
+3 value of such goods or services. Any provision in a contract to provide
+4 goods or services to be paid from the proceeds of a property and casualty
+5 insurance policy that requires the payment of any fee which is not for
+6 such goods or services shall not be enforceable against any person who
+7 has canceled a contract pursuant to this section.
+8 Sec. 5. Section 44-8604, Reissue Revised Statutes of Nebraska, is
+9 amended to read:
+10 44-8604 (1) A residential contractor shall not promise to rebate any
+11 portion of an insurance deductible as an inducement to the sale of goods
+12 or services. A promise to rebate any portion of an insurance deductible
+13 includes granting any allowance or offering any discount against the fees
+14 to be charged or paying an insured or a person directly or indirectly
+15 associated with the residential real estate any form of compensation,
+16 except for any item of nominal value.
+17 (2) Neither a residential contractor nor a person acting as a public
+18 adjuster under the Public Adjuster Licensing Act, shall solicit or accept
+19 a post-loss assignment, except that a licensed public adjuster may accept
+20 an assignment to the extent of its public adjuster fee. A post-loss
+21 assignment is against public policy and is void and any contract,
+22 agreement, or written instrument entered into in violation of this
+23 subsection shall be void and unenforceable.
+24 (3) A residential contractor shall not represent or negotiate, or
+25 offer or advertise to represent or negotiate, on behalf of an owner or
+26 possessor of residential real estate on any insurance claim. This
+27 subsection shall not apply to a public adjuster licensed under the Public
+28 Adjuster Licensing Act.
+29 Sec. 6. Section 44-8605, Reissue Revised Statutes of Nebraska, is
+30 amended to read:
+31 44-8605 (1) A post-loss assignment of rights or benefits to a
+-10-
+LB1137 LB1137
+2026 2026
+1 residential contractor under a property and casualty insurance policy
+2 insuring residential real estate shall comply with the following:
+3 (a) The assignment may authorize a residential contractor to be
+4 named as a copayee for the payment of benefits under a property and
+5 casualty insurance policy covering residential real estate;
+6 (b) The assignment shall be provided to the insurer of the
+7 residential real estate within five business days after execution;
+8 (c) The assignment shall include a statement that the residential
+9 contractor has made no assurances that the claimed loss will be fully
+10 covered by an insurance contract and shall include the following notice
+11 in capitalized fourteen-point type:
+12 YOU ARE AGREEING TO ASSIGN CERTAIN RIGHTS YOU HAVE UNDER YOUR
+13 INSURANCE POLICY. WITH AN ASSIGNMENT, THE RESIDENTIAL CONTRACTOR SHALL BE
+14 ENTITLED TO PURSUE ANY RIGHTS OR REMEDIES THAT YOU, THE INSURED
+15 HOMEOWNER, HAVE UNDER YOUR INSURANCE POLICY. PLEASE READ AND UNDERSTAND
+16 THIS DOCUMENT BEFORE SIGNING.
+17 THE INSURER MAY ONLY PAY FOR THE COST TO REPAIR OR REPLACE DAMAGED
+18 PROPERTY CAUSED BY A COVERED PERIL, SUBJECT TO THE TERMS OF THE POLICY.
+19 (d) The assignment shall not impair the interest of a mortgagee
+20 listed on the declarations page of the property and casualty insurance
+21 policy which is the subject of the assignment; and
+22 (e) The assignment shall not prevent or inhibit an insurer from
+23 communicating with the named insured or mortgagee listed on the
+24 declarations page of the property and casualty insurance policy that is
+25 the subject of the assignment.
+26 (2) The Department of Insurance shall strictly enforce the
+27 provisions of subdivision (13) of section 44-1540, which requires
+28 insurers to provide a named insured a reasonable and accurate explanation
+29 of the basis for the denial of a claim or an offer of a compromise
+30 settlement.
+31 Sec. 7. Section 44-9204, Reissue Revised Statutes of Nebraska, is
+-11-
+LB1137 LB1137
+2026 2026
+1 amended to read:
+2 44-9204 (1) A person shall not act operate as or represent that such
+3 person is a public adjuster in this state or solicit or negotiate a
+4 contract to act as a public adjuster unless such person is licensed as a
+5 public adjuster in accordance with the Public Adjusters Licensing Act.
+6 (2) A public adjuster shall not misrepresent to any insured that
+7 such public adjuster is an adjuster representing an insurer in any
+8 capacity, including acting as an employee of the insurer or acting as an
+9 independent adjuster unless so appointed by an insurer in writing to act
+10 on behalf of the insurer for that specific claim or purpose. A public
+11 adjuster is prohibited from charging any insured a fee when appointed by
+12 the insurer and the appointment is accepted by the public adjuster.
+13 (3) A public adjuster shall not, directly or indirectly, solicit, or
+14 enter into, an agreement for the repair or replacement of damaged
+15 property on which such public adjuster has engaged to adjust or settle
+16 claims for losses or damages of the insured.
+17 (4) Notwithstanding subsection (1) of this section, licensing as a
+18 public adjuster shall not be required for:
+19 (a) An attorney admitted to practice in this state, when acting in
+20 the attorney’s professional capacity as an attorney;
+21 (b) A person who negotiates or settles claims arising under a life
+22 or health insurance policy or an annuity contract;
+23 (c) A person employed only for the purpose of obtaining facts
+24 surrounding a loss or furnishing technical assistance to a licensed
+25 public adjuster, including, but not limited to, a photographer,
+26 estimator, private investigator, engineer, or handwriting expert;
+27 (d) A licensed health care provider, or an employee of a licensed
+28 health care provider, who prepares or files a health claim form on behalf
+29 of a patient; or
+30 (e) A person who settles subrogation claims between insurers.
+31 Sec. 8. Section 44-9214, Reissue Revised Statutes of Nebraska, is
+-12-
+LB1137 LB1137
+2026 2026
+1 amended to read:
+2 44-9214 (1) Public adjusters shall ensure that all contracts for
+3 their services are in writing and contain the following terms:
+4 (a) Legible full name of the public adjuster signing the contract,
+5 as specified in director records;
+6 (b) Home state, business address, and telephone number;
+7 (c) Public adjuster license number;
+8 (d) Title of "Public Adjuster Contract";
+9 (e) Insured’s full name, street address, insurer name, and insurance
+10 policy number, if known or upon notification;
+11 (f) Description of the loss and its location, if applicable;
+12 (g) Description of services to be provided to the insured;
+13 (h) Signatures of the public adjuster and the insured;
+14 (i) Date contract was signed by the public adjuster and date the
+15 contract was signed by the insured;
+16 (j) Attestation language stating that the public adjuster is fully
+17 bonded pursuant to state law; and
+18 (k) The specific amount of compensation, including, but not limited
+19 to, the full salary, fee, commission, or other consideration the public
+20 adjuster is to receive for services.
+21 (2)(a) The contract may specify that the public adjuster shall be
+22 named as a co-payee on an insurer’s payment of a claim.
+23 (b) If the compensation is based on a share of the insurance
+24 settlement, the exact percentage shall be specified.
+25 (c) Initial expenses to be reimbursed to the public adjuster from
+26 the proceeds of the claim payment shall be specified by type and the
+27 dollar estimates shall be set forth in the contract. Any additional
+28 expenses shall be approved in writing by the insured.
+29 (d) Compensation provisions in a public adjuster contract shall not
+30 be redacted in any copy of the contract provided to the director.
+31 (3) If the insurer, not later than seventy-two hours after the date
+-13-
+LB1137 LB1137
+2026 2026
+1 on which the loss is reported to the insurer, either pays or commits in
+2 writing to pay to the insured the policy limit of the insurance policy,
+3 the public adjuster shall:
+4 (a) Not receive a commission that consists of a percentage of the
+5 total amount paid by an insurer to resolve a claim;
+6 (b) Inform the insured that the loss recovery amount might not be
+7 increased by the insurer; and
+8 (c) Be entitled only to reasonable compensation from the insured for
+9 services provided by the public adjuster on behalf of the insured, based
+10 on the time spent on a claim and expenses incurred by the public
+11 adjuster, until the claim is paid or the insured receives a written
+12 commitment to pay from the insurer.
+13 (4) A public adjuster contract may not contain any contract term
+14 that:
+15 (a) Allows a percentage fee to be collected by the public adjuster
+16 when money is due from an insurer, but not paid, or that allows a public
+17 adjuster to collect the entire fee from the first check issued by an
+18 insurer, rather than as a percentage of each check issued by an insurer;
+19 (b) Requires the insured to authorize an insurer to issue a check
+20 only in the name of the public adjuster;
+21 (c) Imposes collection costs or late fees; or
+22 (d) Precludes a public adjuster from pursuing civil remedies.
+23 (5) Prior to the signing of the contract the public adjuster shall
+24 provide the insured with a separate disclosure document regarding the
+25 claim process that states:
+26 (a) Property insurance policies obligate the insured to present a
+27 claim to his or her insurer for consideration;
+28 (b) There are three types of adjusters that could be involved in the
+29 claim process. The definitions of the three types are as follows:
+30 (i) Company adjuster means an insurance adjuster who is an employee
+31 of an insurer. He or she represents the interest of the insurer, is paid
+-14-
+LB1137 LB1137
+2026 2026
+1 by the insurer, and will not charge the insured a fee;
+2 (ii) Independent adjuster means an insurance adjuster who is hired
+3 on a contract basis by an insurer to represent the interest of the
+4 insurer in the settlement of the claim. He or she is paid by the insurer
+5 and will not charge the insured a fee; and
+6 (iii) Public adjuster means an insurance adjuster who does not work
+7 for any insurer. He or she works for the insured to assist in the
+8 preparation, presentation, and settlement of the claim. The insured hires
+9 a public adjuster by signing a contract agreeing to pay a fee or
+10 commission based on a percentage of the settlement or other method of
+11 compensation;
+12 (c) The insured is not required to hire a public adjuster to help
+13 the insured meet the insured’s obligations under the policy, but has the
+14 right to do so;
+15 (d) The insured has the right to initiate direct communications with
+16 the insured’s attorney, the insurer, the company adjuster, and the
+17 insurer’s attorney, or any other person regarding the settlement of the
+18 insured’s claim;
+19 (e) The public adjuster is not a representative or employee of the
+20 insurer; and
+21 (f) The salary, fee, commission, or other consideration to be paid
+22 to a public adjuster is the obligation of the insured, not the insurer.
+23 (6) The contract shall be executed in duplicate to provide an
+24 original contract to the public adjuster and an original contract to the
+25 insured. The original contract retained by the public adjuster shall be
+26 available at all times for inspection without notice by the department.
+27 (7) The public adjuster shall provide the insurer a notification
+28 letter, which has been signed by the insured, authorizing the public
+29 adjuster to represent the insured’s interest. The insurer, upon receipt
+30 of a notification letter, shall verify the public adjuster holds a valid
+31 license with the department.
+-15-
+LB1137 LB1137
+2026 2026
+1 (8) The public adjuster shall give the insured written notice of the
+2 insured’s rights as provided in this section.
+3 (9) The insured has the right to rescind the contract within three
+4 business days after the date the contract was signed. The rescission
+5 shall be in writing and mailed or delivered to the public adjuster at the
+6 address in the contract within the three-business-day period.
+7 (10) If the insured exercises the right to rescind the contract,
+8 anything of value given by the insured under the contract will be
+9 returned to the insured within fifteen days following the receipt by the
+10 public adjuster of the rescission notice.
+11 (11) The director may require a public adjuster to file a contract
+12 with the department in a manner prescribed by the director.
+13 Sec. 9. Section 44-9217, Reissue Revised Statutes of Nebraska, is
+14 amended to read:
+15 44-9217 (1) A public adjuster shall serve with objectivity and
+16 complete loyalty to the interest of the insured and shall, in good faith,
+17 render to the insured such information, counsel, and service, as within
+18 the knowledge, understanding, and opinion of such public adjuster will
+19 best serve the insurance claim needs and interest of the insured.
+20 (2) A public adjuster or a residential contractor as defined in
+21 section 44-8602 shall not solicit, nor attempt to solicit, an insured
+22 during the progress of a loss-producing occurrence, as defined in the
+23 insured’s insurance contract, or during a fire event while the fire
+24 department or representatives of the fire department are physically on
+25 site at the damaged premises.
+26 (3) A public adjuster shall not permit an unlicensed employee or
+27 representative of the public adjuster to conduct business for which a
+28 license is required under the Public Adjusters Licensing Act.
+29 (4) A public adjuster shall not have a direct or indirect financial
+30 interest in any aspect of the claim, other than the salary, fee,
+31 commission, or other consideration established in the written contract
+-16-
+LB1137 LB1137
+2026 2026
+1 with the insured. Direct or indirect financial interest includes, but is
+2 not limited to, ownership of, employment by, or other consideration
+3 received from any business entity or individual that performs any work
+4 pertaining to damage related to the insured loss.
+5 (5) A public adjuster shall not acquire any interest in salvage of
+6 property subject to the contract with the insured unless the public
+7 adjuster obtains written permission from the insured after settlement of
+8 the claim with the insurer.
+9 (6) A public adjuster shall abstain from referring or directing the
+10 insured to obtain needed repairs or services in connection with a loss
+11 from any person:
+12 (a) With whom the public adjuster has a direct or indirect financial
+13 interest; or
+14 (b) From whom the public adjuster may receive direct or indirect
+15 compensation or other consideration for the referral.
+16 (7) A public adjuster shall not undertake the adjustment of any
+17 claim if such public adjuster is not competent and knowledgeable as to
+18 the terms and conditions of the insurance coverage or if the loss or
+19 coverage otherwise exceeds the current expertise of the public adjuster.
+20 (8) A public adjuster shall not knowingly make any false oral or
+21 written material statements regarding any person engaged in the business
+22 of insurance to any insured client or potential insured client.
+23 (9) A public adjuster, while so licensed pursuant to the Public
+24 Adjusters Licensing Act, shall not represent or act as a company adjuster
+25 or independent adjuster in any circumstance.
+26 (10) A public adjuster shall not enter into a contract or accept a
+27 power of attorney that vests in such public adjuster the effective
+28 authority to choose the persons who shall perform repair work.
+29 (11) A public adjuster shall not agree to any loss settlement
+30 without the knowledge and consent of the insured.
+31 (12) A public adjuster shall not advertise or infer damage unless an
+-17-
+LB1137 LB1137
+2026 2026
+1 inspection of the property has been completed.
+2 (13) A public adjuster shall not offer to pay an insured's
+3 deductible, or claim the insured's deductible will be waived, as an
+4 inducement to using the services of a public adjuster.
+5 Sec. 10. Original sections 28-631, 44-6604, 44-8602, 44-8603,
+6 44-8604, 44-8605, 44-9204, 44-9214, and 44-9217, Reissue Revised Statutes
+7 of Nebraska, are repealed.
+-18-
+[DELETED: yBA B F A A r t i t a s 24 4 4 4 4 4 4 a4a p r t f i a t rt a c p r t r cn o c p a a p aot c p r t l c pa a f u t P A L A t0h1B7L62]
+[DELETED: Sa2t(t b p o p w k o b t i w bpab0t1c2(3o m a s t i i t b p t o b a4i o p i c w o i s o a c f5p o o b f a i o p t a i6p k t t s c a f i o7m i c a f o t m t t8c9(0d1s2o3( K a w t a c a o4i5( R m f t p o p i a6c7( W e a p m o8c9o0(1c i p c o i i7L62]
+[DELETED: i(oi(ef( K a w t i t d o d pf0n l o c o e f t p o1l o r t p o c f w2c3( K a w i t d o d r4c5p e i t b o i o a t r6c a d o d a o r o a i o7p8(9d m p o i v o s ( o0s1(2m3b4( V s ( ( ( o ( o s546( A v o s ( t ( o t7s8d9(0i a C I f w t a i i o t f1h7L62]
+[DELETED: (io(i a C I m w t a i i l t fh(o(0o1(2m3(4o p e o i m b a i t i o5i6a7( I a p u t s i t a a8a p t s ( o t s t a9i0m1(2u3(4( I m a p o e t i a5d i s 4 w o w a c o a6i b t D o I I a m h7m8l h s o d a o s h9s0p t t I R M A a t1C7L62]
+[DELETED: wi( S i b i n l t a nsa e o p d b f s dpegS 2 S 4 R R S o N i0a142c3(4t b p o p w k o b t i w b5p6a7b8t9c0(1o m a s t i i t b p t o b a2i o p i c w o i s o a c f3p o o b f a i o p t a i4p k t t s c a f i o5m i c a f o t m t t6c7(8d9s0o1( K a w t a c a o7L62]
+[DELETED: i( R m f t p o p i ac( W e a p m oco( K a w i t d o d i op f o c i p c oi0(1e2f3( K a w i t d o d r4c5p e i t b o i o a t r6c a d o d a o r o a i o7p8( K a w t i t d o d p9f0n l o c o e f t p o1l o r t p o c f w2c3(4d m p o i v o s ( o5s6(7m8(9h m t r o l u t P A0L1( K c b f w a l i r7L62]
+[DELETED: u(s( K p c t b p o p wki a i p o a p f c icao0r1S 3 S 4 R R S o N i2a344(5h6o7p8( ( R c m a p i t b o9c o o t c w a o o p o0r1( P R o r a r s o p a o2e r r c o r w o3r4( P i o e c s o r5r6( A f m o p t w r t i7s8(9p0( ( R r e m a n o e b1i7L62]
+[DELETED: b( ( R s m a i r c rsS 4 S 4 R R S o N ia4rp o a p a c i p m c tc0a t p h ( e i t w c o (1r2c o c i n a c l u t i p3C4t c t t r c a t a o t5r c p o b a s i t c6W7s a d c o t w n o c t t8r c a t a o t r c9p0s1a2n a c l u t i p N o c3g4p p i p a t t r c5N6p7t b i a p f N a i s i t n8i9n0(1s7L62]
+[DELETED: (s' M C T C A A T B M O TF B D A Y H S T C O Y HRTTWN0( F e i a f c f i d1c ' O C w s b a t t2c3o4'5I Y A N B Y I T A O A P O T6C7M8O T C N O A O W N T ( O9C0P T M O T F B D A Y R S1N2I3(4(5( ( W t d a a c t p g o6s t b p f t p o a p a c7i p h b c b n p t t8s9t c a p p p o d m b t0p1r7L62]
+[DELETED: stvgishS 5 S 4 R R S o N ia041p2o3i4t b c o p a i o a p d o i5a w t r r e a f o c6e7(8a9a0a a t t e o i p a f A p1a i a p p a i v a a c2a o w i e i i v o t3s4( A r c s n r o n o5o6p o r r e o a i c T7s8A9S 6 S 4 R R S o N i0a14  ( A p a o r o b t 7L62]
+[DELETED: r c u a p a c i pi( T a m a a r c t bn a a c f t p o b u a p ac( T a s b p t t i o tr( T a s i a s t t rc h m n a t t c l w b f0c1i2Y A A T A C R Y H U Y3I4E T P A R O R T Y T I5H6T7T8P9( T a s n i t i o a m0l1p2( T a s n p o i a i f3c w t n i o m l o t4d5t6( T D o I s s e t7p o s ( o s 4 w r8i9o t b f t d o a c o a o o a c0s1S 7 S 4 R R S o N i7L62]
+[DELETED: a4p i a p a i t s o s o n cp( A p a s n m t a i ts p a i a a r a i i aci0o b o t i f t s c o p A p1a2t3(4e i a a f t r o r o d5p6c7(8p9(0t1(2o3( A p e o f t p o o f4s a l o f t a t a l5p a i b n l t a p6e7(8h9o0(1S 8 S 4 R R S o N i7L62]
+[DELETED: a4 ( P a s e t a c ft(a((((0p1(2(3(4( D c w s b t p a a d t5c6(7b8(9t0a1( T c m s t t p a s b2n3( I t c i b o a s o t i4s5( I e t b r t t p a f6t p o t c p s b s b t a t7d e s b s f i t c A a8e9(0b1(7L62]
+[DELETED: owt(t(i(s0o t t s o a c a e i b t p1a u t c i p o t i r a w2c3( A p a c m n c a c t4t5(6w7a t c t e f f t f c i b a8i9(0o1(2(3(4p t i w a s d d r t5c6( P i p o t i t p 7c8(9c0(1o7L62]
+[DELETED: b(o a c b b a i t r t i o tia(f a i H o s w f t i t a i tpa p a b s a c a t p a f o0c b o a p o t s o o m o1c2(3t4r5(6t i a t i t c a a t7i8i9(0i1(2t3( T c s b e i d t p a4o5i6a7( T p a s p t i a n8l w h b s b t i a t p9a0o1l7L62]
+[DELETED: (i(b d a t d t c w s T rsa( I t i e t r t r t ca o v g b t i u t c w br0p1(2w3S 9 S 4 R R S o N i4a54 ( A p a s s w o a6c7r8t k u a o o s p a w9b0( A p a o a r c a d i1s 4 s n s n a t s a i2d t p o a l o a d i t3i i c o d a f e w t f4d o r o t f d a p o5s6( A p a s n p a u e o7r o t p a t c b f w 8l9(0i i a a o t c o t t s f1c o o c e i t w c7L62]
+[DELETED: wn l t o o e b o o crp(p s t t c w t i u t pat(0i1f2(3i4( F w t p a m r d o i5c6( A p a s n u t a o a7c8t t a c o t i c o i t l o9c0( A p a s n k m a f o o1w2o3( A p a w s l p t t P4A5o6(7p o a t v i s p a t e8a9( A p a s n a t a l s0w1(7L62]
+[DELETED: i( A p a s n o t p a id o c t i d w b w a aiS 1  O s 2 4 4 44o7L62]
+
+
+================================================================================
+
+Raw Text:
+LB1137 LB1137
+2026 2026
+LEGISLATURE OF NEBRASKA
+ONE HUNDRED NINTH LEGISLATURE
+SECOND SESSION
+LEGISLATIVE BILL 1137
+Introduced by Ballard, 21; Hallstrom, 1; Jacobson, 42.
+Read first time January 20, 2026
+Committee: Banking, Commerce and Insurance
+1 A BILL FOR AN ACT relating to insurance; to amend sections 28-631,
+2 44-6604, 44-8602, 44-8603, 44-8604, 44-8605, 44-9204, 44-9214, and
+3 44-9217, Reissue Revised Statutes of Nebraska; to change provisions
+4 and penalties relating to fraudulent insurance acts; to redefine
+5 terms, and change provisions relating to residential contracts,
+6 notice of cancellations, prohibited acts, and post-loss assignment
+7 of rights or benefits under the Insured Homeowners Protection Act;
+8 to change provisions relating to licenses, contracts, prohibited
+9 acts, and fees under the Public Adjusters Licensing Act; to
+10 harmonize provisions; and to repeal the original sections.
+11 Be it enacted by the people of the State of Nebraska,
+-1-
+
+LB1137 LB1137
+2026 2026
+1 Section 1. Section 28-631, Reissue Revised Statutes of Nebraska, is
+2 amended to read:
+3 28-631 (1) A person or entity commits a fraudulent insurance act if
+4 the person or entity he or she:
+5 (a) Knowingly and with intent to defraud or deceive presents, causes
+6 to be presented, or prepares with knowledge or belief that it will be
+7 presented to or by an insurer, or any agent of an insurer, any statement
+8 as part of, in support of, or in denial of a claim for payment or other
+9 benefit from an insurer or pursuant to an insurance policy knowing that
+10 the statement contains any false, incomplete, or misleading information
+11 concerning any fact or thing material to a claim;
+12 (b) Assists, abets, solicits, or conspires with another to prepare
+13 or make any statement that is intended to be presented to or by an
+14 insurer or person in connection with or in support of any claim for
+15 payment or other benefit from an insurer or pursuant to an insurance
+16 policy knowing that the statement contains any false, incomplete, or
+17 misleading information concerning any fact or thing material to the
+18 claim;
+19 (c) Makes any false or fraudulent representations as to the death or
+20 disability of a policy or certificate holder or a covered person in any
+21 statement or certificate for the purpose of fraudulently obtaining money
+22 or benefit from an insurer;
+23 (d) Knowingly and willfully transacts any contract, agreement, or
+24 instrument which violates this section;
+25 (e) Receives money for the purpose of purchasing insurance and
+26 converts the money to the person's own benefit;
+27 (f) Willfully embezzles, abstracts, purloins, misappropriates, or
+28 converts money, funds, premiums, credits, or other property of an insurer
+29 or person engaged in the business of insurance;
+30 (g) Knowingly and with intent to defraud or deceive issues fake or
+31 counterfeit insurance policies, certificates of insurance, insurance
+-2-
+
+LB1137 LB1137
+2026 2026
+1 identification cards, or insurance binders;
+2 (h) Knowingly and with intent to defraud or deceive possesses fake
+3 or counterfeit insurance policies, certificates of insurance, insurance
+4 identification cards, or insurance binders;
+5 (i) Knowingly and with intent to defraud or deceive makes any false
+6 entry of a material fact in or pertaining to any document or statement
+7 filed with or required by the Department of Insurance;
+8 (j) Knowingly and with the intent to defraud or deceive provides
+9 false, incomplete, or misleading information to an insurer concerning the
+10 number, location, or classification of employees for the purpose of
+11 lessening or reducing the premium otherwise chargeable for workers'
+12 compensation insurance coverage;
+13 (k) Knowingly and with intent to defraud or deceive removes,
+14 conceals, alters, diverts, or destroys assets or records of an insurer or
+15 person engaged in the business of insurance or attempts to remove,
+16 conceal, alter, divert, or destroy assets or records of an insurer or
+17 person engaged in the business of insurance;
+18 (l) Willfully operates as or aids and abets another operating as a
+19 discount medical plan organization in violation of subsection (1) of
+20 section 44-8306; or
+21 (m) Willfully collects fees for purported membership in a discount
+22 medical plan organization but purposefully fails to provide the promised
+23 benefits; or .
+24 (n) Violates subdivision (13), (14), (15), or (16) of section
+25 44-6604;
+26 (2)(a) A violation of subdivisions (1)(a) through (f) of this
+27 section is a Class III felony when the amount involved is five thousand
+28 dollars or more.
+29 (b) A violation of subdivisions (1)(a) through (f) of this section
+30 is a Class IV felony when the amount involved is one thousand five
+31 hundred dollars or more but less than five thousand dollars.
+-3-
+
+LB1137 LB1137
+2026 2026
+1 (c) A violation of subdivisions (1)(a) through (f) of this section
+2 is a Class I misdemeanor when the amount involved is five hundred dollars
+3 or more but less than one thousand five hundred dollars.
+4 (d) A violation of subdivisions (1)(a) through (f) of this section
+5 is a Class II misdemeanor when the amount involved is less than five
+6 hundred dollars.
+7 (e) For any second or subsequent conviction under subdivision (2)(c)
+8 of this section, the violation is a Class IV felony.
+9 (f) A violation of subdivisions (1)(g), (i), (j), (k), (l), and (m)
+10 of this section is a Class IV felony.
+11 (g) A violation of subdivision (1)(h) of this section is a Class I
+12 misdemeanor.
+13 (3) Amounts taken pursuant to one scheme or course of conduct from
+14 one person, entity, or insurer may be aggregated in the indictment or
+15 information in determining the classification of the offense, except that
+16 amounts may not be aggregated into more than one offense.
+17 (4) In any prosecution under this section, if the amounts are
+18 aggregated pursuant to subsection (3) of this section, the amount
+19 involved in the offense shall be an essential element of the offense that
+20 must be proved beyond a reasonable doubt.
+21 (5) A prosecution under this section shall be in lieu of an action
+22 under section 44-6607.
+23 (6) For purposes of this section:
+24 (a) Insurer means any person or entity transacting insurance as
+25 defined in section 44-102 with or without a certificate of authority
+26 issued by the Director of Insurance. Insurer also means health
+27 maintenance organizations, legal service insurance corporations, prepaid
+28 limited health service organizations, dental and other similar health
+29 service plans, discount medical plan organizations, and entities licensed
+30 pursuant to the Intergovernmental Risk Management Act and the
+31 Comprehensive Health Insurance Pool Act. Insurer also means an employer
+-4-
+
+LB1137 LB1137
+2026 2026
+1 who is approved by the Nebraska Workers' Compensation Court as a self-
+2 insurer; and
+3 (b) Statement includes, but is not limited to, any notice,
+4 statement, proof of loss, bill of lading, receipt for payment, invoice,
+5 account, estimate of property damages, bill for services, diagnosis,
+6 prescription, hospital or medical records, X-rays, test result, or other
+7 evidence of loss, injury, or expense, whether oral, written, or computer-
+8 generated.
+9 Sec. 2. Section 44-6604, Reissue Revised Statutes of Nebraska, is
+10 amended to read:
+11 44-6604 For purposes of the Insurance Fraud Act, a person or entity
+12 commits a fraudulent insurance act if the person or entity he or she:
+13 (1) Knowingly and with intent to defraud or deceive presents, causes
+14 to be presented, or prepares with knowledge or belief that it will be
+15 presented to or by an insurer, or any agent of an insurer, any statement
+16 as part of, in support of, or in denial of a claim for payment or other
+17 benefit from an insurer or pursuant to an insurance policy knowing that
+18 the statement contains any false, incomplete, or misleading information
+19 concerning any fact or thing material to a claim;
+20 (2) Assists, abets, solicits, or conspires with another to prepare
+21 or make any statement that is intended to be presented to or by an
+22 insurer or person in connection with or in support of any claim for
+23 payment or other benefit from an insurer or pursuant to an insurance
+24 policy knowing that the statement contains any false, incomplete, or
+25 misleading information concerning any fact or thing material to the
+26 claim;
+27 (3) Makes any false or fraudulent representations as to the death or
+28 disability of a policy or certificate holder or a covered person in any
+29 statement or certificate for the purpose of fraudulently obtaining money
+30 or benefit from an insurer;
+31 (4) Knowingly and willfully transacts any contract, agreement, or
+-5-
+
+LB1137 LB1137
+2026 2026
+1 instrument which violates this section;
+2 (5) Receives money for the purpose of purchasing insurance and
+3 converts the money to the person's own benefit;
+4 (6) Willfully embezzles, abstracts, purloins, misappropriates, or
+5 converts money, funds, premiums, credits, or other property of an insurer
+6 or person engaged in the business of insurance;
+7 (7) Knowingly and with intent to defraud or deceive issues or
+8 possesses fake or counterfeit insurance policies, certificates of
+9 insurance, insurance identification cards, or insurance binders;
+10 (8) Knowingly and with intent to defraud or deceive makes any false
+11 entry of a material fact in or pertaining to any document or statement
+12 filed with or required by the department;
+13 (9) Knowingly and with intent to defraud or deceive removes,
+14 conceals, alters, diverts, or destroys assets or records of an insurer or
+15 person engaged in the business of insurance or attempts to remove,
+16 conceal, alter, divert, or destroy assets or records of an insurer or
+17 person engaged in the business of insurance;
+18 (10) Knowingly and with the intent to defraud or deceive provides
+19 false, incomplete, or misleading information to an insurer concerning the
+20 number, location, or classification of employees for the purpose of
+21 lessening or reducing the premium otherwise chargeable for workers'
+22 compensation insurance coverage;
+23 (11) Willfully operates as or aids and abets another operating as a
+24 discount medical plan organization in violation of subsection (1) of
+25 section 44-8306; or
+26 (12) Willfully collects fees for purported membership in a discount
+27 medical plan but purposefully fails to provide the promised benefits; .
+28 (13) Knowingly represents themselves to be a public adjuster without
+29 having met the requirements of licensure under the Public Adjusters
+30 Licensing Act;
+31 (14) Knowingly conducts business for which a license is required
+-6-
+
+LB1137 LB1137
+2026 2026
+1 under the Public Adjuster Licensing Act without a license;
+2 (15) Willfully provides a rebate in violation of subsection (1) of
+3 section 44-8604 or violates subsection (13) of section 44-9217; or
+4 (16) Knowingly presents, causes to be presented, or prepares with
+5 knowledge or belief that it will be presented, to or by an insured, an
+6 insurer, an insurance producer, or a premium finance company in
+7 connection with an insurance transaction or premium finance transaction,
+8 a statement, an estimate, an invoice, a bid, a proposal, a proof of loss,
+9 or any other document that misrepresents the scope of damages or costs of
+10 repairs associated with a property insurance claim.
+11 Sec. 3. Section 44-8602, Reissue Revised Statutes of Nebraska, is
+12 amended to read:
+13 44-8602 For purposes of the Insured Homeowners Protection Act:
+14 (1) Post-loss assignment means any contract or agreement whereby a
+15 homeowner, after property damage, transfers, sells, or assigns any or all
+16 of their insurance claim rights under a property and casualty insurance
+17 policy, including, but not limited to, payment and negotiations;
+18 (2) (1) Residential contractor means a person in the business of
+19 contracting or offering to contract with an owner or possessor of
+20 residential real estate to:
+21 (a) Perform Repair or replace a roof system or perform any other
+22 exterior repair, replacement, construction, or reconstruction work on
+23 residential real estate;
+24 (b) Perform interior or exterior cleanup services on residential
+25 real estate; or
+26 (c) Arrange for, manage, or process the work referred to in
+27 subdivision (1)(a) or (b) of this section; or
+28 (d) Serve as a representative, agent, or assignee of the owner or
+29 possessor of residential real estate;
+30 (3) (2) Residential real estate means a new or existing building,
+31 including a detached garage, constructed for habitation by at least one
+-7-
+
+LB1137 LB1137
+2026 2026
+1 but no more than four families; and
+2 (4) (3) Roof system means and includes roof coverings, roof
+3 sheathing, roof weatherproofing, and insulation.
+4 Sec. 4. Section 44-8603, Reissue Revised Statutes of Nebraska, is
+5 amended to read:
+6 44-8603 (1) A person who has entered into a written contract with a
+7 residential contractor to provide goods or services to be paid from the
+8 proceeds of a property and casualty insurance policy may cancel the
+9 contract prior to midnight on the later of the fifth third business day
+10 after the person has (a) entered into the written contract or (b)
+11 received written notice from the person's insurer that all or part of the
+12 claim or contract is not a covered loss under the insurance policy.
+13 Cancellation shall be evidenced by the person giving written notice of
+14 the cancellation to the residential contractor at the address of the
+15 residential contractor's place of business as stated in the contract.
+16 Written notice of cancellation may be given by delivering or mailing a
+17 signed and dated copy of the written notice of cancellation to the
+18 residential contractor at the address of the residential contractor's
+19 place of business as stated in the contract. The notice of cancellation
+20 shall include a copy of the written notice from the person's insurer, if
+21 applicable, to the effect that all or part of the claim or contract is
+22 not a covered loss under the insurance policy. Notice of cancellation
+23 given by mail shall be effective upon deposit in the United States mail,
+24 postage prepaid, if properly addressed to the residential contractor.
+25 Notice of cancellation may be provided on the form given to the insurer
+26 pursuant to subsection (2) of this section or in another is not required
+27 to be in any particular form. Notice and is sufficient if the notice
+28 indicates, by any form of written expression, the intent of the insured
+29 not to be bound by the contract.
+30 (2) Before entering a contract as provided in subsection (1) of this
+31 section, the residential contractor shall:
+-8-
+
+LB1137 LB1137
+2026 2026
+1 (a) Furnish the insured a statement in boldface type of a minimum
+2 size of ten points, in substantially the following form:
+3 'YOU MAY CANCEL THIS CONTRACT AT ANY TIME BEFORE MIDNIGHT ON THE
+4 FIFTH BUSINESS DAY AFTER YOU HAVE SIGNED THIS CONTRACT OR YOU HAVE
+5 RECEIVED WRITTEN NOTIFICATION FROM YOUR INSURER THAT ALL OR ANY PART OF
+6 THE CLAIM OR CONTRACT IS NOT A COVERED LOSS UNDER THE INSURANCE POLICY.
+7 THIS RIGHT TO CANCEL IS IN ADDITION TO ANY OTHER RIGHTS OF CANCELLATION
+8 WHICH MAY BE FOUND IN STATE OR FEDERAL LAW OR REGULATION. SEE ATTACHED
+9 NOTICE OF CANCELLATION FORM FOR AN EXPLANATION OF THIS RIGHT'; and
+10 (b) Furnish each insured a fully completed form in duplicate,
+11 captioned 'NOTICE OF CANCELLATION,' which shall be attached to the
+12 contract but easily detachable, and which shall contain in boldface type
+13 of a minimum size of ten points, the following statement:
+14 'NOTICE OF CANCELLATION'
+15 IF YOU ARE NOTIFIED BY YOUR INSURER THAT ALL OR ANY PART OF THE
+16 CLAIM OR CONTRACT IS NOT A COVERED LOSS UNDER THE INSURANCE POLICY, YOU
+17 MAY CANCEL THE CONTRACT BY MAILING OR DELIVERING A SIGNED AND DATED COPY
+18 OF THIS CANCELLATION NOTICE OR ANY OTHER WRITTEN NOTICE TO (NAME OF
+19 CONTRACTOR) AT (ADDRESS OF CONTRACTOR'S PLACE OF BUSINESS) AT ANY TIME
+20 PRIOR TO MIDNIGHT ON THE FIFTH BUSINESS DAY AFTER YOU RECEIVED SUCH
+21 NOTICE FROM YOUR INSURER.
+22 I HEREBY CANCEL THIS TRANSACTION
+23 (DATE)
+24 (INSURED'S SIGNATURE).
+25 (3) (2) Within ten days after a contract to provide goods or
+26 services to be paid from the proceeds of a property and casualty
+27 insurance policy has been canceled by notification pursuant to this
+28 section, the residential contractor shall tender to the person canceling
+29 the contract any payments, partial payments, or deposits made by the
+30 person and any note or other evidence of indebtedness, except that if the
+31 residential contractor has provided any goods or services agreed to by
+-9-
+
+LB1137 LB1137
+2026 2026
+1 such person in writing to be necessary to prevent damage to the premises,
+2 the residential contractor shall be entitled to be paid the reasonable
+3 value of such goods or services. Any provision in a contract to provide
+4 goods or services to be paid from the proceeds of a property and casualty
+5 insurance policy that requires the payment of any fee which is not for
+6 such goods or services shall not be enforceable against any person who
+7 has canceled a contract pursuant to this section.
+8 Sec. 5. Section 44-8604, Reissue Revised Statutes of Nebraska, is
+9 amended to read:
+10 44-8604 (1) A residential contractor shall not promise to rebate any
+11 portion of an insurance deductible as an inducement to the sale of goods
+12 or services. A promise to rebate any portion of an insurance deductible
+13 includes granting any allowance or offering any discount against the fees
+14 to be charged or paying an insured or a person directly or indirectly
+15 associated with the residential real estate any form of compensation,
+16 except for any item of nominal value.
+17 (2) Neither a residential contractor nor a person acting as a public
+18 adjuster under the Public Adjuster Licensing Act, shall solicit or accept
+19 a post-loss assignment, except that a licensed public adjuster may accept
+20 an assignment to the extent of its public adjuster fee. A post-loss
+21 assignment is against public policy and is void and any contract,
+22 agreement, or written instrument entered into in violation of this
+23 subsection shall be void and unenforceable.
+24 (3) A residential contractor shall not represent or negotiate, or
+25 offer or advertise to represent or negotiate, on behalf of an owner or
+26 possessor of residential real estate on any insurance claim. This
+27 subsection shall not apply to a public adjuster licensed under the Public
+28 Adjuster Licensing Act.
+29 Sec. 6. Section 44-8605, Reissue Revised Statutes of Nebraska, is
+30 amended to read:
+31 44-8605 (1) A post-loss assignment of rights or benefits to a
+-10-
+
+LB1137 LB1137
+2026 2026
+1 residential contractor under a property and casualty insurance policy
+2 insuring residential real estate shall comply with the following:
+3 (a) The assignment may authorize a residential contractor to be
+4 named as a copayee for the payment of benefits under a property and
+5 casualty insurance policy covering residential real estate;
+6 (b) The assignment shall be provided to the insurer of the
+7 residential real estate within five business days after execution;
+8 (c) The assignment shall include a statement that the residential
+9 contractor has made no assurances that the claimed loss will be fully
+10 covered by an insurance contract and shall include the following notice
+11 in capitalized fourteen-point type:
+12 YOU ARE AGREEING TO ASSIGN CERTAIN RIGHTS YOU HAVE UNDER YOUR
+13 INSURANCE POLICY. WITH AN ASSIGNMENT, THE RESIDENTIAL CONTRACTOR SHALL BE
+14 ENTITLED TO PURSUE ANY RIGHTS OR REMEDIES THAT YOU, THE INSURED
+15 HOMEOWNER, HAVE UNDER YOUR INSURANCE POLICY. PLEASE READ AND UNDERSTAND
+16 THIS DOCUMENT BEFORE SIGNING.
+17 THE INSURER MAY ONLY PAY FOR THE COST TO REPAIR OR REPLACE DAMAGED
+18 PROPERTY CAUSED BY A COVERED PERIL, SUBJECT TO THE TERMS OF THE POLICY.
+19 (d) The assignment shall not impair the interest of a mortgagee
+20 listed on the declarations page of the property and casualty insurance
+21 policy which is the subject of the assignment; and
+22 (e) The assignment shall not prevent or inhibit an insurer from
+23 communicating with the named insured or mortgagee listed on the
+24 declarations page of the property and casualty insurance policy that is
+25 the subject of the assignment.
+26 (2) The Department of Insurance shall strictly enforce the
+27 provisions of subdivision (13) of section 44-1540, which requires
+28 insurers to provide a named insured a reasonable and accurate explanation
+29 of the basis for the denial of a claim or an offer of a compromise
+30 settlement.
+31 Sec. 7. Section 44-9204, Reissue Revised Statutes of Nebraska, is
+-11-
+
+LB1137 LB1137
+2026 2026
+1 amended to read:
+2 44-9204 (1) A person shall not act operate as or represent that such
+3 person is a public adjuster in this state or solicit or negotiate a
+4 contract to act as a public adjuster unless such person is licensed as a
+5 public adjuster in accordance with the Public Adjusters Licensing Act.
+6 (2) A public adjuster shall not misrepresent to any insured that
+7 such public adjuster is an adjuster representing an insurer in any
+8 capacity, including acting as an employee of the insurer or acting as an
+9 independent adjuster unless so appointed by an insurer in writing to act
+10 on behalf of the insurer for that specific claim or purpose. A public
+11 adjuster is prohibited from charging any insured a fee when appointed by
+12 the insurer and the appointment is accepted by the public adjuster.
+13 (3) A public adjuster shall not, directly or indirectly, solicit, or
+14 enter into, an agreement for the repair or replacement of damaged
+15 property on which such public adjuster has engaged to adjust or settle
+16 claims for losses or damages of the insured.
+17 (4) Notwithstanding subsection (1) of this section, licensing as a
+18 public adjuster shall not be required for:
+19 (a) An attorney admitted to practice in this state, when acting in
+20 the attorney’s professional capacity as an attorney;
+21 (b) A person who negotiates or settles claims arising under a life
+22 or health insurance policy or an annuity contract;
+23 (c) A person employed only for the purpose of obtaining facts
+24 surrounding a loss or furnishing technical assistance to a licensed
+25 public adjuster, including, but not limited to, a photographer,
+26 estimator, private investigator, engineer, or handwriting expert;
+27 (d) A licensed health care provider, or an employee of a licensed
+28 health care provider, who prepares or files a health claim form on behalf
+29 of a patient; or
+30 (e) A person who settles subrogation claims between insurers.
+31 Sec. 8. Section 44-9214, Reissue Revised Statutes of Nebraska, is
+-12-
+
+LB1137 LB1137
+2026 2026
+1 amended to read:
+2 44-9214 (1) Public adjusters shall ensure that all contracts for
+3 their services are in writing and contain the following terms:
+4 (a) Legible full name of the public adjuster signing the contract,
+5 as specified in director records;
+6 (b) Home state, business address, and telephone number;
+7 (c) Public adjuster license number;
+8 (d) Title of "Public Adjuster Contract";
+9 (e) Insured’s full name, street address, insurer name, and insurance
+10 policy number, if known or upon notification;
+11 (f) Description of the loss and its location, if applicable;
+12 (g) Description of services to be provided to the insured;
+13 (h) Signatures of the public adjuster and the insured;
+14 (i) Date contract was signed by the public adjuster and date the
+15 contract was signed by the insured;
+16 (j) Attestation language stating that the public adjuster is fully
+17 bonded pursuant to state law; and
+18 (k) The specific amount of compensation, including, but not limited
+19 to, the full salary, fee, commission, or other consideration the public
+20 adjuster is to receive for services.
+21 (2)(a) The contract may specify that the public adjuster shall be
+22 named as a co-payee on an insurer’s payment of a claim.
+23 (b) If the compensation is based on a share of the insurance
+24 settlement, the exact percentage shall be specified.
+25 (c) Initial expenses to be reimbursed to the public adjuster from
+26 the proceeds of the claim payment shall be specified by type and the
+27 dollar estimates shall be set forth in the contract. Any additional
+28 expenses shall be approved in writing by the insured.
+29 (d) Compensation provisions in a public adjuster contract shall not
+30 be redacted in any copy of the contract provided to the director.
+31 (3) If the insurer, not later than seventy-two hours after the date
+-13-
+
+LB1137 LB1137
+2026 2026
+1 on which the loss is reported to the insurer, either pays or commits in
+2 writing to pay to the insured the policy limit of the insurance policy,
+3 the public adjuster shall:
+4 (a) Not receive a commission that consists of a percentage of the
+5 total amount paid by an insurer to resolve a claim;
+6 (b) Inform the insured that the loss recovery amount might not be
+7 increased by the insurer; and
+8 (c) Be entitled only to reasonable compensation from the insured for
+9 services provided by the public adjuster on behalf of the insured, based
+10 on the time spent on a claim and expenses incurred by the public
+11 adjuster, until the claim is paid or the insured receives a written
+12 commitment to pay from the insurer.
+13 (4) A public adjuster contract may not contain any contract term
+14 that:
+15 (a) Allows a percentage fee to be collected by the public adjuster
+16 when money is due from an insurer, but not paid, or that allows a public
+17 adjuster to collect the entire fee from the first check issued by an
+18 insurer, rather than as a percentage of each check issued by an insurer;
+19 (b) Requires the insured to authorize an insurer to issue a check
+20 only in the name of the public adjuster;
+21 (c) Imposes collection costs or late fees; or
+22 (d) Precludes a public adjuster from pursuing civil remedies.
+23 (5) Prior to the signing of the contract the public adjuster shall
+24 provide the insured with a separate disclosure document regarding the
+25 claim process that states:
+26 (a) Property insurance policies obligate the insured to present a
+27 claim to his or her insurer for consideration;
+28 (b) There are three types of adjusters that could be involved in the
+29 claim process. The definitions of the three types are as follows:
+30 (i) Company adjuster means an insurance adjuster who is an employee
+31 of an insurer. He or she represents the interest of the insurer, is paid
+-14-
+
+LB1137 LB1137
+2026 2026
+1 by the insurer, and will not charge the insured a fee;
+2 (ii) Independent adjuster means an insurance adjuster who is hired
+3 on a contract basis by an insurer to represent the interest of the
+4 insurer in the settlement of the claim. He or she is paid by the insurer
+5 and will not charge the insured a fee; and
+6 (iii) Public adjuster means an insurance adjuster who does not work
+7 for any insurer. He or she works for the insured to assist in the
+8 preparation, presentation, and settlement of the claim. The insured hires
+9 a public adjuster by signing a contract agreeing to pay a fee or
+10 commission based on a percentage of the settlement or other method of
+11 compensation;
+12 (c) The insured is not required to hire a public adjuster to help
+13 the insured meet the insured’s obligations under the policy, but has the
+14 right to do so;
+15 (d) The insured has the right to initiate direct communications with
+16 the insured’s attorney, the insurer, the company adjuster, and the
+17 insurer’s attorney, or any other person regarding the settlement of the
+18 insured’s claim;
+19 (e) The public adjuster is not a representative or employee of the
+20 insurer; and
+21 (f) The salary, fee, commission, or other consideration to be paid
+22 to a public adjuster is the obligation of the insured, not the insurer.
+23 (6) The contract shall be executed in duplicate to provide an
+24 original contract to the public adjuster and an original contract to the
+25 insured. The original contract retained by the public adjuster shall be
+26 available at all times for inspection without notice by the department.
+27 (7) The public adjuster shall provide the insurer a notification
+28 letter, which has been signed by the insured, authorizing the public
+29 adjuster to represent the insured’s interest. The insurer, upon receipt
+30 of a notification letter, shall verify the public adjuster holds a valid
+31 license with the department.
+-15-
+
+LB1137 LB1137
+2026 2026
+1 (8) The public adjuster shall give the insured written notice of the
+2 insured’s rights as provided in this section.
+3 (9) The insured has the right to rescind the contract within three
+4 business days after the date the contract was signed. The rescission
+5 shall be in writing and mailed or delivered to the public adjuster at the
+6 address in the contract within the three-business-day period.
+7 (10) If the insured exercises the right to rescind the contract,
+8 anything of value given by the insured under the contract will be
+9 returned to the insured within fifteen days following the receipt by the
+10 public adjuster of the rescission notice.
+11 (11) The director may require a public adjuster to file a contract
+12 with the department in a manner prescribed by the director.
+13 Sec. 9. Section 44-9217, Reissue Revised Statutes of Nebraska, is
+14 amended to read:
+15 44-9217 (1) A public adjuster shall serve with objectivity and
+16 complete loyalty to the interest of the insured and shall, in good faith,
+17 render to the insured such information, counsel, and service, as within
+18 the knowledge, understanding, and opinion of such public adjuster will
+19 best serve the insurance claim needs and interest of the insured.
+20 (2) A public adjuster or a residential contractor as defined in
+21 section 44-8602 shall not solicit, nor attempt to solicit, an insured
+22 during the progress of a loss-producing occurrence, as defined in the
+23 insured’s insurance contract, or during a fire event while the fire
+24 department or representatives of the fire department are physically on
+25 site at the damaged premises.
+26 (3) A public adjuster shall not permit an unlicensed employee or
+27 representative of the public adjuster to conduct business for which a
+28 license is required under the Public Adjusters Licensing Act.
+29 (4) A public adjuster shall not have a direct or indirect financial
+30 interest in any aspect of the claim, other than the salary, fee,
+31 commission, or other consideration established in the written contract
+-16-
+
+LB1137 LB1137
+2026 2026
+1 with the insured. Direct or indirect financial interest includes, but is
+2 not limited to, ownership of, employment by, or other consideration
+3 received from any business entity or individual that performs any work
+4 pertaining to damage related to the insured loss.
+5 (5) A public adjuster shall not acquire any interest in salvage of
+6 property subject to the contract with the insured unless the public
+7 adjuster obtains written permission from the insured after settlement of
+8 the claim with the insurer.
+9 (6) A public adjuster shall abstain from referring or directing the
+10 insured to obtain needed repairs or services in connection with a loss
+11 from any person:
+12 (a) With whom the public adjuster has a direct or indirect financial
+13 interest; or
+14 (b) From whom the public adjuster may receive direct or indirect
+15 compensation or other consideration for the referral.
+16 (7) A public adjuster shall not undertake the adjustment of any
+17 claim if such public adjuster is not competent and knowledgeable as to
+18 the terms and conditions of the insurance coverage or if the loss or
+19 coverage otherwise exceeds the current expertise of the public adjuster.
+20 (8) A public adjuster shall not knowingly make any false oral or
+21 written material statements regarding any person engaged in the business
+22 of insurance to any insured client or potential insured client.
+23 (9) A public adjuster, while so licensed pursuant to the Public
+24 Adjusters Licensing Act, shall not represent or act as a company adjuster
+25 or independent adjuster in any circumstance.
+26 (10) A public adjuster shall not enter into a contract or accept a
+27 power of attorney that vests in such public adjuster the effective
+28 authority to choose the persons who shall perform repair work.
+29 (11) A public adjuster shall not agree to any loss settlement
+30 without the knowledge and consent of the insured.
+31 (12) A public adjuster shall not advertise or infer damage unless an
+-17-
+
+LB1137 LB1137
+2026 2026
+1 inspection of the property has been completed.
+2 (13) A public adjuster shall not offer to pay an insured's
+3 deductible, or claim the insured's deductible will be waived, as an
+4 inducement to using the services of a public adjuster.
+5 Sec. 10. Original sections 28-631, 44-6604, 44-8602, 44-8603,
+6 44-8604, 44-8605, 44-9204, 44-9214, and 44-9217, Reissue Revised Statutes
+7 of Nebraska, are repealed.
+-18-
+
+[DELETED: yBA B F A A r t i t a s 24 4 4 4 4 4 4 a4a p r t f i a t rt a c p r t r cn o c p a a p aot c p r t l c pa a f u t P A L A t0h1B7L62]
+[DELETED: Sa2t(t b p o p w k o b t i w bpab0t1c2(3o m a s t i i t b p t o b a4i o p i c w o i s o a c f5p o o b f a i o p t a i6p k t t s c a f i o7m i c a f o t m t t8c9(0d1s2o3( K a w t a c a o4i5( R m f t p o p i a6c7( W e a p m o8c9o0(1c i p c o i i7L62]
+[DELETED: i(oi(ef( K a w t i t d o d pf0n l o c o e f t p o1l o r t p o c f w2c3( K a w i t d o d r4c5p e i t b o i o a t r6c a d o d a o r o a i o7p8(9d m p o i v o s ( o0s1(2m3b4( V s ( ( ( o ( o s546( A v o s ( t ( o t7s8d9(0i a C I f w t a i i o t f1h7L62]
+[DELETED: (io(i a C I m w t a i i l t fh(o(0o1(2m3(4o p e o i m b a i t i o5i6a7( I a p u t s i t a a8a p t s ( o t s t a9i0m1(2u3(4( I m a p o e t i a5d i s 4 w o w a c o a6i b t D o I I a m h7m8l h s o d a o s h9s0p t t I R M A a t1C7L62]
+[DELETED: wi( S i b i n l t a nsa e o p d b f s dpegS 2 S 4 R R S o N i0a142c3(4t b p o p w k o b t i w b5p6a7b8t9c0(1o m a s t i i t b p t o b a2i o p i c w o i s o a c f3p o o b f a i o p t a i4p k t t s c a f i o5m i c a f o t m t t6c7(8d9s0o1( K a w t a c a o7L62]
+[DELETED: i( R m f t p o p i ac( W e a p m oco( K a w i t d o d i op f o c i p c oi0(1e2f3( K a w i t d o d r4c5p e i t b o i o a t r6c a d o d a o r o a i o7p8( K a w t i t d o d p9f0n l o c o e f t p o1l o r t p o c f w2c3(4d m p o i v o s ( o5s6(7m8(9h m t r o l u t P A0L1( K c b f w a l i r7L62]
+[DELETED: u(s( K p c t b p o p wki a i p o a p f c icao0r1S 3 S 4 R R S o N i2a344(5h6o7p8( ( R c m a p i t b o9c o o t c w a o o p o0r1( P R o r a r s o p a o2e r r c o r w o3r4( P i o e c s o r5r6( A f m o p t w r t i7s8(9p0( ( R r e m a n o e b1i7L62]
+[DELETED: b( ( R s m a i r c rsS 4 S 4 R R S o N ia4rp o a p a c i p m c tc0a t p h ( e i t w c o (1r2c o c i n a c l u t i p3C4t c t t r c a t a o t5r c p o b a s i t c6W7s a d c o t w n o c t t8r c a t a o t r c9p0s1a2n a c l u t i p N o c3g4p p i p a t t r c5N6p7t b i a p f N a i s i t n8i9n0(1s7L62]
+[DELETED: (s' M C T C A A T B M O TF B D A Y H S T C O Y HRTTWN0( F e i a f c f i d1c ' O C w s b a t t2c3o4'5I Y A N B Y I T A O A P O T6C7M8O T C N O A O W N T ( O9C0P T M O T F B D A Y R S1N2I3(4(5( ( W t d a a c t p g o6s t b p f t p o a p a c7i p h b c b n p t t8s9t c a p p p o d m b t0p1r7L62]
+[DELETED: stvgishS 5 S 4 R R S o N ia041p2o3i4t b c o p a i o a p d o i5a w t r r e a f o c6e7(8a9a0a a t t e o i p a f A p1a i a p p a i v a a c2a o w i e i i v o t3s4( A r c s n r o n o5o6p o r r e o a i c T7s8A9S 6 S 4 R R S o N i0a14  ( A p a o r o b t 7L62]
+[DELETED: r c u a p a c i pi( T a m a a r c t bn a a c f t p o b u a p ac( T a s b p t t i o tr( T a s i a s t t rc h m n a t t c l w b f0c1i2Y A A T A C R Y H U Y3I4E T P A R O R T Y T I5H6T7T8P9( T a s n i t i o a m0l1p2( T a s n p o i a i f3c w t n i o m l o t4d5t6( T D o I s s e t7p o s ( o s 4 w r8i9o t b f t d o a c o a o o a c0s1S 7 S 4 R R S o N i7L62]
+[DELETED: a4p i a p a i t s o s o n cp( A p a s n m t a i ts p a i a a r a i i aci0o b o t i f t s c o p A p1a2t3(4e i a a f t r o r o d5p6c7(8p9(0t1(2o3( A p e o f t p o o f4s a l o f t a t a l5p a i b n l t a p6e7(8h9o0(1S 8 S 4 R R S o N i7L62]
+[DELETED: a4 ( P a s e t a c ft(a((((0p1(2(3(4( D c w s b t p a a d t5c6(7b8(9t0a1( T c m s t t p a s b2n3( I t c i b o a s o t i4s5( I e t b r t t p a f6t p o t c p s b s b t a t7d e s b s f i t c A a8e9(0b1(7L62]
+[DELETED: owt(t(i(s0o t t s o a c a e i b t p1a u t c i p o t i r a w2c3( A p a c m n c a c t4t5(6w7a t c t e f f t f c i b a8i9(0o1(2(3(4p t i w a s d d r t5c6( P i p o t i t p 7c8(9c0(1o7L62]
+[DELETED: b(o a c b b a i t r t i o tia(f a i H o s w f t i t a i tpa p a b s a c a t p a f o0c b o a p o t s o o m o1c2(3t4r5(6t i a t i t c a a t7i8i9(0i1(2t3( T c s b e i d t p a4o5i6a7( T p a s p t i a n8l w h b s b t i a t p9a0o1l7L62]
+[DELETED: (i(b d a t d t c w s T rsa( I t i e t r t r t ca o v g b t i u t c w br0p1(2w3S 9 S 4 R R S o N i4a54 ( A p a s s w o a6c7r8t k u a o o s p a w9b0( A p a o a r c a d i1s 4 s n s n a t s a i2d t p o a l o a d i t3i i c o d a f e w t f4d o r o t f d a p o5s6( A p a s n p a u e o7r o t p a t c b f w 8l9(0i i a a o t c o t t s f1c o o c e i t w c7L62]
+[DELETED: wn l t o o e b o o crp(p s t t c w t i u t pat(0i1f2(3i4( F w t p a m r d o i5c6( A p a s n u t a o a7c8t t a c o t i c o i t l o9c0( A p a s n k m a f o o1w2o3( A p a w s l p t t P4A5o6(7p o a t v i s p a t e8a9( A p a s n a t a l s0w1(7L62]
+[DELETED: i( A p a s n o t p a id o c t i d w b w a aiS 1  O s 2 4 4 44o7L62]

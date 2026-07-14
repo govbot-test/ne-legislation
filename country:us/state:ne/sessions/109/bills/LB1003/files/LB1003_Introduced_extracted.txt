@@ -1,0 +1,1417 @@
+Title: LEGISLATIVE BILL 1003
+Official Title: LEGISLATIVE BILL 1003
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 21 sections found
+
+================================================================================
+
+Section 1:
+LB1003 LB1003
+2026 2026
+LEGISLATURE OF NEBRASKA
+ONE HUNDRED NINTH LEGISLATURE
+SECOND SESSION
+Introduced by Meyer, G., 17.
+Read first time January 13, 2026
+Committee: Banking, Commerce and Insurance
+1 A BILL FOR AN ACT relating to consumer protection; to amend section
+2 87-302, Revised Statutes Supplement, 2025; to adopt the Renewable
+3 Energy Consumer Protection Act; to provide a deceptive trade
+4 practice; to provide an operative date; and to repeal the original
+5 section.
+6 Be it enacted by the people of the State of Nebraska,
+-1-
+LB1003 LB1003
+2026 2026
+1 Section 1. Sections 1 to 16 of this act shall be known and may be
+2 cited as the Renewable Energy Consumer Protection Act.
+3 Sec. 2. The Legislature finds and declares that:
+4 (1) Renewable energy systems for residential and small business
+5 applications are complex and can be confusing to consumers;
+6 (2) Electric utility rates can change over time and can affect the
+7 payoff period of the initial investment for a renewable energy system;
+8 (3) Renewable energy systems for residential and small business
+9 applications are major purchases which warrant consumer protection and
+10 oversight;
+11 (4) Standardized disclosures, contracting, sales materials,
+12 warranties, and enforcement requirements will better ensure that Nebraska
+13 consumers have the best information available before purchasing or
+14 investing in renewable energy systems; and
+15 (5) Consumers in Nebraska should be given clear and accurate
+16 information regarding the nature of a contract to lease or purchase a
+17 renewable energy system as well as information about rebates, warranties,
+18 and incentive programs.
+19 Sec. 3. For purposes of the Renewable Energy Consumer Protection
+20 Act:
+21 (1)(a) Agreement means an agreement between a renewable energy sales
+22 company and a retail electric consumer in the form of:
+23 (i) A contract for the purchase of a renewable energy system or
+24 battery energy storage system; or
+25 (ii) A lease for a third-party-owned renewable energy system or
+26 battery energy storage system.
+27 (b) Agreement includes a cash or financed purchase of a renewable
+28 energy system or battery energy storage system;
+29 (2) Battery energy storage system means a system or facility
+30 intended for residential or small business applications which:
+31 (a) Stores electricity for use at later time;
+-2-
+LB1003 LB1003
+2026 2026
+1 (b) Uses solar energy or wind energy to recharge;
+2 (c) Is located on the real property of a customer of an electric
+3 utility;
+4 (d) Is connected on the customer's side of the electricity meter;
+5 and
+6 (e) Provides electricity to offset customer load on the customer's
+7 real property;
+8 (3) Contact information means a physical address, phone number, and
+9 email address. A post office box shall not be considered a physical
+10 address;
+11 (4) Financing agreement means an agreement involving credit offered
+12 or extended to a consumer to acquire a renewable energy system or battery
+13 energy storage system;
+14 (5) Installation company means:
+15 (a) An entity, other than the consumer, that installs a renewable
+16 energy system or battery energy storage system on behalf of a consumer;
+17 or
+18 (b) A third party from whom a consumer leases such a system;
+19 (6) Lease means a contract in the form of a bailment or lease for
+20 the use of a renewable energy system or battery energy storage system by
+21 a consumer for a period exceeding four months and for a total contractual
+22 obligation not exceeding the applicable threshold amount, pursuant to
+23 applicable federal regulations, whether or not the lessee has the option
+24 to purchase or otherwise become the owner of the system upon the
+25 expiration of the lease;
+26 (7) Renewable energy sales company means an entity that engages:
+27 (a) In a transaction with a consumer to sell, negotiate, or execute
+28 a contract for the sale of a renewable energy system or battery energy
+29 storage system; or
+30 (b) With a consumer to lease a renewable energy system or battery
+31 energy storage system that is owned by a third party from whom the
+-3-
+LB1003 LB1003
+2026 2026
+1 consumer will lease such system;
+2 (8) Renewable energy system means a system or facility intended for
+3 residential or small business applications which uses solar or wind
+4 energy to generate electricity; and
+5 (9) Salesperson means an employee or independent contractor of a
+6 renewable energy sales company who solicits, sells, negotiates, or
+7 executes agreements for renewable energy systems or battery energy
+8 storage systems.
+9 Sec. 4. (1) At least thirty days before entering into an agreement
+10 with a consumer for a renewable energy system or battery energy storage
+11 system, a renewable energy sales company shall provide to the consumer a
+12 written disclosure form that is five pages or less in length and contains
+13 the following information, in a font no smaller than twelve points:
+14 (a) The name of the renewable energy sales company and contact
+15 information for the president or chief executive officer of the company;
+16 (b) The name of the installation company and contact information for
+17 the president or chief executive officer of the company;
+18 (c) The name of the system maintenance provider and contact
+19 information for the president or chief executive officer of the provider;
+20 (d) The payment schedule for up-front costs, including payments due
+21 at the signing date of the agreement and the commencement and completion
+22 dates of the installation;
+23 (e) System design assumptions, including system size, estimated
+24 first-year production, estimated annual system production degradation,
+25 presence of energy storage, energy storage capacity, and a description of
+26 the equipment needed to provide backup power;
+27 (f) An explanation of the maintenance, operation, and monitoring
+28 requirements of the renewable energy system or battery energy storage
+29 system, including an explanation of equipment and labor warranties and
+30 maintenance and repair costs for which the consumer shall be responsible;
+31 (g) Warranties for the repair of all components and parts of the
+-4-
+LB1003 LB1003
+2026 2026
+1 renewable energy system or battery energy storage system and warranties
+2 covering damages to all components and parts of such system, including a
+3 statement that solar panels installed on rooftops may only be authorized
+4 for removal by the renewable energy system sales company, that any
+5 unauthorized removal of a solar panel from a rooftop may void the
+6 warranty, and that any replacement or reinstallation of a solar panel on
+7 a rooftop shall require reinspection by a certified state or municipal
+8 electrical inspector;
+9 (h) Costs and liability for the installation and removal of the
+10 renewable energy system or battery energy storage system;
+11 (i) A description of performance or production guarantees;
+12 (j) Any potential environmental hazards which may affect the quality
+13 of the air, water, land, crops, human beings, livestock, or wildlife on
+14 the land associated with the renewable energy system or battery energy
+15 storage system and within a range of one mile from the perimeter of the
+16 system;
+17 (k) A description of the basis for any cost-savings estimates that
+18 were provided to the consumer. Such description shall include the
+19 applicable utility rates and energy delivery costs, any expected utility
+20 bill savings based upon the consumer's prior twelve months of utility
+21 bills, and the estimated system production at the time of contract
+22 signing;
+23 (l) The potential availability of renewable energy credits,
+24 including an explanation of what renewable energy credits are and how to
+25 find out more about them;
+26 (m) The operational capabilities of the renewable energy system or
+27 battery energy storage system during an electrical outage;
+28 (n) A statement indicating that the renewable energy sales company
+29 is not affiliated with a utility; and
+30 (o) An explanation of any real property access rights required by
+31 the renewable energy sales company or the local utility.
+-5-
+LB1003 LB1003
+2026 2026
+1 (2) At least thirty days before entering into an agreement with a
+2 consumer for a renewable energy system or battery energy storage system,
+3 a renewable energy sales company shall provide a consumer with the
+4 following written statements on separate forms in a font no smaller than
+5 twelve points:
+6 (a) Estimates of cost savings are based upon calculations from the
+7 previous twelve months of utility bills, or, if twelve months of utility
+8 bills are not available, a reasonable estimate of cost savings. The
+9 assumptions, such as the rates a utility charges for electricity, that
+10 are used to estimate the cost savings may change. There may be utility
+11 fees that cannot be offset with a renewable energy system or battery
+12 energy storage system, and, under certain circumstances, compensation for
+13 excess electricity sent back to the grid may be credited to your bill by
+14 the utility at rates below what you pay for electricity; and
+15 (b) The interconnection procedures for a renewable energy system or
+16 battery energy storage system are subject to the policies of the local
+17 utility. For information on the specific interconnection policies and
+18 procedures for a renewable energy system or battery energy storage
+19 system, the consumer should contact the local utility.
+20 (3) In the case of a lease for a renewable energy system or battery
+21 energy storage system in which the renewable energy sales company is the
+22 lessor, at least thirty days before entering into an agreement with a
+23 consumer, the company shall provide the consumer with the written
+24 disclosure form pursuant to subsection (1) of this section with the
+25 following additional information on five additional pages or less in a
+26 font no smaller than twelve points:
+27 (a) The length of the lease;
+28 (b) The amount of each monthly payment for the first year of the
+29 lease;
+30 (c) The estimated total amount of lease payments over the length of
+31 the lease;
+-6-
+LB1003 LB1003
+2026 2026
+1 (d) The rate of any payment increases and the date of the first
+2 increase, if applicable;
+3 (e) The total number of lease payments;
+4 (f) Payment due dates and the manner in which the consumer shall
+5 receive invoices;
+6 (g) A disclosure notifying the consumer whether the lessor will be
+7 filing a Uniform Commercial Code fixture filing on the renewable energy
+8 system or battery energy storage system and the impact on any future sale
+9 of the real property;
+10 (h) A disclosure describing the transferability of the lease and the
+11 conditions for lease transfers in connection with a consumer selling the
+12 real property; and
+13 (i) An explanation of any real property access rights required by
+14 the lessor.
+15 (4) In the case of a purchase of a residential renewable energy
+16 system or battery energy storage system, at least thirty days before
+17 entering an agreement with a consumer, a renewable energy sales company
+18 shall provide a consumer with the written disclosure form pursuant to
+19 subsection (1) of this section with the following additional information
+20 on three additional pages or less in a font no smaller than twelve
+21 points:
+22 (a) The purchase price;
+23 (b) Estimated start and completion dates for installation,
+24 accompanied by the following statement: Start and completion dates are
+25 only an estimate and may be impacted by delays that may be outside the
+26 control of the renewable energy installation company;
+27 (c) A disclosure notifying the consumer of the party or parties
+28 responsible for obtaining interconnection approval;
+29 (d) The following statement: Laws and regulations about state and
+30 federal tax credits are subject to change. Any statement made in these
+31 disclosures should not be construed as tax advice. The purchaser of a
+-7-
+LB1003 LB1003
+2026 2026
+1 renewable energy system or battery energy storage system is hereby
+2 encouraged to consult a tax expert regarding any reductions or potential
+3 reductions in tax liability associated with purchasing a renewable energy
+4 system or battery energy storage system; and
+5 (e) A link to the local utility's webpage which contains information
+6 explaining the utility's interconnection procedures.
+7 Sec. 5. (1) A contract for the sale or lease of a renewable energy
+8 system or battery energy storage system shall:
+9 (a) Include in conspicuous language, key contract terms such as
+10 price and financing terms;
+11 (b) Be written in English; and
+12 (c) Include a dispute resolution process where the resolution
+13 process includes a third-party arbitrator agreed upon by the customer and
+14 where any relevant arbitration hearings take place in person within the
+15 county where the renewable energy system or battery energy storage system
+16 was installed. Whenever a dispute, including any attempt to reclaim
+17 property or discontinue service, is initiated by the renewable energy
+18 system sales company or an agent of such company, notice of the dispute
+19 shall be sent to the customer or lessee by registered mail no fewer than
+20 sixty days prior to the start date of the resolution process and the
+21 notice shall include an explanation of the disputed contractual
+22 obligations or conditions, the reasons for the dispute, the date that the
+23 resolution process shall begin, any costs to be incurred by the customer,
+24 and an explanation of the customer's rights.
+25 (2) An agreement for the sale of a renewable energy system or a
+26 battery energy storage system shall contain the following information:
+27 (a) The name of the renewable energy sales company and contact
+28 information for the president or chief executive officer of the company;
+29 (b) The name of the installation company and contact information for
+30 the president or chief executive officer of the company; and
+31 (c) The name of and contact information for the sales person
+-8-
+LB1003 LB1003
+2026 2026
+1 associated with the renewable energy sales company who sold, solicited,
+2 or negotiated the sale of the renewable energy system or battery energy
+3 storage system.
+4 (3) A salesperson who sells, solicits, or negotiates a sales
+5 agreement shall disclose the following information to the consumer at
+6 least sixty days before a purchase agreement may be made:
+7 (a) The purchase price of the renewable energy system or battery
+8 energy storage system;
+9 (b) The payment schedule, if applicable;
+10 (c) A description of the project, including the system size
+11 expressed in kilowatts of direct current electricity and kilowatts of
+12 alternating current electricity and any solar module, inverter, or
+13 battery energy storage system to be installed;
+14 (d) The estimated start and completion dates for installation
+15 accompanied by the following statement: The actual start and completion
+16 dates depend upon many factors, such as delays related to permitting and
+17 interconnection approvals. Interconnection approvals are controlled by
+18 the local utility;
+19 (e) An explanation of any warranties or guarantees, including the
+20 transferability of any obligations, in compliance with the Magnuson-Moss
+21 Warranty-Federal Trade Commission Improvements Act, 15 U.S.C. 2301 et
+22 seq.;
+23 (f) The name and contact information of the local utility; and
+24 (g) A statement indicating which party or parties are responsible
+25 for filing the interconnection application as well as applications for
+26 any other related permits.
+27 (4) A salesperson who sells, solicits, or negotiates a lease
+28 agreement shall disclose the following information to the consumer at
+29 least sixty days before a lease agreement may be made:
+30 (a) The name and contact information of the lessor, the renewable
+31 energy system or battery energy storage system manufacturer, the
+-9-
+LB1003 LB1003
+2026 2026
+1 installation company, and the salesperson who negotiated the lease
+2 agreement;
+3 (b) The method or methods of communication to be used by the
+4 salesperson to contact the consumer;
+5 (c) The total payments required pursuant to the lease and the
+6 payment schedule, including the number, amount, and due dates or periods
+7 of payments;
+8 (d) A description of the project, including the system size
+9 expressed in kilowatts of direct current electricity and kilowatts of
+10 alternating current electricity and any solar module, inverter, or
+11 battery energy storage system to be installed;
+12 (e) The estimated start and completion dates for installation
+13 accompanied by the following statement: The actual start and completion
+14 dates depend upon many factors, such as delays related to permitting and
+15 interconnection approvals. Interconnection approvals are controlled by
+16 the local utility;
+17 (f) An explanation of any warranties or guarantees, including the
+18 transferability of any obligations in compliance with the Magnuson-Moss
+19 Warranty-Federal Trade Commission Improvements Act, 15 U.S.C. 2301 et
+20 seq.;
+21 (g) A description of the maintenance and repair responsibilities of
+22 each party;
+23 (h) An explanation of whether the consumer has the right to purchase
+24 the leased renewable energy system or battery energy storage system,
+25 either during the lease term or at the termination of the lease, and, if
+26 applicable, the purchase price;
+27 (i) A description of the consumer's options to transfer the lease to
+28 a third party and the conditions for such transfer;
+29 (j) Which party or parties are responsible for filing the
+30 interconnection application and permits as well as applications for any
+31 other related permits;
+-10-
+LB1003 LB1003
+2026 2026
+1 (k) A description of any security interest filed against the system,
+2 including Uniform Commercial Code financing statements; and
+3 (l) Any real property access rights to be obtained by the lessor.
+4 (5) In the case of the sale of a renewable energy system or battery
+5 energy storage system, the sales agreement shall include:
+6 (a) A statement indicating that the consumer has five business days
+7 after receiving the initial signed agreement to cancel the agreement
+8 without a financial penalty, with the exception of any nonrefundable
+9 deposits collected before receipt of the signed sales agreement, in an
+10 amount not to exceed one hundred dollars;
+11 (b) A statement indicating that the seller has verbally explained to
+12 the consumer the consumer's right to rescind the agreement without
+13 financial penalty upon the consumer signing the agreement and that the
+14 consumer has been verbally provided with the specific date that the sales
+15 agreement may be cancelled without financial penalty, with the exception
+16 of any nonrefundable deposits collected;
+17 (c) The following statement in a bold font no smaller than twelve
+18 points adjacent to the signature line: The purchaser may cancel this
+19 transaction at any time prior to midnight in the time zone where the
+20 renewable energy system or battery energy storage system is to be
+21 installed on the fifth business day after the date of this transaction
+22 provided that the cancellation notice is sent to the president, chief
+23 executive officer, or salesperson of the renewable energy sales company
+24 or the president or chief executive officer of the installation company,
+25 and that the proof of the date or time of the cancellation notice may be
+26 verified by way of a receipt showing that the cancellation notice was
+27 sent by way of certified mail, registered mail, or by professional
+28 courier service, or by evidence that the cancellation notice was sent
+29 through email before time expired for the cancellation period;
+30 (d) A cancellation form written in the same format as in federal
+31 regulations regarding cooling-off periods for sales made for homes or
+-11-
+LB1003 LB1003
+2026 2026
+1 other locations; and
+2 (e) A statement showing that compliance with federal regulations
+3 adopted under the Federal Trade Commission Act of 1914, 15 U.S.C. 41 et
+4 seq., regarding cooling-off periods for sales made at homes or at other
+5 locations constitutes compliance with this subsection (5).
+6 Sec. 6. If a renewable energy system or battery energy storage
+7 system is financed, the financing documents shall include the following:
+8 (1) The length, terms, and cost of the financing agreement in clear
+9 and conspicuous language;
+10 (2) A statement that a salesperson may be employed by more than one
+11 renewable energy sales company; and
+12 (3) A notification of any security interest filed against the
+13 system, including Uniform Commercial Code financing statements.
+14 Sec. 7. (1) An independent contractor may be retained by a
+15 renewable energy sales company as a salesperson. Notwithstanding the
+16 salesperson's status as an independent contractor, the renewable energy
+17 sales company that employs the independent contractor as a salesperson is
+18 responsible for ensuring compliance with the Renewable Energy Consumer
+19 Protection Act and for any loss or damages resulting from noncompliance
+20 by the independent contractor when acting on behalf of the renewable
+21 energy sales company.
+22 (2) A salesperson may be employed by more than one renewable energy
+23 sales company.
+24 (3) Unless otherwise authorized in a state law or local government
+25 ordinance or invited by consumer, a salesperson shall not visit a
+26 residence to conduct the sale of a renewable energy storage system or
+27 battery energy storage system except between the hours of 9 a.m. and 8
+28 p.m. within the time zone of the consumer.
+29 (4) A salesperson shall not visit a residence that has posted a no
+30 solicitation sign in a prominent location near the main entrance to the
+31 residence.
+-12-
+LB1003 LB1003
+2026 2026
+1 Sec. 8. (1) For purposes of this section, written or digital sales
+2 material means an online sales banner, click-through banner, social media
+3 advertisement, pamphlet, booklet, and any other materials that could
+4 generate a sale or sale lead of a renewable energy system or a battery
+5 energy storage system, whether such material is delivered in person,
+6 through the United States Postal Service, through a private courier
+7 service, through email, or through other online means.
+8 (2) Renewable energy sales companies and salespersons for renewable
+9 energy sales companies are prohibited from:
+10 (a) Providing written, video, photographic, or digital sales
+11 material for a renewable energy system or battery energy storage system
+12 which includes a name, logo, picture, or other indicia of an electric
+13 utility unless the renewable energy sales company or the salesperson has
+14 received expressed written consent to provide such material from the
+15 relevant utility;
+16 (b) Purchasing sales leads from a renewable energy sales company
+17 which fails to comply with the requirements of this section;
+18 (c) Representing, verbally or in writing, that the renewable energy
+19 sales company is affiliated with, sponsored by, or approved by a
+20 consumer's local utility without the expressed written consent of the
+21 local utility; and
+22 (d) Representing, verbally or in writing, that the renewable energy
+23 sales company is affiliated with, sponsored by, or approved by a state
+24 incentive program without the expressed written consent of the agency in
+25 charge of administrating such incentive program.
+26 Sec. 9. (1) A renewable energy sales company, a salesperson
+27 representing a renewable energy sales company, and any other person
+28 designated to represent a renewable energy sales company for an agreement
+29 shall retain a copy of each signed agreement and any warranties for a
+30 period of at least ten years after the date of the transaction.
+31 (2) A consumer's personal information is confidential.
+-13-
+LB1003 LB1003
+2026 2026
+1 Sec. 10. (1) Within three days after entering into an agreement, a
+2 renewable energy sales company, a salesperson, or a designated
+3 representative of the renewable energy sales company shall conduct an in-
+4 person welcome call with the new consumer.
+5 (2) The welcome call shall include the following information:
+6 (a) Confirmation of the identification of the consumer;
+7 (b) The price of the renewable energy system or battery energy
+8 storage system;
+9 (c) A description of the project, including the system size
+10 expressed in kilowatts of direct current electricity and kilowatts of
+11 alternating current electricity, any battery energy storage system to be
+12 installed and the capacity of such system expressed in kilowatt-hours,
+13 and a statement that the renewable energy system will not provide backup
+14 power without being paired with a battery energy storage system;
+15 (d) In the case of a lease, the duration of the contract;
+16 (e) A statement indicating the consumer's right to cancel the
+17 agreement without financial penalty within five days after signing the
+18 contract;
+19 (f) A reminder that the consumer should review the disclosure form
+20 and agreement before the end of the fifth day after signing the contract;
+21 and
+22 (g) An explanation of the costs of the system being installed and
+23 any other applicable financing terms or details.
+24 Sec. 11. (1) A renewable energy sales company shall provide the
+25 consumer with a warranty against roof damage and water infiltration
+26 whenever roof penetration is made for the installation of a renewable
+27 energy system or battery energy storage system and such warranty shall be
+28 for a period of at least five years after the completion date of the
+29 installation.
+30 (2) A renewable energy sales company shall provide the consumer with
+31 a warranty addressing defects in the workmanship of a renewable energy
+-14-
+LB1003 LB1003
+2026 2026
+1 system or battery energy storage system and such warranty shall be for a
+2 period of at least five years after the completion date of the
+3 installation.
+4 (3) If a renewable energy sales company provides the consumer with a
+5 long-term maintenance plan for a renewable energy system or a battery
+6 energy storage system, such plan shall be made available to the consumer
+7 in writing and verbally. If a renewable energy sales company does not
+8 provide such a plan, the renewable energy sales company shall provide the
+9 consumer with a written explanation as to why a long-term maintenance
+10 plan is not being offered or provided.
+11 Sec. 12. A violation of the Renewable Energy Consumer Protection
+12 Act shall constitute a deceptive trade practice under the Uniform
+13 Deceptive Trade Practices Act and shall be subject to any remedies or
+14 penalties available for a violation of such act.
+15 Sec. 13. An electric utility that serves more than five thousand
+16 meters that offers financial incentives for renewable energy systems or
+17 battery energy storage systems shall clearly and prominently provide the
+18 following information on the utility's website:
+19 (1) Information on the number of financial incentives available for
+20 such systems, including information about the amount of budget that has
+21 already been spent to date and information about when the budget was last
+22 updated;
+23 (2) Information about how a customer or contractor can apply for the
+24 financial incentives; and
+25 (3) Information about the point in the process in which a customer
+26 may secure financial incentives from a utility program.
+27 Sec. 14. A renewable energy sales company or agent of such company
+28 shall not sell or lease a renewable energy system or battery energy
+29 storage system in this state without first registering their business
+30 with the Secretary of State. Any such company or agent shall disclose
+31 proof of registration with the Secretary of State to the customer before
+-15-
+LB1003 LB1003
+2026 2026
+1 entering into an agreement. Failure to disclose proof of registration
+2 before entering into an agreement shall render the agreement void.
+3 Sec. 15. (1) A person shall not install a renewable energy system
+4 or a battery energy storage system in this state unless such person is
+5 licensed as an electrical contractor in Nebraska.
+6 (2) A renewable energy system or battery energy storage system shall
+7 not be installed without first acquiring a relevant permit from the
+8 municipality where the system is to be installed or from the State of
+9 Nebraska.
+10 Sec. 16. The State Electric Board shall adopt and promulgate rules
+11 and regulations for the licensing and bonding of any person who installs
+12 renewable energy systems or battery energy storage systems in this state.
+13 Sec. 17. Section 87-302, Revised Statutes Supplement, 2025, is
+14 amended to read:
+15 87-302 (a) A person engages in a deceptive trade practice when, in
+16 the course of his or her business, vocation, or occupation, he or she:
+17 (1) Passes off goods or services as those of another;
+18 (2) Causes likelihood of confusion or of misunderstanding as to the
+19 source, sponsorship, approval, or certification of goods or services;
+20 (3) Causes likelihood of confusion or of misunderstanding as to
+21 affiliation, connection, or association with, or certification by,
+22 another;
+23 (4) Uses deceptive representations or designations of geographic
+24 origin in connection with goods or services;
+25 (5) Represents that goods or services have sponsorship, approval,
+26 characteristics, ingredients, uses, benefits, or quantities that they do
+27 not have or that a person has a sponsorship, approval, status,
+28 affiliation, or connection that he or she does not have;
+29 (6) Represents that goods or services do not have sponsorship,
+30 approval, characteristics, ingredients, uses, benefits, or quantities
+31 that they have or that a person does not have a sponsorship, approval,
+-16-
+LB1003 LB1003
+2026 2026
+1 status, affiliation, or connection that he or she has;
+2 (7) Represents that goods are original or new if they are
+3 deteriorated, altered, reconditioned, reclaimed, used, or secondhand,
+4 except that sellers may repair damage to and make adjustments on or
+5 replace parts of otherwise new goods in an effort to place such goods in
+6 compliance with factory specifications;
+7 (8) Represents that goods or services are of a particular standard,
+8 quality, or grade, or that goods are of a particular style or model, if
+9 they are of another;
+10 (9) Disparages the goods, services, or business of another by false
+11 or misleading representation of fact;
+12 (10) Advertises goods or services with intent not to sell them as
+13 advertised or advertises the price in any manner calculated or tending to
+14 mislead or in any way deceive a person;
+15 (11) Advertises goods or services with intent not to supply
+16 reasonably expectable public demand, unless the advertisement discloses a
+17 limitation of quantity;
+18 (12) Makes false or misleading statements of fact concerning the
+19 reasons for, existence of, or amounts of price reductions;
+20 (13) Uses or promotes the use of or establishes, operates, or
+21 participates in a pyramid promotional scheme in connection with the
+22 solicitation of such scheme to members of the public. This subdivision
+23 shall not be construed to prohibit a plan or operation, or to define a
+24 plan or operation as a pyramid promotional scheme, based on the fact that
+25 participants in the plan or operation give consideration in return for
+26 the right to receive compensation based upon purchases of goods,
+27 services, or intangible property by participants for personal use,
+28 consumption, or resale so long as the plan or operation does not promote
+29 or induce inventory loading and the plan or operation implements an
+30 appropriate inventory repurchase program;
+31 (14) With respect to a sale or lease to a natural person of goods or
+-17-
+LB1003 LB1003
+2026 2026
+1 services purchased or leased primarily for personal, family, household,
+2 or agricultural purposes, uses or employs any referral or chain referral
+3 sales technique, plan, arrangement, or agreement;
+4 (15) Knowingly makes a false or misleading statement in a privacy
+5 policy, published on the Internet or otherwise distributed or published,
+6 regarding the use of personal information submitted by members of the
+7 public;
+8 (16) Uses any scheme or device to defraud by means of:
+9 (i) Obtaining money or property by knowingly false or fraudulent
+10 pretenses, representations, or promises; or
+11 (ii) Selling, distributing, supplying, furnishing, or procuring any
+12 property for the purpose of furthering such scheme;
+13 (17) Offers an unsolicited check, through the mail or by other
+14 means, to promote goods or services if the cashing or depositing of the
+15 check obligates the endorser or payee identified on the check to pay for
+16 goods or services. This subdivision does not apply to an extension of
+17 credit or an offer to lend money;
+18 (18) Mails or causes to be sent an unsolicited billing statement,
+19 invoice, or other document that appears to obligate the consumer to make
+20 a payment for services or merchandise he or she did not order;
+21 (19)(i) Installs, offers to install, or makes available for
+22 installation or download a covered file-sharing program on a computer not
+23 owned by such person without providing clear and conspicuous notice to
+24 the owner or authorized user of the computer that files on that computer
+25 will be made available to the public and without requiring intentional
+26 and affirmative activation of the file-sharing function of such covered
+27 file-sharing program by the owner or authorized user of the computer; or
+28 (ii) Prevents reasonable efforts to block the installation,
+29 execution, or disabling of a covered file-sharing program;
+30 (20) Violates any provision of the Nebraska Foreclosure Protection
+31 Act;
+-18-
+LB1003 LB1003
+2026 2026
+1 (21) In connection with the solicitation of funds or other assets
+2 for any charitable purpose, or in connection with any solicitation which
+3 represents that funds or assets will be used for any charitable purpose,
+4 uses or employs any deception, fraud, false pretense, false promise,
+5 misrepresentation, unfair practice, or concealment, suppression, or
+6 omission of any material fact;
+7 (22)(i) In the manufacture, production, importation, distribution,
+8 promotion, display for sale, offer for sale, attempt to sell, or sale of
+9 a substance:
+10 (A) Makes a deceptive or misleading representation or designation,
+11 or omits material information, about a substance or fails to identify the
+12 contents of the package or the nature of the substance contained inside
+13 the package; or
+14 (B) Causes confusion or misunderstanding as to the effects a
+15 substance causes when ingested, injected, inhaled, or otherwise
+16 introduced into the human body.
+17 (ii) A person shall be deemed to have committed a violation of the
+18 Uniform Deceptive Trade Practices Act for each individually packaged
+19 product that is either manufactured, produced, imported, distributed,
+20 promoted, displayed for sale, offered for sale, attempted to sell, or
+21 sold in violation of this section. A violation under this subdivision (a)
+22 (22) shall be treated as a separate and distinct violation from any other
+23 offense arising out of acts alleged to have been committed while the
+24 person was in violation of this section;
+25 (23)(i) Manufactures, produces, publishes, distributes, monetizes,
+26 promotes, or otherwise makes publicly available any visual depiction of
+27 sexually explicit conduct, any obscene material, or any material that is
+28 harmful to minors in which any person depicted as a participant or
+29 observer:
+30 (A) Is under eighteen years of age;
+31 (B) Is a trafficking victim;
+-19-
+LB1003 LB1003
+2026 2026
+1 (C) Has not expressly and voluntarily consented to such person's
+2 depiction; or
+3 (D) Participated in any act depicted without consent.
+4 (ii) This subdivision (a)(23) does not apply to any
+5 telecommunications or broadband Internet access service.
+6 (iii) For purposes of this subdivision (a)(23):
+7 (A) Harmful to minors has the same meaning as in 47 U.S.C. 254, as
+8 such section existed on January 1, 2024;
+9 (B) Obscene material has the same meaning as in section 28-807;
+10 (C) Promote means to use any mechanism or publication, or take any
+11 action, that suggests, highlights, advertises, markets, curates,
+12 backlinks, hashtags, or otherwise directs, attempts to direct, or
+13 encourages traffic toward specific materials, including acts carried out
+14 affirmatively, through automation, algorithmically, and via other
+15 technical means both known and unknown at this time;
+16 (D) Publish means to communicate or make information available to
+17 another person via an Internet website, regardless of whether the person
+18 consuming, viewing, or receiving the material gives any consideration for
+19 the published material;
+20 (E) Trafficking victim has the same meaning as in section 28-830;
+21 (F) Visual depiction of sexually explicit conduct has the same
+22 meaning as in section 28-1802; and
+23 (G) Without consent has the same meaning as in section 28-318;
+24 (24) Offers or enters into a right-to-list home sale agreement as
+25 defined in section 81-885.01; or
+26 (25) Violates section 81-2,282; or .
+27 (26) Violates any provision of the Renewable Energy Consumer
+28 Protection Act.
+29 (b) In order to prevail in an action under the Uniform Deceptive
+30 Trade Practices Act, a complainant need not prove competition between the
+31 parties.
+-20-
+LB1003 LB1003
+2026 2026
+1 (c) This section does not affect unfair trade practices otherwise
+2 actionable at common law or under other statutes of this state.
+3 Sec. 18. This act becomes operative on January 1, 2027.
+4 Sec. 19. Original section 87-302, Revised Statutes Supplement,
+5 2025, is repealed.
+-21-
+[DELETED: yMA B F A A r t c p t a s8 R S S 2 t a t RE C P A t p a d tpsB3L62]
+[DELETED: ScS( R e s f r a s ba(p( R e s f r a s ba a m p w w c p a0o1( S d c s m2w3c h t b i a b p o4i5( C i N s b g c a a6i r t n o a c t l o p 7r8a9S 3  F p o t R E C P0A1(2c3( A c f t p o a r e s o4b5( A l f a t r e s o6b7( A i a c o f p o a r8e9( B e s s m a s o f0i1(3L62]
+[DELETED: (( I l o t r p o a c o a eu( I c o t c s o t e ma(r(e a A p o b s n b c a p0a1(2o3e4(5( A e o t t c t i a r6e7o8(9(0t1a2o n e t a t a p t3a4t p o o b t o o t s u t5e6(7(8a9s0(1e s s t i o b a t p f w t3L62]
+[DELETED: c(r o s b a w u s o we( S m a e o i c o r e s c w s s n oe a f r e s o b esS0w1s2w3t4( T n o t r e s c a c5i6(7t8( T n o t s m p a c9i0(1a2d3( S d a i s s e4f p e a s p d5p6t7( A e o t m o a m8r o t r e s o b e s9s i a e o e a l w a0m1( W f t r o a c a p o t3L62]
+[DELETED: rcsf r b t r e s s c t au r o a s p f a r m v twae( C a l f t i a r o t0r1(2(3o4t5s6s7(8w p t t c S d s i t9a0b s b u t c p t m o u1b a t e s p a t t o c2s3( T p a o r e c4i5f6(7b8(9i0( A e o a r p a r r b1t3L62]
+[DELETED: (ca r e s c s p a c w tft(pb a n a a r e o c s Ta0a1f t c b o w a r e s o b2e3e4t5(6b7u F i o t s i p a8p f a r e s o b e s9s0(1e2l a l t d b e i a a w 3c t c s p t c w t w4d f p t s ( o t s w t5f6f7(8( T a o e m p f t f y o t9l0(1t3L62]
+[DELETED: ( T r o a p i a t d o t fi(( P d d a t m i w t c sr(fso0(1c2r3( A e o a r p a r r b4t5( I t c o a p o a r r e6s o b e s s a l t d b7e8s p a c w t w d f p t9s0o t a p o l i a f n s t t1p2(3( E s a c d f i4a b t f s S a c d a5o6c7( A d n t c o t p o p8r9( T f s L a r a s a0f1d s n b c a t a T p o 3L62]
+[DELETED: r e s o b e s s i hers(eSs( I i c l k c t s a0p1(2( I a d r p w t r3p4w5c6w i W a d i a a t r7p o d s i i b t r e8s9s0s d p t t s d o t r p a t1n s i a e o t d c2o3r4a5( A a f t s o a r e s o 6b7( T n o t r e s c a c8i9(0t1( T n o a c i f t s p3L62]
+[DELETED: aos( A s w s s o n a sa s d t f i t t c al( T p p o t r e s o be(0( A d o t p i t s s1e i k o d c e a k o2a c e a a s m i o3b4( T e s a c d f i5a6d7i a I a a c b8t9( A e o a w o g i t0t1W T C I A 1 U 2 e2s3(4( A s i w p o p a r5f f t i a a w a a f6a7( A s w s s o n a l8a s d t f i t t c a9l0( T n a c i o t l t r1e s o b e s s m t3L62]
+[DELETED: i c a t s w n t la( T m o m o c t b u b ts( T t p r p t t l a tpo( A d o t p i t s se i k o d c e a k o0a c e a a s m i o1b2( T e s a c d f i3a4d5i a I a a c b6t7( A e o a w o g i t8t9W T C I A 1 U 2 e0s1(2e3(4t l r e s o b e s s5e6a7(8a9( W p o p a r f f t0i1o3L62]
+[DELETED: (i((e(a r t i s a t c t aw a f p w t e o a nd0a1(2t c t c r t r t a w3f4c5a6o7(8p a t t s l T p m c t9t a a t p t m i t t z w t0r e s o b e s s i t b1i2p t t c n i s t t p c3e4o5a6v b w o a r s t t c n w7s b w o c m r m o b p8c s o b e t t c n w s9t0( A c f w i t s f a i f1r r c p f s m f h o3L62]
+[DELETED: o( A s s t c w f raslS 6  I a r e s o b e ss(a0(1r2( A n o a s i f a t3s4S 7  ( A i c m b r b 5r e s c a a s N t6s7s8r f e c w t R E C9P0b t i c w a o b o t r1e2(3s4(5o o i b c a s s n v 6r t c t s o a r e s s o7b8p9(0s1r3L62]
+[DELETED: Sma p b a a o m t cge s s w s m i d i pt t U S P S t a p cs(e0( P w v p o d s1m2w i a n l p o o i o a e3u4r e w c t p s m f t5r6( P s l f a r e s c7w8(9s c i a w s b o a b 0c l u w t e w c o t1l2(3s4i5c6S 9  ( A r e s c a s7r a r e s c a a o p8d9s r a c o e s a a a w f 0p1(3L62]
+[DELETED: Sr e s c a s o a drp((( T p o t r e s o b es( A d o t p i t s s0e i k o d c e a k o1a2i a t c o s s e i k3a4p5(6( A s i t c r t c t7a w f p w f d a s t8c9(0a1a2(3a4S 1  ( A r e s c s p t5c w a w a r d a w i6w r p i m f t i o a r7e8f a p o a l f y a t c d o t9i0(1a3L62]
+[DELETED: sp o a l f y a t c d o ti(l m p f a r e s o a bei w a v I a r e s c d npc w a w e a t w a l m0p1S 1  A v o t R E C P2A s c a d t p u t U3D T P A a s b s t a r o4p5S6m7b8f9(0s1a2u3(4f5(6m7S8s n s o l a r e s o b e9s s i t s w f r t b0w t S o S A s c o a s d1p3L62]
+[DELETED: e i a a F t d p o rbSol(n b i w f a a r p f tm w t s i t b i o f t S oN0S1a2r3S 1 S 8 R S S 2 i4a586t7(8(9s0( C l o c o o m a t1a c o a w o c b2a3( U d r o d o g4o5( R t g o s h s a6c7n h o t a p h a s a s8a9( R t g o s d n h s0a c i u b o q1t3L62]
+[DELETED: s( R t g a o o n i t ad a r r u o se t s m r d t a m a o orc(qt0(1o2(3a4m5( A g o s w i n t s6r7l8( M f o m s o f c t9r0( U o p t u o o e o o1p i a p p s i c w t2s3s4p5p6t r t r c b u p o g7s o i p b p f p u8c9o i i l a t p o o i a0a1(3L62]
+[DELETED: sos( K m a f o m s i a ppr t u o p i s b m o tp(( O m o p b k f o f0p1(2p3( O a u c t t m o b o4m5c6g o s T s d n a t a e o7c8( M o c t b s a u b s9i0a1( I o t i o m a f2i3o4t5w6a7f8( P r e t b t i9e0(1A3L62]
+[DELETED: ( I c w t s o f o o afru o e a d f f p f pm u p o c s oo( I t m p i dpa0(1o2c3t4( C c o m a t t e 5s c w i i i o o6i7(8U D T P A f e i p9p t i e m p i d0p d f s o f s a t s o1s2(3o a o o a a t h b c w t4p5( M p p d m6p7s8h t m i w a p d a a p o9o0(1(3L62]
+[DELETED: ( H n e a v c t s pd(( T s ( d n a t at((s(0(1a t s h a m c2b h o o d a t d o3e4a t a a a v o5t6( P m t c o m i a t7a8c9t0(1( V d o s e c h t s2m3(4( O o e i a r h s a a5d6(7( V a p o t R E C8P9( I o t p i a a u t U D0T1p3L62]
+[DELETED: ( T s d n a u t p oaSS 1  O s 8 R S S23L62]
+
+
+================================================================================
+
+Raw Text:
+LB1003 LB1003
+2026 2026
+LEGISLATURE OF NEBRASKA
+ONE HUNDRED NINTH LEGISLATURE
+SECOND SESSION
+LEGISLATIVE BILL 1003
+Introduced by Meyer, G., 17.
+Read first time January 13, 2026
+Committee: Banking, Commerce and Insurance
+1 A BILL FOR AN ACT relating to consumer protection; to amend section
+2 87-302, Revised Statutes Supplement, 2025; to adopt the Renewable
+3 Energy Consumer Protection Act; to provide a deceptive trade
+4 practice; to provide an operative date; and to repeal the original
+5 section.
+6 Be it enacted by the people of the State of Nebraska,
+-1-
+
+LB1003 LB1003
+2026 2026
+1 Section 1. Sections 1 to 16 of this act shall be known and may be
+2 cited as the Renewable Energy Consumer Protection Act.
+3 Sec. 2. The Legislature finds and declares that:
+4 (1) Renewable energy systems for residential and small business
+5 applications are complex and can be confusing to consumers;
+6 (2) Electric utility rates can change over time and can affect the
+7 payoff period of the initial investment for a renewable energy system;
+8 (3) Renewable energy systems for residential and small business
+9 applications are major purchases which warrant consumer protection and
+10 oversight;
+11 (4) Standardized disclosures, contracting, sales materials,
+12 warranties, and enforcement requirements will better ensure that Nebraska
+13 consumers have the best information available before purchasing or
+14 investing in renewable energy systems; and
+15 (5) Consumers in Nebraska should be given clear and accurate
+16 information regarding the nature of a contract to lease or purchase a
+17 renewable energy system as well as information about rebates, warranties,
+18 and incentive programs.
+19 Sec. 3. For purposes of the Renewable Energy Consumer Protection
+20 Act:
+21 (1)(a) Agreement means an agreement between a renewable energy sales
+22 company and a retail electric consumer in the form of:
+23 (i) A contract for the purchase of a renewable energy system or
+24 battery energy storage system; or
+25 (ii) A lease for a third-party-owned renewable energy system or
+26 battery energy storage system.
+27 (b) Agreement includes a cash or financed purchase of a renewable
+28 energy system or battery energy storage system;
+29 (2) Battery energy storage system means a system or facility
+30 intended for residential or small business applications which:
+31 (a) Stores electricity for use at later time;
+-2-
+
+LB1003 LB1003
+2026 2026
+1 (b) Uses solar energy or wind energy to recharge;
+2 (c) Is located on the real property of a customer of an electric
+3 utility;
+4 (d) Is connected on the customer's side of the electricity meter;
+5 and
+6 (e) Provides electricity to offset customer load on the customer's
+7 real property;
+8 (3) Contact information means a physical address, phone number, and
+9 email address. A post office box shall not be considered a physical
+10 address;
+11 (4) Financing agreement means an agreement involving credit offered
+12 or extended to a consumer to acquire a renewable energy system or battery
+13 energy storage system;
+14 (5) Installation company means:
+15 (a) An entity, other than the consumer, that installs a renewable
+16 energy system or battery energy storage system on behalf of a consumer;
+17 or
+18 (b) A third party from whom a consumer leases such a system;
+19 (6) Lease means a contract in the form of a bailment or lease for
+20 the use of a renewable energy system or battery energy storage system by
+21 a consumer for a period exceeding four months and for a total contractual
+22 obligation not exceeding the applicable threshold amount, pursuant to
+23 applicable federal regulations, whether or not the lessee has the option
+24 to purchase or otherwise become the owner of the system upon the
+25 expiration of the lease;
+26 (7) Renewable energy sales company means an entity that engages:
+27 (a) In a transaction with a consumer to sell, negotiate, or execute
+28 a contract for the sale of a renewable energy system or battery energy
+29 storage system; or
+30 (b) With a consumer to lease a renewable energy system or battery
+31 energy storage system that is owned by a third party from whom the
+-3-
+
+LB1003 LB1003
+2026 2026
+1 consumer will lease such system;
+2 (8) Renewable energy system means a system or facility intended for
+3 residential or small business applications which uses solar or wind
+4 energy to generate electricity; and
+5 (9) Salesperson means an employee or independent contractor of a
+6 renewable energy sales company who solicits, sells, negotiates, or
+7 executes agreements for renewable energy systems or battery energy
+8 storage systems.
+9 Sec. 4. (1) At least thirty days before entering into an agreement
+10 with a consumer for a renewable energy system or battery energy storage
+11 system, a renewable energy sales company shall provide to the consumer a
+12 written disclosure form that is five pages or less in length and contains
+13 the following information, in a font no smaller than twelve points:
+14 (a) The name of the renewable energy sales company and contact
+15 information for the president or chief executive officer of the company;
+16 (b) The name of the installation company and contact information for
+17 the president or chief executive officer of the company;
+18 (c) The name of the system maintenance provider and contact
+19 information for the president or chief executive officer of the provider;
+20 (d) The payment schedule for up-front costs, including payments due
+21 at the signing date of the agreement and the commencement and completion
+22 dates of the installation;
+23 (e) System design assumptions, including system size, estimated
+24 first-year production, estimated annual system production degradation,
+25 presence of energy storage, energy storage capacity, and a description of
+26 the equipment needed to provide backup power;
+27 (f) An explanation of the maintenance, operation, and monitoring
+28 requirements of the renewable energy system or battery energy storage
+29 system, including an explanation of equipment and labor warranties and
+30 maintenance and repair costs for which the consumer shall be responsible;
+31 (g) Warranties for the repair of all components and parts of the
+-4-
+
+LB1003 LB1003
+2026 2026
+1 renewable energy system or battery energy storage system and warranties
+2 covering damages to all components and parts of such system, including a
+3 statement that solar panels installed on rooftops may only be authorized
+4 for removal by the renewable energy system sales company, that any
+5 unauthorized removal of a solar panel from a rooftop may void the
+6 warranty, and that any replacement or reinstallation of a solar panel on
+7 a rooftop shall require reinspection by a certified state or municipal
+8 electrical inspector;
+9 (h) Costs and liability for the installation and removal of the
+10 renewable energy system or battery energy storage system;
+11 (i) A description of performance or production guarantees;
+12 (j) Any potential environmental hazards which may affect the quality
+13 of the air, water, land, crops, human beings, livestock, or wildlife on
+14 the land associated with the renewable energy system or battery energy
+15 storage system and within a range of one mile from the perimeter of the
+16 system;
+17 (k) A description of the basis for any cost-savings estimates that
+18 were provided to the consumer. Such description shall include the
+19 applicable utility rates and energy delivery costs, any expected utility
+20 bill savings based upon the consumer's prior twelve months of utility
+21 bills, and the estimated system production at the time of contract
+22 signing;
+23 (l) The potential availability of renewable energy credits,
+24 including an explanation of what renewable energy credits are and how to
+25 find out more about them;
+26 (m) The operational capabilities of the renewable energy system or
+27 battery energy storage system during an electrical outage;
+28 (n) A statement indicating that the renewable energy sales company
+29 is not affiliated with a utility; and
+30 (o) An explanation of any real property access rights required by
+31 the renewable energy sales company or the local utility.
+-5-
+
+LB1003 LB1003
+2026 2026
+1 (2) At least thirty days before entering into an agreement with a
+2 consumer for a renewable energy system or battery energy storage system,
+3 a renewable energy sales company shall provide a consumer with the
+4 following written statements on separate forms in a font no smaller than
+5 twelve points:
+6 (a) Estimates of cost savings are based upon calculations from the
+7 previous twelve months of utility bills, or, if twelve months of utility
+8 bills are not available, a reasonable estimate of cost savings. The
+9 assumptions, such as the rates a utility charges for electricity, that
+10 are used to estimate the cost savings may change. There may be utility
+11 fees that cannot be offset with a renewable energy system or battery
+12 energy storage system, and, under certain circumstances, compensation for
+13 excess electricity sent back to the grid may be credited to your bill by
+14 the utility at rates below what you pay for electricity; and
+15 (b) The interconnection procedures for a renewable energy system or
+16 battery energy storage system are subject to the policies of the local
+17 utility. For information on the specific interconnection policies and
+18 procedures for a renewable energy system or battery energy storage
+19 system, the consumer should contact the local utility.
+20 (3) In the case of a lease for a renewable energy system or battery
+21 energy storage system in which the renewable energy sales company is the
+22 lessor, at least thirty days before entering into an agreement with a
+23 consumer, the company shall provide the consumer with the written
+24 disclosure form pursuant to subsection (1) of this section with the
+25 following additional information on five additional pages or less in a
+26 font no smaller than twelve points:
+27 (a) The length of the lease;
+28 (b) The amount of each monthly payment for the first year of the
+29 lease;
+30 (c) The estimated total amount of lease payments over the length of
+31 the lease;
+-6-
+
+LB1003 LB1003
+2026 2026
+1 (d) The rate of any payment increases and the date of the first
+2 increase, if applicable;
+3 (e) The total number of lease payments;
+4 (f) Payment due dates and the manner in which the consumer shall
+5 receive invoices;
+6 (g) A disclosure notifying the consumer whether the lessor will be
+7 filing a Uniform Commercial Code fixture filing on the renewable energy
+8 system or battery energy storage system and the impact on any future sale
+9 of the real property;
+10 (h) A disclosure describing the transferability of the lease and the
+11 conditions for lease transfers in connection with a consumer selling the
+12 real property; and
+13 (i) An explanation of any real property access rights required by
+14 the lessor.
+15 (4) In the case of a purchase of a residential renewable energy
+16 system or battery energy storage system, at least thirty days before
+17 entering an agreement with a consumer, a renewable energy sales company
+18 shall provide a consumer with the written disclosure form pursuant to
+19 subsection (1) of this section with the following additional information
+20 on three additional pages or less in a font no smaller than twelve
+21 points:
+22 (a) The purchase price;
+23 (b) Estimated start and completion dates for installation,
+24 accompanied by the following statement: Start and completion dates are
+25 only an estimate and may be impacted by delays that may be outside the
+26 control of the renewable energy installation company;
+27 (c) A disclosure notifying the consumer of the party or parties
+28 responsible for obtaining interconnection approval;
+29 (d) The following statement: Laws and regulations about state and
+30 federal tax credits are subject to change. Any statement made in these
+31 disclosures should not be construed as tax advice. The purchaser of a
+-7-
+
+LB1003 LB1003
+2026 2026
+1 renewable energy system or battery energy storage system is hereby
+2 encouraged to consult a tax expert regarding any reductions or potential
+3 reductions in tax liability associated with purchasing a renewable energy
+4 system or battery energy storage system; and
+5 (e) A link to the local utility's webpage which contains information
+6 explaining the utility's interconnection procedures.
+7 Sec. 5. (1) A contract for the sale or lease of a renewable energy
+8 system or battery energy storage system shall:
+9 (a) Include in conspicuous language, key contract terms such as
+10 price and financing terms;
+11 (b) Be written in English; and
+12 (c) Include a dispute resolution process where the resolution
+13 process includes a third-party arbitrator agreed upon by the customer and
+14 where any relevant arbitration hearings take place in person within the
+15 county where the renewable energy system or battery energy storage system
+16 was installed. Whenever a dispute, including any attempt to reclaim
+17 property or discontinue service, is initiated by the renewable energy
+18 system sales company or an agent of such company, notice of the dispute
+19 shall be sent to the customer or lessee by registered mail no fewer than
+20 sixty days prior to the start date of the resolution process and the
+21 notice shall include an explanation of the disputed contractual
+22 obligations or conditions, the reasons for the dispute, the date that the
+23 resolution process shall begin, any costs to be incurred by the customer,
+24 and an explanation of the customer's rights.
+25 (2) An agreement for the sale of a renewable energy system or a
+26 battery energy storage system shall contain the following information:
+27 (a) The name of the renewable energy sales company and contact
+28 information for the president or chief executive officer of the company;
+29 (b) The name of the installation company and contact information for
+30 the president or chief executive officer of the company; and
+31 (c) The name of and contact information for the sales person
+-8-
+
+LB1003 LB1003
+2026 2026
+1 associated with the renewable energy sales company who sold, solicited,
+2 or negotiated the sale of the renewable energy system or battery energy
+3 storage system.
+4 (3) A salesperson who sells, solicits, or negotiates a sales
+5 agreement shall disclose the following information to the consumer at
+6 least sixty days before a purchase agreement may be made:
+7 (a) The purchase price of the renewable energy system or battery
+8 energy storage system;
+9 (b) The payment schedule, if applicable;
+10 (c) A description of the project, including the system size
+11 expressed in kilowatts of direct current electricity and kilowatts of
+12 alternating current electricity and any solar module, inverter, or
+13 battery energy storage system to be installed;
+14 (d) The estimated start and completion dates for installation
+15 accompanied by the following statement: The actual start and completion
+16 dates depend upon many factors, such as delays related to permitting and
+17 interconnection approvals. Interconnection approvals are controlled by
+18 the local utility;
+19 (e) An explanation of any warranties or guarantees, including the
+20 transferability of any obligations, in compliance with the Magnuson-Moss
+21 Warranty-Federal Trade Commission Improvements Act, 15 U.S.C. 2301 et
+22 seq.;
+23 (f) The name and contact information of the local utility; and
+24 (g) A statement indicating which party or parties are responsible
+25 for filing the interconnection application as well as applications for
+26 any other related permits.
+27 (4) A salesperson who sells, solicits, or negotiates a lease
+28 agreement shall disclose the following information to the consumer at
+29 least sixty days before a lease agreement may be made:
+30 (a) The name and contact information of the lessor, the renewable
+31 energy system or battery energy storage system manufacturer, the
+-9-
+
+LB1003 LB1003
+2026 2026
+1 installation company, and the salesperson who negotiated the lease
+2 agreement;
+3 (b) The method or methods of communication to be used by the
+4 salesperson to contact the consumer;
+5 (c) The total payments required pursuant to the lease and the
+6 payment schedule, including the number, amount, and due dates or periods
+7 of payments;
+8 (d) A description of the project, including the system size
+9 expressed in kilowatts of direct current electricity and kilowatts of
+10 alternating current electricity and any solar module, inverter, or
+11 battery energy storage system to be installed;
+12 (e) The estimated start and completion dates for installation
+13 accompanied by the following statement: The actual start and completion
+14 dates depend upon many factors, such as delays related to permitting and
+15 interconnection approvals. Interconnection approvals are controlled by
+16 the local utility;
+17 (f) An explanation of any warranties or guarantees, including the
+18 transferability of any obligations in compliance with the Magnuson-Moss
+19 Warranty-Federal Trade Commission Improvements Act, 15 U.S.C. 2301 et
+20 seq.;
+21 (g) A description of the maintenance and repair responsibilities of
+22 each party;
+23 (h) An explanation of whether the consumer has the right to purchase
+24 the leased renewable energy system or battery energy storage system,
+25 either during the lease term or at the termination of the lease, and, if
+26 applicable, the purchase price;
+27 (i) A description of the consumer's options to transfer the lease to
+28 a third party and the conditions for such transfer;
+29 (j) Which party or parties are responsible for filing the
+30 interconnection application and permits as well as applications for any
+31 other related permits;
+-10-
+
+LB1003 LB1003
+2026 2026
+1 (k) A description of any security interest filed against the system,
+2 including Uniform Commercial Code financing statements; and
+3 (l) Any real property access rights to be obtained by the lessor.
+4 (5) In the case of the sale of a renewable energy system or battery
+5 energy storage system, the sales agreement shall include:
+6 (a) A statement indicating that the consumer has five business days
+7 after receiving the initial signed agreement to cancel the agreement
+8 without a financial penalty, with the exception of any nonrefundable
+9 deposits collected before receipt of the signed sales agreement, in an
+10 amount not to exceed one hundred dollars;
+11 (b) A statement indicating that the seller has verbally explained to
+12 the consumer the consumer's right to rescind the agreement without
+13 financial penalty upon the consumer signing the agreement and that the
+14 consumer has been verbally provided with the specific date that the sales
+15 agreement may be cancelled without financial penalty, with the exception
+16 of any nonrefundable deposits collected;
+17 (c) The following statement in a bold font no smaller than twelve
+18 points adjacent to the signature line: The purchaser may cancel this
+19 transaction at any time prior to midnight in the time zone where the
+20 renewable energy system or battery energy storage system is to be
+21 installed on the fifth business day after the date of this transaction
+22 provided that the cancellation notice is sent to the president, chief
+23 executive officer, or salesperson of the renewable energy sales company
+24 or the president or chief executive officer of the installation company,
+25 and that the proof of the date or time of the cancellation notice may be
+26 verified by way of a receipt showing that the cancellation notice was
+27 sent by way of certified mail, registered mail, or by professional
+28 courier service, or by evidence that the cancellation notice was sent
+29 through email before time expired for the cancellation period;
+30 (d) A cancellation form written in the same format as in federal
+31 regulations regarding cooling-off periods for sales made for homes or
+-11-
+
+LB1003 LB1003
+2026 2026
+1 other locations; and
+2 (e) A statement showing that compliance with federal regulations
+3 adopted under the Federal Trade Commission Act of 1914, 15 U.S.C. 41 et
+4 seq., regarding cooling-off periods for sales made at homes or at other
+5 locations constitutes compliance with this subsection (5).
+6 Sec. 6. If a renewable energy system or battery energy storage
+7 system is financed, the financing documents shall include the following:
+8 (1) The length, terms, and cost of the financing agreement in clear
+9 and conspicuous language;
+10 (2) A statement that a salesperson may be employed by more than one
+11 renewable energy sales company; and
+12 (3) A notification of any security interest filed against the
+13 system, including Uniform Commercial Code financing statements.
+14 Sec. 7. (1) An independent contractor may be retained by a
+15 renewable energy sales company as a salesperson. Notwithstanding the
+16 salesperson's status as an independent contractor, the renewable energy
+17 sales company that employs the independent contractor as a salesperson is
+18 responsible for ensuring compliance with the Renewable Energy Consumer
+19 Protection Act and for any loss or damages resulting from noncompliance
+20 by the independent contractor when acting on behalf of the renewable
+21 energy sales company.
+22 (2) A salesperson may be employed by more than one renewable energy
+23 sales company.
+24 (3) Unless otherwise authorized in a state law or local government
+25 ordinance or invited by consumer, a salesperson shall not visit a
+26 residence to conduct the sale of a renewable energy storage system or
+27 battery energy storage system except between the hours of 9 a.m. and 8
+28 p.m. within the time zone of the consumer.
+29 (4) A salesperson shall not visit a residence that has posted a no
+30 solicitation sign in a prominent location near the main entrance to the
+31 residence.
+-12-
+
+LB1003 LB1003
+2026 2026
+1 Sec. 8. (1) For purposes of this section, written or digital sales
+2 material means an online sales banner, click-through banner, social media
+3 advertisement, pamphlet, booklet, and any other materials that could
+4 generate a sale or sale lead of a renewable energy system or a battery
+5 energy storage system, whether such material is delivered in person,
+6 through the United States Postal Service, through a private courier
+7 service, through email, or through other online means.
+8 (2) Renewable energy sales companies and salespersons for renewable
+9 energy sales companies are prohibited from:
+10 (a) Providing written, video, photographic, or digital sales
+11 material for a renewable energy system or battery energy storage system
+12 which includes a name, logo, picture, or other indicia of an electric
+13 utility unless the renewable energy sales company or the salesperson has
+14 received expressed written consent to provide such material from the
+15 relevant utility;
+16 (b) Purchasing sales leads from a renewable energy sales company
+17 which fails to comply with the requirements of this section;
+18 (c) Representing, verbally or in writing, that the renewable energy
+19 sales company is affiliated with, sponsored by, or approved by a
+20 consumer's local utility without the expressed written consent of the
+21 local utility; and
+22 (d) Representing, verbally or in writing, that the renewable energy
+23 sales company is affiliated with, sponsored by, or approved by a state
+24 incentive program without the expressed written consent of the agency in
+25 charge of administrating such incentive program.
+26 Sec. 9. (1) A renewable energy sales company, a salesperson
+27 representing a renewable energy sales company, and any other person
+28 designated to represent a renewable energy sales company for an agreement
+29 shall retain a copy of each signed agreement and any warranties for a
+30 period of at least ten years after the date of the transaction.
+31 (2) A consumer's personal information is confidential.
+-13-
+
+LB1003 LB1003
+2026 2026
+1 Sec. 10. (1) Within three days after entering into an agreement, a
+2 renewable energy sales company, a salesperson, or a designated
+3 representative of the renewable energy sales company shall conduct an in-
+4 person welcome call with the new consumer.
+5 (2) The welcome call shall include the following information:
+6 (a) Confirmation of the identification of the consumer;
+7 (b) The price of the renewable energy system or battery energy
+8 storage system;
+9 (c) A description of the project, including the system size
+10 expressed in kilowatts of direct current electricity and kilowatts of
+11 alternating current electricity, any battery energy storage system to be
+12 installed and the capacity of such system expressed in kilowatt-hours,
+13 and a statement that the renewable energy system will not provide backup
+14 power without being paired with a battery energy storage system;
+15 (d) In the case of a lease, the duration of the contract;
+16 (e) A statement indicating the consumer's right to cancel the
+17 agreement without financial penalty within five days after signing the
+18 contract;
+19 (f) A reminder that the consumer should review the disclosure form
+20 and agreement before the end of the fifth day after signing the contract;
+21 and
+22 (g) An explanation of the costs of the system being installed and
+23 any other applicable financing terms or details.
+24 Sec. 11. (1) A renewable energy sales company shall provide the
+25 consumer with a warranty against roof damage and water infiltration
+26 whenever roof penetration is made for the installation of a renewable
+27 energy system or battery energy storage system and such warranty shall be
+28 for a period of at least five years after the completion date of the
+29 installation.
+30 (2) A renewable energy sales company shall provide the consumer with
+31 a warranty addressing defects in the workmanship of a renewable energy
+-14-
+
+LB1003 LB1003
+2026 2026
+1 system or battery energy storage system and such warranty shall be for a
+2 period of at least five years after the completion date of the
+3 installation.
+4 (3) If a renewable energy sales company provides the consumer with a
+5 long-term maintenance plan for a renewable energy system or a battery
+6 energy storage system, such plan shall be made available to the consumer
+7 in writing and verbally. If a renewable energy sales company does not
+8 provide such a plan, the renewable energy sales company shall provide the
+9 consumer with a written explanation as to why a long-term maintenance
+10 plan is not being offered or provided.
+11 Sec. 12. A violation of the Renewable Energy Consumer Protection
+12 Act shall constitute a deceptive trade practice under the Uniform
+13 Deceptive Trade Practices Act and shall be subject to any remedies or
+14 penalties available for a violation of such act.
+15 Sec. 13. An electric utility that serves more than five thousand
+16 meters that offers financial incentives for renewable energy systems or
+17 battery energy storage systems shall clearly and prominently provide the
+18 following information on the utility's website:
+19 (1) Information on the number of financial incentives available for
+20 such systems, including information about the amount of budget that has
+21 already been spent to date and information about when the budget was last
+22 updated;
+23 (2) Information about how a customer or contractor can apply for the
+24 financial incentives; and
+25 (3) Information about the point in the process in which a customer
+26 may secure financial incentives from a utility program.
+27 Sec. 14. A renewable energy sales company or agent of such company
+28 shall not sell or lease a renewable energy system or battery energy
+29 storage system in this state without first registering their business
+30 with the Secretary of State. Any such company or agent shall disclose
+31 proof of registration with the Secretary of State to the customer before
+-15-
+
+LB1003 LB1003
+2026 2026
+1 entering into an agreement. Failure to disclose proof of registration
+2 before entering into an agreement shall render the agreement void.
+3 Sec. 15. (1) A person shall not install a renewable energy system
+4 or a battery energy storage system in this state unless such person is
+5 licensed as an electrical contractor in Nebraska.
+6 (2) A renewable energy system or battery energy storage system shall
+7 not be installed without first acquiring a relevant permit from the
+8 municipality where the system is to be installed or from the State of
+9 Nebraska.
+10 Sec. 16. The State Electric Board shall adopt and promulgate rules
+11 and regulations for the licensing and bonding of any person who installs
+12 renewable energy systems or battery energy storage systems in this state.
+13 Sec. 17. Section 87-302, Revised Statutes Supplement, 2025, is
+14 amended to read:
+15 87-302 (a) A person engages in a deceptive trade practice when, in
+16 the course of his or her business, vocation, or occupation, he or she:
+17 (1) Passes off goods or services as those of another;
+18 (2) Causes likelihood of confusion or of misunderstanding as to the
+19 source, sponsorship, approval, or certification of goods or services;
+20 (3) Causes likelihood of confusion or of misunderstanding as to
+21 affiliation, connection, or association with, or certification by,
+22 another;
+23 (4) Uses deceptive representations or designations of geographic
+24 origin in connection with goods or services;
+25 (5) Represents that goods or services have sponsorship, approval,
+26 characteristics, ingredients, uses, benefits, or quantities that they do
+27 not have or that a person has a sponsorship, approval, status,
+28 affiliation, or connection that he or she does not have;
+29 (6) Represents that goods or services do not have sponsorship,
+30 approval, characteristics, ingredients, uses, benefits, or quantities
+31 that they have or that a person does not have a sponsorship, approval,
+-16-
+
+LB1003 LB1003
+2026 2026
+1 status, affiliation, or connection that he or she has;
+2 (7) Represents that goods are original or new if they are
+3 deteriorated, altered, reconditioned, reclaimed, used, or secondhand,
+4 except that sellers may repair damage to and make adjustments on or
+5 replace parts of otherwise new goods in an effort to place such goods in
+6 compliance with factory specifications;
+7 (8) Represents that goods or services are of a particular standard,
+8 quality, or grade, or that goods are of a particular style or model, if
+9 they are of another;
+10 (9) Disparages the goods, services, or business of another by false
+11 or misleading representation of fact;
+12 (10) Advertises goods or services with intent not to sell them as
+13 advertised or advertises the price in any manner calculated or tending to
+14 mislead or in any way deceive a person;
+15 (11) Advertises goods or services with intent not to supply
+16 reasonably expectable public demand, unless the advertisement discloses a
+17 limitation of quantity;
+18 (12) Makes false or misleading statements of fact concerning the
+19 reasons for, existence of, or amounts of price reductions;
+20 (13) Uses or promotes the use of or establishes, operates, or
+21 participates in a pyramid promotional scheme in connection with the
+22 solicitation of such scheme to members of the public. This subdivision
+23 shall not be construed to prohibit a plan or operation, or to define a
+24 plan or operation as a pyramid promotional scheme, based on the fact that
+25 participants in the plan or operation give consideration in return for
+26 the right to receive compensation based upon purchases of goods,
+27 services, or intangible property by participants for personal use,
+28 consumption, or resale so long as the plan or operation does not promote
+29 or induce inventory loading and the plan or operation implements an
+30 appropriate inventory repurchase program;
+31 (14) With respect to a sale or lease to a natural person of goods or
+-17-
+
+LB1003 LB1003
+2026 2026
+1 services purchased or leased primarily for personal, family, household,
+2 or agricultural purposes, uses or employs any referral or chain referral
+3 sales technique, plan, arrangement, or agreement;
+4 (15) Knowingly makes a false or misleading statement in a privacy
+5 policy, published on the Internet or otherwise distributed or published,
+6 regarding the use of personal information submitted by members of the
+7 public;
+8 (16) Uses any scheme or device to defraud by means of:
+9 (i) Obtaining money or property by knowingly false or fraudulent
+10 pretenses, representations, or promises; or
+11 (ii) Selling, distributing, supplying, furnishing, or procuring any
+12 property for the purpose of furthering such scheme;
+13 (17) Offers an unsolicited check, through the mail or by other
+14 means, to promote goods or services if the cashing or depositing of the
+15 check obligates the endorser or payee identified on the check to pay for
+16 goods or services. This subdivision does not apply to an extension of
+17 credit or an offer to lend money;
+18 (18) Mails or causes to be sent an unsolicited billing statement,
+19 invoice, or other document that appears to obligate the consumer to make
+20 a payment for services or merchandise he or she did not order;
+21 (19)(i) Installs, offers to install, or makes available for
+22 installation or download a covered file-sharing program on a computer not
+23 owned by such person without providing clear and conspicuous notice to
+24 the owner or authorized user of the computer that files on that computer
+25 will be made available to the public and without requiring intentional
+26 and affirmative activation of the file-sharing function of such covered
+27 file-sharing program by the owner or authorized user of the computer; or
+28 (ii) Prevents reasonable efforts to block the installation,
+29 execution, or disabling of a covered file-sharing program;
+30 (20) Violates any provision of the Nebraska Foreclosure Protection
+31 Act;
+-18-
+
+LB1003 LB1003
+2026 2026
+1 (21) In connection with the solicitation of funds or other assets
+2 for any charitable purpose, or in connection with any solicitation which
+3 represents that funds or assets will be used for any charitable purpose,
+4 uses or employs any deception, fraud, false pretense, false promise,
+5 misrepresentation, unfair practice, or concealment, suppression, or
+6 omission of any material fact;
+7 (22)(i) In the manufacture, production, importation, distribution,
+8 promotion, display for sale, offer for sale, attempt to sell, or sale of
+9 a substance:
+10 (A) Makes a deceptive or misleading representation or designation,
+11 or omits material information, about a substance or fails to identify the
+12 contents of the package or the nature of the substance contained inside
+13 the package; or
+14 (B) Causes confusion or misunderstanding as to the effects a
+15 substance causes when ingested, injected, inhaled, or otherwise
+16 introduced into the human body.
+17 (ii) A person shall be deemed to have committed a violation of the
+18 Uniform Deceptive Trade Practices Act for each individually packaged
+19 product that is either manufactured, produced, imported, distributed,
+20 promoted, displayed for sale, offered for sale, attempted to sell, or
+21 sold in violation of this section. A violation under this subdivision (a)
+22 (22) shall be treated as a separate and distinct violation from any other
+23 offense arising out of acts alleged to have been committed while the
+24 person was in violation of this section;
+25 (23)(i) Manufactures, produces, publishes, distributes, monetizes,
+26 promotes, or otherwise makes publicly available any visual depiction of
+27 sexually explicit conduct, any obscene material, or any material that is
+28 harmful to minors in which any person depicted as a participant or
+29 observer:
+30 (A) Is under eighteen years of age;
+31 (B) Is a trafficking victim;
+-19-
+
+LB1003 LB1003
+2026 2026
+1 (C) Has not expressly and voluntarily consented to such person's
+2 depiction; or
+3 (D) Participated in any act depicted without consent.
+4 (ii) This subdivision (a)(23) does not apply to any
+5 telecommunications or broadband Internet access service.
+6 (iii) For purposes of this subdivision (a)(23):
+7 (A) Harmful to minors has the same meaning as in 47 U.S.C. 254, as
+8 such section existed on January 1, 2024;
+9 (B) Obscene material has the same meaning as in section 28-807;
+10 (C) Promote means to use any mechanism or publication, or take any
+11 action, that suggests, highlights, advertises, markets, curates,
+12 backlinks, hashtags, or otherwise directs, attempts to direct, or
+13 encourages traffic toward specific materials, including acts carried out
+14 affirmatively, through automation, algorithmically, and via other
+15 technical means both known and unknown at this time;
+16 (D) Publish means to communicate or make information available to
+17 another person via an Internet website, regardless of whether the person
+18 consuming, viewing, or receiving the material gives any consideration for
+19 the published material;
+20 (E) Trafficking victim has the same meaning as in section 28-830;
+21 (F) Visual depiction of sexually explicit conduct has the same
+22 meaning as in section 28-1802; and
+23 (G) Without consent has the same meaning as in section 28-318;
+24 (24) Offers or enters into a right-to-list home sale agreement as
+25 defined in section 81-885.01; or
+26 (25) Violates section 81-2,282; or .
+27 (26) Violates any provision of the Renewable Energy Consumer
+28 Protection Act.
+29 (b) In order to prevail in an action under the Uniform Deceptive
+30 Trade Practices Act, a complainant need not prove competition between the
+31 parties.
+-20-
+
+LB1003 LB1003
+2026 2026
+1 (c) This section does not affect unfair trade practices otherwise
+2 actionable at common law or under other statutes of this state.
+3 Sec. 18. This act becomes operative on January 1, 2027.
+4 Sec. 19. Original section 87-302, Revised Statutes Supplement,
+5 2025, is repealed.
+-21-
+
+[DELETED: yMA B F A A r t c p t a s8 R S S 2 t a t RE C P A t p a d tpsB3L62]
+[DELETED: ScS( R e s f r a s ba(p( R e s f r a s ba a m p w w c p a0o1( S d c s m2w3c h t b i a b p o4i5( C i N s b g c a a6i r t n o a c t l o p 7r8a9S 3  F p o t R E C P0A1(2c3( A c f t p o a r e s o4b5( A l f a t r e s o6b7( A i a c o f p o a r8e9( B e s s m a s o f0i1(3L62]
+[DELETED: (( I l o t r p o a c o a eu( I c o t c s o t e ma(r(e a A p o b s n b c a p0a1(2o3e4(5( A e o t t c t i a r6e7o8(9(0t1a2o n e t a t a p t3a4t p o o b t o o t s u t5e6(7(8a9s0(1e s s t i o b a t p f w t3L62]
+[DELETED: c(r o s b a w u s o we( S m a e o i c o r e s c w s s n oe a f r e s o b esS0w1s2w3t4( T n o t r e s c a c5i6(7t8( T n o t s m p a c9i0(1a2d3( S d a i s s e4f p e a s p d5p6t7( A e o t m o a m8r o t r e s o b e s9s i a e o e a l w a0m1( W f t r o a c a p o t3L62]
+[DELETED: rcsf r b t r e s s c t au r o a s p f a r m v twae( C a l f t i a r o t0r1(2(3o4t5s6s7(8w p t t c S d s i t9a0b s b u t c p t m o u1b a t e s p a t t o c2s3( T p a o r e c4i5f6(7b8(9i0( A e o a r p a r r b1t3L62]
+[DELETED: (ca r e s c s p a c w tft(pb a n a a r e o c s Ta0a1f t c b o w a r e s o b2e3e4t5(6b7u F i o t s i p a8p f a r e s o b e s9s0(1e2l a l t d b e i a a w 3c t c s p t c w t w4d f p t s ( o t s w t5f6f7(8( T a o e m p f t f y o t9l0(1t3L62]
+[DELETED: ( T r o a p i a t d o t fi(( P d d a t m i w t c sr(fso0(1c2r3( A e o a r p a r r b4t5( I t c o a p o a r r e6s o b e s s a l t d b7e8s p a c w t w d f p t9s0o t a p o l i a f n s t t1p2(3( E s a c d f i4a b t f s S a c d a5o6c7( A d n t c o t p o p8r9( T f s L a r a s a0f1d s n b c a t a T p o 3L62]
+[DELETED: r e s o b e s s i hers(eSs( I i c l k c t s a0p1(2( I a d r p w t r3p4w5c6w i W a d i a a t r7p o d s i i b t r e8s9s0s d p t t s d o t r p a t1n s i a e o t d c2o3r4a5( A a f t s o a r e s o 6b7( T n o t r e s c a c8i9(0t1( T n o a c i f t s p3L62]
+[DELETED: aos( A s w s s o n a sa s d t f i t t c al( T p p o t r e s o be(0( A d o t p i t s s1e i k o d c e a k o2a c e a a s m i o3b4( T e s a c d f i5a6d7i a I a a c b8t9( A e o a w o g i t0t1W T C I A 1 U 2 e2s3(4( A s i w p o p a r5f f t i a a w a a f6a7( A s w s s o n a l8a s d t f i t t c a9l0( T n a c i o t l t r1e s o b e s s m t3L62]
+[DELETED: i c a t s w n t la( T m o m o c t b u b ts( T t p r p t t l a tpo( A d o t p i t s se i k o d c e a k o0a c e a a s m i o1b2( T e s a c d f i3a4d5i a I a a c b6t7( A e o a w o g i t8t9W T C I A 1 U 2 e0s1(2e3(4t l r e s o b e s s5e6a7(8a9( W p o p a r f f t0i1o3L62]
+[DELETED: (i((e(a r t i s a t c t aw a f p w t e o a nd0a1(2t c t c r t r t a w3f4c5a6o7(8p a t t s l T p m c t9t a a t p t m i t t z w t0r e s o b e s s i t b1i2p t t c n i s t t p c3e4o5a6v b w o a r s t t c n w7s b w o c m r m o b p8c s o b e t t c n w s9t0( A c f w i t s f a i f1r r c p f s m f h o3L62]
+[DELETED: o( A s s t c w f raslS 6  I a r e s o b e ss(a0(1r2( A n o a s i f a t3s4S 7  ( A i c m b r b 5r e s c a a s N t6s7s8r f e c w t R E C9P0b t i c w a o b o t r1e2(3s4(5o o i b c a s s n v 6r t c t s o a r e s s o7b8p9(0s1r3L62]
+[DELETED: Sma p b a a o m t cge s s w s m i d i pt t U S P S t a p cs(e0( P w v p o d s1m2w i a n l p o o i o a e3u4r e w c t p s m f t5r6( P s l f a r e s c7w8(9s c i a w s b o a b 0c l u w t e w c o t1l2(3s4i5c6S 9  ( A r e s c a s7r a r e s c a a o p8d9s r a c o e s a a a w f 0p1(3L62]
+[DELETED: Sr e s c a s o a drp((( T p o t r e s o b es( A d o t p i t s s0e i k o d c e a k o1a2i a t c o s s e i k3a4p5(6( A s i t c r t c t7a w f p w f d a s t8c9(0a1a2(3a4S 1  ( A r e s c s p t5c w a w a r d a w i6w r p i m f t i o a r7e8f a p o a l f y a t c d o t9i0(1a3L62]
+[DELETED: sp o a l f y a t c d o ti(l m p f a r e s o a bei w a v I a r e s c d npc w a w e a t w a l m0p1S 1  A v o t R E C P2A s c a d t p u t U3D T P A a s b s t a r o4p5S6m7b8f9(0s1a2u3(4f5(6m7S8s n s o l a r e s o b e9s s i t s w f r t b0w t S o S A s c o a s d1p3L62]
+[DELETED: e i a a F t d p o rbSol(n b i w f a a r p f tm w t s i t b i o f t S oN0S1a2r3S 1 S 8 R S S 2 i4a586t7(8(9s0( C l o c o o m a t1a c o a w o c b2a3( U d r o d o g4o5( R t g o s h s a6c7n h o t a p h a s a s8a9( R t g o s d n h s0a c i u b o q1t3L62]
+[DELETED: s( R t g a o o n i t ad a r r u o se t s m r d t a m a o orc(qt0(1o2(3a4m5( A g o s w i n t s6r7l8( M f o m s o f c t9r0( U o p t u o o e o o1p i a p p s i c w t2s3s4p5p6t r t r c b u p o g7s o i p b p f p u8c9o i i l a t p o o i a0a1(3L62]
+[DELETED: sos( K m a f o m s i a ppr t u o p i s b m o tp(( O m o p b k f o f0p1(2p3( O a u c t t m o b o4m5c6g o s T s d n a t a e o7c8( M o c t b s a u b s9i0a1( I o t i o m a f2i3o4t5w6a7f8( P r e t b t i9e0(1A3L62]
+[DELETED: ( I c w t s o f o o afru o e a d f f p f pm u p o c s oo( I t m p i dpa0(1o2c3t4( C c o m a t t e 5s c w i i i o o6i7(8U D T P A f e i p9p t i e m p i d0p d f s o f s a t s o1s2(3o a o o a a t h b c w t4p5( M p p d m6p7s8h t m i w a p d a a p o9o0(1(3L62]
+[DELETED: ( H n e a v c t s pd(( T s ( d n a t at((s(0(1a t s h a m c2b h o o d a t d o3e4a t a a a v o5t6( P m t c o m i a t7a8c9t0(1( V d o s e c h t s2m3(4( O o e i a r h s a a5d6(7( V a p o t R E C8P9( I o t p i a a u t U D0T1p3L62]
+[DELETED: ( T s d n a u t p oaSS 1  O s 8 R S S23L62]

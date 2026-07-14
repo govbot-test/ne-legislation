@@ -1,0 +1,150 @@
+Title: Introduced by Guereca, 7, Chairman Enrollment and Review
+Official Title: Introduced by Guereca, 7, Chairman Enrollment and Review
+Number of Sections: 1
+Source: versions - Enrollment and Review ER119
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+ER119 ER119
+LB771 LB771
+MMM - 02/13/2026 MMM - 02/13/2026
+E AND R AMENDMENTS TO LB 771
+1 1. Strike the original sections and all amendments thereto and
+2 insert the following new sections:
+3 Section 1. Section 75-327, Reissue Revised Statutes of Nebraska, is
+4 amended to read:
+5 75-327 (1) A participating driver shall not provide a ride unless it
+6 is a prearranged ride. No person shall be a participating driver for a
+7 period of more than twelve hours during each twenty-four-hour period.
+8 (2)(a) A transportation network company may offer service for
+9 compensation, no charge, or suggested compensation.
+10 (b) Except as provided in this section, transportation network
+11 companies shall not be subject to rate regulation by the commission and
+12 shall not be subject to provisions relating to rates and charges
+13 prescribed in sections 75-101 to 75-158.
+14 (c) A transportation network company shall file with the commission
+15 the rates it uses to determine any compensation or suggested compensation
+16 on its online-enabled application or platform, including any use of
+17 dynamic pricing. The transportation network company shall keep the rate
+18 filing current and shall charge rates consistent with the rates it files
+19 with the commission.
+20 (d) The following requirements apply if the transportation network
+21 company uses dynamic pricing through its online-enabled application or
+22 platform:
+23 (i) The transportation network company's online-enabled application
+24 or platform shall provide clear visible indication that dynamic pricing
+25 is in effect prior to the passenger requesting a ride;
+26 (ii) The transportation network company's online-enabled application
+27 or platform shall include a feature that requires the passenger to
+-1-
+ER119 ER119
+LB771 LB771
+MMM - 02/13/2026 MMM - 02/13/2026
+1 expressly confirm that he or she understands that dynamic pricing will be
+2 used in order for the ride request to be completed;
+3 (iii) The transportation network company's online-enabled
+4 application or platform shall provide a fare estimator that enables the
+5 passenger to estimate the cost under dynamic pricing prior to requesting
+6 the ride; and
+7 (iv) Dynamic pricing shall not be permitted for seven days after any
+8 state of emergency declared by the Governor. The prohibition shall be
+9 confined to the areas delineated in the Governor's emergency
+10 proclamation. The Governor may further regulate dynamic pricing at his or
+11 her discretion during any state of emergency through executive order.
+12 Dynamic pricing shall not be permitted during any state of emergency
+13 declared by the Governor.
+14 (3) Upon completion of a prearranged ride, a transportation network
+15 company shall transmit an electronic receipt to the passenger's email
+16 address or online-enabled application documenting the following:
+17 (a) The point of origin and destination of the prearranged ride;
+18 (b) The total duration and distance of the prearranged ride;
+19 (c) The total amount paid, if any, including the base fare and any
+20 additional charges incurred for distance traveled or duration of the
+21 prearranged ride; and
+22 (d) The driver's first name.
+23 Sec. 2. Original section 75-327, Reissue Revised Statutes of
+24 Nebraska, is repealed.
+25 Sec. 3. Since an emergency exists, this act takes effect when
+26 passed and approved according to law.
+27 2. On page 1, line 4, strike "and"; and in line 5 after "section"
+28 insert "; and to declare an emergency".
+-2-
+[DELETED: yG1 S t o s a a a t aiSa7ip( A t n c m o s fc0( E a p i t s t n1c2s n b s t p r t r a c3p4(5t6o i o a o p i a u o7d8f9w0(1c u d p t i o a o2p3(4o5i6(7o p s i a f t r t p t9E1L6M]
+[DELETED: eu( T t n c oapt(s o e d b t G T p s bc t t a d i t G e0p1h d d a s o e t e o2D p s n b p d a s o e3d4(5c s t a e r t t p e6a7(8(9(0a c i f d t o d o t1p2(3S 2  O s 7 R R S o4N5S 3  S a e e t a t e w6p728i9E1L6M]
+
+
+================================================================================
+
+Raw Text:
+ER119 ER119
+LB771 LB771
+MMM - 02/13/2026 MMM - 02/13/2026
+E AND R AMENDMENTS TO LB 771
+Introduced by Guereca, 7, Chairman Enrollment and Review
+1 1. Strike the original sections and all amendments thereto and
+2 insert the following new sections:
+3 Section 1. Section 75-327, Reissue Revised Statutes of Nebraska, is
+4 amended to read:
+5 75-327 (1) A participating driver shall not provide a ride unless it
+6 is a prearranged ride. No person shall be a participating driver for a
+7 period of more than twelve hours during each twenty-four-hour period.
+8 (2)(a) A transportation network company may offer service for
+9 compensation, no charge, or suggested compensation.
+10 (b) Except as provided in this section, transportation network
+11 companies shall not be subject to rate regulation by the commission and
+12 shall not be subject to provisions relating to rates and charges
+13 prescribed in sections 75-101 to 75-158.
+14 (c) A transportation network company shall file with the commission
+15 the rates it uses to determine any compensation or suggested compensation
+16 on its online-enabled application or platform, including any use of
+17 dynamic pricing. The transportation network company shall keep the rate
+18 filing current and shall charge rates consistent with the rates it files
+19 with the commission.
+20 (d) The following requirements apply if the transportation network
+21 company uses dynamic pricing through its online-enabled application or
+22 platform:
+23 (i) The transportation network company's online-enabled application
+24 or platform shall provide clear visible indication that dynamic pricing
+25 is in effect prior to the passenger requesting a ride;
+26 (ii) The transportation network company's online-enabled application
+27 or platform shall include a feature that requires the passenger to
+-1-
+
+ER119 ER119
+LB771 LB771
+MMM - 02/13/2026 MMM - 02/13/2026
+1 expressly confirm that he or she understands that dynamic pricing will be
+2 used in order for the ride request to be completed;
+3 (iii) The transportation network company's online-enabled
+4 application or platform shall provide a fare estimator that enables the
+5 passenger to estimate the cost under dynamic pricing prior to requesting
+6 the ride; and
+7 (iv) Dynamic pricing shall not be permitted for seven days after any
+8 state of emergency declared by the Governor. The prohibition shall be
+9 confined to the areas delineated in the Governor's emergency
+10 proclamation. The Governor may further regulate dynamic pricing at his or
+11 her discretion during any state of emergency through executive order.
+12 Dynamic pricing shall not be permitted during any state of emergency
+13 declared by the Governor.
+14 (3) Upon completion of a prearranged ride, a transportation network
+15 company shall transmit an electronic receipt to the passenger's email
+16 address or online-enabled application documenting the following:
+17 (a) The point of origin and destination of the prearranged ride;
+18 (b) The total duration and distance of the prearranged ride;
+19 (c) The total amount paid, if any, including the base fare and any
+20 additional charges incurred for distance traveled or duration of the
+21 prearranged ride; and
+22 (d) The driver's first name.
+23 Sec. 2. Original section 75-327, Reissue Revised Statutes of
+24 Nebraska, is repealed.
+25 Sec. 3. Since an emergency exists, this act takes effect when
+26 passed and approved according to law.
+27 2. On page 1, line 4, strike "and"; and in line 5 after "section"
+28 insert "; and to declare an emergency".
+-2-
+
+[DELETED: yG1 S t o s a a a t aiSa7ip( A t n c m o s fc0( E a p i t s t n1c2s n b s t p r t r a c3p4(5t6o i o a o p i a u o7d8f9w0(1c u d p t i o a o2p3(4o5i6(7o p s i a f t r t p t9E1L6M]
+[DELETED: eu( T t n c oapt(s o e d b t G T p s bc t t a d i t G e0p1h d d a s o e t e o2D p s n b p d a s o e3d4(5c s t a e r t t p e6a7(8(9(0a c i f d t o d o t1p2(3S 2  O s 7 R R S o4N5S 3  S a e e t a t e w6p728i9E1L6M]

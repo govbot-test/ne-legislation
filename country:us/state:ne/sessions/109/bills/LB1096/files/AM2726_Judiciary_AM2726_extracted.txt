@@ -1,0 +1,1933 @@
+Title: 1 1. Strike the original sections and insert the following new
+Official Title: 1 1. Strike the original sections and insert the following new
+Number of Sections: 1
+Source: versions - Judiciary AM2726
+Media Type: application/pdf
+Strikethrough Detection: 27 sections found
+
+================================================================================
+
+Section 1:
+AM2726 AM2726
+LB1096 LB1096
+JNH - 03/17/2026 JNH - 03/17/2026
+AMENDMENTS TO LB1096
+Introduced by Judiciary.
+2 sections:
+3 Section 1. Sections 1 to 5 of this act shall be known and may be
+4 cited as the Preventing Lethal Agricultural and National Threats Act.
+5 Sec. 2. For purposes of the Preventing Lethal Agricultural and
+6 National Threats Act:
+7 (1) Department means the Department of Agriculture; and
+8 (2) High-risk agricultural pathogen or pest means:
+9 (a) Any disease or pest included in the list of diseases or pests of
+10 concern, as such list existed on January 1, 2026, established by the
+11 Animal and Plant Health Inspection Service of the United States
+12 Department of Agriculture pursuant to 7 U.S.C. 8914; and
+13 (b) Any agent, toxin, or organism designated under section 5 of this
+14 act as a high-risk agricultural pathogen or pest.
+15 Sec. 3. (1) Except as otherwise provided in this section, no person
+16 shall:
+17 (a) Knowingly import a high-risk agricultural pathogen or pest into
+18 this state; or
+19 (b) Import a high-risk agricultural pathogen or pest into this state
+20 with a conscious disregard of a substantial or unjustifiable risk that
+21 the high-risk agricultural pathogen or pest could cause significant harm
+22 to crops, livestock, or agricultural ecosystems.
+23 (2) A person may import a high-risk agricultural pathogen or pest
+24 into this state if such person possesses a permit or authorization for
+25 such importation from the department or the Animal and Plant Health
+26 Inspection Service of the United States Department of Agriculture.
+27 Sec. 4. (1) Except as otherwise provided in this section, a
+-1-
+AM2726 AM2726
+LB1096 LB1096
+JNH - 03/17/2026 JNH - 03/17/2026
+1 violation of section 3 of this act is a Class III felony.
+2 (2) A violation of section 3 of this act is a Class IIA felony if
+3 the violation:
+4 (a) Involves concealment of the origin of a high-risk agricultural
+5 pathogen or pest;
+6 (b) Is committed by a person acting on behalf of, or funded by, a
+7 foreign government; or
+8 (c) Results in actual economic damage exceeding one million dollars.
+9 Sec. 5. (1) The department may adopt and promulgate rules and
+10 regulations that designate any agent, toxin, or organism as a high-risk
+11 agricultural pathogen or pest if such agent, toxin, or organism is
+12 capable of causing significant harm to crops, livestock, or agricultural
+13 ecosystems.
+14 (2) The department may adopt and promulgate rules and regulations to
+15 carry out the Preventing Lethal Agricultural and National Threats Act.
+16 Sec. 6. (1) For purposes of this section:
+17 (a) Company means a for-profit sole proprietorship, organization,
+18 association, corporation, partnership, joint venture, limited
+19 partnership, limited liability partnership, or limited liability company,
+20 including a wholly owned subsidiary, majority owned subsidiary, parent
+21 company, or affiliate of those entities or business associations that
+22 exists to make a profit;
+23 (b) Critical infrastructure means the 911 system, a communication
+24 infrastructure system, a cybersecurity system, a high voltage electric
+25 grid, a hazardous waste treatment system, or a water treatment facility;
+26 (c) Cybersecurity means the measures taken to protect a computer,
+27 computer network, computer system, or other technology infrastructure
+28 against unauthorized use or access;
+29 (d) Foreign adversary means those countries listed in 15 C.F.R.
+30 791.4, as such regulation existed on January 1, 2026;
+31 (e) Foreign principal means:
+-2-
+AM2726 AM2726
+LB1096 LB1096
+JNH - 03/17/2026 JNH - 03/17/2026
+1 (i) The government or any official of the government of a foreign
+2 adversary;
+3 (ii) A political party of a foreign adversary or a member of such
+4 political party or any subdivision of such political party;
+5 (iii)(A) A partnership, an association, a corporation, an
+6 organization, or any other combination of persons organized under the
+7 laws of or having its principal place of business in a foreign adversary;
+8 (B) A subsidiary of an entity described in subdivision (1)(e)(iii)
+9 (A) of this section; or
+10 (C) An entity owned or controlled wholly or in part by any person,
+11 entity, or collection of persons or entities described in subdivision (1)
+12 (e)(iii)(A) or (B) of this section;
+13 (iv) Any person who is domiciled in a foreign adversary and is not a
+14 citizen or lawful permanent resident of the United States; and
+15 (v) Any person, entity, or collection of persons or entities
+16 described in subdivisions (1)(e)(i) through (iv) of this section having a
+17 controlling interest in a partnership, association, corporation,
+18 organization, trust, or any other legal entity or subsidiary formed for
+19 the purpose of owning real property; and
+20 (f) Governmental entity means any agency, department, board,
+21 commission, or political subdivision of the state that owns, operates,
+22 manages, or provides oversight for critical infrastructure.
+23 (2)(a) A company or other entity constructing, repairing, operating,
+24 or otherwise having significant access to critical infrastructure shall
+25 not knowingly enter into a contract or other agreement relating to
+26 critical infrastructure in this state with a foreign principal if the
+27 contract or other agreement would allow the foreign principal to directly
+28 or remotely access or control critical infrastructure in this state.
+29 (b) A governmental entity shall not knowingly enter into a contract
+30 or other agreement relating to critical infrastructure in this state with
+31 a company that is a foreign principal if the contract or other agreement
+-3-
+AM2726 AM2726
+LB1096 LB1096
+JNH - 03/17/2026 JNH - 03/17/2026
+1 would allow the foreign principal to directly or remotely access or
+2 control critical infrastructure in this state.
+3 (c) Notwithstanding subdivisions (2)(a) and (b) of this section, a
+4 company or other entity may enter into a contract or agreement relating
+5 to critical infrastructure with a foreign principal if all of the
+6 following apply:
+7 (i) There is no other reasonable option for addressing the need
+8 relevant to state critical infrastructure; and
+9 (ii) Not entering into such contract or agreement would pose a
+10 greater threat to the state than the threat associated with entering into
+11 the contract.
+12 Sec. 7. Section 49-1480, Revised Statutes Supplement, 2025, is
+13 amended to read:
+14 49-1480 (1) Every person employed, retained, or authorized as a
+15 lobbyist shall, before commencing any lobbying activity:
+16 (a) File an application with the Clerk of the Legislature for
+17 registration as a lobbyist, and if the clerk is satisfied that the
+18 application has been properly prepared the registration shall be deemed
+19 to be complete. The application shall be on a form prescribed by the
+20 clerk and approved by the Executive Board of the Legislative Council, and
+21 shall include as a minimum the following:
+22 (i) The name, permanent residence address, and office address of the
+23 lobbyist;
+24 (ii) The name and address of the principal of such lobbyist;
+25 (iii) The nature of the business of such principal and the amounts
+26 or sums given or to be given the lobbyist as compensation or
+27 reimbursement for lobbying. A lobbyist who is salaried or retained by a
+28 principal need only report that portion of compensation or reimbursement
+29 reasonably attributable to lobbying;
+30 (iv) A description of the business activity of the lobbyist;
+31 (v) An identification of the matters on which the principal or
+-4-
+AM2726 AM2726
+LB1096 LB1096
+JNH - 03/17/2026 JNH - 03/17/2026
+1 lobbyist expects to lobby;
+2 (vi) If the principal is a Chinese military company, an affirmative
+3 acknowledgment by the lobbyist that such lobbyist is lobbying on behalf
+4 of, and thereby acting as an agent of, a foreign adversary of the United
+5 States;
+6 (vii) If the principal is an industry, trade, or professional
+7 association, a specific description of the industry, trade, or profession
+8 represented by the principal and the names and addresses of its officers;
+9 (viii) If the principal is not an industry, trade, or professional
+10 association, a specific description of the interests and groups
+11 represented by the principal and the names and addresses of its officers;
+12 and
+13 (ix) The name and address of any official in the legislative or
+14 executive branch, and of any members of any such official's staff or
+15 immediate family, who are employed by the lobbyist or any person acting
+16 on behalf of such lobbyist if such information is known or reasonably
+17 should have been known to the lobbyist.
+18 (b) If any such lobbying activity is on behalf of a Chinese military
+19 company, disclose that such Chinese military company is a foreign
+20 adversary of the United States. For purposes of this subdivision (b),
+21 lobbying activity includes, but is not limited to, lobbying by means of
+22 telephone, electronic mail, United States mail or other mail delivery
+23 service, in-person meetings, or testimony at legislative hearings.
+24 (2)(a) Every person employed, retained, or authorized as a
+25 consultant for a Chinese military company shall, before commencing any
+26 influencing activity in Nebraska for such Chinese military company:
+27 (i) File with the commission, on a form prescribed by the
+28 commission, information that shall include as a minimum, the following:
+29 (A) The name, permanent residence address, and office address of the
+30 consultant;
+31 (B) The name and address of the Chinese military company represented
+-5-
+AM2726 AM2726
+LB1096 LB1096
+JNH - 03/17/2026 JNH - 03/17/2026
+1 by such consultant;
+2 (C) A description of the business activity of the consultant;
+3 (D) An identification of the matters on which the consultant expects
+4 to conduct influencing activity on behalf of such Chinese military
+5 company;
+6 (E) An affirmative acknowledgment by the consultant that such
+7 consultant is influencing on behalf of, and thereby acting as an agent
+8 of, a foreign adversary of the United States; and
+9 (F) The name and address of any official in the legislative or
+10 executive branch, and of any members of any such official's staff or
+11 immediate family, who are employed by the consultant or any person acting
+12 on behalf of such consultant if such information is known or reasonably
+13 should have been known to the consultant; and
+14 (ii) Disclose that such Chinese military company is a foreign
+15 adversary of the United States.
+16 (b) For purposes of this subsection, influencing activity includes,
+17 but is not limited to, influencing by means of telephone, electronic
+18 mail, United States mail or other mail delivery service, or in-person
+19 meetings.
+20 (3) Any person who violates subdivision (1)(a)(vi) or (1)(b) or
+21 subsection (2) of this section shall be subject to a civil penalty of one
+22 hundred thousand dollars for each violation. For any subsequent
+23 violation, the civil penalty shall be increased by one hundred thousand
+24 dollars more than the previously assessed penalty, not to exceed one
+25 million dollars per violation. All penalties collected under this section
+26 shall be remitted to the State Treasurer for distribution in accordance
+27 with Article VII, section 5, of the Constitution of Nebraska.
+28 (4) For purposes of this section: ,
+29 (a) Chinese military company has the same meaning as in section
+30 1260H of Public Law 116-283, as such section existed on April 1, 2025,
+31 and includes any subsidiary of a Chinese military company or any company
+-6-
+AM2726 AM2726
+LB1096 LB1096
+JNH - 03/17/2026 JNH - 03/17/2026
+1 owned or controlled, in whole or in part, by a Chinese military company;
+2 and .
+3 (b) Consultant means any person who engages in informing or advising
+4 any other person regarding the policies of the State of Nebraska or the
+5 political or public interest, policies, or relations of a foreign country
+6 or of a foreign political party.
+7 Sec. 8. Section 77-3,114, Revised Statutes Supplement, 2025, is
+8 amended to read:
+9 77-3,114 (1) For purposes of this section:
+10 (a) Company means any corporation, partnership, association,
+11 organization, or other combination of persons;
+12 (b) Foreign adversary means those countries listed in 15 C.F.R.
+13 791.4, as such regulation existed on April 1, 2025;
+14 (c) Foreign adversarial company means a company that:
+15 (i) Is organized under the laws of a foreign adversary;
+16 (ii) Has its principal place of business within a foreign adversary;
+17 (iii) Is owned in whole or in part, operated, or controlled,
+18 directly or indirectly, by the government of a foreign adversary; or
+19 (iv) Is a direct or indirect subsidiary or parent of any company
+20 otherwise described in subdivisions (1)(c)(i), (ii), or (iii) subdivision
+21 (1)(c) of this section; and
+22 (d) Government of a foreign adversary means any person or group of
+23 persons exercising sovereign de facto or de jure political jurisdiction
+24 over any foreign adversary, or over any part of such country, and
+25 includes any subdivision of any such group and any group or agency to
+26 which such sovereign de facto or de jure authority or functions are
+27 directly or indirectly delegated. Such term shall include any faction or
+28 body of insurgents within a country assuming to exercise governmental
+29 authority whether such faction or body of insurgents has or has not been
+30 recognized by the United States; .
+31 (e) Group of companies means each person that is or would otherwise
+-7-
+AM2726 AM2726
+LB1096 LB1096
+JNH - 03/17/2026 JNH - 03/17/2026
+1 be a member of the same unitary group if incorporated;
+2 (f) Indirect subsidiary of a company means a company owned by
+3 another company through one or more intermediary companies rather than
+4 through direct ownership; and
+5 (g) Any other term in this section shall have the same meaning as
+6 used in the Nebraska Revenue Act of 1967.
+7 (2) A foreign adversarial company shall be ineligible to receive any
+8 benefits under an incentive program of the State of Nebraska, including
+9 under:
+10 (a) The Beginning Farmer Tax Credit Act;
+11 (b) The ImagiNE Nebraska Act;
+12 (c) The Nebraska Advantage Microenterprise Tax Credit Act;
+13 (d) The Nebraska Advantage Research and Development Act;
+14 (e) The Nebraska Advantage Rural Development Act;
+15 (f) The Nebraska Job Creation and Mainstreet Revitalization Act;
+16 (g) The New Markets Job Growth Investment Act;
+17 (h) The Urban Redevelopment Act; and
+18 (i) Any other tax or other incentive program created by legislative
+19 or executive action for the purpose of recruitment or retention of
+20 businesses in Nebraska.
+21 (3) Any company that is not a foreign adversarial company shall only
+22 use benefits against income taxes of the members of the same group of
+23 companies that are not foreign adversarial companies. The tax liability
+24 attributable to members of the unitary group that are foreign adversarial
+25 companies shall be determined using the apportionment formula used to
+26 determine the amount of tax due.
+27 Sec. 9. Section 77-27,187.02, Revised Statutes Supplement, 2025, is
+28 amended to read:
+29 77-27,187.02 (1) To earn the incentives set forth in the Nebraska
+30 Advantage Rural Development Act, the taxpayer shall file an application
+31 for an agreement with the Tax Commissioner. There shall be no new
+-8-
+AM2726 AM2726
+LB1096 LB1096
+JNH - 03/17/2026 JNH - 03/17/2026
+1 applications for incentives filed under this section after December 31,
+2 2027.
+3 (2) The application shall contain:
+4 (a) A written statement describing the full expected employment or
+5 type of livestock production and the investment amount for a qualified
+6 business, as described in section 77-27,189, in this state;
+7 (b) Sufficient documents, plans, and specifications as required by
+8 the Tax Commissioner to support the plan and to define a project; and
+9 (c) An application fee of (i) one hundred dollars for an investment
+10 amount of less than twenty-five thousand dollars, (ii) two hundred fifty
+11 dollars for an investment amount of at least twenty-five thousand dollars
+12 but less than fifty thousand dollars, and (iii) five hundred dollars for
+13 an investment amount of fifty thousand dollars or more. The fee shall be
+14 remitted to the State Treasurer for credit to the Nebraska Incentives
+15 Fund. The application and all supporting information shall be
+16 confidential except for the name of the taxpayer, the location of the
+17 project, and the amounts of increased employment or investment.
+18 (3)(a) The Tax Commissioner shall approve the application and
+19 authorize the total amount of credits expected to be earned as a result
+20 of the project if he or she is satisfied that the plan in the application
+21 defines a project that (i) meets the requirements established in section
+22 77-27,188 and such requirements will be reached within the required time
+23 period and (ii) for projects other than livestock modernization or
+24 expansion projects, is located in an eligible county, city, or village.
+25 (b) For applications filed in calendar year 2016 and each year
+26 thereafter, the Tax Commissioner shall not approve further applications
+27 from applicants described in subsection (1) of section 77-27,188 once the
+28 expected credits from approved projects in this category total: For
+29 calendar years 2016 through 2022, one million dollars; for calendar years
+30 2023 through 2025, two million dollars; and for calendar year 2026 and
+31 each calendar year thereafter, one million dollars. For applications
+-9-
+AM2726 AM2726
+LB1096 LB1096
+JNH - 03/17/2026 JNH - 03/17/2026
+1 filed in calendar year 2016 and each year thereafter, the Tax
+2 Commissioner shall not approve further applications from applicants
+3 described in subsection (2) of section 77-27,188 once the expected
+4 credits from approved projects in this category total: For calendar year
+5 2016, five hundred thousand dollars; for calendar years 2017 and 2018,
+6 seven hundred fifty thousand dollars; for calendar years 2019, 2020, and
+7 2021, one million dollars; for calendar years 2022 through 2024, ten
+8 million dollars; for calendar year 2025, seven million five hundred
+9 thousand dollars; and for calendar year 2026 and each calendar year
+10 thereafter, one million dollars. Four hundred dollars of the application
+11 fee shall be refunded to the applicant if the application is not approved
+12 because the expected credits from approved projects exceed such amounts.
+13 (c) Applications for benefits shall be considered separately and in
+14 the order in which they are received for the categories represented by
+15 subsections (1) and (2) of section 77-27,188.
+16 (d) Applications shall be filed by November 1 and shall be complete
+17 by December 1 of each calendar year. Any application that is filed after
+18 November 1 or that is not complete on December 1 shall be considered to
+19 be filed during the following calendar year.
+20 (4) After approval, the taxpayer and the Tax Commissioner shall
+21 enter into a written agreement. The taxpayer shall agree to complete the
+22 project, and the Tax Commissioner, on behalf of the State of Nebraska,
+23 shall designate the approved plans of the taxpayer as a project and, in
+24 consideration of the taxpayer's agreement, agree to allow the taxpayer to
+25 use the incentives contained in the Nebraska Advantage Rural Development
+26 Act up to the total amount that were authorized by the Tax Commissioner
+27 at the time of approval. The application, and all supporting
+28 documentation, to the extent approved, shall be considered a part of the
+29 agreement. The agreement shall state:
+30 (a) The levels of employment and investment required by the act for
+31 the project;
+-10-
+AM2726 AM2726
+LB1096 LB1096
+JNH - 03/17/2026 JNH - 03/17/2026
+1 (b) The time period under the act in which the required level must
+2 be met;
+3 (c) The documentation the taxpayer will need to supply when claiming
+4 an incentive under the act;
+5 (d) The date the application was filed; and
+6 (e) The maximum amount of credits authorized.
+7 (5) No incentives shall be given to a foreign adversarial company as
+8 defined in section 77-3,114.
+9 Sec. 10. Section 77-5723, Revised Statutes Cumulative Supplement,
+10 2024, is amended to read:
+11 77-5723 (1) In order to utilize the incentives set forth in the
+12 Nebraska Advantage Act, the taxpayer shall file an application, on a form
+13 developed by the Tax Commissioner, requesting an agreement with the Tax
+14 Commissioner.
+15 (2) The application shall contain:
+16 (a) A written statement describing the plan of employment and
+17 investment for a qualified business in this state;
+18 (b) Sufficient documents, plans, and specifications as required by
+19 the Tax Commissioner to support the plan and to define a project;
+20 (c) If more than one location within this state is involved,
+21 sufficient documentation to show that the employment and investment at
+22 different locations are interdependent parts of the plan. A headquarters
+23 shall be presumed to be interdependent with each other location directly
+24 controlled by such headquarters. A showing that the parts of the plan
+25 would be considered parts of a unitary business for corporate income tax
+26 purposes shall not be sufficient to show interdependence for the purposes
+27 of this subdivision;
+28 (d) A nonrefundable application fee of one thousand dollars for a
+29 tier 1 project, two thousand five hundred dollars for a tier 2, tier 3,
+30 or tier 5 project, five thousand dollars for a tier 4 project, and ten
+31 thousand dollars for a tier 6 project. The fee shall be credited to the
+-11-
+AM2726 AM2726
+LB1096 LB1096
+JNH - 03/17/2026 JNH - 03/17/2026
+1 Nebraska Incentives Fund; and
+2 (e) A timetable showing the expected sales tax refunds and what year
+3 they are expected to be claimed. The timetable shall include both direct
+4 refunds due to investment and credits taken as sales tax refunds as
+5 accurately as possible.
+6 The application and all supporting information shall be confidential
+7 except for the name of the taxpayer, the location of the project, the
+8 amounts of increased employment and investment, and the information
+9 required to be reported by sections 77-5731 and 77-5734.
+10 (3) An application must be complete to establish the date of the
+11 application. An application shall be considered complete once it contains
+12 the items listed in subsection (2) of this section, regardless of the Tax
+13 Commissioner's additional needs pertaining to information or
+14 clarification in order to approve or not approve the application.
+15 (4) Once satisfied that the plan in the application defines a
+16 project consistent with the purposes stated in the Nebraska Advantage Act
+17 in one or more qualified business activities within this state, that the
+18 taxpayer and the plan will qualify for benefits under the act, and that
+19 the required levels of employment and investment for the project will be
+20 met within the applicable time period prescribed in this subsection, the
+21 Tax Commissioner shall approve the application. For a tier 6 project
+22 submitted and approved by the Tax Commissioner prior to December 1, 2020,
+23 or for any tier 1 or tier 3 project, the required levels of employment
+24 and investment shall be met prior to the end of the fourth year after the
+25 year in which the application was submitted. For a tier 6 project
+26 submitted and approved by the Tax Commissioner on or after December 1,
+27 2020, or for any tier 2, tier 4, or tier 5 project, the required levels
+28 of employment and investment shall be met prior to the end of the sixth
+29 year after the year in which the application was submitted. For a tier 5
+30 project that is sequential to a tier 2 large data center project, the
+31 required level of investment shall be met prior to the end of the fourth
+-12-
+AM2726 AM2726
+LB1096 LB1096
+JNH - 03/17/2026 JNH - 03/17/2026
+1 year after the expiration of the tier 2 large data center project
+2 entitlement period relating to sales tax exemptions.
+3 (5) The Tax Commissioner shall make his or her determination to
+4 approve or not approve an application within one hundred eighty days
+5 after the date of the application. If the Tax Commissioner requests, by
+6 mail or by electronic means, additional information or clarification from
+7 the taxpayer in order to make his or her determination, such one-hundred-
+8 eighty-day period shall be tolled from the time the Tax Commissioner
+9 makes the request to the time he or she receives the requested
+10 information or clarification from the taxpayer. The taxpayer and the Tax
+11 Commissioner may also agree to extend the one-hundred-eighty-day period.
+12 If the Tax Commissioner fails to make his or her determination within the
+13 prescribed one-hundred-eighty-day period, the application shall be deemed
+14 approved.
+15 (6) Within one hundred eighty days after approval of the
+16 application, the Tax Commissioner shall prepare and mail a written
+17 agreement to the taxpayer for the taxpayer's signature. The taxpayer and
+18 the Tax Commissioner shall enter into a written agreement. The taxpayer
+19 shall agree to complete the project, and the Tax Commissioner, on behalf
+20 of the State of Nebraska, shall designate the approved plan of the
+21 taxpayer as a project and, in consideration of the taxpayer's agreement,
+22 agree to allow the taxpayer to use the incentives contained in the
+23 Nebraska Advantage Act. The application, and all supporting
+24 documentation, to the extent approved, shall be considered a part of the
+25 agreement. The agreement shall state:
+26 (a) The levels of employment and investment required by the act for
+27 the project;
+28 (b) The time period under the act in which the required levels must
+29 be met;
+30 (c) The documentation the taxpayer will need to supply when claiming
+31 an incentive under the act;
+-13-
+AM2726 AM2726
+LB1096 LB1096
+JNH - 03/17/2026 JNH - 03/17/2026
+1 (d) The date the application was filed; and
+2 (e) A requirement that the company update the Department of Revenue
+3 annually on any changes in plans or circumstances which affect the
+4 timetable of sales tax refunds as set out in the application. If the
+5 company fails to comply with this requirement, the Tax Commissioner may
+6 defer any pending sales tax refunds until the company does comply.
+7 (7) The incentives contained in section 77-5725 shall be in lieu of
+8 the tax credits allowed by the Nebraska Advantage Rural Development Act
+9 for any project. In computing credits under the act, any investment or
+10 employment which is eligible for benefits or used in determining benefits
+11 under the Nebraska Advantage Act shall be subtracted from the increases
+12 computed for determining the credits under section 77-27,188. New
+13 investment or employment at a project location that results in the
+14 meeting or maintenance of the employment or investment requirements, the
+15 creation of credits, or refunds of taxes under the Employment and
+16 Investment Growth Act shall not be considered new investment or
+17 employment for purposes of the Nebraska Advantage Act. The use of
+18 carryover credits under the Employment and Investment Growth Act, the
+19 Invest Nebraska Act, the Nebraska Advantage Rural Development Act, or the
+20 Quality Jobs Act shall not preclude investment and employment from being
+21 considered new investment or employment under the Nebraska Advantage Act.
+22 The use of property tax exemptions at the project under the Employment
+23 and Investment Growth Act shall not preclude investment not eligible for
+24 the property tax exemption from being considered new investment under the
+25 Nebraska Advantage Act.
+26 (8) A taxpayer and the Tax Commissioner may enter into agreements
+27 for more than one project and may include more than one project in a
+28 single agreement. The projects may be either sequential or concurrent. A
+29 project may involve the same location as another project. No new
+30 employment or new investment shall be included in more than one project
+31 for either the meeting of the employment or investment requirements or
+-14-
+AM2726 AM2726
+LB1096 LB1096
+JNH - 03/17/2026 JNH - 03/17/2026
+1 the creation of credits. When projects overlap and the plans do not
+2 clearly specify, then the taxpayer shall specify in which project the
+3 employment or investment belongs.
+4 (9) The taxpayer may request that an agreement be modified if the
+5 modification is consistent with the purposes of the act and does not
+6 require a change in the description of the project. An agreement may not
+7 be modified to a tier that would grant a higher level of benefits to the
+8 taxpayer or to a tier 1 project. Once satisfied that the modification to
+9 the agreement is consistent with the purposes stated in the act, the Tax
+10 Commissioner and taxpayer may amend the agreement. For a tier 6 project,
+11 the taxpayer must agree to limit the project to qualified activities
+12 allowable under tier 2 and tier 4.
+13 (10) No incentives shall be given to a foreign adversarial company
+14 as defined in section 77-3,114.
+15 Sec. 11. Section 77-6827, Revised Statutes Cumulative Supplement,
+16 2024, is amended to read:
+17 77-6827 (1) In order to utilize the incentives allowed in the
+18 ImagiNE Nebraska Act, the taxpayer shall file an application with the
+19 director, on a form developed by the director, requesting an agreement.
+20 (2) The application shall:
+21 (a) Identify the taxpayer applying for incentives;
+22 (b) Identify all locations sought to be within the agreement and the
+23 reason each such location constitutes or is expected to constitute a
+24 qualified location;
+25 (c) State the estimated, projected amount of new investment and the
+26 estimated, projected number of new employees;
+27 (d) Identify the required levels of employment and investment for
+28 the various incentives listed within section 77-6831 that will govern the
+29 agreement. The taxpayer may identify different levels of employment and
+30 investment until the first December 31 following the end of the ramp-up
+31 period on a form approved by the director. The identified levels of
+-15-
+AM2726 AM2726
+LB1096 LB1096
+JNH - 03/17/2026 JNH - 03/17/2026
+1 employment and investment will govern all years covered under the
+2 agreement;
+3 (e) Identify whether the agreement is for a single qualified
+4 location, all qualified locations within a county, all qualified
+5 locations in more than one county, or all qualified locations within the
+6 state;
+7 (f) Acknowledge that the taxpayer understands the requirements for
+8 offering health coverage, and for reporting the value of such coverage,
+9 as specified in the ImagiNE Nebraska Act;
+10 (g) Acknowledge that the taxpayer does not violate any state or
+11 federal law against discrimination;
+12 (h) Acknowledge that the taxpayer understands the requirements for
+13 providing a sufficient package of benefits to its employees as specified
+14 in the ImagiNE Nebraska Act; and
+15 (i) Contain a nonrefundable application fee of five thousand
+16 dollars. The fee shall be remitted to the State Treasurer for credit to
+17 the Nebraska Incentives Fund.
+18 (3) An application must be complete to establish the date of the
+19 application. An application shall be considered complete once it contains
+20 the items listed in subsection (2) of this section.
+21 (4) Once satisfied that the application is consistent with the
+22 purposes stated in the ImagiNE Nebraska Act for one or more qualified
+23 locations within this state, the director shall approve the application,
+24 subject to the base authority limitations provided in section 77-6839.
+25 (5) The director shall make his or her determination to approve or
+26 not approve an application within ninety days after the date of the
+27 application. If the director requests, by mail or by electronic means,
+28 additional information or clarification from the taxpayer in order to
+29 make his or her determination, such ninety-day period shall be tolled
+30 from the time the director makes the request to the time he or she
+31 receives the requested information or clarification from the taxpayer.
+-16-
+AM2726 AM2726
+LB1096 LB1096
+JNH - 03/17/2026 JNH - 03/17/2026
+1 The taxpayer and the director may also agree to extend the ninety-day
+2 period. If the director fails to make his or her determination within the
+3 prescribed ninety-day period, the application is deemed approved, subject
+4 to the base authority limitations provided in section 77-6839.
+5 (6) There shall be no new applications for incentives filed under
+6 this section after December 31, 2030. All complete applications filed on
+7 or before December 31, 2030, shall be considered by the director and
+8 approved if the location or locations and taxpayer qualify for benefits,
+9 subject to the base authority limitations provided in section 77-6839.
+10 Agreements may be executed with regard to complete applications filed on
+11 or before December 31, 2030. All agreements pending, approved, or entered
+12 into before such date shall continue in full force and effect.
+13 (7) No incentives shall be given to a foreign adversarial company as
+14 defined in section 77-3,114.
+15 Sec. 12. Section 84-712.05, Reissue Revised Statutes of Nebraska, is
+16 amended to read:
+17 84-712.05 The following records, unless publicly disclosed in an
+18 open court, open administrative proceeding, or open meeting or disclosed
+19 by a public entity pursuant to its duties, may be withheld from the
+20 public by the lawful custodian of the records:
+21 (1) Personal information in records regarding a student, prospective
+22 student, or former student of any educational institution or exempt
+23 school that has effectuated an election not to meet state approval or
+24 accreditation requirements pursuant to section 79-1601 when such records
+25 are maintained by and in the possession of a public entity, other than
+26 routine directory information specified and made public consistent with
+27 20 U.S.C. 1232g, as such section existed on February 1, 2013, and
+28 regulations adopted thereunder;
+29 (2) Medical records, other than records of births and deaths and
+30 except as provided in subdivisions (5) and (27) of this section, in any
+31 form concerning any person; records of elections filed under section
+-17-
+AM2726 AM2726
+LB1096 LB1096
+JNH - 03/17/2026 JNH - 03/17/2026
+1 44-2821; and patient safety work product under the Patient Safety
+2 Improvement Act;
+3 (3) Trade secrets, academic and scientific research work which is in
+4 progress and unpublished, and other proprietary or commercial information
+5 which if released would give advantage to business competitors and serve
+6 no public purpose;
+7 (4) Records which represent the work product of an attorney and the
+8 public body involved which are related to preparation for litigation,
+9 labor negotiations, or claims made by or against the public body or which
+10 are confidential communications as defined in section 27-503;
+11 (5) Records developed or received by law enforcement agencies and
+12 other public bodies charged with duties of investigation or examination
+13 of persons, institutions, or businesses, when the records constitute a
+14 part of the examination, investigation, intelligence information,
+15 complaints or inquiries from residents of this state or other interested
+16 persons, informant identification, or strategic or tactical information
+17 used in law enforcement training, except that this subdivision shall not
+18 apply to records so developed or received:
+19 (a) Relating to the presence of and amount or concentration of
+20 alcohol or drugs in any body fluid of any person; or
+21 (b) Relating to the cause of or circumstances surrounding the death
+22 of an employee arising from or related to his or her employment if, after
+23 an investigation is concluded, a family member of the deceased employee
+24 makes a request for access to or copies of such records. This subdivision
+25 does not require access to or copies of informant identification, the
+26 names or identifying information of members of the public making
+27 complaints or inquiries, other information which would compromise an
+28 ongoing criminal investigation, or information which may be withheld from
+29 the public under another provision of law. For purposes of this
+30 subdivision, family member means a spouse, child, parent, sibling,
+31 grandchild, or grandparent by blood, marriage, or adoption;
+-18-
+AM2726 AM2726
+LB1096 LB1096
+JNH - 03/17/2026 JNH - 03/17/2026
+1 (6) The identity and personal identifying information of an alleged
+2 victim of sexual assault or sex trafficking as provided in section
+3 29-4316;
+4 (7) Appraisals or appraisal information and negotiation records
+5 concerning the purchase or sale, by a public body, of any interest in
+6 real or personal property, prior to completion of the purchase or sale;
+7 (8) Personal information in records regarding personnel of public
+8 bodies other than salaries and routine directory information;
+9 (9) Information solely pertaining to protection of the security of
+10 public property and persons on or within public property, such as
+11 specific, unique vulnerability assessments or specific, unique response
+12 plans, either of which is intended to prevent or mitigate criminal acts
+13 the public disclosure of which would create a substantial likelihood of
+14 endangering public safety or property; computer or communications network
+15 schema, passwords, and user identification names; guard schedules; lock
+16 combinations; or public utility infrastructure specifications or design
+17 drawings the public disclosure of which would create a substantial
+18 likelihood of endangering public safety or property, unless otherwise
+19 provided by state or federal law;
+20 (10) Information that relates details of physical and cyber assets
+21 of critical energy infrastructure, critical water infrastructure,
+22 critical telecommunications and broadband infrastructure, or critical
+23 electric infrastructure, including (a) specific engineering,
+24 vulnerability, or detailed design information about proposed or existing
+25 critical energy infrastructure, critical water infrastructure, critical
+26 telecommunications and broadband infrastructure, or critical electric
+27 infrastructure that (i) relates details about the production, generation,
+28 transportation, transmission, or distribution of energy, electronic data,
+29 or water, (ii) could be useful to a person in planning an attack on such
+30 critical infrastructure, and (iii) does not simply give the general
+31 location of the critical infrastructure and (b) the identity of personnel
+-19-
+AM2726 AM2726
+LB1096 LB1096
+JNH - 03/17/2026 JNH - 03/17/2026
+1 whose primary job function makes such personnel responsible for (i)
+2 providing or granting individuals access to physical or cyber assets or
+3 (ii) operating and maintaining physical or cyber assets, if a reasonable
+4 person, knowledgeable of the electric, water, telecommunications and
+5 broadband, utility or energy industry, would conclude that the public
+6 disclosure of such identity could create a substantial likelihood of risk
+7 to such physical or cyber assets. Subdivision (10)(b) of this section
+8 shall not apply to the identity of a chief executive officer, general
+9 manager, vice president, or board member of a public entity that manages
+10 critical energy infrastructure, critical water infrastructure, critical
+11 telecommunications and broadband infrastructure, or critical electric
+12 infrastructure. The lawful custodian of the records must provide a
+13 detailed job description for any personnel whose identity is withheld
+14 pursuant to subdivision (10)(b) of this section. For purposes of
+15 subdivision (10) of this section, critical energy infrastructure,
+16 critical water infrastructure, critical telecommunications and broadband
+17 infrastructure, and critical electric infrastructure mean existing and
+18 proposed systems and assets, including a system or asset of the bulk-
+19 power system, whether physical or virtual, the incapacity or destruction
+20 of which would negatively affect security, economic security, public
+21 health or safety, operation of the 911 service system as defined in
+22 section 86-1048, or any combination of such matters;
+23 (11) The security standards, procedures, policies, plans,
+24 specifications, diagrams, access lists, and other security-related
+25 records of the Lottery Division of the Department of Revenue and those
+26 persons or entities with which the division has entered into contractual
+27 relationships. Nothing in this subdivision shall allow the division to
+28 withhold from the public any information relating to:
+29 (a) Amounts paid persons or entities with which the division has
+30 entered into contractual relationships;
+31 (b) Amounts of prizes paid; or
+-20-
+AM2726 AM2726
+LB1096 LB1096
+JNH - 03/17/2026 JNH - 03/17/2026
+1 (c) The name of any prize winner awarded a prize of less than two
+2 hundred fifty thousand dollars, and the city, village, or county where
+3 the prize winner resides;
+4 (12) With respect to public utilities and except as provided in
+5 sections 43-512.06 and 70-101, personally identified private customer
+6 account payment and customer use information, credit information on
+7 others supplied in confidence, and customer lists;
+8 (13) Records or portions of records kept by a publicly funded
+9 library which, when examined with or without other records, reveal the
+10 identity of any library patron using the library's materials or services;
+11 (14) Correspondence, memoranda, and records of telephone calls
+12 related to the performance of duties by a member of the Legislature in
+13 whatever form. The lawful custodian of the correspondence, memoranda, and
+14 records of telephone calls, upon approval of the Executive Board of the
+15 Legislative Council, shall release the correspondence, memoranda, and
+16 records of telephone calls which are not designated as sensitive or
+17 confidential in nature to any person performing an audit of the
+18 Legislature. A member's correspondence, memoranda, and records of
+19 confidential telephone calls related to the performance of his or her
+20 legislative duties shall only be released to any other person with the
+21 explicit approval of the member;
+22 (15) Records or portions of records kept by public bodies which
+23 would reveal the location, character, or ownership of any known
+24 archaeological, historical, or paleontological site in Nebraska when
+25 necessary to protect the site from a reasonably held fear of theft,
+26 vandalism, or trespass. This section shall not apply to the release of
+27 information for the purpose of scholarly research, examination by other
+28 public bodies for the protection of the resource or by recognized tribes,
+29 the Unmarked Human Burial Sites and Skeletal Remains Protection Act, or
+30 the federal Native American Graves Protection and Repatriation Act;
+31 (16) Records or portions of records kept by public bodies which
+-21-
+AM2726 AM2726
+LB1096 LB1096
+JNH - 03/17/2026 JNH - 03/17/2026
+1 maintain collections of archaeological, historical, or paleontological
+2 significance which reveal the names and addresses of donors of such
+3 articles of archaeological, historical, or paleontological significance
+4 unless the donor approves disclosure, except as the records or portions
+5 thereof may be needed to carry out the purposes of the Unmarked Human
+6 Burial Sites and Skeletal Remains Protection Act or the federal Native
+7 American Graves Protection and Repatriation Act;
+8 (17) Library, archive, and museum materials acquired from
+9 nongovernmental entities and preserved solely for reference, research, or
+10 exhibition purposes, for the duration specified in subdivision (17)(b) of
+11 this section, if:
+12 (a) Such materials are received by the public custodian as a gift,
+13 purchase, bequest, or transfer; and
+14 (b) The donor, seller, testator, or transferor conditions such gift,
+15 purchase, bequest, or transfer on the materials being kept confidential
+16 for a specified period of time;
+17 (18) Job application materials submitted by applicants, other than
+18 finalists or a priority candidate for a position described in section
+19 85-106.06 selected using the enhanced public scrutiny process in section
+20 85-106.06, who have applied for employment by any public body as defined
+21 in section 84-1409. For purposes of this subdivision, (a) job application
+22 materials means employment applications, resumes, reference letters, and
+23 school transcripts and (b) finalist means any applicant who is not an
+24 applicant for a position described in section 85-106.06 and (i) who
+25 reaches the final pool of applicants, numbering four or more, from which
+26 the successful applicant is to be selected, (ii) who is an original
+27 applicant when the final pool of applicants numbers less than four, or
+28 (iii) who is an original applicant and there are four or fewer original
+29 applicants;
+30 (19)(a) Records obtained by the Public Employees Retirement Board
+31 pursuant to section 84-1512 and (b) records maintained by the board of
+-22-
+AM2726 AM2726
+LB1096 LB1096
+JNH - 03/17/2026 JNH - 03/17/2026
+1 education of a Class V school district and obtained by the board of
+2 trustees or the Public Employees Retirement Board for the administration
+3 of a retirement system provided for under the Class V School Employees
+4 Retirement Act pursuant to section 79-989;
+5 (20) Social security numbers; credit card, charge card, or debit
+6 card numbers and expiration dates; and financial account numbers supplied
+7 to state and local governments;
+8 (21) Information exchanged between a jurisdictional utility and city
+9 pursuant to section 66-1867;
+10 (22) Draft records obtained by the Nebraska Retirement Systems
+11 Committee of the Legislature and the Governor from Nebraska Public
+12 Employees Retirement Systems pursuant to subsection (4) of section
+13 84-1503;
+14 (23) All prescription drug information submitted pursuant to section
+15 71-2454, all data contained in the prescription drug monitoring system,
+16 and any report obtained from data contained in the prescription drug
+17 monitoring system;
+18 (24) Information obtained by any government entity, whether federal,
+19 state, county, or local, regarding firearm registration, possession,
+20 sale, or use that is obtained for purposes of an application permitted or
+21 required by law or contained in a permit or license issued by such
+22 entity. Such information shall be available upon request to any federal,
+23 state, county, or local law enforcement agency;
+24 (25) The security standards, procedures, policies, plans,
+25 specifications, diagrams, and access lists and other security-related
+26 records of the State Racing and Gaming Commission, those persons or
+27 entities with which the commission has entered into contractual
+28 relationships, and the names of any individuals placed on the list of
+29 self-excluded persons with the commission as provided in section 9-1118.
+30 Nothing in this subdivision shall allow the commission to withhold from
+31 the public any information relating to the amount paid any person or
+-23-
+AM2726 AM2726
+LB1096 LB1096
+JNH - 03/17/2026 JNH - 03/17/2026
+1 entity with which the commission has entered into a contractual
+2 relationship, the amount of any prize paid, the name of the prize winner,
+3 and the city, village, or county where the prize winner resides;
+4 (26) Records relating to the nature, location, or function of
+5 cybersecurity by the State of Nebraska or any of its political
+6 subdivisions or any other public entity subject to sections 84-712 to
+7 84-712.09, including, but not limited to, devices, programs, or systems
+8 designed to protect computer, information technology, or communications
+9 systems against terrorist or other attacks. The Nebraska Information
+10 Technology Commission shall adopt and promulgate rules and regulations to
+11 implement this subdivision;
+12 (27) Vital event records, unless all information designated as
+13 confidential under the Vital Statistics Act or all personally
+14 identifiable information is redacted by the Department of Health and
+15 Human Services;
+16 (28) Information or records from historical indexes within one
+17 hundred years after the event date of the information or record; and
+18 (29) The certificate number for any vital event certificate.
+19 Sec. 13. Section 86-125, Revised Statutes Supplement, 2025, is
+20 amended to read:
+21 86-125 Notwithstanding the provisions of section 86-124:
+22 (1) Any communications provider providing service in Nebraska shall
+23 file a registration form with and pay a registration fee to the Public
+24 Service Commission. Any communications provider shall register with the
+25 commission prior to providing service. The commission shall prescribe the
+26 registration form to be filed pursuant to this section;
+27 (2) A communications provider providing the services described in
+28 subdivision (8)(a) (7)(a) of this section shall provide the commission
+29 with the name, address, telephone number, and email address of a contact
+30 person concerning:
+31 (a) The Nebraska Telecommunications Universal Service Fund Act and
+-24-
+AM2726 AM2726
+LB1096 LB1096
+JNH - 03/17/2026 JNH - 03/17/2026
+1 related surcharges, if applicable;
+2 (b) The Telecommunications Relay System Act and related surcharges,
+3 if applicable;
+4 (c) The 911 Service System Act and related surcharges, if
+5 applicable; and
+6 (d) Consumer complaints and inquiries;
+7 (3) A communications provider providing the services described in
+8 subdivision (8)(b) (7)(b) of this section shall provide the commission
+9 with the name, address, telephone number, and email address of a person
+10 with managerial responsibility for Nebraska operations;
+11 (4) A communications provider shall:
+12 (a) Submit a registration fee at the time of submission of the
+13 registration form. The commission shall set the fee in an amount
+14 sufficient to cover the costs of administering the registration process
+15 but not to exceed fifty dollars;
+16 (b) Keep the information required by this section current and notify
+17 the commission of any changes to such information within sixty days after
+18 the change; and
+19 (c) Certify to the commission by January 1 each year that such
+20 communications provider does not use or provide any communications
+21 equipment or service deemed to pose a threat to national security
+22 identified on the Covered List developed pursuant to 47 C.F.R. 1.50002,
+23 as such regulation existed on January 1, 2023, and published by the
+24 Public Safety and Homeland Security Bureau of the Federal Communications
+25 Commission pursuant to the federal Secure and Trusted Communications
+26 Networks Act of 2019, 47 U.S.C. 1601 et seq., as such act existed on
+27 January 1, 2023, and the rules adopted pursuant to such act by the
+28 Federal Communications Commission on November 11, 2022, in its Report and
+29 Order FCC 22-84;
+30 (5)(a) (5) The commission shall may, pursuant to section 75-156,
+31 administratively fine any communications provider which violates
+-25-
+AM2726 AM2726
+LB1096 LB1096
+JNH - 03/17/2026 JNH - 03/17/2026
+1 subdivision (4)(c) of this section. ;
+2 (b) The commission may, pursuant to section 75-156, administratively
+3 fine any communications provider which violates any other provision of
+4 this section;
+5 (6) Beginning November 8, 2026, in addition to other penalties and
+6 relief provided by law, the Attorney General shall assess a civil penalty
+7 of up to ten thousand dollars per day against any communications provider
+8 that fails to submit the annual certification required under this section
+9 or is unable to certify that its network is free of covered
+10 communications equipment and services pursuant to subdivision (4)(c) of
+11 this section;
+12 (7) (6) This section applies to all communications providers
+13 providing service in Nebraska except for those communications providers
+14 otherwise regulated under the Nebraska Telecommunications Regulation Act;
+15 and
+16 (8) (7) For purposes of this section, communications provider means
+17 any entity that:
+18 (a) Uses telephone numbers or Internet protocol addresses or their
+19 functional equivalents or successors to provide information of a user's
+20 choosing by aid of wire, cable, wireless, satellite, or other like
+21 connection, whether part of a bundle of services or offered separately,
+22 (i) which provides or enables real-time or interactive voice
+23 communications and (ii) in which the voice component is the primary
+24 function; or
+25 (b) Provides any service, whether part of a bundle of services or
+26 offered separately, used for transmission of information of a user's
+27 choosing regardless of the transmission medium or technology employed,
+28 that connects to a network that permits the end user to engage in
+29 electronic communications, including, but not limited to, service
+30 provided directly (i) to the public or (ii) to such classes of users as
+31 to be effectively available directly to the public.
+-26-
+AM2726 AM2726
+LB1096 LB1096
+JNH - 03/17/2026 JNH - 03/17/2026
+1 Sec. 14. If any section in this act or any part of any section is
+2 declared invalid or unconstitutional, the declaration shall not affect
+3 the validity or constitutionality of the remaining portions.
+4 Sec. 15. Original section 84-712.05, Reissue Revised Statutes of
+5 Nebraska, sections 77-5723 and 77-6827, Revised Statutes Cumulative
+6 Supplement, 2024, and sections 49-1480, 77-3,114, 77-27,187.02, and
+7 86-125, Revised Statutes Supplement, 2025, are repealed.
+-27-
+[DELETED: yJ1 S t o s a i t f nsScS 2  F p o t P L A aN(((0c a s l e o J 1 2 e b t1A a P H I S o t U S2D3(4a5S6s7(8t9(0w1t2t3( A p m i a h a p o p4i5s i f t d o t A a P H6I7S 4  ( E a o p i t s 6A6L6J]
+[DELETED: v(t(p(f(S 5  ( T d m a a p r a0r1a p o p i s a t o o i2c3e4(5c6S7( C m a f s p o8a c p j v l9p0i a w o s m o s p1c o a o t e o b a t2e3( C i m t 9 s a c4i s a c s a h v e5g6( C m t m t t p a c7c n c s o o t i8a9( F a m t c l i 1 C071(6A6L6J]
+[DELETED: (a(p( A p a a a c ao o a o c o p o u tl((0(1e2(3(4c5( A p e o c o p o e6d7c i i a p a c8o9t0( G e m a a d b1c o p s o t s t o o2m3(4o5n k e i a c o o a r t6c i i t s w a f p i t7c8o9(0o1a6A6L6J]
+[DELETED: w a t f p t d o r a oc(ct c i w a f p i a o tf( T i n o r o f a t nr( N e i s c o a w p 0g1t2S 7 S 4 R S S 2 i3a44 ( E p e r o a a 5l6( F a a w t C o t L f7r a a l a i t c i s t t8a9t b c T a s b o a f p b t0c1s2(3l4(5(6o s g o t b g t l a c o7r8p9r0(1( A i o t m o w t p o6A6L6J]
+[DELETED: l(aoS( I t p i a i t o par(0a a s d o t i a g1r2a3( T n a a o a o i t l o4e b a o a m o a s o s o5i6o b o s l i s i i k o r7s8(9c d t s C m c i a f0a o t U S F p o t s (1l2t e m U S m o o m d3s4( E p e r o a a 5c f a C m c s b c a6i7( F w t c o a f p b t8c9(0c1(6A6L6J]
+[DELETED: b((t c i a o b o s C mc( A a a b t c t sco( T n a a o a o i t l o0e b a o a m o a s o s o1i2o3s4( D t s C m c i a f5a6(7b i n l t i b m o t e8m U S m o o m d s o i9m0( A p w v s ( o ( o1s2h t d f e v F a s3v4d m t t p a p n t e o5m6s7w8(9( C m c h t s m a i s011a6A6L6J]
+[DELETED: oa(apoS 8 S 7 R S S 2 ia70( C m a c p a1o2( F a m t c l i 1 C374(5(6(7( I o i w o i p o o c8d9( I a d o i s o p o a c0o1(2(3p4o a f a o o a p o s c a5i a s o a s g a a g o a t6w s s d f o d j a o f a7d8b o i w a c a t e g9a0r1(6A6L6J]
+[DELETED: b( I s o a c m a c o ba c t o o m i c r tt(u(bu0(1(2(3(4(5(6(7(8(9o e a f t p o r o r o0b1(2u b a i t o t m o t s g o3c4a5c s b d u t a f u t6d7S8a97 ( T e t i s f i t N0A1f a a w t T C T s b n n6A6L6J]
+[DELETED: a2((tb(t(0a1d2b3a4r t t S T f c t t N I5F T a a a s i s b6c e f t n o t t t l o t7p8( T T C s a t a a9a0o1d273p a ( f p o t l m o4e5( F a f i c y 2 a e y6t7f8e c f a p i t c t F9c021e c y t o m d F a6A6L6J]
+[DELETED: f i c y 2 a e y t t TC s n a f a f ad i s ( o s 7 o t ec2s2 o m d f c y 2 t 2 tm d f c y 2 s m f ht d a f c y 2 a e c y0t1f2b3(4t5s6(7b8N9b0( A a t t a t T C s1e2p3s4c5u6A7a t t o a T a a a s8d9a0(1t6A6L6J]
+[DELETED: (b(a(((dS 1 S 7 R S C S0217 ( I o t u t i s f i t2N3d4C5(6( A w s d t p o e a7i8(9t0( I m t o l w t s i i1s d t s t t e a i a2d3s4c b s h A s t t p o t p5w6p7o8( A n a f o o t d f 9t0o1t6A6L6J]
+[DELETED: N(tr d t i a c t a s t r aaTe f t n o t t t l o t p ta o i e a i a t ir0( A a m b c t e t d o t1a2t3C a n p t i o4c5( O s t t p i t a d 6p7i8t9t0m1T C s a t a F a t 6 p2s3o4a5y i w t a w s F a t 6 p6s728o9y0p t i s t a t 2 l d c p t1r6A6L6J]
+[DELETED: y a t e o t t 2 l d c pe( T T C s m h o h d ta o n a a a w o h e damte p s b t f t t t T Cm t r t t t h o s r t r0i1C2I3p4a5( W o h e d a a o t6a t T C s p a m a w7a8t9s0o t S o N s d t a p o t1t2a t a t t t u t i c i t3N A A T a a a s4d5a6(7t8(9b0(1a6A6L6J]
+[DELETED: ((a o a c i p o c w a tt o s t r a s o i t a I tcd(tf0e1u2c f d t c u s 7 N3i o e a a p l t r i t4m5c o c o r o t u t E a6I G A s n b c n i o7e f p o t N A A T u o8c c u t E a I G A t9I0Q1c2T3a4t5N6( A t a t T C m e i a7f m t o p a m i m t o p i 8s9p m i t s l a a p N n0e1f6A6L6J]
+[DELETED: t c o c W p o a t p d nc s t t t s s i w p te(m i c w t p o t a a d nrbtt0C1t t m a t l t p t q a2a3(4a5S 1 S 7 R S C S6277 ( I o t u t i a i t8I N A t t s f a a w t9d0(1(2(3r e s l c o i e t c 4q5(6e7( I t r l o e a i f8t9a0i1p o a f a b t d T i l o6A6L6J]
+[DELETED: e a i w g a y c u ta( I w t a i f a s ql a q l w a c a qls(oa0( A t t t d n v a s o1f2(3p4i5( C a n a f o f t6d7t8( A a m b c t e t d o t9a0t1( O s t t a i c w t2p s i t I N A f o o m q3l4s5(6n a a a w n d a t d o t7a8a i o c f t t i o t9m h o h d s n p s b t0f t t t d m t r t t t h o s1r t r i o c f t t6A6L6J]
+[DELETED: T t a t d m a a t e t nppt( T s b n n a f i f uto b D 3 2 s b c b t d aas t t b a l p i s 70A1o2i3(4d5S6a78 T f r u p d i a8o9b a p e p t i d m b w f t0p1(2s o f s o a e i o e3s t h e a e n t m s a o4a5a6r72 U 1 a s s e o F 1 2 a8r9( M r o t r o b a d a0e1f c a p r o e f u s6A6L6J]
+[DELETED: 4 a p s w p u t P SI(pwn(p b i w a r t p f ll0a1( R d o r b l e a a2o3o p i o b w t r c 4p o t e i i i5c6p7u8a9( R t t p o a a o c o0a1(2o3a4m5d n r a t o c o i i t6n o i i o m o t p m7c o i o i w w c a8o9t p u a p o l F p o t0s f m m a s c p s1g6A6L6J]
+[DELETED: (v o s a o s t a p i s2( A o a i a n rc t p o s b a p b o a i ir( P i i r r p o pb(0p p a p o o w p p s a1s2p3t4e5s6c7d t p d o w w c a s8l o e p s o p u o9p0(1o c e i c w i2c t a b i o c3e i i ( s e4v5c e i c w i c6t a b i o c e7i8t9o0c i a ( d n s g t g1l6A6L6J]
+[DELETED: w p j f m s p r f (p(p k o t e w t ab u o e i w c t t pdt s p o c a S ( o t ss n a t t i o a c e o gm0c e i c w i c1t a b i o c e2i T l c o t r m p 3d j d f a p w i i w4p t s ( o t s F p o5s ( o t s c e i6c7i a c e i m e a8p s a a i a s o a o t b9p0o w w n a s e s p1h o s o o t 9 s s a d i2s3( T s s p p p4s d a l a o s5r6p7r N i t s s a t d t8w9( A p p o e w w t d h0e1(6A6L6J]
+[DELETED: (ht( W r t p u a e a p is 4 a 7 p i p ca p a c u i c i oo( R o p o r k b a p fl0i1( C m a r o t c2r3w4r5L C s r t c m a6r o t c w a n d a s o7c i n t a p p a a o t8L A m c m a r o9c t c r t t p o h o h0l1e2( R o p o r k b p b w3w r t l c o o o a k4a h o p s i N w5n t p t s f a r h f o t6v7i8p9t0t1( R o p o r k b p b w6A6L6J]
+[DELETED: m c o a h o ps w r t n a a o d o sa o a h o p sut m b n t c o t p o t U HBA( L a a m m a fn0e1t2(3p4(5p6f7(8f o a p c f a p d i s98081i2m3s t a ( f m a a w i n a4a f a p d i s 8 a ( w5r6t s a i t b s ( w i a o7a8(9a0( R o b t P E R B1p6A6L6J]
+[DELETED: e o a C V s d a o b t b otoR( S s n c c c c o dct(p0( D r o b t N R S1C o t L a t G f N P2E R S p t s ( o s384(576a a r o f d c i t p d7m8(9s c o l r f r p0s1r b l o c i a p o l i b s2e3s4( T s s p p p5s d a a l a o s6r o t S R a G C t p o7e w w t c h e i c8r a t n o a i p o t l o9s0N1t p a i r t t a p a p o6A6L6J]
+[DELETED: e w w t c h e i a cra( R r t t n l o f oc b t S o N o a o i ps o a o p e s t s 8 t8ds a t o o a T N I0T1i2( V e r u a i d a3c u t V S A o a p4i i i r b t D o H a5H6( I o r f h i w o7h8(9S 1 S 8 R S S 2 i0a182(3f4S5c6r7( A c p p t s d i8s ( ( o t s s p t c9w0p1(6A6L6J]
+[DELETED: r(i( T 9 S S A a r s ia(( A c p p t s d is ( ( o t s s p t cw0w1(2( S a r f a t t o s o t3r f T c s s t f i a a4s5b6(7t8t9( C t t c b J 1 e y t s0c p d n u o p a c1e o s d t p a t t n s2i3a s r e o J 1 2 a p b t4P5C p t t f S a T C6N A o 2 4 U 1 e s a s a e o7J 1 2 a t r a p t s a b t8F9O0( ( T c s m p t s 71a f a c p w v6A6L6J]
+[DELETED: s(f a c p w v a o p ot(roto i u t c t i n i f o c0c1t2( ( T s a t a c p3p4o5a6(7a8(9f0c b a o w c w s o o l1c2( w p o e r o i v3c a ( i w t v c i t p4f5(6o s u f t o i o a u7c r o t t m o t e8t c t a n t p t e u t e i9e c i b n l t s0p1t6A6L6J]
+[DELETED: Sd i o u t d s n atS 1  O s 8 R R S oN s 7 a 7 R S CS 2 a s 4 7 7 a86A6L6J]
+
+
+================================================================================
+
+Raw Text:
+AM2726 AM2726
+LB1096 LB1096
+JNH - 03/17/2026 JNH - 03/17/2026
+AMENDMENTS TO LB1096
+Introduced by Judiciary.
+1 1. Strike the original sections and insert the following new
+2 sections:
+3 Section 1. Sections 1 to 5 of this act shall be known and may be
+4 cited as the Preventing Lethal Agricultural and National Threats Act.
+5 Sec. 2. For purposes of the Preventing Lethal Agricultural and
+6 National Threats Act:
+7 (1) Department means the Department of Agriculture; and
+8 (2) High-risk agricultural pathogen or pest means:
+9 (a) Any disease or pest included in the list of diseases or pests of
+10 concern, as such list existed on January 1, 2026, established by the
+11 Animal and Plant Health Inspection Service of the United States
+12 Department of Agriculture pursuant to 7 U.S.C. 8914; and
+13 (b) Any agent, toxin, or organism designated under section 5 of this
+14 act as a high-risk agricultural pathogen or pest.
+15 Sec. 3. (1) Except as otherwise provided in this section, no person
+16 shall:
+17 (a) Knowingly import a high-risk agricultural pathogen or pest into
+18 this state; or
+19 (b) Import a high-risk agricultural pathogen or pest into this state
+20 with a conscious disregard of a substantial or unjustifiable risk that
+21 the high-risk agricultural pathogen or pest could cause significant harm
+22 to crops, livestock, or agricultural ecosystems.
+23 (2) A person may import a high-risk agricultural pathogen or pest
+24 into this state if such person possesses a permit or authorization for
+25 such importation from the department or the Animal and Plant Health
+26 Inspection Service of the United States Department of Agriculture.
+27 Sec. 4. (1) Except as otherwise provided in this section, a
+-1-
+
+AM2726 AM2726
+LB1096 LB1096
+JNH - 03/17/2026 JNH - 03/17/2026
+1 violation of section 3 of this act is a Class III felony.
+2 (2) A violation of section 3 of this act is a Class IIA felony if
+3 the violation:
+4 (a) Involves concealment of the origin of a high-risk agricultural
+5 pathogen or pest;
+6 (b) Is committed by a person acting on behalf of, or funded by, a
+7 foreign government; or
+8 (c) Results in actual economic damage exceeding one million dollars.
+9 Sec. 5. (1) The department may adopt and promulgate rules and
+10 regulations that designate any agent, toxin, or organism as a high-risk
+11 agricultural pathogen or pest if such agent, toxin, or organism is
+12 capable of causing significant harm to crops, livestock, or agricultural
+13 ecosystems.
+14 (2) The department may adopt and promulgate rules and regulations to
+15 carry out the Preventing Lethal Agricultural and National Threats Act.
+16 Sec. 6. (1) For purposes of this section:
+17 (a) Company means a for-profit sole proprietorship, organization,
+18 association, corporation, partnership, joint venture, limited
+19 partnership, limited liability partnership, or limited liability company,
+20 including a wholly owned subsidiary, majority owned subsidiary, parent
+21 company, or affiliate of those entities or business associations that
+22 exists to make a profit;
+23 (b) Critical infrastructure means the 911 system, a communication
+24 infrastructure system, a cybersecurity system, a high voltage electric
+25 grid, a hazardous waste treatment system, or a water treatment facility;
+26 (c) Cybersecurity means the measures taken to protect a computer,
+27 computer network, computer system, or other technology infrastructure
+28 against unauthorized use or access;
+29 (d) Foreign adversary means those countries listed in 15 C.F.R.
+30 791.4, as such regulation existed on January 1, 2026;
+31 (e) Foreign principal means:
+-2-
+
+AM2726 AM2726
+LB1096 LB1096
+JNH - 03/17/2026 JNH - 03/17/2026
+1 (i) The government or any official of the government of a foreign
+2 adversary;
+3 (ii) A political party of a foreign adversary or a member of such
+4 political party or any subdivision of such political party;
+5 (iii)(A) A partnership, an association, a corporation, an
+6 organization, or any other combination of persons organized under the
+7 laws of or having its principal place of business in a foreign adversary;
+8 (B) A subsidiary of an entity described in subdivision (1)(e)(iii)
+9 (A) of this section; or
+10 (C) An entity owned or controlled wholly or in part by any person,
+11 entity, or collection of persons or entities described in subdivision (1)
+12 (e)(iii)(A) or (B) of this section;
+13 (iv) Any person who is domiciled in a foreign adversary and is not a
+14 citizen or lawful permanent resident of the United States; and
+15 (v) Any person, entity, or collection of persons or entities
+16 described in subdivisions (1)(e)(i) through (iv) of this section having a
+17 controlling interest in a partnership, association, corporation,
+18 organization, trust, or any other legal entity or subsidiary formed for
+19 the purpose of owning real property; and
+20 (f) Governmental entity means any agency, department, board,
+21 commission, or political subdivision of the state that owns, operates,
+22 manages, or provides oversight for critical infrastructure.
+23 (2)(a) A company or other entity constructing, repairing, operating,
+24 or otherwise having significant access to critical infrastructure shall
+25 not knowingly enter into a contract or other agreement relating to
+26 critical infrastructure in this state with a foreign principal if the
+27 contract or other agreement would allow the foreign principal to directly
+28 or remotely access or control critical infrastructure in this state.
+29 (b) A governmental entity shall not knowingly enter into a contract
+30 or other agreement relating to critical infrastructure in this state with
+31 a company that is a foreign principal if the contract or other agreement
+-3-
+
+AM2726 AM2726
+LB1096 LB1096
+JNH - 03/17/2026 JNH - 03/17/2026
+1 would allow the foreign principal to directly or remotely access or
+2 control critical infrastructure in this state.
+3 (c) Notwithstanding subdivisions (2)(a) and (b) of this section, a
+4 company or other entity may enter into a contract or agreement relating
+5 to critical infrastructure with a foreign principal if all of the
+6 following apply:
+7 (i) There is no other reasonable option for addressing the need
+8 relevant to state critical infrastructure; and
+9 (ii) Not entering into such contract or agreement would pose a
+10 greater threat to the state than the threat associated with entering into
+11 the contract.
+12 Sec. 7. Section 49-1480, Revised Statutes Supplement, 2025, is
+13 amended to read:
+14 49-1480 (1) Every person employed, retained, or authorized as a
+15 lobbyist shall, before commencing any lobbying activity:
+16 (a) File an application with the Clerk of the Legislature for
+17 registration as a lobbyist, and if the clerk is satisfied that the
+18 application has been properly prepared the registration shall be deemed
+19 to be complete. The application shall be on a form prescribed by the
+20 clerk and approved by the Executive Board of the Legislative Council, and
+21 shall include as a minimum the following:
+22 (i) The name, permanent residence address, and office address of the
+23 lobbyist;
+24 (ii) The name and address of the principal of such lobbyist;
+25 (iii) The nature of the business of such principal and the amounts
+26 or sums given or to be given the lobbyist as compensation or
+27 reimbursement for lobbying. A lobbyist who is salaried or retained by a
+28 principal need only report that portion of compensation or reimbursement
+29 reasonably attributable to lobbying;
+30 (iv) A description of the business activity of the lobbyist;
+31 (v) An identification of the matters on which the principal or
+-4-
+
+AM2726 AM2726
+LB1096 LB1096
+JNH - 03/17/2026 JNH - 03/17/2026
+1 lobbyist expects to lobby;
+2 (vi) If the principal is a Chinese military company, an affirmative
+3 acknowledgment by the lobbyist that such lobbyist is lobbying on behalf
+4 of, and thereby acting as an agent of, a foreign adversary of the United
+5 States;
+6 (vii) If the principal is an industry, trade, or professional
+7 association, a specific description of the industry, trade, or profession
+8 represented by the principal and the names and addresses of its officers;
+9 (viii) If the principal is not an industry, trade, or professional
+10 association, a specific description of the interests and groups
+11 represented by the principal and the names and addresses of its officers;
+12 and
+13 (ix) The name and address of any official in the legislative or
+14 executive branch, and of any members of any such official's staff or
+15 immediate family, who are employed by the lobbyist or any person acting
+16 on behalf of such lobbyist if such information is known or reasonably
+17 should have been known to the lobbyist.
+18 (b) If any such lobbying activity is on behalf of a Chinese military
+19 company, disclose that such Chinese military company is a foreign
+20 adversary of the United States. For purposes of this subdivision (b),
+21 lobbying activity includes, but is not limited to, lobbying by means of
+22 telephone, electronic mail, United States mail or other mail delivery
+23 service, in-person meetings, or testimony at legislative hearings.
+24 (2)(a) Every person employed, retained, or authorized as a
+25 consultant for a Chinese military company shall, before commencing any
+26 influencing activity in Nebraska for such Chinese military company:
+27 (i) File with the commission, on a form prescribed by the
+28 commission, information that shall include as a minimum, the following:
+29 (A) The name, permanent residence address, and office address of the
+30 consultant;
+31 (B) The name and address of the Chinese military company represented
+-5-
+
+AM2726 AM2726
+LB1096 LB1096
+JNH - 03/17/2026 JNH - 03/17/2026
+1 by such consultant;
+2 (C) A description of the business activity of the consultant;
+3 (D) An identification of the matters on which the consultant expects
+4 to conduct influencing activity on behalf of such Chinese military
+5 company;
+6 (E) An affirmative acknowledgment by the consultant that such
+7 consultant is influencing on behalf of, and thereby acting as an agent
+8 of, a foreign adversary of the United States; and
+9 (F) The name and address of any official in the legislative or
+10 executive branch, and of any members of any such official's staff or
+11 immediate family, who are employed by the consultant or any person acting
+12 on behalf of such consultant if such information is known or reasonably
+13 should have been known to the consultant; and
+14 (ii) Disclose that such Chinese military company is a foreign
+15 adversary of the United States.
+16 (b) For purposes of this subsection, influencing activity includes,
+17 but is not limited to, influencing by means of telephone, electronic
+18 mail, United States mail or other mail delivery service, or in-person
+19 meetings.
+20 (3) Any person who violates subdivision (1)(a)(vi) or (1)(b) or
+21 subsection (2) of this section shall be subject to a civil penalty of one
+22 hundred thousand dollars for each violation. For any subsequent
+23 violation, the civil penalty shall be increased by one hundred thousand
+24 dollars more than the previously assessed penalty, not to exceed one
+25 million dollars per violation. All penalties collected under this section
+26 shall be remitted to the State Treasurer for distribution in accordance
+27 with Article VII, section 5, of the Constitution of Nebraska.
+28 (4) For purposes of this section: ,
+29 (a) Chinese military company has the same meaning as in section
+30 1260H of Public Law 116-283, as such section existed on April 1, 2025,
+31 and includes any subsidiary of a Chinese military company or any company
+-6-
+
+AM2726 AM2726
+LB1096 LB1096
+JNH - 03/17/2026 JNH - 03/17/2026
+1 owned or controlled, in whole or in part, by a Chinese military company;
+2 and .
+3 (b) Consultant means any person who engages in informing or advising
+4 any other person regarding the policies of the State of Nebraska or the
+5 political or public interest, policies, or relations of a foreign country
+6 or of a foreign political party.
+7 Sec. 8. Section 77-3,114, Revised Statutes Supplement, 2025, is
+8 amended to read:
+9 77-3,114 (1) For purposes of this section:
+10 (a) Company means any corporation, partnership, association,
+11 organization, or other combination of persons;
+12 (b) Foreign adversary means those countries listed in 15 C.F.R.
+13 791.4, as such regulation existed on April 1, 2025;
+14 (c) Foreign adversarial company means a company that:
+15 (i) Is organized under the laws of a foreign adversary;
+16 (ii) Has its principal place of business within a foreign adversary;
+17 (iii) Is owned in whole or in part, operated, or controlled,
+18 directly or indirectly, by the government of a foreign adversary; or
+19 (iv) Is a direct or indirect subsidiary or parent of any company
+20 otherwise described in subdivisions (1)(c)(i), (ii), or (iii) subdivision
+21 (1)(c) of this section; and
+22 (d) Government of a foreign adversary means any person or group of
+23 persons exercising sovereign de facto or de jure political jurisdiction
+24 over any foreign adversary, or over any part of such country, and
+25 includes any subdivision of any such group and any group or agency to
+26 which such sovereign de facto or de jure authority or functions are
+27 directly or indirectly delegated. Such term shall include any faction or
+28 body of insurgents within a country assuming to exercise governmental
+29 authority whether such faction or body of insurgents has or has not been
+30 recognized by the United States; .
+31 (e) Group of companies means each person that is or would otherwise
+-7-
+
+AM2726 AM2726
+LB1096 LB1096
+JNH - 03/17/2026 JNH - 03/17/2026
+1 be a member of the same unitary group if incorporated;
+2 (f) Indirect subsidiary of a company means a company owned by
+3 another company through one or more intermediary companies rather than
+4 through direct ownership; and
+5 (g) Any other term in this section shall have the same meaning as
+6 used in the Nebraska Revenue Act of 1967.
+7 (2) A foreign adversarial company shall be ineligible to receive any
+8 benefits under an incentive program of the State of Nebraska, including
+9 under:
+10 (a) The Beginning Farmer Tax Credit Act;
+11 (b) The ImagiNE Nebraska Act;
+12 (c) The Nebraska Advantage Microenterprise Tax Credit Act;
+13 (d) The Nebraska Advantage Research and Development Act;
+14 (e) The Nebraska Advantage Rural Development Act;
+15 (f) The Nebraska Job Creation and Mainstreet Revitalization Act;
+16 (g) The New Markets Job Growth Investment Act;
+17 (h) The Urban Redevelopment Act; and
+18 (i) Any other tax or other incentive program created by legislative
+19 or executive action for the purpose of recruitment or retention of
+20 businesses in Nebraska.
+21 (3) Any company that is not a foreign adversarial company shall only
+22 use benefits against income taxes of the members of the same group of
+23 companies that are not foreign adversarial companies. The tax liability
+24 attributable to members of the unitary group that are foreign adversarial
+25 companies shall be determined using the apportionment formula used to
+26 determine the amount of tax due.
+27 Sec. 9. Section 77-27,187.02, Revised Statutes Supplement, 2025, is
+28 amended to read:
+29 77-27,187.02 (1) To earn the incentives set forth in the Nebraska
+30 Advantage Rural Development Act, the taxpayer shall file an application
+31 for an agreement with the Tax Commissioner. There shall be no new
+-8-
+
+AM2726 AM2726
+LB1096 LB1096
+JNH - 03/17/2026 JNH - 03/17/2026
+1 applications for incentives filed under this section after December 31,
+2 2027.
+3 (2) The application shall contain:
+4 (a) A written statement describing the full expected employment or
+5 type of livestock production and the investment amount for a qualified
+6 business, as described in section 77-27,189, in this state;
+7 (b) Sufficient documents, plans, and specifications as required by
+8 the Tax Commissioner to support the plan and to define a project; and
+9 (c) An application fee of (i) one hundred dollars for an investment
+10 amount of less than twenty-five thousand dollars, (ii) two hundred fifty
+11 dollars for an investment amount of at least twenty-five thousand dollars
+12 but less than fifty thousand dollars, and (iii) five hundred dollars for
+13 an investment amount of fifty thousand dollars or more. The fee shall be
+14 remitted to the State Treasurer for credit to the Nebraska Incentives
+15 Fund. The application and all supporting information shall be
+16 confidential except for the name of the taxpayer, the location of the
+17 project, and the amounts of increased employment or investment.
+18 (3)(a) The Tax Commissioner shall approve the application and
+19 authorize the total amount of credits expected to be earned as a result
+20 of the project if he or she is satisfied that the plan in the application
+21 defines a project that (i) meets the requirements established in section
+22 77-27,188 and such requirements will be reached within the required time
+23 period and (ii) for projects other than livestock modernization or
+24 expansion projects, is located in an eligible county, city, or village.
+25 (b) For applications filed in calendar year 2016 and each year
+26 thereafter, the Tax Commissioner shall not approve further applications
+27 from applicants described in subsection (1) of section 77-27,188 once the
+28 expected credits from approved projects in this category total: For
+29 calendar years 2016 through 2022, one million dollars; for calendar years
+30 2023 through 2025, two million dollars; and for calendar year 2026 and
+31 each calendar year thereafter, one million dollars. For applications
+-9-
+
+AM2726 AM2726
+LB1096 LB1096
+JNH - 03/17/2026 JNH - 03/17/2026
+1 filed in calendar year 2016 and each year thereafter, the Tax
+2 Commissioner shall not approve further applications from applicants
+3 described in subsection (2) of section 77-27,188 once the expected
+4 credits from approved projects in this category total: For calendar year
+5 2016, five hundred thousand dollars; for calendar years 2017 and 2018,
+6 seven hundred fifty thousand dollars; for calendar years 2019, 2020, and
+7 2021, one million dollars; for calendar years 2022 through 2024, ten
+8 million dollars; for calendar year 2025, seven million five hundred
+9 thousand dollars; and for calendar year 2026 and each calendar year
+10 thereafter, one million dollars. Four hundred dollars of the application
+11 fee shall be refunded to the applicant if the application is not approved
+12 because the expected credits from approved projects exceed such amounts.
+13 (c) Applications for benefits shall be considered separately and in
+14 the order in which they are received for the categories represented by
+15 subsections (1) and (2) of section 77-27,188.
+16 (d) Applications shall be filed by November 1 and shall be complete
+17 by December 1 of each calendar year. Any application that is filed after
+18 November 1 or that is not complete on December 1 shall be considered to
+19 be filed during the following calendar year.
+20 (4) After approval, the taxpayer and the Tax Commissioner shall
+21 enter into a written agreement. The taxpayer shall agree to complete the
+22 project, and the Tax Commissioner, on behalf of the State of Nebraska,
+23 shall designate the approved plans of the taxpayer as a project and, in
+24 consideration of the taxpayer's agreement, agree to allow the taxpayer to
+25 use the incentives contained in the Nebraska Advantage Rural Development
+26 Act up to the total amount that were authorized by the Tax Commissioner
+27 at the time of approval. The application, and all supporting
+28 documentation, to the extent approved, shall be considered a part of the
+29 agreement. The agreement shall state:
+30 (a) The levels of employment and investment required by the act for
+31 the project;
+-10-
+
+AM2726 AM2726
+LB1096 LB1096
+JNH - 03/17/2026 JNH - 03/17/2026
+1 (b) The time period under the act in which the required level must
+2 be met;
+3 (c) The documentation the taxpayer will need to supply when claiming
+4 an incentive under the act;
+5 (d) The date the application was filed; and
+6 (e) The maximum amount of credits authorized.
+7 (5) No incentives shall be given to a foreign adversarial company as
+8 defined in section 77-3,114.
+9 Sec. 10. Section 77-5723, Revised Statutes Cumulative Supplement,
+10 2024, is amended to read:
+11 77-5723 (1) In order to utilize the incentives set forth in the
+12 Nebraska Advantage Act, the taxpayer shall file an application, on a form
+13 developed by the Tax Commissioner, requesting an agreement with the Tax
+14 Commissioner.
+15 (2) The application shall contain:
+16 (a) A written statement describing the plan of employment and
+17 investment for a qualified business in this state;
+18 (b) Sufficient documents, plans, and specifications as required by
+19 the Tax Commissioner to support the plan and to define a project;
+20 (c) If more than one location within this state is involved,
+21 sufficient documentation to show that the employment and investment at
+22 different locations are interdependent parts of the plan. A headquarters
+23 shall be presumed to be interdependent with each other location directly
+24 controlled by such headquarters. A showing that the parts of the plan
+25 would be considered parts of a unitary business for corporate income tax
+26 purposes shall not be sufficient to show interdependence for the purposes
+27 of this subdivision;
+28 (d) A nonrefundable application fee of one thousand dollars for a
+29 tier 1 project, two thousand five hundred dollars for a tier 2, tier 3,
+30 or tier 5 project, five thousand dollars for a tier 4 project, and ten
+31 thousand dollars for a tier 6 project. The fee shall be credited to the
+-11-
+
+AM2726 AM2726
+LB1096 LB1096
+JNH - 03/17/2026 JNH - 03/17/2026
+1 Nebraska Incentives Fund; and
+2 (e) A timetable showing the expected sales tax refunds and what year
+3 they are expected to be claimed. The timetable shall include both direct
+4 refunds due to investment and credits taken as sales tax refunds as
+5 accurately as possible.
+6 The application and all supporting information shall be confidential
+7 except for the name of the taxpayer, the location of the project, the
+8 amounts of increased employment and investment, and the information
+9 required to be reported by sections 77-5731 and 77-5734.
+10 (3) An application must be complete to establish the date of the
+11 application. An application shall be considered complete once it contains
+12 the items listed in subsection (2) of this section, regardless of the Tax
+13 Commissioner's additional needs pertaining to information or
+14 clarification in order to approve or not approve the application.
+15 (4) Once satisfied that the plan in the application defines a
+16 project consistent with the purposes stated in the Nebraska Advantage Act
+17 in one or more qualified business activities within this state, that the
+18 taxpayer and the plan will qualify for benefits under the act, and that
+19 the required levels of employment and investment for the project will be
+20 met within the applicable time period prescribed in this subsection, the
+21 Tax Commissioner shall approve the application. For a tier 6 project
+22 submitted and approved by the Tax Commissioner prior to December 1, 2020,
+23 or for any tier 1 or tier 3 project, the required levels of employment
+24 and investment shall be met prior to the end of the fourth year after the
+25 year in which the application was submitted. For a tier 6 project
+26 submitted and approved by the Tax Commissioner on or after December 1,
+27 2020, or for any tier 2, tier 4, or tier 5 project, the required levels
+28 of employment and investment shall be met prior to the end of the sixth
+29 year after the year in which the application was submitted. For a tier 5
+30 project that is sequential to a tier 2 large data center project, the
+31 required level of investment shall be met prior to the end of the fourth
+-12-
+
+AM2726 AM2726
+LB1096 LB1096
+JNH - 03/17/2026 JNH - 03/17/2026
+1 year after the expiration of the tier 2 large data center project
+2 entitlement period relating to sales tax exemptions.
+3 (5) The Tax Commissioner shall make his or her determination to
+4 approve or not approve an application within one hundred eighty days
+5 after the date of the application. If the Tax Commissioner requests, by
+6 mail or by electronic means, additional information or clarification from
+7 the taxpayer in order to make his or her determination, such one-hundred-
+8 eighty-day period shall be tolled from the time the Tax Commissioner
+9 makes the request to the time he or she receives the requested
+10 information or clarification from the taxpayer. The taxpayer and the Tax
+11 Commissioner may also agree to extend the one-hundred-eighty-day period.
+12 If the Tax Commissioner fails to make his or her determination within the
+13 prescribed one-hundred-eighty-day period, the application shall be deemed
+14 approved.
+15 (6) Within one hundred eighty days after approval of the
+16 application, the Tax Commissioner shall prepare and mail a written
+17 agreement to the taxpayer for the taxpayer's signature. The taxpayer and
+18 the Tax Commissioner shall enter into a written agreement. The taxpayer
+19 shall agree to complete the project, and the Tax Commissioner, on behalf
+20 of the State of Nebraska, shall designate the approved plan of the
+21 taxpayer as a project and, in consideration of the taxpayer's agreement,
+22 agree to allow the taxpayer to use the incentives contained in the
+23 Nebraska Advantage Act. The application, and all supporting
+24 documentation, to the extent approved, shall be considered a part of the
+25 agreement. The agreement shall state:
+26 (a) The levels of employment and investment required by the act for
+27 the project;
+28 (b) The time period under the act in which the required levels must
+29 be met;
+30 (c) The documentation the taxpayer will need to supply when claiming
+31 an incentive under the act;
+-13-
+
+AM2726 AM2726
+LB1096 LB1096
+JNH - 03/17/2026 JNH - 03/17/2026
+1 (d) The date the application was filed; and
+2 (e) A requirement that the company update the Department of Revenue
+3 annually on any changes in plans or circumstances which affect the
+4 timetable of sales tax refunds as set out in the application. If the
+5 company fails to comply with this requirement, the Tax Commissioner may
+6 defer any pending sales tax refunds until the company does comply.
+7 (7) The incentives contained in section 77-5725 shall be in lieu of
+8 the tax credits allowed by the Nebraska Advantage Rural Development Act
+9 for any project. In computing credits under the act, any investment or
+10 employment which is eligible for benefits or used in determining benefits
+11 under the Nebraska Advantage Act shall be subtracted from the increases
+12 computed for determining the credits under section 77-27,188. New
+13 investment or employment at a project location that results in the
+14 meeting or maintenance of the employment or investment requirements, the
+15 creation of credits, or refunds of taxes under the Employment and
+16 Investment Growth Act shall not be considered new investment or
+17 employment for purposes of the Nebraska Advantage Act. The use of
+18 carryover credits under the Employment and Investment Growth Act, the
+19 Invest Nebraska Act, the Nebraska Advantage Rural Development Act, or the
+20 Quality Jobs Act shall not preclude investment and employment from being
+21 considered new investment or employment under the Nebraska Advantage Act.
+22 The use of property tax exemptions at the project under the Employment
+23 and Investment Growth Act shall not preclude investment not eligible for
+24 the property tax exemption from being considered new investment under the
+25 Nebraska Advantage Act.
+26 (8) A taxpayer and the Tax Commissioner may enter into agreements
+27 for more than one project and may include more than one project in a
+28 single agreement. The projects may be either sequential or concurrent. A
+29 project may involve the same location as another project. No new
+30 employment or new investment shall be included in more than one project
+31 for either the meeting of the employment or investment requirements or
+-14-
+
+AM2726 AM2726
+LB1096 LB1096
+JNH - 03/17/2026 JNH - 03/17/2026
+1 the creation of credits. When projects overlap and the plans do not
+2 clearly specify, then the taxpayer shall specify in which project the
+3 employment or investment belongs.
+4 (9) The taxpayer may request that an agreement be modified if the
+5 modification is consistent with the purposes of the act and does not
+6 require a change in the description of the project. An agreement may not
+7 be modified to a tier that would grant a higher level of benefits to the
+8 taxpayer or to a tier 1 project. Once satisfied that the modification to
+9 the agreement is consistent with the purposes stated in the act, the Tax
+10 Commissioner and taxpayer may amend the agreement. For a tier 6 project,
+11 the taxpayer must agree to limit the project to qualified activities
+12 allowable under tier 2 and tier 4.
+13 (10) No incentives shall be given to a foreign adversarial company
+14 as defined in section 77-3,114.
+15 Sec. 11. Section 77-6827, Revised Statutes Cumulative Supplement,
+16 2024, is amended to read:
+17 77-6827 (1) In order to utilize the incentives allowed in the
+18 ImagiNE Nebraska Act, the taxpayer shall file an application with the
+19 director, on a form developed by the director, requesting an agreement.
+20 (2) The application shall:
+21 (a) Identify the taxpayer applying for incentives;
+22 (b) Identify all locations sought to be within the agreement and the
+23 reason each such location constitutes or is expected to constitute a
+24 qualified location;
+25 (c) State the estimated, projected amount of new investment and the
+26 estimated, projected number of new employees;
+27 (d) Identify the required levels of employment and investment for
+28 the various incentives listed within section 77-6831 that will govern the
+29 agreement. The taxpayer may identify different levels of employment and
+30 investment until the first December 31 following the end of the ramp-up
+31 period on a form approved by the director. The identified levels of
+-15-
+
+AM2726 AM2726
+LB1096 LB1096
+JNH - 03/17/2026 JNH - 03/17/2026
+1 employment and investment will govern all years covered under the
+2 agreement;
+3 (e) Identify whether the agreement is for a single qualified
+4 location, all qualified locations within a county, all qualified
+5 locations in more than one county, or all qualified locations within the
+6 state;
+7 (f) Acknowledge that the taxpayer understands the requirements for
+8 offering health coverage, and for reporting the value of such coverage,
+9 as specified in the ImagiNE Nebraska Act;
+10 (g) Acknowledge that the taxpayer does not violate any state or
+11 federal law against discrimination;
+12 (h) Acknowledge that the taxpayer understands the requirements for
+13 providing a sufficient package of benefits to its employees as specified
+14 in the ImagiNE Nebraska Act; and
+15 (i) Contain a nonrefundable application fee of five thousand
+16 dollars. The fee shall be remitted to the State Treasurer for credit to
+17 the Nebraska Incentives Fund.
+18 (3) An application must be complete to establish the date of the
+19 application. An application shall be considered complete once it contains
+20 the items listed in subsection (2) of this section.
+21 (4) Once satisfied that the application is consistent with the
+22 purposes stated in the ImagiNE Nebraska Act for one or more qualified
+23 locations within this state, the director shall approve the application,
+24 subject to the base authority limitations provided in section 77-6839.
+25 (5) The director shall make his or her determination to approve or
+26 not approve an application within ninety days after the date of the
+27 application. If the director requests, by mail or by electronic means,
+28 additional information or clarification from the taxpayer in order to
+29 make his or her determination, such ninety-day period shall be tolled
+30 from the time the director makes the request to the time he or she
+31 receives the requested information or clarification from the taxpayer.
+-16-
+
+AM2726 AM2726
+LB1096 LB1096
+JNH - 03/17/2026 JNH - 03/17/2026
+1 The taxpayer and the director may also agree to extend the ninety-day
+2 period. If the director fails to make his or her determination within the
+3 prescribed ninety-day period, the application is deemed approved, subject
+4 to the base authority limitations provided in section 77-6839.
+5 (6) There shall be no new applications for incentives filed under
+6 this section after December 31, 2030. All complete applications filed on
+7 or before December 31, 2030, shall be considered by the director and
+8 approved if the location or locations and taxpayer qualify for benefits,
+9 subject to the base authority limitations provided in section 77-6839.
+10 Agreements may be executed with regard to complete applications filed on
+11 or before December 31, 2030. All agreements pending, approved, or entered
+12 into before such date shall continue in full force and effect.
+13 (7) No incentives shall be given to a foreign adversarial company as
+14 defined in section 77-3,114.
+15 Sec. 12. Section 84-712.05, Reissue Revised Statutes of Nebraska, is
+16 amended to read:
+17 84-712.05 The following records, unless publicly disclosed in an
+18 open court, open administrative proceeding, or open meeting or disclosed
+19 by a public entity pursuant to its duties, may be withheld from the
+20 public by the lawful custodian of the records:
+21 (1) Personal information in records regarding a student, prospective
+22 student, or former student of any educational institution or exempt
+23 school that has effectuated an election not to meet state approval or
+24 accreditation requirements pursuant to section 79-1601 when such records
+25 are maintained by and in the possession of a public entity, other than
+26 routine directory information specified and made public consistent with
+27 20 U.S.C. 1232g, as such section existed on February 1, 2013, and
+28 regulations adopted thereunder;
+29 (2) Medical records, other than records of births and deaths and
+30 except as provided in subdivisions (5) and (27) of this section, in any
+31 form concerning any person; records of elections filed under section
+-17-
+
+AM2726 AM2726
+LB1096 LB1096
+JNH - 03/17/2026 JNH - 03/17/2026
+1 44-2821; and patient safety work product under the Patient Safety
+2 Improvement Act;
+3 (3) Trade secrets, academic and scientific research work which is in
+4 progress and unpublished, and other proprietary or commercial information
+5 which if released would give advantage to business competitors and serve
+6 no public purpose;
+7 (4) Records which represent the work product of an attorney and the
+8 public body involved which are related to preparation for litigation,
+9 labor negotiations, or claims made by or against the public body or which
+10 are confidential communications as defined in section 27-503;
+11 (5) Records developed or received by law enforcement agencies and
+12 other public bodies charged with duties of investigation or examination
+13 of persons, institutions, or businesses, when the records constitute a
+14 part of the examination, investigation, intelligence information,
+15 complaints or inquiries from residents of this state or other interested
+16 persons, informant identification, or strategic or tactical information
+17 used in law enforcement training, except that this subdivision shall not
+18 apply to records so developed or received:
+19 (a) Relating to the presence of and amount or concentration of
+20 alcohol or drugs in any body fluid of any person; or
+21 (b) Relating to the cause of or circumstances surrounding the death
+22 of an employee arising from or related to his or her employment if, after
+23 an investigation is concluded, a family member of the deceased employee
+24 makes a request for access to or copies of such records. This subdivision
+25 does not require access to or copies of informant identification, the
+26 names or identifying information of members of the public making
+27 complaints or inquiries, other information which would compromise an
+28 ongoing criminal investigation, or information which may be withheld from
+29 the public under another provision of law. For purposes of this
+30 subdivision, family member means a spouse, child, parent, sibling,
+31 grandchild, or grandparent by blood, marriage, or adoption;
+-18-
+
+AM2726 AM2726
+LB1096 LB1096
+JNH - 03/17/2026 JNH - 03/17/2026
+1 (6) The identity and personal identifying information of an alleged
+2 victim of sexual assault or sex trafficking as provided in section
+3 29-4316;
+4 (7) Appraisals or appraisal information and negotiation records
+5 concerning the purchase or sale, by a public body, of any interest in
+6 real or personal property, prior to completion of the purchase or sale;
+7 (8) Personal information in records regarding personnel of public
+8 bodies other than salaries and routine directory information;
+9 (9) Information solely pertaining to protection of the security of
+10 public property and persons on or within public property, such as
+11 specific, unique vulnerability assessments or specific, unique response
+12 plans, either of which is intended to prevent or mitigate criminal acts
+13 the public disclosure of which would create a substantial likelihood of
+14 endangering public safety or property; computer or communications network
+15 schema, passwords, and user identification names; guard schedules; lock
+16 combinations; or public utility infrastructure specifications or design
+17 drawings the public disclosure of which would create a substantial
+18 likelihood of endangering public safety or property, unless otherwise
+19 provided by state or federal law;
+20 (10) Information that relates details of physical and cyber assets
+21 of critical energy infrastructure, critical water infrastructure,
+22 critical telecommunications and broadband infrastructure, or critical
+23 electric infrastructure, including (a) specific engineering,
+24 vulnerability, or detailed design information about proposed or existing
+25 critical energy infrastructure, critical water infrastructure, critical
+26 telecommunications and broadband infrastructure, or critical electric
+27 infrastructure that (i) relates details about the production, generation,
+28 transportation, transmission, or distribution of energy, electronic data,
+29 or water, (ii) could be useful to a person in planning an attack on such
+30 critical infrastructure, and (iii) does not simply give the general
+31 location of the critical infrastructure and (b) the identity of personnel
+-19-
+
+AM2726 AM2726
+LB1096 LB1096
+JNH - 03/17/2026 JNH - 03/17/2026
+1 whose primary job function makes such personnel responsible for (i)
+2 providing or granting individuals access to physical or cyber assets or
+3 (ii) operating and maintaining physical or cyber assets, if a reasonable
+4 person, knowledgeable of the electric, water, telecommunications and
+5 broadband, utility or energy industry, would conclude that the public
+6 disclosure of such identity could create a substantial likelihood of risk
+7 to such physical or cyber assets. Subdivision (10)(b) of this section
+8 shall not apply to the identity of a chief executive officer, general
+9 manager, vice president, or board member of a public entity that manages
+10 critical energy infrastructure, critical water infrastructure, critical
+11 telecommunications and broadband infrastructure, or critical electric
+12 infrastructure. The lawful custodian of the records must provide a
+13 detailed job description for any personnel whose identity is withheld
+14 pursuant to subdivision (10)(b) of this section. For purposes of
+15 subdivision (10) of this section, critical energy infrastructure,
+16 critical water infrastructure, critical telecommunications and broadband
+17 infrastructure, and critical electric infrastructure mean existing and
+18 proposed systems and assets, including a system or asset of the bulk-
+19 power system, whether physical or virtual, the incapacity or destruction
+20 of which would negatively affect security, economic security, public
+21 health or safety, operation of the 911 service system as defined in
+22 section 86-1048, or any combination of such matters;
+23 (11) The security standards, procedures, policies, plans,
+24 specifications, diagrams, access lists, and other security-related
+25 records of the Lottery Division of the Department of Revenue and those
+26 persons or entities with which the division has entered into contractual
+27 relationships. Nothing in this subdivision shall allow the division to
+28 withhold from the public any information relating to:
+29 (a) Amounts paid persons or entities with which the division has
+30 entered into contractual relationships;
+31 (b) Amounts of prizes paid; or
+-20-
+
+AM2726 AM2726
+LB1096 LB1096
+JNH - 03/17/2026 JNH - 03/17/2026
+1 (c) The name of any prize winner awarded a prize of less than two
+2 hundred fifty thousand dollars, and the city, village, or county where
+3 the prize winner resides;
+4 (12) With respect to public utilities and except as provided in
+5 sections 43-512.06 and 70-101, personally identified private customer
+6 account payment and customer use information, credit information on
+7 others supplied in confidence, and customer lists;
+8 (13) Records or portions of records kept by a publicly funded
+9 library which, when examined with or without other records, reveal the
+10 identity of any library patron using the library's materials or services;
+11 (14) Correspondence, memoranda, and records of telephone calls
+12 related to the performance of duties by a member of the Legislature in
+13 whatever form. The lawful custodian of the correspondence, memoranda, and
+14 records of telephone calls, upon approval of the Executive Board of the
+15 Legislative Council, shall release the correspondence, memoranda, and
+16 records of telephone calls which are not designated as sensitive or
+17 confidential in nature to any person performing an audit of the
+18 Legislature. A member's correspondence, memoranda, and records of
+19 confidential telephone calls related to the performance of his or her
+20 legislative duties shall only be released to any other person with the
+21 explicit approval of the member;
+22 (15) Records or portions of records kept by public bodies which
+23 would reveal the location, character, or ownership of any known
+24 archaeological, historical, or paleontological site in Nebraska when
+25 necessary to protect the site from a reasonably held fear of theft,
+26 vandalism, or trespass. This section shall not apply to the release of
+27 information for the purpose of scholarly research, examination by other
+28 public bodies for the protection of the resource or by recognized tribes,
+29 the Unmarked Human Burial Sites and Skeletal Remains Protection Act, or
+30 the federal Native American Graves Protection and Repatriation Act;
+31 (16) Records or portions of records kept by public bodies which
+-21-
+
+AM2726 AM2726
+LB1096 LB1096
+JNH - 03/17/2026 JNH - 03/17/2026
+1 maintain collections of archaeological, historical, or paleontological
+2 significance which reveal the names and addresses of donors of such
+3 articles of archaeological, historical, or paleontological significance
+4 unless the donor approves disclosure, except as the records or portions
+5 thereof may be needed to carry out the purposes of the Unmarked Human
+6 Burial Sites and Skeletal Remains Protection Act or the federal Native
+7 American Graves Protection and Repatriation Act;
+8 (17) Library, archive, and museum materials acquired from
+9 nongovernmental entities and preserved solely for reference, research, or
+10 exhibition purposes, for the duration specified in subdivision (17)(b) of
+11 this section, if:
+12 (a) Such materials are received by the public custodian as a gift,
+13 purchase, bequest, or transfer; and
+14 (b) The donor, seller, testator, or transferor conditions such gift,
+15 purchase, bequest, or transfer on the materials being kept confidential
+16 for a specified period of time;
+17 (18) Job application materials submitted by applicants, other than
+18 finalists or a priority candidate for a position described in section
+19 85-106.06 selected using the enhanced public scrutiny process in section
+20 85-106.06, who have applied for employment by any public body as defined
+21 in section 84-1409. For purposes of this subdivision, (a) job application
+22 materials means employment applications, resumes, reference letters, and
+23 school transcripts and (b) finalist means any applicant who is not an
+24 applicant for a position described in section 85-106.06 and (i) who
+25 reaches the final pool of applicants, numbering four or more, from which
+26 the successful applicant is to be selected, (ii) who is an original
+27 applicant when the final pool of applicants numbers less than four, or
+28 (iii) who is an original applicant and there are four or fewer original
+29 applicants;
+30 (19)(a) Records obtained by the Public Employees Retirement Board
+31 pursuant to section 84-1512 and (b) records maintained by the board of
+-22-
+
+AM2726 AM2726
+LB1096 LB1096
+JNH - 03/17/2026 JNH - 03/17/2026
+1 education of a Class V school district and obtained by the board of
+2 trustees or the Public Employees Retirement Board for the administration
+3 of a retirement system provided for under the Class V School Employees
+4 Retirement Act pursuant to section 79-989;
+5 (20) Social security numbers; credit card, charge card, or debit
+6 card numbers and expiration dates; and financial account numbers supplied
+7 to state and local governments;
+8 (21) Information exchanged between a jurisdictional utility and city
+9 pursuant to section 66-1867;
+10 (22) Draft records obtained by the Nebraska Retirement Systems
+11 Committee of the Legislature and the Governor from Nebraska Public
+12 Employees Retirement Systems pursuant to subsection (4) of section
+13 84-1503;
+14 (23) All prescription drug information submitted pursuant to section
+15 71-2454, all data contained in the prescription drug monitoring system,
+16 and any report obtained from data contained in the prescription drug
+17 monitoring system;
+18 (24) Information obtained by any government entity, whether federal,
+19 state, county, or local, regarding firearm registration, possession,
+20 sale, or use that is obtained for purposes of an application permitted or
+21 required by law or contained in a permit or license issued by such
+22 entity. Such information shall be available upon request to any federal,
+23 state, county, or local law enforcement agency;
+24 (25) The security standards, procedures, policies, plans,
+25 specifications, diagrams, and access lists and other security-related
+26 records of the State Racing and Gaming Commission, those persons or
+27 entities with which the commission has entered into contractual
+28 relationships, and the names of any individuals placed on the list of
+29 self-excluded persons with the commission as provided in section 9-1118.
+30 Nothing in this subdivision shall allow the commission to withhold from
+31 the public any information relating to the amount paid any person or
+-23-
+
+AM2726 AM2726
+LB1096 LB1096
+JNH - 03/17/2026 JNH - 03/17/2026
+1 entity with which the commission has entered into a contractual
+2 relationship, the amount of any prize paid, the name of the prize winner,
+3 and the city, village, or county where the prize winner resides;
+4 (26) Records relating to the nature, location, or function of
+5 cybersecurity by the State of Nebraska or any of its political
+6 subdivisions or any other public entity subject to sections 84-712 to
+7 84-712.09, including, but not limited to, devices, programs, or systems
+8 designed to protect computer, information technology, or communications
+9 systems against terrorist or other attacks. The Nebraska Information
+10 Technology Commission shall adopt and promulgate rules and regulations to
+11 implement this subdivision;
+12 (27) Vital event records, unless all information designated as
+13 confidential under the Vital Statistics Act or all personally
+14 identifiable information is redacted by the Department of Health and
+15 Human Services;
+16 (28) Information or records from historical indexes within one
+17 hundred years after the event date of the information or record; and
+18 (29) The certificate number for any vital event certificate.
+19 Sec. 13. Section 86-125, Revised Statutes Supplement, 2025, is
+20 amended to read:
+21 86-125 Notwithstanding the provisions of section 86-124:
+22 (1) Any communications provider providing service in Nebraska shall
+23 file a registration form with and pay a registration fee to the Public
+24 Service Commission. Any communications provider shall register with the
+25 commission prior to providing service. The commission shall prescribe the
+26 registration form to be filed pursuant to this section;
+27 (2) A communications provider providing the services described in
+28 subdivision (8)(a) (7)(a) of this section shall provide the commission
+29 with the name, address, telephone number, and email address of a contact
+30 person concerning:
+31 (a) The Nebraska Telecommunications Universal Service Fund Act and
+-24-
+
+AM2726 AM2726
+LB1096 LB1096
+JNH - 03/17/2026 JNH - 03/17/2026
+1 related surcharges, if applicable;
+2 (b) The Telecommunications Relay System Act and related surcharges,
+3 if applicable;
+4 (c) The 911 Service System Act and related surcharges, if
+5 applicable; and
+6 (d) Consumer complaints and inquiries;
+7 (3) A communications provider providing the services described in
+8 subdivision (8)(b) (7)(b) of this section shall provide the commission
+9 with the name, address, telephone number, and email address of a person
+10 with managerial responsibility for Nebraska operations;
+11 (4) A communications provider shall:
+12 (a) Submit a registration fee at the time of submission of the
+13 registration form. The commission shall set the fee in an amount
+14 sufficient to cover the costs of administering the registration process
+15 but not to exceed fifty dollars;
+16 (b) Keep the information required by this section current and notify
+17 the commission of any changes to such information within sixty days after
+18 the change; and
+19 (c) Certify to the commission by January 1 each year that such
+20 communications provider does not use or provide any communications
+21 equipment or service deemed to pose a threat to national security
+22 identified on the Covered List developed pursuant to 47 C.F.R. 1.50002,
+23 as such regulation existed on January 1, 2023, and published by the
+24 Public Safety and Homeland Security Bureau of the Federal Communications
+25 Commission pursuant to the federal Secure and Trusted Communications
+26 Networks Act of 2019, 47 U.S.C. 1601 et seq., as such act existed on
+27 January 1, 2023, and the rules adopted pursuant to such act by the
+28 Federal Communications Commission on November 11, 2022, in its Report and
+29 Order FCC 22-84;
+30 (5)(a) (5) The commission shall may, pursuant to section 75-156,
+31 administratively fine any communications provider which violates
+-25-
+
+AM2726 AM2726
+LB1096 LB1096
+JNH - 03/17/2026 JNH - 03/17/2026
+1 subdivision (4)(c) of this section. ;
+2 (b) The commission may, pursuant to section 75-156, administratively
+3 fine any communications provider which violates any other provision of
+4 this section;
+5 (6) Beginning November 8, 2026, in addition to other penalties and
+6 relief provided by law, the Attorney General shall assess a civil penalty
+7 of up to ten thousand dollars per day against any communications provider
+8 that fails to submit the annual certification required under this section
+9 or is unable to certify that its network is free of covered
+10 communications equipment and services pursuant to subdivision (4)(c) of
+11 this section;
+12 (7) (6) This section applies to all communications providers
+13 providing service in Nebraska except for those communications providers
+14 otherwise regulated under the Nebraska Telecommunications Regulation Act;
+15 and
+16 (8) (7) For purposes of this section, communications provider means
+17 any entity that:
+18 (a) Uses telephone numbers or Internet protocol addresses or their
+19 functional equivalents or successors to provide information of a user's
+20 choosing by aid of wire, cable, wireless, satellite, or other like
+21 connection, whether part of a bundle of services or offered separately,
+22 (i) which provides or enables real-time or interactive voice
+23 communications and (ii) in which the voice component is the primary
+24 function; or
+25 (b) Provides any service, whether part of a bundle of services or
+26 offered separately, used for transmission of information of a user's
+27 choosing regardless of the transmission medium or technology employed,
+28 that connects to a network that permits the end user to engage in
+29 electronic communications, including, but not limited to, service
+30 provided directly (i) to the public or (ii) to such classes of users as
+31 to be effectively available directly to the public.
+-26-
+
+AM2726 AM2726
+LB1096 LB1096
+JNH - 03/17/2026 JNH - 03/17/2026
+1 Sec. 14. If any section in this act or any part of any section is
+2 declared invalid or unconstitutional, the declaration shall not affect
+3 the validity or constitutionality of the remaining portions.
+4 Sec. 15. Original section 84-712.05, Reissue Revised Statutes of
+5 Nebraska, sections 77-5723 and 77-6827, Revised Statutes Cumulative
+6 Supplement, 2024, and sections 49-1480, 77-3,114, 77-27,187.02, and
+7 86-125, Revised Statutes Supplement, 2025, are repealed.
+-27-
+
+[DELETED: yJ1 S t o s a i t f nsScS 2  F p o t P L A aN(((0c a s l e o J 1 2 e b t1A a P H I S o t U S2D3(4a5S6s7(8t9(0w1t2t3( A p m i a h a p o p4i5s i f t d o t A a P H6I7S 4  ( E a o p i t s 6A6L6J]
+[DELETED: v(t(p(f(S 5  ( T d m a a p r a0r1a p o p i s a t o o i2c3e4(5c6S7( C m a f s p o8a c p j v l9p0i a w o s m o s p1c o a o t e o b a t2e3( C i m t 9 s a c4i s a c s a h v e5g6( C m t m t t p a c7c n c s o o t i8a9( F a m t c l i 1 C071(6A6L6J]
+[DELETED: (a(p( A p a a a c ao o a o c o p o u tl((0(1e2(3(4c5( A p e o c o p o e6d7c i i a p a c8o9t0( G e m a a d b1c o p s o t s t o o2m3(4o5n k e i a c o o a r t6c i i t s w a f p i t7c8o9(0o1a6A6L6J]
+[DELETED: w a t f p t d o r a oc(ct c i w a f p i a o tf( T i n o r o f a t nr( N e i s c o a w p 0g1t2S 7 S 4 R S S 2 i3a44 ( E p e r o a a 5l6( F a a w t C o t L f7r a a l a i t c i s t t8a9t b c T a s b o a f p b t0c1s2(3l4(5(6o s g o t b g t l a c o7r8p9r0(1( A i o t m o w t p o6A6L6J]
+[DELETED: l(aoS( I t p i a i t o par(0a a s d o t i a g1r2a3( T n a a o a o i t l o4e b a o a m o a s o s o5i6o b o s l i s i i k o r7s8(9c d t s C m c i a f0a o t U S F p o t s (1l2t e m U S m o o m d3s4( E p e r o a a 5c f a C m c s b c a6i7( F w t c o a f p b t8c9(0c1(6A6L6J]
+[DELETED: b((t c i a o b o s C mc( A a a b t c t sco( T n a a o a o i t l o0e b a o a m o a s o s o1i2o3s4( D t s C m c i a f5a6(7b i n l t i b m o t e8m U S m o o m d s o i9m0( A p w v s ( o ( o1s2h t d f e v F a s3v4d m t t p a p n t e o5m6s7w8(9( C m c h t s m a i s011a6A6L6J]
+[DELETED: oa(apoS 8 S 7 R S S 2 ia70( C m a c p a1o2( F a m t c l i 1 C374(5(6(7( I o i w o i p o o c8d9( I a d o i s o p o a c0o1(2(3p4o a f a o o a p o s c a5i a s o a s g a a g o a t6w s s d f o d j a o f a7d8b o i w a c a t e g9a0r1(6A6L6J]
+[DELETED: b( I s o a c m a c o ba c t o o m i c r tt(u(bu0(1(2(3(4(5(6(7(8(9o e a f t p o r o r o0b1(2u b a i t o t m o t s g o3c4a5c s b d u t a f u t6d7S8a97 ( T e t i s f i t N0A1f a a w t T C T s b n n6A6L6J]
+[DELETED: a2((tb(t(0a1d2b3a4r t t S T f c t t N I5F T a a a s i s b6c e f t n o t t t l o t7p8( T T C s a t a a9a0o1d273p a ( f p o t l m o4e5( F a f i c y 2 a e y6t7f8e c f a p i t c t F9c021e c y t o m d F a6A6L6J]
+[DELETED: f i c y 2 a e y t t TC s n a f a f ad i s ( o s 7 o t ec2s2 o m d f c y 2 t 2 tm d f c y 2 s m f ht d a f c y 2 a e c y0t1f2b3(4t5s6(7b8N9b0( A a t t a t T C s1e2p3s4c5u6A7a t t o a T a a a s8d9a0(1t6A6L6J]
+[DELETED: (b(a(((dS 1 S 7 R S C S0217 ( I o t u t i s f i t2N3d4C5(6( A w s d t p o e a7i8(9t0( I m t o l w t s i i1s d t s t t e a i a2d3s4c b s h A s t t p o t p5w6p7o8( A n a f o o t d f 9t0o1t6A6L6J]
+[DELETED: N(tr d t i a c t a s t r aaTe f t n o t t t l o t p ta o i e a i a t ir0( A a m b c t e t d o t1a2t3C a n p t i o4c5( O s t t p i t a d 6p7i8t9t0m1T C s a t a F a t 6 p2s3o4a5y i w t a w s F a t 6 p6s728o9y0p t i s t a t 2 l d c p t1r6A6L6J]
+[DELETED: y a t e o t t 2 l d c pe( T T C s m h o h d ta o n a a a w o h e damte p s b t f t t t T Cm t r t t t h o s r t r0i1C2I3p4a5( W o h e d a a o t6a t T C s p a m a w7a8t9s0o t S o N s d t a p o t1t2a t a t t t u t i c i t3N A A T a a a s4d5a6(7t8(9b0(1a6A6L6J]
+[DELETED: ((a o a c i p o c w a tt o s t r a s o i t a I tcd(tf0e1u2c f d t c u s 7 N3i o e a a p l t r i t4m5c o c o r o t u t E a6I G A s n b c n i o7e f p o t N A A T u o8c c u t E a I G A t9I0Q1c2T3a4t5N6( A t a t T C m e i a7f m t o p a m i m t o p i 8s9p m i t s l a a p N n0e1f6A6L6J]
+[DELETED: t c o c W p o a t p d nc s t t t s s i w p te(m i c w t p o t a a d nrbtt0C1t t m a t l t p t q a2a3(4a5S 1 S 7 R S C S6277 ( I o t u t i a i t8I N A t t s f a a w t9d0(1(2(3r e s l c o i e t c 4q5(6e7( I t r l o e a i f8t9a0i1p o a f a b t d T i l o6A6L6J]
+[DELETED: e a i w g a y c u ta( I w t a i f a s ql a q l w a c a qls(oa0( A t t t d n v a s o1f2(3p4i5( C a n a f o f t6d7t8( A a m b c t e t d o t9a0t1( O s t t a i c w t2p s i t I N A f o o m q3l4s5(6n a a a w n d a t d o t7a8a i o c f t t i o t9m h o h d s n p s b t0f t t t d m t r t t t h o s1r t r i o c f t t6A6L6J]
+[DELETED: T t a t d m a a t e t nppt( T s b n n a f i f uto b D 3 2 s b c b t d aas t t b a l p i s 70A1o2i3(4d5S6a78 T f r u p d i a8o9b a p e p t i d m b w f t0p1(2s o f s o a e i o e3s t h e a e n t m s a o4a5a6r72 U 1 a s s e o F 1 2 a8r9( M r o t r o b a d a0e1f c a p r o e f u s6A6L6J]
+[DELETED: 4 a p s w p u t P SI(pwn(p b i w a r t p f ll0a1( R d o r b l e a a2o3o p i o b w t r c 4p o t e i i i5c6p7u8a9( R t t p o a a o c o0a1(2o3a4m5d n r a t o c o i i t6n o i i o m o t p m7c o i o i w w c a8o9t p u a p o l F p o t0s f m m a s c p s1g6A6L6J]
+[DELETED: (v o s a o s t a p i s2( A o a i a n rc t p o s b a p b o a i ir( P i i r r p o pb(0p p a p o o w p p s a1s2p3t4e5s6c7d t p d o w w c a s8l o e p s o p u o9p0(1o c e i c w i2c t a b i o c3e i i ( s e4v5c e i c w i c6t a b i o c e7i8t9o0c i a ( d n s g t g1l6A6L6J]
+[DELETED: w p j f m s p r f (p(p k o t e w t ab u o e i w c t t pdt s p o c a S ( o t ss n a t t i o a c e o gm0c e i c w i c1t a b i o c e2i T l c o t r m p 3d j d f a p w i i w4p t s ( o t s F p o5s ( o t s c e i6c7i a c e i m e a8p s a a i a s o a o t b9p0o w w n a s e s p1h o s o o t 9 s s a d i2s3( T s s p p p4s d a l a o s5r6p7r N i t s s a t d t8w9( A p p o e w w t d h0e1(6A6L6J]
+[DELETED: (ht( W r t p u a e a p is 4 a 7 p i p ca p a c u i c i oo( R o p o r k b a p fl0i1( C m a r o t c2r3w4r5L C s r t c m a6r o t c w a n d a s o7c i n t a p p a a o t8L A m c m a r o9c t c r t t p o h o h0l1e2( R o p o r k b p b w3w r t l c o o o a k4a h o p s i N w5n t p t s f a r h f o t6v7i8p9t0t1( R o p o r k b p b w6A6L6J]
+[DELETED: m c o a h o ps w r t n a a o d o sa o a h o p sut m b n t c o t p o t U HBA( L a a m m a fn0e1t2(3p4(5p6f7(8f o a p c f a p d i s98081i2m3s t a ( f m a a w i n a4a f a p d i s 8 a ( w5r6t s a i t b s ( w i a o7a8(9a0( R o b t P E R B1p6A6L6J]
+[DELETED: e o a C V s d a o b t b otoR( S s n c c c c o dct(p0( D r o b t N R S1C o t L a t G f N P2E R S p t s ( o s384(576a a r o f d c i t p d7m8(9s c o l r f r p0s1r b l o c i a p o l i b s2e3s4( T s s p p p5s d a a l a o s6r o t S R a G C t p o7e w w t c h e i c8r a t n o a i p o t l o9s0N1t p a i r t t a p a p o6A6L6J]
+[DELETED: e w w t c h e i a cra( R r t t n l o f oc b t S o N o a o i ps o a o p e s t s 8 t8ds a t o o a T N I0T1i2( V e r u a i d a3c u t V S A o a p4i i i r b t D o H a5H6( I o r f h i w o7h8(9S 1 S 8 R S S 2 i0a182(3f4S5c6r7( A c p p t s d i8s ( ( o t s s p t c9w0p1(6A6L6J]
+[DELETED: r(i( T 9 S S A a r s ia(( A c p p t s d is ( ( o t s s p t cw0w1(2( S a r f a t t o s o t3r f T c s s t f i a a4s5b6(7t8t9( C t t c b J 1 e y t s0c p d n u o p a c1e o s d t p a t t n s2i3a s r e o J 1 2 a p b t4P5C p t t f S a T C6N A o 2 4 U 1 e s a s a e o7J 1 2 a t r a p t s a b t8F9O0( ( T c s m p t s 71a f a c p w v6A6L6J]
+[DELETED: s(f a c p w v a o p ot(roto i u t c t i n i f o c0c1t2( ( T s a t a c p3p4o5a6(7a8(9f0c b a o w c w s o o l1c2( w p o e r o i v3c a ( i w t v c i t p4f5(6o s u f t o i o a u7c r o t t m o t e8t c t a n t p t e u t e i9e c i b n l t s0p1t6A6L6J]
+[DELETED: Sd i o u t d s n atS 1  O s 8 R R S oN s 7 a 7 R S CS 2 a s 4 7 7 a86A6L6J]

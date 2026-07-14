@@ -1,0 +1,286 @@
+LB1119 LB1119
+2026 2026
+LEGISLATURE OF NEBRASKA
+ONE HUNDRED NINTH LEGISLATURE
+SECOND SESSION
+LEGISLATIVE BILL 1119
+Introduced by Bosn, 25.
+Read first time January 16, 2026
+Committee: Banking, Commerce and Insurance
+1 A BILL FOR AN ACT relating to the Age-Appropriate Online Design Code Act;
+2 to amend sections 87-1301, 87-1302, 87-1305, and 87-1308, Revised
+3 Statutes Supplement, 2025; to redefine terms; to change provisions
+4 relating to the collection and use of personal data and prohibited
+5 acts; to provide additional duties and prohibitions for a covered
+6 online service; to harmonize provisions; and to repeal the original
+7 sections.
+8 Be it enacted by the people of the State of Nebraska,
+-1-
+
+LB1119 LB1119
+2026 2026
+1 Section 1. Section 87-1301, Revised Statutes Supplement, 2025, is
+2 amended to read:
+3 87-1301 Sections 87-1301 to 87-1309 and sections 3 and 4 of this act
+4 shall be known and may be cited as the Age-Appropriate Online Design Code
+5 Act.
+6 Sec. 2. Section 87-1302, Revised Statutes Supplement, 2025, is
+7 amended to read:
+8 87-1302 For purposes of the Age-Appropriate Online Design Code Act:
+9 (1) Actual knowledge includes all information and inferences known
+10 to the covered online service relating to the age of the individual,
+11 including, but not limited to, self-identified age, and any age the
+12 covered online service has attributed or associated with the individual
+13 for any purpose, including marketing, advertising, or product
+14 development. If a covered online service's classification of an
+15 individual for purposes of marketing or advertising is inconsistent with
+16 the individual's self-identified age, a covered online service shall
+17 disregard self-identified age for purposes of the act;
+18 (2) Child means an individual younger than thirteen years of age;
+19 (3) Covered design feature means any feature or component of a
+20 covered online service that will encourage or increase the frequency,
+21 time spent, or activity of a user on the covered online service and
+22 includes:
+23 (a) Infinite scroll or a design feature where content automatically
+24 and continuously loads at the bottom of a screen, other than what the
+25 user explicitly prompted, requested, or searched for;
+26 (b) Auto-playing video or audio, or a design feature in which a
+27 video or audio automatically begins playing when a user navigates to or
+28 scrolls through a set of videos without any explicit action on the part
+29 of a user indicating the user's desire to watch that specific video or
+30 listen to that audio;
+31 (c) Quantification of engagement, including, but not limited to,
+-2-
+
+LB1119 LB1119
+2026 2026
+1 providing a visible count of how many likes, comments, clicks, views, or
+2 reactions a user-generated item has received;
+3 (d) Gamification, or a design feature that emulates gameplay,
+4 including, but not limited to, a streak, badge, or reward that motivates
+5 or causes more frequent or more extensive use of an online service
+6 through incentives or frequency of use;
+7 (e) The use of clustering, timing, or volume of notifications or
+8 push alerts, irrespective of content;
+9 (f) A design feature in which virtual currencies are used or where
+10 digital items are purchased;
+11 (g) Image-altering filters or a design feature that facilitates a
+12 false perception of an image;
+13 (h) Requiring or repeatedly prompting for account creation in order
+14 to access publicly available user-generated content;
+15 (i) Using ephemerality to prompt the urgent use of an online
+16 service;
+17 (j) Creating barriers to deleting an account or to removing
+18 connections to other users of the service; or
+19 (k) A feature that increases usage through the illusion of talking
+20 with a human being that seeks to elicit feelings of intimacy from the
+21 user;
+22 (a) Infinite scroll;
+23 (b) Rewards or incentives for frequency of visits or time spent on
+24 the covered online service;
+25 (c) Notifications or push alerts;
+26 (d) In-game purchases; or
+27 (e) Appearance-altering filters;
+28 (4) Covered minor means a user that a covered online service knows
+29 to be a minor;
+30 (5)(a) Covered online service means a sole proprietorship, a limited
+31 liability company, a corporation, an association, or any other legal
+-3-
+
+LB1119 LB1119
+2026 2026
+1 entity that owns, operates, controls, or provides an online service that:
+2 (i) Conducts business in this state;
+3 (ii) Alone, or jointly with its affiliates, subsidiaries, or parent
+4 companies, determines the purposes and means of the processing of
+5 consumers' personal data; and
+6 (iii) Satisfies at least one of the following:
+7 (A) (iii) Has annual gross revenue in excess of twenty-five million
+8 dollars, adjusted every odd-numbered year to reflect changes in the
+9 Consumer Price Index for All Urban Consumers published by the Federal
+10 Bureau of Labor Statistics for the two-year period preceding the
+11 adjustment date. The amount shall be rounded to the next highest one-
+12 thousand-dollar amount; or
+13 (B) (iv) Annually processes buys, receives, sells, or shares the
+14 personal data of fifty thousand or more consumers, households, or
+15 devices, alone or in combination with its affiliates, subsidiaries, or
+16 parent companies. ; and
+17 (v) Derives at least fifty percent of its annual revenue from the
+18 sale or sharing of consumers' personal data.
+19 (b) A covered online service includes:
+20 (i) An entity that controls or is controlled by a business that
+21 meets the definition of covered online service if the entity and business
+22 share a name, service mark, or trademark that would cause a reasonable
+23 consumer to understand that the entity and business are commonly owned;
+24 and
+25 (ii) For a covered online service that is a joint venture or
+26 partnership, any person with an ownership interest of forty percent or
+27 more in such venture or partnership.
+28 (c) A covered online service does not include an online service with
+29 actual knowledge that fewer than two percent of its users are minors,
+30 provided that, in making such assessment, an online service shall not be
+31 required to collect personal data of users, and if an online service
+-4-
+
+LB1119 LB1119
+2026 2026
+1 collects personal data of users for such purpose, it shall not use such
+2 personal data for other purposes and shall delete such personal data
+3 after using it to make the assessment;
+4 (6) Dark pattern means a user interface designed or manipulated with
+5 the effect of substantially subverting or impairing user autonomy,
+6 decisionmaking, or choice. Dark pattern includes any practice determined
+7 to be a dark pattern by the Federal Trade Commission as of January 1,
+8 2024;
+9 (7) Knows to be a child or knows to be a minor means actual
+10 knowledge that the user is a child or minor, as applicable;
+11 (8) Minor means an individual younger than eighteen years of age;
+12 (9) Online service means any service, product, or feature that is
+13 accessible to the public via the Internet, including a website or
+14 application. An online service does not include any of the following:
+15 (a) A telecommunications service as defined in 47 U.S.C. 153;
+16 (b) A broadband Internet access service as defined in 47 C.F.R.
+17 8.1(b); or
+18 (c) The sale, delivery, or use of a physical device;
+19 (10) Parent has the same meaning as in the federal Children's Online
+20 Privacy Protection Act of 1998, 15 U.S.C. 6501 et seq., and the Federal
+21 Trade Commission rules implementing such act;
+22 (11) Personal data means any information, including derived data and
+23 unique identifiers, that is linked or reasonably linkable, alone or in
+24 combination with other information, to an identified or identifiable
+25 individual or to a device that identifies, is linked to, or is reasonably
+26 linkable to one or more identified or identifiable individuals in a
+27 household. Personal data does not include publicly available data;
+28 (12) Personalized recommendation system means a fully or partially
+29 automated system used to suggest, promote, or rank content, including
+30 other users, hashtags, or posts, based on the personal data of users;
+31 (13) Precise geolocation information means any data that identifies
+-5-
+
+LB1119 LB1119
+2026 2026
+1 within a radius of one thousand seven hundred fifty feet a covered
+2 minor's present or past location or the present or past location of a
+3 device that links or is linkable to a covered minor or any data that is
+4 derived from a device that is used or intended to be used to locate a
+5 covered minor within a radius of one thousand seven hundred fifty feet by
+6 means of technology that includes a global positioning system that
+7 provides latitude and longitude coordinates. Precise geolocation
+8 information does not include the content of communications or any data
+9 generated or connected to advanced utility metering infrastructure
+10 systems or equipment for use by a utility;
+11 (14) Process means to perform an operation or set of operations by
+12 manual or automated means on personal data. Process includes collecting,
+13 using, storing, disclosing, sharing, analyzing, deleting, or modifying
+14 personal data;
+15 (15) Profile means any form of automated processing of personal data
+16 to evaluate, analyze, or predict certain aspects relating to a covered
+17 minor, including a covered minor's economic situation, health, personal
+18 preferences, interests, reliability, behavior, location, or movements;
+19 (16) Publicly available data means data (a) that is lawfully made
+20 available from federal, state, or local government records, (b) that a
+21 business has a reasonable basis to believe is lawfully made available to
+22 the general public by the individual or from widely distributed media, or
+23 (c) that is made available by a person to whom the individual has
+24 disclosed the data if the individual has not restricted the data to a
+25 specific audience. Publicly available data does not mean biometric data
+26 collected by a covered online service about a covered minor without the
+27 covered minor's knowledge;
+28 (17) Targeted advertising means displaying advertisements to an
+29 individual when the advertisement is selected based on personal data
+30 obtained or inferred from that individual's activities over time and
+31 across nonaffiliated websites or online applications to predict the
+-6-
+
+LB1119 LB1119
+2026 2026
+1 individual's preferences or interest. Targeted advertising does not
+2 include:
+3 (a) Advertisements based on activities within a covered online
+4 service's own Internet websites or online applications;
+5 (b) Advertisements based on the context of an individual's current
+6 search query, visit to an Internet website, or use of an online
+7 application;
+8 (c) Advertisements directed to an individual in response to the
+9 individual's request for information or feedback; or
+10 (d) Processing personal data solely to measure or report advertising
+11 frequency, performance, or reach; and
+12 (18) User means, with respect to a covered online service, an
+13 individual who registers an account or creates a profile on the covered
+14 online service.
+15 Sec. 3. A covered online service shall not:
+16 (1) Provide a covered minor with a single setting that makes all of
+17 the default privacy settings less protective at once; or
+18 (2) Request or prompt a covered minor to make the covered minor's
+19 privacy settings less protective, unless the change is strictly necessary
+20 for the covered minor to access a service or feature that such covered
+21 minor has expressly and unambiguously requested.
+22 Sec. 4. A covered online service shall:
+23 (1) Provide a prominent, accessible, and responsive tool to allow a
+24 covered minor to request that the covered minor's account be unpublished
+25 or deleted; and
+26 (2) Honor a request under subdivision (1) of this section no later
+27 than fifteen days after the covered online service receives the request.
+28 Sec. 5. Section 87-1305, Revised Statutes Supplement, 2025, is
+29 amended to read:
+30 87-1305 (1) A covered online service shall only collect and use the
+31 minimum amount of a covered minor's personal data necessary to provide
+-7-
+
+LB1119 LB1119
+2026 2026
+1 the specific elements of an online service with which the covered minor
+2 has knowingly engaged. Such personal data shall not be used for reasons
+3 other than those for which it was collected.
+4 (2) A covered online service shall not be required to collect the
+5 personal data of a user to comply with the Age-Appropriate Online Design
+6 Code Act. A covered online service that collects personal data of a user
+7 for age verification cannot use such personal data for other purposes and
+8 shall delete such personal data after use for age verification.
+9 (3) A covered online service shall only retain the personal data of
+10 a covered minor as long as necessary to provide the specific elements of
+11 an online service with which the covered minor has knowingly engaged.
+12 (4) A covered online service shall not facilitate targeted
+13 advertising to a covered minor.
+14 (5) A covered online service shall provide an obvious sign to a
+15 covered minor when precise geolocation information is being collected or
+16 used.
+17 (6) The use of notifications and push alerts to a covered minor is
+18 prohibited between the hours of 10 p.m. and 6 a.m. and between the hours
+19 of 8 a.m. and 4 p.m. on week days during the school year in the covered
+20 minor's local time zone.
+21 (7) A covered online service shall not profile a covered minor
+22 unless profiling is necessary to provide a covered online service
+23 requested by such covered minor, and only with respect to the aspects of
+24 the covered online service with which the covered minor is actively and
+25 knowingly engaged.
+26 (8) A covered online service shall ensure that the default settings
+27 for the protections required pursuant to this section are set at the
+28 highest protection available for the safety of the covered minor.
+29 (9) If a covered online service allows parental monitoring, the
+30 covered online service shall provide an obvious signal to a covered minor
+31 when such minor is being monitored.
+-8-
+
+LB1119 LB1119
+2026 2026
+1 Sec. 6. Section 87-1308, Revised Statutes Supplement, 2025, is
+2 amended to read:
+3 87-1308 (1) A covered online service is prohibited from facilitating
+4 advertisements for prohibited products, such as narcotic drugs, tobacco
+5 products, gambling, and alcohol, to covered minors.
+6 (2) A covered online service is prohibited from using dark patterns
+7 to subvert or impair covered minor autonomy, decisionmaking, or choice.
+8 Sec. 7. Original sections 87-1301, 87-1302, 87-1305, and 87-1308,
+9 Revised Statutes Supplement, 2025, are repealed.
+-9-
+
+[DELETED: yBAt a s 8 8 8 a 8 RSra t p a d a p f a cosB9L62]
+[DELETED: S 1 S 8 R S S 2 ia8sAS 2 S 8 R S S 2 ia8(0t t c o s r t t a o t i1i b n l t s a a a a t2c3f a p i m a o p4d I a c o s c o a5i6t i s a a c o s s7d8(9( C d f m a f o c o 0c o s t w e o i t f1t s o a o a u o t c o s a2i3(4a c l a t b o a s o t w t5u6( A v o a o a d f i w 7v8s9o0l1( Q o e i b n l t9L62]
+[DELETED: pr( G o a d f t e gio c m f o m e u o a o st( T u o c t o v o n op(0d1( I f o a d f t f 2f3(4t5( U e t p t u u o a o6s7( C b t d a a o t r8c9(0w a h b t s t e f o i f t1u2(3(4t5(6(7(8(9t0(1l c a c a a o a o l9L62]
+[DELETED: e((c d t p a m o t p oc((d a e o y t r c i tC P I f A U C p b t F0B o L S f t t p p t1a d T a s b r t t n h o2t3( ( A p b r s o s t4p d o f t o m c h o5d a o i c w i a s o6p7(8s9(0( A e t c o i c b a b t1m2s3c4a5( F a c o s t i a j v o6p7m8(9a k t f t t p o i u a m0p1r t c p d o u a i a o s9L62]
+[DELETED: cp d f o p a s d s p da(t e o s s o i u adt a2( K t b a c o k t b a m m a0k1(2( O s m a s p o f t i3a t t p v t I i a w o4a5(6( A b I a s a d i 4 C788(9(0P1T2(3u4c w o i t a i o i5i6l t o o m i o i i i 7h8(9a s u t s p o r c i0o1(9L62]
+[DELETED: w a r o o t s h f f a cm p o p l o t p o p l o ddcm o t t i a g p s tp l a l c P gig o c t a u m i0s1(2m3u s d s a d o m4p5(6t7m8p9( P a d m d ( t i l m0a1b2t3( t i m a b a p t w t i h4d t d i t i h n r t d t 5s6c7c8( T a m d a t a9i w t a i s b o p d0o o i f t i a o t a1a n w o o a t p t9L62]
+[DELETED: i p o i T a d ni( A b o a w a c os(s q v t a I w o u o a oa( A d t a i i r t ti0(1f2( U m w r t a c o s a3i4o5S6(7t8(9p0f1m2S3(4c5o6(7t8S 5 S 8 R S S 2 i9a081m9L62]
+[DELETED: tho(pCfs(0a1a2( A c o s s n f t3a4( A c o s s p a o s t 5c6u7(8p9o0m1( A c o s s n p a c m2u p i n t p a c o s3r4t5k6(7f t p r p t t s a s a t8h9( I a c o s a p m t0c1w9L62]
+[DELETED: S 6 S 8 R S S 2 ia8ap(tSR9L62]

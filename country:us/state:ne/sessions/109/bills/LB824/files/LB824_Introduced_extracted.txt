@@ -1,0 +1,2248 @@
+Title: LEGISLATIVE BILL 824
+Official Title: LEGISLATIVE BILL 824
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 32 sections found
+
+================================================================================
+
+Section 1:
+LB824 LB824
+2026 2026
+LEGISLATURE OF NEBRASKA
+ONE HUNDRED NINTH LEGISLATURE
+SECOND SESSION
+Introduced by Lonowski, 33; Conrad, 46; DeBoer, 10; Hardin, 48; Juarez,
+5; Lippincott, 34; McKeon, 41; Murman, 38; Storer, 43.
+Read first time January 07, 2026
+Committee: Nebraska Retirement Systems
+1 A BILL FOR AN ACT relating to retirement; amend sections 79-920, 79-930,
+2 and 79-992, Reissue Revised Statutes of Nebraska, and sections
+3 79-902 and 79-978, Revised Statutes Supplement, 2025; to redefine
+4 termination of employment and termination and to change provisions
+5 relating to termination of employment under the School Employees
+6 Retirement Act and the Class V School Employees Retirement Act; and
+7 to repeal the original sections.
+8 Be it enacted by the people of the State of Nebraska,
+-1-
+LB824 LB824
+2026 2026
+1 Section 1. Section 79-902, Revised Statutes Supplement, 2025, is
+2 amended to read:
+3 79-902 For purposes of the School Employees Retirement Act, unless
+4 the context otherwise requires:
+5 (1) Accumulated contributions means the sum of all amounts deducted
+6 from the compensation of a member and credited to his or her individual
+7 account in the School Retirement Fund together with regular interest
+8 thereon, compounded monthly, quarterly, semiannually, or annually;
+9 (2)(a) Actuarial equivalent means the equality in value of the
+10 aggregate amounts expected to be received under different forms of
+11 payment.
+12 (b) For a school employee hired before July 1, 2017, the
+13 determinations shall be based on the 1994 Group Annuity Mortality Table
+14 reflecting sex-distinct factors blended using twenty-five percent of the
+15 male table and seventy-five percent of the female table. An interest rate
+16 of eight percent per annum shall be reflected in making these
+17 determinations except when a lump-sum settlement is made to an estate.
+18 (c) For a school employee hired on or after July 1, 2017, or rehired
+19 on or after July 1, 2017, after termination of employment and being paid
+20 a retirement benefit or taking a refund of contributions, the
+21 determinations shall be based on a unisex mortality table and an interest
+22 rate specified by the board. Both the mortality table and the interest
+23 rate shall be recommended by the actuary and approved by the retirement
+24 board following an actuarial experience study, a benefit adequacy study,
+25 or a plan valuation. The mortality table, interest rate, and actuarial
+26 factors in effect on the school employee's retirement date will be used
+27 to calculate actuarial equivalency of any retirement benefit. Such
+28 interest rate may be, but is not required to be, equal to the assumed
+29 rate.
+30 (d) If the lump-sum settlement is made to an estate, the interest
+31 rate will be determined by the AAA-rated segment of the Bloomberg
+-2-
+LB824 LB824
+2026 2026
+1 Barclays Long U.S. Corporate Bond Index as of the prior June 30, rounded
+2 to the next lower quarter percent. If the AAA-rated segment of the
+3 Bloomberg Barclays Long U.S. Corporate Bond Index is discontinued or
+4 replaced, a substitute index shall be selected by the board which shall
+5 be a reasonably representative index;
+6 (3) Beneficiary means any person in receipt of a school retirement
+7 allowance or other benefit provided by the act;
+8 (4)(a) Compensation means gross wages or salaries payable to the
+9 member for personal services performed during the plan year and includes
+10 (i) overtime pay, (ii) member retirement contributions, (iii) retroactive
+11 salary payments paid pursuant to court order, arbitration, or litigation
+12 and grievance settlements, (iv) amounts contributed by the member to
+13 plans under sections 125, 403(b), and 457 of the Internal Revenue Code as
+14 defined in section 49-801.01 or any other section of the code which
+15 defers or excludes such amounts from income, and (v) leave of absence
+16 pay.
+17 (b) Compensation does not include (i) fraudulently obtained amounts
+18 as determined by the retirement board, (ii) amounts for accrued unused
+19 sick leave or accrued unused vacation leave converted to cash payments,
+20 (iii) insurance premiums converted into cash payments, (iv) reimbursement
+21 for expenses incurred, (v) fringe benefits, (vi) per diems paid as
+22 expenses, (vii) bonuses for services not actually rendered, (viii) early
+23 retirement inducements, (ix) cash awards, (x) severance pay, or (xi)
+24 employer contributions made for the purposes of separation payments made
+25 at retirement.
+26 (c) Compensation in excess of the limitations set forth in section
+27 401(a)(17) of the Internal Revenue Code as defined in section 49-801.01
+28 shall be disregarded. For an employee who was a member of the retirement
+29 system before the first plan year beginning after December 31, 1995, the
+30 limitation on compensation shall not be less than the amount which was
+31 allowed to be taken into account under the retirement system as in effect
+-3-
+LB824 LB824
+2026 2026
+1 on July 1, 1993;
+2 (5) County school official means (a) until July 1, 2000, the county
+3 superintendent or district superintendent and any person serving in his
+4 or her office who is required by law to have a teacher's certificate and
+5 (b) on or after July 1, 2000, the county superintendent, county school
+6 administrator, or district superintendent and any person serving in his
+7 or her office who is required by law to have a teacher's certificate;
+8 (6)(a) Creditable service means prior service for which credit is
+9 granted under sections 79-926 to 79-929, service credit purchased under
+10 sections 79-933.03 to 79-933.06 and 79-933.08, and all service rendered
+11 while a contributing member of the retirement system; and
+12 (b) Creditable service includes working days, sick days, vacation
+13 days, holidays, and any other leave days for which the employee is paid
+14 regular wages as part of the employee's agreement with the employer.
+15 Creditable service does not include lump-sum payments to the employee
+16 upon termination or retirement in lieu of accrued benefits for such days,
+17 eligibility and vesting credit, service years for which member
+18 contributions are withdrawn and not repaid by the member, service
+19 rendered for which the retirement board determines that the member was
+20 paid less in compensation than the minimum wage as provided in the Wage
+21 and Hour Act, service which the board determines was rendered with the
+22 intent to defraud the retirement system, or service provided to an
+23 employer in a retirement system established pursuant to the Class V
+24 School Employees Retirement Act;
+25 (7) Current benefit means the initial benefit increased by all
+26 adjustments made pursuant to the School Employees Retirement Act;
+27 (8) Disability means an inability to engage in any substantially
+28 gainful activity by reason of any medically determinable physical or
+29 mental impairment which was initially diagnosed or became disabling while
+30 the member was an active participant in the plan and which can be
+31 expected to result in death or be of a long-continued and indefinite
+-4-
+LB824 LB824
+2026 2026
+1 duration;
+2 (9) Disability retirement allowance means the annuity paid to a
+3 person upon retirement for disability under section 79-952;
+4 (10) Disability retirement date means the first day of the month
+5 following the date upon which a member's request for disability
+6 retirement is received on a retirement application provided by the
+7 retirement system if the member has terminated employment in the school
+8 system and has complied with sections 79-951 to 79-954 as such sections
+9 refer to disability retirement;
+10 (11) Early retirement inducement means, but is not limited to:
+11 (a) A benefit, bonus, or payment to a member in exchange for an
+12 agreement by the member to terminate from employment;
+13 (b) A benefit, bonus, or payment paid to a member in addition to the
+14 member's retirement benefit;
+15 (c) Lump-sum or installment cash payments, except payments for
+16 accrued unused leave converted to cash payments;
+17 (d) An additional salary or wage component of any kind that is being
+18 paid as an incentive to leave employment and not for personal services
+19 performed for which creditable service is granted;
+20 (e) Partial or full employer payment of a member's health, dental,
+21 life, or long-term disability insurance benefits or cash in lieu of such
+22 insurance benefits that extend beyond the member's termination of
+23 employment and contract of employment dates. This subdivision does not
+24 apply to any period during which the member is contributing to the
+25 retirement system and being awarded creditable service; and
+26 (f) Any other form of separation payments made by an employer to a
+27 member at termination, including, but not limited to, purchasing
+28 retirement annuity contracts for the member pursuant to section 79-514,
+29 depositing money for the member in an account established under section
+30 403(b) of the Internal Revenue Code except for payments for accrued
+31 unused leave, or purchasing service credit for the member pursuant to
+-5-
+LB824 LB824
+2026 2026
+1 section 79-933.08;
+2 (12) Eligibility and vesting credit means credit for years, or a
+3 fraction of a year, of participation in a Nebraska government plan for
+4 purposes of determining eligibility for benefits under the School
+5 Employees Retirement Act. Such credit shall not be included as years of
+6 creditable service in the benefit calculation;
+7 (13) Emeritus member means a person (a) who has entered retirement
+8 under the act, including those persons who have retired since July 1,
+9 1945, under any other regularly established retirement or pension system
+10 as contemplated by section 79-916, (b) who has thereafter been reemployed
+11 in any capacity by a public school, a Class V school district, or a
+12 school under the control and management of the Board of Trustees of the
+13 Nebraska State Colleges, the Board of Regents of the University of
+14 Nebraska, or a community college board of governors or has become a state
+15 school official or county school official subsequent to such retirement,
+16 and (c) who has applied to the board for emeritus membership in the
+17 retirement system. The school district or agency shall certify to the
+18 retirement board on forms prescribed by the retirement board that the
+19 annuitant was reemployed, rendered a service, and was paid by the
+20 district or agency for such services;
+21 (14) Employer means the State of Nebraska or any subdivision thereof
+22 or agency of the state or subdivision authorized by law to hire school
+23 employees or to pay their compensation;
+24 (15)(a) Final average compensation means:
+25 (i) Except as provided in subdivision (ii) of this subdivision:
+26 (A) The sum of the member's total compensation during the three
+27 twelve-month periods of service as a school employee in which such
+28 compensation was the greatest divided by thirty-six; or
+29 (B) If a member has such compensation for less than thirty-six
+30 months, the sum of the member's total compensation in all months divided
+31 by the total number of months of his or her creditable service therefor;
+-6-
+LB824 LB824
+2026 2026
+1 and
+2 (ii) For an employee who became a member on or after July 1, 2013:
+3 (A) The sum of the member's total compensation during the five
+4 twelve-month periods of service as a school employee in which such
+5 compensation was the greatest divided by sixty; or
+6 (B) If a member has such compensation for less than sixty months,
+7 the sum of the member's total compensation in all months divided by the
+8 total number of months of his or her creditable service therefor.
+9 (b) Payments under the Retirement Incentive Plan pursuant to section
+10 79-855 and Staff Development Assistance pursuant to section 79-856 shall
+11 not be included in the determination of final average compensation;
+12 (16) Fiscal year means any year beginning July 1 and ending June 30
+13 next following;
+14 (17) Hire date or date of hire means the first day of compensated
+15 service subject to retirement contributions;
+16 (18) Initial benefit means the retirement benefit calculated at the
+17 time of retirement;
+18 (19) Member means any person who has an account in the School
+19 Retirement Fund;
+20 (20) Participation means qualifying for and making required deposits
+21 to the retirement system during the course of a plan year;
+22 (21) Plan year means the twelve-month period beginning on July 1 and
+23 ending on June 30 of the following year;
+24 (22) Prior service means service rendered as a school employee in
+25 the public schools of the State of Nebraska prior to July 1, 1945;
+26 (23) Public school means any and all schools offering instruction in
+27 elementary or high school grades, as defined in section 79-101, which
+28 schools are supported by public funds and are wholly under the control
+29 and management of the State of Nebraska or any subdivision thereof,
+30 including (a) schools or other entities established, maintained, and
+31 controlled by the school boards of local school districts, except Class V
+-7-
+LB824 LB824
+2026 2026
+1 school districts, (b) any educational service unit, and (c) any other
+2 educational institution wholly supported by public funds, except schools
+3 under the control and management of the Board of Trustees of the Nebraska
+4 State Colleges, the Board of Regents of the University of Nebraska, or
+5 the community college boards of governors for any community college
+6 areas;
+7 (24) Regular employee means an employee hired by a public school or
+8 under contract in a regular full-time or part-time position who works a
+9 full-time or part-time schedule on an ongoing basis for twenty or more
+10 hours per week. An employee hired as described in this subdivision to
+11 provide service for less than twenty hours per week but who provides
+12 service for an average of twenty hours or more per week in each calendar
+13 month of any three calendar months of a plan year shall, beginning with
+14 the next full payroll period, commence contributions and shall be deemed
+15 a regular employee for all future employment with the same employer. The
+16 twenty-hour-per-week threshold shall be calculated by dividing the total
+17 number of hours of service provided for the same employer in a calendar
+18 month by the total number of calendar days in the month, and multiplying
+19 such number by seven;
+20 (25) Regular interest means interest fixed at a rate equal to the
+21 daily treasury yield curve for one-year treasury securities, as published
+22 by the Secretary of the Treasury of the United States, that applies on
+23 July 1 of each year, which may be credited monthly, quarterly,
+24 semiannually, or annually as the board may direct;
+25 (26) Relinquished creditable service means, with respect to a member
+26 who has withdrawn his or her accumulated contributions under section
+27 79-955, the total amount of creditable service which such member has
+28 given up as a result of his or her election not to remain a member of the
+29 retirement system;
+30 (27) Required beginning date means, for purposes of the deferral of
+31 distributions and the commencement of mandatory distributions pursuant to
+-8-
+LB824 LB824
+2026 2026
+1 section 401(a)(9) of the Internal Revenue Code and the regulations issued
+2 thereunder, April 1 of the year following the calendar year in which a
+3 member:
+4 (a)(i) Terminated employment with all employers participating in the
+5 plan; and
+6 (ii)(A) Attained at least seventy and one-half years of age for a
+7 member who attained seventy and one-half years of age on or before
+8 December 31, 2019;
+9 (B) Attained at least seventy-two years of age for a member who
+10 attained seventy and one-half years of age on or after January 1, 2020,
+11 and prior to January 1, 2023;
+12 (C) Attained at least seventy-three years of age for a member who
+13 attained seventy-two years of age after December 31, 2022, and seventy-
+14 three years of age prior to January 1, 2033; or
+15 (D) Attained at least seventy-five years of age for a member who
+16 attained seventy-four years of age after December 31, 2032; or
+17 (b)(i) Terminated employment with all employers participating in the
+18 plan; and
+19 (ii) Otherwise reached the date specified by section 401(a)(9) of
+20 the Internal Revenue Code and the regulations issued thereunder;
+21 (28) Required deposit means the deduction from a member's
+22 compensation as provided for in section 79-958 which shall be deposited
+23 in the School Retirement Fund;
+24 (29) Retirement means qualifying for and accepting a school or
+25 disability retirement allowance granted under the School Employees
+26 Retirement Act;
+27 (30) Retirement application means the form approved and provided by
+28 the retirement system for acceptance of a member's request for either
+29 regular or disability retirement;
+30 (31) Retirement board or board means the Public Employees Retirement
+31 Board;
+-9-
+LB824 LB824
+2026 2026
+1 (32) Retirement date means (a) if the member has terminated
+2 employment, the first day of the month following the date upon which a
+3 member's request for retirement is received on a retirement application
+4 provided by the retirement system or (b) if the member has filed a
+5 retirement application but has not yet terminated employment, the first
+6 day of the month following the date on which the member terminates
+7 employment. An application may be filed no more than two hundred seventy
+8 days prior to the effective date of the member's initial benefit;
+9 (33) Retirement system means the School Employees Retirement System
+10 of the State of Nebraska;
+11 (34) Savings annuity means payments for life, made in equal monthly
+12 payments, derived from the accumulated contributions of a member;
+13 (35) School employee means a contributing member who earns service
+14 credit pursuant to section 79-927. For purposes of this section,
+15 contributing member means the following persons who receive compensation
+16 from a public school: (a) Regular employees; (b) regular employees having
+17 retired pursuant to the School Employees Retirement Act who subsequently
+18 provide compensated service on a regular basis in any capacity; and (c)
+19 regular employees hired by a public school on an ongoing basis to assume
+20 the duties of other regular employees who are temporarily absent.
+21 Substitute employees, temporary employees, and employees who have not
+22 attained the age of eighteen years shall not be considered school
+23 employees;
+24 (36) School retirement allowance means the total of the savings
+25 annuity and the service annuity or formula annuity paid a person who has
+26 retired under sections 79-931 to 79-935. The monthly payments shall be
+27 payable at the end of each calendar month during the life of a retired
+28 member. The first payment shall include all amounts accrued since the
+29 effective date of the award of annuity. The last payment shall be at the
+30 end of the calendar month in which such member dies or in accordance with
+31 the payment option chosen by the member;
+-10-
+LB824 LB824
+2026 2026
+1 (37) School year means one fiscal year which includes not less than
+2 one thousand instructional hours or, in the case of service in the State
+3 of Nebraska prior to July 1, 1945, not less than seventy-five percent of
+4 the then legal school year;
+5 (38) Service means employment as a school employee and shall not be
+6 deemed interrupted by (a) termination at the end of the school year of
+7 the contract of employment of an employee in a public school if the
+8 employee enters into a contract of employment in any public school,
+9 except a school in a Class V school district, for the following school
+10 year, (b) temporary or seasonal suspension of service that does not
+11 terminate the employee's employment, (c) leave of absence authorized by
+12 the employer for a period not exceeding twelve months, (d) leave of
+13 absence because of disability, or (e) military service when properly
+14 authorized by the retirement board. Service does not include any period
+15 of disability for which disability retirement benefits are received under
+16 sections 79-951 to 79-953;
+17 (39) Service annuity means payments for life, made in equal monthly
+18 installments, derived from appropriations made by the State of Nebraska
+19 to the retirement system;
+20 (40) State deposit means the deposit by the state in the retirement
+21 system on behalf of any member;
+22 (41) State school official means the Commissioner of Education and
+23 his or her professional staff who are required by law or by the State
+24 Department of Education to hold a certificate as such term is defined in
+25 section 79-807;
+26 (42) Substitute employee means a person hired by a public school as
+27 a temporary employee to assume the duties of regular employees due to a
+28 temporary absence of any regular employees. Substitute employee does not
+29 mean a person hired as a regular employee on an ongoing basis to assume
+30 the duties of other regular employees who are temporarily absent;
+31 (43) Surviving spouse means (a) the spouse married to the member on
+-11-
+LB824 LB824
+2026 2026
+1 the date of the member's death or (b) the spouse or former spouse of the
+2 member if survivorship rights are provided under a qualified domestic
+3 relations order filed with the board pursuant to the Spousal Pension
+4 Rights Act. The spouse or former spouse shall supersede the spouse
+5 married to the member on the date of the member's death as provided under
+6 a qualified domestic relations order. If the benefits payable to the
+7 spouse or former spouse under a qualified domestic relations order are
+8 less than the value of benefits entitled to the surviving spouse, the
+9 spouse married to the member on the date of the member's death shall be
+10 the surviving spouse for the balance of the benefits;
+11 (44) Temporary employee means an employee hired by a public school
+12 who is not a regular employee and who is hired to provide service for a
+13 limited period of time to accomplish a specific purpose or task. When
+14 such specific purpose or task is complete, the employment of such
+15 temporary employee shall terminate and in no case shall the temporary
+16 employment period exceed one year in duration;
+17 (45)(a) Termination of employment or termination means occurs on the
+18 date the member experiences a bona fide separation from service with the
+19 member's employer. The date of the separation is the end of the member's
+20 contractual agreement or, if there is no contract or only partial
+21 fulfillment of a contract, as determined by the employer.
+22 (b) A member shall not be deemed to have incurred a termination of
+23 employment if the board determines based on the facts and circumstances
+24 that:
+25 (i) A claimed termination was not a bona fide separation from
+26 service with the member's employer;
+27 (ii) A member was compensated for a full contractual period when the
+28 member stopped working prior to the end date of the contract; or
+29 (iii) A member prearranged a return to work that violates the
+30 provisions of the School Employees Retirement Act.
+31 (c) A member who experiences a separation from service must comply
+-12-
+LB824 LB824
+2026 2026
+1 with the return-to-work provisions of section 79-930 if the member is
+2 subsequently employed by an employer participating in the retirement
+3 system; and .
+4 (d) Nothing in this subdivision precludes an employer from adopting
+5 a policy which limits or denies employees who have experienced a
+6 separation from service with the employer from working as a volunteer or
+7 substitute employee within one hundred eighty days after the employee
+8 experiences such separation from service; and
+9 (46) Voluntary service or volunteer means providing bona fide unpaid
+10 service to any employer.
+11 Sec. 2. Section 79-920, Reissue Revised Statutes of Nebraska, is
+12 amended to read:
+13 79-920 (1) For purposes of this section:
+14 (a) Association means the State Code Agency Teachers Association, or
+15 its equivalent successor, recognized by the State of Nebraska as the
+16 exclusive and sole collective-bargaining agent for all teachers other
+17 than temporary teachers employed by an agency of the State of Nebraska;
+18 (b) Eligible school plan state employee means an individual who
+19 satisfies all school plan eligibility criteria and who is (i) an
+20 individual employed by the State Department of Education after July 1,
+21 1989, as a state school official, (ii) an individual who is employed by
+22 any state agency in a position covered by the association and who is
+23 required to hold a certificate as defined in section 79-807 for the
+24 position in which such individual is employed, or (iii) an individual who
+25 is employed by any state agency not in a position covered by the
+26 association who is required to hold a certificate as defined in section
+27 79-807 for the position in which such individual is employed;
+28 (c) School plan means the School Employees Retirement System of the
+29 State of Nebraska;
+30 (d) State agency school plan employer means the State Department of
+31 Education or another agency of the State of Nebraska with employees
+-13-
+LB824 LB824
+2026 2026
+1 covered by the association; and
+2 (e) State plan means the State Employees Retirement System of the
+3 State of Nebraska.
+4 (2)(a) Except as provided in subsection (3) of this section, an
+5 individual shall become or remain a member of the school plan if:
+6 (i) Such individual is or was previously a school employee or was
+7 employed in an out-of-state school district or a Class V school district;
+8 and
+9 (ii) Such individual becomes an eligible school plan state employee
+10 with a state agency school plan employer.
+11 (b) An individual who is required to participate in the school plan
+12 pursuant to subdivision (2)(a) of this section shall not be deemed to
+13 have terminated employment for school plan purposes if such individual
+14 subsequently provides service to any employer participating in the school
+15 plan, including any school district or educational service unit, or any
+16 state agency school plan employer, within one hundred twenty one hundred
+17 eighty days after ceasing employment except an individual may be
+18 permitted to provide intermittent work as a volunteer or substitute
+19 employee at a school district or an educational service unit as described
+20 in subdivision (2)(a) of section 79-930.
+21 (c) An individual who is required to participate in the school plan
+22 pursuant to subdivision (2)(a) of this section shall not render any
+23 service to another agency of the State of Nebraska within one hundred
+24 twenty days after ceasing employment.
+25 (3)(a) An individual shall participate in the state plan if:
+26 (i) The individual has never previously participated in the school
+27 plan while employed as an eligible school plan state employee with a
+28 state agency school plan employer;
+29 (ii) The individual terminated employment with a school district or
+30 an educational service unit participating in the school plan and retired
+31 or took a distribution pursuant to the School Employees Retirement Act;
+-14-
+LB824 LB824
+2026 2026
+1 and
+2 (iii) The individual's employment as an eligible school plan state
+3 employee with a state agency school plan employer began or will begin
+4 within one hundred twenty one hundred eighty days after termination of
+5 employment with the school district or educational service unit.
+6 (b) An individual who is required to participate in the state plan
+7 pursuant to subdivision (3)(a) of this section shall not be deemed to
+8 have terminated employment for state plan purposes if such individual
+9 subsequently provides service to any employer participating in the state
+10 plan, including any state agency school plan employer or an agency of the
+11 State of Nebraska, within one hundred twenty days after ceasing
+12 employment. No such individual shall be permitted to provide intermittent
+13 work as a volunteer or substitute employee as described in subdivision
+14 (2)(a) of section 79-930 to any employer participating in the school plan
+15 for at least one hundred twenty days after ceasing employment.
+16 (4) An individual who previously elected to participate in the
+17 school plan prior to March 4, 2022, while employed as a state school
+18 official and who terminated employment and retired or took a distribution
+19 pursuant to the School Employees Retirement Act, shall not render any
+20 service to:
+21 (a) A school district or an educational service unit participating
+22 in the school plan or a state agency school plan employer within one
+23 hundred twenty one hundred eighty days after terminating employment
+24 except for intermittent work as a volunteer or substitute employee as
+25 described in subdivision (2)(a) of section 79-930; or
+26 (b) Another agency of the State of Nebraska within one hundred
+27 twenty days after terminating employment.
+28 Sec. 3. Section 79-930, Reissue Revised Statutes of Nebraska, is
+29 amended to read:
+30 79-930 (1)(a) A member who experiences a separation from service
+31 with the member's employer but has not submitted a retirement application
+-15-
+LB824 LB824
+2026 2026
+1 or a request for distribution pursuant to section 79-955, or received a
+2 retirement benefit, disability retirement benefit, or distribution
+3 pursuant to section 79-955, from the retirement system, may return to
+4 work as a temporary employee, substitute employee, or volunteer for any
+5 employer participating in the retirement system. Such an employee:
+6 (i) Shall be deemed to have incurred a termination for purposes of
+7 sections 79-921, 79-932, 79-933.02 to 79-933.06, and 79-933.08;
+8 (ii) Shall not be deemed to have incurred a termination for purposes
+9 of sections 79-933, 79-951, and 79-955, and shall not be eligible to
+10 receive a retirement benefit, disability retirement benefit, or
+11 distribution pursuant to section 79-955, from the retirement system,
+12 until the member incurs a termination of employment as described in
+13 subdivision (45) of section 79-902; and
+14 (iii) Except as provided in subdivision (1)(b) of this section,
+15 shall not be eligible to contribute to the retirement system pursuant to
+16 section 79-958 or accrue service credit in the retirement system pursuant
+17 to section 79-927.
+18 (b)(i) A member as described in subdivision (1)(a) of this section
+19 who becomes a regular employee for an employer participating in the
+20 retirement system shall immediately begin making contributions pursuant
+21 to section 79-958 on all compensation paid by such employer and accrue
+22 service credit pursuant to section 79-927 for all such service performed
+23 for such employer, including any work as a temporary employee or
+24 substitute employee.
+25 (ii) A member as described in subdivision (1)(a) of this section who
+26 has not established eligibility as a regular employee at another employer
+27 shall not make contributions pursuant to section 79-958 on all
+28 compensation paid by such employer nor accrue service credit pursuant to
+29 section 79-927 for work performed by the member as a temporary employee
+30 or substitute employee for such employer.
+31 (c) Work performed while the member is not contributing to the
+-16-
+LB824 LB824
+2026 2026
+1 retirement system pursuant to subdivision (1)(a) of this section shall
+2 not accrue service credit in the retirement system pursuant to section
+3 79-927 and cannot be purchased as service credit under sections 79-933.03
+4 to 79-933.06 and 79-933.08.
+5 (2)(a) A member who experiences a separation from service with the
+6 member's employer and has submitted a retirement application or a request
+7 for distribution pursuant to section 79-955, or received a retirement
+8 benefit, disability retirement benefit, or distribution pursuant to
+9 section 79-955, from the retirement system, shall not be deemed to have
+10 incurred a termination of employment if the member subsequently returns
+11 to work for any employer participating in the retirement system within
+12 one hundred twenty one hundred eighty days after separating from
+13 service. , unless such work is limited to:
+14 (i) Intermittent work as a volunteer or substitute employee. For
+15 purposes of this subsection:
+16 (A) Intermittent work means work provided on a day-to-day basis that
+17 is not greater than eight days of work during a calendar month; and
+18 (B) Day of work means any length of work as a volunteer or
+19 substitute employee provided during a single calendar day; or
+20 (ii) Work as authorized by, and performed in accordance with,
+21 section 79-920.
+22 (b) The one-hundred-twenty-day one-hundred-eighty-day period begins
+23 on the later of:
+24 (i) The date the member experienced a bona fide separation from
+25 service of all employment with all employers participating in the
+26 retirement system; or
+27 (ii) The date the Nebraska Public Employees Retirement Systems
+28 receives the member's retirement application or request for distribution
+29 pursuant to section 79-955.
+30 (c)(i) A member may seek a determination from the director of the
+31 Nebraska Public Employees Retirement Systems that it has been at least
+-17-
+LB824 LB824
+2026 2026
+1 one hundred twenty one hundred eighty days since the member satisfied the
+2 requirements described in this subsection. The director shall make such
+3 determination if the member produces clear and convincing evidence that
+4 is received by the director within forty-five days after the later of:
+5 (A) The date the member experienced a bona fide separation of
+6 service of all employment with all employers participating in the
+7 retirement system; or
+8 (B) The date the member's retirement application or request for
+9 distribution pursuant to section 79-955 is received by the Nebraska
+10 Public Employees Retirement Systems.
+11 (ii) A member may appeal the director's determination to the board
+12 within thirty days after receiving such determination.
+13 (iii) The board's determination on the appeal shall be final and
+14 shall not be appealable to any court.
+15 Sec. 4. Section 79-978, Revised Statutes Supplement, 2025, is
+16 amended to read:
+17 79-978 For purposes of the Class V School Employees Retirement Act,
+18 unless the context otherwise requires:
+19 (1) Accumulated contributions means the sum of amounts contributed
+20 by a member of the system together with regular interest credited
+21 thereon;
+22 (2) Actuarial equivalent means the equality in value of the
+23 retirement allowance for early retirement or the retirement allowance for
+24 an optional form of annuity, or both, with the normal form of the annuity
+25 to be paid, as determined by the application of the appropriate actuarial
+26 table, except that use of such actuarial tables shall not effect a
+27 reduction in benefits accrued prior to September 1, 1985, as determined
+28 by the actuarial tables in use prior to such date;
+29 (3) Actuarial tables means:
+30 (a) For determining the actuarial equivalent of any annuities other
+31 than joint and survivorship annuities:
+-18-
+LB824 LB824
+2026 2026
+1 (i) For members hired before July 1, 2018, a unisex mortality table
+2 using twenty-five percent of the male mortality and seventy-five percent
+3 of the female mortality from the 1994 Group Annuity Mortality Table with
+4 a One Year Setback and using an interest rate of eight percent compounded
+5 annually; and
+6 (ii) For members hired on or after July 1, 2018, or rehired on or
+7 after July 1, 2018, after termination of employment and being paid a
+8 retirement benefit, the determinations shall be based on a unisex
+9 mortality table and an interest rate specified by (A) the board until
+10 September 1, 2024, or (B) the retirement board beginning on September 1,
+11 2024. Both the mortality table and the interest rate shall be recommended
+12 by the actuary retained pursuant to section 79-984 following an actuarial
+13 experience study, a benefit adequacy study, or a plan valuation. The
+14 mortality table, interest rate, and actuarial factors in effect on the
+15 member's retirement date shall be used to calculate the actuarial
+16 equivalency of any retirement benefit. Such interest rate may be, but is
+17 not required to be, equal to the assumed rate; and
+18 (b) For joint and survivorship annuities:
+19 (i) For members hired before July 1, 2018, a unisex retiree
+20 mortality table using sixty-five percent of the male mortality and
+21 thirty-five percent of the female mortality from the 1994 Group Annuity
+22 Mortality Table with a One Year Setback and using an interest rate of
+23 eight percent compounded annually and a unisex joint annuitant mortality
+24 table using thirty-five percent of the male mortality and sixty-five
+25 percent of the female mortality from the 1994 Group Annuity Mortality
+26 Table with a One Year Setback and using an interest rate of eight percent
+27 compounded annually; and
+28 (ii) For members hired on or after July 1, 2018, or rehired on or
+29 after July 1, 2018, after termination of employment and being paid a
+30 retirement benefit, the determinations shall be based on a unisex
+31 mortality table and an interest rate specified by (A) the board until
+-19-
+LB824 LB824
+2026 2026
+1 September 1, 2024, or (B) the retirement board beginning on September 1,
+2 2024. Both the mortality table and the interest rate shall be recommended
+3 by the actuary retained pursuant to section 79-984 following an actuarial
+4 experience study, a benefit adequacy study, or a plan valuation. The
+5 mortality table, interest rate, and actuarial factors in effect on the
+6 member's retirement date shall be used to calculate the actuarial
+7 equivalency of any retirement benefit. Such interest rate may be, but is
+8 not required to be, equal to the assumed rate;
+9 (4) Administrator of the retirement system or administrator means
+10 (a) until September 1, 2024, the person administering the retirement
+11 system who is appointed by the board or (b) beginning on September 1,
+12 2024, the director appointed by the retirement board pursuant to section
+13 84-1503;
+14 (5) Annuitant means any member receiving an allowance;
+15 (6) Annuity means annual payments, for both prior service and
+16 membership service, for life as provided in the Class V School Employees
+17 Retirement Act;
+18 (7) Audit year means the period beginning January 1 in any year and
+19 ending on December 31 of that same year, which is the period of time used
+20 in the preparation of (a) the annual actuarial analysis and valuation and
+21 (b) a financial audit of the retirement system, including the investments
+22 of the retirement system;
+23 (8) Beneficiary means any person entitled to receive or receiving a
+24 benefit by reason of the death of a member;
+25 (9) Board means the board of trustees until July 1, 2021, and the
+26 board of education beginning July 1, 2021, and until September 1, 2024;
+27 (10) Board of education means the board or boards of education of a
+28 school district or districts;
+29 (11) Board of trustees means:
+30 (a) Until September 1, 2024, the entity established pursuant to
+31 section 79-980; and
+-20-
+LB824 LB824
+2026 2026
+1 (b) Beginning September 1, 2024, the board of education shall be
+2 deemed to be the successor in interest for all liability associated with
+3 the actions or inactions of the entity identified under subdivision (11)
+4 (a) of this section and as specified in the Class V School Employees
+5 Retirement Act;
+6 (12)(a) Compensation means gross wages or salaries payable to the
+7 member during a fiscal year and includes (i) overtime pay, (ii) member
+8 contributions to the retirement system that are picked up under section
+9 414(h) of the Internal Revenue Code, as defined in section 49-801.01,
+10 (iii) retroactive salary payments paid pursuant to court order,
+11 arbitration, or litigation and grievance settlements, and (iv) amounts
+12 contributed by the member to plans under sections 125, 403(b), and 457 of
+13 the Internal Revenue Code, as defined in section 49-801.01, or any other
+14 section of the code which defers or excludes such amounts from income.
+15 (b) Compensation does not include (i) fraudulently obtained amounts
+16 as determined by the board, (ii) amounts for accrued unused sick leave or
+17 accrued unused vacation leave converted to cash payments, (iii) insurance
+18 premiums converted into cash payments, (iv) reimbursement for expenses
+19 incurred, (v) fringe benefits, (vi) per diems paid as expenses, (vii)
+20 bonuses for services not actually rendered, (viii) early retirement
+21 inducements, (ix) cash awards, (x) severance pay, or (xi) employer
+22 contributions made for the purposes of separation payments made at
+23 retirement and early retirement inducements.
+24 (c) Compensation in excess of the limitations set forth in section
+25 401(a)(17) of the Internal Revenue Code, as defined in section 49-801.01,
+26 shall be disregarded;
+27 (13) Council means the Nebraska Investment Council created and
+28 acting pursuant to section 72-1237;
+29 (14) Creditable service means the sum of the membership service and
+30 the prior service, measured in one-tenth-year increments;
+31 (15) Early retirement date means, for members hired prior to July 1,
+-21-
+LB824 LB824
+2026 2026
+1 2016, who have attained age fifty-five, that month and year selected by a
+2 member having at least ten years of creditable service which includes a
+3 minimum of five years of membership service. Early retirement date means,
+4 for members hired on or after July 1, 2016, that month and year selected
+5 by a member having at least five years of membership service and who has
+6 attained age sixty;
+7 (16) Early retirement inducement means, but is not limited to:
+8 (a) A benefit, bonus, or payment to a member by an employer in
+9 exchange for an agreement by the member to retire with a reduced
+10 retirement benefit;
+11 (b) A benefit, bonus, or payment paid to a member by an employer in
+12 addition to the member's retirement benefit;
+13 (c) Lump-sum or installment cash payments by an employer, except
+14 payments for accrued unused leave converted to cash payments;
+15 (d) An additional salary or wage component of any kind that is being
+16 paid by an employer as an incentive to leave employment and not for
+17 personal services performed for which creditable service is granted;
+18 (e) Partial or full employer payment of a member's health, dental,
+19 life, or long-term disability insurance benefits or cash in lieu of such
+20 insurance benefits that extend beyond the member's termination of
+21 employment and contract of employment dates. This subdivision does not
+22 apply to any period during which the member is contributing to the
+23 retirement system and being awarded creditable service; and
+24 (f) Any other form of separation payments made by an employer to a
+25 member at termination, including, but not limited to, purchasing
+26 retirement contracts for the member pursuant to section 79-514, or
+27 depositing money for the member in an account established under section
+28 403(b) of the Internal Revenue Code except for payments for accrued
+29 unused leave;
+30 (17) Employee means the following enumerated persons receiving
+31 compensation from the school district: (a) Teachers, other than
+-22-
+LB824 LB824
+2026 2026
+1 substitutes, employed on a written contract basis; (b) administrators
+2 employed on a written contract, agreement, or document basis; and (c)
+3 regular employees;
+4 (18) Employer means a school district participating in a retirement
+5 system established pursuant to the Class V School Employees Retirement
+6 Act;
+7 (19) Fiscal year means the period beginning September 1 in any year
+8 and ending on August 31 of the next succeeding year;
+9 (20) Hire date or date of hire means the first day of compensated
+10 service subject to retirement contributions;
+11 (21) Interest means, for the purchase of service credit, the
+12 purchase of prior service credit, restored refunds, and delayed payments,
+13 the investment return assumption used in the most recent actuarial
+14 valuation;
+15 (22) Member means any employee included in the membership of the
+16 retirement system or any former employee who has made contributions to
+17 the system and has not received a refund;
+18 (23) Membership service means service on or after September 1, 1951,
+19 as an employee of the school district and a member of the system for
+20 which compensation is paid by the school district. Credit for more than
+21 one year of membership service shall not be allowed for service rendered
+22 in any fiscal year. Beginning September 1, 2005, a member shall be
+23 credited with a year of membership service for each fiscal year in which
+24 the member performs one thousand or more hours of compensated service as
+25 an employee of the school district. For an employee who becomes a member
+26 prior to July 1, 2018, an hour of compensated service shall include any
+27 hour for which the member is compensated by the school district during
+28 periods when no service is performed due to vacation or approved leave.
+29 For an employee who becomes a member on or after July 1, 2018, an hour of
+30 compensated service shall include any hour for which the member is
+31 compensated by the school district during periods when no service is
+-23-
+LB824 LB824
+2026 2026
+1 performed due to used accrued sick days, used accrued vacation days,
+2 federal and state holidays, and jury duty leave for which the member is
+3 paid full compensation by an employer. If a member performs less than one
+4 thousand hours of compensated service during a fiscal year, one-tenth of
+5 a year of membership service shall be credited for each one hundred hours
+6 of compensated service by the member in such fiscal year. In determining
+7 a member's total membership service, all periods of membership service,
+8 including fractional years of membership service in one-tenth-year
+9 increments, shall be aggregated;
+10 (24) Military service means service in the uniformed services as
+11 defined in 38 U.S.C. 4301 et seq., as such provision existed on March 27,
+12 1997;
+13 (25) Normal retirement date means the end of the month during which
+14 the member attains age sixty-five and has completed at least five years
+15 of membership service;
+16 (26) Participation means qualifying for and making required deposits
+17 to the retirement system during the course of a fiscal year;
+18 (27) Primary beneficiary means the person or persons entitled to
+19 receive or receiving a benefit by reason of the death of a member;
+20 (28) Prior service means service rendered prior to September 1,
+21 1951, for which credit is allowed under section 79-999, service rendered
+22 by retired employees receiving benefits under preexisting systems, and
+23 service for which credit is allowed under sections 79-990, 79-991,
+24 79-994, 79-995, and 79-997;
+25 (29)(a) Regular employee means a person hired on a full-time basis,
+26 which basis shall contemplate a work week of not less than thirty hours,
+27 and who is not (i) a teacher employed on a written contract basis or (ii)
+28 an administrator employed on a written contract, agreement, or document
+29 basis.
+30 (b) Effective September 1, 2021, a person hired by an employer or
+31 under contract to provide service for less than thirty hours per week but
+-24-
+LB824 LB824
+2026 2026
+1 who provides service for an average of thirty hours or more per week in
+2 each calendar month of any three calendar months of a fiscal year shall,
+3 beginning with the next full payroll period:
+4 (i) Commence contributions;
+5 (ii) Be deemed a regular employee; and
+6 (iii) Remain a deemed regular employee regardless of hours worked
+7 thereafter;
+8 (30) Regular interest means interest (a) on the total contributions
+9 of the member prior to the close of the last preceding fiscal year, (b)
+10 compounded annually, and (c)(i) beginning September 1, 2016, at a rate
+11 equal to the daily treasury yield curve for one-year treasury securities,
+12 as published by the Secretary of the Treasury of the United States, that
+13 applies on September 1 of each year and (ii) prior to September 1, 2016,
+14 at rates to be determined annually by the board, which shall have the
+15 sole, absolute, and final discretionary authority to make such
+16 determination, except that the rate for any given year in no event shall
+17 exceed the actual percentage of net earnings of the system during the
+18 last preceding fiscal year;
+19 (31) Retirement allowance means the total annual retirement benefit
+20 payable to a member for service or disability;
+21 (32) Retirement application means beginning on and after September
+22 1, 2024, the form approved and provided by the retirement system for
+23 acceptance of a member's request for either regular or disability
+24 retirement;
+25 (33) Retirement board means the Public Employees Retirement Board
+26 created and acting pursuant to section 84-1501;
+27 (34) Retirement date means the date of retirement of a member for
+28 service or disability as fixed by (a) the board for retirements occurring
+29 prior to September 1, 2024, or (b) the retirement board for retirements
+30 occurring on or after September 1, 2024;
+31 (35) Retirement system or system means the School Employees'
+-25-
+LB824 LB824
+2026 2026
+1 Retirement System of (corporate name of the school district as described
+2 in section 79-405) as provided for by the act;
+3 (36) School district means an employer participating in a retirement
+4 system established pursuant to the Class V School Employees Retirement
+5 Act;
+6 (37) Secondary beneficiary means the person or persons entitled to
+7 receive or receiving a benefit by reason of the death of all primary
+8 beneficiaries prior to the death of the member. If no primary beneficiary
+9 survives the member, secondary beneficiaries shall be treated in the same
+10 manner as primary beneficiaries;
+11 (38) Solvency means the rate of all contributions required pursuant
+12 to the Class V School Employees Retirement Act is equal to or greater
+13 than the actuarially required contribution rate as annotated in the most
+14 recent valuation report prepared by the actuary retained for the
+15 retirement system as provided in section 79-984;
+16 (39) State investment officer means the person appointed by the
+17 council pursuant to section 72-1240 and acting pursuant to the Nebraska
+18 State Funds Investment Act;
+19 (40) Substitute employee means a person hired by an employer as a
+20 temporary employee to assume the duties of an employee due to a temporary
+21 absence of any employee. Substitute employee does not mean a person hired
+22 as an employee on an ongoing basis to assume the duties of other
+23 employees who are temporarily absent;
+24 (41) Temporary employee means a person hired by an employer who is
+25 not an employee and who is hired to provide service for a limited period
+26 of time to accomplish a specific purpose or task. When such specific
+27 purpose or task is complete, the employment of such temporary employee
+28 shall terminate and in no case shall the temporary employment period
+29 exceed one year in duration;
+30 (42)(a) Termination of employment or termination means occurs on the
+31 date the member experiences a bona fide separation from service of
+-26-
+LB824 LB824
+2026 2026
+1 employment with the member's employer, the date of which separation is
+2 the last day of service under the member's contractual agreement or, if
+3 there is no contract or only partial fulfillment of a contract, as
+4 determined by an employer. A member who experiences a separation from
+5 service shall comply with the return-to-work provisions of section 79-992
+6 if the member returns to work for an employer.
+7 (b) A member shall not be deemed to have incurred a termination of
+8 employment if the board determines that, based on the facts and
+9 circumstances, (i) a claimed termination of employment was not a bona
+10 fide separation from service with the employer; (ii) a member was
+11 compensated for a full contractual period when the member stopped working
+12 prior to the end date of the member's employment as determined by the
+13 member's contract or labor agreement; or (iii) a member prearranged a
+14 return to work that violates the Class V School Employees Retirement Act;
+15 and .
+16 (c) Nothing in this subdivision (42) precludes an employer from
+17 adopting a policy which limits or denies employees who have experienced a
+18 separation from service from working as a volunteer or substitute
+19 employee within one hundred eighty days after the employee experiences a
+20 separation from service;
+21 (43) Transfer of management means the transition and transfer of the
+22 general management, administration, and operation of the retirement
+23 system from the board of trustees, board of education, and school
+24 district to the retirement board as described in the Class V School
+25 Employees Retirement Act. Transfer of management does not include:
+26 (a) Transfer of the school district's funding obligations described
+27 in the Class V School Employees Retirement Act or assumption of financial
+28 liability for such funding obligations by (i) the State of Nebraska, (ii)
+29 the retirement board, (iii) the Nebraska Public Employees Retirement
+30 Systems, (iv) any other state entity with duties related to
+31 administration of the retirement system, or (v) the council for its
+-27-
+LB824 LB824
+2026 2026
+1 investment duties regarding the assets of the retirement system; or
+2 (b) Merger or consolidation of any Class V school employees
+3 retirement system established under the Class V School Employees
+4 Retirement Act with the School Employees Retirement System of the State
+5 of Nebraska or any other retirement system administered by the retirement
+6 board;
+7 (44) Trustee means a trustee provided for in section 79-980; and
+8 (45) Voluntary service or volunteer means providing bona fide unpaid
+9 service to an employer.
+10 Sec. 5. Section 79-992, Reissue Revised Statutes of Nebraska, is
+11 amended to read:
+12 79-992 (1) A member who has five years or more of creditable
+13 service, excluding years of prior service acquired pursuant to section
+14 79-990, 79-991, 79-994, 79-995, or 79-997, and who terminates his or her
+15 employment may elect to leave his or her contributions in the retirement
+16 system, in which event he or she shall receive a retirement allowance at
+17 normal retirement age based on the annuity earned to the date of such
+18 termination of employment. Such member may elect to receive a retirement
+19 allowance at early retirement age if such member retires at an early
+20 retirement date. Such annuity shall be adjusted in accordance with
+21 section 79-9,100. Upon termination of employment, except on account of
+22 retirement, a member shall be entitled to receive refunds as follows: (a)
+23 An amount equal to the accumulated contributions to the retirement system
+24 by the member; and (b) any contributions made to a previously existing
+25 system which were refundable under the terms of that system. Any member
+26 receiving a refund of contributions shall thereby forfeit and relinquish
+27 all accrued rights in the retirement system including all accumulated
+28 creditable service, except that if any member who has withdrawn his or
+29 her contributions as provided in this section reenters the service of the
+30 district and again becomes a member of the retirement system, he or she
+31 may restore any or all money previously received by him or her as a
+-28-
+LB824 LB824
+2026 2026
+1 refund, including the interest on the amount of the restored refund for
+2 the period of his or her absence from the district's service as
+3 determined using the interest rate for interest on such restored refunds,
+4 and he or she shall then again receive credit for that portion of service
+5 which the restored money represents. Such restoration may be made as the
+6 board may direct until September 1, 2024, and as the retirement board may
+7 direct beginning September 1, 2024, through direct payments to the system
+8 or on an installment basis pursuant to a binding irrevocable payroll
+9 deduction authorized between the member and the school district over a
+10 period of not to exceed five years from the date of reemployment.
+11 Interest on delayed payments shall be at the rate of interest for
+12 determining interest on delayed payments by members to the retirement
+13 system. Creditable service may be purchased only in one-tenth-year
+14 increments, starting with the most recent years' salary.
+15 (2) Except as provided in section 79-992.01:
+16 (a)(i) A retired member, or a member described in subdivision (2)(c)
+17 or (d) of this subsection, who returns to employment as or again becomes
+18 an employee of the school district shall again participate in the
+19 retirement system as a new member and shall make contributions to the
+20 retirement system commencing upon reemployment as an employee.
+21 (ii) The retirement annuity of a retired member who returns to
+22 employment with the school district shall continue to be paid by the
+23 retirement system. A retired member who returns to employment as an
+24 employee of the school district shall receive creditable service only for
+25 service performed after his or her return to employment and in no event
+26 shall creditable service which accrues or the compensation paid to the
+27 member after such return to employment after retirement increase the
+28 amount of the member's original retirement annuity;
+29 (b) Upon termination of employment of the reemployed member, the
+30 member shall receive in addition to the retirement annuity which
+31 commenced at the time of the previous retirement (i) if the member has
+-29-
+LB824 LB824
+2026 2026
+1 accrued five years or more of creditable service after his or her return
+2 to employment, excluding years of prior service acquired pursuant to
+3 section 79-990, 79-991, 79-994, 79-995, or 79-997, a retirement annuity
+4 as provided in section 79-999 or 79-9,100, as applicable, calculated
+5 solely on the basis of creditable service and final average compensation
+6 accrued and earned after the member's return to employment after his or
+7 her original retirement, and as adjusted to reflect any payment in other
+8 than the normal form or (ii) if the member has not accrued five years or
+9 more of creditable service after his or her return to employment, a
+10 refund equal to the member's accumulated contributions which were
+11 credited to the member after the member's return to employment. In no
+12 event shall the member's creditable service which accrued prior to a
+13 previous retirement be considered as part of the member's creditable
+14 service after his or her return to employment for any purpose of the
+15 Class V School Employees Retirement Act;
+16 (c) A member who experiences a separation from service but has not
+17 submitted a retirement application or request for distribution pursuant
+18 to this section or as described in subdivision (32) of section 79-978, or
+19 received a retirement benefit, disability retirement benefit, or refund
+20 may return to work as a temporary employee, substitute employee, or
+21 volunteer. Such a temporary employee, substitute employee, or volunteer:
+22 (i) Shall be deemed to have incurred a termination of employment for
+23 purposes of section 79-991;
+24 (ii) Shall not be deemed to have incurred a termination of
+25 employment for purposes of this section or section 79-992.01, 79-9,105,
+26 or 79-9,106, or for any other purposes under the Class V School Employees
+27 Retirement Act, and shall not be eligible to receive a retirement
+28 benefit, disability retirement benefit, or distribution pursuant to this
+29 section, until the member incurs a termination of employment as described
+30 in subdivision (42) of section 79-978; and
+31 (iii) Except as provided in subdivision (2)(a)(i) of this section,
+-30-
+LB824 LB824
+2026 2026
+1 shall not be eligible to contribute to the retirement system pursuant to
+2 section 79-9,113 or earn membership service credit in the retirement
+3 system as described in subdivision (23) of section 79-978; and
+4 (d)(i) A member who experiences a separation from service and has
+5 submitted a retirement application or request for distribution pursuant
+6 to this section or as described in subdivision (32) of section 79-978, or
+7 received a retirement benefit, disability retirement benefit, or
+8 distribution, shall not be deemed to have incurred a termination of
+9 employment if the member subsequently returns to work for the district
+10 within one hundred twenty one hundred eighty days after separating from
+11 service. , unless such work is limited to:
+12 (A) Bona fide unpaid voluntary service;
+13 (B) Work performed as a substitute employee on an intermittent
+14 basis; or
+15 (C) Work as a temporary employee following a bona fide separation of
+16 service of not less than thirty calendar days and which is provided to
+17 accomplish a specific purpose or task for a limited period not to exceed
+18 one year.
+19 (ii) For purposes of subdivision (2)(d) of this section:
+20 (A) Intermittent basis means work provided on a day-to-day basis
+21 that is not greater than eight days of work during a calendar month; and
+22 (B) Day of work means any length of work as a substitute employee
+23 provided during a single calendar day.
+24 (ii) (iii) The one-hundred-twenty-day one-hundred-eighty-day period
+25 described in subdivision (2)(d)(i) of this section begins on the later
+26 of:
+27 (A) The date the member experienced a bona fide separation from
+28 service of all employment as an employee with the school district; or
+29 (B) The date the board receives the member's retirement application
+30 or request for distribution as described in subdivision (32) of section
+31 79-978.
+-31-
+LB824 LB824
+2026 2026
+1 (iii) (iv) A member may seek a determination from the administrator
+2 that it has been at least one hundred twenty one hundred eighty days
+3 since the member satisfied the requirements described in this subdivision
+4 (2)(d). The administrator shall make such determination if the member
+5 produces clear and convincing evidence that is received by the
+6 administrator within forty-five days after the later of:
+7 (A) The date the member experienced a bona fide separation of
+8 service of all employment as an employee with the district; or
+9 (B) The date the board receives the member's retirement application
+10 or request for distribution as described in subdivision (32) of section
+11 79-978.
+12 (iv) (v) A member may appeal the administrator's determination to
+13 the board within thirty days after the determination by the
+14 administrator. The board's determination on appeal shall be final and
+15 shall not be appealable to any court.
+16 (3) In the event a member is entitled to receive a refund of
+17 contributions pursuant to subsection (1) or subdivision (2)(b)(ii) of
+18 this section in an amount greater than one thousand dollars, if the
+19 member does not elect to have the refund paid directly to himself or
+20 herself or transferred to an eligible retirement plan designated by the
+21 member as a direct rollover pursuant to section 79-998, then the refund
+22 of contributions shall be paid in a direct rollover to an individual
+23 retirement plan as designated by the board until September 1, 2024, and
+24 as designated by the retirement board beginning September 1, 2024.
+25 Sec. 6. Original sections 79-920, 79-930, and 79-992, Reissue
+26 Revised Statutes of Nebraska, and sections 79-902 and 79-978, Revised
+27 Statutes Supplement, 2025, are repealed.
+-32-
+[DELETED: yLAa 7 R R S o N a s7 a 7 R S S 2 t rtr t t o e u t S ERtB4L62]
+[DELETED: S 1 S 7 R S S 2 ia7t(fa i t S R F t w r it( A e m t e i v o t0a a e t b r u d f o1p2( F a s e h b J 1 2 t3d4r5m6o e p p a s b r i m t7d8(9o0a r b o t a r o c t1d2r3r4b5o6f7t c a e o a r b S8i9r0(1r w b d b t A s o t B4L62]
+[DELETED: Bt t n l q p I t A s o tB B L U C B I i d orb(a( C m g w o s p t tm0(1s2a g s ( a c b t m t3p4d i s 4 o a o s o t c w5d o e s a f i a ( l o a6p7(8a9s0(1f e i ( f b ( p d p a2e3r i ( c a ( s p o (4e5a6(748s9s0l1a4L62]
+[DELETED: o(so(ao( C s m p s f w c ig0s1w2( C s i w d s d v3d4r w a p o t e a w t e5C s d n i l p t t e6u7e a v c s y f w m8c a w a n r b t m s9r0p1a2i t d t r s o s p t a3e i a r s e p t t C 4S5( C b m t i b i b a6a7( D m a i t e i a s8g a b r o a m d p o9m0t m w a a p i t p a w c b1e t r i d o b o a l a i4L62]
+[DELETED: d( D r a m t a p t p( D r d m t f d o t mf t d u w a m r f dr i r o a r a p b trsr0(1( A b b o p t a m i e f a2a3(4m5( L o i c p e p f6a7(8p9p0(1l2i b t e b t m t o3e a c o e d T s d n4a t a p d w t m i c t t5r6(7m a t i b n l t p8r9d04 o t I R C e f p f a1u l o p s c f t m p t4L62]
+[DELETED: s( E a v c m c f y o fp o d e f b u t SEc(u t a i t p w h r s J 110a1i a c b a p s a C V s d o 2s3N S C t B o R o t U o4N5s6a ( w h a t t b f e m i t7r s T s d o a s c t t8r b o f p b t r b t t9a w r r a s a w p b t0d1(2o3e4(5(6( T s o t m t c d t t7t p o s a a s e i w s8c9( I a m h s c f l t t0m1b4L62]
+[DELETED: a(( T s o t m t c d t ft p o s a a s e i w sc(tt(071n2(3n4(5s6(7t8( M m a p w h a a i t S9R0(1t2(3e4( P s m s r a a s e i5t6(7e o h s g a d i s 7 w8s9a m o t S o N o a s t0i ( s o o e e m a1c4L62]
+[DELETED: s d ( a e s u a ( a oeuSt c c b o g f a c ca(uf0h p w A e h a d i t s t1p s f l t t h p w b w p2s3m4t5a6t7n8m9s0(1d2b3J 1 o e y w m b c m q4s5(6w h w h o h a c u s77 t t a o c s w s m h8g9r0(1d4L62]
+[DELETED: stm(p(m w a s a o y o a o o bD( A a l s y o a f a m w0a1a2(3a4t5( A a l s y o a f a m w6a7(8p9( O r t d s b s 4 o0t1( R d m t d f a m2c3i4( R m q f a a a s o5d r a g u t S E6R7(8t r s f a o a m r f e9r0(1B4L62]
+[DELETED: ( R d m ( i t m h temp b t r s o ( i t m h f rd o t m f t d o w t m ted(0o1(2p3(4c p t s 7 F p o t s5c6f7r8p9r0t d o o r e w a t a1S e t e a e w h n2a t a o e y s n b c s3e4( S r a m t t o t s5a6r7p8m T f p s i a a a s t9e0e1t4L62]
+[DELETED: (oot(dt c o e o a e i a p s i te e i a c o e i a p se0y ( t o s s o s t d n1t2t e f a p n e t m ( l o3a b o d o ( m s w p4a5o6s7(8i9t0(1s2(3h4D5s6(7a8t9m0t1(4L62]
+[DELETED: tm i s r a p u a q dr o f w t b p t t S PR A T s o f s s s t sma q d r o I t b p t tsl t t v o b e t t s s ts0t1(2w3l p o t t a a s p o t W4s s p o t i c t e o s5t e s t a i n c s t t6e7(8d9m0c a o i t i n c o o p1f2(3e4t5( A c t w n a b f s f6s7(8m9( A m p a r t w t v t0p1(4L62]
+[DELETED: w t r p o s 7 i t m is e b a e p i t rs(a p w l o d e w h e ss e w o h e d a t ee(0s1S 2 S 7 R R S o N i2a374(5i e s r b t S o N a t6e a s c a f a t o7t8( E s p s e m a i w9s a s p e c a w i ( a0i112a s a i a p c b t a a w i3r t h a c a d i s 7 f t4p5i e b a s a n i a p c b t6a778(9S0(1E o a a o t S o N w e4L62]
+[DELETED: c( S p m t S E R S o tS( E a p i s ( o t s ai(ea(0w1(2p t s ( o t s s n b d t3h t e f s p p i s i4s5p6s7e d a c e e a i m b8p t p i w a a v o s9e0i1(2p t s ( o t s s n r a3s t a a o t S o N w o h4t5(6(7p w e a a e s p s e w 8s9(0a1o4L62]
+[DELETED: a(e w a s a s p e b o w bwe(p t s ( o t s s n b d th t e f s p p i s is0p1S o N w o h t d a c2e3w4(5f6( A i w p e t p i t7s p p t M 4 2 w e a a s s8o9p t t S E R A s n r a0s1(2i t s p o a s a s p e w o3h t o h e d a t e4e f i w a a v o s e a5d6( A a o t S o N w o h7t8S 3 S 7 R R S o N i9a07 ( A m w e a s f s1w4L62]
+[DELETED: or b d r b o dp t s 7 f t r s m r twe(s(o s 7 7 a 7 a s n b e t0r a r b d r b o1d p t s 7 f t r s2u t m i a t o e a d i3s4( E a p i s ( o t s5s6s7t8(9w b a r e f a e p i t0r1t2s3f s e i a w a a t e o4s5(6h7s n m c p t s 7 o a8c9s0o1( W p w t m i n c t t4L62]
+[DELETED: r s p t s ( o t s sn7t(mf d p t s 7 o r a rb d r b o d p ts0i1t2o h t o h e d a s f3s4( I w a a v o s e F5p6(7i8( D o w m a l o w a a v o9s0( W a a b a p i a w1s2(3o4( T d t m e a b f s f5s o a e w a e p i t6r7( T d t N P E R S8r9p0(1N4L62]
+[DELETED: ordi( T d t m e a b f s os o a e w a e p i tr( T d t m r a o r fd p t s 7 i r b t N0P1(2w3( T b d o t a s b f a4s5S 4 S 7 R S S 2 i6a778u9(0b a m o t s t w r i c1t2( A e m t e i v o t3r4a5t6t e t u o s a t s n e 7r8b9(0(1t4L62]
+[DELETED: (uoaa(a J 1 2 a t o e a b p r b t d s b b o a um t a a i r s b ( t b u0S122b3e s a b a s o a p v T4m5m r d s b u t c t a6e7n8(9( F m h b J 1 2 a u r0m t u s p o t m m a1t2M T w a O Y S a u a i r o3e4t u t p o t m m a s5p o t f m f t 1 G A M6T7c8(9a J 1 2 a t o e a b p 0r b t d s b b o a u1m t a a i r s b ( t b u4L62]
+[DELETED: S2be s a b a s o a p v Tmm r d s b u t c t aen( A o t r s o a m0( u S 1 2 t p a t r1s w i a b t b o ( b o S 122384(5( A m a p f b p s a6m7R8(9e0i1(2o3(4b5(6b7(8s9(0( U S 1 2 t e e p t1s4L62]
+[DELETED: ( B S 1 2 t b o e s bdt( o t s a a s i t C V S ER( C m g w o s p t tmc4 o t I R C a d i s 40( r s p p p t c o1a o l a g s a ( a2c3t4s5(6a7a8p c i c p ( r f e9i ( f b ( p d p a e (0b f s n a r ( e r1i ( c a ( s p o ( e2c m f t p o s p m a3r4(546s7( C m t N I C c a8a9(0t1(4L62]
+[DELETED: 2mmfba(( A b b o p t a m b a e ie f a a b t m t r w a r0r1(2a3( L o i c p b a e e4p5(6p b a e a a i t l e a n f7p8(9l0i b t e b t m t o1e a c o e d T s d n2a t a p d w t m i c t t3r4(5m a t i b n l t p6r c f t m p t s 7 o7d84 o t I R C e f p f a9u0( E m t f e p r1c f t s d ( T o t4L62]
+[DELETED: s e o a w c b ( ae o a w c a o d b a (r(s e p t t C V S E RA(a(0s1( I m f t p o s c t2p3t i r a u i t m r a4v5( M m a e i i t m o t6r7t8(9a a e o t s d a a m o t s f0w1o2i a f y B S 1 2 a m s b3c4t5a6p7h8p9F0c s s i a h f w t m i1c b t s d d p w n s i4L62]
+[DELETED: p d t u a s d u a v dfptaoai f y o m s i oi0( M s m s i t u s a1d213(4t5o6(7t8( P b m t p o p e t9r0( P s m s r p t S 1112b r e r b u p s a3s f w c i a u s 7 7475(6w7a8a9b0(1u4L62]
+[DELETED: web((( R a d r e r o h wt(o0c1e2a3a4a r t b d a b t b w s h t5s a a f d a t m s6d7e t a p o n e o t s d t8l9(0p1(21 2 t f a a p b t r s f3a o a m r f e r o d4r5( R b m t P E R B6c7(8s9p0o1( R s o s m t S E4L62]
+[DELETED: Ri(s e p t t C V S E RA(r o r a b b r o t d o a pbs0m1(2t t C V S E R A i e t o g3t4r v r p b t a r f t5r6( S i o m t p a b t7c8S9(0t1a2a a e o a o b t a t d o o3e4(5n6o t t a a s p o t W s s7p8s t a i n c s t t e p9e0(1d t m e a b f s f s o4L62]
+[DELETED: ett i n c o o p f o a c ad b a e A m w e a s fsi(e i t b d t b o t f ac ( a c t o e w n a b0f s f s w t e ( a m w1c2p t t e d o t m e a d b t3m c o l a o ( a m p 4r5a6( N i t s ( p a e f7a8s f s f w a a v o s9e0s1(2g m a a o o t r3s f t b o t b o e a s4d t t r b a d i t C V S5E6(7i8l9t r b ( t N P E R0S ( a o s e w d r t1a o t r s o ( t c f i4L62]
+[DELETED: i( M o c o a C V s er s e u t C V S ERob((s0S 5 S 7 R R S o N i1a27 ( A m w h f y o m o c3s e y o p s a p t s475e6s7n r a b o t a e t t d o s8t9a a e r a i s m r a a e0r d S a s b a i a w1s 7 U t o e e o a o2r3A4b5s6r7a a r i t r s i a a8c9h0d1m r a o a m p r b h o h a 4L62]
+[DELETED: rt p o h o h a f t d s adawbdo o a i b p t a b i pd0p o n t e f y f t d o r1I o d p s b a t r o i f2d i o d p b m t t r3s C s m b p o i o4i5(6(7o8a e o t s d s a p i t9r s a a n m a s m c t t0r1( T r a o a r m w r t2e w t s d s c t b p b t3r s A r m w r t e a a4e5s6s7m a s r t e a r i t8a9( U t o e o t r m t0m s r i a t t r a w1c4L62]
+[DELETED: at e e y o p s a p tsa p i s 7 o 7 a a csahtm o c s a h o h r t e 0r e t t m a c w w1c t t m a t m r t e I n2e s t m c s w a p t 3p r b c a p o t m c4s a h o h r t e f a p o t5C6(7s8t9r0m r t w a a t e s e o1v2(3p4( S n b d t h i a t o5e6o7R A a s n b e t r a r8b9s0i1(4L62]
+[DELETED: ss 7 o e m s c i t rs( A m w e a s f s a hstr a r b d r b od s n b d t h i a t oe0w1s2(3( W p a a s e o a i4b5(6s7a8o9(0( I b m w p o a d b1t2(3p4(5d6o7( T d t m e a b f s f8s9(0o174L62]
+[DELETED: (t i h b a l o h t o h e ds( T a s m s d i t mp c a c e t i r b ta( T d t m e a b f s os(0o172( ( A m m a t a d t3t b w t d a t d b t4a T b d o a s b f a5s6( I t e a m i e t r a r o7c p t s ( o s ( o8t s i a a g t o t d i t9m d n e t h t r p d t h o0h1m2o c s b p i a d r t a i3r4a5S 6  O s 7 7 a 7 R6R S o N a s 7 a 7 R7S4L62]
+
+
+================================================================================
+
+Raw Text:
+LB824 LB824
+2026 2026
+LEGISLATURE OF NEBRASKA
+ONE HUNDRED NINTH LEGISLATURE
+SECOND SESSION
+LEGISLATIVE BILL 824
+Introduced by Lonowski, 33; Conrad, 46; DeBoer, 10; Hardin, 48; Juarez,
+5; Lippincott, 34; McKeon, 41; Murman, 38; Storer, 43.
+Read first time January 07, 2026
+Committee: Nebraska Retirement Systems
+1 A BILL FOR AN ACT relating to retirement; amend sections 79-920, 79-930,
+2 and 79-992, Reissue Revised Statutes of Nebraska, and sections
+3 79-902 and 79-978, Revised Statutes Supplement, 2025; to redefine
+4 termination of employment and termination and to change provisions
+5 relating to termination of employment under the School Employees
+6 Retirement Act and the Class V School Employees Retirement Act; and
+7 to repeal the original sections.
+8 Be it enacted by the people of the State of Nebraska,
+-1-
+
+LB824 LB824
+2026 2026
+1 Section 1. Section 79-902, Revised Statutes Supplement, 2025, is
+2 amended to read:
+3 79-902 For purposes of the School Employees Retirement Act, unless
+4 the context otherwise requires:
+5 (1) Accumulated contributions means the sum of all amounts deducted
+6 from the compensation of a member and credited to his or her individual
+7 account in the School Retirement Fund together with regular interest
+8 thereon, compounded monthly, quarterly, semiannually, or annually;
+9 (2)(a) Actuarial equivalent means the equality in value of the
+10 aggregate amounts expected to be received under different forms of
+11 payment.
+12 (b) For a school employee hired before July 1, 2017, the
+13 determinations shall be based on the 1994 Group Annuity Mortality Table
+14 reflecting sex-distinct factors blended using twenty-five percent of the
+15 male table and seventy-five percent of the female table. An interest rate
+16 of eight percent per annum shall be reflected in making these
+17 determinations except when a lump-sum settlement is made to an estate.
+18 (c) For a school employee hired on or after July 1, 2017, or rehired
+19 on or after July 1, 2017, after termination of employment and being paid
+20 a retirement benefit or taking a refund of contributions, the
+21 determinations shall be based on a unisex mortality table and an interest
+22 rate specified by the board. Both the mortality table and the interest
+23 rate shall be recommended by the actuary and approved by the retirement
+24 board following an actuarial experience study, a benefit adequacy study,
+25 or a plan valuation. The mortality table, interest rate, and actuarial
+26 factors in effect on the school employee's retirement date will be used
+27 to calculate actuarial equivalency of any retirement benefit. Such
+28 interest rate may be, but is not required to be, equal to the assumed
+29 rate.
+30 (d) If the lump-sum settlement is made to an estate, the interest
+31 rate will be determined by the AAA-rated segment of the Bloomberg
+-2-
+
+LB824 LB824
+2026 2026
+1 Barclays Long U.S. Corporate Bond Index as of the prior June 30, rounded
+2 to the next lower quarter percent. If the AAA-rated segment of the
+3 Bloomberg Barclays Long U.S. Corporate Bond Index is discontinued or
+4 replaced, a substitute index shall be selected by the board which shall
+5 be a reasonably representative index;
+6 (3) Beneficiary means any person in receipt of a school retirement
+7 allowance or other benefit provided by the act;
+8 (4)(a) Compensation means gross wages or salaries payable to the
+9 member for personal services performed during the plan year and includes
+10 (i) overtime pay, (ii) member retirement contributions, (iii) retroactive
+11 salary payments paid pursuant to court order, arbitration, or litigation
+12 and grievance settlements, (iv) amounts contributed by the member to
+13 plans under sections 125, 403(b), and 457 of the Internal Revenue Code as
+14 defined in section 49-801.01 or any other section of the code which
+15 defers or excludes such amounts from income, and (v) leave of absence
+16 pay.
+17 (b) Compensation does not include (i) fraudulently obtained amounts
+18 as determined by the retirement board, (ii) amounts for accrued unused
+19 sick leave or accrued unused vacation leave converted to cash payments,
+20 (iii) insurance premiums converted into cash payments, (iv) reimbursement
+21 for expenses incurred, (v) fringe benefits, (vi) per diems paid as
+22 expenses, (vii) bonuses for services not actually rendered, (viii) early
+23 retirement inducements, (ix) cash awards, (x) severance pay, or (xi)
+24 employer contributions made for the purposes of separation payments made
+25 at retirement.
+26 (c) Compensation in excess of the limitations set forth in section
+27 401(a)(17) of the Internal Revenue Code as defined in section 49-801.01
+28 shall be disregarded. For an employee who was a member of the retirement
+29 system before the first plan year beginning after December 31, 1995, the
+30 limitation on compensation shall not be less than the amount which was
+31 allowed to be taken into account under the retirement system as in effect
+-3-
+
+LB824 LB824
+2026 2026
+1 on July 1, 1993;
+2 (5) County school official means (a) until July 1, 2000, the county
+3 superintendent or district superintendent and any person serving in his
+4 or her office who is required by law to have a teacher's certificate and
+5 (b) on or after July 1, 2000, the county superintendent, county school
+6 administrator, or district superintendent and any person serving in his
+7 or her office who is required by law to have a teacher's certificate;
+8 (6)(a) Creditable service means prior service for which credit is
+9 granted under sections 79-926 to 79-929, service credit purchased under
+10 sections 79-933.03 to 79-933.06 and 79-933.08, and all service rendered
+11 while a contributing member of the retirement system; and
+12 (b) Creditable service includes working days, sick days, vacation
+13 days, holidays, and any other leave days for which the employee is paid
+14 regular wages as part of the employee's agreement with the employer.
+15 Creditable service does not include lump-sum payments to the employee
+16 upon termination or retirement in lieu of accrued benefits for such days,
+17 eligibility and vesting credit, service years for which member
+18 contributions are withdrawn and not repaid by the member, service
+19 rendered for which the retirement board determines that the member was
+20 paid less in compensation than the minimum wage as provided in the Wage
+21 and Hour Act, service which the board determines was rendered with the
+22 intent to defraud the retirement system, or service provided to an
+23 employer in a retirement system established pursuant to the Class V
+24 School Employees Retirement Act;
+25 (7) Current benefit means the initial benefit increased by all
+26 adjustments made pursuant to the School Employees Retirement Act;
+27 (8) Disability means an inability to engage in any substantially
+28 gainful activity by reason of any medically determinable physical or
+29 mental impairment which was initially diagnosed or became disabling while
+30 the member was an active participant in the plan and which can be
+31 expected to result in death or be of a long-continued and indefinite
+-4-
+
+LB824 LB824
+2026 2026
+1 duration;
+2 (9) Disability retirement allowance means the annuity paid to a
+3 person upon retirement for disability under section 79-952;
+4 (10) Disability retirement date means the first day of the month
+5 following the date upon which a member's request for disability
+6 retirement is received on a retirement application provided by the
+7 retirement system if the member has terminated employment in the school
+8 system and has complied with sections 79-951 to 79-954 as such sections
+9 refer to disability retirement;
+10 (11) Early retirement inducement means, but is not limited to:
+11 (a) A benefit, bonus, or payment to a member in exchange for an
+12 agreement by the member to terminate from employment;
+13 (b) A benefit, bonus, or payment paid to a member in addition to the
+14 member's retirement benefit;
+15 (c) Lump-sum or installment cash payments, except payments for
+16 accrued unused leave converted to cash payments;
+17 (d) An additional salary or wage component of any kind that is being
+18 paid as an incentive to leave employment and not for personal services
+19 performed for which creditable service is granted;
+20 (e) Partial or full employer payment of a member's health, dental,
+21 life, or long-term disability insurance benefits or cash in lieu of such
+22 insurance benefits that extend beyond the member's termination of
+23 employment and contract of employment dates. This subdivision does not
+24 apply to any period during which the member is contributing to the
+25 retirement system and being awarded creditable service; and
+26 (f) Any other form of separation payments made by an employer to a
+27 member at termination, including, but not limited to, purchasing
+28 retirement annuity contracts for the member pursuant to section 79-514,
+29 depositing money for the member in an account established under section
+30 403(b) of the Internal Revenue Code except for payments for accrued
+31 unused leave, or purchasing service credit for the member pursuant to
+-5-
+
+LB824 LB824
+2026 2026
+1 section 79-933.08;
+2 (12) Eligibility and vesting credit means credit for years, or a
+3 fraction of a year, of participation in a Nebraska government plan for
+4 purposes of determining eligibility for benefits under the School
+5 Employees Retirement Act. Such credit shall not be included as years of
+6 creditable service in the benefit calculation;
+7 (13) Emeritus member means a person (a) who has entered retirement
+8 under the act, including those persons who have retired since July 1,
+9 1945, under any other regularly established retirement or pension system
+10 as contemplated by section 79-916, (b) who has thereafter been reemployed
+11 in any capacity by a public school, a Class V school district, or a
+12 school under the control and management of the Board of Trustees of the
+13 Nebraska State Colleges, the Board of Regents of the University of
+14 Nebraska, or a community college board of governors or has become a state
+15 school official or county school official subsequent to such retirement,
+16 and (c) who has applied to the board for emeritus membership in the
+17 retirement system. The school district or agency shall certify to the
+18 retirement board on forms prescribed by the retirement board that the
+19 annuitant was reemployed, rendered a service, and was paid by the
+20 district or agency for such services;
+21 (14) Employer means the State of Nebraska or any subdivision thereof
+22 or agency of the state or subdivision authorized by law to hire school
+23 employees or to pay their compensation;
+24 (15)(a) Final average compensation means:
+25 (i) Except as provided in subdivision (ii) of this subdivision:
+26 (A) The sum of the member's total compensation during the three
+27 twelve-month periods of service as a school employee in which such
+28 compensation was the greatest divided by thirty-six; or
+29 (B) If a member has such compensation for less than thirty-six
+30 months, the sum of the member's total compensation in all months divided
+31 by the total number of months of his or her creditable service therefor;
+-6-
+
+LB824 LB824
+2026 2026
+1 and
+2 (ii) For an employee who became a member on or after July 1, 2013:
+3 (A) The sum of the member's total compensation during the five
+4 twelve-month periods of service as a school employee in which such
+5 compensation was the greatest divided by sixty; or
+6 (B) If a member has such compensation for less than sixty months,
+7 the sum of the member's total compensation in all months divided by the
+8 total number of months of his or her creditable service therefor.
+9 (b) Payments under the Retirement Incentive Plan pursuant to section
+10 79-855 and Staff Development Assistance pursuant to section 79-856 shall
+11 not be included in the determination of final average compensation;
+12 (16) Fiscal year means any year beginning July 1 and ending June 30
+13 next following;
+14 (17) Hire date or date of hire means the first day of compensated
+15 service subject to retirement contributions;
+16 (18) Initial benefit means the retirement benefit calculated at the
+17 time of retirement;
+18 (19) Member means any person who has an account in the School
+19 Retirement Fund;
+20 (20) Participation means qualifying for and making required deposits
+21 to the retirement system during the course of a plan year;
+22 (21) Plan year means the twelve-month period beginning on July 1 and
+23 ending on June 30 of the following year;
+24 (22) Prior service means service rendered as a school employee in
+25 the public schools of the State of Nebraska prior to July 1, 1945;
+26 (23) Public school means any and all schools offering instruction in
+27 elementary or high school grades, as defined in section 79-101, which
+28 schools are supported by public funds and are wholly under the control
+29 and management of the State of Nebraska or any subdivision thereof,
+30 including (a) schools or other entities established, maintained, and
+31 controlled by the school boards of local school districts, except Class V
+-7-
+
+LB824 LB824
+2026 2026
+1 school districts, (b) any educational service unit, and (c) any other
+2 educational institution wholly supported by public funds, except schools
+3 under the control and management of the Board of Trustees of the Nebraska
+4 State Colleges, the Board of Regents of the University of Nebraska, or
+5 the community college boards of governors for any community college
+6 areas;
+7 (24) Regular employee means an employee hired by a public school or
+8 under contract in a regular full-time or part-time position who works a
+9 full-time or part-time schedule on an ongoing basis for twenty or more
+10 hours per week. An employee hired as described in this subdivision to
+11 provide service for less than twenty hours per week but who provides
+12 service for an average of twenty hours or more per week in each calendar
+13 month of any three calendar months of a plan year shall, beginning with
+14 the next full payroll period, commence contributions and shall be deemed
+15 a regular employee for all future employment with the same employer. The
+16 twenty-hour-per-week threshold shall be calculated by dividing the total
+17 number of hours of service provided for the same employer in a calendar
+18 month by the total number of calendar days in the month, and multiplying
+19 such number by seven;
+20 (25) Regular interest means interest fixed at a rate equal to the
+21 daily treasury yield curve for one-year treasury securities, as published
+22 by the Secretary of the Treasury of the United States, that applies on
+23 July 1 of each year, which may be credited monthly, quarterly,
+24 semiannually, or annually as the board may direct;
+25 (26) Relinquished creditable service means, with respect to a member
+26 who has withdrawn his or her accumulated contributions under section
+27 79-955, the total amount of creditable service which such member has
+28 given up as a result of his or her election not to remain a member of the
+29 retirement system;
+30 (27) Required beginning date means, for purposes of the deferral of
+31 distributions and the commencement of mandatory distributions pursuant to
+-8-
+
+LB824 LB824
+2026 2026
+1 section 401(a)(9) of the Internal Revenue Code and the regulations issued
+2 thereunder, April 1 of the year following the calendar year in which a
+3 member:
+4 (a)(i) Terminated employment with all employers participating in the
+5 plan; and
+6 (ii)(A) Attained at least seventy and one-half years of age for a
+7 member who attained seventy and one-half years of age on or before
+8 December 31, 2019;
+9 (B) Attained at least seventy-two years of age for a member who
+10 attained seventy and one-half years of age on or after January 1, 2020,
+11 and prior to January 1, 2023;
+12 (C) Attained at least seventy-three years of age for a member who
+13 attained seventy-two years of age after December 31, 2022, and seventy-
+14 three years of age prior to January 1, 2033; or
+15 (D) Attained at least seventy-five years of age for a member who
+16 attained seventy-four years of age after December 31, 2032; or
+17 (b)(i) Terminated employment with all employers participating in the
+18 plan; and
+19 (ii) Otherwise reached the date specified by section 401(a)(9) of
+20 the Internal Revenue Code and the regulations issued thereunder;
+21 (28) Required deposit means the deduction from a member's
+22 compensation as provided for in section 79-958 which shall be deposited
+23 in the School Retirement Fund;
+24 (29) Retirement means qualifying for and accepting a school or
+25 disability retirement allowance granted under the School Employees
+26 Retirement Act;
+27 (30) Retirement application means the form approved and provided by
+28 the retirement system for acceptance of a member's request for either
+29 regular or disability retirement;
+30 (31) Retirement board or board means the Public Employees Retirement
+31 Board;
+-9-
+
+LB824 LB824
+2026 2026
+1 (32) Retirement date means (a) if the member has terminated
+2 employment, the first day of the month following the date upon which a
+3 member's request for retirement is received on a retirement application
+4 provided by the retirement system or (b) if the member has filed a
+5 retirement application but has not yet terminated employment, the first
+6 day of the month following the date on which the member terminates
+7 employment. An application may be filed no more than two hundred seventy
+8 days prior to the effective date of the member's initial benefit;
+9 (33) Retirement system means the School Employees Retirement System
+10 of the State of Nebraska;
+11 (34) Savings annuity means payments for life, made in equal monthly
+12 payments, derived from the accumulated contributions of a member;
+13 (35) School employee means a contributing member who earns service
+14 credit pursuant to section 79-927. For purposes of this section,
+15 contributing member means the following persons who receive compensation
+16 from a public school: (a) Regular employees; (b) regular employees having
+17 retired pursuant to the School Employees Retirement Act who subsequently
+18 provide compensated service on a regular basis in any capacity; and (c)
+19 regular employees hired by a public school on an ongoing basis to assume
+20 the duties of other regular employees who are temporarily absent.
+21 Substitute employees, temporary employees, and employees who have not
+22 attained the age of eighteen years shall not be considered school
+23 employees;
+24 (36) School retirement allowance means the total of the savings
+25 annuity and the service annuity or formula annuity paid a person who has
+26 retired under sections 79-931 to 79-935. The monthly payments shall be
+27 payable at the end of each calendar month during the life of a retired
+28 member. The first payment shall include all amounts accrued since the
+29 effective date of the award of annuity. The last payment shall be at the
+30 end of the calendar month in which such member dies or in accordance with
+31 the payment option chosen by the member;
+-10-
+
+LB824 LB824
+2026 2026
+1 (37) School year means one fiscal year which includes not less than
+2 one thousand instructional hours or, in the case of service in the State
+3 of Nebraska prior to July 1, 1945, not less than seventy-five percent of
+4 the then legal school year;
+5 (38) Service means employment as a school employee and shall not be
+6 deemed interrupted by (a) termination at the end of the school year of
+7 the contract of employment of an employee in a public school if the
+8 employee enters into a contract of employment in any public school,
+9 except a school in a Class V school district, for the following school
+10 year, (b) temporary or seasonal suspension of service that does not
+11 terminate the employee's employment, (c) leave of absence authorized by
+12 the employer for a period not exceeding twelve months, (d) leave of
+13 absence because of disability, or (e) military service when properly
+14 authorized by the retirement board. Service does not include any period
+15 of disability for which disability retirement benefits are received under
+16 sections 79-951 to 79-953;
+17 (39) Service annuity means payments for life, made in equal monthly
+18 installments, derived from appropriations made by the State of Nebraska
+19 to the retirement system;
+20 (40) State deposit means the deposit by the state in the retirement
+21 system on behalf of any member;
+22 (41) State school official means the Commissioner of Education and
+23 his or her professional staff who are required by law or by the State
+24 Department of Education to hold a certificate as such term is defined in
+25 section 79-807;
+26 (42) Substitute employee means a person hired by a public school as
+27 a temporary employee to assume the duties of regular employees due to a
+28 temporary absence of any regular employees. Substitute employee does not
+29 mean a person hired as a regular employee on an ongoing basis to assume
+30 the duties of other regular employees who are temporarily absent;
+31 (43) Surviving spouse means (a) the spouse married to the member on
+-11-
+
+LB824 LB824
+2026 2026
+1 the date of the member's death or (b) the spouse or former spouse of the
+2 member if survivorship rights are provided under a qualified domestic
+3 relations order filed with the board pursuant to the Spousal Pension
+4 Rights Act. The spouse or former spouse shall supersede the spouse
+5 married to the member on the date of the member's death as provided under
+6 a qualified domestic relations order. If the benefits payable to the
+7 spouse or former spouse under a qualified domestic relations order are
+8 less than the value of benefits entitled to the surviving spouse, the
+9 spouse married to the member on the date of the member's death shall be
+10 the surviving spouse for the balance of the benefits;
+11 (44) Temporary employee means an employee hired by a public school
+12 who is not a regular employee and who is hired to provide service for a
+13 limited period of time to accomplish a specific purpose or task. When
+14 such specific purpose or task is complete, the employment of such
+15 temporary employee shall terminate and in no case shall the temporary
+16 employment period exceed one year in duration;
+17 (45)(a) Termination of employment or termination means occurs on the
+18 date the member experiences a bona fide separation from service with the
+19 member's employer. The date of the separation is the end of the member's
+20 contractual agreement or, if there is no contract or only partial
+21 fulfillment of a contract, as determined by the employer.
+22 (b) A member shall not be deemed to have incurred a termination of
+23 employment if the board determines based on the facts and circumstances
+24 that:
+25 (i) A claimed termination was not a bona fide separation from
+26 service with the member's employer;
+27 (ii) A member was compensated for a full contractual period when the
+28 member stopped working prior to the end date of the contract; or
+29 (iii) A member prearranged a return to work that violates the
+30 provisions of the School Employees Retirement Act.
+31 (c) A member who experiences a separation from service must comply
+-12-
+
+LB824 LB824
+2026 2026
+1 with the return-to-work provisions of section 79-930 if the member is
+2 subsequently employed by an employer participating in the retirement
+3 system; and .
+4 (d) Nothing in this subdivision precludes an employer from adopting
+5 a policy which limits or denies employees who have experienced a
+6 separation from service with the employer from working as a volunteer or
+7 substitute employee within one hundred eighty days after the employee
+8 experiences such separation from service; and
+9 (46) Voluntary service or volunteer means providing bona fide unpaid
+10 service to any employer.
+11 Sec. 2. Section 79-920, Reissue Revised Statutes of Nebraska, is
+12 amended to read:
+13 79-920 (1) For purposes of this section:
+14 (a) Association means the State Code Agency Teachers Association, or
+15 its equivalent successor, recognized by the State of Nebraska as the
+16 exclusive and sole collective-bargaining agent for all teachers other
+17 than temporary teachers employed by an agency of the State of Nebraska;
+18 (b) Eligible school plan state employee means an individual who
+19 satisfies all school plan eligibility criteria and who is (i) an
+20 individual employed by the State Department of Education after July 1,
+21 1989, as a state school official, (ii) an individual who is employed by
+22 any state agency in a position covered by the association and who is
+23 required to hold a certificate as defined in section 79-807 for the
+24 position in which such individual is employed, or (iii) an individual who
+25 is employed by any state agency not in a position covered by the
+26 association who is required to hold a certificate as defined in section
+27 79-807 for the position in which such individual is employed;
+28 (c) School plan means the School Employees Retirement System of the
+29 State of Nebraska;
+30 (d) State agency school plan employer means the State Department of
+31 Education or another agency of the State of Nebraska with employees
+-13-
+
+LB824 LB824
+2026 2026
+1 covered by the association; and
+2 (e) State plan means the State Employees Retirement System of the
+3 State of Nebraska.
+4 (2)(a) Except as provided in subsection (3) of this section, an
+5 individual shall become or remain a member of the school plan if:
+6 (i) Such individual is or was previously a school employee or was
+7 employed in an out-of-state school district or a Class V school district;
+8 and
+9 (ii) Such individual becomes an eligible school plan state employee
+10 with a state agency school plan employer.
+11 (b) An individual who is required to participate in the school plan
+12 pursuant to subdivision (2)(a) of this section shall not be deemed to
+13 have terminated employment for school plan purposes if such individual
+14 subsequently provides service to any employer participating in the school
+15 plan, including any school district or educational service unit, or any
+16 state agency school plan employer, within one hundred twenty one hundred
+17 eighty days after ceasing employment except an individual may be
+18 permitted to provide intermittent work as a volunteer or substitute
+19 employee at a school district or an educational service unit as described
+20 in subdivision (2)(a) of section 79-930.
+21 (c) An individual who is required to participate in the school plan
+22 pursuant to subdivision (2)(a) of this section shall not render any
+23 service to another agency of the State of Nebraska within one hundred
+24 twenty days after ceasing employment.
+25 (3)(a) An individual shall participate in the state plan if:
+26 (i) The individual has never previously participated in the school
+27 plan while employed as an eligible school plan state employee with a
+28 state agency school plan employer;
+29 (ii) The individual terminated employment with a school district or
+30 an educational service unit participating in the school plan and retired
+31 or took a distribution pursuant to the School Employees Retirement Act;
+-14-
+
+LB824 LB824
+2026 2026
+1 and
+2 (iii) The individual's employment as an eligible school plan state
+3 employee with a state agency school plan employer began or will begin
+4 within one hundred twenty one hundred eighty days after termination of
+5 employment with the school district or educational service unit.
+6 (b) An individual who is required to participate in the state plan
+7 pursuant to subdivision (3)(a) of this section shall not be deemed to
+8 have terminated employment for state plan purposes if such individual
+9 subsequently provides service to any employer participating in the state
+10 plan, including any state agency school plan employer or an agency of the
+11 State of Nebraska, within one hundred twenty days after ceasing
+12 employment. No such individual shall be permitted to provide intermittent
+13 work as a volunteer or substitute employee as described in subdivision
+14 (2)(a) of section 79-930 to any employer participating in the school plan
+15 for at least one hundred twenty days after ceasing employment.
+16 (4) An individual who previously elected to participate in the
+17 school plan prior to March 4, 2022, while employed as a state school
+18 official and who terminated employment and retired or took a distribution
+19 pursuant to the School Employees Retirement Act, shall not render any
+20 service to:
+21 (a) A school district or an educational service unit participating
+22 in the school plan or a state agency school plan employer within one
+23 hundred twenty one hundred eighty days after terminating employment
+24 except for intermittent work as a volunteer or substitute employee as
+25 described in subdivision (2)(a) of section 79-930; or
+26 (b) Another agency of the State of Nebraska within one hundred
+27 twenty days after terminating employment.
+28 Sec. 3. Section 79-930, Reissue Revised Statutes of Nebraska, is
+29 amended to read:
+30 79-930 (1)(a) A member who experiences a separation from service
+31 with the member's employer but has not submitted a retirement application
+-15-
+
+LB824 LB824
+2026 2026
+1 or a request for distribution pursuant to section 79-955, or received a
+2 retirement benefit, disability retirement benefit, or distribution
+3 pursuant to section 79-955, from the retirement system, may return to
+4 work as a temporary employee, substitute employee, or volunteer for any
+5 employer participating in the retirement system. Such an employee:
+6 (i) Shall be deemed to have incurred a termination for purposes of
+7 sections 79-921, 79-932, 79-933.02 to 79-933.06, and 79-933.08;
+8 (ii) Shall not be deemed to have incurred a termination for purposes
+9 of sections 79-933, 79-951, and 79-955, and shall not be eligible to
+10 receive a retirement benefit, disability retirement benefit, or
+11 distribution pursuant to section 79-955, from the retirement system,
+12 until the member incurs a termination of employment as described in
+13 subdivision (45) of section 79-902; and
+14 (iii) Except as provided in subdivision (1)(b) of this section,
+15 shall not be eligible to contribute to the retirement system pursuant to
+16 section 79-958 or accrue service credit in the retirement system pursuant
+17 to section 79-927.
+18 (b)(i) A member as described in subdivision (1)(a) of this section
+19 who becomes a regular employee for an employer participating in the
+20 retirement system shall immediately begin making contributions pursuant
+21 to section 79-958 on all compensation paid by such employer and accrue
+22 service credit pursuant to section 79-927 for all such service performed
+23 for such employer, including any work as a temporary employee or
+24 substitute employee.
+25 (ii) A member as described in subdivision (1)(a) of this section who
+26 has not established eligibility as a regular employee at another employer
+27 shall not make contributions pursuant to section 79-958 on all
+28 compensation paid by such employer nor accrue service credit pursuant to
+29 section 79-927 for work performed by the member as a temporary employee
+30 or substitute employee for such employer.
+31 (c) Work performed while the member is not contributing to the
+-16-
+
+LB824 LB824
+2026 2026
+1 retirement system pursuant to subdivision (1)(a) of this section shall
+2 not accrue service credit in the retirement system pursuant to section
+3 79-927 and cannot be purchased as service credit under sections 79-933.03
+4 to 79-933.06 and 79-933.08.
+5 (2)(a) A member who experiences a separation from service with the
+6 member's employer and has submitted a retirement application or a request
+7 for distribution pursuant to section 79-955, or received a retirement
+8 benefit, disability retirement benefit, or distribution pursuant to
+9 section 79-955, from the retirement system, shall not be deemed to have
+10 incurred a termination of employment if the member subsequently returns
+11 to work for any employer participating in the retirement system within
+12 one hundred twenty one hundred eighty days after separating from
+13 service. , unless such work is limited to:
+14 (i) Intermittent work as a volunteer or substitute employee. For
+15 purposes of this subsection:
+16 (A) Intermittent work means work provided on a day-to-day basis that
+17 is not greater than eight days of work during a calendar month; and
+18 (B) Day of work means any length of work as a volunteer or
+19 substitute employee provided during a single calendar day; or
+20 (ii) Work as authorized by, and performed in accordance with,
+21 section 79-920.
+22 (b) The one-hundred-twenty-day one-hundred-eighty-day period begins
+23 on the later of:
+24 (i) The date the member experienced a bona fide separation from
+25 service of all employment with all employers participating in the
+26 retirement system; or
+27 (ii) The date the Nebraska Public Employees Retirement Systems
+28 receives the member's retirement application or request for distribution
+29 pursuant to section 79-955.
+30 (c)(i) A member may seek a determination from the director of the
+31 Nebraska Public Employees Retirement Systems that it has been at least
+-17-
+
+LB824 LB824
+2026 2026
+1 one hundred twenty one hundred eighty days since the member satisfied the
+2 requirements described in this subsection. The director shall make such
+3 determination if the member produces clear and convincing evidence that
+4 is received by the director within forty-five days after the later of:
+5 (A) The date the member experienced a bona fide separation of
+6 service of all employment with all employers participating in the
+7 retirement system; or
+8 (B) The date the member's retirement application or request for
+9 distribution pursuant to section 79-955 is received by the Nebraska
+10 Public Employees Retirement Systems.
+11 (ii) A member may appeal the director's determination to the board
+12 within thirty days after receiving such determination.
+13 (iii) The board's determination on the appeal shall be final and
+14 shall not be appealable to any court.
+15 Sec. 4. Section 79-978, Revised Statutes Supplement, 2025, is
+16 amended to read:
+17 79-978 For purposes of the Class V School Employees Retirement Act,
+18 unless the context otherwise requires:
+19 (1) Accumulated contributions means the sum of amounts contributed
+20 by a member of the system together with regular interest credited
+21 thereon;
+22 (2) Actuarial equivalent means the equality in value of the
+23 retirement allowance for early retirement or the retirement allowance for
+24 an optional form of annuity, or both, with the normal form of the annuity
+25 to be paid, as determined by the application of the appropriate actuarial
+26 table, except that use of such actuarial tables shall not effect a
+27 reduction in benefits accrued prior to September 1, 1985, as determined
+28 by the actuarial tables in use prior to such date;
+29 (3) Actuarial tables means:
+30 (a) For determining the actuarial equivalent of any annuities other
+31 than joint and survivorship annuities:
+-18-
+
+LB824 LB824
+2026 2026
+1 (i) For members hired before July 1, 2018, a unisex mortality table
+2 using twenty-five percent of the male mortality and seventy-five percent
+3 of the female mortality from the 1994 Group Annuity Mortality Table with
+4 a One Year Setback and using an interest rate of eight percent compounded
+5 annually; and
+6 (ii) For members hired on or after July 1, 2018, or rehired on or
+7 after July 1, 2018, after termination of employment and being paid a
+8 retirement benefit, the determinations shall be based on a unisex
+9 mortality table and an interest rate specified by (A) the board until
+10 September 1, 2024, or (B) the retirement board beginning on September 1,
+11 2024. Both the mortality table and the interest rate shall be recommended
+12 by the actuary retained pursuant to section 79-984 following an actuarial
+13 experience study, a benefit adequacy study, or a plan valuation. The
+14 mortality table, interest rate, and actuarial factors in effect on the
+15 member's retirement date shall be used to calculate the actuarial
+16 equivalency of any retirement benefit. Such interest rate may be, but is
+17 not required to be, equal to the assumed rate; and
+18 (b) For joint and survivorship annuities:
+19 (i) For members hired before July 1, 2018, a unisex retiree
+20 mortality table using sixty-five percent of the male mortality and
+21 thirty-five percent of the female mortality from the 1994 Group Annuity
+22 Mortality Table with a One Year Setback and using an interest rate of
+23 eight percent compounded annually and a unisex joint annuitant mortality
+24 table using thirty-five percent of the male mortality and sixty-five
+25 percent of the female mortality from the 1994 Group Annuity Mortality
+26 Table with a One Year Setback and using an interest rate of eight percent
+27 compounded annually; and
+28 (ii) For members hired on or after July 1, 2018, or rehired on or
+29 after July 1, 2018, after termination of employment and being paid a
+30 retirement benefit, the determinations shall be based on a unisex
+31 mortality table and an interest rate specified by (A) the board until
+-19-
+
+LB824 LB824
+2026 2026
+1 September 1, 2024, or (B) the retirement board beginning on September 1,
+2 2024. Both the mortality table and the interest rate shall be recommended
+3 by the actuary retained pursuant to section 79-984 following an actuarial
+4 experience study, a benefit adequacy study, or a plan valuation. The
+5 mortality table, interest rate, and actuarial factors in effect on the
+6 member's retirement date shall be used to calculate the actuarial
+7 equivalency of any retirement benefit. Such interest rate may be, but is
+8 not required to be, equal to the assumed rate;
+9 (4) Administrator of the retirement system or administrator means
+10 (a) until September 1, 2024, the person administering the retirement
+11 system who is appointed by the board or (b) beginning on September 1,
+12 2024, the director appointed by the retirement board pursuant to section
+13 84-1503;
+14 (5) Annuitant means any member receiving an allowance;
+15 (6) Annuity means annual payments, for both prior service and
+16 membership service, for life as provided in the Class V School Employees
+17 Retirement Act;
+18 (7) Audit year means the period beginning January 1 in any year and
+19 ending on December 31 of that same year, which is the period of time used
+20 in the preparation of (a) the annual actuarial analysis and valuation and
+21 (b) a financial audit of the retirement system, including the investments
+22 of the retirement system;
+23 (8) Beneficiary means any person entitled to receive or receiving a
+24 benefit by reason of the death of a member;
+25 (9) Board means the board of trustees until July 1, 2021, and the
+26 board of education beginning July 1, 2021, and until September 1, 2024;
+27 (10) Board of education means the board or boards of education of a
+28 school district or districts;
+29 (11) Board of trustees means:
+30 (a) Until September 1, 2024, the entity established pursuant to
+31 section 79-980; and
+-20-
+
+LB824 LB824
+2026 2026
+1 (b) Beginning September 1, 2024, the board of education shall be
+2 deemed to be the successor in interest for all liability associated with
+3 the actions or inactions of the entity identified under subdivision (11)
+4 (a) of this section and as specified in the Class V School Employees
+5 Retirement Act;
+6 (12)(a) Compensation means gross wages or salaries payable to the
+7 member during a fiscal year and includes (i) overtime pay, (ii) member
+8 contributions to the retirement system that are picked up under section
+9 414(h) of the Internal Revenue Code, as defined in section 49-801.01,
+10 (iii) retroactive salary payments paid pursuant to court order,
+11 arbitration, or litigation and grievance settlements, and (iv) amounts
+12 contributed by the member to plans under sections 125, 403(b), and 457 of
+13 the Internal Revenue Code, as defined in section 49-801.01, or any other
+14 section of the code which defers or excludes such amounts from income.
+15 (b) Compensation does not include (i) fraudulently obtained amounts
+16 as determined by the board, (ii) amounts for accrued unused sick leave or
+17 accrued unused vacation leave converted to cash payments, (iii) insurance
+18 premiums converted into cash payments, (iv) reimbursement for expenses
+19 incurred, (v) fringe benefits, (vi) per diems paid as expenses, (vii)
+20 bonuses for services not actually rendered, (viii) early retirement
+21 inducements, (ix) cash awards, (x) severance pay, or (xi) employer
+22 contributions made for the purposes of separation payments made at
+23 retirement and early retirement inducements.
+24 (c) Compensation in excess of the limitations set forth in section
+25 401(a)(17) of the Internal Revenue Code, as defined in section 49-801.01,
+26 shall be disregarded;
+27 (13) Council means the Nebraska Investment Council created and
+28 acting pursuant to section 72-1237;
+29 (14) Creditable service means the sum of the membership service and
+30 the prior service, measured in one-tenth-year increments;
+31 (15) Early retirement date means, for members hired prior to July 1,
+-21-
+
+LB824 LB824
+2026 2026
+1 2016, who have attained age fifty-five, that month and year selected by a
+2 member having at least ten years of creditable service which includes a
+3 minimum of five years of membership service. Early retirement date means,
+4 for members hired on or after July 1, 2016, that month and year selected
+5 by a member having at least five years of membership service and who has
+6 attained age sixty;
+7 (16) Early retirement inducement means, but is not limited to:
+8 (a) A benefit, bonus, or payment to a member by an employer in
+9 exchange for an agreement by the member to retire with a reduced
+10 retirement benefit;
+11 (b) A benefit, bonus, or payment paid to a member by an employer in
+12 addition to the member's retirement benefit;
+13 (c) Lump-sum or installment cash payments by an employer, except
+14 payments for accrued unused leave converted to cash payments;
+15 (d) An additional salary or wage component of any kind that is being
+16 paid by an employer as an incentive to leave employment and not for
+17 personal services performed for which creditable service is granted;
+18 (e) Partial or full employer payment of a member's health, dental,
+19 life, or long-term disability insurance benefits or cash in lieu of such
+20 insurance benefits that extend beyond the member's termination of
+21 employment and contract of employment dates. This subdivision does not
+22 apply to any period during which the member is contributing to the
+23 retirement system and being awarded creditable service; and
+24 (f) Any other form of separation payments made by an employer to a
+25 member at termination, including, but not limited to, purchasing
+26 retirement contracts for the member pursuant to section 79-514, or
+27 depositing money for the member in an account established under section
+28 403(b) of the Internal Revenue Code except for payments for accrued
+29 unused leave;
+30 (17) Employee means the following enumerated persons receiving
+31 compensation from the school district: (a) Teachers, other than
+-22-
+
+LB824 LB824
+2026 2026
+1 substitutes, employed on a written contract basis; (b) administrators
+2 employed on a written contract, agreement, or document basis; and (c)
+3 regular employees;
+4 (18) Employer means a school district participating in a retirement
+5 system established pursuant to the Class V School Employees Retirement
+6 Act;
+7 (19) Fiscal year means the period beginning September 1 in any year
+8 and ending on August 31 of the next succeeding year;
+9 (20) Hire date or date of hire means the first day of compensated
+10 service subject to retirement contributions;
+11 (21) Interest means, for the purchase of service credit, the
+12 purchase of prior service credit, restored refunds, and delayed payments,
+13 the investment return assumption used in the most recent actuarial
+14 valuation;
+15 (22) Member means any employee included in the membership of the
+16 retirement system or any former employee who has made contributions to
+17 the system and has not received a refund;
+18 (23) Membership service means service on or after September 1, 1951,
+19 as an employee of the school district and a member of the system for
+20 which compensation is paid by the school district. Credit for more than
+21 one year of membership service shall not be allowed for service rendered
+22 in any fiscal year. Beginning September 1, 2005, a member shall be
+23 credited with a year of membership service for each fiscal year in which
+24 the member performs one thousand or more hours of compensated service as
+25 an employee of the school district. For an employee who becomes a member
+26 prior to July 1, 2018, an hour of compensated service shall include any
+27 hour for which the member is compensated by the school district during
+28 periods when no service is performed due to vacation or approved leave.
+29 For an employee who becomes a member on or after July 1, 2018, an hour of
+30 compensated service shall include any hour for which the member is
+31 compensated by the school district during periods when no service is
+-23-
+
+LB824 LB824
+2026 2026
+1 performed due to used accrued sick days, used accrued vacation days,
+2 federal and state holidays, and jury duty leave for which the member is
+3 paid full compensation by an employer. If a member performs less than one
+4 thousand hours of compensated service during a fiscal year, one-tenth of
+5 a year of membership service shall be credited for each one hundred hours
+6 of compensated service by the member in such fiscal year. In determining
+7 a member's total membership service, all periods of membership service,
+8 including fractional years of membership service in one-tenth-year
+9 increments, shall be aggregated;
+10 (24) Military service means service in the uniformed services as
+11 defined in 38 U.S.C. 4301 et seq., as such provision existed on March 27,
+12 1997;
+13 (25) Normal retirement date means the end of the month during which
+14 the member attains age sixty-five and has completed at least five years
+15 of membership service;
+16 (26) Participation means qualifying for and making required deposits
+17 to the retirement system during the course of a fiscal year;
+18 (27) Primary beneficiary means the person or persons entitled to
+19 receive or receiving a benefit by reason of the death of a member;
+20 (28) Prior service means service rendered prior to September 1,
+21 1951, for which credit is allowed under section 79-999, service rendered
+22 by retired employees receiving benefits under preexisting systems, and
+23 service for which credit is allowed under sections 79-990, 79-991,
+24 79-994, 79-995, and 79-997;
+25 (29)(a) Regular employee means a person hired on a full-time basis,
+26 which basis shall contemplate a work week of not less than thirty hours,
+27 and who is not (i) a teacher employed on a written contract basis or (ii)
+28 an administrator employed on a written contract, agreement, or document
+29 basis.
+30 (b) Effective September 1, 2021, a person hired by an employer or
+31 under contract to provide service for less than thirty hours per week but
+-24-
+
+LB824 LB824
+2026 2026
+1 who provides service for an average of thirty hours or more per week in
+2 each calendar month of any three calendar months of a fiscal year shall,
+3 beginning with the next full payroll period:
+4 (i) Commence contributions;
+5 (ii) Be deemed a regular employee; and
+6 (iii) Remain a deemed regular employee regardless of hours worked
+7 thereafter;
+8 (30) Regular interest means interest (a) on the total contributions
+9 of the member prior to the close of the last preceding fiscal year, (b)
+10 compounded annually, and (c)(i) beginning September 1, 2016, at a rate
+11 equal to the daily treasury yield curve for one-year treasury securities,
+12 as published by the Secretary of the Treasury of the United States, that
+13 applies on September 1 of each year and (ii) prior to September 1, 2016,
+14 at rates to be determined annually by the board, which shall have the
+15 sole, absolute, and final discretionary authority to make such
+16 determination, except that the rate for any given year in no event shall
+17 exceed the actual percentage of net earnings of the system during the
+18 last preceding fiscal year;
+19 (31) Retirement allowance means the total annual retirement benefit
+20 payable to a member for service or disability;
+21 (32) Retirement application means beginning on and after September
+22 1, 2024, the form approved and provided by the retirement system for
+23 acceptance of a member's request for either regular or disability
+24 retirement;
+25 (33) Retirement board means the Public Employees Retirement Board
+26 created and acting pursuant to section 84-1501;
+27 (34) Retirement date means the date of retirement of a member for
+28 service or disability as fixed by (a) the board for retirements occurring
+29 prior to September 1, 2024, or (b) the retirement board for retirements
+30 occurring on or after September 1, 2024;
+31 (35) Retirement system or system means the School Employees'
+-25-
+
+LB824 LB824
+2026 2026
+1 Retirement System of (corporate name of the school district as described
+2 in section 79-405) as provided for by the act;
+3 (36) School district means an employer participating in a retirement
+4 system established pursuant to the Class V School Employees Retirement
+5 Act;
+6 (37) Secondary beneficiary means the person or persons entitled to
+7 receive or receiving a benefit by reason of the death of all primary
+8 beneficiaries prior to the death of the member. If no primary beneficiary
+9 survives the member, secondary beneficiaries shall be treated in the same
+10 manner as primary beneficiaries;
+11 (38) Solvency means the rate of all contributions required pursuant
+12 to the Class V School Employees Retirement Act is equal to or greater
+13 than the actuarially required contribution rate as annotated in the most
+14 recent valuation report prepared by the actuary retained for the
+15 retirement system as provided in section 79-984;
+16 (39) State investment officer means the person appointed by the
+17 council pursuant to section 72-1240 and acting pursuant to the Nebraska
+18 State Funds Investment Act;
+19 (40) Substitute employee means a person hired by an employer as a
+20 temporary employee to assume the duties of an employee due to a temporary
+21 absence of any employee. Substitute employee does not mean a person hired
+22 as an employee on an ongoing basis to assume the duties of other
+23 employees who are temporarily absent;
+24 (41) Temporary employee means a person hired by an employer who is
+25 not an employee and who is hired to provide service for a limited period
+26 of time to accomplish a specific purpose or task. When such specific
+27 purpose or task is complete, the employment of such temporary employee
+28 shall terminate and in no case shall the temporary employment period
+29 exceed one year in duration;
+30 (42)(a) Termination of employment or termination means occurs on the
+31 date the member experiences a bona fide separation from service of
+-26-
+
+LB824 LB824
+2026 2026
+1 employment with the member's employer, the date of which separation is
+2 the last day of service under the member's contractual agreement or, if
+3 there is no contract or only partial fulfillment of a contract, as
+4 determined by an employer. A member who experiences a separation from
+5 service shall comply with the return-to-work provisions of section 79-992
+6 if the member returns to work for an employer.
+7 (b) A member shall not be deemed to have incurred a termination of
+8 employment if the board determines that, based on the facts and
+9 circumstances, (i) a claimed termination of employment was not a bona
+10 fide separation from service with the employer; (ii) a member was
+11 compensated for a full contractual period when the member stopped working
+12 prior to the end date of the member's employment as determined by the
+13 member's contract or labor agreement; or (iii) a member prearranged a
+14 return to work that violates the Class V School Employees Retirement Act;
+15 and .
+16 (c) Nothing in this subdivision (42) precludes an employer from
+17 adopting a policy which limits or denies employees who have experienced a
+18 separation from service from working as a volunteer or substitute
+19 employee within one hundred eighty days after the employee experiences a
+20 separation from service;
+21 (43) Transfer of management means the transition and transfer of the
+22 general management, administration, and operation of the retirement
+23 system from the board of trustees, board of education, and school
+24 district to the retirement board as described in the Class V School
+25 Employees Retirement Act. Transfer of management does not include:
+26 (a) Transfer of the school district's funding obligations described
+27 in the Class V School Employees Retirement Act or assumption of financial
+28 liability for such funding obligations by (i) the State of Nebraska, (ii)
+29 the retirement board, (iii) the Nebraska Public Employees Retirement
+30 Systems, (iv) any other state entity with duties related to
+31 administration of the retirement system, or (v) the council for its
+-27-
+
+LB824 LB824
+2026 2026
+1 investment duties regarding the assets of the retirement system; or
+2 (b) Merger or consolidation of any Class V school employees
+3 retirement system established under the Class V School Employees
+4 Retirement Act with the School Employees Retirement System of the State
+5 of Nebraska or any other retirement system administered by the retirement
+6 board;
+7 (44) Trustee means a trustee provided for in section 79-980; and
+8 (45) Voluntary service or volunteer means providing bona fide unpaid
+9 service to an employer.
+10 Sec. 5. Section 79-992, Reissue Revised Statutes of Nebraska, is
+11 amended to read:
+12 79-992 (1) A member who has five years or more of creditable
+13 service, excluding years of prior service acquired pursuant to section
+14 79-990, 79-991, 79-994, 79-995, or 79-997, and who terminates his or her
+15 employment may elect to leave his or her contributions in the retirement
+16 system, in which event he or she shall receive a retirement allowance at
+17 normal retirement age based on the annuity earned to the date of such
+18 termination of employment. Such member may elect to receive a retirement
+19 allowance at early retirement age if such member retires at an early
+20 retirement date. Such annuity shall be adjusted in accordance with
+21 section 79-9,100. Upon termination of employment, except on account of
+22 retirement, a member shall be entitled to receive refunds as follows: (a)
+23 An amount equal to the accumulated contributions to the retirement system
+24 by the member; and (b) any contributions made to a previously existing
+25 system which were refundable under the terms of that system. Any member
+26 receiving a refund of contributions shall thereby forfeit and relinquish
+27 all accrued rights in the retirement system including all accumulated
+28 creditable service, except that if any member who has withdrawn his or
+29 her contributions as provided in this section reenters the service of the
+30 district and again becomes a member of the retirement system, he or she
+31 may restore any or all money previously received by him or her as a
+-28-
+
+LB824 LB824
+2026 2026
+1 refund, including the interest on the amount of the restored refund for
+2 the period of his or her absence from the district's service as
+3 determined using the interest rate for interest on such restored refunds,
+4 and he or she shall then again receive credit for that portion of service
+5 which the restored money represents. Such restoration may be made as the
+6 board may direct until September 1, 2024, and as the retirement board may
+7 direct beginning September 1, 2024, through direct payments to the system
+8 or on an installment basis pursuant to a binding irrevocable payroll
+9 deduction authorized between the member and the school district over a
+10 period of not to exceed five years from the date of reemployment.
+11 Interest on delayed payments shall be at the rate of interest for
+12 determining interest on delayed payments by members to the retirement
+13 system. Creditable service may be purchased only in one-tenth-year
+14 increments, starting with the most recent years' salary.
+15 (2) Except as provided in section 79-992.01:
+16 (a)(i) A retired member, or a member described in subdivision (2)(c)
+17 or (d) of this subsection, who returns to employment as or again becomes
+18 an employee of the school district shall again participate in the
+19 retirement system as a new member and shall make contributions to the
+20 retirement system commencing upon reemployment as an employee.
+21 (ii) The retirement annuity of a retired member who returns to
+22 employment with the school district shall continue to be paid by the
+23 retirement system. A retired member who returns to employment as an
+24 employee of the school district shall receive creditable service only for
+25 service performed after his or her return to employment and in no event
+26 shall creditable service which accrues or the compensation paid to the
+27 member after such return to employment after retirement increase the
+28 amount of the member's original retirement annuity;
+29 (b) Upon termination of employment of the reemployed member, the
+30 member shall receive in addition to the retirement annuity which
+31 commenced at the time of the previous retirement (i) if the member has
+-29-
+
+LB824 LB824
+2026 2026
+1 accrued five years or more of creditable service after his or her return
+2 to employment, excluding years of prior service acquired pursuant to
+3 section 79-990, 79-991, 79-994, 79-995, or 79-997, a retirement annuity
+4 as provided in section 79-999 or 79-9,100, as applicable, calculated
+5 solely on the basis of creditable service and final average compensation
+6 accrued and earned after the member's return to employment after his or
+7 her original retirement, and as adjusted to reflect any payment in other
+8 than the normal form or (ii) if the member has not accrued five years or
+9 more of creditable service after his or her return to employment, a
+10 refund equal to the member's accumulated contributions which were
+11 credited to the member after the member's return to employment. In no
+12 event shall the member's creditable service which accrued prior to a
+13 previous retirement be considered as part of the member's creditable
+14 service after his or her return to employment for any purpose of the
+15 Class V School Employees Retirement Act;
+16 (c) A member who experiences a separation from service but has not
+17 submitted a retirement application or request for distribution pursuant
+18 to this section or as described in subdivision (32) of section 79-978, or
+19 received a retirement benefit, disability retirement benefit, or refund
+20 may return to work as a temporary employee, substitute employee, or
+21 volunteer. Such a temporary employee, substitute employee, or volunteer:
+22 (i) Shall be deemed to have incurred a termination of employment for
+23 purposes of section 79-991;
+24 (ii) Shall not be deemed to have incurred a termination of
+25 employment for purposes of this section or section 79-992.01, 79-9,105,
+26 or 79-9,106, or for any other purposes under the Class V School Employees
+27 Retirement Act, and shall not be eligible to receive a retirement
+28 benefit, disability retirement benefit, or distribution pursuant to this
+29 section, until the member incurs a termination of employment as described
+30 in subdivision (42) of section 79-978; and
+31 (iii) Except as provided in subdivision (2)(a)(i) of this section,
+-30-
+
+LB824 LB824
+2026 2026
+1 shall not be eligible to contribute to the retirement system pursuant to
+2 section 79-9,113 or earn membership service credit in the retirement
+3 system as described in subdivision (23) of section 79-978; and
+4 (d)(i) A member who experiences a separation from service and has
+5 submitted a retirement application or request for distribution pursuant
+6 to this section or as described in subdivision (32) of section 79-978, or
+7 received a retirement benefit, disability retirement benefit, or
+8 distribution, shall not be deemed to have incurred a termination of
+9 employment if the member subsequently returns to work for the district
+10 within one hundred twenty one hundred eighty days after separating from
+11 service. , unless such work is limited to:
+12 (A) Bona fide unpaid voluntary service;
+13 (B) Work performed as a substitute employee on an intermittent
+14 basis; or
+15 (C) Work as a temporary employee following a bona fide separation of
+16 service of not less than thirty calendar days and which is provided to
+17 accomplish a specific purpose or task for a limited period not to exceed
+18 one year.
+19 (ii) For purposes of subdivision (2)(d) of this section:
+20 (A) Intermittent basis means work provided on a day-to-day basis
+21 that is not greater than eight days of work during a calendar month; and
+22 (B) Day of work means any length of work as a substitute employee
+23 provided during a single calendar day.
+24 (ii) (iii) The one-hundred-twenty-day one-hundred-eighty-day period
+25 described in subdivision (2)(d)(i) of this section begins on the later
+26 of:
+27 (A) The date the member experienced a bona fide separation from
+28 service of all employment as an employee with the school district; or
+29 (B) The date the board receives the member's retirement application
+30 or request for distribution as described in subdivision (32) of section
+31 79-978.
+-31-
+
+LB824 LB824
+2026 2026
+1 (iii) (iv) A member may seek a determination from the administrator
+2 that it has been at least one hundred twenty one hundred eighty days
+3 since the member satisfied the requirements described in this subdivision
+4 (2)(d). The administrator shall make such determination if the member
+5 produces clear and convincing evidence that is received by the
+6 administrator within forty-five days after the later of:
+7 (A) The date the member experienced a bona fide separation of
+8 service of all employment as an employee with the district; or
+9 (B) The date the board receives the member's retirement application
+10 or request for distribution as described in subdivision (32) of section
+11 79-978.
+12 (iv) (v) A member may appeal the administrator's determination to
+13 the board within thirty days after the determination by the
+14 administrator. The board's determination on appeal shall be final and
+15 shall not be appealable to any court.
+16 (3) In the event a member is entitled to receive a refund of
+17 contributions pursuant to subsection (1) or subdivision (2)(b)(ii) of
+18 this section in an amount greater than one thousand dollars, if the
+19 member does not elect to have the refund paid directly to himself or
+20 herself or transferred to an eligible retirement plan designated by the
+21 member as a direct rollover pursuant to section 79-998, then the refund
+22 of contributions shall be paid in a direct rollover to an individual
+23 retirement plan as designated by the board until September 1, 2024, and
+24 as designated by the retirement board beginning September 1, 2024.
+25 Sec. 6. Original sections 79-920, 79-930, and 79-992, Reissue
+26 Revised Statutes of Nebraska, and sections 79-902 and 79-978, Revised
+27 Statutes Supplement, 2025, are repealed.
+-32-
+
+[DELETED: yLAa 7 R R S o N a s7 a 7 R S S 2 t rtr t t o e u t S ERtB4L62]
+[DELETED: S 1 S 7 R S S 2 ia7t(fa i t S R F t w r it( A e m t e i v o t0a a e t b r u d f o1p2( F a s e h b J 1 2 t3d4r5m6o e p p a s b r i m t7d8(9o0a r b o t a r o c t1d2r3r4b5o6f7t c a e o a r b S8i9r0(1r w b d b t A s o t B4L62]
+[DELETED: Bt t n l q p I t A s o tB B L U C B I i d orb(a( C m g w o s p t tm0(1s2a g s ( a c b t m t3p4d i s 4 o a o s o t c w5d o e s a f i a ( l o a6p7(8a9s0(1f e i ( f b ( p d p a2e3r i ( c a ( s p o (4e5a6(748s9s0l1a4L62]
+[DELETED: o(so(ao( C s m p s f w c ig0s1w2( C s i w d s d v3d4r w a p o t e a w t e5C s d n i l p t t e6u7e a v c s y f w m8c a w a n r b t m s9r0p1a2i t d t r s o s p t a3e i a r s e p t t C 4S5( C b m t i b i b a6a7( D m a i t e i a s8g a b r o a m d p o9m0t m w a a p i t p a w c b1e t r i d o b o a l a i4L62]
+[DELETED: d( D r a m t a p t p( D r d m t f d o t mf t d u w a m r f dr i r o a r a p b trsr0(1( A b b o p t a m i e f a2a3(4m5( L o i c p e p f6a7(8p9p0(1l2i b t e b t m t o3e a c o e d T s d n4a t a p d w t m i c t t5r6(7m a t i b n l t p8r9d04 o t I R C e f p f a1u l o p s c f t m p t4L62]
+[DELETED: s( E a v c m c f y o fp o d e f b u t SEc(u t a i t p w h r s J 110a1i a c b a p s a C V s d o 2s3N S C t B o R o t U o4N5s6a ( w h a t t b f e m i t7r s T s d o a s c t t8r b o f p b t r b t t9a w r r a s a w p b t0d1(2o3e4(5(6( T s o t m t c d t t7t p o s a a s e i w s8c9( I a m h s c f l t t0m1b4L62]
+[DELETED: a(( T s o t m t c d t ft p o s a a s e i w sc(tt(071n2(3n4(5s6(7t8( M m a p w h a a i t S9R0(1t2(3e4( P s m s r a a s e i5t6(7e o h s g a d i s 7 w8s9a m o t S o N o a s t0i ( s o o e e m a1c4L62]
+[DELETED: s d ( a e s u a ( a oeuSt c c b o g f a c ca(uf0h p w A e h a d i t s t1p s f l t t h p w b w p2s3m4t5a6t7n8m9s0(1d2b3J 1 o e y w m b c m q4s5(6w h w h o h a c u s77 t t a o c s w s m h8g9r0(1d4L62]
+[DELETED: stm(p(m w a s a o y o a o o bD( A a l s y o a f a m w0a1a2(3a4t5( A a l s y o a f a m w6a7(8p9( O r t d s b s 4 o0t1( R d m t d f a m2c3i4( R m q f a a a s o5d r a g u t S E6R7(8t r s f a o a m r f e9r0(1B4L62]
+[DELETED: ( R d m ( i t m h temp b t r s o ( i t m h f rd o t m f t d o w t m ted(0o1(2p3(4c p t s 7 F p o t s5c6f7r8p9r0t d o o r e w a t a1S e t e a e w h n2a t a o e y s n b c s3e4( S r a m t t o t s5a6r7p8m T f p s i a a a s t9e0e1t4L62]
+[DELETED: (oot(dt c o e o a e i a p s i te e i a c o e i a p se0y ( t o s s o s t d n1t2t e f a p n e t m ( l o3a b o d o ( m s w p4a5o6s7(8i9t0(1s2(3h4D5s6(7a8t9m0t1(4L62]
+[DELETED: tm i s r a p u a q dr o f w t b p t t S PR A T s o f s s s t sma q d r o I t b p t tsl t t v o b e t t s s ts0t1(2w3l p o t t a a s p o t W4s s p o t i c t e o s5t e s t a i n c s t t6e7(8d9m0c a o i t i n c o o p1f2(3e4t5( A c t w n a b f s f6s7(8m9( A m p a r t w t v t0p1(4L62]
+[DELETED: w t r p o s 7 i t m is e b a e p i t rs(a p w l o d e w h e ss e w o h e d a t ee(0s1S 2 S 7 R R S o N i2a374(5i e s r b t S o N a t6e a s c a f a t o7t8( E s p s e m a i w9s a s p e c a w i ( a0i112a s a i a p c b t a a w i3r t h a c a d i s 7 f t4p5i e b a s a n i a p c b t6a778(9S0(1E o a a o t S o N w e4L62]
+[DELETED: c( S p m t S E R S o tS( E a p i s ( o t s ai(ea(0w1(2p t s ( o t s s n b d t3h t e f s p p i s i4s5p6s7e d a c e e a i m b8p t p i w a a v o s9e0i1(2p t s ( o t s s n r a3s t a a o t S o N w o h4t5(6(7p w e a a e s p s e w 8s9(0a1o4L62]
+[DELETED: a(e w a s a s p e b o w bwe(p t s ( o t s s n b d th t e f s p p i s is0p1S o N w o h t d a c2e3w4(5f6( A i w p e t p i t7s p p t M 4 2 w e a a s s8o9p t t S E R A s n r a0s1(2i t s p o a s a s p e w o3h t o h e d a t e4e f i w a a v o s e a5d6( A a o t S o N w o h7t8S 3 S 7 R R S o N i9a07 ( A m w e a s f s1w4L62]
+[DELETED: or b d r b o dp t s 7 f t r s m r twe(s(o s 7 7 a 7 a s n b e t0r a r b d r b o1d p t s 7 f t r s2u t m i a t o e a d i3s4( E a p i s ( o t s5s6s7t8(9w b a r e f a e p i t0r1t2s3f s e i a w a a t e o4s5(6h7s n m c p t s 7 o a8c9s0o1( W p w t m i n c t t4L62]
+[DELETED: r s p t s ( o t s sn7t(mf d p t s 7 o r a rb d r b o d p ts0i1t2o h t o h e d a s f3s4( I w a a v o s e F5p6(7i8( D o w m a l o w a a v o9s0( W a a b a p i a w1s2(3o4( T d t m e a b f s f5s o a e w a e p i t6r7( T d t N P E R S8r9p0(1N4L62]
+[DELETED: ordi( T d t m e a b f s os o a e w a e p i tr( T d t m r a o r fd p t s 7 i r b t N0P1(2w3( T b d o t a s b f a4s5S 4 S 7 R S S 2 i6a778u9(0b a m o t s t w r i c1t2( A e m t e i v o t3r4a5t6t e t u o s a t s n e 7r8b9(0(1t4L62]
+[DELETED: (uoaa(a J 1 2 a t o e a b p r b t d s b b o a um t a a i r s b ( t b u0S122b3e s a b a s o a p v T4m5m r d s b u t c t a6e7n8(9( F m h b J 1 2 a u r0m t u s p o t m m a1t2M T w a O Y S a u a i r o3e4t u t p o t m m a s5p o t f m f t 1 G A M6T7c8(9a J 1 2 a t o e a b p 0r b t d s b b o a u1m t a a i r s b ( t b u4L62]
+[DELETED: S2be s a b a s o a p v Tmm r d s b u t c t aen( A o t r s o a m0( u S 1 2 t p a t r1s w i a b t b o ( b o S 122384(5( A m a p f b p s a6m7R8(9e0i1(2o3(4b5(6b7(8s9(0( U S 1 2 t e e p t1s4L62]
+[DELETED: ( B S 1 2 t b o e s bdt( o t s a a s i t C V S ER( C m g w o s p t tmc4 o t I R C a d i s 40( r s p p p t c o1a o l a g s a ( a2c3t4s5(6a7a8p c i c p ( r f e9i ( f b ( p d p a e (0b f s n a r ( e r1i ( c a ( s p o ( e2c m f t p o s p m a3r4(546s7( C m t N I C c a8a9(0t1(4L62]
+[DELETED: 2mmfba(( A b b o p t a m b a e ie f a a b t m t r w a r0r1(2a3( L o i c p b a e e4p5(6p b a e a a i t l e a n f7p8(9l0i b t e b t m t o1e a c o e d T s d n2a t a p d w t m i c t t3r4(5m a t i b n l t p6r c f t m p t s 7 o7d84 o t I R C e f p f a9u0( E m t f e p r1c f t s d ( T o t4L62]
+[DELETED: s e o a w c b ( ae o a w c a o d b a (r(s e p t t C V S E RA(a(0s1( I m f t p o s c t2p3t i r a u i t m r a4v5( M m a e i i t m o t6r7t8(9a a e o t s d a a m o t s f0w1o2i a f y B S 1 2 a m s b3c4t5a6p7h8p9F0c s s i a h f w t m i1c b t s d d p w n s i4L62]
+[DELETED: p d t u a s d u a v dfptaoai f y o m s i oi0( M s m s i t u s a1d213(4t5o6(7t8( P b m t p o p e t9r0( P s m s r p t S 1112b r e r b u p s a3s f w c i a u s 7 7475(6w7a8a9b0(1u4L62]
+[DELETED: web((( R a d r e r o h wt(o0c1e2a3a4a r t b d a b t b w s h t5s a a f d a t m s6d7e t a p o n e o t s d t8l9(0p1(21 2 t f a a p b t r s f3a o a m r f e r o d4r5( R b m t P E R B6c7(8s9p0o1( R s o s m t S E4L62]
+[DELETED: Ri(s e p t t C V S E RA(r o r a b b r o t d o a pbs0m1(2t t C V S E R A i e t o g3t4r v r p b t a r f t5r6( S i o m t p a b t7c8S9(0t1a2a a e o a o b t a t d o o3e4(5n6o t t a a s p o t W s s7p8s t a i n c s t t e p9e0(1d t m e a b f s f s o4L62]
+[DELETED: ett i n c o o p f o a c ad b a e A m w e a s fsi(e i t b d t b o t f ac ( a c t o e w n a b0f s f s w t e ( a m w1c2p t t e d o t m e a d b t3m c o l a o ( a m p 4r5a6( N i t s ( p a e f7a8s f s f w a a v o s9e0s1(2g m a a o o t r3s f t b o t b o e a s4d t t r b a d i t C V S5E6(7i8l9t r b ( t N P E R0S ( a o s e w d r t1a o t r s o ( t c f i4L62]
+[DELETED: i( M o c o a C V s er s e u t C V S ERob((s0S 5 S 7 R R S o N i1a27 ( A m w h f y o m o c3s e y o p s a p t s475e6s7n r a b o t a e t t d o s8t9a a e r a i s m r a a e0r d S a s b a i a w1s 7 U t o e e o a o2r3A4b5s6r7a a r i t r s i a a8c9h0d1m r a o a m p r b h o h a 4L62]
+[DELETED: rt p o h o h a f t d s adawbdo o a i b p t a b i pd0p o n t e f y f t d o r1I o d p s b a t r o i f2d i o d p b m t t r3s C s m b p o i o4i5(6(7o8a e o t s d s a p i t9r s a a n m a s m c t t0r1( T r a o a r m w r t2e w t s d s c t b p b t3r s A r m w r t e a a4e5s6s7m a s r t e a r i t8a9( U t o e o t r m t0m s r i a t t r a w1c4L62]
+[DELETED: at e e y o p s a p tsa p i s 7 o 7 a a csahtm o c s a h o h r t e 0r e t t m a c w w1c t t m a t m r t e I n2e s t m c s w a p t 3p r b c a p o t m c4s a h o h r t e f a p o t5C6(7s8t9r0m r t w a a t e s e o1v2(3p4( S n b d t h i a t o5e6o7R A a s n b e t r a r8b9s0i1(4L62]
+[DELETED: ss 7 o e m s c i t rs( A m w e a s f s a hstr a r b d r b od s n b d t h i a t oe0w1s2(3( W p a a s e o a i4b5(6s7a8o9(0( I b m w p o a d b1t2(3p4(5d6o7( T d t m e a b f s f8s9(0o174L62]
+[DELETED: (t i h b a l o h t o h e ds( T a s m s d i t mp c a c e t i r b ta( T d t m e a b f s os(0o172( ( A m m a t a d t3t b w t d a t d b t4a T b d o a s b f a5s6( I t e a m i e t r a r o7c p t s ( o s ( o8t s i a a g t o t d i t9m d n e t h t r p d t h o0h1m2o c s b p i a d r t a i3r4a5S 6  O s 7 7 a 7 R6R S o N a s 7 a 7 R7S4L62]
