@@ -1,0 +1,92 @@
+Title: LEGISLATIVE BILL 837
+Official Title: LEGISLATIVE BILL 837
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+LB837 LB837
+2026 2026
+LEGISLATURE OF NEBRASKA
+ONE HUNDRED NINTH LEGISLATURE
+SECOND SESSION
+Introduced by Jacobson, 42.
+Read first time January 08, 2026
+Committee: Banking, Commerce and Insurance
+1 A BILL FOR AN ACT relating to money; to provide for rounding of certain
+2 transaction amounts as prescribed.
+3 Be it enacted by the people of the State of Nebraska,
+-1-
+LB837 LB837
+2026 2026
+1 Section 1. (1) Any person selling goods or services in a cash
+2 transaction, entering into any transaction that results in a payment or
+3 transfer of cash between the parties to the transaction, or paying cash
+4 wages to an employee as compensation:
+5 (a) Except as provided in subdivision (1)(c) of this section, in any
+6 case in which the total transaction amount, including any taxes, ends
+7 with one, two, six, or seven as the final digit of the number of cents
+8 for the transaction, may round down such number of cents to the nearest
+9 number of cents divisible by five;
+10 (b) In any case in which the total transaction amount, including any
+11 taxes, ends with three, four, eight, or nine as the final digit of the
+12 number of cents for the transaction, may round up such number of cents to
+13 the nearest number of cents divisible by five; and
+14 (c) In any case in which the total transaction amount, including any
+15 taxes, totals one cent or two cents, shall round up the transaction
+16 amount to five cents.
+17 (2) This section shall not apply to any transaction for which
+18 payment is made by any demand or negotiable instrument, electronic fund
+19 transfer, check, gift card, money order, credit card, or other similar
+20 instrument or method.
+-2-
+[DELETED: yJAtB7L62]
+[DELETED: S 1  ( A p s g o s i a cttw(c i w t t t a i a t ewfn0(1t2n3t4(5t t o c o t c s r u t t6a7( T s s n a t a t f w8p9t0i7L62]
+
+
+================================================================================
+
+Raw Text:
+LB837 LB837
+2026 2026
+LEGISLATURE OF NEBRASKA
+ONE HUNDRED NINTH LEGISLATURE
+SECOND SESSION
+LEGISLATIVE BILL 837
+Introduced by Jacobson, 42.
+Read first time January 08, 2026
+Committee: Banking, Commerce and Insurance
+1 A BILL FOR AN ACT relating to money; to provide for rounding of certain
+2 transaction amounts as prescribed.
+3 Be it enacted by the people of the State of Nebraska,
+-1-
+
+LB837 LB837
+2026 2026
+1 Section 1. (1) Any person selling goods or services in a cash
+2 transaction, entering into any transaction that results in a payment or
+3 transfer of cash between the parties to the transaction, or paying cash
+4 wages to an employee as compensation:
+5 (a) Except as provided in subdivision (1)(c) of this section, in any
+6 case in which the total transaction amount, including any taxes, ends
+7 with one, two, six, or seven as the final digit of the number of cents
+8 for the transaction, may round down such number of cents to the nearest
+9 number of cents divisible by five;
+10 (b) In any case in which the total transaction amount, including any
+11 taxes, ends with three, four, eight, or nine as the final digit of the
+12 number of cents for the transaction, may round up such number of cents to
+13 the nearest number of cents divisible by five; and
+14 (c) In any case in which the total transaction amount, including any
+15 taxes, totals one cent or two cents, shall round up the transaction
+16 amount to five cents.
+17 (2) This section shall not apply to any transaction for which
+18 payment is made by any demand or negotiable instrument, electronic fund
+19 transfer, check, gift card, money order, credit card, or other similar
+20 instrument or method.
+-2-
+
+[DELETED: yJAtB7L62]
+[DELETED: S 1  ( A p s g o s i a cttw(c i w t t t a i a t ewfn0(1t2n3t4(5t t o c o t c s r u t t6a7( T s s n a t a t f w8p9t0i7L62]

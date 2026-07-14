@@ -1,0 +1,30 @@
+Title: PDF Document
+Official Title: 
+Number of Sections: 1
+Source: versions - McKinney FA1178
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+FA1178 FA1178
+LB1114 LB1114
+Floor Amendment To LB1114
+Introduced by McKinney, 11.
+Strike Section 74
+-1-
+[DELETED: yM8F4L]
+
+
+================================================================================
+
+Raw Text:
+FA1178 FA1178
+LB1114 LB1114
+Floor Amendment To LB1114
+Introduced by McKinney, 11.
+Strike Section 74
+-1-
+
+[DELETED: yM8F4L]

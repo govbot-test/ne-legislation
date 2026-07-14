@@ -1,0 +1,2398 @@
+Title: LEGISLATIVE BILL 1179
+Official Title: LEGISLATIVE BILL 1179
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 34 sections found
+
+================================================================================
+
+Section 1:
+LB1179 LB1179
+2026 2026
+LEGISLATURE OF NEBRASKA
+ONE HUNDRED NINTH LEGISLATURE
+SECOND SESSION
+Introduced by DeBoer, 10.
+Read first time January 21, 2026
+Committee: Executive Board
+1 A BILL FOR AN ACT relating to the Legislature; to amend sections 2-409,
+2 2-3226.01, 2-3414, 37-431, 37-1406, 46-1305, 50-447, 50-448, 54-642,
+3 72-2008, 84-120, 86-331, 86-333, 86-515, and 86-524, Reissue Revised
+4 Statutes of Nebraska, sections 2-3615, 39-2825, and 66-2305, Revised
+5 Statutes Cumulative Supplement, 2024, and sections 46-1304, 50-1601,
+6 61-227, 61-520, 70-1003, 81-15,327, 81-1604, and 86-1068, Revised
+7 Statutes Supplement, 2025; to change references relating to the
+8 Agriculture Committee of the Legislature, the Natural Resources
+9 Committee of the Legislature, and the Transportation and
+10 Telecommunications Committee of the Legislature and the chairpersons
+11 of such committees for purposes of implementing renamed and merged
+12 standing committee structures; to add references to the
+13 Telecommunications and Technology Committee of the Legislature; to
+14 harmonize provisions; to provide an operative date; and to repeal
+15 the original sections.
+16 Be it enacted by the people of the State of Nebraska,
+-1-
+LB1179 LB1179
+2026 2026
+1 Section 1. Section 2-409, Reissue Revised Statutes of Nebraska, is
+2 amended to read:
+3 2-409 (1) The department shall provide technical and legal
+4 assistance in the formation of a producer learning community comprised of
+5 active agricultural producers, landowners, and others who have an
+6 interest in soil health and water quality. The department shall assist
+7 the producer learning community in building awareness and knowledge
+8 relating to soil health and water quality to guide agricultural producers
+9 and landowners in making informed decisions in order to bring about a
+10 more rapid and widespread adoption of best management practices. The
+11 department shall hire a facilitator to lead a collaborative effort to
+12 organize the producer learning community and assist the producer learning
+13 community in acquiring gifts, grants, and sponsorships. The department
+14 shall authorize the facilitator to serve as an ex officio member of the
+15 producer learning community and may locate the facilitator outside of the
+16 city of Lincoln.
+17 (2) The department may partner or contract with any entity or
+18 entities that have resources that would assist in the formation of the
+19 producer learning community, including, but not limited to, the
+20 University of Nebraska and any association of natural resources
+21 districts. The department may also collaborate with the Corn Development,
+22 Utilization, and Marketing Board, the Soybean Development, Utilization,
+23 and Marketing Board, the Grain Sorghum Development, Utilization, and
+24 Marketing Board, the Nebraska Wheat Development, Utilization, and
+25 Marketing Board, and any private farm and ranch associations or
+26 membership organization.
+27 (3) Because of the state's diversity of soils, topography, rainfall,
+28 cropping systems, and other environmental factors, one set of healthy
+29 soil management practices will not fit the entire state and such
+30 practices will differ by region. The department shall divide the state
+31 into different regions in which to establish demonstration and research
+-2-
+LB1179 LB1179
+2026 2026
+1 farms that are representative of each region's particular agricultural
+2 diversity. In establishing such regions, the department may use the land
+3 management areas of the Natural Resources Conservation Service of the
+4 United States Department of Agriculture, the state's natural resources
+5 district boundaries, and the Nebraska Extension Engagement Zones of the
+6 University of Nebraska Institute of Agriculture and Natural Resources as
+7 guidance in establishing boundaries. The department may enter into lease
+8 agreements with private landowners for the purpose of establishing
+9 demonstration and research farms.
+10 (4) Beginning in 2022 and through 2027, the department shall submit
+11 an annual report on or before December 31 to the Governor and
+12 electronically to the Agriculture Committee of the Legislature and the
+13 Natural Resources Committee of the Legislature to report on the status
+14 and progress of implementing the Resilient Soils and Water Quality Act
+15 and any impacts and accomplishments made in protecting and improving soil
+16 and water quality across the state.
+17 Sec. 2. Section 2-3226.01, Reissue Revised Statutes of Nebraska, is
+18 amended to read:
+19 2-3226.01 (1) In order to implement its duties and obligations under
+20 the Nebraska Ground Water Management and Protection Act and in addition
+21 to other powers authorized by law, the board of a district with
+22 jurisdiction that is part of a river basin for which the district has, in
+23 accordance with section 46-715, adopted an integrated management plan
+24 which references section 2-3226.04 and explicitly states its intent in
+25 the plan to utilize qualified projects described in section 2-3226.04 may
+26 issue negotiable bonds and refunding bonds of the district and entitled
+27 river-flow enhancement bonds, with terms determined appropriate by the
+28 board, payable by (a) funds granted to such district by the state or
+29 federal government for one or more qualified projects, (b) the occupation
+30 tax authorized by section 2-3226.05, or (c) the levy authorized by
+31 section 2-3225. The district may issue the bonds or refunding bonds
+-3-
+LB1179 LB1179
+2026 2026
+1 directly, or such bonds may be issued by any joint entity as defined in
+2 section 13-803 whose member public agencies consist only of qualified
+3 natural resources districts or by any joint public agency as defined in
+4 section 13-2503 whose participating public agencies consist only of
+5 qualified natural resources districts, in connection with any joint
+6 project which is to be owned, operated, or financed by the joint entity
+7 or joint public agency for the benefit of its member natural resources
+8 districts. For the payment of such bonds or refunding bonds, the district
+9 may pledge one or more permitted payment sources.
+10 (2) Within forty-five days after receipt of a written request by the
+11 Agriculture and Natural Resources Committee of the Legislature, the
+12 qualified natural resources districts shall submit an electronic report
+13 to the committee containing an explanation of existing or planned
+14 activities for river-flow enhancement, the revenue source for
+15 implementing such activities, and a description of the estimated benefit
+16 or benefits to the district or districts.
+17 (3) If a district uses the proceeds of a bond issued pursuant to
+18 this section for the purposes described in subdivision (1) of section
+19 2-3226.04 or the state uses funds for those same purposes, the agreement
+20 to acquire water rights by purchase or lease pursuant to such subdivision
+21 shall identify (a) the method of payment, (b) the distribution of funds
+22 by the party or parties receiving payments, (c) the water use or rights
+23 subject to the agreement, and (d) the water use or rights allowed by the
+24 agreement. If any irrigation district is party to the agreement, the
+25 irrigation district shall allocate funds received under such agreement
+26 among its users or members in a reasonable manner, giving consideration
+27 to the benefits received and the value of the rights surrendered for the
+28 specified contract period.
+29 Sec. 3. Section 2-3414, Reissue Revised Statutes of Nebraska, is
+30 amended to read:
+31 2-3414 The director shall request a hearing by the Legislature's
+-4-
+LB1179 LB1179
+2026 2026
+1 Committee on Agriculture and Natural Resources when petitioned by either
+2 fifteen percent of the egg or turkey producers or any number of producers
+3 representing thirty percent of the eggs or turkeys upon which fees are
+4 being collected to determine whether or not there is need to amend or
+5 repeal sections 2-3401 to 2-3416.
+6 Sec. 4. Section 2-3615, Revised Statutes Cumulative Supplement,
+7 2024, is amended to read:
+8 2-3615 (1) The membership districts are as follows:
+9 (a) District 1. The counties of Butler, Saunders, Douglas, Sarpy,
+10 Seward, Lancaster, Cass, Otoe, Saline, Jefferson, Gage, Johnson, Nemaha,
+11 Pawnee, and Richardson;
+12 (b) District 2. The counties of Adams, Clay, Fillmore, Franklin,
+13 Webster, Nuckolls, and Thayer;
+14 (c) District 3. The counties of Merrick, Polk, Hamilton, and York;
+15 (d) District 4. The counties of Knox, Cedar, Dixon, Dakota, Pierce,
+16 Wayne, Thurston, Madison, Stanton, Cuming, Burt, Colfax, Dodge, and
+17 Washington;
+18 (e) District 5. The counties of Sherman, Howard, Dawson, Buffalo,
+19 and Hall;
+20 (f) District 6. The counties of Hayes, Frontier, Gosper, Phelps,
+21 Kearney, Hitchcock, Red Willow, Furnas, and Harlan;
+22 (g) District 7. The counties of Boyd, Holt, Antelope, Garfield,
+23 Wheeler, Boone, Platte, Valley, Greeley, and Nance; and
+24 (h) District 8. The counties of Sioux, Dawes, Box Butte, Sheridan,
+25 Scotts Bluff, Banner, Kimball, Morrill, Cheyenne, Garden, Deuel, Cherry,
+26 Keya Paha, Brown, Rock, Grant, Hooker, Thomas, Blaine, Loup, Arthur,
+27 McPherson, Logan, Custer, Keith, Lincoln, Perkins, Chase, and Dundy.
+28 (2) The board may provide recommendations to the Agriculture and
+29 Natural Resources Committee of the Legislature for potential changes to
+30 the list of counties that make up each membership district.
+31 Sec. 5. Section 37-431, Reissue Revised Statutes of Nebraska, is
+-5-
+LB1179 LB1179
+2026 2026
+1 amended to read:
+2 37-431 (1)(a) The Nebraska Habitat Fund is created. The commission
+3 shall remit fees received for annual and multiple-year habitat stamps and
+4 annual and multiple-year Nebraska migratory waterfowl stamps to the State
+5 Treasurer for credit to the Nebraska Habitat Fund. Any money in the fund
+6 available for investment shall be invested by the state investment
+7 officer pursuant to the Nebraska Capital Expansion Act and the Nebraska
+8 State Funds Investment Act. Up to twenty-five percent of the annual
+9 receipts of the fund may be spent by the commission to provide access to
+10 private wildlife lands and habitat areas, and the remainder of the fund
+11 shall not be spent until the commission has presented a habitat plan to
+12 the Committee on Appropriations of the Legislature for its approval.
+13 (b) Fees received for lifetime habitat stamps and lifetime Nebraska
+14 migratory waterfowl stamps under the Game Law shall be credited to the
+15 Nebraska Habitat Fund. Twenty-five percent of the fees for such stamps
+16 shall not be expended but may be invested by the state investment officer
+17 pursuant to the Nebraska Capital Expansion Act and the Nebraska State
+18 Funds Investment Act. Income from such investments may be expended by the
+19 commission pursuant to section 37-432.
+20 (2)(a) The Nebraska Aquatic Habitat Fund is created. The commission
+21 shall remit fees received for annual and multiple-year aquatic habitat
+22 stamps and one dollar of the one-day fishing permit fee as provided in
+23 section 37-426 to the State Treasurer for credit to the Nebraska Aquatic
+24 Habitat Fund. Any money in the fund available for investment shall be
+25 invested by the state investment officer pursuant to the Nebraska Capital
+26 Expansion Act and the Nebraska State Funds Investment Act. Up to thirty
+27 percent of the annual receipts of the fund may be spent by the commission
+28 to provide public waters angler access enhancements and to provide
+29 funding for the administration of programs related to aquatic habitat and
+30 public waters angler access enhancements, and the remainder of the fund
+31 shall not be spent until the commission has presented a habitat plan to
+-6-
+LB1179 LB1179
+2026 2026
+1 the Committee on Appropriations and the Committee on Agriculture and
+2 Natural Resources of the Legislature for their approval.
+3 (b) Fees received for lifetime aquatic habitat stamps shall be
+4 credited to the Nebraska Aquatic Habitat Fund and shall not be expended
+5 but may be invested by the state investment officer pursuant to the
+6 Nebraska Capital Expansion Act and the Nebraska State Funds Investment
+7 Act. Income from such investments may be expended by the commission
+8 pursuant to section 37-432.
+9 (3) The secretary of the commission and any county clerk or public
+10 official designated to sell habitat stamps, aquatic habitat stamps, or
+11 Nebraska migratory waterfowl stamps shall be liable upon their official
+12 bonds or equivalent commercial insurance policy for failure to remit the
+13 money from the sale of the stamps, as required by sections 37-426 to
+14 37-433, coming into their hands. Any agent who receives stamp fees and
+15 who fails to remit the fees to the commission within a reasonable time
+16 after demand by the commission shall be liable to the commission in
+17 damages for double the amount of the funds wrongfully withheld. Any agent
+18 who purposefully fails to remit such fees with the intention of
+19 converting them is guilty of theft. The penalty for such violation shall
+20 be determined by the amount converted as specified in section 28-518.
+21 Sec. 6. Section 37-1406, Reissue Revised Statutes of Nebraska, is
+22 amended to read:
+23 37-1406 (1) The adaptive management plan required under section
+24 37-1404 shall be updated at least once every three years following its
+25 initial development. The plan shall be submitted to the Governor and the
+26 Agriculture and Natural Resources Committee of the Legislature. The plan
+27 submitted to the committee shall be submitted electronically.
+28 (2) The Nebraska Invasive Species Council shall submit an annual
+29 report of its activities to the Governor and the Agriculture and Natural
+30 Resources Committee of the Legislature by December 15 of each year. The
+31 annual report shall include an evaluation of progress made in the
+-7-
+LB1179 LB1179
+2026 2026
+1 preceding year. The report submitted to the committee shall be submitted
+2 electronically.
+3 (3) The council shall complete the initial adaptive management plan
+4 within three years after April 6, 2012.
+5 (4) Prior to the start of the 2015 legislative session, the council
+6 shall submit electronically a report to the Agriculture and Natural
+7 Resources Committee of the Legislature that makes recommendations as to
+8 the extension or modification of the council.
+9 (5) The council may establish advisory and technical subcommittees
+10 that the council considers necessary to aid and advise it in the
+11 performance of its functions.
+12 Sec. 7. Section 39-2825, Revised Statutes Cumulative Supplement,
+13 2024, is amended to read:
+14 39-2825 (1) A public-private partnership delivery method may be used
+15 for projects under the Transportation Innovation Act as provided in this
+16 section and rules and regulations adopted and promulgated pursuant to
+17 this section only to the extent allowed under the Constitution of
+18 Nebraska. State contracts using this method shall be awarded by
+19 competitive negotiation.
+20 (2) A contracting agency utilizing a public-private partnership
+21 shall continue to be responsible for oversight of any function that is
+22 delegated to or otherwise performed by a private partner.
+23 (3) On or before July 1, 2023, the Director-State Engineer shall
+24 adopt and promulgate rules and regulations setting forth criteria to be
+25 used in determining when a public-private partnership is to be used for a
+26 particular project. The rules and regulations shall reflect the intent of
+27 the Legislature to promote and encourage the use of public-private
+28 partnerships in the State of Nebraska. The Director-State Engineer shall
+29 consult with design-builders, progressive design-builders, construction
+30 managers, other contractors and design professionals, including engineers
+31 and architects, and other appropriate professionals during the
+-8-
+LB1179 LB1179
+2026 2026
+1 development of the rules and regulations.
+2 (4) A request for proposals for a project utilizing a public-private
+3 partnership shall include at a minimum:
+4 (a) The parameters of the proposed public-private partnership
+5 agreement;
+6 (b) The duties and responsibilities to be performed by the private
+7 partner or private partners;
+8 (c) The methods of oversight to be employed by the contracting
+9 agency;
+10 (d) The duties and responsibilities that are to be performed by the
+11 contracting agency and any other parties to the contract;
+12 (e) The evaluation factors and the relative weight of each factor to
+13 be used in the scoring of awards;
+14 (f) Plans for financing and operating the project and the revenues,
+15 service payments, bond financings, and appropriations of public funds
+16 needed for the qualifying project;
+17 (g) Comprehensive documentation of the experience, capabilities,
+18 capitalization and financial condition, and other relevant qualifications
+19 of the private entity submitting the proposal;
+20 (h) The ability of a private partner or private partners to quickly
+21 respond to the needs presented in the request for proposals and the
+22 importance of economic development opportunities represented by the
+23 project. In evaluating proposals, preference shall be given to a plan
+24 that includes the involvement of small businesses as subcontractors, to
+25 the extent that small businesses can provide services in a competitive
+26 manner, unless any preference interferes with the qualification for
+27 federal or other funds; and
+28 (i) Other information required by the contracting agency to evaluate
+29 the proposals submitted and the overall proposed public-private
+30 partnership.
+31 (5) A private entity desiring to be a private partner shall
+-9-
+LB1179 LB1179
+2026 2026
+1 demonstrate to the satisfaction of the contracting agency that it is
+2 capable of performing any duty, responsibility, or function it may be
+3 authorized or directed to perform as a term or condition of the public-
+4 private partnership agreement.
+5 (6) A request for proposals may be canceled, or all proposals may be
+6 rejected, if it is determined in writing that such action is taken in the
+7 best interest of the State of Nebraska and approved by the purchasing
+8 officer.
+9 (7) Upon execution of a public-private partnership agreement, the
+10 contracting agency shall ensure that the contract clearly identifies that
+11 a public-private partnership is being utilized.
+12 (8) The department shall:
+13 (a) Adhere to the rules and regulations adopted and promulgated
+14 under this section when utilizing a public-private partnership for
+15 financing capital projects; and
+16 (b) Electronically report annually to the Appropriations Committee
+17 of the Legislature and the Transportation and Telecommunications
+18 Committee of the Legislature regarding private-public partnerships which
+19 have been considered or are approved pursuant to this section.
+20 Sec. 8. Section 46-1304, Revised Statutes Supplement, 2025, is
+21 amended to read:
+22 46-1304 The Department of Water, Energy, and Environment shall
+23 prepare a report outlining the extent of ground water quality monitoring
+24 conducted by natural resources districts during the preceding calendar
+25 year. The department shall analyze the data collected for the purpose of
+26 determining whether or not ground water quality is degrading or improving
+27 and shall present the results electronically to the Agriculture and
+28 Natural Resources Committee of the Legislature beginning December 1,
+29 2001, and each year thereafter. The districts shall submit in a timely
+30 manner all ground water quality monitoring data collected to the
+31 department or its designee. The department shall use the data submitted
+-10-
+LB1179 LB1179
+2026 2026
+1 by the districts in conjunction with all other readily available and
+2 compatible data for the purposes of the annual ground water quality trend
+3 analysis.
+4 Sec. 9. Section 46-1305, Reissue Revised Statutes of Nebraska, is
+5 amended to read:
+6 46-1305 Each natural resources district shall submit electronically
+7 an annual report to the Agriculture and Natural Resources Committee of
+8 the Legislature detailing all water quality programs conducted by the
+9 district in the preceding calendar year. The report shall include the
+10 funds received and expended for water quality projects and a listing of
+11 any unfunded projects. The first report shall be submitted on or before
+12 December 1, 2001, and then each December 1 thereafter.
+13 Sec. 10. Section 50-447, Reissue Revised Statutes of Nebraska, is
+14 amended to read:
+15 50-447 (1) It is the intent of the Legislature to support and
+16 facilitate a study by the Agriculture and Natural Resources Committee of
+17 the Legislature to identify policy instruments available to the
+18 Legislature and the people of Nebraska, including, as appropriate, but
+19 not necessarily requiring or limited to, modification of Article XII,
+20 section 8, of the Constitution of Nebraska, in order to foster and
+21 enhance legal, social, and economic conditions in Nebraska consistent
+22 with and which advance those state interests that exist in the structure,
+23 development, and progress of agricultural production.
+24 (2) Within the limits of funds appropriated for such purpose, the
+25 Executive Board of the Legislative Council may, in coordination and
+26 cooperation with the Agriculture and Natural Resources Committee of the
+27 Legislature, commission experts in the fields of agricultural economics,
+28 agricultural law, commerce clause jurisprudence, and other areas of study
+29 and practice to provide assistance, specific research or reports, or
+30 presentations in order to assist the Agriculture and Natural Resources
+31 Committee of the Legislature in carrying out the intent of the
+-11-
+LB1179 LB1179
+2026 2026
+1 Legislature under this section.
+2 Sec. 11. Section 50-448, Reissue Revised Statutes of Nebraska, is
+3 amended to read:
+4 50-448 (1) It is the intent of the Legislature that the Attorney
+5 General perform, acquire, and otherwise cause to be made available such
+6 research as may be appropriate to inform and assist the Agriculture and
+7 Natural Resources Committee of the Legislature in identifying policy
+8 instruments available to the Legislature and the people of Nebraska,
+9 including, as appropriate, but not necessarily requiring or limited to,
+10 modification of Article XII, section 8, of the Constitution of Nebraska,
+11 in order to foster and enhance legal, social, and economic conditions in
+12 Nebraska consistent with and which advance those state interests that
+13 exist in the structure, development, and progress of agricultural
+14 production in Nebraska.
+15 (2) The Attorney General may contract with experts in the fields of
+16 agricultural economics, agricultural law, commerce clause jurisprudence,
+17 and other areas of study and practice to assist the Attorney General in
+18 carrying out the intent of the Legislature under this section.
+19 Sec. 12. Section 50-1601, Revised Statutes Supplement, 2025, is
+20 amended to read:
+21 50-1601 (1) The Infrastructure Review Task Force is created.
+22 (2) The task force shall:
+23 (a) Review and analyze Nebraska's transportation infrastructure
+24 network;
+25 (b) Examine and consider Nebraska's historic transportation
+26 infrastructure development efforts and expected future transportation
+27 infrastructure needs;
+28 (c) Utilize information and research available from the annual
+29 report on the needs of the state highway system prepared by the
+30 Department of Transportation and any other information or resources
+31 available to the department;
+-12-
+LB1179 LB1179
+2026 2026
+1 (d) Examine the status and condition of Nebraska's transportation
+2 infrastructure with consideration given to highway safety concerns and
+3 make recommendations as to how Nebraska might maintain and ensure safe
+4 transportation infrastructure now and in the future;
+5 (e) Consider transportation through the lens of its economic impact
+6 on Nebraska; and
+7 (f) Research any federal funding that may be available to Nebraska
+8 and make recommendations as to how Nebraska might obtain and use such
+9 funds.
+10 (3)(a) The task force consists of the following members:
+11 (i) The Governor;
+12 (ii) A designee of the Governor;
+13 (iii) The chairperson of the Revenue Committee of the Legislature;
+14 (iv) The chairperson of the Transportation and Telecommunications
+15 Committee of the Legislature;
+16 (v) The Speaker of the Legislature;
+17 (vi) The Director-State Engineer;
+18 (vii) The Tax Commissioner; and
+19 (viii) Three members of the Legislature appointed by the Executive
+20 Board of the Legislative Council.
+21 (b) Members of the task force who are not members of the Legislature
+22 shall be nonvoting, ex officio members.
+23 (4) The chairperson of the task force shall be the chairperson of
+24 the Revenue Committee of the Legislature. Any staff support needed for
+25 the task force shall be fulfilled by the staff of the Revenue Committee
+26 of the Legislature.
+27 (5) The members of the task force shall serve on the task force
+28 without compensation.
+29 (6) On or before December 1 of each year, the task force shall
+30 submit a report containing the results of its work study and its
+31 recommendations, if any, together with drafts of legislation necessary to
+-13-
+LB1179 LB1179
+2026 2026
+1 carry out its recommendations. The reports shall be submitted
+2 electronically to the Clerk of the Legislature.
+3 Sec. 13. Section 54-642, Reissue Revised Statutes of Nebraska, is
+4 amended to read:
+5 54-642 On or before November 1 of each year, the department shall
+6 submit electronically a report to the Legislature in sufficient detail to
+7 document all costs incurred in the previous fiscal year in carrying out
+8 the Commercial Dog and Cat Operator Inspection Act. The report shall
+9 identify costs incurred by the department to administer the act and shall
+10 detail costs incurred by primary activity. The department shall also
+11 provide a breakdown by category of all revenue credited to the Commercial
+12 Dog and Cat Operator Inspection Program Cash Fund in the previous fiscal
+13 year. The Agriculture and Natural Resources Committee and Appropriations
+14 Committee of the Legislature shall review the report to ascertain program
+15 activity levels and to determine funding requirements of the program.
+16 Sec. 14. Section 61-227, Revised Statutes Supplement, 2025, is
+17 amended to read:
+18 61-227 The Department of Water, Energy, and Environment shall
+19 convene a plan development group which shall be housed and staffed for
+20 administrative purposes within such department. The Department of Water,
+21 Energy, and Environment shall engage with federal, state, and local
+22 agency and community stakeholders in the development of the state flood
+23 mitigation plan, including, but not limited to, the Department of
+24 Transportation, the Department of Economic Development, the Department of
+25 Agriculture, the Nebraska Emergency Management Agency, natural resources
+26 districts, the United States Department of Agriculture, the United States
+27 Army Corps of Engineers, the United States Geological Survey, the Federal
+28 Emergency Management Agency, the University of Nebraska, representatives
+29 of counties, municipalities, and other political subdivisions, and the
+30 Agriculture and Natural Resources Committee of the Legislature. The
+31 Department of Water, Energy, and Environment may engage other sources to
+-14-
+LB1179 LB1179
+2026 2026
+1 provide technical expertise as needed.
+2 Sec. 15. Section 61-520, Revised Statutes Supplement, 2025, is
+3 amended to read:
+4 61-520 (1) A public-private partnership delivery method may be used
+5 for projects under the Public Water and Natural Resources Project
+6 Contracting Act as provided in this section and rules and regulations
+7 adopted and promulgated pursuant to this section only to the extent
+8 allowed under the Constitution of Nebraska. State contracts using this
+9 method shall be awarded by competitive negotiation.
+10 (2) The department utilizing a public-private partnership shall
+11 continue to be responsible for oversight of any function that is
+12 delegated to or otherwise performed by a private partner.
+13 (3) On or before July 1, 2024, the Director of Water, Energy, and
+14 Environment shall adopt and promulgate rules and regulations setting
+15 forth criteria to be used in determining when a public-private
+16 partnership is to be used for a particular project. The rules and
+17 regulations shall reflect the intent of the Legislature to promote and
+18 encourage the use of public-private partnerships in the State of
+19 Nebraska. The Director of Water, Energy, and Environment shall consult
+20 with design-builders, progressive design-builders, construction managers,
+21 other contractors and design professionals, including engineers and
+22 architects, and other appropriate professionals during the development of
+23 the rules and regulations.
+24 (4) A request for proposals for a project utilizing a public-private
+25 partnership shall include at a minimum:
+26 (a) The parameters of the proposed public-private partnership
+27 agreement;
+28 (b) The duties and responsibilities to be performed by the private
+29 partner or private partners;
+30 (c) The methods of oversight to be employed by the department;
+31 (d) The duties and responsibilities that are to be performed by the
+-15-
+LB1179 LB1179
+2026 2026
+1 department and any other parties to the contract;
+2 (e) The evaluation factors and the relative weight of each factor to
+3 be used in the scoring of awards;
+4 (f) Plans for financing and operating the project and the revenue,
+5 service payments, bond financings, and appropriations of public funds
+6 needed for the qualifying project;
+7 (g) Comprehensive documentation of the experience, capabilities,
+8 capitalization and financial condition, and other relevant qualifications
+9 of the private entity submitting the proposal;
+10 (h) The ability of a private partner or private partners to quickly
+11 respond to the needs presented in the request for proposals and the
+12 importance of economic development opportunities represented by the
+13 project. In evaluating proposals, preference shall be given to a plan
+14 that includes the involvement of small businesses as subcontractors, to
+15 the extent that small businesses can provide services in a competitive
+16 manner, unless any preference interferes with the qualification for
+17 federal or other funds; and
+18 (i) Other information required by the department to evaluate the
+19 proposals submitted and the overall proposed public-private partnership.
+20 (5) A private entity desiring to be a private partner shall
+21 demonstrate to the satisfaction of the department that it is capable of
+22 performing any duty, responsibility, or function it may be authorized or
+23 directed to perform as a term or condition of the public-private
+24 partnership agreement.
+25 (6) A request for proposals may be canceled, or all proposals may be
+26 rejected, if it is determined in writing that such action is taken in the
+27 best interest of the State of Nebraska and approved by the purchasing
+28 officer.
+29 (7) Upon execution of a public-private partnership agreement, the
+30 department shall ensure that the contract clearly identifies that a
+31 public-private partnership is being utilized.
+-16-
+LB1179 LB1179
+2026 2026
+1 (8) The department shall:
+2 (a) Adhere to the rules and regulations adopted and promulgated
+3 under this section when utilizing a public-private partnership for
+4 financing capital projects; and
+5 (b) Electronically report annually to the Agriculture and Natural
+6 Resources Committee of the Legislature regarding private-public
+7 partnerships which have been considered or are approved pursuant to this
+8 section.
+9 Sec. 16. Section 66-2305, Revised Statutes Cumulative Supplement,
+10 2024, is amended to read:
+11 66-2305 (1) The department shall create the Nuclear and Hydrogen
+12 Industry Work Group.
+13 (2) The work group shall consist of the following twelve members:
+14 (a) One representative of the Nebraska community college system;
+15 (b) One representative of the Nebraska state college system;
+16 (c) Two representatives of the nuclear industry;
+17 (d) Two representatives of the hydrogen industry;
+18 (e) One representative of a public power district;
+19 (f) Two at-large members;
+20 (g) The Director of Economic Development or a designee of the
+21 director;
+22 (h) The chairperson of the Agriculture and Natural Resources
+23 Committee of the Legislature or a designee of the chairperson; and
+24 (i) The chairperson of the Government, Military and Veterans Affairs
+25 Committee of the Legislature or a designee of the chairperson.
+26 (3) The work group members described in subdivisions (2)(a) through
+27 (f) of this section shall be appointed by the Governor. The work group
+28 members described in subdivisions (2)(h) and (i) of this section shall
+29 serve as ex officio, nonvoting members.
+30 (4)(a) Each work group member described in subdivisions (2)(a)
+31 through (f) of this section may receive a per diem of sixty dollars for
+-17-
+LB1179 LB1179
+2026 2026
+1 each day such member attends a meeting of the work group or is engaged in
+2 matters concerning the work group, except that no work group member shall
+3 receive more than one thousand dollars in per diems per year under this
+4 subdivision.
+5 (b) Each such work group member shall be reimbursed for travel and
+6 lodging expenses for the performance of such member's duties while
+7 carrying out the Nuclear and Hydrogen Development Act as provided in
+8 sections 81-1174 to 81-1177 to be paid out of the Nuclear and Hydrogen
+9 Development Fund.
+10 Sec. 17. Section 70-1003, Revised Statutes Supplement, 2025, is
+11 amended to read:
+12 70-1003 (1)(a) There is hereby established an independent board to
+13 be known as the Nebraska Power Review Board. The board shall consist of
+14 five members, including at least one engineer, at least one attorney, and
+15 three additional persons. No more than one person who is or who has
+16 within four years preceding such person's appointment been either a
+17 director, an officer, or an employee of any electric utility or an
+18 elective state officer shall serve on the board at the same time. Any
+19 board member who previously was either a director, an officer, or an
+20 employee of any electric utility within four years preceding such board
+21 member's appointment shall refrain from taking any action or making any
+22 decision in any proceeding before the board that involves such electric
+23 utility for a period of four years after the date such board member
+24 ceased being a director, an officer, or an employee of such electric
+25 utility.
+26 (b) Members of the board shall be appointed by the Governor subject
+27 to the approval of the Legislature. Upon expiration of the terms of the
+28 members first appointed, the successors shall be appointed for terms of
+29 four years. No member of the board shall serve more than three
+30 consecutive terms. Any vacancy on the board arising other than from the
+31 expiration of a term shall be filled by appointment for the unexpired
+-18-
+LB1179 LB1179
+2026 2026
+1 portion of the term, and any person appointed to fill a vacancy on the
+2 board shall be eligible for reappointment for two more consecutive terms.
+3 No more than three members of the board shall be registered members of
+4 that political party represented by the Governor.
+5 (2) Each member of the board shall receive one hundred dollars per
+6 day for each day actually and necessarily engaged in the performance of
+7 his or her duties, but not to exceed seven thousand dollars in any one
+8 year, except for the member designated to represent the board on the
+9 Southwest Power Pool Regional State Committee or its equivalent
+10 successor, who shall receive two hundred fifty dollars for each day
+11 actually and necessarily engaged in the performance of his or her duties,
+12 not to exceed thirty-five thousand dollars in any one year. If the member
+13 designated to represent the board on the Southwest Power Pool Regional
+14 State Committee should for any reason no longer serve in that capacity
+15 during a year, the pay received while serving in such capacity shall not
+16 be used for purposes of calculating the seven-thousand-dollar limitation
+17 for board members not serving in that capacity. When another board member
+18 acts as the proxy for the designated Southwest Power Pool Regional State
+19 Committee member, he or she shall receive the same pay as the designated
+20 member would have for that activity. Pay received while serving as proxy
+21 for such designated member shall not be used for purposes of determining
+22 whether the seven-thousand-dollar limitation has been met for board
+23 members not serving as such designated member. Total pay to board members
+24 for activities related to the Southwest Power Pool shall not exceed an
+25 aggregate total of forty thousand dollars in any one year. Each member
+26 shall be reimbursed for expenses while so engaged as provided in sections
+27 81-1174 to 81-1177. The board shall have jurisdiction as provided in
+28 Chapter 70, article 10.
+29 (3) The board shall elect from their members a chairperson and a
+30 vice-chairperson. Decisions of the board shall require the approval of a
+31 majority of the members of the board.
+-19-
+LB1179 LB1179
+2026 2026
+1 (4) The board shall employ an executive director and may employ such
+2 other staff necessary to carry out the duties pursuant to Chapter 70,
+3 article 10. The executive director shall serve at the pleasure of the
+4 board and shall be solely responsible to the board. The executive
+5 director shall be responsible for the administrative operations of the
+6 board and shall perform such other duties as may be delegated or assigned
+7 to him or her by the board. The board may obtain the services of experts
+8 and consultants necessary to carry out the board's duties pursuant to
+9 Chapter 70, article 10.
+10 (5) The board shall publish and submit a biennial report with annual
+11 data to the Governor, with copies to be filed with the Clerk of the
+12 Legislature and with the Department of Water, Energy, and Environment.
+13 The report submitted to the Clerk of the Legislature shall be submitted
+14 electronically. The department shall consider the information in the
+15 Nebraska Power Review Board's report when the department prepares its own
+16 reports pursuant to sections 81-1606 and 81-1607. The report of the board
+17 shall include:
+18 (a) The assessments for the fiscal year imposed pursuant to section
+19 70-1020;
+20 (b) The gross income totals for each category of the industry and
+21 the industry total;
+22 (c) The number of suppliers against whom the assessment is levied,
+23 by category and in total;
+24 (d) The projected dollar costs of generation, transmission, and
+25 microwave applications, approved and denied;
+26 (e) The actual dollar costs of approved applications upon
+27 completion, and a summary of an informational hearing concerning any
+28 significant divergence between the projected and actual costs;
+29 (f) A description of Nebraska's current electric system and
+30 information on additions to and retirements from the system during the
+31 fiscal year, including microwave facilities;
+-20-
+LB1179 LB1179
+2026 2026
+1 (g) A statistical summary of board activities and an expenditure
+2 summary;
+3 (h) A roster of power suppliers in Nebraska and the assessment each
+4 paid; and
+5 (i) Appropriately detailed historical and projected electric supply
+6 and demand statistics, including information on the total generating
+7 capacity owned by Nebraska suppliers and the total peak load demand of
+8 the previous year, along with an indication of how the industry will
+9 respond to the projected situation.
+10 (6) The board may, in its discretion, hold public hearings
+11 concerning the conditions that may indicate that retail competition in
+12 the electric industry would benefit Nebraska's citizens and what steps,
+13 if any, should be taken to prepare for retail competition in Nebraska's
+14 electricity market. In determining whether to hold such hearings, the
+15 board shall consider the sufficiency of public interest.
+16 (7) The board may, at any time deemed beneficial by the board,
+17 submit a report to the Governor with copies to be filed with the Clerk of
+18 the Legislature and the Agriculture and Natural Resources Committee of
+19 the Legislature. The report filed with the Clerk of the Legislature and
+20 the committee shall be filed electronically. The report may include:
+21 (a) Whether or not a viable regional transmission organization and
+22 adequate transmission exist in Nebraska or in a region which includes
+23 Nebraska;
+24 (b) Whether or not a viable wholesale electricity market exists in a
+25 region which includes Nebraska;
+26 (c) To what extent retail rates have been unbundled in Nebraska;
+27 (d) A comparison of Nebraska's wholesale electricity prices to the
+28 prices in the region; and
+29 (e) Any other information the board believes to be beneficial to the
+30 Governor, the Legislature, and Nebraska's citizens when considering
+31 whether retail electric competition would be beneficial, such as, but not
+-21-
+LB1179 LB1179
+2026 2026
+1 limited to, an update on deregulation activities in other states and an
+2 update on federal deregulation legislation.
+3 (8) The board may establish working groups of interested parties to
+4 assist the board in carrying out the powers set forth in subsections (6)
+5 and (7) of this section.
+6 Sec. 18. Section 72-2008, Reissue Revised Statutes of Nebraska, is
+7 amended to read:
+8 72-2008 The mission of the Niobrara Council is to assist in all
+9 aspects of the management of the Niobrara scenic river corridor since
+10 portions of the Niobrara River have been designated as a national scenic
+11 river under 16 U.S.C. 1274(a)(117), as such section existed on May 24,
+12 1991, giving consideration and respect to local and governmental input
+13 and private landowner rights, and to maintain and protect the integrity
+14 of the resources associated with the Niobrara scenic river corridor. The
+15 council shall perform management functions related to the Niobrara scenic
+16 river corridor, including, but not limited to, those authorized and
+17 delegated to it by the National Park Service. The council may promulgate
+18 its own rules and internal policies to carry out the purposes of the
+19 Niobrara Scenic River Act. The Game and Parks Commission may provide
+20 administrative, budgetary, operational, and programmatic support when
+21 requested by the council to carry out its duties. In the Niobrara scenic
+22 river corridor, the council may hold title to real estate in the name of
+23 the council. The council may purchase, accept gifts of, or trade real
+24 estate and may obtain conservation easements as provided in the
+25 Conservation and Preservation Easements Act. Acquisition of conservation
+26 easements outside the boundaries of the Niobrara scenic river corridor
+27 shall require the approval of the appropriate governing body as provided
+28 in section 76-2,112. On December 1, 2016, and on each December 1
+29 thereafter, the council shall electronically submit an annual report to
+30 the Clerk of the Legislature and the chairperson of the Agriculture and
+31 Natural Resources Committee of the Legislature describing expenditures
+-22-
+LB1179 LB1179
+2026 2026
+1 made pursuant to the Niobrara Scenic River Act.
+2 Sec. 19. Section 81-15,327, Revised Statutes Supplement, 2025, is
+3 amended to read:
+4 81-15,327 (1) The department shall review and evaluate the studies
+5 and assessments carried out by Illinois, Vermont, and Washington
+6 regarding whether products or batteries that are not currently covered by
+7 the Safe Battery Collection and Recycling Act should be covered at a
+8 later date. The department may review similar studies or assessments
+9 carried out by any other state or person.
+10 (2) No later than May 30, 2028, the department shall electronically
+11 submit a report to the Agriculture and Natural Resources Committee of the
+12 Legislature. The report shall include the findings and recommendations of
+13 any study or assessment reviewed by the department under this section.
+14 The report may include recommendations for legislation based on the
+15 department's evaluation of the studies and assessments reviewed by the
+16 department.
+17 Sec. 20. Section 81-1604, Revised Statutes Supplement, 2025, is
+18 amended to read:
+19 81-1604 (1) The Legislature finds that:
+20 (a) Comprehensive planning enables the state to address its energy
+21 needs, challenges, and opportunities and enhances the state's ability to
+22 prioritize energy-related policies, activities, and programs; and
+23 (b) Meeting the state's need for clean, affordable, and reliable
+24 energy in the future will require a diverse energy portfolio and a
+25 strategic approach, requiring engagement of all energy stakeholders in a
+26 comprehensive planning process.
+27 (2) The Department of Water, Energy, and Environment shall develop
+28 an integrated and comprehensive strategic state energy plan and review
+29 such plan periodically as the department deems necessary. The department
+30 may organize technical committees of individuals with expertise in energy
+31 development for purposes of developing the plan. If the department forms
+-23-
+LB1179 LB1179
+2026 2026
+1 an advisory committee pursuant to subdivision (58) of section 81-1504 for
+2 purposes of such plan, the chairperson of the Appropriations Committee of
+3 the Legislature, the chairperson of the Agriculture and Natural Resources
+4 Committee of the Legislature, and three members of the Legislature
+5 selected by the Executive Board of the Legislative Council shall be
+6 nonvoting, ex officio members of such advisory committee.
+7 (3) The strategic state energy plan shall include short-term and
+8 long-term objectives that will ensure a secure, reliable, and resilient
+9 energy system for the state's residents and businesses; a cost-
+10 competitive energy supply and access to affordable energy; the promotion
+11 of sustainable economic growth, job creation, and economic development;
+12 and a means for the state's energy policy to adapt to changing
+13 circumstances.
+14 (4) The strategic state energy plan shall include, but not be
+15 limited to:
+16 (a) A comprehensive analysis of the state's energy profile,
+17 including all energy resources, end-use sectors, and supply and demand
+18 projections;
+19 (b) An analysis of other state energy plans and regional energy
+20 activities which identifies opportunities for streamlining and
+21 partnerships; and
+22 (c) An identification of goals and recommendations related to:
+23 (i) The diversification of the state's energy portfolio in a way
+24 that balances the lowest practicable environmental cost with maximum
+25 economic benefits;
+26 (ii) The encouragement of state and local government coordination
+27 and public-private partnerships for future economic and investment
+28 decisions;
+29 (iii) The incorporation of new technologies and opportunities for
+30 energy diversification that will maximize Nebraska resources and support
+31 local economic development;
+-24-
+LB1179 LB1179
+2026 2026
+1 (iv) The interstate and intrastate promotion and marketing of the
+2 state's renewable energy resources;
+3 (v) A consistent method of working with and marketing to energy-
+4 related businesses and developers;
+5 (vi) The advancement of transportation technologies, alternative
+6 fuels, and infrastructure;
+7 (vii) The development and enhancement of oil, natural gas, and
+8 electricity production and distribution;
+9 (viii) The development of a communications process between energy
+10 utilities and the department for responding to and preparing for
+11 regulations having a statewide impact; and
+12 (ix) The development of a mechanism to measure the plan's progress.
+13 Sec. 21. Section 84-120, Reissue Revised Statutes of Nebraska, is
+14 amended to read:
+15 84-120 If the Lieutenant Governor or Speaker of the Legislature
+16 becomes incapable of performing the duties of Governor as provided by
+17 Article IV, section 16, of the Constitution of Nebraska, the duties of
+18 Governor shall be performed in the following order: Chairperson of the
+19 Executive Board of the Legislative Council, Chairperson of Committee on
+20 Committees, Chairperson of Committee on Judiciary, Chairperson of
+21 Committee on Government, Military and Veterans Affairs, Chairperson of
+22 Committee on Appropriations, Chairperson of Committee on Revenue,
+23 Chairperson of Committee on Education, Chairperson of Committee on
+24 Banking, Commerce and Insurance, Chairperson of Committee on Agriculture
+25 and Natural Resources, Chairperson of Committee on Agriculture,
+26 Chairperson of Committee on Health and Human Services, Chairperson of
+27 Committee on General Affairs, Chairperson of Committee on Urban Affairs,
+28 Chairperson of Committee on Business and Labor, and Chairperson of
+29 Committee on Transportation, and Chairperson of Committee on
+30 Telecommunications and Technology, until the vacancy is filled.
+31 Sec. 22. Section 86-331, Reissue Revised Statutes of Nebraska, is
+-25-
+LB1179 LB1179
+2026 2026
+1 amended to read:
+2 86-331 (1) It is the intent of the Legislature to ensure that all
+3 federal, state, and local government funding for broadband infrastructure
+4 and services in Nebraska be leveraged strategically to ensure that all
+5 Nebraskans have access to affordable, reliable broadband services before
+6 January 1, 2028. To accomplish this intent, the Nebraska Broadband Office
+7 is created. The office shall be headed by the Director of Broadband. The
+8 director shall be appointed by and serve at the pleasure of the Governor
+9 with the approval of a majority of the Legislature. For administrative
+10 and budgetary purposes, the Nebraska Broadband Office shall be located in
+11 the Department of Transportation. All administrative and budgetary
+12 decisions for the Nebraska Broadband Office shall be made by the Director
+13 of Broadband.
+14 (2) The Nebraska Broadband Office shall:
+15 (a) Through active outreach, collaborate with officials at all
+16 levels of government and with stakeholders, which may include, but not be
+17 limited to, businesses and industries, community foundations, local
+18 governments, local or regional economic development organizations,
+19 schools, colleges, other educational entities, public libraries, health
+20 care institutions, financial institutions, agricultural producers,
+21 telecommunications providers, public power districts, electric
+22 cooperatives, nonprofit organizations, and other interested entities;
+23 (b) Through such collaboration, develop a strategic plan that
+24 maximizes the use of public and private resources and encourages
+25 innovative models for ownership of infrastructure that is used for both
+26 private and public purposes;
+27 (c) Direct the coordination among state agencies, boards, and
+28 commissions on policy matters affecting use of federal or state funding
+29 for broadband infrastructure deployment, operation, and maintenance;
+30 (d) Conduct state advocacy on broadband issues at the federal level,
+31 including the accuracy of federal mapping and speed data;
+-26-
+LB1179 LB1179
+2026 2026
+1 (e) Ensure that all governmental funding is utilized in a cost-
+2 effective and accountable manner for Nebraska broadband projects;
+3 (f) Oversee the coordination of programs for broadband users, such
+4 as libraries and schools, and digital equity and inclusion projects;
+5 (g) Provide resources and assistance for local and regional
+6 broadband planning; and
+7 (h) Provide resources and information to the public through a
+8 website and other communication modes.
+9 (3) If any final decision of the Nebraska Broadband Office relating
+10 to funding for broadband projects is appealed to district court, the
+11 appeal shall take precedence on the trial docket over all other cases and
+12 shall be assigned for hearing, trial, or argument at the earliest
+13 practicable date and expedited in every way.
+14 (4)(a) On or before December 1 of each year, the Nebraska Broadband
+15 Office shall file with the Clerk of the Legislature an annual report on
+16 the status of broadband within the State of Nebraska. The report shall:
+17 (i) Describe the status of all publicly administered broadband
+18 deployment programs, including the number of projects funded through
+19 October of the report year;
+20 (ii) Describe the quality of broadband service being provided to
+21 Nebraska residents;
+22 (iii) Provide any updates to the strategic plan developed under
+23 subdivision (2)(b) of this section;
+24 (iv) Summarize the Nebraska Broadband Office's outreach efforts and
+25 collaboration with all interested stakeholders;
+26 (v) Provide an update on efforts to promote digital equity and
+27 inclusion on behalf of Nebraska residents; and
+28 (vi) Provide an update on state advocacy on broadband issues being
+29 conducted at the federal level.
+30 (b) Upon receipt of such report, the Transportation and
+31 Telecommunications and Technology Committee of the Legislature shall hold
+-27-
+LB1179 LB1179
+2026 2026
+1 a public hearing to allow an opportunity for public comment on the
+2 report.
+3 Sec. 23. Section 86-333, Reissue Revised Statutes of Nebraska, is
+4 amended to read:
+5 86-333 (1) The Nebraska Broadband Office may create and maintain an
+6 official Nebraska location fabric broadband access map showing broadband
+7 availability and quality of service for all serviceable locations in
+8 Nebraska utilizing any federal funding that is made available for such
+9 purpose. For purposes of this section, serviceable location means any
+10 residence, dwelling, business, or building where an entity provides or
+11 may provide broadband services.
+12 (2) The Nebraska Broadband Office may contract with private parties
+13 to create, improve, and maintain the map. When contracting with private
+14 parties, the office shall give preference to contractors providing
+15 mapping services to the Federal Communications Commission. The office may
+16 collect from providers of broadband services any information necessary to
+17 establish and update the map. Any information provided to the office by a
+18 provider of broadband services pursuant to this section that is
+19 confidential, proprietary, or a trade secret as defined in section 87-502
+20 shall be treated as such by the office.
+21 (3) Any recipient of support from the Nebraska Telecommunications
+22 Universal Service Fund shall comply with the provisions of this section.
+23 Any grant recipient under the Nebraska Broadband Bridge Act, including
+24 any entity that operates as an eligible telecommunications carrier in
+25 Nebraska as defined in section 86-1302 that wishes to participate in the
+26 Broadband Bridge Program created under section 86-1303, either directly
+27 or as a challenging party under section 86-1307, shall comply with the
+28 provisions of this section. Any grant recipient of federal broadband
+29 funding administered by the Nebraska Broadband Office shall comply with
+30 the provisions of this section.
+31 (4) After the Federal Communications Commission completes the
+-28-
+LB1179 LB1179
+2026 2026
+1 national Broadband Serviceable Location Fabric and accompanying National
+2 Broadband Availability Map, the Nebraska Broadband Office shall annually
+3 evaluate whether the continued maintenance of any annually updated
+4 Nebraska location fabric broadband access map created and maintained in
+5 accordance with this section is necessary. The office shall report its
+6 annual findings pursuant to this subsection to the Transportation and
+7 Telecommunications and Technology Committee of the Legislature.
+8 (5) The Nebraska Broadband Office shall utilize funding provided by
+9 the federal Broadband Equity, Access, and Deployment Program authorized
+10 under the federal Infrastructure Investment and Jobs Act, Public Law
+11 117-58, to carry out this section.
+12 Sec. 24. Section 86-515, Reissue Revised Statutes of Nebraska, is
+13 amended to read:
+14 86-515 (1) The Nebraska Information Technology Commission is
+15 created. The commission shall consist of (a) one member representing
+16 elementary and secondary education, (b) one member representing
+17 postsecondary education, (c) the Governor or his or her designee, (d) one
+18 member representing communities, and (e) five members representing the
+19 general public who have experience in developing strategic plans and
+20 making high-level business decisions. Of the members representing the
+21 general public, the principal business or occupation of at least one such
+22 member shall be agriculture. A member of the Transportation and
+23 Telecommunications and Technology Committee of the Legislature shall be
+24 appointed by the Executive Board of the Legislative Council to serve as
+25 an ex officio, nonvoting member of the commission. The Executive Board
+26 shall make the initial appointment of such member after January 5, 2011,
+27 and shall appoint a member every two years after the initial appointment.
+28 At any time that there is not a member of the Educational Service Unit
+29 Coordinating Council serving on the Nebraska Information Technology
+30 Commission, the technical panel established pursuant to section 86-521,
+31 or any working groups established pursuant to sections 86-512 to 86-524
+-29-
+LB1179 LB1179
+2026 2026
+1 that establish, coordinate, or prioritize needs for education, the
+2 Governor shall appoint to the commission one member who serves on the
+3 Educational Service Unit Coordinating Council.
+4 (2) The Governor or a designee of the Governor shall serve as
+5 chairperson of the commission.
+6 (3) The members of the commission other than the legislative member
+7 shall be appointed by the Governor with the approval of a majority of the
+8 Legislature. Members of the commission shall serve for terms of four
+9 years, except that two members initially appointed to represent the
+10 general public shall be appointed for a term of two years and any member
+11 appointed to represent the Educational Service Unit Coordinating Council
+12 shall be appointed for a term of one year. Members shall be limited to
+13 two consecutive terms. The Governor or his or her designee shall serve on
+14 the commission for his or her term. The legislative member of the
+15 commission shall serve until he or she is reappointed or a successor is
+16 appointed. Each member shall serve until the appointment and
+17 qualification of his or her successor. In case of a vacancy occurring
+18 prior to the expiration of the term of a member, the appointment shall be
+19 made only for the remainder of the term.
+20 (4) Members shall be reimbursed for expenses as provided in sections
+21 81-1174 to 81-1177.
+22 (5) The commission may employ or designate an executive director to
+23 provide administrative and operational support for the commission. The
+24 Department of Administrative Services and Nebraska Educational
+25 Telecommunications Commission shall assist with administrative and
+26 operational support for the Nebraska Information Technology Commission as
+27 necessary to carry out its duties.
+28 Sec. 25. Section 86-524, Reissue Revised Statutes of Nebraska, is
+29 amended to read:
+30 86-524 (1) The Appropriations Committee and the Telecommunications
+31 and Technology Transportation Committee of the Legislature shall jointly
+-30-
+LB1179 LB1179
+2026 2026
+1 review sections 86-512 to 86-524 before January 1, 2001, and every two
+2 years thereafter. The Executive Board of the Legislative Council shall
+3 designate staff with appropriate technical experience to provide the
+4 staff support for the review. The committees shall establish criteria to
+5 be used for the review in accordance with the following policy
+6 objectives. It shall be the policy of the state to:
+7 (a) Use information technology in education, communities, including
+8 health care and economic development, and every level of government
+9 service to improve economic opportunities and quality of life for all
+10 Nebraskans regardless of location or income;
+11 (b) Stimulate the demand to encourage and enable long-term
+12 infrastructure innovation and improvement; and
+13 (c) Organize technology planning in new ways to aggregate demand,
+14 reduce costs, and create support networks; encourage collaboration
+15 between communities of interest; and encourage competition among
+16 technology and service providers.
+17 (2) In the review, the committees shall determine the extent to
+18 which:
+19 (a) The vision has been realized and short-term and long-term
+20 strategies have been articulated and employed;
+21 (b) The statewide technology plan and other activities of the
+22 commission have improved coordination and assisted policymakers;
+23 (c) An information technology clearinghouse has been established,
+24 maintained, and utilized of Nebraska's information technology
+25 infrastructure and of activities taking place in the state involving
+26 information technology, and the information flow between and among
+27 individuals and organizations has been facilitated as a result of the
+28 information technology clearinghouse;
+29 (d) Policies, standards, guidelines, and architectures have been
+30 developed and observed;
+31 (e) Recommendations made by the commission to the Governor and
+-31-
+LB1179 LB1179
+2026 2026
+1 Legislature have assisted policy and funding decisions;
+2 (f) Input and involvement of all interested parties has been
+3 encouraged and facilitated; and
+4 (g) Long-term infrastructure innovation, improvement, and
+5 coordination has been planned for, facilitated, and achieved with minimal
+6 barriers and impediments.
+7 Sec. 26. Section 86-1068, Revised Statutes Supplement, 2025, is
+8 amended to read:
+9 86-1068 (1) For purposes of this section, originating service
+10 provider means the telecommunications service provider, whether by
+11 wireline or wireless service, or the voice over Internet protocol service
+12 provider providing the capability for customers to originate 911 calls.
+13 (2)(a) Except as provided in subdivision (2)(c) of this section, or
+14 unless otherwise required by the Federal Communications Commission, no
+15 later than January 1, 2026, an originating service provider and the next-
+16 generation 911 service contractor shall cause:
+17 (i) All 911 calls to be transmitted to the next-generation 911
+18 network that allows 911 calls to be answered; and
+19 (ii) All translation and routing to be completed to deliver all 911
+20 calls, including associated location information in the requested
+21 Internet protocol-enabled service format, to the next-generation 911
+22 network that allows 911 calls to be answered.
+23 (b) No later than ten months prior to the date set forth in
+24 subdivision (2)(a) of this section, an originating service provider and
+25 the next-generation 911 service contractor shall enter into an agreement
+26 to cause the requirements of such subdivision to be met. If the
+27 originating service provider and the next-generation 911 service
+28 contractor have not entered into an agreement by such date, the
+29 originating service provider and the next-generation 911 service
+30 contractor shall notify the Public Service Commission to seek resolution
+31 of any unresolved issues in accordance with the commission's policies
+-32-
+LB1179 LB1179
+2026 2026
+1 relating to interconnection arbitration and mediation.
+2 (c) An originating service provider may enter into an agreement with
+3 the commission to establish an alternative timeframe for meeting the
+4 requirements of subdivision (2)(a) of this section. The originating
+5 service provider shall notify the commission of the dates and terms of
+6 the alternative timeframe within thirty days after entering into such
+7 agreement.
+8 (3)(a) Except as provided in subdivision (3)(c) of this section, or
+9 unless otherwise required by the Federal Communications Commission, no
+10 later than January 1, 2026, a provider of telecommunications relay
+11 services and the next-generation 911 service contractor shall cause:
+12 (i) All 911 calls to be transmitted to the next-generation 911
+13 network that allows 911 calls to be answered; and
+14 (ii) All translation and routing to be completed to deliver all 911
+15 calls, including associated location information if received from the
+16 originating service provider in the requested Internet protocol-enabled
+17 service format, to the next-generation 911 network that allows 911 calls
+18 to be answered.
+19 (b) No later than ten months prior to the date set forth in
+20 subdivision (3)(a) of this section, a provider of telecommunications
+21 relay services and the next-generation 911 service contractor shall enter
+22 into an agreement to cause the requirements of such subdivision to be
+23 met. If the provider of telecommunications relay services and the next-
+24 generation 911 service contractor have not entered into an agreement by
+25 such date, the provider of telecommunications relay services and the
+26 next-generation 911 service contractor shall notify the Public Service
+27 Commission to seek resolution of any unresolved issues in accordance with
+28 the commission's policies relating to interconnection arbitration and
+29 mediation.
+30 (c) A provider of telecommunications relay services may enter into
+31 an agreement with the commission to establish an alternative timeframe
+-33-
+LB1179 LB1179
+2026 2026
+1 for meeting the requirements of subdivision (3)(a) of this section. The
+2 telecommunications relay provider shall notify the commission of the
+3 dates and terms of the alternative timeframe within thirty days after
+4 entering into such agreement.
+5 (4) No later than November 15, 2024, and no later than November 15
+6 of each year thereafter, the next-generation 911 service contractor shall
+7 submit an annual report electronically to the Transportation and
+8 Telecommunications and Technology Committee of the Legislature and to the
+9 commission on the capabilities and redundancies of the next-generation
+10 911 service network.
+11 (5) Nothing in this section shall be construed to modify or change
+12 any requirement for an originating service provider to file a report with
+13 state and federal entities, including with public safety answering points
+14 and local governing bodies, in accordance with applicable local, state,
+15 or federal regulations and policies, regarding any impediment to
+16 transmitting and delivering 911 calls to the next-generation 911 network.
+17 Sec. 27. This act becomes operative on January 1, 2027.
+18 Sec. 28. Original sections 2-409, 2-3226.01, 2-3414, 37-431,
+19 37-1406, 46-1305, 50-447, 50-448, 54-642, 72-2008, 84-120, 86-331,
+20 86-333, 86-515, and 86-524, Reissue Revised Statutes of Nebraska,
+21 sections 2-3615, 39-2825, and 66-2305, Revised Statutes Cumulative
+22 Supplement, 2024, and sections 46-1304, 50-1601, 61-227, 61-520, 70-1003,
+23 81-15,327, 81-1604, and 86-1068, Revised Statutes Supplement, 2025, are
+24 repealed.
+-34-
+[DELETED: yDA27SS6 6 7 8 8 a 8 RS S 2 t c r r t tA C o t L t N RC o t L a t T a0T1o2s c s t a r t t3T a T C o t L t4h p t p a o d a t r5t6B9L62]
+[DELETED: Sa2 ( T d s p t a laa a p l a o w h ait p l c i b a a kra l i m i d i o t b a 0m r a w a o b m p T1d s h a f t l a c e t2o3c i a g g a s T d4s5p6c7( T d m p o c w a e o8e9p l c i b n l t t0U o N a a a o n r1d2U3a M B t G S D U a4M B t N W D U a5M B a a p f a r a o6m7(8c s a o e f o s o h9s m p w n f t e s a s0p1i9L62]
+[DELETED: f t a r o e r p adm a o t N R C S o tU S D o A t s n rdUga w p l f t p o ed0(1a a r o o b D 3 t t G a2e t t A C o t L a t3N4a5a6a7S8a920t1t o p a b l t b o a d w2j3a w s 4 a a i m p4w r s 2 a e s i i i5t6i7r e b w t d a b t8b p b ( f g t s d b t s o9f0t a b s 2 o ( t l a b1s 2 T d m i t b o r b9L62]
+[DELETED: ds 1 w m p a c o o qns 1 w p p a c o oq n r d i c w a jpodm0(1A a N R C o t L t2q3t t c c a e o e o p4a f r e t r s f5i6o7( I a d u t p o a b i p t8t s f t p d i s ( o s920t1s2b3s4a I a i d i p t t a t5i d s a f r u s a6a7t8s9S 3 S 2 R R S o N i0a12 T d s r a h b t L9L62]
+[DELETED: Cfrb c t d w o n t i n t a orS 4 S 2 R S C S22( D 1 T c o B S D S0S1P2( D 2 T c o A C F F3W4(5(6W T M S C B C D a7W8( D 5 T c o S H D B9a0( D 6 T c o H F G P1K2( D 7 T c o B H A G3W4(5S6K P B R G H T B L A7M8( T b m p r t t A a9N0t1S 5 S 3 R R S o N i9L62]
+[DELETED: a3saTa f i s b i b t s ioS F I A U t t p o t ar0p1s2t3(4m5N6s7p t t N C E A a t N S8F9c0(1s r f r f a a m a h2s3s4H F A m i t f a f i s b5i6E7p8t p p w a a e a t p9f0p1s9L62]
+[DELETED: t C o A a t C o A aN( F r f l a h s s bcb m b i b t s i o p t tN C E A a t N S F IA I f s i m b e b t cp(0o d t s h s a h s o1N2b3m f t s o t s a r b s 3 t435w6a d b t c s b l t t c i7d8w p f t r s f w t i o9c0b1S 6 S 3 R R S o N i2a33 ( T a m p r u s435i6A7s8( T N I S C s s a a9r0R1a r s i a e o p m i t9L62]
+[DELETED: pe(w(s s e a r t t A a NRt(0t t c c n t a a a i i t1p2S 7 S 3 R S C S32435f6s a r a r a a p p t7t s o t t e a u t C o8N S c u t m s b a b9c0( A c a u a p p1s2d3( O o b J 1 2 t D E s4a5u6p7t L t p a e t u o p8p9c w d p d c0m1a a a o a p d t9L62]
+[DELETED: d(p( T p o t p p pa(p( T m o o t b e b t ca0(1c2(3b4(5s p b f a a o p f6n7( C d o t e c8c9o0(1r t t n p i t r f p a t2i o e d o r b t3p I e p p s b g t a p4t5t6m u a p i w t q f7f8(9t p s a t o p p0p1( A p e d t b a p p s9L62]
+[DELETED: d t t s o t c a t i ic o p a d r o f i m bap(rb i o t S o N a a b t po( U e o a p p a t0c1a2(3( A t t r a r a a p4u t s w u a p p f5f6( E r a t t A C7o t L a t T a T8C9h0S 8 S 4 R S S 2 i1a24 T D o W E a E s3p4c b n r d d t p c5y6d7a s p t r e t t A a8N R C o t L b D 1920m a g w q m d c t t1d9L62]
+[DELETED: b t d i c w a o r a acaS 9 S 4 R R S o N ia4at L d a w q p c b td i t p c y T r s i t0f1a2D3S 1 S 5 R R S o N i4a55 ( I i t i o t L t s a6f7t L t i p i a t t8L a t p o N i a a b9n n r o l t m o A X0s 8 o t C o N i o t f a1e l s a e c i N c2w3d4( W t l o f a f s p t5E B o t L C m i c a6c7L8a9a p t p a s r o r o0p i o t a t A a N R1C o t L i c o t i o t9L62]
+[DELETED: LS 1 S 5 R R S o N ia5 ( I i t i o t L t t AGrN R C o t L i i pi a t t L a t p o Ni0m1i2N c w a w a t s i t3e i t s d a p o a4p5(6a7a8c9S 1 S 5 R S S 2 i0a152(3( R a a N t i4n5( E a c N h t6i d e a e f t7i8( U i a r a f t a9r o t n o t s h s p b t0D o T a a o i o r1a9L62]
+[DELETED: ( E t s a c o N ti w c g t h s c amt(o(a m r a t h N m o a u sf0(1(2(3(4( T c o t T a T5C6(7(8(9(0B1(2s3(4t5t6o7( T m o t t f s s o t t f8w9( O o b D 1 o e y t t f s0s a r c t r o i w s a i1r9L62]
+[DELETED: c o i r T r s b seS 1 S 5 R R S o N ia5sdt C D a C O I A T r si0d c i b p a T d s a1p2D3y4C5a6S 1 S 6 R S S 2 i7a86 T D o W E a E s9c0a1E a E s e w f s a l2a3m p i b n l t t D o4T5A6d7A8E9o c m a o p s a t0A a N R C o t L T1D9L62]
+[DELETED: pS 1 S 6 R S S 2 ia6f p u t P W a N R PC A a p i t s a r a ra a p p t t s o t t ea u t C o N S c u tm0( T d u a p p s1c t b r f o o a f t i2d3(4E s a a p r a r s5f c t b u i d w a p6p i t b u f a p p T r a7r8e t u o p p i t S o9N T D o W E a E s c0w1o c a d p i e a2a3t4(5p6( T p o t p p p7a8(9p0(1(9L62]
+[DELETED: d(b(s p b f a a o p fn( C d o t e cco0(1r t t n p i t r f p a t2i o e d o r b t3p I e p p s b g t a p4t5t6m u a p i w t q f7f8( O i r b t d t e t9p0( A p e d t b a p p s1d2p3d t p a a t o c o t p4p5(6r7b i o t S o N a a b t p8o9( U e o a p p a t0d s e t t c c i t 1p9L62]
+[DELETED: (( A t t r a r a a pu t s w u a p p ff( E r a t t A a NR C o t L r ppsS 1 S 6 R S C S0216 ( T d s c t N a H2I3(4(5(6(7(8(9(0( T D o E D o a d o t1d2( T c o t A a N R3C4(5C6(7(8m9s0( E w g m d i s (1t9L62]
+[DELETED: emrs(l e f t p o s m d wc o t N a H D A a p isD0S 1 S 7 R S S 2 i1a273b4f5t a p N m t o p w i o w h6w f y p s p a b e 7d a o o a e o a e u o a8e s o s s o t b a t s t A9b m w p w e a d a o o a0e1m2d3u f a p o f y a t d s b m4c b a d a o o a e o s e5u6(7t8m9f y N m o t b s s m t t0c1e o a t s b f b a f t u9L62]
+[DELETED: pbNt(dhy e f t m d t r t b o tS P P R S C o i e0s w s r t h f d f e d1a2n3d4S5d6b7f8a9C0m1f2w t s l h b m f b3m4f5a6s78 t 8 T b s h j a p i8C9( T b s e f t m a c a 0v1m9L62]
+[DELETED: (o s n t c o t d p t C 7a 1 T e d s s a t p o tb a s b s r t t b T ed s b r f t a o o tbta c n t c o t b d p tC0(1d t t G w c t b f w t C o t2L a w t D o W E a E3T4e T d s c t i i t5N6r7s8(970(1t2(3b4( T p d c o g t a5m6( T a d c o a a u7c a a s o a i h c a8s9( A d o N c e s a0i1f9L62]
+[DELETED: ( A s s o b a a a es(p(a d s i i o t t gct p y a w a i o h t i wr0( T b m i i d h p h1c t c t m i t r c i2t3i4e m I d w t h s h t5b6( T b m a a t d b b t b7s8t L a t A a N R C o9t0t1(2a t e i N o i a r w i3N4(5r6(7(8p9(0G t L a N c w c1w9L62]
+[DELETED: lu(aaSa7 T m o t N C i t a i aa o t m o t N s r c s0p1r21 g c a r t l a g i3a4o5c6r c i b n l t t a a7d8i o r a i p t c o t p o t9N S R A T G a P C m p0a b o a p s w1r2r3t c T c m p a g o o t r4e a m o c e a p i t5C6e o t b o t N s r c7s8i s 7 O D 1 2 a o e D 9t0t1N R C o t L d e9L62]
+[DELETED: mS 1 S 8 R S S 2 ia8a a c o b I V a Wrt S B C a R A s b c a l d T d m r s s o ac0(1s2L3a4T r m i r f l b o t5d e o t s a a r b t6d7S 2 S 8 R S S 2 i8a980(1n2p3( M t s n f c a a r4e i t f w r a d e p a 5s6c7(8a i a c s s e p a r9s0m1d9L62]
+[DELETED: aptC o t L a t m o t Ls b t E B o t L C s bn( T s s e p s i s ale s f t s r a b a c0c1o2a a m f t s e p t a t c3c4( T s s e p s i b n b5l6( A c a o t s e p7i a e r e s a s a d8p9( A a o o s e p a r e0a w i o f s a1p2(3( T d o t s e p i a w4t b t l p e c w m5e6( T e o s a l g c7a p p f f e a i8d9( T i o n t a o f0e1l9L62]
+[DELETED: ( T i a i p a m o ts( A c m o w w a m t er( T a o t t af( T d a e o o n g ae( T d o a c p b e0u a t d f r t a p f1r2(3S 2 S 8 R R S o N i4a58 I t L G o S o t L6b i o p t d o G a p b7A8G9E0C C o C o J C o1C o G M a V A C o2C o A C o C o R3C o C o E C o C o4B5a N R C o C o A6C o C o H a H S C o7C8C o C o B a L a C o9C o T a C o C o0T1S 2 S 8 R R S o N i9L62]
+[DELETED: a8faNJidw0a1t D o T A a a b2d3o4(5( T a o c w o a a6l7l t b a i c f l8g l o r e d o9s0c i f i a p1t p p p d e2c3( T s c d a s p t4m t u o p a p r a e5i6p7( D t c a s a b a8c9f0(1i9L62]
+[DELETED: ( E t a g f i u i a ce(a( P r a a f l a rb( P r a i t t p t w(0t f f b p i a t d c t1a2s b a f h t o a a t e3p4(5O6t7( D t s o a p a b8d p i t n o p f t9O0( D t q o b s b p t1N2( P a u t t s p d u3s4(5c6( P a u o e t p d e a7i8(9c0( U r o s r t T a1T9L62]
+[DELETED: a p h t a a o f p c o trS 2 S 8 R R S o N ia8oa a q o s f a s l iNp F p o t s s l m a0r d b o b w a e p o1m2(3t4p t o s g p t c p5m6c7e8p o b s p t t s t i9c0s1( A r o s f t N T2U3A g r u t N B B A i4a e t o a a e t c i5N6B7o8p o t s A g r o f b9f0t1( A t F C C c t9L62]
+[DELETED: nBe w t c m o a a uNaa f p t t s t t T aT(t0u t f I I a J A P L112S 2 S 8 R R S o N i3a48 ( T N I T C i5c T c s c o ( o m r6e a s e ( o m r7p8m r c a ( f m r t9g p w h e i d s p a0m h b d O t m r t1g2m s b a A m o t T a3T4a5a6s7a8A9C C s o t N I T0C1o9L62]
+[DELETED: t e c o p n f e tG s a t t c o m w s o tE( T G o a d o t G s s ac(sL M o t c s s f t o fy e t t m i a t r t0g1a2s3t4t c f h o h t T l m o t5c6a E m s s u t a a7q o h o h s I c o a v o8p9m0(182(3p a a o s f t c T4D o A S a N E5T C s a w a a6o7n8S 2 S 8 R R S o N i9a08 ( T A C a t T1a9L62]
+[DELETED: ry t T E B o t L C sd s w a t e t p tsb u f t r i a w t f po(h c a e d a e l o gs t i e o a q o l f a0N1( S t d t e a e l2i3( O t p i n w t a d4r c a c s n e c5b c o i a e c a6t7( I t r t c s d t e t8w9( T v h b r a s a l0s1( T s t p a o a o t2c3( A i t c h b e4m a u o N i t5i a o a t p i t s i6i t a t i f b a a7i a o h b f a a r o t8i9( P s g a a h b0d1( R m b t c t t G a9L62]
+[DELETED: L( I a i o a i p h be( L i i i acbS 2 S 8 R S S 2 ia8 ( F p o t s o s0p m t t s p w b1w2p3(4u o r b t F C C n5l6g7( A 9 c t b t t t n 98n9(0c i a l i i t r1I p s f t t n 92n3( N l t t m p t t d s f i4s5t6t c t r o s s t b m I t7o s p a t n 9 s8c h n e i a a b s d t9o s p a t n 9 s0c1o a u i i a w t c p9L62]
+[DELETED: r(t c t e a a t f m tr o s ( o t s T ost a t w t d a e i sa(u o r b t F C C n0l t J 1 2 a p o t r1s2( A 9 c t b t t t n 93n4(5c i a l i i r f t6o7s8t9( N l t t m p t t d s f i0s ( o t s a p o t1r2i a a t c t r o s s t b3m4g5s d t p o t r s a t6n 9 s c s n t P S7C8t c p r t i a a9m0(1a a w t c t e a a t9L62]
+[DELETED: ft r p s n t c o td a t o t a t w t d ae(os a a r e t t T aTc o t c a r o t n091(2a3s4a5o f r a p r a i t6t7S8S 2  O s 2 2 2 393 4 5 5 5 7 8 808 8 a 8 R R S o N1s 2 3 a 6 R S C2S384r9L62]
+
+
+================================================================================
+
+Raw Text:
+LB1179 LB1179
+2026 2026
+LEGISLATURE OF NEBRASKA
+ONE HUNDRED NINTH LEGISLATURE
+SECOND SESSION
+LEGISLATIVE BILL 1179
+Introduced by DeBoer, 10.
+Read first time January 21, 2026
+Committee: Executive Board
+1 A BILL FOR AN ACT relating to the Legislature; to amend sections 2-409,
+2 2-3226.01, 2-3414, 37-431, 37-1406, 46-1305, 50-447, 50-448, 54-642,
+3 72-2008, 84-120, 86-331, 86-333, 86-515, and 86-524, Reissue Revised
+4 Statutes of Nebraska, sections 2-3615, 39-2825, and 66-2305, Revised
+5 Statutes Cumulative Supplement, 2024, and sections 46-1304, 50-1601,
+6 61-227, 61-520, 70-1003, 81-15,327, 81-1604, and 86-1068, Revised
+7 Statutes Supplement, 2025; to change references relating to the
+8 Agriculture Committee of the Legislature, the Natural Resources
+9 Committee of the Legislature, and the Transportation and
+10 Telecommunications Committee of the Legislature and the chairpersons
+11 of such committees for purposes of implementing renamed and merged
+12 standing committee structures; to add references to the
+13 Telecommunications and Technology Committee of the Legislature; to
+14 harmonize provisions; to provide an operative date; and to repeal
+15 the original sections.
+16 Be it enacted by the people of the State of Nebraska,
+-1-
+
+LB1179 LB1179
+2026 2026
+1 Section 1. Section 2-409, Reissue Revised Statutes of Nebraska, is
+2 amended to read:
+3 2-409 (1) The department shall provide technical and legal
+4 assistance in the formation of a producer learning community comprised of
+5 active agricultural producers, landowners, and others who have an
+6 interest in soil health and water quality. The department shall assist
+7 the producer learning community in building awareness and knowledge
+8 relating to soil health and water quality to guide agricultural producers
+9 and landowners in making informed decisions in order to bring about a
+10 more rapid and widespread adoption of best management practices. The
+11 department shall hire a facilitator to lead a collaborative effort to
+12 organize the producer learning community and assist the producer learning
+13 community in acquiring gifts, grants, and sponsorships. The department
+14 shall authorize the facilitator to serve as an ex officio member of the
+15 producer learning community and may locate the facilitator outside of the
+16 city of Lincoln.
+17 (2) The department may partner or contract with any entity or
+18 entities that have resources that would assist in the formation of the
+19 producer learning community, including, but not limited to, the
+20 University of Nebraska and any association of natural resources
+21 districts. The department may also collaborate with the Corn Development,
+22 Utilization, and Marketing Board, the Soybean Development, Utilization,
+23 and Marketing Board, the Grain Sorghum Development, Utilization, and
+24 Marketing Board, the Nebraska Wheat Development, Utilization, and
+25 Marketing Board, and any private farm and ranch associations or
+26 membership organization.
+27 (3) Because of the state's diversity of soils, topography, rainfall,
+28 cropping systems, and other environmental factors, one set of healthy
+29 soil management practices will not fit the entire state and such
+30 practices will differ by region. The department shall divide the state
+31 into different regions in which to establish demonstration and research
+-2-
+
+LB1179 LB1179
+2026 2026
+1 farms that are representative of each region's particular agricultural
+2 diversity. In establishing such regions, the department may use the land
+3 management areas of the Natural Resources Conservation Service of the
+4 United States Department of Agriculture, the state's natural resources
+5 district boundaries, and the Nebraska Extension Engagement Zones of the
+6 University of Nebraska Institute of Agriculture and Natural Resources as
+7 guidance in establishing boundaries. The department may enter into lease
+8 agreements with private landowners for the purpose of establishing
+9 demonstration and research farms.
+10 (4) Beginning in 2022 and through 2027, the department shall submit
+11 an annual report on or before December 31 to the Governor and
+12 electronically to the Agriculture Committee of the Legislature and the
+13 Natural Resources Committee of the Legislature to report on the status
+14 and progress of implementing the Resilient Soils and Water Quality Act
+15 and any impacts and accomplishments made in protecting and improving soil
+16 and water quality across the state.
+17 Sec. 2. Section 2-3226.01, Reissue Revised Statutes of Nebraska, is
+18 amended to read:
+19 2-3226.01 (1) In order to implement its duties and obligations under
+20 the Nebraska Ground Water Management and Protection Act and in addition
+21 to other powers authorized by law, the board of a district with
+22 jurisdiction that is part of a river basin for which the district has, in
+23 accordance with section 46-715, adopted an integrated management plan
+24 which references section 2-3226.04 and explicitly states its intent in
+25 the plan to utilize qualified projects described in section 2-3226.04 may
+26 issue negotiable bonds and refunding bonds of the district and entitled
+27 river-flow enhancement bonds, with terms determined appropriate by the
+28 board, payable by (a) funds granted to such district by the state or
+29 federal government for one or more qualified projects, (b) the occupation
+30 tax authorized by section 2-3226.05, or (c) the levy authorized by
+31 section 2-3225. The district may issue the bonds or refunding bonds
+-3-
+
+LB1179 LB1179
+2026 2026
+1 directly, or such bonds may be issued by any joint entity as defined in
+2 section 13-803 whose member public agencies consist only of qualified
+3 natural resources districts or by any joint public agency as defined in
+4 section 13-2503 whose participating public agencies consist only of
+5 qualified natural resources districts, in connection with any joint
+6 project which is to be owned, operated, or financed by the joint entity
+7 or joint public agency for the benefit of its member natural resources
+8 districts. For the payment of such bonds or refunding bonds, the district
+9 may pledge one or more permitted payment sources.
+10 (2) Within forty-five days after receipt of a written request by the
+11 Agriculture and Natural Resources Committee of the Legislature, the
+12 qualified natural resources districts shall submit an electronic report
+13 to the committee containing an explanation of existing or planned
+14 activities for river-flow enhancement, the revenue source for
+15 implementing such activities, and a description of the estimated benefit
+16 or benefits to the district or districts.
+17 (3) If a district uses the proceeds of a bond issued pursuant to
+18 this section for the purposes described in subdivision (1) of section
+19 2-3226.04 or the state uses funds for those same purposes, the agreement
+20 to acquire water rights by purchase or lease pursuant to such subdivision
+21 shall identify (a) the method of payment, (b) the distribution of funds
+22 by the party or parties receiving payments, (c) the water use or rights
+23 subject to the agreement, and (d) the water use or rights allowed by the
+24 agreement. If any irrigation district is party to the agreement, the
+25 irrigation district shall allocate funds received under such agreement
+26 among its users or members in a reasonable manner, giving consideration
+27 to the benefits received and the value of the rights surrendered for the
+28 specified contract period.
+29 Sec. 3. Section 2-3414, Reissue Revised Statutes of Nebraska, is
+30 amended to read:
+31 2-3414 The director shall request a hearing by the Legislature's
+-4-
+
+LB1179 LB1179
+2026 2026
+1 Committee on Agriculture and Natural Resources when petitioned by either
+2 fifteen percent of the egg or turkey producers or any number of producers
+3 representing thirty percent of the eggs or turkeys upon which fees are
+4 being collected to determine whether or not there is need to amend or
+5 repeal sections 2-3401 to 2-3416.
+6 Sec. 4. Section 2-3615, Revised Statutes Cumulative Supplement,
+7 2024, is amended to read:
+8 2-3615 (1) The membership districts are as follows:
+9 (a) District 1. The counties of Butler, Saunders, Douglas, Sarpy,
+10 Seward, Lancaster, Cass, Otoe, Saline, Jefferson, Gage, Johnson, Nemaha,
+11 Pawnee, and Richardson;
+12 (b) District 2. The counties of Adams, Clay, Fillmore, Franklin,
+13 Webster, Nuckolls, and Thayer;
+14 (c) District 3. The counties of Merrick, Polk, Hamilton, and York;
+15 (d) District 4. The counties of Knox, Cedar, Dixon, Dakota, Pierce,
+16 Wayne, Thurston, Madison, Stanton, Cuming, Burt, Colfax, Dodge, and
+17 Washington;
+18 (e) District 5. The counties of Sherman, Howard, Dawson, Buffalo,
+19 and Hall;
+20 (f) District 6. The counties of Hayes, Frontier, Gosper, Phelps,
+21 Kearney, Hitchcock, Red Willow, Furnas, and Harlan;
+22 (g) District 7. The counties of Boyd, Holt, Antelope, Garfield,
+23 Wheeler, Boone, Platte, Valley, Greeley, and Nance; and
+24 (h) District 8. The counties of Sioux, Dawes, Box Butte, Sheridan,
+25 Scotts Bluff, Banner, Kimball, Morrill, Cheyenne, Garden, Deuel, Cherry,
+26 Keya Paha, Brown, Rock, Grant, Hooker, Thomas, Blaine, Loup, Arthur,
+27 McPherson, Logan, Custer, Keith, Lincoln, Perkins, Chase, and Dundy.
+28 (2) The board may provide recommendations to the Agriculture and
+29 Natural Resources Committee of the Legislature for potential changes to
+30 the list of counties that make up each membership district.
+31 Sec. 5. Section 37-431, Reissue Revised Statutes of Nebraska, is
+-5-
+
+LB1179 LB1179
+2026 2026
+1 amended to read:
+2 37-431 (1)(a) The Nebraska Habitat Fund is created. The commission
+3 shall remit fees received for annual and multiple-year habitat stamps and
+4 annual and multiple-year Nebraska migratory waterfowl stamps to the State
+5 Treasurer for credit to the Nebraska Habitat Fund. Any money in the fund
+6 available for investment shall be invested by the state investment
+7 officer pursuant to the Nebraska Capital Expansion Act and the Nebraska
+8 State Funds Investment Act. Up to twenty-five percent of the annual
+9 receipts of the fund may be spent by the commission to provide access to
+10 private wildlife lands and habitat areas, and the remainder of the fund
+11 shall not be spent until the commission has presented a habitat plan to
+12 the Committee on Appropriations of the Legislature for its approval.
+13 (b) Fees received for lifetime habitat stamps and lifetime Nebraska
+14 migratory waterfowl stamps under the Game Law shall be credited to the
+15 Nebraska Habitat Fund. Twenty-five percent of the fees for such stamps
+16 shall not be expended but may be invested by the state investment officer
+17 pursuant to the Nebraska Capital Expansion Act and the Nebraska State
+18 Funds Investment Act. Income from such investments may be expended by the
+19 commission pursuant to section 37-432.
+20 (2)(a) The Nebraska Aquatic Habitat Fund is created. The commission
+21 shall remit fees received for annual and multiple-year aquatic habitat
+22 stamps and one dollar of the one-day fishing permit fee as provided in
+23 section 37-426 to the State Treasurer for credit to the Nebraska Aquatic
+24 Habitat Fund. Any money in the fund available for investment shall be
+25 invested by the state investment officer pursuant to the Nebraska Capital
+26 Expansion Act and the Nebraska State Funds Investment Act. Up to thirty
+27 percent of the annual receipts of the fund may be spent by the commission
+28 to provide public waters angler access enhancements and to provide
+29 funding for the administration of programs related to aquatic habitat and
+30 public waters angler access enhancements, and the remainder of the fund
+31 shall not be spent until the commission has presented a habitat plan to
+-6-
+
+LB1179 LB1179
+2026 2026
+1 the Committee on Appropriations and the Committee on Agriculture and
+2 Natural Resources of the Legislature for their approval.
+3 (b) Fees received for lifetime aquatic habitat stamps shall be
+4 credited to the Nebraska Aquatic Habitat Fund and shall not be expended
+5 but may be invested by the state investment officer pursuant to the
+6 Nebraska Capital Expansion Act and the Nebraska State Funds Investment
+7 Act. Income from such investments may be expended by the commission
+8 pursuant to section 37-432.
+9 (3) The secretary of the commission and any county clerk or public
+10 official designated to sell habitat stamps, aquatic habitat stamps, or
+11 Nebraska migratory waterfowl stamps shall be liable upon their official
+12 bonds or equivalent commercial insurance policy for failure to remit the
+13 money from the sale of the stamps, as required by sections 37-426 to
+14 37-433, coming into their hands. Any agent who receives stamp fees and
+15 who fails to remit the fees to the commission within a reasonable time
+16 after demand by the commission shall be liable to the commission in
+17 damages for double the amount of the funds wrongfully withheld. Any agent
+18 who purposefully fails to remit such fees with the intention of
+19 converting them is guilty of theft. The penalty for such violation shall
+20 be determined by the amount converted as specified in section 28-518.
+21 Sec. 6. Section 37-1406, Reissue Revised Statutes of Nebraska, is
+22 amended to read:
+23 37-1406 (1) The adaptive management plan required under section
+24 37-1404 shall be updated at least once every three years following its
+25 initial development. The plan shall be submitted to the Governor and the
+26 Agriculture and Natural Resources Committee of the Legislature. The plan
+27 submitted to the committee shall be submitted electronically.
+28 (2) The Nebraska Invasive Species Council shall submit an annual
+29 report of its activities to the Governor and the Agriculture and Natural
+30 Resources Committee of the Legislature by December 15 of each year. The
+31 annual report shall include an evaluation of progress made in the
+-7-
+
+LB1179 LB1179
+2026 2026
+1 preceding year. The report submitted to the committee shall be submitted
+2 electronically.
+3 (3) The council shall complete the initial adaptive management plan
+4 within three years after April 6, 2012.
+5 (4) Prior to the start of the 2015 legislative session, the council
+6 shall submit electronically a report to the Agriculture and Natural
+7 Resources Committee of the Legislature that makes recommendations as to
+8 the extension or modification of the council.
+9 (5) The council may establish advisory and technical subcommittees
+10 that the council considers necessary to aid and advise it in the
+11 performance of its functions.
+12 Sec. 7. Section 39-2825, Revised Statutes Cumulative Supplement,
+13 2024, is amended to read:
+14 39-2825 (1) A public-private partnership delivery method may be used
+15 for projects under the Transportation Innovation Act as provided in this
+16 section and rules and regulations adopted and promulgated pursuant to
+17 this section only to the extent allowed under the Constitution of
+18 Nebraska. State contracts using this method shall be awarded by
+19 competitive negotiation.
+20 (2) A contracting agency utilizing a public-private partnership
+21 shall continue to be responsible for oversight of any function that is
+22 delegated to or otherwise performed by a private partner.
+23 (3) On or before July 1, 2023, the Director-State Engineer shall
+24 adopt and promulgate rules and regulations setting forth criteria to be
+25 used in determining when a public-private partnership is to be used for a
+26 particular project. The rules and regulations shall reflect the intent of
+27 the Legislature to promote and encourage the use of public-private
+28 partnerships in the State of Nebraska. The Director-State Engineer shall
+29 consult with design-builders, progressive design-builders, construction
+30 managers, other contractors and design professionals, including engineers
+31 and architects, and other appropriate professionals during the
+-8-
+
+LB1179 LB1179
+2026 2026
+1 development of the rules and regulations.
+2 (4) A request for proposals for a project utilizing a public-private
+3 partnership shall include at a minimum:
+4 (a) The parameters of the proposed public-private partnership
+5 agreement;
+6 (b) The duties and responsibilities to be performed by the private
+7 partner or private partners;
+8 (c) The methods of oversight to be employed by the contracting
+9 agency;
+10 (d) The duties and responsibilities that are to be performed by the
+11 contracting agency and any other parties to the contract;
+12 (e) The evaluation factors and the relative weight of each factor to
+13 be used in the scoring of awards;
+14 (f) Plans for financing and operating the project and the revenues,
+15 service payments, bond financings, and appropriations of public funds
+16 needed for the qualifying project;
+17 (g) Comprehensive documentation of the experience, capabilities,
+18 capitalization and financial condition, and other relevant qualifications
+19 of the private entity submitting the proposal;
+20 (h) The ability of a private partner or private partners to quickly
+21 respond to the needs presented in the request for proposals and the
+22 importance of economic development opportunities represented by the
+23 project. In evaluating proposals, preference shall be given to a plan
+24 that includes the involvement of small businesses as subcontractors, to
+25 the extent that small businesses can provide services in a competitive
+26 manner, unless any preference interferes with the qualification for
+27 federal or other funds; and
+28 (i) Other information required by the contracting agency to evaluate
+29 the proposals submitted and the overall proposed public-private
+30 partnership.
+31 (5) A private entity desiring to be a private partner shall
+-9-
+
+LB1179 LB1179
+2026 2026
+1 demonstrate to the satisfaction of the contracting agency that it is
+2 capable of performing any duty, responsibility, or function it may be
+3 authorized or directed to perform as a term or condition of the public-
+4 private partnership agreement.
+5 (6) A request for proposals may be canceled, or all proposals may be
+6 rejected, if it is determined in writing that such action is taken in the
+7 best interest of the State of Nebraska and approved by the purchasing
+8 officer.
+9 (7) Upon execution of a public-private partnership agreement, the
+10 contracting agency shall ensure that the contract clearly identifies that
+11 a public-private partnership is being utilized.
+12 (8) The department shall:
+13 (a) Adhere to the rules and regulations adopted and promulgated
+14 under this section when utilizing a public-private partnership for
+15 financing capital projects; and
+16 (b) Electronically report annually to the Appropriations Committee
+17 of the Legislature and the Transportation and Telecommunications
+18 Committee of the Legislature regarding private-public partnerships which
+19 have been considered or are approved pursuant to this section.
+20 Sec. 8. Section 46-1304, Revised Statutes Supplement, 2025, is
+21 amended to read:
+22 46-1304 The Department of Water, Energy, and Environment shall
+23 prepare a report outlining the extent of ground water quality monitoring
+24 conducted by natural resources districts during the preceding calendar
+25 year. The department shall analyze the data collected for the purpose of
+26 determining whether or not ground water quality is degrading or improving
+27 and shall present the results electronically to the Agriculture and
+28 Natural Resources Committee of the Legislature beginning December 1,
+29 2001, and each year thereafter. The districts shall submit in a timely
+30 manner all ground water quality monitoring data collected to the
+31 department or its designee. The department shall use the data submitted
+-10-
+
+LB1179 LB1179
+2026 2026
+1 by the districts in conjunction with all other readily available and
+2 compatible data for the purposes of the annual ground water quality trend
+3 analysis.
+4 Sec. 9. Section 46-1305, Reissue Revised Statutes of Nebraska, is
+5 amended to read:
+6 46-1305 Each natural resources district shall submit electronically
+7 an annual report to the Agriculture and Natural Resources Committee of
+8 the Legislature detailing all water quality programs conducted by the
+9 district in the preceding calendar year. The report shall include the
+10 funds received and expended for water quality projects and a listing of
+11 any unfunded projects. The first report shall be submitted on or before
+12 December 1, 2001, and then each December 1 thereafter.
+13 Sec. 10. Section 50-447, Reissue Revised Statutes of Nebraska, is
+14 amended to read:
+15 50-447 (1) It is the intent of the Legislature to support and
+16 facilitate a study by the Agriculture and Natural Resources Committee of
+17 the Legislature to identify policy instruments available to the
+18 Legislature and the people of Nebraska, including, as appropriate, but
+19 not necessarily requiring or limited to, modification of Article XII,
+20 section 8, of the Constitution of Nebraska, in order to foster and
+21 enhance legal, social, and economic conditions in Nebraska consistent
+22 with and which advance those state interests that exist in the structure,
+23 development, and progress of agricultural production.
+24 (2) Within the limits of funds appropriated for such purpose, the
+25 Executive Board of the Legislative Council may, in coordination and
+26 cooperation with the Agriculture and Natural Resources Committee of the
+27 Legislature, commission experts in the fields of agricultural economics,
+28 agricultural law, commerce clause jurisprudence, and other areas of study
+29 and practice to provide assistance, specific research or reports, or
+30 presentations in order to assist the Agriculture and Natural Resources
+31 Committee of the Legislature in carrying out the intent of the
+-11-
+
+LB1179 LB1179
+2026 2026
+1 Legislature under this section.
+2 Sec. 11. Section 50-448, Reissue Revised Statutes of Nebraska, is
+3 amended to read:
+4 50-448 (1) It is the intent of the Legislature that the Attorney
+5 General perform, acquire, and otherwise cause to be made available such
+6 research as may be appropriate to inform and assist the Agriculture and
+7 Natural Resources Committee of the Legislature in identifying policy
+8 instruments available to the Legislature and the people of Nebraska,
+9 including, as appropriate, but not necessarily requiring or limited to,
+10 modification of Article XII, section 8, of the Constitution of Nebraska,
+11 in order to foster and enhance legal, social, and economic conditions in
+12 Nebraska consistent with and which advance those state interests that
+13 exist in the structure, development, and progress of agricultural
+14 production in Nebraska.
+15 (2) The Attorney General may contract with experts in the fields of
+16 agricultural economics, agricultural law, commerce clause jurisprudence,
+17 and other areas of study and practice to assist the Attorney General in
+18 carrying out the intent of the Legislature under this section.
+19 Sec. 12. Section 50-1601, Revised Statutes Supplement, 2025, is
+20 amended to read:
+21 50-1601 (1) The Infrastructure Review Task Force is created.
+22 (2) The task force shall:
+23 (a) Review and analyze Nebraska's transportation infrastructure
+24 network;
+25 (b) Examine and consider Nebraska's historic transportation
+26 infrastructure development efforts and expected future transportation
+27 infrastructure needs;
+28 (c) Utilize information and research available from the annual
+29 report on the needs of the state highway system prepared by the
+30 Department of Transportation and any other information or resources
+31 available to the department;
+-12-
+
+LB1179 LB1179
+2026 2026
+1 (d) Examine the status and condition of Nebraska's transportation
+2 infrastructure with consideration given to highway safety concerns and
+3 make recommendations as to how Nebraska might maintain and ensure safe
+4 transportation infrastructure now and in the future;
+5 (e) Consider transportation through the lens of its economic impact
+6 on Nebraska; and
+7 (f) Research any federal funding that may be available to Nebraska
+8 and make recommendations as to how Nebraska might obtain and use such
+9 funds.
+10 (3)(a) The task force consists of the following members:
+11 (i) The Governor;
+12 (ii) A designee of the Governor;
+13 (iii) The chairperson of the Revenue Committee of the Legislature;
+14 (iv) The chairperson of the Transportation and Telecommunications
+15 Committee of the Legislature;
+16 (v) The Speaker of the Legislature;
+17 (vi) The Director-State Engineer;
+18 (vii) The Tax Commissioner; and
+19 (viii) Three members of the Legislature appointed by the Executive
+20 Board of the Legislative Council.
+21 (b) Members of the task force who are not members of the Legislature
+22 shall be nonvoting, ex officio members.
+23 (4) The chairperson of the task force shall be the chairperson of
+24 the Revenue Committee of the Legislature. Any staff support needed for
+25 the task force shall be fulfilled by the staff of the Revenue Committee
+26 of the Legislature.
+27 (5) The members of the task force shall serve on the task force
+28 without compensation.
+29 (6) On or before December 1 of each year, the task force shall
+30 submit a report containing the results of its work study and its
+31 recommendations, if any, together with drafts of legislation necessary to
+-13-
+
+LB1179 LB1179
+2026 2026
+1 carry out its recommendations. The reports shall be submitted
+2 electronically to the Clerk of the Legislature.
+3 Sec. 13. Section 54-642, Reissue Revised Statutes of Nebraska, is
+4 amended to read:
+5 54-642 On or before November 1 of each year, the department shall
+6 submit electronically a report to the Legislature in sufficient detail to
+7 document all costs incurred in the previous fiscal year in carrying out
+8 the Commercial Dog and Cat Operator Inspection Act. The report shall
+9 identify costs incurred by the department to administer the act and shall
+10 detail costs incurred by primary activity. The department shall also
+11 provide a breakdown by category of all revenue credited to the Commercial
+12 Dog and Cat Operator Inspection Program Cash Fund in the previous fiscal
+13 year. The Agriculture and Natural Resources Committee and Appropriations
+14 Committee of the Legislature shall review the report to ascertain program
+15 activity levels and to determine funding requirements of the program.
+16 Sec. 14. Section 61-227, Revised Statutes Supplement, 2025, is
+17 amended to read:
+18 61-227 The Department of Water, Energy, and Environment shall
+19 convene a plan development group which shall be housed and staffed for
+20 administrative purposes within such department. The Department of Water,
+21 Energy, and Environment shall engage with federal, state, and local
+22 agency and community stakeholders in the development of the state flood
+23 mitigation plan, including, but not limited to, the Department of
+24 Transportation, the Department of Economic Development, the Department of
+25 Agriculture, the Nebraska Emergency Management Agency, natural resources
+26 districts, the United States Department of Agriculture, the United States
+27 Army Corps of Engineers, the United States Geological Survey, the Federal
+28 Emergency Management Agency, the University of Nebraska, representatives
+29 of counties, municipalities, and other political subdivisions, and the
+30 Agriculture and Natural Resources Committee of the Legislature. The
+31 Department of Water, Energy, and Environment may engage other sources to
+-14-
+
+LB1179 LB1179
+2026 2026
+1 provide technical expertise as needed.
+2 Sec. 15. Section 61-520, Revised Statutes Supplement, 2025, is
+3 amended to read:
+4 61-520 (1) A public-private partnership delivery method may be used
+5 for projects under the Public Water and Natural Resources Project
+6 Contracting Act as provided in this section and rules and regulations
+7 adopted and promulgated pursuant to this section only to the extent
+8 allowed under the Constitution of Nebraska. State contracts using this
+9 method shall be awarded by competitive negotiation.
+10 (2) The department utilizing a public-private partnership shall
+11 continue to be responsible for oversight of any function that is
+12 delegated to or otherwise performed by a private partner.
+13 (3) On or before July 1, 2024, the Director of Water, Energy, and
+14 Environment shall adopt and promulgate rules and regulations setting
+15 forth criteria to be used in determining when a public-private
+16 partnership is to be used for a particular project. The rules and
+17 regulations shall reflect the intent of the Legislature to promote and
+18 encourage the use of public-private partnerships in the State of
+19 Nebraska. The Director of Water, Energy, and Environment shall consult
+20 with design-builders, progressive design-builders, construction managers,
+21 other contractors and design professionals, including engineers and
+22 architects, and other appropriate professionals during the development of
+23 the rules and regulations.
+24 (4) A request for proposals for a project utilizing a public-private
+25 partnership shall include at a minimum:
+26 (a) The parameters of the proposed public-private partnership
+27 agreement;
+28 (b) The duties and responsibilities to be performed by the private
+29 partner or private partners;
+30 (c) The methods of oversight to be employed by the department;
+31 (d) The duties and responsibilities that are to be performed by the
+-15-
+
+LB1179 LB1179
+2026 2026
+1 department and any other parties to the contract;
+2 (e) The evaluation factors and the relative weight of each factor to
+3 be used in the scoring of awards;
+4 (f) Plans for financing and operating the project and the revenue,
+5 service payments, bond financings, and appropriations of public funds
+6 needed for the qualifying project;
+7 (g) Comprehensive documentation of the experience, capabilities,
+8 capitalization and financial condition, and other relevant qualifications
+9 of the private entity submitting the proposal;
+10 (h) The ability of a private partner or private partners to quickly
+11 respond to the needs presented in the request for proposals and the
+12 importance of economic development opportunities represented by the
+13 project. In evaluating proposals, preference shall be given to a plan
+14 that includes the involvement of small businesses as subcontractors, to
+15 the extent that small businesses can provide services in a competitive
+16 manner, unless any preference interferes with the qualification for
+17 federal or other funds; and
+18 (i) Other information required by the department to evaluate the
+19 proposals submitted and the overall proposed public-private partnership.
+20 (5) A private entity desiring to be a private partner shall
+21 demonstrate to the satisfaction of the department that it is capable of
+22 performing any duty, responsibility, or function it may be authorized or
+23 directed to perform as a term or condition of the public-private
+24 partnership agreement.
+25 (6) A request for proposals may be canceled, or all proposals may be
+26 rejected, if it is determined in writing that such action is taken in the
+27 best interest of the State of Nebraska and approved by the purchasing
+28 officer.
+29 (7) Upon execution of a public-private partnership agreement, the
+30 department shall ensure that the contract clearly identifies that a
+31 public-private partnership is being utilized.
+-16-
+
+LB1179 LB1179
+2026 2026
+1 (8) The department shall:
+2 (a) Adhere to the rules and regulations adopted and promulgated
+3 under this section when utilizing a public-private partnership for
+4 financing capital projects; and
+5 (b) Electronically report annually to the Agriculture and Natural
+6 Resources Committee of the Legislature regarding private-public
+7 partnerships which have been considered or are approved pursuant to this
+8 section.
+9 Sec. 16. Section 66-2305, Revised Statutes Cumulative Supplement,
+10 2024, is amended to read:
+11 66-2305 (1) The department shall create the Nuclear and Hydrogen
+12 Industry Work Group.
+13 (2) The work group shall consist of the following twelve members:
+14 (a) One representative of the Nebraska community college system;
+15 (b) One representative of the Nebraska state college system;
+16 (c) Two representatives of the nuclear industry;
+17 (d) Two representatives of the hydrogen industry;
+18 (e) One representative of a public power district;
+19 (f) Two at-large members;
+20 (g) The Director of Economic Development or a designee of the
+21 director;
+22 (h) The chairperson of the Agriculture and Natural Resources
+23 Committee of the Legislature or a designee of the chairperson; and
+24 (i) The chairperson of the Government, Military and Veterans Affairs
+25 Committee of the Legislature or a designee of the chairperson.
+26 (3) The work group members described in subdivisions (2)(a) through
+27 (f) of this section shall be appointed by the Governor. The work group
+28 members described in subdivisions (2)(h) and (i) of this section shall
+29 serve as ex officio, nonvoting members.
+30 (4)(a) Each work group member described in subdivisions (2)(a)
+31 through (f) of this section may receive a per diem of sixty dollars for
+-17-
+
+LB1179 LB1179
+2026 2026
+1 each day such member attends a meeting of the work group or is engaged in
+2 matters concerning the work group, except that no work group member shall
+3 receive more than one thousand dollars in per diems per year under this
+4 subdivision.
+5 (b) Each such work group member shall be reimbursed for travel and
+6 lodging expenses for the performance of such member's duties while
+7 carrying out the Nuclear and Hydrogen Development Act as provided in
+8 sections 81-1174 to 81-1177 to be paid out of the Nuclear and Hydrogen
+9 Development Fund.
+10 Sec. 17. Section 70-1003, Revised Statutes Supplement, 2025, is
+11 amended to read:
+12 70-1003 (1)(a) There is hereby established an independent board to
+13 be known as the Nebraska Power Review Board. The board shall consist of
+14 five members, including at least one engineer, at least one attorney, and
+15 three additional persons. No more than one person who is or who has
+16 within four years preceding such person's appointment been either a
+17 director, an officer, or an employee of any electric utility or an
+18 elective state officer shall serve on the board at the same time. Any
+19 board member who previously was either a director, an officer, or an
+20 employee of any electric utility within four years preceding such board
+21 member's appointment shall refrain from taking any action or making any
+22 decision in any proceeding before the board that involves such electric
+23 utility for a period of four years after the date such board member
+24 ceased being a director, an officer, or an employee of such electric
+25 utility.
+26 (b) Members of the board shall be appointed by the Governor subject
+27 to the approval of the Legislature. Upon expiration of the terms of the
+28 members first appointed, the successors shall be appointed for terms of
+29 four years. No member of the board shall serve more than three
+30 consecutive terms. Any vacancy on the board arising other than from the
+31 expiration of a term shall be filled by appointment for the unexpired
+-18-
+
+LB1179 LB1179
+2026 2026
+1 portion of the term, and any person appointed to fill a vacancy on the
+2 board shall be eligible for reappointment for two more consecutive terms.
+3 No more than three members of the board shall be registered members of
+4 that political party represented by the Governor.
+5 (2) Each member of the board shall receive one hundred dollars per
+6 day for each day actually and necessarily engaged in the performance of
+7 his or her duties, but not to exceed seven thousand dollars in any one
+8 year, except for the member designated to represent the board on the
+9 Southwest Power Pool Regional State Committee or its equivalent
+10 successor, who shall receive two hundred fifty dollars for each day
+11 actually and necessarily engaged in the performance of his or her duties,
+12 not to exceed thirty-five thousand dollars in any one year. If the member
+13 designated to represent the board on the Southwest Power Pool Regional
+14 State Committee should for any reason no longer serve in that capacity
+15 during a year, the pay received while serving in such capacity shall not
+16 be used for purposes of calculating the seven-thousand-dollar limitation
+17 for board members not serving in that capacity. When another board member
+18 acts as the proxy for the designated Southwest Power Pool Regional State
+19 Committee member, he or she shall receive the same pay as the designated
+20 member would have for that activity. Pay received while serving as proxy
+21 for such designated member shall not be used for purposes of determining
+22 whether the seven-thousand-dollar limitation has been met for board
+23 members not serving as such designated member. Total pay to board members
+24 for activities related to the Southwest Power Pool shall not exceed an
+25 aggregate total of forty thousand dollars in any one year. Each member
+26 shall be reimbursed for expenses while so engaged as provided in sections
+27 81-1174 to 81-1177. The board shall have jurisdiction as provided in
+28 Chapter 70, article 10.
+29 (3) The board shall elect from their members a chairperson and a
+30 vice-chairperson. Decisions of the board shall require the approval of a
+31 majority of the members of the board.
+-19-
+
+LB1179 LB1179
+2026 2026
+1 (4) The board shall employ an executive director and may employ such
+2 other staff necessary to carry out the duties pursuant to Chapter 70,
+3 article 10. The executive director shall serve at the pleasure of the
+4 board and shall be solely responsible to the board. The executive
+5 director shall be responsible for the administrative operations of the
+6 board and shall perform such other duties as may be delegated or assigned
+7 to him or her by the board. The board may obtain the services of experts
+8 and consultants necessary to carry out the board's duties pursuant to
+9 Chapter 70, article 10.
+10 (5) The board shall publish and submit a biennial report with annual
+11 data to the Governor, with copies to be filed with the Clerk of the
+12 Legislature and with the Department of Water, Energy, and Environment.
+13 The report submitted to the Clerk of the Legislature shall be submitted
+14 electronically. The department shall consider the information in the
+15 Nebraska Power Review Board's report when the department prepares its own
+16 reports pursuant to sections 81-1606 and 81-1607. The report of the board
+17 shall include:
+18 (a) The assessments for the fiscal year imposed pursuant to section
+19 70-1020;
+20 (b) The gross income totals for each category of the industry and
+21 the industry total;
+22 (c) The number of suppliers against whom the assessment is levied,
+23 by category and in total;
+24 (d) The projected dollar costs of generation, transmission, and
+25 microwave applications, approved and denied;
+26 (e) The actual dollar costs of approved applications upon
+27 completion, and a summary of an informational hearing concerning any
+28 significant divergence between the projected and actual costs;
+29 (f) A description of Nebraska's current electric system and
+30 information on additions to and retirements from the system during the
+31 fiscal year, including microwave facilities;
+-20-
+
+LB1179 LB1179
+2026 2026
+1 (g) A statistical summary of board activities and an expenditure
+2 summary;
+3 (h) A roster of power suppliers in Nebraska and the assessment each
+4 paid; and
+5 (i) Appropriately detailed historical and projected electric supply
+6 and demand statistics, including information on the total generating
+7 capacity owned by Nebraska suppliers and the total peak load demand of
+8 the previous year, along with an indication of how the industry will
+9 respond to the projected situation.
+10 (6) The board may, in its discretion, hold public hearings
+11 concerning the conditions that may indicate that retail competition in
+12 the electric industry would benefit Nebraska's citizens and what steps,
+13 if any, should be taken to prepare for retail competition in Nebraska's
+14 electricity market. In determining whether to hold such hearings, the
+15 board shall consider the sufficiency of public interest.
+16 (7) The board may, at any time deemed beneficial by the board,
+17 submit a report to the Governor with copies to be filed with the Clerk of
+18 the Legislature and the Agriculture and Natural Resources Committee of
+19 the Legislature. The report filed with the Clerk of the Legislature and
+20 the committee shall be filed electronically. The report may include:
+21 (a) Whether or not a viable regional transmission organization and
+22 adequate transmission exist in Nebraska or in a region which includes
+23 Nebraska;
+24 (b) Whether or not a viable wholesale electricity market exists in a
+25 region which includes Nebraska;
+26 (c) To what extent retail rates have been unbundled in Nebraska;
+27 (d) A comparison of Nebraska's wholesale electricity prices to the
+28 prices in the region; and
+29 (e) Any other information the board believes to be beneficial to the
+30 Governor, the Legislature, and Nebraska's citizens when considering
+31 whether retail electric competition would be beneficial, such as, but not
+-21-
+
+LB1179 LB1179
+2026 2026
+1 limited to, an update on deregulation activities in other states and an
+2 update on federal deregulation legislation.
+3 (8) The board may establish working groups of interested parties to
+4 assist the board in carrying out the powers set forth in subsections (6)
+5 and (7) of this section.
+6 Sec. 18. Section 72-2008, Reissue Revised Statutes of Nebraska, is
+7 amended to read:
+8 72-2008 The mission of the Niobrara Council is to assist in all
+9 aspects of the management of the Niobrara scenic river corridor since
+10 portions of the Niobrara River have been designated as a national scenic
+11 river under 16 U.S.C. 1274(a)(117), as such section existed on May 24,
+12 1991, giving consideration and respect to local and governmental input
+13 and private landowner rights, and to maintain and protect the integrity
+14 of the resources associated with the Niobrara scenic river corridor. The
+15 council shall perform management functions related to the Niobrara scenic
+16 river corridor, including, but not limited to, those authorized and
+17 delegated to it by the National Park Service. The council may promulgate
+18 its own rules and internal policies to carry out the purposes of the
+19 Niobrara Scenic River Act. The Game and Parks Commission may provide
+20 administrative, budgetary, operational, and programmatic support when
+21 requested by the council to carry out its duties. In the Niobrara scenic
+22 river corridor, the council may hold title to real estate in the name of
+23 the council. The council may purchase, accept gifts of, or trade real
+24 estate and may obtain conservation easements as provided in the
+25 Conservation and Preservation Easements Act. Acquisition of conservation
+26 easements outside the boundaries of the Niobrara scenic river corridor
+27 shall require the approval of the appropriate governing body as provided
+28 in section 76-2,112. On December 1, 2016, and on each December 1
+29 thereafter, the council shall electronically submit an annual report to
+30 the Clerk of the Legislature and the chairperson of the Agriculture and
+31 Natural Resources Committee of the Legislature describing expenditures
+-22-
+
+LB1179 LB1179
+2026 2026
+1 made pursuant to the Niobrara Scenic River Act.
+2 Sec. 19. Section 81-15,327, Revised Statutes Supplement, 2025, is
+3 amended to read:
+4 81-15,327 (1) The department shall review and evaluate the studies
+5 and assessments carried out by Illinois, Vermont, and Washington
+6 regarding whether products or batteries that are not currently covered by
+7 the Safe Battery Collection and Recycling Act should be covered at a
+8 later date. The department may review similar studies or assessments
+9 carried out by any other state or person.
+10 (2) No later than May 30, 2028, the department shall electronically
+11 submit a report to the Agriculture and Natural Resources Committee of the
+12 Legislature. The report shall include the findings and recommendations of
+13 any study or assessment reviewed by the department under this section.
+14 The report may include recommendations for legislation based on the
+15 department's evaluation of the studies and assessments reviewed by the
+16 department.
+17 Sec. 20. Section 81-1604, Revised Statutes Supplement, 2025, is
+18 amended to read:
+19 81-1604 (1) The Legislature finds that:
+20 (a) Comprehensive planning enables the state to address its energy
+21 needs, challenges, and opportunities and enhances the state's ability to
+22 prioritize energy-related policies, activities, and programs; and
+23 (b) Meeting the state's need for clean, affordable, and reliable
+24 energy in the future will require a diverse energy portfolio and a
+25 strategic approach, requiring engagement of all energy stakeholders in a
+26 comprehensive planning process.
+27 (2) The Department of Water, Energy, and Environment shall develop
+28 an integrated and comprehensive strategic state energy plan and review
+29 such plan periodically as the department deems necessary. The department
+30 may organize technical committees of individuals with expertise in energy
+31 development for purposes of developing the plan. If the department forms
+-23-
+
+LB1179 LB1179
+2026 2026
+1 an advisory committee pursuant to subdivision (58) of section 81-1504 for
+2 purposes of such plan, the chairperson of the Appropriations Committee of
+3 the Legislature, the chairperson of the Agriculture and Natural Resources
+4 Committee of the Legislature, and three members of the Legislature
+5 selected by the Executive Board of the Legislative Council shall be
+6 nonvoting, ex officio members of such advisory committee.
+7 (3) The strategic state energy plan shall include short-term and
+8 long-term objectives that will ensure a secure, reliable, and resilient
+9 energy system for the state's residents and businesses; a cost-
+10 competitive energy supply and access to affordable energy; the promotion
+11 of sustainable economic growth, job creation, and economic development;
+12 and a means for the state's energy policy to adapt to changing
+13 circumstances.
+14 (4) The strategic state energy plan shall include, but not be
+15 limited to:
+16 (a) A comprehensive analysis of the state's energy profile,
+17 including all energy resources, end-use sectors, and supply and demand
+18 projections;
+19 (b) An analysis of other state energy plans and regional energy
+20 activities which identifies opportunities for streamlining and
+21 partnerships; and
+22 (c) An identification of goals and recommendations related to:
+23 (i) The diversification of the state's energy portfolio in a way
+24 that balances the lowest practicable environmental cost with maximum
+25 economic benefits;
+26 (ii) The encouragement of state and local government coordination
+27 and public-private partnerships for future economic and investment
+28 decisions;
+29 (iii) The incorporation of new technologies and opportunities for
+30 energy diversification that will maximize Nebraska resources and support
+31 local economic development;
+-24-
+
+LB1179 LB1179
+2026 2026
+1 (iv) The interstate and intrastate promotion and marketing of the
+2 state's renewable energy resources;
+3 (v) A consistent method of working with and marketing to energy-
+4 related businesses and developers;
+5 (vi) The advancement of transportation technologies, alternative
+6 fuels, and infrastructure;
+7 (vii) The development and enhancement of oil, natural gas, and
+8 electricity production and distribution;
+9 (viii) The development of a communications process between energy
+10 utilities and the department for responding to and preparing for
+11 regulations having a statewide impact; and
+12 (ix) The development of a mechanism to measure the plan's progress.
+13 Sec. 21. Section 84-120, Reissue Revised Statutes of Nebraska, is
+14 amended to read:
+15 84-120 If the Lieutenant Governor or Speaker of the Legislature
+16 becomes incapable of performing the duties of Governor as provided by
+17 Article IV, section 16, of the Constitution of Nebraska, the duties of
+18 Governor shall be performed in the following order: Chairperson of the
+19 Executive Board of the Legislative Council, Chairperson of Committee on
+20 Committees, Chairperson of Committee on Judiciary, Chairperson of
+21 Committee on Government, Military and Veterans Affairs, Chairperson of
+22 Committee on Appropriations, Chairperson of Committee on Revenue,
+23 Chairperson of Committee on Education, Chairperson of Committee on
+24 Banking, Commerce and Insurance, Chairperson of Committee on Agriculture
+25 and Natural Resources, Chairperson of Committee on Agriculture,
+26 Chairperson of Committee on Health and Human Services, Chairperson of
+27 Committee on General Affairs, Chairperson of Committee on Urban Affairs,
+28 Chairperson of Committee on Business and Labor, and Chairperson of
+29 Committee on Transportation, and Chairperson of Committee on
+30 Telecommunications and Technology, until the vacancy is filled.
+31 Sec. 22. Section 86-331, Reissue Revised Statutes of Nebraska, is
+-25-
+
+LB1179 LB1179
+2026 2026
+1 amended to read:
+2 86-331 (1) It is the intent of the Legislature to ensure that all
+3 federal, state, and local government funding for broadband infrastructure
+4 and services in Nebraska be leveraged strategically to ensure that all
+5 Nebraskans have access to affordable, reliable broadband services before
+6 January 1, 2028. To accomplish this intent, the Nebraska Broadband Office
+7 is created. The office shall be headed by the Director of Broadband. The
+8 director shall be appointed by and serve at the pleasure of the Governor
+9 with the approval of a majority of the Legislature. For administrative
+10 and budgetary purposes, the Nebraska Broadband Office shall be located in
+11 the Department of Transportation. All administrative and budgetary
+12 decisions for the Nebraska Broadband Office shall be made by the Director
+13 of Broadband.
+14 (2) The Nebraska Broadband Office shall:
+15 (a) Through active outreach, collaborate with officials at all
+16 levels of government and with stakeholders, which may include, but not be
+17 limited to, businesses and industries, community foundations, local
+18 governments, local or regional economic development organizations,
+19 schools, colleges, other educational entities, public libraries, health
+20 care institutions, financial institutions, agricultural producers,
+21 telecommunications providers, public power districts, electric
+22 cooperatives, nonprofit organizations, and other interested entities;
+23 (b) Through such collaboration, develop a strategic plan that
+24 maximizes the use of public and private resources and encourages
+25 innovative models for ownership of infrastructure that is used for both
+26 private and public purposes;
+27 (c) Direct the coordination among state agencies, boards, and
+28 commissions on policy matters affecting use of federal or state funding
+29 for broadband infrastructure deployment, operation, and maintenance;
+30 (d) Conduct state advocacy on broadband issues at the federal level,
+31 including the accuracy of federal mapping and speed data;
+-26-
+
+LB1179 LB1179
+2026 2026
+1 (e) Ensure that all governmental funding is utilized in a cost-
+2 effective and accountable manner for Nebraska broadband projects;
+3 (f) Oversee the coordination of programs for broadband users, such
+4 as libraries and schools, and digital equity and inclusion projects;
+5 (g) Provide resources and assistance for local and regional
+6 broadband planning; and
+7 (h) Provide resources and information to the public through a
+8 website and other communication modes.
+9 (3) If any final decision of the Nebraska Broadband Office relating
+10 to funding for broadband projects is appealed to district court, the
+11 appeal shall take precedence on the trial docket over all other cases and
+12 shall be assigned for hearing, trial, or argument at the earliest
+13 practicable date and expedited in every way.
+14 (4)(a) On or before December 1 of each year, the Nebraska Broadband
+15 Office shall file with the Clerk of the Legislature an annual report on
+16 the status of broadband within the State of Nebraska. The report shall:
+17 (i) Describe the status of all publicly administered broadband
+18 deployment programs, including the number of projects funded through
+19 October of the report year;
+20 (ii) Describe the quality of broadband service being provided to
+21 Nebraska residents;
+22 (iii) Provide any updates to the strategic plan developed under
+23 subdivision (2)(b) of this section;
+24 (iv) Summarize the Nebraska Broadband Office's outreach efforts and
+25 collaboration with all interested stakeholders;
+26 (v) Provide an update on efforts to promote digital equity and
+27 inclusion on behalf of Nebraska residents; and
+28 (vi) Provide an update on state advocacy on broadband issues being
+29 conducted at the federal level.
+30 (b) Upon receipt of such report, the Transportation and
+31 Telecommunications and Technology Committee of the Legislature shall hold
+-27-
+
+LB1179 LB1179
+2026 2026
+1 a public hearing to allow an opportunity for public comment on the
+2 report.
+3 Sec. 23. Section 86-333, Reissue Revised Statutes of Nebraska, is
+4 amended to read:
+5 86-333 (1) The Nebraska Broadband Office may create and maintain an
+6 official Nebraska location fabric broadband access map showing broadband
+7 availability and quality of service for all serviceable locations in
+8 Nebraska utilizing any federal funding that is made available for such
+9 purpose. For purposes of this section, serviceable location means any
+10 residence, dwelling, business, or building where an entity provides or
+11 may provide broadband services.
+12 (2) The Nebraska Broadband Office may contract with private parties
+13 to create, improve, and maintain the map. When contracting with private
+14 parties, the office shall give preference to contractors providing
+15 mapping services to the Federal Communications Commission. The office may
+16 collect from providers of broadband services any information necessary to
+17 establish and update the map. Any information provided to the office by a
+18 provider of broadband services pursuant to this section that is
+19 confidential, proprietary, or a trade secret as defined in section 87-502
+20 shall be treated as such by the office.
+21 (3) Any recipient of support from the Nebraska Telecommunications
+22 Universal Service Fund shall comply with the provisions of this section.
+23 Any grant recipient under the Nebraska Broadband Bridge Act, including
+24 any entity that operates as an eligible telecommunications carrier in
+25 Nebraska as defined in section 86-1302 that wishes to participate in the
+26 Broadband Bridge Program created under section 86-1303, either directly
+27 or as a challenging party under section 86-1307, shall comply with the
+28 provisions of this section. Any grant recipient of federal broadband
+29 funding administered by the Nebraska Broadband Office shall comply with
+30 the provisions of this section.
+31 (4) After the Federal Communications Commission completes the
+-28-
+
+LB1179 LB1179
+2026 2026
+1 national Broadband Serviceable Location Fabric and accompanying National
+2 Broadband Availability Map, the Nebraska Broadband Office shall annually
+3 evaluate whether the continued maintenance of any annually updated
+4 Nebraska location fabric broadband access map created and maintained in
+5 accordance with this section is necessary. The office shall report its
+6 annual findings pursuant to this subsection to the Transportation and
+7 Telecommunications and Technology Committee of the Legislature.
+8 (5) The Nebraska Broadband Office shall utilize funding provided by
+9 the federal Broadband Equity, Access, and Deployment Program authorized
+10 under the federal Infrastructure Investment and Jobs Act, Public Law
+11 117-58, to carry out this section.
+12 Sec. 24. Section 86-515, Reissue Revised Statutes of Nebraska, is
+13 amended to read:
+14 86-515 (1) The Nebraska Information Technology Commission is
+15 created. The commission shall consist of (a) one member representing
+16 elementary and secondary education, (b) one member representing
+17 postsecondary education, (c) the Governor or his or her designee, (d) one
+18 member representing communities, and (e) five members representing the
+19 general public who have experience in developing strategic plans and
+20 making high-level business decisions. Of the members representing the
+21 general public, the principal business or occupation of at least one such
+22 member shall be agriculture. A member of the Transportation and
+23 Telecommunications and Technology Committee of the Legislature shall be
+24 appointed by the Executive Board of the Legislative Council to serve as
+25 an ex officio, nonvoting member of the commission. The Executive Board
+26 shall make the initial appointment of such member after January 5, 2011,
+27 and shall appoint a member every two years after the initial appointment.
+28 At any time that there is not a member of the Educational Service Unit
+29 Coordinating Council serving on the Nebraska Information Technology
+30 Commission, the technical panel established pursuant to section 86-521,
+31 or any working groups established pursuant to sections 86-512 to 86-524
+-29-
+
+LB1179 LB1179
+2026 2026
+1 that establish, coordinate, or prioritize needs for education, the
+2 Governor shall appoint to the commission one member who serves on the
+3 Educational Service Unit Coordinating Council.
+4 (2) The Governor or a designee of the Governor shall serve as
+5 chairperson of the commission.
+6 (3) The members of the commission other than the legislative member
+7 shall be appointed by the Governor with the approval of a majority of the
+8 Legislature. Members of the commission shall serve for terms of four
+9 years, except that two members initially appointed to represent the
+10 general public shall be appointed for a term of two years and any member
+11 appointed to represent the Educational Service Unit Coordinating Council
+12 shall be appointed for a term of one year. Members shall be limited to
+13 two consecutive terms. The Governor or his or her designee shall serve on
+14 the commission for his or her term. The legislative member of the
+15 commission shall serve until he or she is reappointed or a successor is
+16 appointed. Each member shall serve until the appointment and
+17 qualification of his or her successor. In case of a vacancy occurring
+18 prior to the expiration of the term of a member, the appointment shall be
+19 made only for the remainder of the term.
+20 (4) Members shall be reimbursed for expenses as provided in sections
+21 81-1174 to 81-1177.
+22 (5) The commission may employ or designate an executive director to
+23 provide administrative and operational support for the commission. The
+24 Department of Administrative Services and Nebraska Educational
+25 Telecommunications Commission shall assist with administrative and
+26 operational support for the Nebraska Information Technology Commission as
+27 necessary to carry out its duties.
+28 Sec. 25. Section 86-524, Reissue Revised Statutes of Nebraska, is
+29 amended to read:
+30 86-524 (1) The Appropriations Committee and the Telecommunications
+31 and Technology Transportation Committee of the Legislature shall jointly
+-30-
+
+LB1179 LB1179
+2026 2026
+1 review sections 86-512 to 86-524 before January 1, 2001, and every two
+2 years thereafter. The Executive Board of the Legislative Council shall
+3 designate staff with appropriate technical experience to provide the
+4 staff support for the review. The committees shall establish criteria to
+5 be used for the review in accordance with the following policy
+6 objectives. It shall be the policy of the state to:
+7 (a) Use information technology in education, communities, including
+8 health care and economic development, and every level of government
+9 service to improve economic opportunities and quality of life for all
+10 Nebraskans regardless of location or income;
+11 (b) Stimulate the demand to encourage and enable long-term
+12 infrastructure innovation and improvement; and
+13 (c) Organize technology planning in new ways to aggregate demand,
+14 reduce costs, and create support networks; encourage collaboration
+15 between communities of interest; and encourage competition among
+16 technology and service providers.
+17 (2) In the review, the committees shall determine the extent to
+18 which:
+19 (a) The vision has been realized and short-term and long-term
+20 strategies have been articulated and employed;
+21 (b) The statewide technology plan and other activities of the
+22 commission have improved coordination and assisted policymakers;
+23 (c) An information technology clearinghouse has been established,
+24 maintained, and utilized of Nebraska's information technology
+25 infrastructure and of activities taking place in the state involving
+26 information technology, and the information flow between and among
+27 individuals and organizations has been facilitated as a result of the
+28 information technology clearinghouse;
+29 (d) Policies, standards, guidelines, and architectures have been
+30 developed and observed;
+31 (e) Recommendations made by the commission to the Governor and
+-31-
+
+LB1179 LB1179
+2026 2026
+1 Legislature have assisted policy and funding decisions;
+2 (f) Input and involvement of all interested parties has been
+3 encouraged and facilitated; and
+4 (g) Long-term infrastructure innovation, improvement, and
+5 coordination has been planned for, facilitated, and achieved with minimal
+6 barriers and impediments.
+7 Sec. 26. Section 86-1068, Revised Statutes Supplement, 2025, is
+8 amended to read:
+9 86-1068 (1) For purposes of this section, originating service
+10 provider means the telecommunications service provider, whether by
+11 wireline or wireless service, or the voice over Internet protocol service
+12 provider providing the capability for customers to originate 911 calls.
+13 (2)(a) Except as provided in subdivision (2)(c) of this section, or
+14 unless otherwise required by the Federal Communications Commission, no
+15 later than January 1, 2026, an originating service provider and the next-
+16 generation 911 service contractor shall cause:
+17 (i) All 911 calls to be transmitted to the next-generation 911
+18 network that allows 911 calls to be answered; and
+19 (ii) All translation and routing to be completed to deliver all 911
+20 calls, including associated location information in the requested
+21 Internet protocol-enabled service format, to the next-generation 911
+22 network that allows 911 calls to be answered.
+23 (b) No later than ten months prior to the date set forth in
+24 subdivision (2)(a) of this section, an originating service provider and
+25 the next-generation 911 service contractor shall enter into an agreement
+26 to cause the requirements of such subdivision to be met. If the
+27 originating service provider and the next-generation 911 service
+28 contractor have not entered into an agreement by such date, the
+29 originating service provider and the next-generation 911 service
+30 contractor shall notify the Public Service Commission to seek resolution
+31 of any unresolved issues in accordance with the commission's policies
+-32-
+
+LB1179 LB1179
+2026 2026
+1 relating to interconnection arbitration and mediation.
+2 (c) An originating service provider may enter into an agreement with
+3 the commission to establish an alternative timeframe for meeting the
+4 requirements of subdivision (2)(a) of this section. The originating
+5 service provider shall notify the commission of the dates and terms of
+6 the alternative timeframe within thirty days after entering into such
+7 agreement.
+8 (3)(a) Except as provided in subdivision (3)(c) of this section, or
+9 unless otherwise required by the Federal Communications Commission, no
+10 later than January 1, 2026, a provider of telecommunications relay
+11 services and the next-generation 911 service contractor shall cause:
+12 (i) All 911 calls to be transmitted to the next-generation 911
+13 network that allows 911 calls to be answered; and
+14 (ii) All translation and routing to be completed to deliver all 911
+15 calls, including associated location information if received from the
+16 originating service provider in the requested Internet protocol-enabled
+17 service format, to the next-generation 911 network that allows 911 calls
+18 to be answered.
+19 (b) No later than ten months prior to the date set forth in
+20 subdivision (3)(a) of this section, a provider of telecommunications
+21 relay services and the next-generation 911 service contractor shall enter
+22 into an agreement to cause the requirements of such subdivision to be
+23 met. If the provider of telecommunications relay services and the next-
+24 generation 911 service contractor have not entered into an agreement by
+25 such date, the provider of telecommunications relay services and the
+26 next-generation 911 service contractor shall notify the Public Service
+27 Commission to seek resolution of any unresolved issues in accordance with
+28 the commission's policies relating to interconnection arbitration and
+29 mediation.
+30 (c) A provider of telecommunications relay services may enter into
+31 an agreement with the commission to establish an alternative timeframe
+-33-
+
+LB1179 LB1179
+2026 2026
+1 for meeting the requirements of subdivision (3)(a) of this section. The
+2 telecommunications relay provider shall notify the commission of the
+3 dates and terms of the alternative timeframe within thirty days after
+4 entering into such agreement.
+5 (4) No later than November 15, 2024, and no later than November 15
+6 of each year thereafter, the next-generation 911 service contractor shall
+7 submit an annual report electronically to the Transportation and
+8 Telecommunications and Technology Committee of the Legislature and to the
+9 commission on the capabilities and redundancies of the next-generation
+10 911 service network.
+11 (5) Nothing in this section shall be construed to modify or change
+12 any requirement for an originating service provider to file a report with
+13 state and federal entities, including with public safety answering points
+14 and local governing bodies, in accordance with applicable local, state,
+15 or federal regulations and policies, regarding any impediment to
+16 transmitting and delivering 911 calls to the next-generation 911 network.
+17 Sec. 27. This act becomes operative on January 1, 2027.
+18 Sec. 28. Original sections 2-409, 2-3226.01, 2-3414, 37-431,
+19 37-1406, 46-1305, 50-447, 50-448, 54-642, 72-2008, 84-120, 86-331,
+20 86-333, 86-515, and 86-524, Reissue Revised Statutes of Nebraska,
+21 sections 2-3615, 39-2825, and 66-2305, Revised Statutes Cumulative
+22 Supplement, 2024, and sections 46-1304, 50-1601, 61-227, 61-520, 70-1003,
+23 81-15,327, 81-1604, and 86-1068, Revised Statutes Supplement, 2025, are
+24 repealed.
+-34-
+
+[DELETED: yDA27SS6 6 7 8 8 a 8 RS S 2 t c r r t tA C o t L t N RC o t L a t T a0T1o2s c s t a r t t3T a T C o t L t4h p t p a o d a t r5t6B9L62]
+[DELETED: Sa2 ( T d s p t a laa a p l a o w h ait p l c i b a a kra l i m i d i o t b a 0m r a w a o b m p T1d s h a f t l a c e t2o3c i a g g a s T d4s5p6c7( T d m p o c w a e o8e9p l c i b n l t t0U o N a a a o n r1d2U3a M B t G S D U a4M B t N W D U a5M B a a p f a r a o6m7(8c s a o e f o s o h9s m p w n f t e s a s0p1i9L62]
+[DELETED: f t a r o e r p adm a o t N R C S o tU S D o A t s n rdUga w p l f t p o ed0(1a a r o o b D 3 t t G a2e t t A C o t L a t3N4a5a6a7S8a920t1t o p a b l t b o a d w2j3a w s 4 a a i m p4w r s 2 a e s i i i5t6i7r e b w t d a b t8b p b ( f g t s d b t s o9f0t a b s 2 o ( t l a b1s 2 T d m i t b o r b9L62]
+[DELETED: ds 1 w m p a c o o qns 1 w p p a c o oq n r d i c w a jpodm0(1A a N R C o t L t2q3t t c c a e o e o p4a f r e t r s f5i6o7( I a d u t p o a b i p t8t s f t p d i s ( o s920t1s2b3s4a I a i d i p t t a t5i d s a f r u s a6a7t8s9S 3 S 2 R R S o N i0a12 T d s r a h b t L9L62]
+[DELETED: Cfrb c t d w o n t i n t a orS 4 S 2 R S C S22( D 1 T c o B S D S0S1P2( D 2 T c o A C F F3W4(5(6W T M S C B C D a7W8( D 5 T c o S H D B9a0( D 6 T c o H F G P1K2( D 7 T c o B H A G3W4(5S6K P B R G H T B L A7M8( T b m p r t t A a9N0t1S 5 S 3 R R S o N i9L62]
+[DELETED: a3saTa f i s b i b t s ioS F I A U t t p o t ar0p1s2t3(4m5N6s7p t t N C E A a t N S8F9c0(1s r f r f a a m a h2s3s4H F A m i t f a f i s b5i6E7p8t p p w a a e a t p9f0p1s9L62]
+[DELETED: t C o A a t C o A aN( F r f l a h s s bcb m b i b t s i o p t tN C E A a t N S F IA I f s i m b e b t cp(0o d t s h s a h s o1N2b3m f t s o t s a r b s 3 t435w6a d b t c s b l t t c i7d8w p f t r s f w t i o9c0b1S 6 S 3 R R S o N i2a33 ( T a m p r u s435i6A7s8( T N I S C s s a a9r0R1a r s i a e o p m i t9L62]
+[DELETED: pe(w(s s e a r t t A a NRt(0t t c c n t a a a i i t1p2S 7 S 3 R S C S32435f6s a r a r a a p p t7t s o t t e a u t C o8N S c u t m s b a b9c0( A c a u a p p1s2d3( O o b J 1 2 t D E s4a5u6p7t L t p a e t u o p8p9c w d p d c0m1a a a o a p d t9L62]
+[DELETED: d(p( T p o t p p pa(p( T m o o t b e b t ca0(1c2(3b4(5s p b f a a o p f6n7( C d o t e c8c9o0(1r t t n p i t r f p a t2i o e d o r b t3p I e p p s b g t a p4t5t6m u a p i w t q f7f8(9t p s a t o p p0p1( A p e d t b a p p s9L62]
+[DELETED: d t t s o t c a t i ic o p a d r o f i m bap(rb i o t S o N a a b t po( U e o a p p a t0c1a2(3( A t t r a r a a p4u t s w u a p p f5f6( E r a t t A C7o t L a t T a T8C9h0S 8 S 4 R S S 2 i1a24 T D o W E a E s3p4c b n r d d t p c5y6d7a s p t r e t t A a8N R C o t L b D 1920m a g w q m d c t t1d9L62]
+[DELETED: b t d i c w a o r a acaS 9 S 4 R R S o N ia4at L d a w q p c b td i t p c y T r s i t0f1a2D3S 1 S 5 R R S o N i4a55 ( I i t i o t L t s a6f7t L t i p i a t t8L a t p o N i a a b9n n r o l t m o A X0s 8 o t C o N i o t f a1e l s a e c i N c2w3d4( W t l o f a f s p t5E B o t L C m i c a6c7L8a9a p t p a s r o r o0p i o t a t A a N R1C o t L i c o t i o t9L62]
+[DELETED: LS 1 S 5 R R S o N ia5 ( I i t i o t L t t AGrN R C o t L i i pi a t t L a t p o Ni0m1i2N c w a w a t s i t3e i t s d a p o a4p5(6a7a8c9S 1 S 5 R S S 2 i0a152(3( R a a N t i4n5( E a c N h t6i d e a e f t7i8( U i a r a f t a9r o t n o t s h s p b t0D o T a a o i o r1a9L62]
+[DELETED: ( E t s a c o N ti w c g t h s c amt(o(a m r a t h N m o a u sf0(1(2(3(4( T c o t T a T5C6(7(8(9(0B1(2s3(4t5t6o7( T m o t t f s s o t t f8w9( O o b D 1 o e y t t f s0s a r c t r o i w s a i1r9L62]
+[DELETED: c o i r T r s b seS 1 S 5 R R S o N ia5sdt C D a C O I A T r si0d c i b p a T d s a1p2D3y4C5a6S 1 S 6 R S S 2 i7a86 T D o W E a E s9c0a1E a E s e w f s a l2a3m p i b n l t t D o4T5A6d7A8E9o c m a o p s a t0A a N R C o t L T1D9L62]
+[DELETED: pS 1 S 6 R S S 2 ia6f p u t P W a N R PC A a p i t s a r a ra a p p t t s o t t ea u t C o N S c u tm0( T d u a p p s1c t b r f o o a f t i2d3(4E s a a p r a r s5f c t b u i d w a p6p i t b u f a p p T r a7r8e t u o p p i t S o9N T D o W E a E s c0w1o c a d p i e a2a3t4(5p6( T p o t p p p7a8(9p0(1(9L62]
+[DELETED: d(b(s p b f a a o p fn( C d o t e cco0(1r t t n p i t r f p a t2i o e d o r b t3p I e p p s b g t a p4t5t6m u a p i w t q f7f8( O i r b t d t e t9p0( A p e d t b a p p s1d2p3d t p a a t o c o t p4p5(6r7b i o t S o N a a b t p8o9( U e o a p p a t0d s e t t c c i t 1p9L62]
+[DELETED: (( A t t r a r a a pu t s w u a p p ff( E r a t t A a NR C o t L r ppsS 1 S 6 R S C S0216 ( T d s c t N a H2I3(4(5(6(7(8(9(0( T D o E D o a d o t1d2( T c o t A a N R3C4(5C6(7(8m9s0( E w g m d i s (1t9L62]
+[DELETED: emrs(l e f t p o s m d wc o t N a H D A a p isD0S 1 S 7 R S S 2 i1a273b4f5t a p N m t o p w i o w h6w f y p s p a b e 7d a o o a e o a e u o a8e s o s s o t b a t s t A9b m w p w e a d a o o a0e1m2d3u f a p o f y a t d s b m4c b a d a o o a e o s e5u6(7t8m9f y N m o t b s s m t t0c1e o a t s b f b a f t u9L62]
+[DELETED: pbNt(dhy e f t m d t r t b o tS P P R S C o i e0s w s r t h f d f e d1a2n3d4S5d6b7f8a9C0m1f2w t s l h b m f b3m4f5a6s78 t 8 T b s h j a p i8C9( T b s e f t m a c a 0v1m9L62]
+[DELETED: (o s n t c o t d p t C 7a 1 T e d s s a t p o tb a s b s r t t b T ed s b r f t a o o tbta c n t c o t b d p tC0(1d t t G w c t b f w t C o t2L a w t D o W E a E3T4e T d s c t i i t5N6r7s8(970(1t2(3b4( T p d c o g t a5m6( T a d c o a a u7c a a s o a i h c a8s9( A d o N c e s a0i1f9L62]
+[DELETED: ( A s s o b a a a es(p(a d s i i o t t gct p y a w a i o h t i wr0( T b m i i d h p h1c t c t m i t r c i2t3i4e m I d w t h s h t5b6( T b m a a t d b b t b7s8t L a t A a N R C o9t0t1(2a t e i N o i a r w i3N4(5r6(7(8p9(0G t L a N c w c1w9L62]
+[DELETED: lu(aaSa7 T m o t N C i t a i aa o t m o t N s r c s0p1r21 g c a r t l a g i3a4o5c6r c i b n l t t a a7d8i o r a i p t c o t p o t9N S R A T G a P C m p0a b o a p s w1r2r3t c T c m p a g o o t r4e a m o c e a p i t5C6e o t b o t N s r c7s8i s 7 O D 1 2 a o e D 9t0t1N R C o t L d e9L62]
+[DELETED: mS 1 S 8 R S S 2 ia8a a c o b I V a Wrt S B C a R A s b c a l d T d m r s s o ac0(1s2L3a4T r m i r f l b o t5d e o t s a a r b t6d7S 2 S 8 R S S 2 i8a980(1n2p3( M t s n f c a a r4e i t f w r a d e p a 5s6c7(8a i a c s s e p a r9s0m1d9L62]
+[DELETED: aptC o t L a t m o t Ls b t E B o t L C s bn( T s s e p s i s ale s f t s r a b a c0c1o2a a m f t s e p t a t c3c4( T s s e p s i b n b5l6( A c a o t s e p7i a e r e s a s a d8p9( A a o o s e p a r e0a w i o f s a1p2(3( T d o t s e p i a w4t b t l p e c w m5e6( T e o s a l g c7a p p f f e a i8d9( T i o n t a o f0e1l9L62]
+[DELETED: ( T i a i p a m o ts( A c m o w w a m t er( T a o t t af( T d a e o o n g ae( T d o a c p b e0u a t d f r t a p f1r2(3S 2 S 8 R R S o N i4a58 I t L G o S o t L6b i o p t d o G a p b7A8G9E0C C o C o J C o1C o G M a V A C o2C o A C o C o R3C o C o E C o C o4B5a N R C o C o A6C o C o H a H S C o7C8C o C o B a L a C o9C o T a C o C o0T1S 2 S 8 R R S o N i9L62]
+[DELETED: a8faNJidw0a1t D o T A a a b2d3o4(5( T a o c w o a a6l7l t b a i c f l8g l o r e d o9s0c i f i a p1t p p p d e2c3( T s c d a s p t4m t u o p a p r a e5i6p7( D t c a s a b a8c9f0(1i9L62]
+[DELETED: ( E t a g f i u i a ce(a( P r a a f l a rb( P r a i t t p t w(0t f f b p i a t d c t1a2s b a f h t o a a t e3p4(5O6t7( D t s o a p a b8d p i t n o p f t9O0( D t q o b s b p t1N2( P a u t t s p d u3s4(5c6( P a u o e t p d e a7i8(9c0( U r o s r t T a1T9L62]
+[DELETED: a p h t a a o f p c o trS 2 S 8 R R S o N ia8oa a q o s f a s l iNp F p o t s s l m a0r d b o b w a e p o1m2(3t4p t o s g p t c p5m6c7e8p o b s p t t s t i9c0s1( A r o s f t N T2U3A g r u t N B B A i4a e t o a a e t c i5N6B7o8p o t s A g r o f b9f0t1( A t F C C c t9L62]
+[DELETED: nBe w t c m o a a uNaa f p t t s t t T aT(t0u t f I I a J A P L112S 2 S 8 R R S o N i3a48 ( T N I T C i5c T c s c o ( o m r6e a s e ( o m r7p8m r c a ( f m r t9g p w h e i d s p a0m h b d O t m r t1g2m s b a A m o t T a3T4a5a6s7a8A9C C s o t N I T0C1o9L62]
+[DELETED: t e c o p n f e tG s a t t c o m w s o tE( T G o a d o t G s s ac(sL M o t c s s f t o fy e t t m i a t r t0g1a2s3t4t c f h o h t T l m o t5c6a E m s s u t a a7q o h o h s I c o a v o8p9m0(182(3p a a o s f t c T4D o A S a N E5T C s a w a a6o7n8S 2 S 8 R R S o N i9a08 ( T A C a t T1a9L62]
+[DELETED: ry t T E B o t L C sd s w a t e t p tsb u f t r i a w t f po(h c a e d a e l o gs t i e o a q o l f a0N1( S t d t e a e l2i3( O t p i n w t a d4r c a c s n e c5b c o i a e c a6t7( I t r t c s d t e t8w9( T v h b r a s a l0s1( T s t p a o a o t2c3( A i t c h b e4m a u o N i t5i a o a t p i t s i6i t a t i f b a a7i a o h b f a a r o t8i9( P s g a a h b0d1( R m b t c t t G a9L62]
+[DELETED: L( I a i o a i p h be( L i i i acbS 2 S 8 R S S 2 ia8 ( F p o t s o s0p m t t s p w b1w2p3(4u o r b t F C C n5l6g7( A 9 c t b t t t n 98n9(0c i a l i i t r1I p s f t t n 92n3( N l t t m p t t d s f i4s5t6t c t r o s s t b m I t7o s p a t n 9 s8c h n e i a a b s d t9o s p a t n 9 s0c1o a u i i a w t c p9L62]
+[DELETED: r(t c t e a a t f m tr o s ( o t s T ost a t w t d a e i sa(u o r b t F C C n0l t J 1 2 a p o t r1s2( A 9 c t b t t t n 93n4(5c i a l i i r f t6o7s8t9( N l t t m p t t d s f i0s ( o t s a p o t1r2i a a t c t r o s s t b3m4g5s d t p o t r s a t6n 9 s c s n t P S7C8t c p r t i a a9m0(1a a w t c t e a a t9L62]
+[DELETED: ft r p s n t c o td a t o t a t w t d ae(os a a r e t t T aTc o t c a r o t n091(2a3s4a5o f r a p r a i t6t7S8S 2  O s 2 2 2 393 4 5 5 5 7 8 808 8 a 8 R R S o N1s 2 3 a 6 R S C2S384r9L62]

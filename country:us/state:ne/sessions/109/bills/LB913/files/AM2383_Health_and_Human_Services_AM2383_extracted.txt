@@ -1,0 +1,33 @@
+Title: 1 1. On page 2, line 6, strike "No later than XXX, the" and insert
+Official Title: 1 1. On page 2, line 6, strike "No later than XXX, the" and insert
+Number of Sections: 1
+Source: versions - Health and Human Services AM2383
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+AM2383 AM2383
+LB913 LB913
+DLM - 02/27/2026 DLM - 02/27/2026
+AMENDMENTS TO LB913
+Introduced by Health and Human Services.
+2 "The".
+-1-
+[DELETED: yH1 O p 2 l 6 s " l t X t a i"3A3L6D]
+
+
+================================================================================
+
+Raw Text:
+AM2383 AM2383
+LB913 LB913
+DLM - 02/27/2026 DLM - 02/27/2026
+AMENDMENTS TO LB913
+Introduced by Health and Human Services.
+1 1. On page 2, line 6, strike "No later than XXX, the" and insert
+2 "The".
+-1-
+
+[DELETED: yH1 O p 2 l 6 s " l t X t a i"3A3L6D]

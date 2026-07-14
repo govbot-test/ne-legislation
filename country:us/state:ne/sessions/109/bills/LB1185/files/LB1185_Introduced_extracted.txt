@@ -1,0 +1,311 @@
+Title: LEGISLATIVE BILL 1185
+Official Title: LEGISLATIVE BILL 1185
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 5 sections found
+
+================================================================================
+
+Section 1:
+LB1185 LB1185
+2026 2026
+LEGISLATURE OF NEBRASKA
+ONE HUNDRED NINTH LEGISLATURE
+SECOND SESSION
+Introduced by Bostar, 29.
+Read first time January 21, 2026
+Committee: Banking, Commerce and Insurance
+1 A BILL FOR AN ACT relating to consumer protection; to adopt the
+2 Conversational Artificial Intelligence Safety Act; to provide powers
+3 and duties to the Attorney General; to provide civil penalties; and
+4 to provide an operative date.
+5 Be it enacted by the people of the State of Nebraska,
+-1-
+LB1185 LB1185
+2026 2026
+1 Section 1. Sections 1 to 7 of this act shall be known and may be
+2 cited as the Conversational Artificial Intelligence Safety Act.
+3 Sec. 2. For purposes of the Conversational Artificial Intelligence
+4 Safety Act:
+5 (1) Account holder means an individual who has, or opens, an account
+6 or profile to use a conversational artificial intelligence service;
+7 (2)(a) Conversational artificial intelligence service means an
+8 artificial intelligence software application, web interface, or computer
+9 program that is accessible to the general public and that primarily
+10 simulates human conversation and interaction through textual, visual, or
+11 aural communications.
+12 (b) Conversational artificial intelligence service does not include
+13 an application, web interface, or computer program that is any of the
+14 following:
+15 (i) Primarily designed and marketed for use by developers or
+16 researchers;
+17 (ii) A feature within another software application, web interface,
+18 or computer program that is not a conversational artificial intelligence
+19 service;
+20 (iii) Designed to provide outputs relating to a narrow and discrete
+21 topic;
+22 (iv) Primarily designed and marketed for commercial use by business
+23 entities;
+24 (v) Functions as a speaker and voice command interface or voice-
+25 activated virtual assistant for a consumer electronic device; or
+26 (vi) Used by a business solely for internal purposes;
+27 (3) Individual means a natural person;
+28 (4) Minor means an individual that, based upon the circumstance, the
+29 operator has actual knowledge or reasonable certainty is younger than
+30 eighteen years of age;
+31 (5) Minor account holder means an account holder who is a minor;
+-2-
+LB1185 LB1185
+2026 2026
+1 (6)(a) Operator means a person who develops and makes available a
+2 conversational artificial intelligence service to the public.
+3 (b) Operator does not include mobile application stores or search
+4 engines solely because they provide access to a conversational artificial
+5 intelligence service;
+6 (7) Person means a natural person or legal entity; and
+7 (8) Sexually explicit conduct and visual depiction have the same
+8 meanings as in 18 U.S.C. 2256.
+9 Sec. 3. (1) An operator shall clearly and conspicuously disclose to
+10 each minor account holder that such minor account holder is interacting
+11 with artificial intelligence:
+12 (a) As a persistent visible disclaimer; or
+13 (b) Both:
+14 (i) At the beginning of each session; and
+15 (ii) Appearing at least every three hours in a continuous
+16 conversational artificial intelligence service interaction.
+17 (2) An operator shall not provide a minor account holder with points
+18 or similar rewards at unpredictable intervals with the intent to
+19 encourage increased engagement with the conversational artificial
+20 intelligence service.
+21 (3) An operator shall, for minor account holders, institute
+22 reasonable measures to prevent the conversational artificial intelligence
+23 service from:
+24 (a) Producing visual depictions of sexually explicit conduct;
+25 (b) Generating direct statements that the account holder should
+26 engage in sexually explicit conduct; or
+27 (c) Generating statements that sexually objectify the account
+28 holder.
+29 (4) For minor account holders, the operator shall institute
+30 reasonable measures to prevent the conversational artificial intelligence
+31 service from generating statements that would lead a reasonable person to
+-3-
+LB1185 LB1185
+2026 2026
+1 believe that they are interacting with a human, including:
+2 (a) Explicit claims that the conversational artificial intelligence
+3 service is sentient or human;
+4 (b) Statements that simulate emotional dependence;
+5 (c) Statements that simulate romantic or sexual innuendos; or
+6 (d) Role-playing of adult-minor romantic relationships.
+7 (5) An operator shall offer tools for minor account holders, and,
+8 when such account holders are younger than thirteen years of age, their
+9 parents or guardians, to manage the account holders' privacy and account
+10 settings. An operator shall also offer related tools to the parents or
+11 guardians of minor account holders thirteen years of age and older, as
+12 appropriate based on relevant risks.
+13 Sec. 4. If a reasonable person interacting with a conversational
+14 artificial intelligence system would be misled to believe that the person
+15 is interacting with a human, an operator shall clearly and conspicuously
+16 disclose that the conversational artificial intelligence service is
+17 artificial intelligence.
+18 Sec. 5. An operator shall adopt a protocol for the conversational
+19 artificial intelligence service to respond to user prompts regarding
+20 suicidal ideation or self-harm that includes, but is not limited to,
+21 making reasonable efforts to provide a response to the user that refers
+22 them to crisis service providers such as a suicide hotline, crisis text
+23 line, or other appropriate crisis services.
+24 Sec. 6. An operator shall not knowingly and intentionally cause or
+25 program a conversational artificial intelligence service to make any
+26 representation or statement that explicitly indicates that the
+27 conversational artificial intelligence service is designed to provide
+28 professional mental or behavioral health care.
+29 Sec. 7. (1) The Attorney General shall enforce the Conversational
+30 Artificial Intelligence Safety Act.
+31 (2)(a) The Attorney General may bring a civil action for appropriate
+-4-
+LB1185 LB1185
+2026 2026
+1 relief against an operator for a violation of the Conversational
+2 Artificial Intelligence Safety Act, on behalf of the State of Nebraska or
+3 on behalf of any person aggrieved by a violation of the act.
+4 (b) In an action under this section, appropriate relief includes:
+5 (i) Such preliminary and other equitable or declaratory relief as
+6 may be appropriate;
+7 (ii) An award of actual damages;
+8 (iii) Civil penalties of at least one thousand dollars per
+9 violation, but in no event more than five hundred thousand dollars per
+10 operator; and
+11 (iv) Reasonable expenses incurred in bringing the civil action,
+12 including court costs, reasonable attorney's fees, investigative costs,
+13 witness fees, and deposition costs.
+14 (3) Nothing in the Conversational Artificial Intelligence Safety Act
+15 can be interpreted as creating a private right of action.
+16 (4) The Conversational Artificial Intelligence Act shall not create
+17 liability for the developer of an artificial intelligence model for any
+18 violation of the act by an artificial intelligence system developed by a
+19 third party to provide a conversational artificial intelligence service
+20 for such developer.
+21 Sec. 8. This act becomes operative on July 1, 2027.
+-5-
+[DELETED: yBA B F A A r t c p t a tCatB5L62]
+[DELETED: ScSS(o( C a i s m aap t i a t t g p a t p0s1a2(3a a w i o c p t i a o t4f5( P d a m f u b d o6r7(8o9s0(1t2(3e4( F a a s a v c i o v5a6(7(8(9o h a k o r c i y t0e1(5L62]
+[DELETED: ( O m a p w d a m a c( O d n i m a s o sei(( S e c a v d h t smS0e1w2(3(4(5( A a l e t h i a c6c7(8o s r a u i w t i t9e i e w t c a0i1( A o s f m a h i2r3s4(5( G d s t t a h s6e7( G s t s o t a8h9( F m a h t o s i0r1s5L62]
+[DELETED: b(s(((( A o s o t f m a h awp0s1g2a3S 4  I a r p i w a c4a5i6d t t c a i s i7a8S9a i s t r t u p r0s i o s t i b i n l t1m2t3l4S5p a c a i s t m a6r o s t e i t t7c a i s i d t p8p9S0A1(5L62]
+[DELETED: r a a o f a v o t CAo(( S p a o e o d r am(( C p o a l o t d pv0o1( R e i i b t c a2i3w4(5c6(7l8v9t0f1S5L62]
+
+
+================================================================================
+
+Raw Text:
+LB1185 LB1185
+2026 2026
+LEGISLATURE OF NEBRASKA
+ONE HUNDRED NINTH LEGISLATURE
+SECOND SESSION
+LEGISLATIVE BILL 1185
+Introduced by Bostar, 29.
+Read first time January 21, 2026
+Committee: Banking, Commerce and Insurance
+1 A BILL FOR AN ACT relating to consumer protection; to adopt the
+2 Conversational Artificial Intelligence Safety Act; to provide powers
+3 and duties to the Attorney General; to provide civil penalties; and
+4 to provide an operative date.
+5 Be it enacted by the people of the State of Nebraska,
+-1-
+
+LB1185 LB1185
+2026 2026
+1 Section 1. Sections 1 to 7 of this act shall be known and may be
+2 cited as the Conversational Artificial Intelligence Safety Act.
+3 Sec. 2. For purposes of the Conversational Artificial Intelligence
+4 Safety Act:
+5 (1) Account holder means an individual who has, or opens, an account
+6 or profile to use a conversational artificial intelligence service;
+7 (2)(a) Conversational artificial intelligence service means an
+8 artificial intelligence software application, web interface, or computer
+9 program that is accessible to the general public and that primarily
+10 simulates human conversation and interaction through textual, visual, or
+11 aural communications.
+12 (b) Conversational artificial intelligence service does not include
+13 an application, web interface, or computer program that is any of the
+14 following:
+15 (i) Primarily designed and marketed for use by developers or
+16 researchers;
+17 (ii) A feature within another software application, web interface,
+18 or computer program that is not a conversational artificial intelligence
+19 service;
+20 (iii) Designed to provide outputs relating to a narrow and discrete
+21 topic;
+22 (iv) Primarily designed and marketed for commercial use by business
+23 entities;
+24 (v) Functions as a speaker and voice command interface or voice-
+25 activated virtual assistant for a consumer electronic device; or
+26 (vi) Used by a business solely for internal purposes;
+27 (3) Individual means a natural person;
+28 (4) Minor means an individual that, based upon the circumstance, the
+29 operator has actual knowledge or reasonable certainty is younger than
+30 eighteen years of age;
+31 (5) Minor account holder means an account holder who is a minor;
+-2-
+
+LB1185 LB1185
+2026 2026
+1 (6)(a) Operator means a person who develops and makes available a
+2 conversational artificial intelligence service to the public.
+3 (b) Operator does not include mobile application stores or search
+4 engines solely because they provide access to a conversational artificial
+5 intelligence service;
+6 (7) Person means a natural person or legal entity; and
+7 (8) Sexually explicit conduct and visual depiction have the same
+8 meanings as in 18 U.S.C. 2256.
+9 Sec. 3. (1) An operator shall clearly and conspicuously disclose to
+10 each minor account holder that such minor account holder is interacting
+11 with artificial intelligence:
+12 (a) As a persistent visible disclaimer; or
+13 (b) Both:
+14 (i) At the beginning of each session; and
+15 (ii) Appearing at least every three hours in a continuous
+16 conversational artificial intelligence service interaction.
+17 (2) An operator shall not provide a minor account holder with points
+18 or similar rewards at unpredictable intervals with the intent to
+19 encourage increased engagement with the conversational artificial
+20 intelligence service.
+21 (3) An operator shall, for minor account holders, institute
+22 reasonable measures to prevent the conversational artificial intelligence
+23 service from:
+24 (a) Producing visual depictions of sexually explicit conduct;
+25 (b) Generating direct statements that the account holder should
+26 engage in sexually explicit conduct; or
+27 (c) Generating statements that sexually objectify the account
+28 holder.
+29 (4) For minor account holders, the operator shall institute
+30 reasonable measures to prevent the conversational artificial intelligence
+31 service from generating statements that would lead a reasonable person to
+-3-
+
+LB1185 LB1185
+2026 2026
+1 believe that they are interacting with a human, including:
+2 (a) Explicit claims that the conversational artificial intelligence
+3 service is sentient or human;
+4 (b) Statements that simulate emotional dependence;
+5 (c) Statements that simulate romantic or sexual innuendos; or
+6 (d) Role-playing of adult-minor romantic relationships.
+7 (5) An operator shall offer tools for minor account holders, and,
+8 when such account holders are younger than thirteen years of age, their
+9 parents or guardians, to manage the account holders' privacy and account
+10 settings. An operator shall also offer related tools to the parents or
+11 guardians of minor account holders thirteen years of age and older, as
+12 appropriate based on relevant risks.
+13 Sec. 4. If a reasonable person interacting with a conversational
+14 artificial intelligence system would be misled to believe that the person
+15 is interacting with a human, an operator shall clearly and conspicuously
+16 disclose that the conversational artificial intelligence service is
+17 artificial intelligence.
+18 Sec. 5. An operator shall adopt a protocol for the conversational
+19 artificial intelligence service to respond to user prompts regarding
+20 suicidal ideation or self-harm that includes, but is not limited to,
+21 making reasonable efforts to provide a response to the user that refers
+22 them to crisis service providers such as a suicide hotline, crisis text
+23 line, or other appropriate crisis services.
+24 Sec. 6. An operator shall not knowingly and intentionally cause or
+25 program a conversational artificial intelligence service to make any
+26 representation or statement that explicitly indicates that the
+27 conversational artificial intelligence service is designed to provide
+28 professional mental or behavioral health care.
+29 Sec. 7. (1) The Attorney General shall enforce the Conversational
+30 Artificial Intelligence Safety Act.
+31 (2)(a) The Attorney General may bring a civil action for appropriate
+-4-
+
+LB1185 LB1185
+2026 2026
+1 relief against an operator for a violation of the Conversational
+2 Artificial Intelligence Safety Act, on behalf of the State of Nebraska or
+3 on behalf of any person aggrieved by a violation of the act.
+4 (b) In an action under this section, appropriate relief includes:
+5 (i) Such preliminary and other equitable or declaratory relief as
+6 may be appropriate;
+7 (ii) An award of actual damages;
+8 (iii) Civil penalties of at least one thousand dollars per
+9 violation, but in no event more than five hundred thousand dollars per
+10 operator; and
+11 (iv) Reasonable expenses incurred in bringing the civil action,
+12 including court costs, reasonable attorney's fees, investigative costs,
+13 witness fees, and deposition costs.
+14 (3) Nothing in the Conversational Artificial Intelligence Safety Act
+15 can be interpreted as creating a private right of action.
+16 (4) The Conversational Artificial Intelligence Act shall not create
+17 liability for the developer of an artificial intelligence model for any
+18 violation of the act by an artificial intelligence system developed by a
+19 third party to provide a conversational artificial intelligence service
+20 for such developer.
+21 Sec. 8. This act becomes operative on July 1, 2027.
+-5-
+
+[DELETED: yBA B F A A r t c p t a tCatB5L62]
+[DELETED: ScSS(o( C a i s m aap t i a t t g p a t p0s1a2(3a a w i o c p t i a o t4f5( P d a m f u b d o6r7(8o9s0(1t2(3e4( F a a s a v c i o v5a6(7(8(9o h a k o r c i y t0e1(5L62]
+[DELETED: ( O m a p w d a m a c( O d n i m a s o sei(( S e c a v d h t smS0e1w2(3(4(5( A a l e t h i a c6c7(8o s r a u i w t i t9e i e w t c a0i1( A o s f m a h i2r3s4(5( G d s t t a h s6e7( G s t s o t a8h9( F m a h t o s i0r1s5L62]
+[DELETED: b(s(((( A o s o t f m a h awp0s1g2a3S 4  I a r p i w a c4a5i6d t t c a i s i7a8S9a i s t r t u p r0s i o s t i b i n l t1m2t3l4S5p a c a i s t m a6r o s t e i t t7c a i s i d t p8p9S0A1(5L62]
+[DELETED: r a a o f a v o t CAo(( S p a o e o d r am(( C p o a l o t d pv0o1( R e i i b t c a2i3w4(5c6(7l8v9t0f1S5L62]

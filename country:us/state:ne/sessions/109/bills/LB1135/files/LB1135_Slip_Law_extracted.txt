@@ -1,0 +1,2171 @@
+Title: LEGISLATIVE BILL 1135
+Official Title: LEGISLATIVE BILL 1135
+Number of Sections: 17
+Source: versions - Slip Law
+Media Type: application/pdf
+Strikethrough Detection: 13 sections found
+
+================================================================================
+
+Section 1:
+LB1135 LB1135
+2026 2026
+Approved by the Governor April 14, 2026
+Introduced by Urban Affairs Committee: McKinney, 11, Chairperson; Cavanaugh,
+J., 9; Quick, 35; Rountree, 3.
+A BILL FOR AN ACT relating to government; to amend sections 13-3206, 18-2124,
+18-2125, 18-2136, 18-3404, 18-3405, 18-3407, 18-3408, 18-3410, and
+18-3413, Reissue Revised Statutes of Nebraska, section 18-2117.01, Revised
+Statutes Cumulative Supplement, 2024, and sections 18-2101.02 and 18-2147,
+Revised Statutes Supplement, 2025; to adopt the Service Contract Reporting
+Act; to authorize certain municipal contracts and agreements relating to
+parking facilities; to change provisions relating to delinquent annual
+assessments and PACE liens under the Property Assessed Clean Energy Act;
+to authorize the issuance of conduit revenue bonds and certain taxpayer
+agreements under the Community Development Law; to change provisions of
+the Nebraska Municipal Land Bank Act; to provide for the sale of certain
+waterworks, sewer systems, and water systems to Indian tribes; to
+harmonize provisions; to provide a duty for the Revisor of Statutes; to
+provide operative dates; to repeal the original sections; and to declare
+an emergency.
+Be it enacted by the people of the State of Nebraska,
+
+Section 2:
+Section 1. Sections 1 to 5 of this act shall be known and may be cited as
+the Service Contract Reporting Act.
+Sec. 2. For purposes of the Service Contract Reporting Act:
+(1) City means a city of the metropolitan class;
+(2) County means a county in this state with a population of more than
+five hundred thousand inhabitants as determined by the most recent federal
+decennial census;
+(3) Division means the materiel division of the Department of
+Administrative Services;
+(4) Fiscal year means the twelve-month period used by the city, county, or
+state agency for budgeting purposes;
+(5) Service contract means a contract that:
+(a) Is awarded by a city, county, or state agency for the provision of
+legal services, accounting services, financial consulting services, management
+consulting services, health care services, engineering services, architectural
+services, information technology services, marketing and advertising services,
+human resources consulting services, environmental consulting services,
+educational and training services, snow removal and hauling services,
+janitorial services, custodial and cleaning services, yard maintenance
+services, or tree removal services; and
+(b) Has a value of:
+(i) For contracts entered into prior to January 1, 2029, seventy thousand
+dollars or more;
+(ii) For contracts entered into on or after January 1, 2029, and prior to
+January 1, 2034, ninety thousand dollars or more; or
+(iii) For contracts entered into on or after January 1, 2034, one hundred
+ten thousand dollars or more;
+(6) State agency means any agency, board, or commission of this state
+other than the University of Nebraska, the Nebraska state colleges, the courts,
+the Legislature, or any officer or state agency established by the Constitution
+of Nebraska;
+(7) State aid means:
+(a) For both cities and counties, state aid paid pursuant to sections
+60-3,202 and 77-3523;
+(b) For cities, state aid to cities paid pursuant to sections 39-2501 to
+39-2520, 60-3,190, and 77-27,139.04 and insurance premium tax paid to cities;
+and
+(c) For counties, state aid to counties paid pursuant to sections 60-3,184
+to 60-3,190, insurance premium tax paid to counties, and reimbursements to
+counties from funds appropriated pursuant to section 29-3933; and
+(8) Zip code means the numerical code used by the United States Postal
+Service to identify geographic areas.
+Sec. 3. On or before March 1, 2028, and on or before March 1 of each year
+thereafter, each city, county, and state agency shall submit a report to the
+division containing the following information:
+(1) The name and address of each individual or entity that was awarded a
+service contract during the most recently completed fiscal year and the type of
+service involved in each such contract;
+(2) The total dollar value of service contracts awarded during the most
+recently completed fiscal year, including an overall total and a breakdown by
+zip code; and
+(3) A description of any efforts made by the city, county, or state agency
+to increase the number of service contracts awarded to individuals and entities
+located within zip codes with the lowest amounts of service contract awards.
+Sec. 4. On or before April 1, 2028, and on or before April 1 of each year
+-1-
+LB1135 LB1135
+2026 2026
+thereafter, the division shall compile the information reported under section 3
+of this act and shall electronically submit a comprehensive report regarding
+such information to the Governor, the Clerk of the Legislature, and the Urban
+Affairs Committee of the Legislature. The division shall also make the
+comprehensive report available on the website of the Department of
+Administrative Services.
+Sec. 5. If any city or county fails to submit an annual report to the
+division as required under section 3 of this act, the division shall send
+notification of the noncompliance to the governing body of the relevant city or
+county and to the State Treasurer. The State Treasurer shall then suspend all
+distributions of state aid allocated to the city or county until the annual
+report is submitted. Once the annual report has been submitted, the city or
+county shall again become entitled to all distributions of state aid, including
+any suspended distributions.
+Sec. 6. (1) Any city of the first class, city of the second class, or
+village may enter into contracts or agreements with any person, firm,
+corporation, or political subdivision for the operation, maintenance,
+management, or enforcement of municipal parking facilities, including onstreet
+metered parking and offstreet public lots or garages.
+(2) Such contracts or agreements may authorize the person, firm,
+corporation, or political subdivision to issue and process parking citations,
+collect fines, maintain equipment, or operate payment systems, provided that
+the city or village retains final authority over adjudication and appeals.
+(3) The city or village shall retain sufficient control over the parking
+facilities to ensure proper operation in the public interest and to establish
+or approve all rates, charges, and fines.
+(4) No contract or agreement under this section shall exceed:
+(a) Thirty years in duration, including renewals, for a city of the first
+class; or
+(b) Ten years in duration, including renewals, for a city of the second
+class or village.
+Sec. 7. Section 13-3206, Reissue Revised Statutes of Nebraska, is amended
+to read:
+13-3206 (1)(a) For qualifying property other than single-family
+residential property, any annual assessment imposed on such qualifying property
+that becomes delinquent, including any interest on the annual assessment and
+any penalty, shall constitute a PACE lien against the qualifying property on
+which the annual assessment is imposed until the annual assessment, including
+any interest and penalty, is paid in full. Any annual assessment that is not
+paid within the time period set forth in the assessment contract shall be
+considered delinquent. The municipality shall, within fourteen days after an
+annual assessment becomes delinquent or, if there is a third-party lender
+financing the energy project, within fourteen days after receiving notice from
+such third-party lender that an annual assessment has become delinquent, record
+a notice of such lien in the office of the register of deeds of the county in
+which the qualifying property is located. The municipality shall certify the
+amount of any such delinquency and lien to the county treasurer, and the lien
+shall be treated as a special assessment in the same manner as special
+assessments are treated under section 77-1858 and shall be subject to the same
+collection processes for real estate taxes and special assessments as set forth
+in Chapter 77, including, without limitation, sections 77-1801 to 77-1863.
+(b) For qualifying property that is single-family residential property,
+all annual assessments imposed on such qualifying property, including any
+interest on the annual assessments and any penalty, shall, upon the initial
+annual assessment, constitute a PACE lien against the qualifying property on
+which the annual assessments are imposed until all annual assessments,
+including any interest and penalty, are paid in full. Any annual assessment
+that is not paid within the time period set forth in the assessment contract
+shall be considered delinquent. The municipality shall, upon imposition of the
+initial annual assessment, record a notice of such lien in the office of the
+register of deeds of the county in which the qualifying property is located.
+(2) A notice of lien filed under this section shall, at a minimum,
+include:
+(a) The amount of funds disbursed or to be disbursed pursuant to the
+assessment contract;
+(b) The names and addresses of the current owners of the qualifying
+property subject to the annual assessment;
+(c) The legal description of the qualifying property subject to the annual
+assessment;
+(d) The duration of the assessment contract; and
+(e) The name and address of the municipality filing the notice of lien.
+(3) The PACE lien created under this section shall:
+(a) For qualifying property that is single-family residential property,
+(i) be subordinate to all liens on the qualifying property recorded prior to
+the time the notice of the PACE lien is recorded, (ii) be subordinate to a
+first mortgage or trust deed on the qualifying property recorded after the
+notice of the PACE lien is recorded, and (iii) have priority over any other
+lien on the qualifying property recorded after the notice of the PACE lien is
+recorded; and
+(b) For qualifying property other than single-family residential property
+and subject to the requirement in subdivision (2)(a) of section 13-3205 to
+obtain and record an executed consent and subordination agreement, have the
+same priority and status as real property tax liens.
+-2-
+LB1135 LB1135
+2026 2026
+(4)(a) Notwithstanding any other provision of law, in the event of a sale
+pursuant to a foreclosure or a sale pursuant to the exercise of a power of sale
+under a trust deed relating to qualifying property that is single-family
+residential property, the holders of any mortgages, trust deeds, or other
+liens, including delinquent annual assessments secured by PACE liens, shall
+receive proceeds in accordance with the priorities established under
+subdivision (3)(a) of this section. In the event there are insufficient
+proceeds from such a sale, from the loss reserve fund established pursuant to
+
+Section 3:
+section 13-3208, or from any other means to satisfy the delinquent annual
+assessments, such delinquent annual assessments shall be extinguished. Any
+annual assessment that has not yet become delinquent shall not be accelerated
+or extinguished in the event of a sale pursuant to a foreclosure or a sale
+pursuant to the exercise of a power of sale under a trust deed relating to
+qualifying property that is single-family residential property. Upon the
+transfer of ownership of qualifying property that is single-family residential
+property, including a sale pursuant to a foreclosure or a sale pursuant to the
+exercise of a power of sale under a trust deed, the nondelinquent annual
+assessments shall continue as a lien on the qualifying property, subject to the
+priorities established under subdivision (3)(a) of this section.
+(b) Upon the transfer of ownership of qualifying property other than
+single-family residential property, including a sale pursuant to a foreclosure
+or a sale pursuant to the exercise of a power of sale under a trust deed, the
+obligation to pay annual assessments shall run with the qualifying property.
+(5)(a) For qualifying property other than single-family residential
+property, when the delinquent annual assessment, including any interest and
+penalty, is paid in full, a release of the PACE lien shall be recorded in the
+office of the register of deeds of the county in which the notice of the PACE
+lien was recorded.
+(b) For qualifying property that is single-family residential property,
+when all annual assessments, including any interest and penalty, are paid in
+full, a release of the PACE lien shall be recorded in the office of the
+register of deeds of the county in which the notice of the PACE lien was
+recorded.
+(6) If the holder or loan servicer of any existing mortgage or trust deed
+that encumbers or that is otherwise secured by the qualifying property has
+established a payment schedule or escrow account to accrue property taxes or
+insurance, such holder or loan servicer may increase the required monthly
+payment, if any, by an amount necessary to pay the annual assessment imposed
+under the Property Assessed Clean Energy Act.
+Sec. 8. Section 18-2101.02, Revised Statutes Supplement, 2025, is amended
+to read:
+18-2101.02 (1) For any city that (a) intends to prepare a redevelopment
+plan that will divide ad valorem taxes for a period of more than fifteen years
+but not more than twenty years as provided in subdivision (5)(a) (4)(a) of
+
+Section 4:
+section 18-2147, (b) intends to declare an area as an extremely blighted area
+for purposes of funding decisions under subdivision (1)(b) of section 58-708,
+or (c) intends to declare an area as an extremely blighted area in order for
+individuals purchasing residences in such area to qualify for the income tax
+credit authorized in subsection (7) of section 77-2715.07, the governing body
+of such city shall first declare, by resolution adopted after the public
+hearings required under this section, such area to be an extremely blighted
+area.
+(2) Prior to making such declaration, the governing body of the city shall
+conduct or cause to be conducted a study or an analysis on whether the area is
+extremely blighted and shall submit the question of whether such area is
+extremely blighted to the planning commission or board of the city for its
+review and recommendation. The planning commission or board shall hold a public
+hearing on the question after giving notice of the hearing as provided in
+
+Section 5:
+section 18-2115.01. The planning commission or board shall submit its written
+recommendations to the governing body of the city within thirty days after the
+public hearing.
+(3) Upon receipt of the recommendations of the planning commission or
+board, or if no recommendations are received within thirty days after the
+public hearing required under subsection (2) of this section, the governing
+body shall hold a public hearing on the question of whether the area is
+extremely blighted after giving notice of the hearing as provided in section
+18-2115.01. At the public hearing, all interested parties shall be afforded a
+reasonable opportunity to express their views respecting the proposed
+declaration. After such hearing, the governing body of the city may make its
+declaration.
+(4) Copies of each study or analysis conducted pursuant to subsection (2)
+of this section shall be posted on the city's public website or made available
+for public inspection at a location designated by the city.
+(5) The study or analysis required under subsection (2) of this section
+may be conducted in conjunction with the study or analysis required under
+
+Section 6:
+section 18-2109. The hearings required under this section may be held in
+conjunction with the hearings required under section 18-2109.
+(6) Notwithstanding any other provisions of the Community Development Law,
+the designation of an area as an extremely blighted area pursuant to this
+
+Section 7:
+section shall be valid for a period of no less than twenty-five years from the
+effective date of the resolution declaring such area to be an extremely
+blighted area, except that such designation may be removed prior to the end of
+such period pursuant to section 18-2156.
+-3-
+LB1135 LB1135
+2026 2026
+Sec. 9. Section 18-2117.01, Revised Statutes Cumulative Supplement, 2024,
+is amended to read:
+18-2117.01 (1)(a) On or before December 1 each year, each city which has
+approved one or more redevelopment plans which are financed in whole or in part
+through the division of taxes as provided in section 18-2147 shall provide a
+report to the Property Tax Administrator on each such redevelopment plan which
+includes the following information:
+(i) A copy of the redevelopment plan and any amendments thereto, including
+the date upon which the redevelopment plan was approved, the effective date for
+dividing the ad valorem tax as provided to the county assessor pursuant to
+subsection (7) (6) of section 18-2147, and the location and boundaries of the
+property in the redevelopment project; and
+(ii) A short narrative description of the type of development undertaken
+by the city or village with the financing and the type of business or
+commercial activity locating within the redevelopment project area as a result
+of the redevelopment project.
+(b) If a city has approved one or more redevelopment plans using an
+expedited review under section 18-2155, the city may file a single report under
+this subsection for all such redevelopment plans.
+(2) The report required under subsection (1) of this section must be filed
+each year, regardless of whether the information in the report has changed,
+except that a city is not required to refile a copy of the redevelopment plan
+or an amendment thereto if such copy or amendment has previously been filed.
+(3) The Property Tax Administrator shall compile a report for each active
+redevelopment project, based upon information provided by the cities pursuant
+to subsection (1) of this section and information reported by the county
+assessor or county clerk on the certificate of taxes levied pursuant to section
+77-1613.01. Each report shall be electronically transmitted to the Clerk of the
+Legislature not later than March 1 each year. The report may include any
+recommendations of the Property Tax Administrator as to what other information
+should be included in the report from the cities so as to facilitate analysis
+of the uses, purposes, and effectiveness of tax-increment financing and the
+process for its implementation or to streamline the reporting process provided
+for in this section to eliminate unnecessary paperwork.
+Sec. 10. Section 18-2124, Reissue Revised Statutes of Nebraska, is amended
+to read:
+18-2124 An authority may issue bonds, including conduit revenue bonds
+subject to a taxpayer agreement entered into pursuant to subsection (3) of
+
+Section 8:
+section 18-2147, from time to time in its discretion for any of its corporate
+purposes, including the payment of principal and interest upon any advances for
+surveys and plans for redevelopment projects. An authority may also issue
+refunding bonds for the purpose of paying, retiring, or otherwise refinancing
+or in exchange for any or all of the principal or interest upon bonds
+previously issued by the authority. An authority may issue such types of bonds
+as it may determine, including, without limiting the generality of the
+foregoing, bonds on which the principal and interest are payable: (1)
+Exclusively from the income, proceeds, and revenue of the redevelopment project
+financed with proceeds of such bonds; (2) exclusively from the income,
+proceeds, and revenue of any of its redevelopment projects whether or not they
+are financed in whole or in part with the proceeds of such bonds; (3)
+exclusively from its revenue and income, including any special assessment
+levied pursuant to section 18-1722 and such tax revenue or receipts as may be
+authorized under the Community Development Law, including those which may be
+pledged under section 18-2150, and from such grants and loans as may be
+received; or (4) from all or part of the income, proceeds, and revenue
+enumerated in subdivisions (1), (2), and (3) of this section. Any such bonds
+may be additionally secured by a pledge of any loan, grant, or contributions,
+or parts thereof, from the federal government or other source or a mortgage of
+any redevelopment project or projects of the authority. The authority shall not
+pledge the credit or taxing power of the state or any political subdivision
+thereof, except such tax receipts as may be authorized under this section or
+pledged under section 18-2150, or place any lien or encumbrance on any property
+owned by the state, county, or city used by the authority.
+Sec. 11. Section 18-2125, Reissue Revised Statutes of Nebraska, is amended
+to read:
+18-2125 Neither the members of an authority nor any person executing the
+bonds shall be liable personally on the bonds by reason of the issuance
+thereof. The bonds and other obligations of the authority, and such bonds and
+obligations shall so state on their face, shall not be a debt of the city and
+the city shall not be liable on such bonds, except to the extent authorized by
+
+Section 9:
+sections 18-2147 to 18-2150, nor in any event shall such bonds or obligations
+be payable out of any funds or properties other than those of said authority
+acquired for the purposes of the Community Development Law, except to the
+extent authorized by sections 18-2147 to 18-2150. Except to the extent
+otherwise authorized, the bonds shall not constitute an indebtedness within the
+meaning of any constitutional or statutory debt limitation or restriction.
+Bonds of an authority are declared to be issued for an essential public and
+governmental purpose and to be public instrumentalities and, together with
+interest thereon and income therefrom, shall be exempt from all Nebraska taxes.
+All bonds, except conduit revenue bonds issued pursuant to subsection (3) of
+
+Section 10:
+section 18-2147, shall be general obligations of the authority issuing same and
+shall be payable out of any revenue, income, receipts, proceeds, or other money
+of the authority, except as may be otherwise provided in the instruments
+-4-
+LB1135 LB1135
+2026 2026
+themselves.
+An authority shall have power from time to time to issue bond anticipation
+notes, referred to as notes herein, and from time to time to issue renewal
+notes, such notes in any case to mature not later than thirty months from the
+date of incurring the indebtedness represented thereby in an amount not
+exceeding in the aggregate at any time outstanding the amount of bonds then or
+theretofore authorized. Payment of such notes shall be made from any money or
+revenue which the authority may have available for such purpose or from the
+proceeds of the sale of bonds of the authority, or such notes may be exchanged
+for a like amount of such bonds. The authority may pledge such money or revenue
+of the authority, subject to prior pledges thereof, if any, for the payment of
+such notes, and may in addition secure the notes in the same manner as herein
+provided for bonds. All notes shall be issued and sold in the same manner as
+bonds, and any authority shall have power to make contracts for the future sale
+from time to time of notes on terms and conditions stated in such contracts,
+and the authority shall have power to pay such consideration as it shall deem
+proper for any commitments to purchase notes and bonds in the future. Such
+notes shall also be collaterally secured by pledges and deposits with a bank or
+trust company, in trust for the payment of such notes, of bonds in an aggregate
+amount at least equal to the amount of such notes and, in any event, in an
+amount deemed by the issuing authority sufficient to provide for the payment of
+the notes in full at the maturity thereof. The authority may provide in the
+collateral agreement that the notes may be exchanged for bonds held as
+collateral security for the notes, or that the trustee may sell the bonds if
+the notes are not otherwise paid at maturity, and apply the proceeds of such
+sale to the payment of the notes. Such notes shall bear interest at a rate set
+by the authority, and shall be sold at such price as shall cause an interest
+cost thereon not to exceed such rate.
+It is the intention hereof that any pledge of revenue, income, receipts,
+proceeds, or other money made by an authority for the payment of bonds or notes
+shall be valid and binding from the time such pledge is made; that the revenue,
+income, receipts, proceeds, and other money so pledged and thereafter received
+by the authority shall immediately be subject to the lien of such pledge
+without the physical delivery thereof or further act, and that the lien of any
+such pledge shall be valid and binding as against all parties having claims of
+any kind in tort, contract, or otherwise against the authority irrespective of
+whether such parties have notice thereof. Neither the resolution nor any other
+instrument by which a pledge is created need be recorded.
+Sec. 12. Section 18-2136, Reissue Revised Statutes of Nebraska, is amended
+to read:
+18-2136 All property including funds of an authority shall be exempt from
+levy and sale by virtue of an execution, and no execution or other judicial
+process shall issue against such property nor shall judgment against an
+authority be a charge or lien upon its property. The provisions of this section
+shall not apply to or limit the right of obligees to foreclose or otherwise
+enforce any taxpayer agreement entered into pursuant to subsection (3) of
+
+Section 11:
+section 18-2147 or any mortgage of an authority or the right of obligees to
+pursue any remedies for the enforcement of any pledge or lien given by an
+authority on its rents, fees, grants, or revenue.
+Sec. 13. Section 18-2147, Revised Statutes Supplement, 2025, is amended to
+read:
+18-2147 (1) Any redevelopment plan as originally approved or as later
+modified pursuant to section 18-2117 may contain a provision that any ad
+valorem tax levied upon real property, or any portion thereof, in a
+redevelopment project for the benefit of any public body shall be divided, for
+the applicable period described in subsection (5) (4) of this section, as
+follows:
+(a) That portion of the ad valorem tax which is produced by the levy at
+the rate fixed each year by or for each such public body upon the redevelopment
+project valuation shall be paid into the funds of each such public body in the
+same proportion as are all other taxes collected by or for the body. When there
+is not a redevelopment project valuation on a parcel or parcels, the county
+assessor shall determine the redevelopment project valuation based upon the
+fair market valuation of the parcel or parcels as of January 1 of the year
+prior to the year that the ad valorem taxes are to be divided. The county
+assessor shall provide written notice of the redevelopment project valuation to
+the authority as defined in section 18-2103 and the owner. The authority or
+owner may protest the valuation to the county board of equalization within
+thirty days after the date of the valuation notice. All provisions of section
+77-1502 except dates for filing of a protest, the period for hearing protests,
+and the date for mailing notice of the county board of equalization's decision
+are applicable to any protest filed pursuant to this section. The county board
+of equalization shall decide any protest filed pursuant to this section within
+thirty days after the filing of the protest. The county clerk shall mail a copy
+of the decision made by the county board of equalization on protests pursuant
+to this section to the authority or owner within seven days after the board's
+decision. Any decision of the county board of equalization may be appealed to
+the Tax Equalization and Review Commission, in accordance with section 77-5013,
+within thirty days after the date of the decision;
+(b) That portion of the ad valorem tax on real property, as provided in
+the redevelopment contract, bond resolution, or redevelopment plan, as
+applicable, in the redevelopment project in excess of such amount, if any,
+shall be allocated to and, when collected, paid into a special fund of the
+-5-
+LB1135 LB1135
+2026 2026
+authority to be used solely to pay the principal of, the interest on, and any
+premiums due in connection with the bonds of, loans, notes, or advances of
+money to, or indebtedness incurred by, whether funded, refunded, assumed, or
+otherwise, such authority for financing or refinancing, in whole or in part,
+the redevelopment project. When such bonds, loans, notes, advances of money, or
+indebtedness, including interest and premiums due, have been paid, the
+authority shall so notify the county assessor and county treasurer and all ad
+valorem taxes upon taxable real property in such a redevelopment project shall
+be paid into the funds of the respective public bodies. An authority may use a
+single fund for purposes of this subdivision for all redevelopment projects or
+may use a separate fund for each redevelopment project; and
+(c) Any interest and penalties due for delinquent taxes shall be paid into
+the funds of each public body in the same proportion as are all other taxes
+collected by or for the public body.
+(2) To the extent that a redevelopment plan authorizes the division of ad
+valorem taxes levied upon only a portion of the real property included in such
+redevelopment plan, any improvements funded by such division of taxes shall be
+related to the redevelopment plan that authorized such division of taxes.
+(3)(a) An authority may enter into a redevelopment contract or adopt a
+bond resolution or redevelopment plan pursuant to which it issues conduit
+revenue bonds and under which the authority may pledge a percentage, up to and
+including one hundred percent, of the annual excess tax revenues described in
+subdivision (1)(b) of this section, if any, toward the authority's obligations
+under the contract, resolution, or plan. The ad valorem taxes to be pledged
+under this subsection shall be placed into a special fund of the authority to
+be used solely to pay the principal of, the interest on, and any premiums due
+in connection with the bonds of the redevelopment project. When an authority
+has pledged less than one hundred percent of the excess tax revenues under the
+contract, resolution, or plan, the unpledged portion of ad valorem taxes
+collected on the real property shall be paid into the funds of the respective
+public bodies as provided in subdivision (1)(b) of this section.
+(b) An authority that issues one or more conduit revenue bonds pursuant to
+subdivision (3)(a) of this section may enter into an agreement with a taxpayer
+that limits the taxpayer's rights to challenge the assessment of real property
+taxes on real property within a redevelopment project or that guarantees,
+enhances, or otherwise further secures bonds issued by the authority, such as
+by guaranteeing any shortfall in real property taxes pledged to payment of the
+conduit revenue bonds issued to support a redevelopment project, if (i) the
+taxpayer's real property is within such redevelopment project and (ii) the real
+property taxes levied upon such real property are subject to division in
+accordance with subdivision (3)(a) of this section. The obligation to make
+payments under a taxpayer agreement that guarantee, enhance, or otherwise
+further secure conduit revenue bonds issued pursuant to subdivision (3)(a) of
+this section shall be treated in the same manner as property taxes for purposes
+of section 77-203 if, and to the extent that, the taxpayer agreement provides
+for a property tax lien.
+(c) A lien resulting from a taxpayer agreement described in subdivision
+(3)(b) of this section takes priority over any existing or subsequent mortgage,
+other lien, or other encumbrance on the property, shall have parity with a
+property tax lien described in section 77-203, and may be enforced and
+collected in all respects as real property taxes.
+(4)(a) (3)(a) For any redevelopment plan located in a city of the
+metropolitan class that includes a division of taxes, as provided in this
+
+Section 12:
+section, that produces, in whole or in part, funds to be used directly or
+indirectly for (i) new construction, rehabilitation, or acquisition of housing
+for households with annual incomes below the area median income for households
+and located within six hundred yards of a public passenger streetcar or (ii)
+new construction, rehabilitation, or acquisition of single-family housing or
+condominium housing used as primary residences for individuals with annual
+incomes below the area median income for individuals, such housing shall be
+deemed related to the redevelopment plan that authorized such division of taxes
+regardless of whether such housing is or will be located on real property
+within such redevelopment plan, as long as such housing supports activities
+occurring on or identified in such redevelopment plan.
+(b) During each fiscal year in which the funds described in subdivision
+(a) of this subsection are available, the authority and city shall make best
+efforts to allocate not less than thirty percent of such funds to single-family
+housing deemed related to the redevelopment plan described under such
+subdivision.
+(c) In selecting projects to receive funding, the authority and city shall
+develop a qualified allocation plan and give first priority to financially
+viable projects that serve the lowest income occupants for the longest period
+of time.
+(5)(a) (4)(a) For any redevelopment plan for which more than fifty percent
+of the property in the redevelopment project area has been declared an
+extremely blighted area in accordance with section 18-2101.02, ad valorem taxes
+shall be divided for a period not to exceed twenty years after the effective
+date as identified in the project redevelopment contract or in the resolution
+of the authority authorizing the issuance of bonds pursuant to section 18-2124.
+(b) For all other redevelopment plans, ad valorem taxes shall be divided
+for a period not to exceed fifteen years after the effective date as identified
+in the project redevelopment contract, in the resolution of the authority
+authorizing the issuance of bonds pursuant to section 18-2124, or in the
+-6-
+LB1135 LB1135
+2026 2026
+redevelopment plan, whichever is applicable.
+(6) (5) The effective date of a provision dividing ad valorem taxes as
+provided in subsection (5) (4) of this section shall not occur until such time
+as the real property in the redevelopment project is within the corporate
+boundaries of the city. This subsection shall not apply to a redevelopment
+project involving a formerly used defense site as authorized in section
+18-2123.01.
+(7) (6) All notices of the provision for dividing ad valorem taxes shall
+be sent by the authority to the county assessor on forms prescribed by the
+Property Tax Administrator. The notice shall be sent to the county assessor on
+or before July 1 of the year of the effective date of the provision. Failure to
+satisfy the notice requirement of this section shall result in the taxes, for
+all taxable years affected by the failure to give notice of the effective date
+of the provision, remaining undivided and being paid into the funds for each
+public body receiving property taxes generated by the property in the
+redevelopment project. However, the redevelopment project valuation for the
+remaining division of ad valorem taxes in accordance with subdivisions (1)(a)
+and (b) of this section shall be the last certified valuation for the taxable
+year prior to the effective date of the provision to divide the taxes for the
+remaining portion of the twenty-year or fifteen-year period pursuant to
+subsection (5) (4) of this section.
+Sec. 14. Section 18-3404, Reissue Revised Statutes of Nebraska, is amended
+to read:
+18-3404 (1) A single municipality may create a land bank if the
+municipality is a city of the metropolitan class or city of the primary class.
+Such municipality shall create the land bank by the adoption of an ordinance
+which specifies the following:
+(a) The name of the land bank;
+(b) The initial individuals to serve as members of the board and the
+length of terms for which they are to serve; and
+(c) The qualifications and terms of office of members of the board.
+(2) Two or more municipalities may elect to enter into an agreement
+pursuant to the Interlocal Cooperation Act to create a single land bank to act
+on behalf of such municipalities, which agreement shall contain the information
+required by subsection (1) of this section.
+(3) A municipality may elect to join an existing land bank by entering
+into an agreement pursuant to the Interlocal Cooperation Act with a
+municipality city of the metropolitan class or city of the primary class that
+has created a land bank pursuant to subsection (1) of this section or by
+joining an existing agreement pursuant to the Interlocal Cooperation Act with
+the municipalities that formed a land bank pursuant to subsection (2) of this
+
+Section 13:
+section. Agreements entered into or joined under this subsection shall contain
+the information required by subsection (1) of this section.
+(4) Each land bank created pursuant to the Nebraska Municipal Land Bank
+Act shall be deemed to be a public corporation acting in a governmental
+capacity and a political subdivision of the state and shall have permanent and
+perpetual duration until terminated and dissolved in accordance with section
+18-3414.
+(5) The primary goal of any land bank shall be to facilitate the return of
+vacant, abandoned, and tax-delinquent properties to productive use.
+Sec. 15. Section 18-3405, Reissue Revised Statutes of Nebraska, is amended
+to read:
+18-3405 (1) If a land bank is created by a single municipality pursuant to
+subsection (1) of section 18-3404, the board of such land bank shall meet the
+following requirements:
+(a) The board shall consist of:
+(i) An odd number of Seven voting members, totaling at least seven,
+appointed by the chief executive officer of the municipality that created the
+land bank and confirmed by a two-thirds vote of the governing body of such
+municipality; and
+(ii) The following nonvoting members:
+(A) The planning director of the municipality that created the land bank
+or his or her designee or, if there is no planning director, a person
+designated by the governing body of the municipality that created the land
+bank;
+(B) One member of the governing body of the municipality that created the
+land bank, appointed by such governing body; and
+(C) Such other nonvoting members as are appointed by the chief executive
+officer of the municipality that created the land bank and confirmed by a two-
+thirds vote of the governing body of such municipality;
+(b) Each voting member of the board shall reside (i) within the
+municipality that created the land bank or (ii) within three miles of such
+municipality, except that a majority of the voting members shall reside within
+the municipality that created the land bank; The seven voting members of the
+board shall be residents of the municipality that created the land bank;
+(c) If the governing body of the municipality creating the land bank has
+any of its members elected by district or ward, then at least one voting member
+of the board shall be appointed from each such district or ward. Such voting
+members shall represent, to the greatest extent possible, the racial and ethnic
+diversity of the municipality creating the land bank;
+(d) The seven voting members of the board shall include individuals with
+knowledge, expertise, or experience in fields relevant to land bank operations,
+including, but not limited to, community development, real estate, and housing;
+-7-
+LB1135 LB1135
+2026 2026
+have, collectively, verifiable skills, expertise, and knowledge in market-rate
+and affordable residential, commercial, industrial, and mixed-use real estate
+development, financing, law, purchasing and sales, asset management, economic
+and community development, and the acquisition of tax sale certificates;
+(e) The seven voting members of the board shall include the following
+individuals to the extent such individuals can reasonably be found:
+(i) At least one member representing a chamber of commerce;
+(ii) At least one member with experience in banking;
+(iii) At least one member with experience in real estate development;
+(iv) At least one member with experience as a realtor;
+(v) At least one member with experience in nonprofit or affordable
+housing; and
+(vi) At least one member with experience in large-scale residential or
+commercial property rental; and
+(vii) At least one member who resides in the city council district
+described in subdivision (3)(c)(i) of section 13-2610. This subdivision (vii)
+shall only apply to a land bank created by a city of the metropolitan class;
+and
+(f) A single voting member may satisfy more than one of the requirements
+provided in subdivision (1)(e) of this section if he or she has the required
+qualifications. It is not necessary that there be a different member to fulfill
+each such requirement.
+(2) If a land bank is created by more than one municipality pursuant to an
+agreement under the Interlocal Cooperation Act as described in subsection (2)
+or (3) of section 18-3404, the board of such land bank shall meet the following
+requirements:
+(a) The board shall consist of:
+(i) An odd number of voting members, totaling at least seven, appointed by
+the chief executive officers of the municipalities that created the land bank,
+as mutually agreed to by such chief executive officers, and confirmed by a two-
+thirds vote of the governing body of each municipality that created the land
+bank; and
+(ii) The following nonvoting members:
+(A) The planning director of each municipality that created the land bank
+or his or her designee or, if there is no planning director for any
+municipality that created the land bank, a person designated by the governing
+body of such municipality;
+(B) One member of the governing body of each municipality that created the
+land bank, appointed by the governing body on which such member serves; and
+(C) Such other nonvoting members as are appointed by the chief executive
+officers of the municipalities that created the land bank, as mutually agreed
+to by such chief executive officers, and confirmed by a two-thirds vote of the
+governing body of each municipality that created the land bank;
+(b) Each voting member of the board shall reside (i) within one of the
+municipalities that created the land bank or (ii) within three miles of such a
+municipality, except that a majority of the voting members shall reside within
+the municipality in which the majority of land bank property is located; and be
+a resident of one of the municipalities that created the land bank. If a land
+bank is created by a city of the metropolitan class or a city of the primary
+class, at least one voting member of the board shall be appointed from each of
+the municipalities that created the land bank;
+(c) The voting members of the board shall include individuals with
+knowledge, expertise, or experience in fields relevant to land bank operations,
+including, but not limited to, community development, real estate, and housing.
+have, collectively, verifiable skills, expertise, and knowledge in market-rate
+and affordable residential, commercial, industrial, and mixed-use real estate
+development, financing, law, purchasing and sales, asset management, economic
+and community development, and the acquisition of tax sale certificates;
+(d) The voting members of the board shall include:
+(i) At least one member representing a chamber of commerce;
+(ii) At least one member with experience in banking;
+(iii) At least one member with experience in real estate development;
+(iv) At least one member with experience as a realtor;
+(v) At least one member with experience in nonprofit or affordable
+housing; and
+(vi) At least one member with experience in large-scale residential or
+commercial property rental; and
+(e) A single voting member may satisfy more than one of the requirements
+provided in subdivision (2)(d) of this section if he or she has the required
+qualifications. It is not necessary that there be a different member to fulfill
+each such requirement.
+(3) The members of the board shall select annually from among themselves a
+chairperson, a vice-chairperson, a treasurer, and such other officers as the
+board may determine.
+(4) A public official or public employee shall be eligible to be a member
+of the board.
+(5) A vacancy on the board among the appointed board members shall be
+filled not later than six months after the date of such vacancy in the same
+manner as the original appointment.
+(6) Board members shall serve without compensation.
+(7) The board shall meet in regular session according to a schedule
+adopted by the board and shall also meet in special session as convened by the
+chairperson or upon written notice signed by a majority of the voting members.
+-8-
+LB1135 LB1135
+2026 2026
+The presence of a majority of the voting members of the board shall constitute
+a quorum.
+(8) Except as otherwise provided in this section and in sections 18-3410,
+18-3417, and 18-3418, all actions of the board shall be approved by the
+affirmative vote of a majority of the voting members present and voting.
+(9) Any action of the board on the following matters shall be approved by
+a majority of the voting members:
+(a) Adoption of bylaws and other rules and regulations for conduct of the
+land bank's business;
+(b) Hiring or firing of any employee or contractor of the land bank. This
+function may, by majority vote of the voting members, be delegated by the board
+to a specified officer or committee of the land bank, under such terms and
+conditions, and to the extent, that the board may specify;
+(c) The incurring of debt;
+(d) Adoption or amendment of the annual budget; and
+(e) Sale, lease, encumbrance, or alienation of real property,
+improvements, or personal property with a value of more than fifty thousand
+dollars.
+(10) Members of a board shall not be liable personally on the bonds or
+other obligations of the land bank, and the rights of creditors shall be solely
+against such land bank.
+(11) The board of a land bank created by a city of the metropolitan class
+that borders a county in which at least three cities of the first class are
+located shall adopt policies and procedures to specify the conditions that must
+be met in order for such land bank to give an automatically accepted bid as
+authorized in sections 18-3417 and 18-3418. The adoption of such policies and
+procedures shall require the approval of two-thirds of the voting members of
+the board. At a minimum, such policies and procedures shall ensure that the
+automatically accepted bid shall only be given for one of the following
+reasons:
+(a) The real property substantially meets more than one of the following
+criteria as determined by two-thirds of the voting members of the board:
+(i) The property is not occupied by the owner or any lessee or licensee of
+the owner;
+(ii) There are no utilities currently being provided to the property;
+(iii) Any buildings on the property have been deemed unfit for human
+habitation, occupancy, or use by local housing officials;
+(iv) Any buildings on the property are exposed to the elements such that
+deterioration of the building is occurring;
+(v) Any buildings on the property are boarded up;
+(vi) There have been previous efforts to rehabilitate any buildings on the
+property;
+(vii) There is a presence of vermin, uncut vegetation, or debris
+accumulation on the property;
+(viii) There have been past actions by the municipality to maintain the
+grounds or any building on the property; or
+(ix) The property has been out of compliance with orders of local housing
+officials;
+(b) The real property is contiguous to a parcel that meets more than one
+of the criteria in subdivision (11)(a) of this section or that is already owned
+by the land bank; or
+(c) Acquisition of the real property by the land bank would serve the best
+interests of the community as determined by two-thirds of the voting members of
+the board. In determining whether the acquisition would serve the best
+interests of the community, the board shall take into consideration the
+hierarchical ranking of priorities for the use of real property conveyed by a
+land bank established pursuant to subsection (5) of section 18-3410, if any
+such hierarchical ranking is established.
+(12)(a) A member of the board may be removed for neglect of duty,
+misconduct in office, conviction of any felony, or other good cause as follows:
+(i) In the case of a land bank created pursuant to subsection (1) of
+
+Section 14:
+section 18-3404, a board member may be removed by the chief executive officer
+of the municipality that created the land bank after such removal has been
+approved by a two-thirds vote of the governing body of such municipality; or
+(ii) In the case of a land bank created pursuant to subsection (2) or (3)
+of section 18-3404, a board member may be removed by the chief executive
+officer of the municipality in which the majority of land bank property is
+located where the member resides after such removal has been approved by a two-
+thirds vote of the governing body of such municipality.
+(b) Such chief executive officer shall send a notice of removal to such
+board member, which notice shall set forth the charges against him or her. The
+member shall be deemed removed from office unless within ten days from the
+receipt of such notice he or she files a request for a hearing. Such request
+shall be filed with:
+(i) In the case of a land bank created pursuant to subsection (1) of
+
+Section 15:
+section 18-3404, the city clerk or village clerk of the municipality of the
+city that created the land bank; or
+(ii) In the case of a land bank created pursuant to subsection (2) or (3)
+of section 18-3404, the city clerk or village clerk of the municipality in
+which the majority of land bank property is located where the member resides.
+(c) If a request for hearing is so filed, the governing body of the
+municipality receiving the request shall hold a hearing not sooner than ten
+days after the date a hearing is requested, at which hearing the board member
+-9-
+LB1135 LB1135
+2026 2026
+shall have the right to appear in person or by counsel and the governing body
+shall determine whether the removal shall be upheld. If the removal is not
+upheld by the governing body, the board member shall continue to hold his or
+her office.
+Sec. 16. Section 18-3407, Reissue Revised Statutes of Nebraska, is amended
+to read:
+18-3407 (1) A land bank shall have the following powers:
+(a) To adopt, amend, and repeal bylaws for the regulation of its affairs
+and the conduct of its business;
+(b) To sue and be sued in its own name and plead and be impleaded in all
+civil actions;
+(c) To borrow money from private lenders, from municipalities, from the
+state, or from federal government funds as may be necessary for the operation
+and work of the land bank;
+(d) To issue negotiable revenue bonds and notes according to the
+provisions of the Nebraska Municipal Land Bank Act, except that a land bank
+shall not issue any bonds on or after November 14, 2020;
+(e) To procure insurance or guarantees from the state or federal
+government of the payments of any debts or parts thereof incurred by the land
+bank and to pay premiums in connection therewith;
+(f) To enter into contracts and other instruments necessary, incidental,
+or convenient to the performance of its duties and the exercise of its powers,
+including, but not limited to, agreements under the Interlocal Cooperation Act
+for the joint administration of multiple land banks or the joint exercise of
+powers under the Nebraska Municipal Land Bank Act;
+(g) To enter into contracts and other instruments necessary, incidental,
+or convenient to the performance of functions by the land bank on behalf of
+municipalities or agencies or departments of municipalities, or the performance
+by municipalities or agencies or departments of municipalities of functions on
+behalf of the land bank;
+(h) To make and execute contracts and other instruments necessary or
+convenient to the exercise of the powers of the land bank;
+(i) To provide foreclosure prevention counseling and re-housing
+assistance;
+(j) To procure insurance against losses in connection with the real
+property, assets, or activities of the land bank;
+(k) To invest money of the land bank, at the discretion of the board, in
+instruments, obligations, securities, or property determined proper by the
+board and name and use depositories for its money, except that a land bank
+shall not invest its money in any instrument, obligation, security, or property
+in which a direct or indirect interest is held by a member of the board or an
+employee of the land bank, by a board member's or an employee's immediate
+family, or by a business or entity in which a board member or an employee has a
+financial interest;
+(l) To enter into contracts for the management of, the collection of rent
+from, or the sale of real property of the land bank;
+(m) To design, develop, construct, demolish, reconstruct, rehabilitate,
+renovate, relocate, and otherwise improve real property or rights or interests
+in real property of the land bank;
+(n) To fix, charge, and collect fees and charges for services provided by
+the land bank;
+(o) To fix, charge, and collect rents and leasehold payments for the use
+of real property of the land bank for a period not to exceed twelve months,
+except that such twelve-month limitation shall not apply (i) if the real
+property of the land bank is subject to a lease with a remaining term of more
+than twelve months at the time such real property is acquired by the land bank
+or (ii) if the real property of the land bank is held pursuant to an agreement
+with a nonprofit corporation or other private entity under subsection (8) of
+
+Section 16:
+section 18-3408;
+(p) To grant or acquire a license, easement, lease, as lessor and as
+lessee, or option with respect to real property of the land bank;
+(q) To Except as provided in subsection (8) of section 18-3408, to enter
+into partnerships, joint ventures, and other collaborative relationships with
+municipalities and other public and private entities for the ownership,
+management, development, and disposition of real property, subject to the
+requirements of subsection (8) of section 18-3408, if applicable; and
+(r) To do all other things necessary or convenient to achieve the
+objectives and purposes of the land bank or other laws that relate to the
+purposes and responsibilities of the land bank.
+(2) A land bank shall neither possess nor exercise the power of eminent
+domain.
+(3) A land bank shall not have the authority to (a) levy property taxes or
+(b) receive property tax revenue from a political subdivision pursuant to an
+agreement entered into under the Joint Public Agency Act.
+Sec. 17. Section 18-3408, Reissue Revised Statutes of Nebraska, is amended
+to read:
+18-3408 (1) A land bank may acquire real property or interests in real
+property by gift, devise, transfer, exchange, foreclosure, purchase, or
+otherwise on terms and conditions and in a manner the land bank considers
+proper.
+(2) A land bank may acquire real property or interests in real property by
+purchase contracts, lease-purchase agreements, installment sales contracts, or
+land contracts and may accept transfers from political subdivisions upon such
+-10-
+LB1135 LB1135
+2026 2026
+terms and conditions as agreed to by the land bank and the political
+subdivision. Notwithstanding any other law to the contrary, any political
+subdivision may transfer to the land bank real property and interests in real
+property of the political subdivision on such terms and conditions and
+according to such procedures as determined by the political subdivision.
+(3) A land bank shall maintain all of its real property in accordance with
+the laws and ordinances of the jurisdiction in which the real property is
+located.
+(4) A land bank shall not own or hold real property located outside the
+jurisdictional boundaries of the municipality or municipalities that created
+the land bank. For purposes of this subsection, jurisdictional boundaries of a
+municipality does not include the extraterritorial zoning jurisdiction of such
+municipality.
+(5) A land bank may accept transfers of real property and interests in
+real property from a land reutilization authority on such terms and conditions,
+and according to such procedures, as mutually determined by the transferring
+land reutilization authority and the land bank.
+(6) A land bank shall not hold legal title at any one time to more than:
+(a) Seven percent of the total number of parcels located in a city of the
+metropolitan class, and no more than ten percent of such parcels shall be zoned
+as commercial property;
+(b) Three percent of the total number of parcels located in a city of the
+primary class, and no more than five percent of such parcels shall be zoned as
+commercial property;
+(c) Five percent of the total number of parcels located in a city of the
+first class, and no more than five percent of such parcels shall be zoned as
+commercial property; or
+(d) Ten percent of the total number of parcels located in a city of the
+second class or village, and no more than five percent of such parcels shall be
+zoned as commercial property.
+(7) A land bank shall not acquire a parcel that is zoned as commercial
+property unless (a) the parcel has been vacant for at least three years or (b)
+the owner of the parcel has been directed by the relevant municipality to
+remove a nuisance found on such parcel but has failed to do so.
+(8) A Beginning on November 14, 2020, a land bank shall not enter into an
+agreement with any nonprofit corporation or other private entity for the
+purpose of temporarily holding real property on behalf of for such nonprofit
+corporation or private entity for a period longer than one year unless the
+depositing entity has entered into a community benefits agreement, to which the
+land bank shall also be a party. For the purposes of this subsection: , except
+that a land bank may enter into such an agreement for the purpose of providing
+clear title to such real property, but in no case shall such agreement exceed a
+term of one year.
+(a) Community benefits agreement means a legally binding contract between
+the depositing entity, a land bank, and local community groups, where the
+depositing entity commits to specific community benefits, such as affordable
+housing, local hiring, living wages, or community services, for large projects
+undertaken by the depositing entity, and in exchange, the local community
+groups agree to support or not oppose such projects; and
+(b) Local community groups shall include, but are not limited to,
+neighborhood or block associations, business improvement districts, service and
+fraternal organizations, and faith-based organizations within the neighborhood
+in which the proposed project will be located.
+Sec. 18. Section 18-3410, Reissue Revised Statutes of Nebraska, is amended
+to read:
+18-3410 (1) A land bank shall hold in its own name all real property
+acquired by the land bank irrespective of the identity of the transferor of
+such property.
+(2) A land bank shall maintain and make available for public review and
+inspection an inventory of all real property held by the land bank.
+(3) A land bank shall determine and set forth in policies and procedures
+of the board the general terms and conditions for consideration to be received
+by the land bank for the transfer of real property and interests in real
+property, which consideration may take the form of monetary payments and
+secured financial obligations, covenants and conditions related to the present
+and future use of the property, contractual commitments of the transferee, and
+such other forms of consideration as determined by the board to be in the best
+interest of the land bank.
+(4) A land bank may convey, exchange, sell, transfer, grant, release and
+demise, pledge, and hypothecate any and all interests in, upon, or to real
+property of the land bank. A land bank may lease as lessor real property of the
+land bank for a period not to exceed twelve months, except that such twelve-
+month limitation shall not apply (a) if the real property of the land bank is
+subject to a lease with a remaining term of more than twelve months at the time
+such real property is acquired by the land bank or (b) if the real property of
+the land bank is held pursuant to an agreement with a nonprofit corporation or
+other private entity under subsection (8) of section 18-3408.
+(5) The municipality or municipalities that created the land bank may
+establish by resolution or ordinance a hierarchical ranking of priorities for
+the use of real property conveyed by a land bank. Such ranking shall take into
+consideration the highest and best use that, when possible, will bring the
+greatest benefit to the community. The priorities may include, but are not
+limited to, (a) use for purely public spaces and places, (b) use for affordable
+-11-
+LB1135 LB1135
+2026 2026
+housing, (c) use for retail, commercial, and industrial activities, (d) use for
+urban agricultural activities including the establishment of community gardens
+as defined in section 2-303, and (e) such other uses and in such hierarchical
+order as determined by the municipality or municipalities.
+(6) The municipality or municipalities that created the land bank may
+require by resolution or ordinance that any particular form of disposition of
+real property, or any disposition of real property located within specified
+jurisdictions, be subject to specified voting and approval requirements of the
+board. Except and unless restricted or constrained in this manner, the board
+may delegate to officers and employees the authority to enter into and execute
+agreements, instruments of conveyance, and all other related documents
+pertaining to the conveyance of real property by the land bank.
+(7)(a) For any real property of a land bank that is intended for
+residential development, the land bank shall advertise the availability of such
+property for sale for ninety days after acquiring the property or after
+completing demolition of any structure and site preparation necessary for
+development or until an offer to buy the property is accepted, whichever is
+earlier.
+(b) Any conveyance of real property made as a result of the advertisement
+described in subdivision (7)(a) of this section may include a contractual
+provision allowing the land bank to reacquire the property at the original
+purchase price, exercise a right of reentry, or otherwise reacquire the
+property under terms established by the contract if construction has not
+commenced within a specific timeframe provided in the contract.
+(c) This subsection shall not apply to any land bank created by a city of
+the metropolitan class or city of the primary class.
+Sec. 19. Section 18-3413, Reissue Revised Statutes of Nebraska, is amended
+to read:
+18-3413 (1) The board shall cause minutes and a record to be kept of all
+its proceedings. Meetings of the board shall be subject to the Open Meetings
+Act.
+(2) All of a land bank's records and documents shall be considered public
+records for purposes of sections 84-712 to 84-712.09.
+(3) The board shall provide a report monthly reports to the municipality
+or municipalities that created the land bank on the board's activities pursuant
+to the Nebraska Municipal Land Bank Act. The report shall be provided after
+each meeting of the board or at least quarterly. The board shall also
+electronically submit provide an annual report to the municipality or
+municipalities that created the land bank, the Speaker of the Legislature, the
+chairperson of the Executive Board of the Legislative Council, the Revenue
+Committee of the Legislature, and the Urban Affairs Committee of the
+Legislature by March 1 of each year summarizing the board's activities for the
+prior calendar year. The reports submitted to the Legislature shall be
+submitted electronically.
+(4) The annual report required under subsection (3) of this section shall
+include, but not be limited to:
+(a) A listing of each property owned by the land bank at the end of the
+prior calendar year, including (i) how long each such property has been owned
+by the land bank, (ii) and whether such property was acquired utilizing the
+automatically accepted bid under section 18-3417 or 18-3418, (iii) whether such
+property is being held on behalf of a nonprofit corporation or other private
+entity pursuant to subsection (8) of section 18-3408, and (iv) the intended use
+of each property being held on behalf of a nonprofit corporation or other
+private entity pursuant to subsection (8) of section 18-3408;
+(b) A list of entities and individuals who received more than two thousand
+five hundred dollars from the land bank in the prior calendar year;
+(c) A list of financial institutions in which the land bank has deposited
+funds;
+(d) The percentage of total parcels located in each municipality which are
+held by the land bank; and
+(e) A statement certifying that all board members and employees of the
+land bank comply with the conflict of interest requirements in sections 18-3407
+and 18-3415.
+Sec. 20. (1) A city of the primary class, city of the first class, city
+of the second class, or village may sell or transfer any waterworks, sewer
+system, or water system owned by such city or village to an Indian tribe if the
+following requirements are met:
+(a) The waterworks, sewer system, or water system must be located or
+operating in its entirety within the tribal lands of such Indian tribe;
+(b) The tribal headquarters of such Indian tribe must be located in such
+city or village; and
+(c) The sale or transfer must be approved by the qualified electors of
+such city or village at a general or special election described in subsection
+(2) of this section.
+(2) The governing body of the city or village seeking to sell or transfer
+any waterworks, sewer system, or water system under this section shall submit
+such question or proposition, in the usual manner, to the qualified electors of
+such city or village at any general city or village election or at any special
+city or village election and may submit the proposition in connection with any
+city or village special election called for any other purpose, and the votes
+cast thereon shall be canvassed and the result found and declared as in any
+other city or village election.
+(3) For purposes of this section, Indian tribe means an Indian tribe or
+-12-
+LB1135 LB1135
+2026 2026
+band which is recognized by federal law or formally acknowledged by the state
+as of January 1, 2026.
+Sec. 21. The Revisor of Statutes shall assign section 6 of this act to
+Chapter 19.
+Sec. 22. Sections 1, 2, 3, 4, 5, 6, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17,
+18, 19, 20, and 24 of this act become operative three calendar months after the
+adjournment of this legislative session. The other sections of this act become
+operative on their effective date.
+Sec. 23. Original section 13-3206, Reissue Revised Statutes of Nebraska,
+is repealed.
+Sec. 24. Original sections 18-2124, 18-2125, 18-2136, 18-3404, 18-3405,
+18-3407, 18-3408, 18-3410, and 18-3413, Reissue Revised Statutes of Nebraska,
+
+Section 17:
+section 18-2117.01, Revised Statutes Cumulative Supplement, 2024, and sections
+18-2101.02 and 18-2147, Revised Statutes Supplement, 2025, are repealed.
+Sec. 25. Since an emergency exists, this act takes effect when passed and
+approved according to law.
+-13-
+[DELETED: yU 1 1 1 1 1 1 a f t c p r t d a a t i o c r b a c t u t C D L t c p o s s a w s t I t t C m a c i t s w a p o m t h t i a d b t m r f D m t m d o t D o I a b a c c o s a f t p o r c s e c s a t s s r a h s s c a c s y m S a m a a b o c o t s F b c a c s a p p t s 6 i p t p t c a r t Z c m t n c u b t U S P5L62]
+[DELETED:  C o t L T d s a m t r a o t w o t D o a r u s 3 o t a t d s s o s a a t t c o c u t a i s O t a r h b s t c o m e i c o a w a p f o p s f t o m S c o a m a t p f f m e o o p s p t ( F q p o t s w t t p s f i t a c s b d T m s w f d a a a b d o i t i a t l b t a a s a i t s m a s F q p t i s r p a a i o s q p i a o t a a a a p s u t i t a a a i u a a a a i a p a p i f A a a A n o l f u t s s a a m T a o f d o t b d p t t T n a a o t c o o t q F q p t i s r p t t n o t P l i r ( b s t  m o t d o t q p r a t s t t r i s ( o s 1 t a r a e c a s a h t5L62]
+[DELETED:  a t d r t q p t i s p t h o a m t d o o i d a a s b P l s p i a w t p e u ( o t s I t e t a i 1 o f a o m t s t d a s d a a s b e A e i t e o a s p t a f o a s t t e o a p o s u a t d r t p t i s r p U t o a p o s u a t d t n a U t t o o o q p o t F q p o t s r w t d a a i a i a F q p t i s r p a r o t P l s b r i t o o t o d o t c i w t n o t P l w e o t i o s b t q p h s h o l s m i t r m n m t t y a p i s ( ( o s c s f d b r a a t p r u t s s a t b a e b b a s s t q o w s a i b t t p c o b o t c f i o t q a g n o t h a p i U r o t r o t p c o o i n r a r w t d a t h r u s ( o t s t g s h a p h o t q o w t a i o t e t v r t p b c i c w t s o a r u 1 T h r u t s m b h i d o a a a a e b a p t t d o t r d s a t b a e5L62]
+[DELETED:  t a v t a p t t c a p t t c o v w t f a t t o b o I a c h a o o m r p u a y r o w t i i t r h c s ( o t s a i r b t c n l t M 1 e y T r m i a t u p a e o t f a t A a m i b i c r b t a t a e i p t s ( o a p f r p A a m a i i e f a o a o t p o i u b i m d i w l t g o t b o w t p a i a p ( w p o s b ( e f t i f i w o i p w t p o s b ( f i r a i i a s a u s 1 a f s g a l a m b o ( f a o p o t i p a r t c o t p o t s o a p s s b l p o t b b r o t i f t p o t C D L e t t a b s 1 t 1 E t t e o a c o s d l o r p a t b p i a t w t a e a m b o p i t i5L62]
+[DELETED:  r t a n h a f t t t t i r o i t i r t i a a n w t a m h a f s p o f t f a c t p n a b i t f S a l e t t a o s n a i a e i a a t t n m b e f b h a t a s i b s t t l o s p s i a s p n s j a a a t a e i p t s ( o a r f t e o a p o l g b a ( A r p a o a o a l p t s 1 m c a p t a a t l u r p o a p t i  a p d i s ( ( o t s a n a r p v o a p o p t c s d t r p v b u t m v o t p o p a o J 1 o t y t t y t t a v t a t b d T c a a d i s 1 a t o T a o m p t v t t c b o e w r c b r o r p a i t r p i e o s a i a b a t a w c p i a s f o t5L62]
+[DELETED:  d i c w t b o l n o a o i i a p d h b p t A a m e i a r c o a  r o r p p t w i i c t c r o p T a v t t b p r o p t u p o a v t o r p w a r p o t g r b i t s a r p i ( t t l u s r p a s t d i w s ( o t s T o t m u a t a t g e o o A l r f a t a d i s l o o e o t p s h p w  t l d i s 7 a m b e a ( F a r p l i a c o t c t i a d o t a p i t t p i w o i p f t b u d o c r o a o s h o h u a p r f i w a b t a m i f i s h s b o w s h i o w b l o r p s r p a l a s h s a d r t t r p d u s a q a p a g f p t f t p i t r p a h b d a t p r c i t r o t a t i o b p t s 1 o i t5L62]
+[DELETED:  ( T e d o a p d a v t a t r p i t r p i w t c o t c T s s n a t a r i a f u d s a a i s s b t a t t c a o f p b t b r p t g b t p i t p H t r p v f t p o t t o f p p t ( A s m m c a l b i t T i i t s a m o t b a t T o m m m e t e i a a A m m e t j a e l b b e a a p t t I C A w  c a l b p t s ( o t s o b s b d t b a p c a i a g d u t a d i a w s A o n o S v m t a l s b a c b a t v o t g b o s h o h d o i t i n p d a p b t g b o t m t c t l E v m o t b s r ( w t t c t l b o ( w t m o s5L62]
+[DELETED:  T s v m o t b s i t f A l o m w e i n o a A l o m w e i l r o A l o m w r i t c c d h o h d o i t i n p d f a E v m o t b s r ( w o o t T v m o t b s i i w A l o m w e i n o a A l o m w e i l r o A v o t b a t a b m s b T b s m i r s a t a s5L62]
+[DELETED:  a 1 a a o t b s b a b t a s o o c o t l b u s t a S l e o a o r p o p p w a v o m t f t M o a b s n b l p o t b o b A a m s p a p s e t t a b s o b g f o o t f A b o t p h b d u f h T i a p o v u v o d b I d w t a w s t b o t c t b s t i c t b e p t s ( o s 1 i a A m o t b m b r f n o d I t c o a l b c p t s ( o t m t c t l b a s r h b s 1 a b m m b r b t c e o t m i w t m o l b p i s b d r f o u w t d f t I t c o a l b c p t s ( o 1 t c c o v c o t m o t s 1 t c c o v c o t m i I a r f h i s f t g b o t r t r s h a h n s t t5L62]
+[DELETED:  d w t r s b u I t r i n T b m f p l f m f t T i n r b a n a t t o t N M L B A e t a l b T p i o g f t s o f T m a e c a o i n o T p f p c a r T p i a l i c w t r o s o p d p b t a n a u d f i m e t a l b o t l b b a b m o a e i T d d c d r r t s t l s n a ( i t r T g o a a l e l a l a a a o p a p e f t o d a d o r p s t t T d a o t n o c t a t a p o t l b o o l t r t t ( A l b m a r p o i i r b g d t e f p o o t a c a i a m t l b c5L62]
+[DELETED:  a c a a t b t l b a t p N a o l t t c a p o t p s o s t a c a l a o o t j i w t r p i b o t m o m t c A l b m a t o r p a i i A l b s n a a p t i z a c o o t p h b d b t r m t w a n c o o p e f t o p e f a p l t o y u t d e a l b a l c g w t e c t s c b s a a b t d e a i e t l c L c g s i b a n l t ( A l b s h i i o n a r p b t l b i o t i o t t o t l b f t t o r p a i i r w c m t t f o m p a p a h a a a i i u o t r T m o m t c t l b m t h a b u t w p w b t b t t c T p m i b a n5L62]
+[DELETED:  T m o m t c t l b m p o a d o r p l w s i o c a a o r d F a r p o a l b t i i f f s f n d a a t p o a d o a s a s p n f o u a o t b t p i a w i i s ( o t s m i a c a t l b t r t p a t o p e a r o r o o r t u t e b t c i c h n t N M L B A T r s b p a m o t b o a l q T b s a s p a a r t t m o o t E B o t L C t R o t L a t U A C o t c y T r s t t L s b t l b ( a w s p w a u t e p b h o b o a n c o o A s c t a b m a e o t t s c o v m s o t a w s T w s s o w s m b l o T s o t m b a b t q e o5L62]
+[DELETED: 5L62]
+
+
+================================================================================
+
+Raw Text:
+LB1135 LB1135
+2026 2026
+LEGISLATIVE BILL 1135
+Approved by the Governor April 14, 2026
+Introduced by Urban Affairs Committee: McKinney, 11, Chairperson; Cavanaugh,
+J., 9; Quick, 35; Rountree, 3.
+A BILL FOR AN ACT relating to government; to amend sections 13-3206, 18-2124,
+18-2125, 18-2136, 18-3404, 18-3405, 18-3407, 18-3408, 18-3410, and
+18-3413, Reissue Revised Statutes of Nebraska, section 18-2117.01, Revised
+Statutes Cumulative Supplement, 2024, and sections 18-2101.02 and 18-2147,
+Revised Statutes Supplement, 2025; to adopt the Service Contract Reporting
+Act; to authorize certain municipal contracts and agreements relating to
+parking facilities; to change provisions relating to delinquent annual
+assessments and PACE liens under the Property Assessed Clean Energy Act;
+to authorize the issuance of conduit revenue bonds and certain taxpayer
+agreements under the Community Development Law; to change provisions of
+the Nebraska Municipal Land Bank Act; to provide for the sale of certain
+waterworks, sewer systems, and water systems to Indian tribes; to
+harmonize provisions; to provide a duty for the Revisor of Statutes; to
+provide operative dates; to repeal the original sections; and to declare
+an emergency.
+Be it enacted by the people of the State of Nebraska,
+Section 1. Sections 1 to 5 of this act shall be known and may be cited as
+the Service Contract Reporting Act.
+Sec. 2. For purposes of the Service Contract Reporting Act:
+(1) City means a city of the metropolitan class;
+(2) County means a county in this state with a population of more than
+five hundred thousand inhabitants as determined by the most recent federal
+decennial census;
+(3) Division means the materiel division of the Department of
+Administrative Services;
+(4) Fiscal year means the twelve-month period used by the city, county, or
+state agency for budgeting purposes;
+(5) Service contract means a contract that:
+(a) Is awarded by a city, county, or state agency for the provision of
+legal services, accounting services, financial consulting services, management
+consulting services, health care services, engineering services, architectural
+services, information technology services, marketing and advertising services,
+human resources consulting services, environmental consulting services,
+educational and training services, snow removal and hauling services,
+janitorial services, custodial and cleaning services, yard maintenance
+services, or tree removal services; and
+(b) Has a value of:
+(i) For contracts entered into prior to January 1, 2029, seventy thousand
+dollars or more;
+(ii) For contracts entered into on or after January 1, 2029, and prior to
+January 1, 2034, ninety thousand dollars or more; or
+(iii) For contracts entered into on or after January 1, 2034, one hundred
+ten thousand dollars or more;
+(6) State agency means any agency, board, or commission of this state
+other than the University of Nebraska, the Nebraska state colleges, the courts,
+the Legislature, or any officer or state agency established by the Constitution
+of Nebraska;
+(7) State aid means:
+(a) For both cities and counties, state aid paid pursuant to sections
+60-3,202 and 77-3523;
+(b) For cities, state aid to cities paid pursuant to sections 39-2501 to
+39-2520, 60-3,190, and 77-27,139.04 and insurance premium tax paid to cities;
+and
+(c) For counties, state aid to counties paid pursuant to sections 60-3,184
+to 60-3,190, insurance premium tax paid to counties, and reimbursements to
+counties from funds appropriated pursuant to section 29-3933; and
+(8) Zip code means the numerical code used by the United States Postal
+Service to identify geographic areas.
+Sec. 3. On or before March 1, 2028, and on or before March 1 of each year
+thereafter, each city, county, and state agency shall submit a report to the
+division containing the following information:
+(1) The name and address of each individual or entity that was awarded a
+service contract during the most recently completed fiscal year and the type of
+service involved in each such contract;
+(2) The total dollar value of service contracts awarded during the most
+recently completed fiscal year, including an overall total and a breakdown by
+zip code; and
+(3) A description of any efforts made by the city, county, or state agency
+to increase the number of service contracts awarded to individuals and entities
+located within zip codes with the lowest amounts of service contract awards.
+Sec. 4. On or before April 1, 2028, and on or before April 1 of each year
+-1-
+
+LB1135 LB1135
+2026 2026
+thereafter, the division shall compile the information reported under section 3
+of this act and shall electronically submit a comprehensive report regarding
+such information to the Governor, the Clerk of the Legislature, and the Urban
+Affairs Committee of the Legislature. The division shall also make the
+comprehensive report available on the website of the Department of
+Administrative Services.
+Sec. 5. If any city or county fails to submit an annual report to the
+division as required under section 3 of this act, the division shall send
+notification of the noncompliance to the governing body of the relevant city or
+county and to the State Treasurer. The State Treasurer shall then suspend all
+distributions of state aid allocated to the city or county until the annual
+report is submitted. Once the annual report has been submitted, the city or
+county shall again become entitled to all distributions of state aid, including
+any suspended distributions.
+Sec. 6. (1) Any city of the first class, city of the second class, or
+village may enter into contracts or agreements with any person, firm,
+corporation, or political subdivision for the operation, maintenance,
+management, or enforcement of municipal parking facilities, including onstreet
+metered parking and offstreet public lots or garages.
+(2) Such contracts or agreements may authorize the person, firm,
+corporation, or political subdivision to issue and process parking citations,
+collect fines, maintain equipment, or operate payment systems, provided that
+the city or village retains final authority over adjudication and appeals.
+(3) The city or village shall retain sufficient control over the parking
+facilities to ensure proper operation in the public interest and to establish
+or approve all rates, charges, and fines.
+(4) No contract or agreement under this section shall exceed:
+(a) Thirty years in duration, including renewals, for a city of the first
+class; or
+(b) Ten years in duration, including renewals, for a city of the second
+class or village.
+Sec. 7. Section 13-3206, Reissue Revised Statutes of Nebraska, is amended
+to read:
+13-3206 (1)(a) For qualifying property other than single-family
+residential property, any annual assessment imposed on such qualifying property
+that becomes delinquent, including any interest on the annual assessment and
+any penalty, shall constitute a PACE lien against the qualifying property on
+which the annual assessment is imposed until the annual assessment, including
+any interest and penalty, is paid in full. Any annual assessment that is not
+paid within the time period set forth in the assessment contract shall be
+considered delinquent. The municipality shall, within fourteen days after an
+annual assessment becomes delinquent or, if there is a third-party lender
+financing the energy project, within fourteen days after receiving notice from
+such third-party lender that an annual assessment has become delinquent, record
+a notice of such lien in the office of the register of deeds of the county in
+which the qualifying property is located. The municipality shall certify the
+amount of any such delinquency and lien to the county treasurer, and the lien
+shall be treated as a special assessment in the same manner as special
+assessments are treated under section 77-1858 and shall be subject to the same
+collection processes for real estate taxes and special assessments as set forth
+in Chapter 77, including, without limitation, sections 77-1801 to 77-1863.
+(b) For qualifying property that is single-family residential property,
+all annual assessments imposed on such qualifying property, including any
+interest on the annual assessments and any penalty, shall, upon the initial
+annual assessment, constitute a PACE lien against the qualifying property on
+which the annual assessments are imposed until all annual assessments,
+including any interest and penalty, are paid in full. Any annual assessment
+that is not paid within the time period set forth in the assessment contract
+shall be considered delinquent. The municipality shall, upon imposition of the
+initial annual assessment, record a notice of such lien in the office of the
+register of deeds of the county in which the qualifying property is located.
+(2) A notice of lien filed under this section shall, at a minimum,
+include:
+(a) The amount of funds disbursed or to be disbursed pursuant to the
+assessment contract;
+(b) The names and addresses of the current owners of the qualifying
+property subject to the annual assessment;
+(c) The legal description of the qualifying property subject to the annual
+assessment;
+(d) The duration of the assessment contract; and
+(e) The name and address of the municipality filing the notice of lien.
+(3) The PACE lien created under this section shall:
+(a) For qualifying property that is single-family residential property,
+(i) be subordinate to all liens on the qualifying property recorded prior to
+the time the notice of the PACE lien is recorded, (ii) be subordinate to a
+first mortgage or trust deed on the qualifying property recorded after the
+notice of the PACE lien is recorded, and (iii) have priority over any other
+lien on the qualifying property recorded after the notice of the PACE lien is
+recorded; and
+(b) For qualifying property other than single-family residential property
+and subject to the requirement in subdivision (2)(a) of section 13-3205 to
+obtain and record an executed consent and subordination agreement, have the
+same priority and status as real property tax liens.
+-2-
+
+LB1135 LB1135
+2026 2026
+(4)(a) Notwithstanding any other provision of law, in the event of a sale
+pursuant to a foreclosure or a sale pursuant to the exercise of a power of sale
+under a trust deed relating to qualifying property that is single-family
+residential property, the holders of any mortgages, trust deeds, or other
+liens, including delinquent annual assessments secured by PACE liens, shall
+receive proceeds in accordance with the priorities established under
+subdivision (3)(a) of this section. In the event there are insufficient
+proceeds from such a sale, from the loss reserve fund established pursuant to
+section 13-3208, or from any other means to satisfy the delinquent annual
+assessments, such delinquent annual assessments shall be extinguished. Any
+annual assessment that has not yet become delinquent shall not be accelerated
+or extinguished in the event of a sale pursuant to a foreclosure or a sale
+pursuant to the exercise of a power of sale under a trust deed relating to
+qualifying property that is single-family residential property. Upon the
+transfer of ownership of qualifying property that is single-family residential
+property, including a sale pursuant to a foreclosure or a sale pursuant to the
+exercise of a power of sale under a trust deed, the nondelinquent annual
+assessments shall continue as a lien on the qualifying property, subject to the
+priorities established under subdivision (3)(a) of this section.
+(b) Upon the transfer of ownership of qualifying property other than
+single-family residential property, including a sale pursuant to a foreclosure
+or a sale pursuant to the exercise of a power of sale under a trust deed, the
+obligation to pay annual assessments shall run with the qualifying property.
+(5)(a) For qualifying property other than single-family residential
+property, when the delinquent annual assessment, including any interest and
+penalty, is paid in full, a release of the PACE lien shall be recorded in the
+office of the register of deeds of the county in which the notice of the PACE
+lien was recorded.
+(b) For qualifying property that is single-family residential property,
+when all annual assessments, including any interest and penalty, are paid in
+full, a release of the PACE lien shall be recorded in the office of the
+register of deeds of the county in which the notice of the PACE lien was
+recorded.
+(6) If the holder or loan servicer of any existing mortgage or trust deed
+that encumbers or that is otherwise secured by the qualifying property has
+established a payment schedule or escrow account to accrue property taxes or
+insurance, such holder or loan servicer may increase the required monthly
+payment, if any, by an amount necessary to pay the annual assessment imposed
+under the Property Assessed Clean Energy Act.
+Sec. 8. Section 18-2101.02, Revised Statutes Supplement, 2025, is amended
+to read:
+18-2101.02 (1) For any city that (a) intends to prepare a redevelopment
+plan that will divide ad valorem taxes for a period of more than fifteen years
+but not more than twenty years as provided in subdivision (5)(a) (4)(a) of
+section 18-2147, (b) intends to declare an area as an extremely blighted area
+for purposes of funding decisions under subdivision (1)(b) of section 58-708,
+or (c) intends to declare an area as an extremely blighted area in order for
+individuals purchasing residences in such area to qualify for the income tax
+credit authorized in subsection (7) of section 77-2715.07, the governing body
+of such city shall first declare, by resolution adopted after the public
+hearings required under this section, such area to be an extremely blighted
+area.
+(2) Prior to making such declaration, the governing body of the city shall
+conduct or cause to be conducted a study or an analysis on whether the area is
+extremely blighted and shall submit the question of whether such area is
+extremely blighted to the planning commission or board of the city for its
+review and recommendation. The planning commission or board shall hold a public
+hearing on the question after giving notice of the hearing as provided in
+section 18-2115.01. The planning commission or board shall submit its written
+recommendations to the governing body of the city within thirty days after the
+public hearing.
+(3) Upon receipt of the recommendations of the planning commission or
+board, or if no recommendations are received within thirty days after the
+public hearing required under subsection (2) of this section, the governing
+body shall hold a public hearing on the question of whether the area is
+extremely blighted after giving notice of the hearing as provided in section
+18-2115.01. At the public hearing, all interested parties shall be afforded a
+reasonable opportunity to express their views respecting the proposed
+declaration. After such hearing, the governing body of the city may make its
+declaration.
+(4) Copies of each study or analysis conducted pursuant to subsection (2)
+of this section shall be posted on the city's public website or made available
+for public inspection at a location designated by the city.
+(5) The study or analysis required under subsection (2) of this section
+may be conducted in conjunction with the study or analysis required under
+section 18-2109. The hearings required under this section may be held in
+conjunction with the hearings required under section 18-2109.
+(6) Notwithstanding any other provisions of the Community Development Law,
+the designation of an area as an extremely blighted area pursuant to this
+section shall be valid for a period of no less than twenty-five years from the
+effective date of the resolution declaring such area to be an extremely
+blighted area, except that such designation may be removed prior to the end of
+such period pursuant to section 18-2156.
+-3-
+
+LB1135 LB1135
+2026 2026
+Sec. 9. Section 18-2117.01, Revised Statutes Cumulative Supplement, 2024,
+is amended to read:
+18-2117.01 (1)(a) On or before December 1 each year, each city which has
+approved one or more redevelopment plans which are financed in whole or in part
+through the division of taxes as provided in section 18-2147 shall provide a
+report to the Property Tax Administrator on each such redevelopment plan which
+includes the following information:
+(i) A copy of the redevelopment plan and any amendments thereto, including
+the date upon which the redevelopment plan was approved, the effective date for
+dividing the ad valorem tax as provided to the county assessor pursuant to
+subsection (7) (6) of section 18-2147, and the location and boundaries of the
+property in the redevelopment project; and
+(ii) A short narrative description of the type of development undertaken
+by the city or village with the financing and the type of business or
+commercial activity locating within the redevelopment project area as a result
+of the redevelopment project.
+(b) If a city has approved one or more redevelopment plans using an
+expedited review under section 18-2155, the city may file a single report under
+this subsection for all such redevelopment plans.
+(2) The report required under subsection (1) of this section must be filed
+each year, regardless of whether the information in the report has changed,
+except that a city is not required to refile a copy of the redevelopment plan
+or an amendment thereto if such copy or amendment has previously been filed.
+(3) The Property Tax Administrator shall compile a report for each active
+redevelopment project, based upon information provided by the cities pursuant
+to subsection (1) of this section and information reported by the county
+assessor or county clerk on the certificate of taxes levied pursuant to section
+77-1613.01. Each report shall be electronically transmitted to the Clerk of the
+Legislature not later than March 1 each year. The report may include any
+recommendations of the Property Tax Administrator as to what other information
+should be included in the report from the cities so as to facilitate analysis
+of the uses, purposes, and effectiveness of tax-increment financing and the
+process for its implementation or to streamline the reporting process provided
+for in this section to eliminate unnecessary paperwork.
+Sec. 10. Section 18-2124, Reissue Revised Statutes of Nebraska, is amended
+to read:
+18-2124 An authority may issue bonds, including conduit revenue bonds
+subject to a taxpayer agreement entered into pursuant to subsection (3) of
+section 18-2147, from time to time in its discretion for any of its corporate
+purposes, including the payment of principal and interest upon any advances for
+surveys and plans for redevelopment projects. An authority may also issue
+refunding bonds for the purpose of paying, retiring, or otherwise refinancing
+or in exchange for any or all of the principal or interest upon bonds
+previously issued by the authority. An authority may issue such types of bonds
+as it may determine, including, without limiting the generality of the
+foregoing, bonds on which the principal and interest are payable: (1)
+Exclusively from the income, proceeds, and revenue of the redevelopment project
+financed with proceeds of such bonds; (2) exclusively from the income,
+proceeds, and revenue of any of its redevelopment projects whether or not they
+are financed in whole or in part with the proceeds of such bonds; (3)
+exclusively from its revenue and income, including any special assessment
+levied pursuant to section 18-1722 and such tax revenue or receipts as may be
+authorized under the Community Development Law, including those which may be
+pledged under section 18-2150, and from such grants and loans as may be
+received; or (4) from all or part of the income, proceeds, and revenue
+enumerated in subdivisions (1), (2), and (3) of this section. Any such bonds
+may be additionally secured by a pledge of any loan, grant, or contributions,
+or parts thereof, from the federal government or other source or a mortgage of
+any redevelopment project or projects of the authority. The authority shall not
+pledge the credit or taxing power of the state or any political subdivision
+thereof, except such tax receipts as may be authorized under this section or
+pledged under section 18-2150, or place any lien or encumbrance on any property
+owned by the state, county, or city used by the authority.
+Sec. 11. Section 18-2125, Reissue Revised Statutes of Nebraska, is amended
+to read:
+18-2125 Neither the members of an authority nor any person executing the
+bonds shall be liable personally on the bonds by reason of the issuance
+thereof. The bonds and other obligations of the authority, and such bonds and
+obligations shall so state on their face, shall not be a debt of the city and
+the city shall not be liable on such bonds, except to the extent authorized by
+sections 18-2147 to 18-2150, nor in any event shall such bonds or obligations
+be payable out of any funds or properties other than those of said authority
+acquired for the purposes of the Community Development Law, except to the
+extent authorized by sections 18-2147 to 18-2150. Except to the extent
+otherwise authorized, the bonds shall not constitute an indebtedness within the
+meaning of any constitutional or statutory debt limitation or restriction.
+Bonds of an authority are declared to be issued for an essential public and
+governmental purpose and to be public instrumentalities and, together with
+interest thereon and income therefrom, shall be exempt from all Nebraska taxes.
+All bonds, except conduit revenue bonds issued pursuant to subsection (3) of
+section 18-2147, shall be general obligations of the authority issuing same and
+shall be payable out of any revenue, income, receipts, proceeds, or other money
+of the authority, except as may be otherwise provided in the instruments
+-4-
+
+LB1135 LB1135
+2026 2026
+themselves.
+An authority shall have power from time to time to issue bond anticipation
+notes, referred to as notes herein, and from time to time to issue renewal
+notes, such notes in any case to mature not later than thirty months from the
+date of incurring the indebtedness represented thereby in an amount not
+exceeding in the aggregate at any time outstanding the amount of bonds then or
+theretofore authorized. Payment of such notes shall be made from any money or
+revenue which the authority may have available for such purpose or from the
+proceeds of the sale of bonds of the authority, or such notes may be exchanged
+for a like amount of such bonds. The authority may pledge such money or revenue
+of the authority, subject to prior pledges thereof, if any, for the payment of
+such notes, and may in addition secure the notes in the same manner as herein
+provided for bonds. All notes shall be issued and sold in the same manner as
+bonds, and any authority shall have power to make contracts for the future sale
+from time to time of notes on terms and conditions stated in such contracts,
+and the authority shall have power to pay such consideration as it shall deem
+proper for any commitments to purchase notes and bonds in the future. Such
+notes shall also be collaterally secured by pledges and deposits with a bank or
+trust company, in trust for the payment of such notes, of bonds in an aggregate
+amount at least equal to the amount of such notes and, in any event, in an
+amount deemed by the issuing authority sufficient to provide for the payment of
+the notes in full at the maturity thereof. The authority may provide in the
+collateral agreement that the notes may be exchanged for bonds held as
+collateral security for the notes, or that the trustee may sell the bonds if
+the notes are not otherwise paid at maturity, and apply the proceeds of such
+sale to the payment of the notes. Such notes shall bear interest at a rate set
+by the authority, and shall be sold at such price as shall cause an interest
+cost thereon not to exceed such rate.
+It is the intention hereof that any pledge of revenue, income, receipts,
+proceeds, or other money made by an authority for the payment of bonds or notes
+shall be valid and binding from the time such pledge is made; that the revenue,
+income, receipts, proceeds, and other money so pledged and thereafter received
+by the authority shall immediately be subject to the lien of such pledge
+without the physical delivery thereof or further act, and that the lien of any
+such pledge shall be valid and binding as against all parties having claims of
+any kind in tort, contract, or otherwise against the authority irrespective of
+whether such parties have notice thereof. Neither the resolution nor any other
+instrument by which a pledge is created need be recorded.
+Sec. 12. Section 18-2136, Reissue Revised Statutes of Nebraska, is amended
+to read:
+18-2136 All property including funds of an authority shall be exempt from
+levy and sale by virtue of an execution, and no execution or other judicial
+process shall issue against such property nor shall judgment against an
+authority be a charge or lien upon its property. The provisions of this section
+shall not apply to or limit the right of obligees to foreclose or otherwise
+enforce any taxpayer agreement entered into pursuant to subsection (3) of
+section 18-2147 or any mortgage of an authority or the right of obligees to
+pursue any remedies for the enforcement of any pledge or lien given by an
+authority on its rents, fees, grants, or revenue.
+Sec. 13. Section 18-2147, Revised Statutes Supplement, 2025, is amended to
+read:
+18-2147 (1) Any redevelopment plan as originally approved or as later
+modified pursuant to section 18-2117 may contain a provision that any ad
+valorem tax levied upon real property, or any portion thereof, in a
+redevelopment project for the benefit of any public body shall be divided, for
+the applicable period described in subsection (5) (4) of this section, as
+follows:
+(a) That portion of the ad valorem tax which is produced by the levy at
+the rate fixed each year by or for each such public body upon the redevelopment
+project valuation shall be paid into the funds of each such public body in the
+same proportion as are all other taxes collected by or for the body. When there
+is not a redevelopment project valuation on a parcel or parcels, the county
+assessor shall determine the redevelopment project valuation based upon the
+fair market valuation of the parcel or parcels as of January 1 of the year
+prior to the year that the ad valorem taxes are to be divided. The county
+assessor shall provide written notice of the redevelopment project valuation to
+the authority as defined in section 18-2103 and the owner. The authority or
+owner may protest the valuation to the county board of equalization within
+thirty days after the date of the valuation notice. All provisions of section
+77-1502 except dates for filing of a protest, the period for hearing protests,
+and the date for mailing notice of the county board of equalization's decision
+are applicable to any protest filed pursuant to this section. The county board
+of equalization shall decide any protest filed pursuant to this section within
+thirty days after the filing of the protest. The county clerk shall mail a copy
+of the decision made by the county board of equalization on protests pursuant
+to this section to the authority or owner within seven days after the board's
+decision. Any decision of the county board of equalization may be appealed to
+the Tax Equalization and Review Commission, in accordance with section 77-5013,
+within thirty days after the date of the decision;
+(b) That portion of the ad valorem tax on real property, as provided in
+the redevelopment contract, bond resolution, or redevelopment plan, as
+applicable, in the redevelopment project in excess of such amount, if any,
+shall be allocated to and, when collected, paid into a special fund of the
+-5-
+
+LB1135 LB1135
+2026 2026
+authority to be used solely to pay the principal of, the interest on, and any
+premiums due in connection with the bonds of, loans, notes, or advances of
+money to, or indebtedness incurred by, whether funded, refunded, assumed, or
+otherwise, such authority for financing or refinancing, in whole or in part,
+the redevelopment project. When such bonds, loans, notes, advances of money, or
+indebtedness, including interest and premiums due, have been paid, the
+authority shall so notify the county assessor and county treasurer and all ad
+valorem taxes upon taxable real property in such a redevelopment project shall
+be paid into the funds of the respective public bodies. An authority may use a
+single fund for purposes of this subdivision for all redevelopment projects or
+may use a separate fund for each redevelopment project; and
+(c) Any interest and penalties due for delinquent taxes shall be paid into
+the funds of each public body in the same proportion as are all other taxes
+collected by or for the public body.
+(2) To the extent that a redevelopment plan authorizes the division of ad
+valorem taxes levied upon only a portion of the real property included in such
+redevelopment plan, any improvements funded by such division of taxes shall be
+related to the redevelopment plan that authorized such division of taxes.
+(3)(a) An authority may enter into a redevelopment contract or adopt a
+bond resolution or redevelopment plan pursuant to which it issues conduit
+revenue bonds and under which the authority may pledge a percentage, up to and
+including one hundred percent, of the annual excess tax revenues described in
+subdivision (1)(b) of this section, if any, toward the authority's obligations
+under the contract, resolution, or plan. The ad valorem taxes to be pledged
+under this subsection shall be placed into a special fund of the authority to
+be used solely to pay the principal of, the interest on, and any premiums due
+in connection with the bonds of the redevelopment project. When an authority
+has pledged less than one hundred percent of the excess tax revenues under the
+contract, resolution, or plan, the unpledged portion of ad valorem taxes
+collected on the real property shall be paid into the funds of the respective
+public bodies as provided in subdivision (1)(b) of this section.
+(b) An authority that issues one or more conduit revenue bonds pursuant to
+subdivision (3)(a) of this section may enter into an agreement with a taxpayer
+that limits the taxpayer's rights to challenge the assessment of real property
+taxes on real property within a redevelopment project or that guarantees,
+enhances, or otherwise further secures bonds issued by the authority, such as
+by guaranteeing any shortfall in real property taxes pledged to payment of the
+conduit revenue bonds issued to support a redevelopment project, if (i) the
+taxpayer's real property is within such redevelopment project and (ii) the real
+property taxes levied upon such real property are subject to division in
+accordance with subdivision (3)(a) of this section. The obligation to make
+payments under a taxpayer agreement that guarantee, enhance, or otherwise
+further secure conduit revenue bonds issued pursuant to subdivision (3)(a) of
+this section shall be treated in the same manner as property taxes for purposes
+of section 77-203 if, and to the extent that, the taxpayer agreement provides
+for a property tax lien.
+(c) A lien resulting from a taxpayer agreement described in subdivision
+(3)(b) of this section takes priority over any existing or subsequent mortgage,
+other lien, or other encumbrance on the property, shall have parity with a
+property tax lien described in section 77-203, and may be enforced and
+collected in all respects as real property taxes.
+(4)(a) (3)(a) For any redevelopment plan located in a city of the
+metropolitan class that includes a division of taxes, as provided in this
+section, that produces, in whole or in part, funds to be used directly or
+indirectly for (i) new construction, rehabilitation, or acquisition of housing
+for households with annual incomes below the area median income for households
+and located within six hundred yards of a public passenger streetcar or (ii)
+new construction, rehabilitation, or acquisition of single-family housing or
+condominium housing used as primary residences for individuals with annual
+incomes below the area median income for individuals, such housing shall be
+deemed related to the redevelopment plan that authorized such division of taxes
+regardless of whether such housing is or will be located on real property
+within such redevelopment plan, as long as such housing supports activities
+occurring on or identified in such redevelopment plan.
+(b) During each fiscal year in which the funds described in subdivision
+(a) of this subsection are available, the authority and city shall make best
+efforts to allocate not less than thirty percent of such funds to single-family
+housing deemed related to the redevelopment plan described under such
+subdivision.
+(c) In selecting projects to receive funding, the authority and city shall
+develop a qualified allocation plan and give first priority to financially
+viable projects that serve the lowest income occupants for the longest period
+of time.
+(5)(a) (4)(a) For any redevelopment plan for which more than fifty percent
+of the property in the redevelopment project area has been declared an
+extremely blighted area in accordance with section 18-2101.02, ad valorem taxes
+shall be divided for a period not to exceed twenty years after the effective
+date as identified in the project redevelopment contract or in the resolution
+of the authority authorizing the issuance of bonds pursuant to section 18-2124.
+(b) For all other redevelopment plans, ad valorem taxes shall be divided
+for a period not to exceed fifteen years after the effective date as identified
+in the project redevelopment contract, in the resolution of the authority
+authorizing the issuance of bonds pursuant to section 18-2124, or in the
+-6-
+
+LB1135 LB1135
+2026 2026
+redevelopment plan, whichever is applicable.
+(6) (5) The effective date of a provision dividing ad valorem taxes as
+provided in subsection (5) (4) of this section shall not occur until such time
+as the real property in the redevelopment project is within the corporate
+boundaries of the city. This subsection shall not apply to a redevelopment
+project involving a formerly used defense site as authorized in section
+18-2123.01.
+(7) (6) All notices of the provision for dividing ad valorem taxes shall
+be sent by the authority to the county assessor on forms prescribed by the
+Property Tax Administrator. The notice shall be sent to the county assessor on
+or before July 1 of the year of the effective date of the provision. Failure to
+satisfy the notice requirement of this section shall result in the taxes, for
+all taxable years affected by the failure to give notice of the effective date
+of the provision, remaining undivided and being paid into the funds for each
+public body receiving property taxes generated by the property in the
+redevelopment project. However, the redevelopment project valuation for the
+remaining division of ad valorem taxes in accordance with subdivisions (1)(a)
+and (b) of this section shall be the last certified valuation for the taxable
+year prior to the effective date of the provision to divide the taxes for the
+remaining portion of the twenty-year or fifteen-year period pursuant to
+subsection (5) (4) of this section.
+Sec. 14. Section 18-3404, Reissue Revised Statutes of Nebraska, is amended
+to read:
+18-3404 (1) A single municipality may create a land bank if the
+municipality is a city of the metropolitan class or city of the primary class.
+Such municipality shall create the land bank by the adoption of an ordinance
+which specifies the following:
+(a) The name of the land bank;
+(b) The initial individuals to serve as members of the board and the
+length of terms for which they are to serve; and
+(c) The qualifications and terms of office of members of the board.
+(2) Two or more municipalities may elect to enter into an agreement
+pursuant to the Interlocal Cooperation Act to create a single land bank to act
+on behalf of such municipalities, which agreement shall contain the information
+required by subsection (1) of this section.
+(3) A municipality may elect to join an existing land bank by entering
+into an agreement pursuant to the Interlocal Cooperation Act with a
+municipality city of the metropolitan class or city of the primary class that
+has created a land bank pursuant to subsection (1) of this section or by
+joining an existing agreement pursuant to the Interlocal Cooperation Act with
+the municipalities that formed a land bank pursuant to subsection (2) of this
+section. Agreements entered into or joined under this subsection shall contain
+the information required by subsection (1) of this section.
+(4) Each land bank created pursuant to the Nebraska Municipal Land Bank
+Act shall be deemed to be a public corporation acting in a governmental
+capacity and a political subdivision of the state and shall have permanent and
+perpetual duration until terminated and dissolved in accordance with section
+18-3414.
+(5) The primary goal of any land bank shall be to facilitate the return of
+vacant, abandoned, and tax-delinquent properties to productive use.
+Sec. 15. Section 18-3405, Reissue Revised Statutes of Nebraska, is amended
+to read:
+18-3405 (1) If a land bank is created by a single municipality pursuant to
+subsection (1) of section 18-3404, the board of such land bank shall meet the
+following requirements:
+(a) The board shall consist of:
+(i) An odd number of Seven voting members, totaling at least seven,
+appointed by the chief executive officer of the municipality that created the
+land bank and confirmed by a two-thirds vote of the governing body of such
+municipality; and
+(ii) The following nonvoting members:
+(A) The planning director of the municipality that created the land bank
+or his or her designee or, if there is no planning director, a person
+designated by the governing body of the municipality that created the land
+bank;
+(B) One member of the governing body of the municipality that created the
+land bank, appointed by such governing body; and
+(C) Such other nonvoting members as are appointed by the chief executive
+officer of the municipality that created the land bank and confirmed by a two-
+thirds vote of the governing body of such municipality;
+(b) Each voting member of the board shall reside (i) within the
+municipality that created the land bank or (ii) within three miles of such
+municipality, except that a majority of the voting members shall reside within
+the municipality that created the land bank; The seven voting members of the
+board shall be residents of the municipality that created the land bank;
+(c) If the governing body of the municipality creating the land bank has
+any of its members elected by district or ward, then at least one voting member
+of the board shall be appointed from each such district or ward. Such voting
+members shall represent, to the greatest extent possible, the racial and ethnic
+diversity of the municipality creating the land bank;
+(d) The seven voting members of the board shall include individuals with
+knowledge, expertise, or experience in fields relevant to land bank operations,
+including, but not limited to, community development, real estate, and housing;
+-7-
+
+LB1135 LB1135
+2026 2026
+have, collectively, verifiable skills, expertise, and knowledge in market-rate
+and affordable residential, commercial, industrial, and mixed-use real estate
+development, financing, law, purchasing and sales, asset management, economic
+and community development, and the acquisition of tax sale certificates;
+(e) The seven voting members of the board shall include the following
+individuals to the extent such individuals can reasonably be found:
+(i) At least one member representing a chamber of commerce;
+(ii) At least one member with experience in banking;
+(iii) At least one member with experience in real estate development;
+(iv) At least one member with experience as a realtor;
+(v) At least one member with experience in nonprofit or affordable
+housing; and
+(vi) At least one member with experience in large-scale residential or
+commercial property rental; and
+(vii) At least one member who resides in the city council district
+described in subdivision (3)(c)(i) of section 13-2610. This subdivision (vii)
+shall only apply to a land bank created by a city of the metropolitan class;
+and
+(f) A single voting member may satisfy more than one of the requirements
+provided in subdivision (1)(e) of this section if he or she has the required
+qualifications. It is not necessary that there be a different member to fulfill
+each such requirement.
+(2) If a land bank is created by more than one municipality pursuant to an
+agreement under the Interlocal Cooperation Act as described in subsection (2)
+or (3) of section 18-3404, the board of such land bank shall meet the following
+requirements:
+(a) The board shall consist of:
+(i) An odd number of voting members, totaling at least seven, appointed by
+the chief executive officers of the municipalities that created the land bank,
+as mutually agreed to by such chief executive officers, and confirmed by a two-
+thirds vote of the governing body of each municipality that created the land
+bank; and
+(ii) The following nonvoting members:
+(A) The planning director of each municipality that created the land bank
+or his or her designee or, if there is no planning director for any
+municipality that created the land bank, a person designated by the governing
+body of such municipality;
+(B) One member of the governing body of each municipality that created the
+land bank, appointed by the governing body on which such member serves; and
+(C) Such other nonvoting members as are appointed by the chief executive
+officers of the municipalities that created the land bank, as mutually agreed
+to by such chief executive officers, and confirmed by a two-thirds vote of the
+governing body of each municipality that created the land bank;
+(b) Each voting member of the board shall reside (i) within one of the
+municipalities that created the land bank or (ii) within three miles of such a
+municipality, except that a majority of the voting members shall reside within
+the municipality in which the majority of land bank property is located; and be
+a resident of one of the municipalities that created the land bank. If a land
+bank is created by a city of the metropolitan class or a city of the primary
+class, at least one voting member of the board shall be appointed from each of
+the municipalities that created the land bank;
+(c) The voting members of the board shall include individuals with
+knowledge, expertise, or experience in fields relevant to land bank operations,
+including, but not limited to, community development, real estate, and housing.
+have, collectively, verifiable skills, expertise, and knowledge in market-rate
+and affordable residential, commercial, industrial, and mixed-use real estate
+development, financing, law, purchasing and sales, asset management, economic
+and community development, and the acquisition of tax sale certificates;
+(d) The voting members of the board shall include:
+(i) At least one member representing a chamber of commerce;
+(ii) At least one member with experience in banking;
+(iii) At least one member with experience in real estate development;
+(iv) At least one member with experience as a realtor;
+(v) At least one member with experience in nonprofit or affordable
+housing; and
+(vi) At least one member with experience in large-scale residential or
+commercial property rental; and
+(e) A single voting member may satisfy more than one of the requirements
+provided in subdivision (2)(d) of this section if he or she has the required
+qualifications. It is not necessary that there be a different member to fulfill
+each such requirement.
+(3) The members of the board shall select annually from among themselves a
+chairperson, a vice-chairperson, a treasurer, and such other officers as the
+board may determine.
+(4) A public official or public employee shall be eligible to be a member
+of the board.
+(5) A vacancy on the board among the appointed board members shall be
+filled not later than six months after the date of such vacancy in the same
+manner as the original appointment.
+(6) Board members shall serve without compensation.
+(7) The board shall meet in regular session according to a schedule
+adopted by the board and shall also meet in special session as convened by the
+chairperson or upon written notice signed by a majority of the voting members.
+-8-
+
+LB1135 LB1135
+2026 2026
+The presence of a majority of the voting members of the board shall constitute
+a quorum.
+(8) Except as otherwise provided in this section and in sections 18-3410,
+18-3417, and 18-3418, all actions of the board shall be approved by the
+affirmative vote of a majority of the voting members present and voting.
+(9) Any action of the board on the following matters shall be approved by
+a majority of the voting members:
+(a) Adoption of bylaws and other rules and regulations for conduct of the
+land bank's business;
+(b) Hiring or firing of any employee or contractor of the land bank. This
+function may, by majority vote of the voting members, be delegated by the board
+to a specified officer or committee of the land bank, under such terms and
+conditions, and to the extent, that the board may specify;
+(c) The incurring of debt;
+(d) Adoption or amendment of the annual budget; and
+(e) Sale, lease, encumbrance, or alienation of real property,
+improvements, or personal property with a value of more than fifty thousand
+dollars.
+(10) Members of a board shall not be liable personally on the bonds or
+other obligations of the land bank, and the rights of creditors shall be solely
+against such land bank.
+(11) The board of a land bank created by a city of the metropolitan class
+that borders a county in which at least three cities of the first class are
+located shall adopt policies and procedures to specify the conditions that must
+be met in order for such land bank to give an automatically accepted bid as
+authorized in sections 18-3417 and 18-3418. The adoption of such policies and
+procedures shall require the approval of two-thirds of the voting members of
+the board. At a minimum, such policies and procedures shall ensure that the
+automatically accepted bid shall only be given for one of the following
+reasons:
+(a) The real property substantially meets more than one of the following
+criteria as determined by two-thirds of the voting members of the board:
+(i) The property is not occupied by the owner or any lessee or licensee of
+the owner;
+(ii) There are no utilities currently being provided to the property;
+(iii) Any buildings on the property have been deemed unfit for human
+habitation, occupancy, or use by local housing officials;
+(iv) Any buildings on the property are exposed to the elements such that
+deterioration of the building is occurring;
+(v) Any buildings on the property are boarded up;
+(vi) There have been previous efforts to rehabilitate any buildings on the
+property;
+(vii) There is a presence of vermin, uncut vegetation, or debris
+accumulation on the property;
+(viii) There have been past actions by the municipality to maintain the
+grounds or any building on the property; or
+(ix) The property has been out of compliance with orders of local housing
+officials;
+(b) The real property is contiguous to a parcel that meets more than one
+of the criteria in subdivision (11)(a) of this section or that is already owned
+by the land bank; or
+(c) Acquisition of the real property by the land bank would serve the best
+interests of the community as determined by two-thirds of the voting members of
+the board. In determining whether the acquisition would serve the best
+interests of the community, the board shall take into consideration the
+hierarchical ranking of priorities for the use of real property conveyed by a
+land bank established pursuant to subsection (5) of section 18-3410, if any
+such hierarchical ranking is established.
+(12)(a) A member of the board may be removed for neglect of duty,
+misconduct in office, conviction of any felony, or other good cause as follows:
+(i) In the case of a land bank created pursuant to subsection (1) of
+section 18-3404, a board member may be removed by the chief executive officer
+of the municipality that created the land bank after such removal has been
+approved by a two-thirds vote of the governing body of such municipality; or
+(ii) In the case of a land bank created pursuant to subsection (2) or (3)
+of section 18-3404, a board member may be removed by the chief executive
+officer of the municipality in which the majority of land bank property is
+located where the member resides after such removal has been approved by a two-
+thirds vote of the governing body of such municipality.
+(b) Such chief executive officer shall send a notice of removal to such
+board member, which notice shall set forth the charges against him or her. The
+member shall be deemed removed from office unless within ten days from the
+receipt of such notice he or she files a request for a hearing. Such request
+shall be filed with:
+(i) In the case of a land bank created pursuant to subsection (1) of
+section 18-3404, the city clerk or village clerk of the municipality of the
+city that created the land bank; or
+(ii) In the case of a land bank created pursuant to subsection (2) or (3)
+of section 18-3404, the city clerk or village clerk of the municipality in
+which the majority of land bank property is located where the member resides.
+(c) If a request for hearing is so filed, the governing body of the
+municipality receiving the request shall hold a hearing not sooner than ten
+days after the date a hearing is requested, at which hearing the board member
+-9-
+
+LB1135 LB1135
+2026 2026
+shall have the right to appear in person or by counsel and the governing body
+shall determine whether the removal shall be upheld. If the removal is not
+upheld by the governing body, the board member shall continue to hold his or
+her office.
+Sec. 16. Section 18-3407, Reissue Revised Statutes of Nebraska, is amended
+to read:
+18-3407 (1) A land bank shall have the following powers:
+(a) To adopt, amend, and repeal bylaws for the regulation of its affairs
+and the conduct of its business;
+(b) To sue and be sued in its own name and plead and be impleaded in all
+civil actions;
+(c) To borrow money from private lenders, from municipalities, from the
+state, or from federal government funds as may be necessary for the operation
+and work of the land bank;
+(d) To issue negotiable revenue bonds and notes according to the
+provisions of the Nebraska Municipal Land Bank Act, except that a land bank
+shall not issue any bonds on or after November 14, 2020;
+(e) To procure insurance or guarantees from the state or federal
+government of the payments of any debts or parts thereof incurred by the land
+bank and to pay premiums in connection therewith;
+(f) To enter into contracts and other instruments necessary, incidental,
+or convenient to the performance of its duties and the exercise of its powers,
+including, but not limited to, agreements under the Interlocal Cooperation Act
+for the joint administration of multiple land banks or the joint exercise of
+powers under the Nebraska Municipal Land Bank Act;
+(g) To enter into contracts and other instruments necessary, incidental,
+or convenient to the performance of functions by the land bank on behalf of
+municipalities or agencies or departments of municipalities, or the performance
+by municipalities or agencies or departments of municipalities of functions on
+behalf of the land bank;
+(h) To make and execute contracts and other instruments necessary or
+convenient to the exercise of the powers of the land bank;
+(i) To provide foreclosure prevention counseling and re-housing
+assistance;
+(j) To procure insurance against losses in connection with the real
+property, assets, or activities of the land bank;
+(k) To invest money of the land bank, at the discretion of the board, in
+instruments, obligations, securities, or property determined proper by the
+board and name and use depositories for its money, except that a land bank
+shall not invest its money in any instrument, obligation, security, or property
+in which a direct or indirect interest is held by a member of the board or an
+employee of the land bank, by a board member's or an employee's immediate
+family, or by a business or entity in which a board member or an employee has a
+financial interest;
+(l) To enter into contracts for the management of, the collection of rent
+from, or the sale of real property of the land bank;
+(m) To design, develop, construct, demolish, reconstruct, rehabilitate,
+renovate, relocate, and otherwise improve real property or rights or interests
+in real property of the land bank;
+(n) To fix, charge, and collect fees and charges for services provided by
+the land bank;
+(o) To fix, charge, and collect rents and leasehold payments for the use
+of real property of the land bank for a period not to exceed twelve months,
+except that such twelve-month limitation shall not apply (i) if the real
+property of the land bank is subject to a lease with a remaining term of more
+than twelve months at the time such real property is acquired by the land bank
+or (ii) if the real property of the land bank is held pursuant to an agreement
+with a nonprofit corporation or other private entity under subsection (8) of
+section 18-3408;
+(p) To grant or acquire a license, easement, lease, as lessor and as
+lessee, or option with respect to real property of the land bank;
+(q) To Except as provided in subsection (8) of section 18-3408, to enter
+into partnerships, joint ventures, and other collaborative relationships with
+municipalities and other public and private entities for the ownership,
+management, development, and disposition of real property, subject to the
+requirements of subsection (8) of section 18-3408, if applicable; and
+(r) To do all other things necessary or convenient to achieve the
+objectives and purposes of the land bank or other laws that relate to the
+purposes and responsibilities of the land bank.
+(2) A land bank shall neither possess nor exercise the power of eminent
+domain.
+(3) A land bank shall not have the authority to (a) levy property taxes or
+(b) receive property tax revenue from a political subdivision pursuant to an
+agreement entered into under the Joint Public Agency Act.
+Sec. 17. Section 18-3408, Reissue Revised Statutes of Nebraska, is amended
+to read:
+18-3408 (1) A land bank may acquire real property or interests in real
+property by gift, devise, transfer, exchange, foreclosure, purchase, or
+otherwise on terms and conditions and in a manner the land bank considers
+proper.
+(2) A land bank may acquire real property or interests in real property by
+purchase contracts, lease-purchase agreements, installment sales contracts, or
+land contracts and may accept transfers from political subdivisions upon such
+-10-
+
+LB1135 LB1135
+2026 2026
+terms and conditions as agreed to by the land bank and the political
+subdivision. Notwithstanding any other law to the contrary, any political
+subdivision may transfer to the land bank real property and interests in real
+property of the political subdivision on such terms and conditions and
+according to such procedures as determined by the political subdivision.
+(3) A land bank shall maintain all of its real property in accordance with
+the laws and ordinances of the jurisdiction in which the real property is
+located.
+(4) A land bank shall not own or hold real property located outside the
+jurisdictional boundaries of the municipality or municipalities that created
+the land bank. For purposes of this subsection, jurisdictional boundaries of a
+municipality does not include the extraterritorial zoning jurisdiction of such
+municipality.
+(5) A land bank may accept transfers of real property and interests in
+real property from a land reutilization authority on such terms and conditions,
+and according to such procedures, as mutually determined by the transferring
+land reutilization authority and the land bank.
+(6) A land bank shall not hold legal title at any one time to more than:
+(a) Seven percent of the total number of parcels located in a city of the
+metropolitan class, and no more than ten percent of such parcels shall be zoned
+as commercial property;
+(b) Three percent of the total number of parcels located in a city of the
+primary class, and no more than five percent of such parcels shall be zoned as
+commercial property;
+(c) Five percent of the total number of parcels located in a city of the
+first class, and no more than five percent of such parcels shall be zoned as
+commercial property; or
+(d) Ten percent of the total number of parcels located in a city of the
+second class or village, and no more than five percent of such parcels shall be
+zoned as commercial property.
+(7) A land bank shall not acquire a parcel that is zoned as commercial
+property unless (a) the parcel has been vacant for at least three years or (b)
+the owner of the parcel has been directed by the relevant municipality to
+remove a nuisance found on such parcel but has failed to do so.
+(8) A Beginning on November 14, 2020, a land bank shall not enter into an
+agreement with any nonprofit corporation or other private entity for the
+purpose of temporarily holding real property on behalf of for such nonprofit
+corporation or private entity for a period longer than one year unless the
+depositing entity has entered into a community benefits agreement, to which the
+land bank shall also be a party. For the purposes of this subsection: , except
+that a land bank may enter into such an agreement for the purpose of providing
+clear title to such real property, but in no case shall such agreement exceed a
+term of one year.
+(a) Community benefits agreement means a legally binding contract between
+the depositing entity, a land bank, and local community groups, where the
+depositing entity commits to specific community benefits, such as affordable
+housing, local hiring, living wages, or community services, for large projects
+undertaken by the depositing entity, and in exchange, the local community
+groups agree to support or not oppose such projects; and
+(b) Local community groups shall include, but are not limited to,
+neighborhood or block associations, business improvement districts, service and
+fraternal organizations, and faith-based organizations within the neighborhood
+in which the proposed project will be located.
+Sec. 18. Section 18-3410, Reissue Revised Statutes of Nebraska, is amended
+to read:
+18-3410 (1) A land bank shall hold in its own name all real property
+acquired by the land bank irrespective of the identity of the transferor of
+such property.
+(2) A land bank shall maintain and make available for public review and
+inspection an inventory of all real property held by the land bank.
+(3) A land bank shall determine and set forth in policies and procedures
+of the board the general terms and conditions for consideration to be received
+by the land bank for the transfer of real property and interests in real
+property, which consideration may take the form of monetary payments and
+secured financial obligations, covenants and conditions related to the present
+and future use of the property, contractual commitments of the transferee, and
+such other forms of consideration as determined by the board to be in the best
+interest of the land bank.
+(4) A land bank may convey, exchange, sell, transfer, grant, release and
+demise, pledge, and hypothecate any and all interests in, upon, or to real
+property of the land bank. A land bank may lease as lessor real property of the
+land bank for a period not to exceed twelve months, except that such twelve-
+month limitation shall not apply (a) if the real property of the land bank is
+subject to a lease with a remaining term of more than twelve months at the time
+such real property is acquired by the land bank or (b) if the real property of
+the land bank is held pursuant to an agreement with a nonprofit corporation or
+other private entity under subsection (8) of section 18-3408.
+(5) The municipality or municipalities that created the land bank may
+establish by resolution or ordinance a hierarchical ranking of priorities for
+the use of real property conveyed by a land bank. Such ranking shall take into
+consideration the highest and best use that, when possible, will bring the
+greatest benefit to the community. The priorities may include, but are not
+limited to, (a) use for purely public spaces and places, (b) use for affordable
+-11-
+
+LB1135 LB1135
+2026 2026
+housing, (c) use for retail, commercial, and industrial activities, (d) use for
+urban agricultural activities including the establishment of community gardens
+as defined in section 2-303, and (e) such other uses and in such hierarchical
+order as determined by the municipality or municipalities.
+(6) The municipality or municipalities that created the land bank may
+require by resolution or ordinance that any particular form of disposition of
+real property, or any disposition of real property located within specified
+jurisdictions, be subject to specified voting and approval requirements of the
+board. Except and unless restricted or constrained in this manner, the board
+may delegate to officers and employees the authority to enter into and execute
+agreements, instruments of conveyance, and all other related documents
+pertaining to the conveyance of real property by the land bank.
+(7)(a) For any real property of a land bank that is intended for
+residential development, the land bank shall advertise the availability of such
+property for sale for ninety days after acquiring the property or after
+completing demolition of any structure and site preparation necessary for
+development or until an offer to buy the property is accepted, whichever is
+earlier.
+(b) Any conveyance of real property made as a result of the advertisement
+described in subdivision (7)(a) of this section may include a contractual
+provision allowing the land bank to reacquire the property at the original
+purchase price, exercise a right of reentry, or otherwise reacquire the
+property under terms established by the contract if construction has not
+commenced within a specific timeframe provided in the contract.
+(c) This subsection shall not apply to any land bank created by a city of
+the metropolitan class or city of the primary class.
+Sec. 19. Section 18-3413, Reissue Revised Statutes of Nebraska, is amended
+to read:
+18-3413 (1) The board shall cause minutes and a record to be kept of all
+its proceedings. Meetings of the board shall be subject to the Open Meetings
+Act.
+(2) All of a land bank's records and documents shall be considered public
+records for purposes of sections 84-712 to 84-712.09.
+(3) The board shall provide a report monthly reports to the municipality
+or municipalities that created the land bank on the board's activities pursuant
+to the Nebraska Municipal Land Bank Act. The report shall be provided after
+each meeting of the board or at least quarterly. The board shall also
+electronically submit provide an annual report to the municipality or
+municipalities that created the land bank, the Speaker of the Legislature, the
+chairperson of the Executive Board of the Legislative Council, the Revenue
+Committee of the Legislature, and the Urban Affairs Committee of the
+Legislature by March 1 of each year summarizing the board's activities for the
+prior calendar year. The reports submitted to the Legislature shall be
+submitted electronically.
+(4) The annual report required under subsection (3) of this section shall
+include, but not be limited to:
+(a) A listing of each property owned by the land bank at the end of the
+prior calendar year, including (i) how long each such property has been owned
+by the land bank, (ii) and whether such property was acquired utilizing the
+automatically accepted bid under section 18-3417 or 18-3418, (iii) whether such
+property is being held on behalf of a nonprofit corporation or other private
+entity pursuant to subsection (8) of section 18-3408, and (iv) the intended use
+of each property being held on behalf of a nonprofit corporation or other
+private entity pursuant to subsection (8) of section 18-3408;
+(b) A list of entities and individuals who received more than two thousand
+five hundred dollars from the land bank in the prior calendar year;
+(c) A list of financial institutions in which the land bank has deposited
+funds;
+(d) The percentage of total parcels located in each municipality which are
+held by the land bank; and
+(e) A statement certifying that all board members and employees of the
+land bank comply with the conflict of interest requirements in sections 18-3407
+and 18-3415.
+Sec. 20. (1) A city of the primary class, city of the first class, city
+of the second class, or village may sell or transfer any waterworks, sewer
+system, or water system owned by such city or village to an Indian tribe if the
+following requirements are met:
+(a) The waterworks, sewer system, or water system must be located or
+operating in its entirety within the tribal lands of such Indian tribe;
+(b) The tribal headquarters of such Indian tribe must be located in such
+city or village; and
+(c) The sale or transfer must be approved by the qualified electors of
+such city or village at a general or special election described in subsection
+(2) of this section.
+(2) The governing body of the city or village seeking to sell or transfer
+any waterworks, sewer system, or water system under this section shall submit
+such question or proposition, in the usual manner, to the qualified electors of
+such city or village at any general city or village election or at any special
+city or village election and may submit the proposition in connection with any
+city or village special election called for any other purpose, and the votes
+cast thereon shall be canvassed and the result found and declared as in any
+other city or village election.
+(3) For purposes of this section, Indian tribe means an Indian tribe or
+-12-
+
+LB1135 LB1135
+2026 2026
+band which is recognized by federal law or formally acknowledged by the state
+as of January 1, 2026.
+Sec. 21. The Revisor of Statutes shall assign section 6 of this act to
+Chapter 19.
+Sec. 22. Sections 1, 2, 3, 4, 5, 6, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17,
+18, 19, 20, and 24 of this act become operative three calendar months after the
+adjournment of this legislative session. The other sections of this act become
+operative on their effective date.
+Sec. 23. Original section 13-3206, Reissue Revised Statutes of Nebraska,
+is repealed.
+Sec. 24. Original sections 18-2124, 18-2125, 18-2136, 18-3404, 18-3405,
+18-3407, 18-3408, 18-3410, and 18-3413, Reissue Revised Statutes of Nebraska,
+section 18-2117.01, Revised Statutes Cumulative Supplement, 2024, and sections
+18-2101.02 and 18-2147, Revised Statutes Supplement, 2025, are repealed.
+Sec. 25. Since an emergency exists, this act takes effect when passed and
+approved according to law.
+-13-
+
+[DELETED: yU 1 1 1 1 1 1 a f t c p r t d a a t i o c r b a c t u t C D L t c p o s s a w s t I t t C m a c i t s w a p o m t h t i a d b t m r f D m t m d o t D o I a b a c c o s a f t p o r c s e c s a t s s r a h s s c a c s y m S a m a a b o c o t s F b c a c s a p p t s 6 i p t p t c a r t Z c m t n c u b t U S P5L62]
+[DELETED:  C o t L T d s a m t r a o t w o t D o a r u s 3 o t a t d s s o s a a t t c o c u t a i s O t a r h b s t c o m e i c o a w a p f o p s f t o m S c o a m a t p f f m e o o p s p t ( F q p o t s w t t p s f i t a c s b d T m s w f d a a a b d o i t i a t l b t a a s a i t s m a s F q p t i s r p a a i o s q p i a o t a a a a p s u t i t a a a i u a a a a i a p a p i f A a a A n o l f u t s s a a m T a o f d o t b d p t t T n a a o t c o o t q F q p t i s r p t t n o t P l i r ( b s t  m o t d o t q p r a t s t t r i s ( o s 1 t a r a e c a s a h t5L62]
+[DELETED:  a t d r t q p t i s p t h o a m t d o o i d a a s b P l s p i a w t p e u ( o t s I t e t a i 1 o f a o m t s t d a s d a a s b e A e i t e o a s p t a f o a s t t e o a p o s u a t d r t p t i s r p U t o a p o s u a t d t n a U t t o o o q p o t F q p o t s r w t d a a i a i a F q p t i s r p a r o t P l s b r i t o o t o d o t c i w t n o t P l w e o t i o s b t q p h s h o l s m i t r m n m t t y a p i s ( ( o s c s f d b r a a t p r u t s s a t b a e b b a s s t q o w s a i b t t p c o b o t c f i o t q a g n o t h a p i U r o t r o t p c o o i n r a r w t d a t h r u s ( o t s t g s h a p h o t q o w t a i o t e t v r t p b c i c w t s o a r u 1 T h r u t s m b h i d o a a a a e b a p t t d o t r d s a t b a e5L62]
+[DELETED:  t a v t a p t t c a p t t c o v w t f a t t o b o I a c h a o o m r p u a y r o w t i i t r h c s ( o t s a i r b t c n l t M 1 e y T r m i a t u p a e o t f a t A a m i b i c r b t a t a e i p t s ( o a p f r p A a m a i i e f a o a o t p o i u b i m d i w l t g o t b o w t p a i a p ( w p o s b ( e f t i f i w o i p w t p o s b ( f i r a i i a s a u s 1 a f s g a l a m b o ( f a o p o t i p a r t c o t p o t s o a p s s b l p o t b b r o t i f t p o t C D L e t t a b s 1 t 1 E t t e o a c o s d l o r p a t b p i a t w t a e a m b o p i t i5L62]
+[DELETED:  r t a n h a f t t t t i r o i t i r t i a a n w t a m h a f s p o f t f a c t p n a b i t f S a l e t t a o s n a i a e i a a t t n m b e f b h a t a s i b s t t l o s p s i a s p n s j a a a t a e i p t s ( o a r f t e o a p o l g b a ( A r p a o a o a l p t s 1 m c a p t a a t l u r p o a p t i  a p d i s ( ( o t s a n a r p v o a p o p t c s d t r p v b u t m v o t p o p a o J 1 o t y t t y t t a v t a t b d T c a a d i s 1 a t o T a o m p t v t t c b o e w r c b r o r p a i t r p i e o s a i a b a t a w c p i a s f o t5L62]
+[DELETED:  d i c w t b o l n o a o i i a p d h b p t A a m e i a r c o a  r o r p p t w i i c t c r o p T a v t t b p r o p t u p o a v t o r p w a r p o t g r b i t s a r p i ( t t l u s r p a s t d i w s ( o t s T o t m u a t a t g e o o A l r f a t a d i s l o o e o t p s h p w  t l d i s 7 a m b e a ( F a r p l i a c o t c t i a d o t a p i t t p i w o i p f t b u d o c r o a o s h o h u a p r f i w a b t a m i f i s h s b o w s h i o w b l o r p s r p a l a s h s a d r t t r p d u s a q a p a g f p t f t p i t r p a h b d a t p r c i t r o t a t i o b p t s 1 o i t5L62]
+[DELETED:  ( T e d o a p d a v t a t r p i t r p i w t c o t c T s s n a t a r i a f u d s a a i s s b t a t t c a o f p b t b r p t g b t p i t p H t r p v f t p o t t o f p p t ( A s m m c a l b i t T i i t s a m o t b a t T o m m m e t e i a a A m m e t j a e l b b e a a p t t I C A w  c a l b p t s ( o t s o b s b d t b a p c a i a g d u t a d i a w s A o n o S v m t a l s b a c b a t v o t g b o s h o h d o i t i n p d a p b t g b o t m t c t l E v m o t b s r ( w t t c t l b o ( w t m o s5L62]
+[DELETED:  T s v m o t b s i t f A l o m w e i n o a A l o m w e i l r o A l o m w r i t c c d h o h d o i t i n p d f a E v m o t b s r ( w o o t T v m o t b s i i w A l o m w e i n o a A l o m w e i l r o A v o t b a t a b m s b T b s m i r s a t a s5L62]
+[DELETED:  a 1 a a o t b s b a b t a s o o c o t l b u s t a S l e o a o r p o p p w a v o m t f t M o a b s n b l p o t b o b A a m s p a p s e t t a b s o b g f o o t f A b o t p h b d u f h T i a p o v u v o d b I d w t a w s t b o t c t b s t i c t b e p t s ( o s 1 i a A m o t b m b r f n o d I t c o a l b c p t s ( o t m t c t l b a s r h b s 1 a b m m b r b t c e o t m i w t m o l b p i s b d r f o u w t d f t I t c o a l b c p t s ( o 1 t c c o v c o t m o t s 1 t c c o v c o t m i I a r f h i s f t g b o t r t r s h a h n s t t5L62]
+[DELETED:  d w t r s b u I t r i n T b m f p l f m f t T i n r b a n a t t o t N M L B A e t a l b T p i o g f t s o f T m a e c a o i n o T p f p c a r T p i a l i c w t r o s o p d p b t a n a u d f i m e t a l b o t l b b a b m o a e i T d d c d r r t s t l s n a ( i t r T g o a a l e l a l a a a o p a p e f t o d a d o r p s t t T d a o t n o c t a t a p o t l b o o l t r t t ( A l b m a r p o i i r b g d t e f p o o t a c a i a m t l b c5L62]
+[DELETED:  a c a a t b t l b a t p N a o l t t c a p o t p s o s t a c a l a o o t j i w t r p i b o t m o m t c A l b m a t o r p a i i A l b s n a a p t i z a c o o t p h b d b t r m t w a n c o o p e f t o p e f a p l t o y u t d e a l b a l c g w t e c t s c b s a a b t d e a i e t l c L c g s i b a n l t ( A l b s h i i o n a r p b t l b i o t i o t t o t l b f t t o r p a i i r w c m t t f o m p a p a h a a a i i u o t r T m o m t c t l b m t h a b u t w p w b t b t t c T p m i b a n5L62]
+[DELETED:  T m o m t c t l b m p o a d o r p l w s i o c a a o r d F a r p o a l b t i i f f s f n d a a t p o a d o a s a s p n f o u a o t b t p i a w i i s ( o t s m i a c a t l b t r t p a t o p e a r o r o o r t u t e b t c i c h n t N M L B A T r s b p a m o t b o a l q T b s a s p a a r t t m o o t E B o t L C t R o t L a t U A C o t c y T r s t t L s b t l b ( a w s p w a u t e p b h o b o a n c o o A s c t a b m a e o t t s c o v m s o t a w s T w s s o w s m b l o T s o t m b a b t q e o5L62]
+[DELETED: 5L62]

@@ -1,0 +1,678 @@
+Title: LEGISLATIVE BILL 950
+Official Title: LEGISLATIVE BILL 950
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 10 sections found
+
+================================================================================
+
+Section 1:
+LB950 LB950
+2026 2026
+LEGISLATURE OF NEBRASKA
+ONE HUNDRED NINTH LEGISLATURE
+SECOND SESSION
+Introduced by Bostar, 29.
+Read first time January 09, 2026
+Committee: Banking, Commerce and Insurance
+1 A BILL FOR AN ACT relating to insurance; to amend sections 81-6,123,
+2 81-6,125, 81-6,127, and 81-6,128, Reissue Revised Statutes of
+3 Nebraska, and section 44-5437, Revised Statutes Supplement, 2025; to
+4 change provisions relating to uniform prior authorization request
+5 forms as prescribed; to change requirements for the designated
+6 health information exchange; to change duties of the Health
+7 Information Technology Board; to harmonize provisions; and to repeal
+8 the original sections.
+9 Be it enacted by the people of the State of Nebraska,
+-1-
+LB950 LB950
+2026 2026
+1 Section 1. Section 44-5437, Revised Statutes Supplement, 2025, is
+2 amended to read:
+3 44-5437 (1)(a) On or before November 1, 2025, the department shall
+4 approve a single uniform prior authorization request form for
+5 prescription drugs, devices, and durable medical equipment and a single
+6 uniform prior authorization request form for all other health care
+7 services. The uniform prior authorization request forms shall not exceed
+8 two printed pages in length. This two-page limit does not apply to
+9 information or documentation required by the utilization review agent, as
+10 published in accordance with subsection (1) of section 44-5434, or a
+11 health care provider's notes or documentation submitted in support of a
+12 prior authorization request.
+13 (b) Beginning January 1, 2026, except as provided in subsection (2)
+14 of this section, (i) health care providers shall use only the approved
+15 uniform prior authorization request forms; and (ii) utilization review
+16 agents shall accept and process prior authorization requests submitted
+17 using such forms. :
+18 (i) All health care providers shall use only the approved uniform
+19 prior authorization request forms; and
+20 (ii) Except as provided in subsection (2) of this section, all
+21 utilization review agents shall accept and process prior authorization
+22 requests submitted using such forms.
+23 (c) This subsection does not prohibit a utilization review agent
+24 from using a prior authorization methodology that uses an Internet
+25 webpage, an Internet webpage portal, or a similar web-based system if the
+26 methodology is consistent with the uniform prior authorization request
+27 forms approved by the department pursuant to this subsection.
+28 (2)(a) (2) A utilization review agent may request from the
+29 department an exemption from the requirements of subsection (1) of this
+30 section if the utilization review agent implements and maintains a prior
+31 authorization application programming interface pursuant to 45 C.F.R.
+-2-
+LB950 LB950
+2026 2026
+1 156.223(b) or other electronic prior authorization methodology that
+2 automates and standardizes the prior authorization process for patients,
+3 health care providers, and health carriers. A utilization review agent
+4 shall provide notice to health care providers at least ninety days prior
+5 to implementing a prior authorization application programming interface
+6 or other electronic prior authorization methodology under this
+7 subsection.
+8 (b) Within ninety days after the date of receipt of the notice
+9 described in subdivision (2)(a) of this section, a health care provider
+10 shall use only the prior authorization application programming interface
+11 or other approved electronic prior authorization methodology for prior
+12 authorization requests. Upon a request from a health care provider, a
+13 utilization review agent may grant an extension of time for good cause.
+14 Sec. 2. Section 81-6,123, Reissue Revised Statutes of Nebraska, is
+15 amended to read:
+16 81-6,123 Sections 81-6,123 to 81-6,128 81-6,126 shall be known and
+17 may be cited as the Population Health Information Act.
+18 Sec. 3. Section 81-6,125, Reissue Revised Statutes of Nebraska, is
+19 amended to read:
+20 81-6,125 (1) The purpose of the Population Health Information Act is
+21 to designate a health information exchange to provide the data
+22 infrastructure needed to assist in creating a healthier Nebraska and
+23 operating the electronic health records initiative.
+24 (2) The designated health information exchange shall:
+25 (a) Aggregate clinical information from health care entities needed
+26 to support the operation of the medical assistance program under the
+27 Medical Assistance Act;
+28 (b) Act as the designated entity for purposes of access to and
+29 analysis of health data;
+30 (c) Collect and analyze data for purposes of informing the
+31 Legislature, the department, health care providers, and health care
+-3-
+LB950 LB950
+2026 2026
+1 entities as to the cost of, access to, and quality of health care in
+2 Nebraska;
+3 (d) Act as a collector and reporter of public health data for
+4 registry submissions, electronic laboratory reporting, immunization
+5 reporting, and syndromic surveillance from an electronic health record,
+6 which does not include claims data; and
+7 (e) Enable any health care provider or health care entity to real
+8 time access information available within the designated health
+9 information exchange to evaluate and monitor care and treatment of a
+10 patient in accordance with the privacy and security provisions set forth
+11 in the federal Health Insurance Portability and Accountability Act of
+12 1996, Public Law 104-191.
+13 (3)(a) On or before January 1, 2027 September 30, 2021, each health
+14 care facility listed in subdivision (b) of this subsection shall
+15 participate in the designated health information exchange through sharing
+16 of clinical information. Such clinical information shall include the
+17 clinical data that the health care facility captured in its existing
+18 electronic health record as permitted by state and federal laws, rules,
+19 and regulations. Any patient health information shared with the
+20 designated health information exchange as determined by the rules and
+21 regulations policies adopted by the Health Information Technology Board
+22 shall be provided in accordance with the privacy and security provisions
+23 set forth in the federal Health Insurance Portability and Accountability
+24 Act of 1996 and regulations adopted under the act.
+25 (b) This subsection applies to an ambulatory surgical center, a
+26 critical access hospital, a general acute hospital, a health clinic, a
+27 hospital, an intermediate care facility, a long-term care hospital, a
+28 mental health substance use treatment center, a PACE center, a pharmacy,
+29 a psychiatric or mental hospital, a public health clinic, or a
+30 rehabilitation hospital, as such terms are defined in the Health Care
+31 Facility Licensure Act, or a diagnostic, laboratory, or imaging center.
+-4-
+LB950 LB950
+2026 2026
+1 (c) This subsection does not apply to (i) a state-owned or state-
+2 operated facility or (ii) an assisted-living facility, a nursing
+3 facility, or a skilled nursing facility, as such terms are defined in the
+4 Health Care Facility Licensure Act.
+5 (d) Any connection established by July 1, 2021, between a health
+6 care facility and the designated health information exchange to
+7 facilitate such participation shall be at no cost to the participating
+8 health care facility.
+9 (e) A health care facility may apply to the board for a waiver from
+10 the requirement to participate under this subsection due to a
+11 technological burden. The board shall review the application and
+12 determine whether to waive the requirement. If the board waives the
+13 requirement for a health care facility, the board shall review the waiver
+14 annually to determine if the health care facility continues to qualify
+15 for the waiver.
+16 (e) (f) The board shall not require a health care facility to
+17 purchase or contract for an electronic records management system or
+18 service.
+19 (4)(a) On or before January 1, 2022, each health insurance plan
+20 shall participate in the designated health information exchange through
+21 sharing of information. Subject to subsection (5) of this section, such
+22 information shall be determined by rules and regulations policies adopted
+23 by the Health Information Technology Board. Such information shall not
+24 include claims data or any other data used for billing, payment, or
+25 adjudication purposes.
+26 (b) For purposes of this subsection:
+27 (i) Health insurance plan includes any group or individual sickness
+28 and accident insurance policy, health maintenance organization contract,
+29 subscriber contract, employee medical, surgical, or hospital care benefit
+30 plan, or self-funded employee benefit plan to the extent not preempted by
+31 federal law; and
+-5-
+LB950 LB950
+2026 2026
+1 (ii) Health insurance plan does not include (A) accident-only,
+2 disability-income, hospital confinement indemnity, dental, hearing,
+3 vision, or credit insurance, (B) coverage issued as a supplement to
+4 liability insurance, (C) insurance provided as a supplement to medicare,
+5 (D) insurance arising from workers' compensation provisions, (E)
+6 automobile medical payment insurance, (F) insurance policies that provide
+7 coverage for a specified disease or any other limited benefit coverage,
+8 or (G) insurance under which benefits are payable with or without regard
+9 to fault and which is statutorily required to be contained in any
+10 liability insurance policy.
+11 (5) The designated health information exchange and the department
+12 shall enter into an agreement to allow the designated health information
+13 exchange to collect, aggregate, analyze, report, and release de-
+14 identified data, as defined by the federal Health Insurance Portability
+15 and Accountability Act of 1996, that is derived from the administration
+16 of the medical assistance program. Such written agreement shall be
+17 executed no later than September 30, 2021.
+18 (6) In addition to the right to opt out as provided in section
+19 71-2454, an individual shall have the right to opt out of the designated
+20 health information exchange or the sharing of information required under
+21 subsections (3) and (4) of this section. The designated health
+22 information exchange shall adopt a patient opt-out rules and regulations
+23 policy consistent with the federal Health Insurance Portability and
+24 Accountability Act of 1996 and other applicable federal requirements.
+25 Such rules and regulations policy shall not apply to mandatory public
+26 health reporting requirements.
+27 Sec. 4. Section 81-6,127, Reissue Revised Statutes of Nebraska, is
+28 amended to read:
+29 81-6,127 (1) The Health Information Technology Board is created. The
+30 board shall have seventeen members. Except for members designated in
+31 subdivision (2)(o) of this section, the members shall be appointed by the
+-6-
+LB950 LB950
+2026 2026
+1 Governor with the approval of a majority of the members of the
+2 Legislature. The members may begin to serve immediately following
+3 appointment and prior to approval by the Legislature. The members shall
+4 be appointed by February 1, 2021, and the board shall begin meeting on or
+5 before April 1, 2021.
+6 (2) Members designated under subdivisions (b), (c), (d), (e), (g),
+7 (h), and (i) of this subsection shall hold a credential under the Uniform
+8 Credentialing Act. Except as otherwise provided in subsection (4) of this
+9 section, the board shall consist of:
+10 (a) One individual who has experience in operating the prescription
+11 drug monitoring program created under section 71-2454;
+12 (b) Two physicians, one of whom shall be a family practice
+13 physician, who are in active practice and in good standing with the
+14 Department of Health and Human Services appointed from a list of
+15 physicians provided by a statewide organization representing physicians;
+16 (c) One pharmacist who is in active practice and in good standing
+17 with the department appointed from a list of pharmacists provided by a
+18 statewide organization representing pharmacists;
+19 (d) One alcohol and drug counselor providing services for a state-
+20 licensed alcohol and drug abuse addiction treatment program;
+21 (e) One health care provider who is board-certified in pain
+22 management;
+23 (f) One hospital administrator appointed from a list of hospital
+24 administrators provided by a statewide organization representing hospital
+25 administrators;
+26 (g) One dentist who is in active practice and in good standing with
+27 the department appointed from a list of dentists provided by a statewide
+28 organization representing dentists;
+29 (h) One nurse practitioner who is in active practice and in good
+30 standing with the department authorized to prescribe medication appointed
+31 from a list of nurse practitioners authorized to prescribe medication
+-7-
+LB950 LB950
+2026 2026
+1 provided by a statewide organization representing such nurse
+2 practitioners;
+3 (i) One veterinarian who is in active practice and in good standing
+4 with the department appointed from a list of veterinarians provided by a
+5 statewide organization representing veterinarians;
+6 (j) Two representatives One representative of the Department of
+7 Health and Human Services including one representative from the Division
+8 of Medicaid and Long-Term Care of the Department of Health and Human
+9 Services;
+10 (k) One representative of a delegate as defined in section 71-2454;
+11 (l) One health care payor as defined in section 25-21,247 or an
+12 employee of a health care payor;
+13 (m) One credentialed health information management professional
+14 appointed from a list of such professionals provided by a statewide
+15 organization representing such professionals;
+16 (n) One representative of the statewide health information exchange
+17 described in section 71-2455; and
+18 (o) The chairperson of the Health and Human Services Committee of
+19 the Legislature and the chairperson of the Appropriations Committee of
+20 the Legislature, both of whom are nonvoting, ex officio members; and .
+21 (p) One representative of an insurer, as defined in section 44-103,
+22 who offers at least one health insurance plan as defined in section
+23 81-6,125.
+24 (3) Except for members designated in subdivisions (2)(a) and (o) of
+25 this section:
+26 (a) A minimum of three members shall be appointed from each
+27 congressional district;
+28 (b) Each member shall be appointed for a five-year term beginning on
+29 April 1, 2021, and may serve for any number of such terms;
+30 (c) Any member appointed prior to April 1, 2021, shall begin to
+31 serve immediately upon appointment and continue serving for the term
+-8-
+LB950 LB950
+2026 2026
+1 beginning on April 1, 2021; and
+2 (d) Any vacancy in membership, other than by expiration of a term,
+3 shall be filled within ninety days by the Governor by appointment for the
+4 vacant position as provided in subsection (2) of this section.
+5 (4) If, after appointment, the classification of a member's
+6 credential changes or a member's credential classification is terminated
+7 and if such credential was a qualification for appointment, the member
+8 shall be permitted to continue to serve as a member of the board until
+9 the expiration of the term for which appointed unless the member loses
+10 the credential due to disciplinary action.
+11 (5) The members shall be reimbursed for their actual and necessary
+12 expenses incurred in serving on the board as provided in section 71-2455.
+13 (6) A simple majority of members shall constitute a quorum for the
+14 transaction of all business.
+15 Sec. 5. Section 81-6,128, Reissue Revised Statutes of Nebraska, is
+16 amended to read:
+17 81-6,128 (1) The Health Information Technology Board shall:
+18 (a) Establish criteria for data collection and disbursement by the
+19 statewide health information exchange described in section 71-2455 and
+20 the prescription drug monitoring program created under section 71-2454 to
+21 improve the quality of information provided to clinicians;
+22 (b) Evaluate and ensure that the statewide health information
+23 exchange is meeting technological standards for reporting of data for the
+24 prescription drug monitoring program, including the data to be collected
+25 and reported and the frequency of data collection and disbursement;
+26 (c) Provide the governance oversight necessary to ensure that any
+27 health information in the statewide health information exchange and the
+28 prescription drug monitoring program may be accessed, used, or disclosed
+29 only in accordance with the privacy and security protections set forth in
+30 the federal Health Insurance Portability and Accountability Act of 1996,
+31 Public Law 104-191, and regulations promulgated thereunder. All protected
+-9-
+LB950 LB950
+2026 2026
+1 health information is privileged, is not a public record, and may be
+2 withheld from the public pursuant to section 84-712.05; and
+3 (d) Provide recommendations to the statewide health information
+4 exchange on any other matters referred to the board.
+5 (2) The board shall adopt and promulgate rules and regulations
+6 policies and procedures necessary to carry out the Population Health
+7 Information Act its duties.
+8 (3) The authority of the board to direct the use or release of data
+9 under this section or section 71-2454 shall apply only to requests
+10 submitted to the board after September 1, 2021.
+11 (4) The board may hold meetings by telecommunication or electronic
+12 communication subject to the Open Meetings Act. Any official action or
+13 vote of the members of the board shall be preserved in the records of the
+14 board.
+15 (5) By November 15, 2021, and November 15 of each year thereafter,
+16 the board shall develop and submit an annual report to the Governor and
+17 the Health and Human Services Committee of the Legislature regarding
+18 considerations undertaken, decisions made, accomplishments, and other
+19 relevant information. The report submitted to the Legislature shall be
+20 submitted electronically.
+21 Sec. 6. Original sections 81-6,123, 81-6,125, 81-6,127, and
+22 81-6,128, Reissue Revised Statutes of Nebraska, and section 44-5437,
+23 Revised Statutes Supplement, 2025, are repealed.
+-10-
+[DELETED: yBA B F A A r t i t a s 88 8 a 8 R R S oNc p r t u p a rf a p t c r f t dh i e t c d o t HItB0L62]
+[DELETED: S 1 S 4 R S S 2 ia4a a s u p a r f fpu p a r f f a o h cst p p i l T t l d n a ti0p i a w s ( o s 4 o 1h2p3(4o5u p a r f a ( u r6a s a a p p a r s7u8( A h c p s u o t a u9p0( E a p i s ( o t s a1u r a s a a p p a2r3( T s d n p a u r a4f u a p a m t u a I5w6m i c w t u p a r7f8( ( A u r a m r f t9d0s1a a p i p t 4 C0L62]
+[DELETED: 1 o o e p a m tah c p a h c A u r asto o e p a m u ts( W n d a t d o r o t nd0s1o o a e p a m f p2a r U a r f a h c p 3u4S5a687m8S9a081t d a h i e t p t d2i n t a i c a h N a3o4(5(6t s t o o t m a p u t7M8( A a t d e f p o a t a9a0( C a a d f p o i t1L t d h c p a h c0L62]
+[DELETED: e a t t c o a t a q o h c iN( A a a c a r o p h d fr s e l r irw(t a i a w t d hi e t e a m c a t o 0p1i t f H I P a A A o213(4c f l i s ( o t s s5p6o c i S c i s i t7c d t t h c f c i i e8e9a r A p h i s w t0d h i e a d b t r a1r2s3s4A5( T s a t a a s c 6c7h a i c f a l c h 8m9a p o m h a p h c o 0r h a s t a d i t H C1F0L62]
+[DELETED: (o f o ( a a f a nfH( A c e b J 1 2 b a hc f a t d h i e tfh(0t r t p u t s d t 1t b T b s r t a a2d w t w t r I t b w t3r4a5f6( ( T b s n r a h c f t7p o c f a e r m s o8s9( O o b J 1 2 e h i p0s1s2i3b t H I T B S i s n4i c d o a o d u f b p o5a6(7(8a9s0p1f0L62]
+[DELETED: ( H i p d n i ( ad h c i d hv o c i ( c i a a s tl( i a f w c p (acot f a w i s r t b c i a0l1( T d h i e a t d2s3e t c a a r a r d4i5a6o t m a p S w a s b7e8( I a t t r t o o a p i s970h1s ( a ( o t s T d h2i3p c w t f H I P a4A A o 1 a o a f r5S r a r p s n a t m p6h7S8a980b s h s m E f m d i1s0L62]
+[DELETED: G w t a o a m o t m o tL T m m b t s i fabb((Cs0(1d2( T p o o w s b a f p3p w a i a p a i g s w t4D o H a H S a f a l o5p6(7w8s9(0l1( O h c p w i b i p2m3( O h a a f a l o h4a5a6(7t8o9( O n p w i i a p a i g0s1f a l o n p a t p m0L62]
+[DELETED: p b a s o r s np(ws( T r O r o t D oHo M a L C o t D o H a HS0(1( O h c p a d i s 2 o a2e3( O c h i m p4a f a l o s p p b a s5o6(7d8( T c o t H a H S C o9t L a t c o t A C o0t1(2w o a l o h i p a d i s384(5t6( A m o t m s b a f e7c8(9A0( A m a p t A 1 2 s b t1s i u a a c s f t t0L62]
+[DELETED: b(sv( I a a t c o a mcast0t1(2e3(4t5S6a788(9s h i e d i s 7 a0t1i2( E a e t t s h i3e4p5a6( P t g o n t e t a7h8p9o0t1P0L62]
+[DELETED: h i i p i n a p r a m bw( P r t t s h ie( T b s a a p r a rp a p n t c o t P HI(u t s o s 7 s a o t r0s1(2c3v4b5(6t7t H a H S C o t L r8c u d m a a o9r i T r s t t L s b0s1S 6  O s 8 8 8 a28 R R S o N a s 43R0L62]
+
+
+================================================================================
+
+Raw Text:
+LB950 LB950
+2026 2026
+LEGISLATURE OF NEBRASKA
+ONE HUNDRED NINTH LEGISLATURE
+SECOND SESSION
+LEGISLATIVE BILL 950
+Introduced by Bostar, 29.
+Read first time January 09, 2026
+Committee: Banking, Commerce and Insurance
+1 A BILL FOR AN ACT relating to insurance; to amend sections 81-6,123,
+2 81-6,125, 81-6,127, and 81-6,128, Reissue Revised Statutes of
+3 Nebraska, and section 44-5437, Revised Statutes Supplement, 2025; to
+4 change provisions relating to uniform prior authorization request
+5 forms as prescribed; to change requirements for the designated
+6 health information exchange; to change duties of the Health
+7 Information Technology Board; to harmonize provisions; and to repeal
+8 the original sections.
+9 Be it enacted by the people of the State of Nebraska,
+-1-
+
+LB950 LB950
+2026 2026
+1 Section 1. Section 44-5437, Revised Statutes Supplement, 2025, is
+2 amended to read:
+3 44-5437 (1)(a) On or before November 1, 2025, the department shall
+4 approve a single uniform prior authorization request form for
+5 prescription drugs, devices, and durable medical equipment and a single
+6 uniform prior authorization request form for all other health care
+7 services. The uniform prior authorization request forms shall not exceed
+8 two printed pages in length. This two-page limit does not apply to
+9 information or documentation required by the utilization review agent, as
+10 published in accordance with subsection (1) of section 44-5434, or a
+11 health care provider's notes or documentation submitted in support of a
+12 prior authorization request.
+13 (b) Beginning January 1, 2026, except as provided in subsection (2)
+14 of this section, (i) health care providers shall use only the approved
+15 uniform prior authorization request forms; and (ii) utilization review
+16 agents shall accept and process prior authorization requests submitted
+17 using such forms. :
+18 (i) All health care providers shall use only the approved uniform
+19 prior authorization request forms; and
+20 (ii) Except as provided in subsection (2) of this section, all
+21 utilization review agents shall accept and process prior authorization
+22 requests submitted using such forms.
+23 (c) This subsection does not prohibit a utilization review agent
+24 from using a prior authorization methodology that uses an Internet
+25 webpage, an Internet webpage portal, or a similar web-based system if the
+26 methodology is consistent with the uniform prior authorization request
+27 forms approved by the department pursuant to this subsection.
+28 (2)(a) (2) A utilization review agent may request from the
+29 department an exemption from the requirements of subsection (1) of this
+30 section if the utilization review agent implements and maintains a prior
+31 authorization application programming interface pursuant to 45 C.F.R.
+-2-
+
+LB950 LB950
+2026 2026
+1 156.223(b) or other electronic prior authorization methodology that
+2 automates and standardizes the prior authorization process for patients,
+3 health care providers, and health carriers. A utilization review agent
+4 shall provide notice to health care providers at least ninety days prior
+5 to implementing a prior authorization application programming interface
+6 or other electronic prior authorization methodology under this
+7 subsection.
+8 (b) Within ninety days after the date of receipt of the notice
+9 described in subdivision (2)(a) of this section, a health care provider
+10 shall use only the prior authorization application programming interface
+11 or other approved electronic prior authorization methodology for prior
+12 authorization requests. Upon a request from a health care provider, a
+13 utilization review agent may grant an extension of time for good cause.
+14 Sec. 2. Section 81-6,123, Reissue Revised Statutes of Nebraska, is
+15 amended to read:
+16 81-6,123 Sections 81-6,123 to 81-6,128 81-6,126 shall be known and
+17 may be cited as the Population Health Information Act.
+18 Sec. 3. Section 81-6,125, Reissue Revised Statutes of Nebraska, is
+19 amended to read:
+20 81-6,125 (1) The purpose of the Population Health Information Act is
+21 to designate a health information exchange to provide the data
+22 infrastructure needed to assist in creating a healthier Nebraska and
+23 operating the electronic health records initiative.
+24 (2) The designated health information exchange shall:
+25 (a) Aggregate clinical information from health care entities needed
+26 to support the operation of the medical assistance program under the
+27 Medical Assistance Act;
+28 (b) Act as the designated entity for purposes of access to and
+29 analysis of health data;
+30 (c) Collect and analyze data for purposes of informing the
+31 Legislature, the department, health care providers, and health care
+-3-
+
+LB950 LB950
+2026 2026
+1 entities as to the cost of, access to, and quality of health care in
+2 Nebraska;
+3 (d) Act as a collector and reporter of public health data for
+4 registry submissions, electronic laboratory reporting, immunization
+5 reporting, and syndromic surveillance from an electronic health record,
+6 which does not include claims data; and
+7 (e) Enable any health care provider or health care entity to real
+8 time access information available within the designated health
+9 information exchange to evaluate and monitor care and treatment of a
+10 patient in accordance with the privacy and security provisions set forth
+11 in the federal Health Insurance Portability and Accountability Act of
+12 1996, Public Law 104-191.
+13 (3)(a) On or before January 1, 2027 September 30, 2021, each health
+14 care facility listed in subdivision (b) of this subsection shall
+15 participate in the designated health information exchange through sharing
+16 of clinical information. Such clinical information shall include the
+17 clinical data that the health care facility captured in its existing
+18 electronic health record as permitted by state and federal laws, rules,
+19 and regulations. Any patient health information shared with the
+20 designated health information exchange as determined by the rules and
+21 regulations policies adopted by the Health Information Technology Board
+22 shall be provided in accordance with the privacy and security provisions
+23 set forth in the federal Health Insurance Portability and Accountability
+24 Act of 1996 and regulations adopted under the act.
+25 (b) This subsection applies to an ambulatory surgical center, a
+26 critical access hospital, a general acute hospital, a health clinic, a
+27 hospital, an intermediate care facility, a long-term care hospital, a
+28 mental health substance use treatment center, a PACE center, a pharmacy,
+29 a psychiatric or mental hospital, a public health clinic, or a
+30 rehabilitation hospital, as such terms are defined in the Health Care
+31 Facility Licensure Act, or a diagnostic, laboratory, or imaging center.
+-4-
+
+LB950 LB950
+2026 2026
+1 (c) This subsection does not apply to (i) a state-owned or state-
+2 operated facility or (ii) an assisted-living facility, a nursing
+3 facility, or a skilled nursing facility, as such terms are defined in the
+4 Health Care Facility Licensure Act.
+5 (d) Any connection established by July 1, 2021, between a health
+6 care facility and the designated health information exchange to
+7 facilitate such participation shall be at no cost to the participating
+8 health care facility.
+9 (e) A health care facility may apply to the board for a waiver from
+10 the requirement to participate under this subsection due to a
+11 technological burden. The board shall review the application and
+12 determine whether to waive the requirement. If the board waives the
+13 requirement for a health care facility, the board shall review the waiver
+14 annually to determine if the health care facility continues to qualify
+15 for the waiver.
+16 (e) (f) The board shall not require a health care facility to
+17 purchase or contract for an electronic records management system or
+18 service.
+19 (4)(a) On or before January 1, 2022, each health insurance plan
+20 shall participate in the designated health information exchange through
+21 sharing of information. Subject to subsection (5) of this section, such
+22 information shall be determined by rules and regulations policies adopted
+23 by the Health Information Technology Board. Such information shall not
+24 include claims data or any other data used for billing, payment, or
+25 adjudication purposes.
+26 (b) For purposes of this subsection:
+27 (i) Health insurance plan includes any group or individual sickness
+28 and accident insurance policy, health maintenance organization contract,
+29 subscriber contract, employee medical, surgical, or hospital care benefit
+30 plan, or self-funded employee benefit plan to the extent not preempted by
+31 federal law; and
+-5-
+
+LB950 LB950
+2026 2026
+1 (ii) Health insurance plan does not include (A) accident-only,
+2 disability-income, hospital confinement indemnity, dental, hearing,
+3 vision, or credit insurance, (B) coverage issued as a supplement to
+4 liability insurance, (C) insurance provided as a supplement to medicare,
+5 (D) insurance arising from workers' compensation provisions, (E)
+6 automobile medical payment insurance, (F) insurance policies that provide
+7 coverage for a specified disease or any other limited benefit coverage,
+8 or (G) insurance under which benefits are payable with or without regard
+9 to fault and which is statutorily required to be contained in any
+10 liability insurance policy.
+11 (5) The designated health information exchange and the department
+12 shall enter into an agreement to allow the designated health information
+13 exchange to collect, aggregate, analyze, report, and release de-
+14 identified data, as defined by the federal Health Insurance Portability
+15 and Accountability Act of 1996, that is derived from the administration
+16 of the medical assistance program. Such written agreement shall be
+17 executed no later than September 30, 2021.
+18 (6) In addition to the right to opt out as provided in section
+19 71-2454, an individual shall have the right to opt out of the designated
+20 health information exchange or the sharing of information required under
+21 subsections (3) and (4) of this section. The designated health
+22 information exchange shall adopt a patient opt-out rules and regulations
+23 policy consistent with the federal Health Insurance Portability and
+24 Accountability Act of 1996 and other applicable federal requirements.
+25 Such rules and regulations policy shall not apply to mandatory public
+26 health reporting requirements.
+27 Sec. 4. Section 81-6,127, Reissue Revised Statutes of Nebraska, is
+28 amended to read:
+29 81-6,127 (1) The Health Information Technology Board is created. The
+30 board shall have seventeen members. Except for members designated in
+31 subdivision (2)(o) of this section, the members shall be appointed by the
+-6-
+
+LB950 LB950
+2026 2026
+1 Governor with the approval of a majority of the members of the
+2 Legislature. The members may begin to serve immediately following
+3 appointment and prior to approval by the Legislature. The members shall
+4 be appointed by February 1, 2021, and the board shall begin meeting on or
+5 before April 1, 2021.
+6 (2) Members designated under subdivisions (b), (c), (d), (e), (g),
+7 (h), and (i) of this subsection shall hold a credential under the Uniform
+8 Credentialing Act. Except as otherwise provided in subsection (4) of this
+9 section, the board shall consist of:
+10 (a) One individual who has experience in operating the prescription
+11 drug monitoring program created under section 71-2454;
+12 (b) Two physicians, one of whom shall be a family practice
+13 physician, who are in active practice and in good standing with the
+14 Department of Health and Human Services appointed from a list of
+15 physicians provided by a statewide organization representing physicians;
+16 (c) One pharmacist who is in active practice and in good standing
+17 with the department appointed from a list of pharmacists provided by a
+18 statewide organization representing pharmacists;
+19 (d) One alcohol and drug counselor providing services for a state-
+20 licensed alcohol and drug abuse addiction treatment program;
+21 (e) One health care provider who is board-certified in pain
+22 management;
+23 (f) One hospital administrator appointed from a list of hospital
+24 administrators provided by a statewide organization representing hospital
+25 administrators;
+26 (g) One dentist who is in active practice and in good standing with
+27 the department appointed from a list of dentists provided by a statewide
+28 organization representing dentists;
+29 (h) One nurse practitioner who is in active practice and in good
+30 standing with the department authorized to prescribe medication appointed
+31 from a list of nurse practitioners authorized to prescribe medication
+-7-
+
+LB950 LB950
+2026 2026
+1 provided by a statewide organization representing such nurse
+2 practitioners;
+3 (i) One veterinarian who is in active practice and in good standing
+4 with the department appointed from a list of veterinarians provided by a
+5 statewide organization representing veterinarians;
+6 (j) Two representatives One representative of the Department of
+7 Health and Human Services including one representative from the Division
+8 of Medicaid and Long-Term Care of the Department of Health and Human
+9 Services;
+10 (k) One representative of a delegate as defined in section 71-2454;
+11 (l) One health care payor as defined in section 25-21,247 or an
+12 employee of a health care payor;
+13 (m) One credentialed health information management professional
+14 appointed from a list of such professionals provided by a statewide
+15 organization representing such professionals;
+16 (n) One representative of the statewide health information exchange
+17 described in section 71-2455; and
+18 (o) The chairperson of the Health and Human Services Committee of
+19 the Legislature and the chairperson of the Appropriations Committee of
+20 the Legislature, both of whom are nonvoting, ex officio members; and .
+21 (p) One representative of an insurer, as defined in section 44-103,
+22 who offers at least one health insurance plan as defined in section
+23 81-6,125.
+24 (3) Except for members designated in subdivisions (2)(a) and (o) of
+25 this section:
+26 (a) A minimum of three members shall be appointed from each
+27 congressional district;
+28 (b) Each member shall be appointed for a five-year term beginning on
+29 April 1, 2021, and may serve for any number of such terms;
+30 (c) Any member appointed prior to April 1, 2021, shall begin to
+31 serve immediately upon appointment and continue serving for the term
+-8-
+
+LB950 LB950
+2026 2026
+1 beginning on April 1, 2021; and
+2 (d) Any vacancy in membership, other than by expiration of a term,
+3 shall be filled within ninety days by the Governor by appointment for the
+4 vacant position as provided in subsection (2) of this section.
+5 (4) If, after appointment, the classification of a member's
+6 credential changes or a member's credential classification is terminated
+7 and if such credential was a qualification for appointment, the member
+8 shall be permitted to continue to serve as a member of the board until
+9 the expiration of the term for which appointed unless the member loses
+10 the credential due to disciplinary action.
+11 (5) The members shall be reimbursed for their actual and necessary
+12 expenses incurred in serving on the board as provided in section 71-2455.
+13 (6) A simple majority of members shall constitute a quorum for the
+14 transaction of all business.
+15 Sec. 5. Section 81-6,128, Reissue Revised Statutes of Nebraska, is
+16 amended to read:
+17 81-6,128 (1) The Health Information Technology Board shall:
+18 (a) Establish criteria for data collection and disbursement by the
+19 statewide health information exchange described in section 71-2455 and
+20 the prescription drug monitoring program created under section 71-2454 to
+21 improve the quality of information provided to clinicians;
+22 (b) Evaluate and ensure that the statewide health information
+23 exchange is meeting technological standards for reporting of data for the
+24 prescription drug monitoring program, including the data to be collected
+25 and reported and the frequency of data collection and disbursement;
+26 (c) Provide the governance oversight necessary to ensure that any
+27 health information in the statewide health information exchange and the
+28 prescription drug monitoring program may be accessed, used, or disclosed
+29 only in accordance with the privacy and security protections set forth in
+30 the federal Health Insurance Portability and Accountability Act of 1996,
+31 Public Law 104-191, and regulations promulgated thereunder. All protected
+-9-
+
+LB950 LB950
+2026 2026
+1 health information is privileged, is not a public record, and may be
+2 withheld from the public pursuant to section 84-712.05; and
+3 (d) Provide recommendations to the statewide health information
+4 exchange on any other matters referred to the board.
+5 (2) The board shall adopt and promulgate rules and regulations
+6 policies and procedures necessary to carry out the Population Health
+7 Information Act its duties.
+8 (3) The authority of the board to direct the use or release of data
+9 under this section or section 71-2454 shall apply only to requests
+10 submitted to the board after September 1, 2021.
+11 (4) The board may hold meetings by telecommunication or electronic
+12 communication subject to the Open Meetings Act. Any official action or
+13 vote of the members of the board shall be preserved in the records of the
+14 board.
+15 (5) By November 15, 2021, and November 15 of each year thereafter,
+16 the board shall develop and submit an annual report to the Governor and
+17 the Health and Human Services Committee of the Legislature regarding
+18 considerations undertaken, decisions made, accomplishments, and other
+19 relevant information. The report submitted to the Legislature shall be
+20 submitted electronically.
+21 Sec. 6. Original sections 81-6,123, 81-6,125, 81-6,127, and
+22 81-6,128, Reissue Revised Statutes of Nebraska, and section 44-5437,
+23 Revised Statutes Supplement, 2025, are repealed.
+-10-
+
+[DELETED: yBA B F A A r t i t a s 88 8 a 8 R R S oNc p r t u p a rf a p t c r f t dh i e t c d o t HItB0L62]
+[DELETED: S 1 S 4 R S S 2 ia4a a s u p a r f fpu p a r f f a o h cst p p i l T t l d n a ti0p i a w s ( o s 4 o 1h2p3(4o5u p a r f a ( u r6a s a a p p a r s7u8( A h c p s u o t a u9p0( E a p i s ( o t s a1u r a s a a p p a2r3( T s d n p a u r a4f u a p a m t u a I5w6m i c w t u p a r7f8( ( A u r a m r f t9d0s1a a p i p t 4 C0L62]
+[DELETED: 1 o o e p a m tah c p a h c A u r asto o e p a m u ts( W n d a t d o r o t nd0s1o o a e p a m f p2a r U a r f a h c p 3u4S5a687m8S9a081t d a h i e t p t d2i n t a i c a h N a3o4(5(6t s t o o t m a p u t7M8( A a t d e f p o a t a9a0( C a a d f p o i t1L t d h c p a h c0L62]
+[DELETED: e a t t c o a t a q o h c iN( A a a c a r o p h d fr s e l r irw(t a i a w t d hi e t e a m c a t o 0p1i t f H I P a A A o213(4c f l i s ( o t s s5p6o c i S c i s i t7c d t t h c f c i i e8e9a r A p h i s w t0d h i e a d b t r a1r2s3s4A5( T s a t a a s c 6c7h a i c f a l c h 8m9a p o m h a p h c o 0r h a s t a d i t H C1F0L62]
+[DELETED: (o f o ( a a f a nfH( A c e b J 1 2 b a hc f a t d h i e tfh(0t r t p u t s d t 1t b T b s r t a a2d w t w t r I t b w t3r4a5f6( ( T b s n r a h c f t7p o c f a e r m s o8s9( O o b J 1 2 e h i p0s1s2i3b t H I T B S i s n4i c d o a o d u f b p o5a6(7(8a9s0p1f0L62]
+[DELETED: ( H i p d n i ( ad h c i d hv o c i ( c i a a s tl( i a f w c p (acot f a w i s r t b c i a0l1( T d h i e a t d2s3e t c a a r a r d4i5a6o t m a p S w a s b7e8( I a t t r t o o a p i s970h1s ( a ( o t s T d h2i3p c w t f H I P a4A A o 1 a o a f r5S r a r p s n a t m p6h7S8a980b s h s m E f m d i1s0L62]
+[DELETED: G w t a o a m o t m o tL T m m b t s i fabb((Cs0(1d2( T p o o w s b a f p3p w a i a p a i g s w t4D o H a H S a f a l o5p6(7w8s9(0l1( O h c p w i b i p2m3( O h a a f a l o h4a5a6(7t8o9( O n p w i i a p a i g0s1f a l o n p a t p m0L62]
+[DELETED: p b a s o r s np(ws( T r O r o t D oHo M a L C o t D o H a HS0(1( O h c p a d i s 2 o a2e3( O c h i m p4a f a l o s p p b a s5o6(7d8( T c o t H a H S C o9t L a t c o t A C o0t1(2w o a l o h i p a d i s384(5t6( A m o t m s b a f e7c8(9A0( A m a p t A 1 2 s b t1s i u a a c s f t t0L62]
+[DELETED: b(sv( I a a t c o a mcast0t1(2e3(4t5S6a788(9s h i e d i s 7 a0t1i2( E a e t t s h i3e4p5a6( P t g o n t e t a7h8p9o0t1P0L62]
+[DELETED: h i i p i n a p r a m bw( P r t t s h ie( T b s a a p r a rp a p n t c o t P HI(u t s o s 7 s a o t r0s1(2c3v4b5(6t7t H a H S C o t L r8c u d m a a o9r i T r s t t L s b0s1S 6  O s 8 8 8 a28 R R S o N a s 43R0L62]

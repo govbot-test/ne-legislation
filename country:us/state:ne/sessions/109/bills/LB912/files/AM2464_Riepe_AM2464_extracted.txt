@@ -1,0 +1,465 @@
+Title: (Amendments to Standing Committee amendments, AM2224)
+Official Title: (Amendments to Standing Committee amendments, AM2224)
+Number of Sections: 1
+Source: versions - Riepe AM2464
+Media Type: application/pdf
+Strikethrough Detection: 7 sections found
+
+================================================================================
+
+Section 1:
+AM2464 AM2464
+LB912 LB912
+DLM - 03/05/2026 DLM - 03/05/2026
+AMENDMENTS TO LB912
+Introduced by Riepe, 12.
+1 1. Insert the following new sections:
+2 Sec. 21. Section 71-2444, Reissue Revised Statutes of Nebraska, is
+3 amended to read:
+4 71-2444 Sections 71-2444 to 71-2452 and section 24 of this act shall
+5 be known and may be cited as the Automated Medication Systems Act.
+6 Sec. 22. Section 71-2445, Reissue Revised Statutes of Nebraska, is
+7 amended to read:
+8 71-2445 For purposes of the Automated Medication Systems Act:
+9 (1) Automated medication distribution machine means a type of
+10 automated medication system that stores medication to be administered to
+11 a patient by a person credentialed under the Uniform Credentialing Act;
+12 (2) Automated medication system means a mechanical system that
+13 performs operations or activities, other than compounding,
+14 administration, or other technologies, relative to storage and packaging
+15 for dispensing or distribution of medications and that collects,
+16 controls, and maintains all transaction information and includes, but is
+17 not limited to, a prescription medication distribution machine or an
+18 automated medication distribution machine. An automated medication system
+19 may only be used in conjunction with the provision of pharmacist care.
+20 Automated medication system does not include an automated pickup kiosk;
+21 (3) Automated pickup kiosk means a secure, automated storage and
+22 retrieval device operated by a licensed pharmacy for the purpose of
+23 releasing prescription medication, other than controlled substances, to a
+24 patient or a caregiver and does not include an automated medication
+25 system;
+26 (4) (3) Chart order means an order for a drug or device issued by a
+-1-
+AM2464 AM2464
+LB912 LB912
+DLM - 03/05/2026 DLM - 03/05/2026
+1 practitioner for a patient who is in the hospital where the chart is
+2 stored, for a patient receiving detoxification treatment or maintenance
+3 treatment pursuant to section 28-412, or for a resident in a long-term
+4 care facility in which a long-term care automated pharmacy is located
+5 from which drugs will be dispensed. Chart order does not include a
+6 prescription;
+7 (5) (4) Hospital has the definition found in section 71-419;
+8 (6) (5) Long-term care automated pharmacy means a designated area in
+9 a long-term care facility where an automated medication system is
+10 located, that stores medications for dispensing pursuant to a medical
+11 order to residents in such long-term care facility, that is installed and
+12 operated by a pharmacy licensed under the Health Care Facility Licensure
+13 Act, and that is licensed under section 71-2451;
+14 (7) (6) Long-term care facility means an intermediate care facility,
+15 an intermediate care facility for persons with developmental
+16 disabilities, a long-term care hospital, a mental health substance use
+17 treatment center, a nursing facility, or a skilled nursing facility, as
+18 such terms are defined in the Health Care Facility Licensure Act;
+19 (8) (7) Medical order means a prescription, a chart order, or an
+20 order for pharmaceutical care issued by a practitioner;
+21 (9) (8) Pharmacist means any person who is licensed by the State of
+22 Nebraska to practice pharmacy;
+23 (10) (9) Pharmacist care means the provision by a pharmacist of
+24 medication therapy management, with or without the dispensing of drugs or
+25 devices, intended to achieve outcomes related to the cure or prevention
+26 of a disease, elimination or reduction of a patient's symptoms, or
+27 arresting or slowing of a disease process;
+28 (11) (10) Pharmacist remote order entry means entering an order into
+29 a computer system or drug utilization review by a pharmacist licensed to
+30 practice pharmacy in the State of Nebraska and located within the United
+31 States, pursuant to medical orders in a hospital, long-term care
+-2-
+AM2464 AM2464
+LB912 LB912
+DLM - 03/05/2026 DLM - 03/05/2026
+1 facility, or pharmacy licensed under the Health Care Facility Licensure
+2 Act;
+3 (12) Pharmacy has the same meaning as defined in section 71-425;
+4 (13) (11) Practice of pharmacy has the definition found in section
+5 38-2837;
+6 (14) (12) Practitioner means a certified registered nurse
+7 anesthetist, a certified nurse midwife, a dentist, an optometrist, a
+8 nurse practitioner, a physician assistant, a physician, a podiatrist, or
+9 a veterinarian;
+10 (15) (13) Prescription means an order for a drug or device issued by
+11 a practitioner for a specific patient, for emergency use, or for use in
+12 immunizations. Prescription does not include a chart order;
+13 (16) (14) Prescription medication distribution machine means a type
+14 of automated medication system that packages, labels, or counts
+15 medication in preparation for dispensing of medications by a pharmacist
+16 pursuant to a prescription; and
+17 (17) (15) Telepharmacy means the provision of pharmacist care, by a
+18 pharmacist located within the United States, using telecommunications,
+19 remote order entry, or other automations and technologies to deliver care
+20 to patients or their agents who are located at sites other than where the
+21 pharmacist is located.
+22 Sec. 23. Section 71-2447, Reissue Revised Statutes of Nebraska, is
+23 amended to read:
+24 71-2447 Any health care facility authorized to use hospital, long-
+25 term care facility, or pharmacy that uses an automated medication system
+26 or an automated pickup kiosk shall develop, maintain, and comply with
+27 policies and procedures developed in consultation with the pharmacist
+28 responsible for pharmacist care for that hospital, long-term care
+29 facility , or pharmacy. At a minimum, the policies and procedures shall
+30 address the following:
+31 (1) The description and location within or at the hospital, long-
+-3-
+AM2464 AM2464
+LB912 LB912
+DLM - 03/05/2026 DLM - 03/05/2026
+1 term care facility , or pharmacy of the automated medication system or
+2 automated pickup kiosk or the equipment being used;
+3 (2) The name of the pharmacist responsible for implementation of,
+4 and compliance with, the policies and procedures;
+5 (3) Medication access and information access procedures;
+6 (4) Security of inventory and confidentiality of records in
+7 compliance with state and federal laws, rules, and regulations;
+8 (5) A description of the process used by a pharmacist or pharmacy
+9 technician for filling an automated medication system or an automated
+10 pickup kiosk;
+11 (6) A description of how, and by whom, the automated medication
+12 system or automated pickup kiosk is being utilized, including processes
+13 for verifying, dispensing, and distributing medications;
+14 (7) Staff education and training;
+15 (8) Quality assurance and quality improvement programs and
+16 processes;
+17 (9) Inoperability or emergency downtime procedures;
+18 (10) Periodic system maintenance; and
+19 (11) Medication security and controls.
+20 Sec. 24. (1) In order for an automated pickup kiosk to be operated
+21 by, or under the authority of, a pharmacy located in Nebraska and
+22 licensed under the Health Care Facility Licensure Act, the pharmacist in
+23 charge of the licensed pharmacy shall annually license the automated
+24 pickup kiosk. An automated pickup kiosk may be operated in connection
+25 with a licensed pharmacy if it is located on property owned or leased by
+26 the pharmacy or a hospital, a facility operated by a hospital, a health
+27 clinic as defined in section 71-416, a health care practitioner facility
+28 as defined in section 71-414, or a rural emergency hospital as defined in
+29 section 71-428.01 within which the licensed pharmacy operates, whether
+30 placed within the interior of the building or affixed to, or situated on,
+31 the exterior of the building or property.
+-4-
+AM2464 AM2464
+LB912 LB912
+DLM - 03/05/2026 DLM - 03/05/2026
+1 (2) The pharmacist in charge of a licensed pharmacy shall submit an
+2 application for licensure or renewal of licensure to the Division of
+3 Public Health of the Department of Health and Human Services with a fee
+4 in an amount determined by the Board of Pharmacy, not to exceed fifty
+5 dollars. The application shall include:
+6 (a) The name and location of the licensed pharmacy;
+7 (b) The physical location of the automated pickup kiosk; and
+8 (c) The name of the pharmacist in charge of the licensed pharmacy.
+9 (3) As part of the application process, the division shall conduct
+10 an inspection of the automated pickup kiosk by a pharmacy inspector as
+11 provided in section 38-28,101. The division shall also conduct
+12 inspections of the operation of the automated pickup kiosk as necessary.
+13 (4) The division shall license an automated pickup kiosk which meets
+14 the licensure requirements of this section.
+15 (5) A pharmacist in charge of a licensed pharmacy shall apply for a
+16 separate license for each location at which it operates one or more
+17 automated pickup kiosks. The licensed pharmacy shall be the provider
+18 pharmacy for the automated pickup kiosk.
+19 (6) The pharmacist in charge of the licensed pharmacy operating an
+20 automated pickup kiosk shall:
+21 (a) Identify a pharmacist responsible for the operation,
+22 supervision, and development of policies and procedures for the automated
+23 pickup kiosk. Compliance with this subdivision shall be sufficient if the
+24 pharmacist monitors the automated pickup kiosk electronically and keeps
+25 records of compliance with this requirement for a period of five years;
+26 (b) Implement the policies and procedures developed to comply with
+27 section 71-2447;
+28 (c) Assure compliance with the prescription drug storage and record-
+29 keeping requirements of the Pharmacy Practice Act;
+30 (d) Assure compliance with the labeling requirements described in
+31 subsection (7) of this section;
+-5-
+AM2464 AM2464
+LB912 LB912
+DLM - 03/05/2026 DLM - 03/05/2026
+1 (e) Develop and implement policies for the verification of a
+2 prescription drug by a pharmacist prior to being loaded into an automated
+3 pickup kiosk or for the verification of a prescription drug by a
+4 pharmacist prior to being released to a patient or caregiver; and
+5 (f) Assure that each prescription drug is reviewed by a pharmacist
+6 prior to the release of a drug by an automated pickup kiosk.
+7 (7) Each prescription drug dispensed from an automated pickup kiosk
+8 shall meet the labeling requirements applicable to prescription drugs
+9 dispensed by a licensed pharmacist pursuant to section 71-2479.
+10 (8) An automated pickup kiosk shall not dispense or make available
+11 prescription medication to a patient or caregiver unless pharmacist care
+12 has been offered and made available in a manner consistent with section
+13 38-2869.
+14 (9) An automated pickup kiosk that is located outside a fully
+15 enclosed building shall not be placed in a manner that exposes
+16 medications to adverse environmental conditions or to security risks,
+17 unless the Board of Pharmacy determines, through rule or case-specific
+18 approval, that the automated pickup kiosk employs environmental controls
+19 and physical security measures sufficient to protect medication integrity
+20 and prevent diversion.
+21 (10) An automated pickup kiosk operated in accordance with this
+22 section shall not store, dispense, or otherwise make available a
+23 controlled substance as defined in section 28-401 or federal law except
+24 an automated pickup kiosk operated by, or under the authority of, a
+25 hospital pharmacy as defined in section 71-419.01 and that is located in
+26 the hospital or facility operated by a hospital.
+27 (11) This section does not apply to a long-term care automated
+28 pharmacy or an automated medication system operated in a long-term care
+29 facility under section 71-2451.
+30 2. Renumber the remaining sections and correct internal references
+31 accordingly.
+-6-
+AM2464 AM2464
+LB912 LB912
+DLM - 03/05/2026 DLM - 03/05/2026
+1 3. Correct the operative date and repealer sections so that the
+2 sections added by this amendment become operative three calendar months
+3 after the adjournment of this legislative session.
+-7-
+[DELETED: yR1Sa7bSa7( A m d m m a t o0a1a2( A m s m a m s t3p o o a o t c4a5f d o d o m a t c6c7n l t a p m d m o a8a9m0A1( A p k m a s a s a2r d o b a l p f t p o3r4p o a c a d n i a a m5s6(4A2L6D]
+[DELETED: p f a p w i i t h w t c istc f i w a l c a p i lf w d w b d C o d n i p((a l c f w a a m s i0l t s m f d p t a m1o2o3A4(5a i c f f p w d6d a l c h a m h s u7t8s9( ( M o m a p a c o o a0o1(2N3( ( P c m t p b a p o4m5d6o a d e o r o a p s o7a8(9a0p1S p t m o i a h l c4A2L6D]
+[DELETED: fA((3( ( P m a c r na a c n m a d a o na0(1a2i3(4o a m s t p l o c5m6p7(8p l w t U S u t9r0t1p2S3a475t6o a a p k s d m a c w7p a p d i c w t p8r f p c f t h l c9f0a1( T d a l w o a t h l4A2L6D]
+[DELETED: ta( T n o t p r f i oa(( S o i a c o r ic(t f f a a m s o a a0p1( A d o h a b w t a m2s3f4(5( Q a a q i p a6p7(8(9(0S1b o u t a o a p l i N a2l3c o t l p s a l t a4p k A a p k m b o i c5w6t7c8a9s 7 w w t l p o w0p1t4A2L6D]
+[DELETED: (a f l o r o l t t D oPi a a d b t B o P n t e fd((((0a1p i s 3 T d s a c2i3(4t5(6s l f e l a w i o o o m7a p k T l p s b t p8p9(0a1( I a p r f t o2s3p4p5r6(7s8(9k0( A c w t l r d i1s4A2L6D]
+[DELETED: ( D a i p f t v o pp k o f t v o a p d b p(p(s m t l r a t p dd0(1p2h334( A a p k t i l o a f5e b s n b p i a m t e6m t a e c o t s r7u t B o P d t r o c8a9a0a1( A a p k o i a w t2s s n s d o o m a 3c4a a p k o b o u t a o 5h6t7( T s d n a t a l c a8p9f021a4A2L6D]
+[DELETED: 3 C t o d a r s s t tsa4A2L6D]
+
+
+================================================================================
+
+Raw Text:
+AM2464 AM2464
+LB912 LB912
+DLM - 03/05/2026 DLM - 03/05/2026
+AMENDMENTS TO LB912
+(Amendments to Standing Committee amendments, AM2224)
+Introduced by Riepe, 12.
+1 1. Insert the following new sections:
+2 Sec. 21. Section 71-2444, Reissue Revised Statutes of Nebraska, is
+3 amended to read:
+4 71-2444 Sections 71-2444 to 71-2452 and section 24 of this act shall
+5 be known and may be cited as the Automated Medication Systems Act.
+6 Sec. 22. Section 71-2445, Reissue Revised Statutes of Nebraska, is
+7 amended to read:
+8 71-2445 For purposes of the Automated Medication Systems Act:
+9 (1) Automated medication distribution machine means a type of
+10 automated medication system that stores medication to be administered to
+11 a patient by a person credentialed under the Uniform Credentialing Act;
+12 (2) Automated medication system means a mechanical system that
+13 performs operations or activities, other than compounding,
+14 administration, or other technologies, relative to storage and packaging
+15 for dispensing or distribution of medications and that collects,
+16 controls, and maintains all transaction information and includes, but is
+17 not limited to, a prescription medication distribution machine or an
+18 automated medication distribution machine. An automated medication system
+19 may only be used in conjunction with the provision of pharmacist care.
+20 Automated medication system does not include an automated pickup kiosk;
+21 (3) Automated pickup kiosk means a secure, automated storage and
+22 retrieval device operated by a licensed pharmacy for the purpose of
+23 releasing prescription medication, other than controlled substances, to a
+24 patient or a caregiver and does not include an automated medication
+25 system;
+26 (4) (3) Chart order means an order for a drug or device issued by a
+-1-
+
+AM2464 AM2464
+LB912 LB912
+DLM - 03/05/2026 DLM - 03/05/2026
+1 practitioner for a patient who is in the hospital where the chart is
+2 stored, for a patient receiving detoxification treatment or maintenance
+3 treatment pursuant to section 28-412, or for a resident in a long-term
+4 care facility in which a long-term care automated pharmacy is located
+5 from which drugs will be dispensed. Chart order does not include a
+6 prescription;
+7 (5) (4) Hospital has the definition found in section 71-419;
+8 (6) (5) Long-term care automated pharmacy means a designated area in
+9 a long-term care facility where an automated medication system is
+10 located, that stores medications for dispensing pursuant to a medical
+11 order to residents in such long-term care facility, that is installed and
+12 operated by a pharmacy licensed under the Health Care Facility Licensure
+13 Act, and that is licensed under section 71-2451;
+14 (7) (6) Long-term care facility means an intermediate care facility,
+15 an intermediate care facility for persons with developmental
+16 disabilities, a long-term care hospital, a mental health substance use
+17 treatment center, a nursing facility, or a skilled nursing facility, as
+18 such terms are defined in the Health Care Facility Licensure Act;
+19 (8) (7) Medical order means a prescription, a chart order, or an
+20 order for pharmaceutical care issued by a practitioner;
+21 (9) (8) Pharmacist means any person who is licensed by the State of
+22 Nebraska to practice pharmacy;
+23 (10) (9) Pharmacist care means the provision by a pharmacist of
+24 medication therapy management, with or without the dispensing of drugs or
+25 devices, intended to achieve outcomes related to the cure or prevention
+26 of a disease, elimination or reduction of a patient's symptoms, or
+27 arresting or slowing of a disease process;
+28 (11) (10) Pharmacist remote order entry means entering an order into
+29 a computer system or drug utilization review by a pharmacist licensed to
+30 practice pharmacy in the State of Nebraska and located within the United
+31 States, pursuant to medical orders in a hospital, long-term care
+-2-
+
+AM2464 AM2464
+LB912 LB912
+DLM - 03/05/2026 DLM - 03/05/2026
+1 facility, or pharmacy licensed under the Health Care Facility Licensure
+2 Act;
+3 (12) Pharmacy has the same meaning as defined in section 71-425;
+4 (13) (11) Practice of pharmacy has the definition found in section
+5 38-2837;
+6 (14) (12) Practitioner means a certified registered nurse
+7 anesthetist, a certified nurse midwife, a dentist, an optometrist, a
+8 nurse practitioner, a physician assistant, a physician, a podiatrist, or
+9 a veterinarian;
+10 (15) (13) Prescription means an order for a drug or device issued by
+11 a practitioner for a specific patient, for emergency use, or for use in
+12 immunizations. Prescription does not include a chart order;
+13 (16) (14) Prescription medication distribution machine means a type
+14 of automated medication system that packages, labels, or counts
+15 medication in preparation for dispensing of medications by a pharmacist
+16 pursuant to a prescription; and
+17 (17) (15) Telepharmacy means the provision of pharmacist care, by a
+18 pharmacist located within the United States, using telecommunications,
+19 remote order entry, or other automations and technologies to deliver care
+20 to patients or their agents who are located at sites other than where the
+21 pharmacist is located.
+22 Sec. 23. Section 71-2447, Reissue Revised Statutes of Nebraska, is
+23 amended to read:
+24 71-2447 Any health care facility authorized to use hospital, long-
+25 term care facility, or pharmacy that uses an automated medication system
+26 or an automated pickup kiosk shall develop, maintain, and comply with
+27 policies and procedures developed in consultation with the pharmacist
+28 responsible for pharmacist care for that hospital, long-term care
+29 facility , or pharmacy. At a minimum, the policies and procedures shall
+30 address the following:
+31 (1) The description and location within or at the hospital, long-
+-3-
+
+AM2464 AM2464
+LB912 LB912
+DLM - 03/05/2026 DLM - 03/05/2026
+1 term care facility , or pharmacy of the automated medication system or
+2 automated pickup kiosk or the equipment being used;
+3 (2) The name of the pharmacist responsible for implementation of,
+4 and compliance with, the policies and procedures;
+5 (3) Medication access and information access procedures;
+6 (4) Security of inventory and confidentiality of records in
+7 compliance with state and federal laws, rules, and regulations;
+8 (5) A description of the process used by a pharmacist or pharmacy
+9 technician for filling an automated medication system or an automated
+10 pickup kiosk;
+11 (6) A description of how, and by whom, the automated medication
+12 system or automated pickup kiosk is being utilized, including processes
+13 for verifying, dispensing, and distributing medications;
+14 (7) Staff education and training;
+15 (8) Quality assurance and quality improvement programs and
+16 processes;
+17 (9) Inoperability or emergency downtime procedures;
+18 (10) Periodic system maintenance; and
+19 (11) Medication security and controls.
+20 Sec. 24. (1) In order for an automated pickup kiosk to be operated
+21 by, or under the authority of, a pharmacy located in Nebraska and
+22 licensed under the Health Care Facility Licensure Act, the pharmacist in
+23 charge of the licensed pharmacy shall annually license the automated
+24 pickup kiosk. An automated pickup kiosk may be operated in connection
+25 with a licensed pharmacy if it is located on property owned or leased by
+26 the pharmacy or a hospital, a facility operated by a hospital, a health
+27 clinic as defined in section 71-416, a health care practitioner facility
+28 as defined in section 71-414, or a rural emergency hospital as defined in
+29 section 71-428.01 within which the licensed pharmacy operates, whether
+30 placed within the interior of the building or affixed to, or situated on,
+31 the exterior of the building or property.
+-4-
+
+AM2464 AM2464
+LB912 LB912
+DLM - 03/05/2026 DLM - 03/05/2026
+1 (2) The pharmacist in charge of a licensed pharmacy shall submit an
+2 application for licensure or renewal of licensure to the Division of
+3 Public Health of the Department of Health and Human Services with a fee
+4 in an amount determined by the Board of Pharmacy, not to exceed fifty
+5 dollars. The application shall include:
+6 (a) The name and location of the licensed pharmacy;
+7 (b) The physical location of the automated pickup kiosk; and
+8 (c) The name of the pharmacist in charge of the licensed pharmacy.
+9 (3) As part of the application process, the division shall conduct
+10 an inspection of the automated pickup kiosk by a pharmacy inspector as
+11 provided in section 38-28,101. The division shall also conduct
+12 inspections of the operation of the automated pickup kiosk as necessary.
+13 (4) The division shall license an automated pickup kiosk which meets
+14 the licensure requirements of this section.
+15 (5) A pharmacist in charge of a licensed pharmacy shall apply for a
+16 separate license for each location at which it operates one or more
+17 automated pickup kiosks. The licensed pharmacy shall be the provider
+18 pharmacy for the automated pickup kiosk.
+19 (6) The pharmacist in charge of the licensed pharmacy operating an
+20 automated pickup kiosk shall:
+21 (a) Identify a pharmacist responsible for the operation,
+22 supervision, and development of policies and procedures for the automated
+23 pickup kiosk. Compliance with this subdivision shall be sufficient if the
+24 pharmacist monitors the automated pickup kiosk electronically and keeps
+25 records of compliance with this requirement for a period of five years;
+26 (b) Implement the policies and procedures developed to comply with
+27 section 71-2447;
+28 (c) Assure compliance with the prescription drug storage and record-
+29 keeping requirements of the Pharmacy Practice Act;
+30 (d) Assure compliance with the labeling requirements described in
+31 subsection (7) of this section;
+-5-
+
+AM2464 AM2464
+LB912 LB912
+DLM - 03/05/2026 DLM - 03/05/2026
+1 (e) Develop and implement policies for the verification of a
+2 prescription drug by a pharmacist prior to being loaded into an automated
+3 pickup kiosk or for the verification of a prescription drug by a
+4 pharmacist prior to being released to a patient or caregiver; and
+5 (f) Assure that each prescription drug is reviewed by a pharmacist
+6 prior to the release of a drug by an automated pickup kiosk.
+7 (7) Each prescription drug dispensed from an automated pickup kiosk
+8 shall meet the labeling requirements applicable to prescription drugs
+9 dispensed by a licensed pharmacist pursuant to section 71-2479.
+10 (8) An automated pickup kiosk shall not dispense or make available
+11 prescription medication to a patient or caregiver unless pharmacist care
+12 has been offered and made available in a manner consistent with section
+13 38-2869.
+14 (9) An automated pickup kiosk that is located outside a fully
+15 enclosed building shall not be placed in a manner that exposes
+16 medications to adverse environmental conditions or to security risks,
+17 unless the Board of Pharmacy determines, through rule or case-specific
+18 approval, that the automated pickup kiosk employs environmental controls
+19 and physical security measures sufficient to protect medication integrity
+20 and prevent diversion.
+21 (10) An automated pickup kiosk operated in accordance with this
+22 section shall not store, dispense, or otherwise make available a
+23 controlled substance as defined in section 28-401 or federal law except
+24 an automated pickup kiosk operated by, or under the authority of, a
+25 hospital pharmacy as defined in section 71-419.01 and that is located in
+26 the hospital or facility operated by a hospital.
+27 (11) This section does not apply to a long-term care automated
+28 pharmacy or an automated medication system operated in a long-term care
+29 facility under section 71-2451.
+30 2. Renumber the remaining sections and correct internal references
+31 accordingly.
+-6-
+
+AM2464 AM2464
+LB912 LB912
+DLM - 03/05/2026 DLM - 03/05/2026
+1 3. Correct the operative date and repealer sections so that the
+2 sections added by this amendment become operative three calendar months
+3 after the adjournment of this legislative session.
+-7-
+
+[DELETED: yR1Sa7bSa7( A m d m m a t o0a1a2( A m s m a m s t3p o o a o t c4a5f d o d o m a t c6c7n l t a p m d m o a8a9m0A1( A p k m a s a s a2r d o b a l p f t p o3r4p o a c a d n i a a m5s6(4A2L6D]
+[DELETED: p f a p w i i t h w t c istc f i w a l c a p i lf w d w b d C o d n i p((a l c f w a a m s i0l t s m f d p t a m1o2o3A4(5a i c f f p w d6d a l c h a m h s u7t8s9( ( M o m a p a c o o a0o1(2N3( ( P c m t p b a p o4m5d6o a d e o r o a p s o7a8(9a0p1S p t m o i a h l c4A2L6D]
+[DELETED: fA((3( ( P m a c r na a c n m a d a o na0(1a2i3(4o a m s t p l o c5m6p7(8p l w t U S u t9r0t1p2S3a475t6o a a p k s d m a c w7p a p d i c w t p8r f p c f t h l c9f0a1( T d a l w o a t h l4A2L6D]
+[DELETED: ta( T n o t p r f i oa(( S o i a c o r ic(t f f a a m s o a a0p1( A d o h a b w t a m2s3f4(5( Q a a q i p a6p7(8(9(0S1b o u t a o a p l i N a2l3c o t l p s a l t a4p k A a p k m b o i c5w6t7c8a9s 7 w w t l p o w0p1t4A2L6D]
+[DELETED: (a f l o r o l t t D oPi a a d b t B o P n t e fd((((0a1p i s 3 T d s a c2i3(4t5(6s l f e l a w i o o o m7a p k T l p s b t p8p9(0a1( I a p r f t o2s3p4p5r6(7s8(9k0( A c w t l r d i1s4A2L6D]
+[DELETED: ( D a i p f t v o pp k o f t v o a p d b p(p(s m t l r a t p dd0(1p2h334( A a p k t i l o a f5e b s n b p i a m t e6m t a e c o t s r7u t B o P d t r o c8a9a0a1( A a p k o i a w t2s s n s d o o m a 3c4a a p k o b o u t a o 5h6t7( T s d n a t a l c a8p9f021a4A2L6D]
+[DELETED: 3 C t o d a r s s t tsa4A2L6D]

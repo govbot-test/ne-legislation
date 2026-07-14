@@ -1,0 +1,429 @@
+Title: LEGISLATIVE BILL 1006
+Official Title: LEGISLATIVE BILL 1006
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 7 sections found
+
+================================================================================
+
+Section 1:
+LB1006 LB1006
+2026 2026
+LEGISLATURE OF NEBRASKA
+ONE HUNDRED NINTH LEGISLATURE
+SECOND SESSION
+Introduced by Guereca, 7.
+Read first time January 13, 2026
+Committee: Banking, Commerce and Insurance
+1 A BILL FOR AN ACT relating to consumer protection; to adopt the
+2 Protecting Consumers and Jobs from Predatory Pricing Act; and to
+3 provide severability.
+4 Be it enacted by the people of the State of Nebraska,
+-1-
+LB1006 LB1006
+2026 2026
+1 Section 1. Sections 1 to 6 of this act shall be known and may be
+2 cited as the Protecting Consumers and Jobs from Predatory Pricing Act.
+3 Sec. 2. The Legislature finds and declares that:
+4 (1) It is the policy of Nebraska to protect consumers from predatory
+5 pricing schemes in whatever iteration they appear or evolve;
+6 (2) Advancements in algorithms, in artificial intelligence, and in
+7 electronic shelving technology have created commercial and retail
+8 environments where it is possible to set pricing for a product or service
+9 based on personal or protected data;
+10 (3) Current law does not sufficiently prohibit companies from using
+11 personal or protected data to set prices;
+12 (4) The use of personal or protected data to set prices presents a
+13 distinct potential for companies to violate consumer privacy rights and
+14 may result in discrimination;
+15 (5) While offering goods at different prices due to customer demand
+16 is not new, there are subtle and important differences between price
+17 optimization and dynamic and surveillance pricing;
+18 (6) It is in the interest of the state and its consumers to regulate
+19 technologies or business models which can impact consumers or competition
+20 by monetizing consumers' personal information;
+21 (7) Business models in dynamic and surveillance pricing have results
+22 that will lead to the elimination of numerous jobs, the existence of
+23 which are relied upon by the communities of the state for the livelihood
+24 of their residents and by the state directly for economic growth;
+25 (8) Protection of these jobs will further protect consumers who are
+26 part of this economic ecosystem and will add to the growth of the economy
+27 and job market of Nebraska; and
+28 (9) By enacting laws regulating dynamic, surveillance, and
+29 personalized algorithmic pricing, Nebraska can protect and promote the
+30 growth of jobs in the future.
+31 Sec. 3. For purposes of the Protecting Consumers and Jobs from
+-2-
+LB1006 LB1006
+2026 2026
+1 Predatory Pricing Act:
+2 (1) Algorithm means a computational process that uses a set of rules
+3 to define a sequence of operations, including, but not limited to,
+4 artificial intelligence systems and facial-recognition software;
+5 (2) Business means any person, firm, organization, partnership,
+6 association, corporation, or any other entity doing business in Nebraska;
+7 (3) Clear and conspicuous disclosure means disclosure in the same
+8 medium as and provided on, at, or near and contemporaneous with every
+9 advertisement, display, image, offer, or announcement of a price for
+10 which notice is required using lettering and wording that is easily
+11 visible and understandable to the average consumer;
+12 (4) Consumer means an individual who is seeking or solicited to
+13 purchase, lease, or receive a good or service not for resale in the
+14 ordinary course of the individual's trade or business but for personal,
+15 family, or household use;
+16 (5) Consumer data means any data that identifies or could reasonably
+17 be linked, directly or indirectly, with a specific individual or device,
+18 excluding location data;
+19 (6) Dynamic pricing means pricing that fluctuates dependent on
+20 conditions that algorithmic or artificial intelligence models retrain or
+21 recalibrate on information in near real-time, excluding promotional
+22 pricing offers, loyalty program benefits, or other temporary discounts or
+23 changes to pricing related to retention of existing customers;
+24 (7) Electronic shelving label means electronic and wireless paper
+25 displays that present product and pricing information;
+26 (8) Grocery store means an establishment that is primarily engaged
+27 in retailing a general line of food, such as canned or frozen foods,
+28 fresh fruits or vegetables, or fresh or prepared meats, fish, or poultry;
+29 (9)(a) Nondigital presentation of price means:
+30 (i) A sign which offers the unit price for one or more brands or
+31 sizes of a given commodity;
+-3-
+LB1006 LB1006
+2026 2026
+1 (ii) A sticker, stamp, sign, label, or tag, affixed to the shelf
+2 upon which the commodity is displayed; and
+3 (iii) A sticker, stamp, sign, label, or tag, affixed to the
+4 commodity itself.
+5 (b) If a single sticker, stamp, sign, label, or tag does not provide
+6 the unit price information for more than one brand or size of a given
+7 commodity, then the following information shall be provided:
+8 (i) The identity of the commodity;
+9 (ii) The brand name of the commodity;
+10 (iii) The quantity of the packaged commodity if more than one
+11 package size per brand is displayed;
+12 (iv) The total sale price of the commodity; and
+13 (v) The price per appropriate unit.
+14 (c) Where a sign providing unit price information for one or more
+15 sizes or brands of a given commodity is used, the sign shall be centrally
+16 located as close as practical to all items to which the sign refers, and
+17 the unit price information displayed thereon shall be presented in a
+18 clear, distinct, and nondeceptive manner;
+19 (10) Personalized algorithmic pricing means dynamic pricing or
+20 surveillance pricing derived from or set by an algorithm that uses
+21 consumer data which may vary among consumers and groups of consumers;
+22 (11) Protected class data means information about an individual or
+23 group of individuals that directly, in combination, or by implication
+24 identifies a characteristic that is legally protected from discrimination
+25 under state or federal law, including, but not limited to, ethnicity,
+26 national origin, age, disability, sex, sexual orientation, gender
+27 identity and expression, pregnancy outcomes, and reproductive health
+28 care; and
+29 (12) Surveillance pricing means offering or setting a customized
+30 price for a good or service for a specific consumer or group of
+31 consumers, based, in whole or in part, on information collected through
+-4-
+LB1006 LB1006
+2026 2026
+1 electronic surveillance technology. Surveillance pricing includes the use
+2 of technological methods, systems, or tools, including, but not limited
+3 to, sensors, cameras, device tracking, biometric monitoring, or other
+4 forms of observation or data collection that are capable of gathering
+5 information about the behavior, characteristics, location, or other
+6 personal attributes of a consumer, whether in physical or digital
+7 environments.
+8 Sec. 4. (1) Any business that knowingly advertises, promotes,
+9 labels, or publishes a statement, display, image, offer, or announcement
+10 that uses personalized algorithmic pricing using consumer data specific
+11 to a particular consumer is required to provide a clear and conspicuous
+12 disclosure to consumers that the price was set by an algorithm using the
+13 personal data of the consumer.
+14 (2) A grocery store larger than ten thousand square feet shall not
+15 use electronic shelving labels or any digital shelf display technology,
+16 and shall use a nondigital presentation of price. This prohibition does
+17 not limit the ability of any grocery store or business to provide a
+18 consumer a discount, promotional price, or loyalty program benefit based
+19 on the consumer's previous purchase history.
+20 (3) No business shall use electronic shelving labels or any digital
+21 shelf display technology to display personalized algorithmic pricing or
+22 surveillance pricing.
+23 (4) No business shall use personalized algorithmic pricing or
+24 surveillance pricing for any reason.
+25 (5) No business shall collect or use the data of an individual
+26 younger than seventeen years of age for targeted advertising or
+27 personalized algorithmic pricing under any circumstances.
+28 (6) No business shall use protected class data in setting a price
+29 for, offering, marketing, or selling any good or service if any of the
+30 following are true:
+31 (a) The use of such data has the effect of withholding or denying
+-5-
+LB1006 LB1006
+2026 2026
+1 any of the accommodations, advantages, or privileges accorded to other
+2 individuals or groups; or
+3 (b) The price for such good or service is different from the price
+4 offered to other individuals or groups based, in whole or in part, on the
+5 use of protected class data.
+6 Sec. 5. The Protecting Consumers and Jobs from Predatory Pricing
+7 Act shall not apply to any:
+8 (1) Person providing financial services, including, but not limited
+9 to, financial institutions, financial institution affiliates, broker-
+10 dealers, registered investment advisors, and persons that provide
+11 consumer credit products such as credit cards, personal loans, and
+12 mortgages; or
+13 (2) Insurer licensed, regulated, or otherwise authorized to do
+14 business in Nebraska, including any person, agent, or affiliate acting on
+15 behalf of such insurer.
+16 Sec. 6. (1) Whenever a potential violation of the Protecting
+17 Consumers and Jobs from Predatory Pricing Act occurs, the Attorney
+18 General may bring an action in the name of the State of Nebraska in a
+19 court of competent jurisdiction to enjoin and restrain such violation and
+20 its continuance.
+21 (2) In connection with any such action, the Attorney General is
+22 authorized to take evidence, make a determination of the relevant facts,
+23 and to issue subpoenas.
+24 (3) If it appears to the satisfaction of the court that the
+25 defendant has, in fact, violated the Protecting Consumers and Jobs from
+26 Predatory Pricing Act, the court may issue an injunction, enjoining and
+27 restraining such violation and its continuance without requiring proof
+28 that any person has, in fact, been injured or damaged by the violation.
+29 (4) Whenever a court determines that a violation of the Protecting
+30 Consumers and Jobs from Predatory Pricing Act has occurred, the court may
+31 impose a civil penalty of not more than seven thousand five hundred
+-6-
+LB1006 LB1006
+2026 2026
+1 dollars for each violation.
+2 (5) In addition to any other remedies provided in the Protecting
+3 Consumers and Jobs from Predatory Pricing Act, any person aggrieved by a
+4 violation of the act may bring a civil action against the violator.
+5 (6) Nothing in this section shall in any way limit rights or
+6 remedies which are otherwise available under law to the Attorney General
+7 or any other person authorized to bring an action under this section.
+8 Sec. 7. If any section in this act or any part of any section is
+9 declared invalid or unconstitutional, the declaration shall not affect
+10 the validity or constitutionality of the remaining portions.
+-7-
+[DELETED: yGA B F A A r t c p t a tP C a J f P P A a tpB6L62]
+[DELETED: ScS(p(e s t h c c a reb0(1p2(3d4m5(6i n n t a s a i d b p7o8(9t0b1(2t w l t t e o n j t e o3w4o5(6p7a8( B e l r d s a9p a p N c p a p t0g1S 3  F p o t P C a J f6L62]
+[DELETED: P(t d a s o o i b n l ta( B m a p f o pa( C a c d m d i t sm a a p o a o n a c w ea d i o o a o a p f0w n i r u l a w t i e1v2( C m a i w i s o s t3p l o r a g o s n f r i t4o5f6(7b8e9( D p m p t f d o0c1r o i i n r e p2p3c4( E s l m e a w p5d6(7i r a g l o f s a c o f f8f9(0( A s w o t u p f o o m b o1s6L62]
+[DELETED: ( A s s s l o t a t t su( A s s s l o t a t tc(tc((0( T q o t p c i m t o1p2(3(4(5s6l7t u p i d t s b p i 8c9( P a p m d p o0s p d f o s b a a t u1c2(3g o i t d i c o b i4i5u s o f l i b n l t e6n o a d s s o g7i a e p o a r h8c9( S p m o o s a c0p f a g o s f a s c o g o1c6L62]
+[DELETED: eot s c d t b m o of o o o d c t a c o gi a t b c l o op a o a c w i p o deS 4  ( A b t k a pl0t1t2d3p4(5u6a7n l t a o a g s o b t p 8c9o0(1s2s3( N b s u p a p o4s5( N b s c o u t d o a i6y t s y o a f t a o7p8(9f0f1(6L62]
+[DELETED: a o t a a o p a t oi(ouS 5  T P C a J f P PA(t f i f i a b0d r i a a p t p1c c p s a c c p l a2m3( I l r o o a t d4b5b6S 6  ( W a p v o t P7C a J f P P A o t A8G9c0i1( I c w a s a t A G i2a3a4( I i a t t s o t c t t5d6P7r s v a i c w r p8t9(0C1i a c p o n m t s t f h6L62]
+[DELETED: d( I a t a o r p i t PCv( N i t s s i a w l r oroSd i o u t d s n a0t6L62]
+
+
+================================================================================
+
+Raw Text:
+LB1006 LB1006
+2026 2026
+LEGISLATURE OF NEBRASKA
+ONE HUNDRED NINTH LEGISLATURE
+SECOND SESSION
+LEGISLATIVE BILL 1006
+Introduced by Guereca, 7.
+Read first time January 13, 2026
+Committee: Banking, Commerce and Insurance
+1 A BILL FOR AN ACT relating to consumer protection; to adopt the
+2 Protecting Consumers and Jobs from Predatory Pricing Act; and to
+3 provide severability.
+4 Be it enacted by the people of the State of Nebraska,
+-1-
+
+LB1006 LB1006
+2026 2026
+1 Section 1. Sections 1 to 6 of this act shall be known and may be
+2 cited as the Protecting Consumers and Jobs from Predatory Pricing Act.
+3 Sec. 2. The Legislature finds and declares that:
+4 (1) It is the policy of Nebraska to protect consumers from predatory
+5 pricing schemes in whatever iteration they appear or evolve;
+6 (2) Advancements in algorithms, in artificial intelligence, and in
+7 electronic shelving technology have created commercial and retail
+8 environments where it is possible to set pricing for a product or service
+9 based on personal or protected data;
+10 (3) Current law does not sufficiently prohibit companies from using
+11 personal or protected data to set prices;
+12 (4) The use of personal or protected data to set prices presents a
+13 distinct potential for companies to violate consumer privacy rights and
+14 may result in discrimination;
+15 (5) While offering goods at different prices due to customer demand
+16 is not new, there are subtle and important differences between price
+17 optimization and dynamic and surveillance pricing;
+18 (6) It is in the interest of the state and its consumers to regulate
+19 technologies or business models which can impact consumers or competition
+20 by monetizing consumers' personal information;
+21 (7) Business models in dynamic and surveillance pricing have results
+22 that will lead to the elimination of numerous jobs, the existence of
+23 which are relied upon by the communities of the state for the livelihood
+24 of their residents and by the state directly for economic growth;
+25 (8) Protection of these jobs will further protect consumers who are
+26 part of this economic ecosystem and will add to the growth of the economy
+27 and job market of Nebraska; and
+28 (9) By enacting laws regulating dynamic, surveillance, and
+29 personalized algorithmic pricing, Nebraska can protect and promote the
+30 growth of jobs in the future.
+31 Sec. 3. For purposes of the Protecting Consumers and Jobs from
+-2-
+
+LB1006 LB1006
+2026 2026
+1 Predatory Pricing Act:
+2 (1) Algorithm means a computational process that uses a set of rules
+3 to define a sequence of operations, including, but not limited to,
+4 artificial intelligence systems and facial-recognition software;
+5 (2) Business means any person, firm, organization, partnership,
+6 association, corporation, or any other entity doing business in Nebraska;
+7 (3) Clear and conspicuous disclosure means disclosure in the same
+8 medium as and provided on, at, or near and contemporaneous with every
+9 advertisement, display, image, offer, or announcement of a price for
+10 which notice is required using lettering and wording that is easily
+11 visible and understandable to the average consumer;
+12 (4) Consumer means an individual who is seeking or solicited to
+13 purchase, lease, or receive a good or service not for resale in the
+14 ordinary course of the individual's trade or business but for personal,
+15 family, or household use;
+16 (5) Consumer data means any data that identifies or could reasonably
+17 be linked, directly or indirectly, with a specific individual or device,
+18 excluding location data;
+19 (6) Dynamic pricing means pricing that fluctuates dependent on
+20 conditions that algorithmic or artificial intelligence models retrain or
+21 recalibrate on information in near real-time, excluding promotional
+22 pricing offers, loyalty program benefits, or other temporary discounts or
+23 changes to pricing related to retention of existing customers;
+24 (7) Electronic shelving label means electronic and wireless paper
+25 displays that present product and pricing information;
+26 (8) Grocery store means an establishment that is primarily engaged
+27 in retailing a general line of food, such as canned or frozen foods,
+28 fresh fruits or vegetables, or fresh or prepared meats, fish, or poultry;
+29 (9)(a) Nondigital presentation of price means:
+30 (i) A sign which offers the unit price for one or more brands or
+31 sizes of a given commodity;
+-3-
+
+LB1006 LB1006
+2026 2026
+1 (ii) A sticker, stamp, sign, label, or tag, affixed to the shelf
+2 upon which the commodity is displayed; and
+3 (iii) A sticker, stamp, sign, label, or tag, affixed to the
+4 commodity itself.
+5 (b) If a single sticker, stamp, sign, label, or tag does not provide
+6 the unit price information for more than one brand or size of a given
+7 commodity, then the following information shall be provided:
+8 (i) The identity of the commodity;
+9 (ii) The brand name of the commodity;
+10 (iii) The quantity of the packaged commodity if more than one
+11 package size per brand is displayed;
+12 (iv) The total sale price of the commodity; and
+13 (v) The price per appropriate unit.
+14 (c) Where a sign providing unit price information for one or more
+15 sizes or brands of a given commodity is used, the sign shall be centrally
+16 located as close as practical to all items to which the sign refers, and
+17 the unit price information displayed thereon shall be presented in a
+18 clear, distinct, and nondeceptive manner;
+19 (10) Personalized algorithmic pricing means dynamic pricing or
+20 surveillance pricing derived from or set by an algorithm that uses
+21 consumer data which may vary among consumers and groups of consumers;
+22 (11) Protected class data means information about an individual or
+23 group of individuals that directly, in combination, or by implication
+24 identifies a characteristic that is legally protected from discrimination
+25 under state or federal law, including, but not limited to, ethnicity,
+26 national origin, age, disability, sex, sexual orientation, gender
+27 identity and expression, pregnancy outcomes, and reproductive health
+28 care; and
+29 (12) Surveillance pricing means offering or setting a customized
+30 price for a good or service for a specific consumer or group of
+31 consumers, based, in whole or in part, on information collected through
+-4-
+
+LB1006 LB1006
+2026 2026
+1 electronic surveillance technology. Surveillance pricing includes the use
+2 of technological methods, systems, or tools, including, but not limited
+3 to, sensors, cameras, device tracking, biometric monitoring, or other
+4 forms of observation or data collection that are capable of gathering
+5 information about the behavior, characteristics, location, or other
+6 personal attributes of a consumer, whether in physical or digital
+7 environments.
+8 Sec. 4. (1) Any business that knowingly advertises, promotes,
+9 labels, or publishes a statement, display, image, offer, or announcement
+10 that uses personalized algorithmic pricing using consumer data specific
+11 to a particular consumer is required to provide a clear and conspicuous
+12 disclosure to consumers that the price was set by an algorithm using the
+13 personal data of the consumer.
+14 (2) A grocery store larger than ten thousand square feet shall not
+15 use electronic shelving labels or any digital shelf display technology,
+16 and shall use a nondigital presentation of price. This prohibition does
+17 not limit the ability of any grocery store or business to provide a
+18 consumer a discount, promotional price, or loyalty program benefit based
+19 on the consumer's previous purchase history.
+20 (3) No business shall use electronic shelving labels or any digital
+21 shelf display technology to display personalized algorithmic pricing or
+22 surveillance pricing.
+23 (4) No business shall use personalized algorithmic pricing or
+24 surveillance pricing for any reason.
+25 (5) No business shall collect or use the data of an individual
+26 younger than seventeen years of age for targeted advertising or
+27 personalized algorithmic pricing under any circumstances.
+28 (6) No business shall use protected class data in setting a price
+29 for, offering, marketing, or selling any good or service if any of the
+30 following are true:
+31 (a) The use of such data has the effect of withholding or denying
+-5-
+
+LB1006 LB1006
+2026 2026
+1 any of the accommodations, advantages, or privileges accorded to other
+2 individuals or groups; or
+3 (b) The price for such good or service is different from the price
+4 offered to other individuals or groups based, in whole or in part, on the
+5 use of protected class data.
+6 Sec. 5. The Protecting Consumers and Jobs from Predatory Pricing
+7 Act shall not apply to any:
+8 (1) Person providing financial services, including, but not limited
+9 to, financial institutions, financial institution affiliates, broker-
+10 dealers, registered investment advisors, and persons that provide
+11 consumer credit products such as credit cards, personal loans, and
+12 mortgages; or
+13 (2) Insurer licensed, regulated, or otherwise authorized to do
+14 business in Nebraska, including any person, agent, or affiliate acting on
+15 behalf of such insurer.
+16 Sec. 6. (1) Whenever a potential violation of the Protecting
+17 Consumers and Jobs from Predatory Pricing Act occurs, the Attorney
+18 General may bring an action in the name of the State of Nebraska in a
+19 court of competent jurisdiction to enjoin and restrain such violation and
+20 its continuance.
+21 (2) In connection with any such action, the Attorney General is
+22 authorized to take evidence, make a determination of the relevant facts,
+23 and to issue subpoenas.
+24 (3) If it appears to the satisfaction of the court that the
+25 defendant has, in fact, violated the Protecting Consumers and Jobs from
+26 Predatory Pricing Act, the court may issue an injunction, enjoining and
+27 restraining such violation and its continuance without requiring proof
+28 that any person has, in fact, been injured or damaged by the violation.
+29 (4) Whenever a court determines that a violation of the Protecting
+30 Consumers and Jobs from Predatory Pricing Act has occurred, the court may
+31 impose a civil penalty of not more than seven thousand five hundred
+-6-
+
+LB1006 LB1006
+2026 2026
+1 dollars for each violation.
+2 (5) In addition to any other remedies provided in the Protecting
+3 Consumers and Jobs from Predatory Pricing Act, any person aggrieved by a
+4 violation of the act may bring a civil action against the violator.
+5 (6) Nothing in this section shall in any way limit rights or
+6 remedies which are otherwise available under law to the Attorney General
+7 or any other person authorized to bring an action under this section.
+8 Sec. 7. If any section in this act or any part of any section is
+9 declared invalid or unconstitutional, the declaration shall not affect
+10 the validity or constitutionality of the remaining portions.
+-7-
+
+[DELETED: yGA B F A A r t c p t a tP C a J f P P A a tpB6L62]
+[DELETED: ScS(p(e s t h c c a reb0(1p2(3d4m5(6i n n t a s a i d b p7o8(9t0b1(2t w l t t e o n j t e o3w4o5(6p7a8( B e l r d s a9p a p N c p a p t0g1S 3  F p o t P C a J f6L62]
+[DELETED: P(t d a s o o i b n l ta( B m a p f o pa( C a c d m d i t sm a a p o a o n a c w ea d i o o a o a p f0w n i r u l a w t i e1v2( C m a i w i s o s t3p l o r a g o s n f r i t4o5f6(7b8e9( D p m p t f d o0c1r o i i n r e p2p3c4( E s l m e a w p5d6(7i r a g l o f s a c o f f8f9(0( A s w o t u p f o o m b o1s6L62]
+[DELETED: ( A s s s l o t a t t su( A s s s l o t a t tc(tc((0( T q o t p c i m t o1p2(3(4(5s6l7t u p i d t s b p i 8c9( P a p m d p o0s p d f o s b a a t u1c2(3g o i t d i c o b i4i5u s o f l i b n l t e6n o a d s s o g7i a e p o a r h8c9( S p m o o s a c0p f a g o s f a s c o g o1c6L62]
+[DELETED: eot s c d t b m o of o o o d c t a c o gi a t b c l o op a o a c w i p o deS 4  ( A b t k a pl0t1t2d3p4(5u6a7n l t a o a g s o b t p 8c9o0(1s2s3( N b s u p a p o4s5( N b s c o u t d o a i6y t s y o a f t a o7p8(9f0f1(6L62]
+[DELETED: a o t a a o p a t oi(ouS 5  T P C a J f P PA(t f i f i a b0d r i a a p t p1c c p s a c c p l a2m3( I l r o o a t d4b5b6S 6  ( W a p v o t P7C a J f P P A o t A8G9c0i1( I c w a s a t A G i2a3a4( I i a t t s o t c t t5d6P7r s v a i c w r p8t9(0C1i a c p o n m t s t f h6L62]
+[DELETED: d( I a t a o r p i t PCv( N i t s s i a w l r oroSd i o u t d s n a0t6L62]
