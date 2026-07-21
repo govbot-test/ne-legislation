@@ -1,0 +1,418 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LB871 LB871
+2026 2026
+LEGISLATURE OF NEBRASKA
+ONE HUNDRED NINTH LEGISLATURE
+SECOND SESSION
+LEGISLATIVE BILL 871
+Introduced by Conrad, 46.
+Read first time January 08, 2026
+Committee: Judiciary
+1 A BILL FOR AN ACT relating to inflation adjustments; to amend sections
+2 8-1,131, 25-1558, 25-1559, 30-2322, 30-2323, 44-371, and 44-1089,
+3 Reissue Revised Statutes of Nebraska, and section 40-101, Revised
+4 Statutes Cumulative Supplement, 2024; to increase amounts exempt
+5 from levy, execution, judgment, operation of law, garnishment, or
+6 other judicial enforcement as provided; to increase the homestead
+7 allowance and exempt property allowance; to provide for adjustments
+8 based on inflation; and to repeal the original sections.
+9 Be it enacted by the people of the State of Nebraska,
+-1-
+
+LB871 LB871
+2026 2026
+1 Section 1. Section 8-1,131, Reissue Revised Statutes of Nebraska, is
+2 amended to read:
+3 8-1,131 (1) All banks are qualified to act as trustee or custodian
+4 under the federal Self-Employed Individuals Tax Retirement Act of 1962,
+5 as amended, or under the terms and provisions of section 408(a) of the
+6 Internal Revenue Code, if the provisions of such retirement plan require
+7 the funds of such trust or custodianship to be invested exclusively in
+8 shares or accounts in the bank or in other banks. If any such retirement
+9 plan, within the judgment of the bank, constitutes a qualified plan under
+10 the federal Self-Employed Individuals Tax Retirement Act of 1962, or
+11 under the terms and provisions of section 408(a) of the Internal Revenue
+12 Code and the regulations promulgated thereunder at the time the trust was
+13 established and accepted by the bank, and is subsequently determined not
+14 to be such a qualified plan or subsequently ceases to be such a qualified
+15 plan, in whole or in part, the bank may continue to act as trustee of any
+16 deposits theretofore made under such plan and to dispose of the same in
+17 accordance with the directions of the member and beneficiaries thereof.
+18 No bank, in respect to savings made under this subsection, shall be
+19 required to segregate such savings from other liabilities of the bank.
+20 The bank shall keep appropriate records showing in proper detail all
+21 transactions engaged in under the authority of this subsection.
+22 (2)(a) All banks are qualified to act as trustee or custodian of a
+23 medical savings account created within the provisions of section 220 of
+24 the Internal Revenue Code and a health savings account created within the
+25 provisions of section 223 of the Internal Revenue Code. If any such
+26 medical savings account or health savings account, within the judgment of
+27 the bank, constitutes a medical savings account under section 220 of the
+28 Internal Revenue Code or a health savings account under section 223 of
+29 the Internal Revenue Code and the regulations promulgated thereunder at
+30 the time the trust was established and accepted by the bank, and is
+31 subsequently determined not to be such a medical savings account or
+-2-
+
+LB871 LB871
+2026 2026
+1 health savings account, in whole or in part, the bank may continue to act
+2 as trustee of any deposits theretofore made under such plan and to
+3 dispose of the same in accordance with the directions of the account
+4 holder. No bank, in respect to savings made under this subsection, shall
+5 be required to segregate such savings from other liabilities of the bank.
+6 The bank shall keep appropriate records showing in proper detail all
+7 transactions engaged in under the authority of this subsection.
+8 (b) Except for judgments against the medical savings account holder
+9 or health savings account holder or his or her dependents for qualified
+10 medical expenses as defined under section 223(d)(2) of the Internal
+11 Revenue Code, funds credited to a medical savings account or health
+12 savings account below forty thousand eight hundred thirty-one twenty-five
+13 thousand dollars are not susceptible to levy, execution, judgment, or
+14 other operation of law, garnishment, or other judicial enforcement and
+15 are not an asset or property of the account holder for purposes of
+16 bankruptcy law.
+17 (3) The Department of Revenue shall adjust the dollar limitation
+18 provided for in this section every fifth year commencing July 1, 2030.
+19 The adjusted limitation shall be equal to the then current limitation
+20 adjusted by the cumulative percentage change in the Consumer Price Index
+21 for All Urban Consumers, as prepared by the United States Department of
+22 Labor, Bureau of Labor Statistics, for the five-year period preceding the
+23 adjustment date. The adjusted limitation shall be rounded to the nearest
+24 hundred-dollar amount.
+25 Sec. 2. Section 25-1558, Reissue Revised Statutes of Nebraska, is
+26 amended to read:
+27 25-1558 (1) Except as provided in subsection (2) of this section,
+28 the maximum part of the aggregate disposable earnings of an individual
+29 for any workweek which is subject to garnishment shall not exceed the
+30 lesser of the following amounts:
+31 (a) Twenty-five percent of his or her disposable earnings for that
+-3-
+
+LB871 LB871
+2026 2026
+1 week;
+2 (b) The amount by which his or her disposable earnings for that week
+3 exceed thirty times the minimum wage rate as prescribed by section
+4 48-1203 federal minimum hourly wage prescribed by 29 U.S.C. 206(a)(1) in
+5 effect at the time earnings are payable; or
+6 (c) Fifteen percent of his or her disposable earnings for that week,
+7 if the individual is a head of a family.
+8 (2) The restrictions of subsection (1) of this section shall not
+9 apply in the case of:
+10 (a) Any order of any court for the support of any persons;
+11 (b) Any order of any court of bankruptcy under Chapter XIII of the
+12 Bankruptcy Act; or
+13 (c) Any debt due for any state or federal tax.
+14 (3) No court shall make, execute, or enforce any order or process in
+15 violation of this section. The exemptions allowed in this section shall
+16 be granted to any person so entitled without any further proceedings.
+17 (4) For the purposes of this section:
+18 (a) Earnings shall mean compensation paid or payable by an employer
+19 to an employee for personal services, whether denominated as wages,
+20 salary, commission, bonus, or otherwise, and includes periodic payments
+21 pursuant to a pension or retirement program;
+22 (b) Disposable earnings shall mean that part of the earnings of any
+23 individual remaining after the deduction from those earnings of any
+24 amounts required by law to be withheld;
+25 (c) Garnishment shall mean any legal or equitable procedure through
+26 which the earnings of any individual are required to be withheld for
+27 payment of any debt; and
+28 (d) Head of a family shall mean an individual who actually supports
+29 and maintains one or more individuals who are closely connected with him
+30 or her by blood relationship, relationship by marriage, by adoption, or
+31 by guardianship, and whose right to exercise family control and provide
+-4-
+
+LB871 LB871
+2026 2026
+1 for the dependent individuals is based upon some moral or legal
+2 obligation.
+3 (5) Every assignment, sale, transfer, pledge, or mortgage of the
+4 wages or salary of an individual which is exempted by this section, to
+5 the extent of the exemption provided by this section, shall be void and
+6 unenforceable by any process of law.
+7 (6) No employer shall discharge any employee by reason of the fact
+8 that his or her earnings have been subjected to garnishment for any one
+9 indebtedness.
+10 (7) In the case of earnings for any pay period other than a week,
+11 the Commissioner of Labor shall by regulation prescribe a multiple of the
+12 minimum wage rate as prescribed by section 48-1203 that is federal
+13 minimum hourly wage equivalent in effect to that set forth in this
+14 section.
+15 Sec. 3. Section 25-1559, Reissue Revised Statutes of Nebraska, is
+16 amended to read:
+17 25-1559 (1) In addition to the exemptions otherwise provided for,
+18 there shall also be exempt from levy and sale upon execution or
+19 attachment, to every resident of the State of Nebraska, who became
+20 disabled in the service of the United States as a soldier, sailor or
+21 marine, all pension money hereafter received and all property hereafter
+22 purchased and improved exclusively therewith, not exceeding sixty-four
+23 thousand eight hundred thirty two thousand dollars in value, of and
+24 belonging to such soldier, sailor or marine.
+25 (2) The Department of Revenue shall adjust the dollar limitation
+26 provided for in this section every fifth year commencing July 1, 2030.
+27 The adjusted limitation shall be equal to the then current limitation
+28 adjusted by the cumulative percentage change in the Consumer Price Index
+29 for All Urban Consumers, as prepared by the United States Department of
+30 Labor, Bureau of Labor Statistics, for the five-year period preceding the
+31 adjustment date. The adjusted limitation shall be rounded to the nearest
+-5-
+
+LB871 LB871
+2026 2026
+1 hundred-dollar amount.
+2 Sec. 4. Section 30-2322, Reissue Revised Statutes of Nebraska, is
+3 amended to read:
+4 30-2322 (1) A surviving spouse of a decedent who was domiciled in
+5 this state is entitled to a homestead allowance of seven thousand five
+6 hundred dollars for a decedent who dies before January 1, 2011, and
+7 twenty thousand dollars for a decedent who dies before December 31, 2027,
+8 and twenty-nine thousand one hundred forty-two dollars for a decedent who
+9 dies on or after January 1, 2027 on or after January 1, 2011. If there is
+10 no surviving spouse, each minor child and each dependent child of the
+11 decedent is entitled to a homestead allowance amounting to the amount
+12 allowed for a surviving spouse divided by the number of minor and
+13 dependent children of the decedent. The homestead allowance is exempt
+14 from and has priority over all claims against the estate except for costs
+15 and expenses of administration. Homestead allowance is in addition to any
+16 share passing to the surviving spouse or minor or dependent child by the
+17 will of the decedent unless otherwise provided therein, by intestate
+18 succession or by way of elective share.
+19 (2) The Department of Revenue shall adjust the dollar limitation
+20 provided for in this section every fifth year commencing July 1, 2030.
+21 The adjusted limitation shall be equal to the then current limitation
+22 adjusted by the cumulative percentage change in the Housing Price Index
+23 for Nebraska, as prepared by the Federal Housing Finance Agency, for the
+24 five-year period preceding the adjustment date. The adjusted limitation
+25 shall be rounded to the nearest hundred-dollar amount.
+26 Sec. 5. Section 30-2323, Reissue Revised Statutes of Nebraska, is
+27 amended to read:
+28 30-2323 (1)(a) (1) In addition to the homestead allowance, the
+29 surviving spouse of a decedent who was domiciled in this state is
+30 entitled from the estate to value not exceeding five thousand dollars for
+31 a decedent who dies before January 1, 2011, and twelve thousand five
+-6-
+
+LB871 LB871
+2026 2026
+1 hundred dollars for a decedent who dies before December 31, 2027, and
+2 eighteen thousand two hundred fourteen dollars for a decedent who dies on
+3 or after January 1, 2027 on or after January 1, 2011, in excess of any
+4 security interests therein in household furniture, automobiles,
+5 furnishings, appliances, and personal effects. If there is no surviving
+6 spouse, children of the decedent are entitled jointly to the same value
+7 unless the decedent has provided in his or her will that one or more of
+8 such children shall be disinherited, in which case only those children
+9 not so disinherited shall be so entitled. For purposes of this section,
+10 disinherited means providing in one's will that a child shall take
+11 nothing or a nominal amount of ten dollars or less from the estate.
+12 (b) The Department of Revenue shall adjust the dollar limitation
+13 provided for in this section every fifth year commencing July 1, 2030.
+14 The adjusted limitation shall be equal to the then current limitation
+15 adjusted by the cumulative percentage change in the Consumer Price Index
+16 for All Urban Consumers, as prepared by the United States Department of
+17 Labor, Bureau of Labor Statistics, for the five-year period preceding the
+18 adjustment date. The adjusted limitation shall be rounded to the nearest
+19 hundred-dollar amount.
+20 (2) If encumbered chattels are selected and if the value in excess
+21 of security interests, plus that of other exempt property, is less than
+22 the amount allowed under subsection (1) of this section, or if there is
+23 not that amount worth of exempt property in the estate, the spouse or
+24 children are entitled to other assets of the estate, if any, to the
+25 extent necessary to make up the amount allowed under subsection (1) of
+26 this section. Rights to exempt property and assets needed to make up a
+27 deficiency of exempt property have priority over all claims against the
+28 estate except for costs and expenses of administration, except for claims
+29 filed by the Department of Health and Human Services pursuant to section
+30 68-919 notwithstanding the order of payment established in section
+31 30-2487, and except that the right to any assets to make up a deficiency
+-7-
+
+LB871 LB871
+2026 2026
+1 of exempt property shall abate as necessary to permit prior payment of
+2 homestead allowance and family allowance.
+3 (3) These rights are in addition to any benefit or share passing to
+4 the surviving spouse by the will of the decedent unless otherwise
+5 provided therein, by intestate succession, or by way of elective share.
+6 These rights are in addition to any benefit or share passing to the
+7 surviving children by intestate succession and are in addition to any
+8 benefit or share passing by the will of the decedent to those surviving
+9 children not disinherited unless otherwise provided in the will.
+10 Sec. 6. Section 40-101, Revised Statutes Cumulative Supplement,
+11 2024, is amended to read:
+12 40-101 (1) Each natural person residing in this state shall have
+13 exempt from judgment liens and from execution or forced sale, except as
+14 provided in sections 40-101 to 40-116, a homestead not exceeding two
+15 hundred twenty-eight thousand one hundred forty-eight one hundred twenty
+16 thousand dollars in value consisting of the dwelling house in which the
+17 claimant resides, its appurtenances, and the land on which the same is
+18 situated, not exceeding one hundred and sixty acres of land, to be
+19 selected by the owner, and not in any incorporated city or village, or,
+20 at the option of the claimant, a quantity of contiguous land not
+21 exceeding two lots within any incorporated city or village.
+22 (2)(a) The Department of Revenue shall adjust the dollar limitation
+23 provided for in this section every fifth year commencing July 1, 2030, to
+24 reflect the statewide average residential value for single-family
+25 residential properties. The statewide average residential value for
+26 single-family residential properties shall be determined by dividing the
+27 total statewide residential value for single-family properties by the
+28 number of single-family residential properties in the state.
+29 (b) For purposes of this subsection, total statewide residential
+30 value for single-family properties means the sum of the total residential
+31 values for single-family residential properties for each county.
+-8-
+
+LB871 LB871
+2026 2026
+1 (c) The total residential value for single-family properties for
+2 each county and the number of single-family residential properties shall
+3 be determined by using the values certified to the Department of Revenue
+4 pursuant to section 77-3506.02.
+5 Sec. 7. Section 44-371, Reissue Revised Statutes of Nebraska, is
+6 amended to read:
+7 44-371 (1)(a) Except as provided in subdivision (1)(b) of this
+8 section and in section 68-919, all proceeds, cash values, and benefits
+9 accruing under any annuity contract, under any policy or certificate of
+10 life insurance payable upon the death of the insured to a beneficiary
+11 other than the estate of the insured, or under any accident or health
+12 insurance policy shall be exempt from attachment, garnishment, or other
+13 legal or equitable process and from all claims of creditors of the
+14 insured and of the beneficiary if related to the insured by blood or
+15 marriage, unless a written assignment to the contrary has been obtained
+16 by the claimant.
+17 (b) Subdivision (1)(a) of this section shall not apply to:
+18 (i) An individual's aggregate interests greater than one hundred
+19 twenty-nine thousand eight hundred three one hundred thousand dollars in
+20 all loan values or cash values of all matured or unmatured life insurance
+21 contracts and in all proceeds, cash values, or benefits accruing under
+22 all annuity contracts owned by such individual; and
+23 (ii) An individual's interest in all loan values or cash values of
+24 all matured or unmatured life insurance contracts and in all proceeds,
+25 cash values, or benefits accruing under all annuity contracts owned by
+26 such individual, to the extent that the loan values or cash values of any
+27 matured or unmatured life insurance contract or the proceeds, cash
+28 values, or benefits accruing under any annuity contract were established
+29 or increased through contributions, premiums, or any other payments made
+30 within three years prior to bankruptcy or within three years prior to
+31 entry against the individual of a money judgment which thereafter becomes
+-9-
+
+LB871 LB871
+2026 2026
+1 final.
+2 (c) An insurance company shall not be liable or responsible to any
+3 person to determine or ascertain the existence or identity of any such
+4 creditors prior to payment of any such loan values, cash values,
+5 proceeds, or benefits.
+6 (d) The Department of Revenue shall adjust the dollar limitation
+7 provided for in subdivision (1)(b)(i) of this section every fifth year
+8 commencing July 1, 2030. The adjusted limitation shall be equal to the
+9 then current limitation adjusted by the cumulative percentage change in
+10 the Consumer Price Index for All Urban Consumers, as prepared by the
+11 United States Department of Labor, Bureau of Labor Statistics, for the
+12 five-year period preceding the adjustment date. The adjusted limitation
+13 shall be rounded to the nearest hundred-dollar amount.
+14 (2) Notwithstanding subsection (1) of this section, proceeds, cash
+15 values, and benefits accruing under any annuity contract or under any
+16 policy or certificate of life insurance payable upon the death of the
+17 insured to a beneficiary other than the estate of the insured shall not
+18 be exempt from attachment, garnishment, or other legal or equitable
+19 process by a judgment creditor of the beneficiary if the judgment against
+20 the beneficiary was based on, arose from, or was related to an act,
+21 transaction, or course of conduct for which the beneficiary has been
+22 convicted by any court of a crime punishable only by life imprisonment or
+23 death. No insurance company shall be liable or responsible to any person
+24 to determine or ascertain the existence or identity of any such judgment
+25 creditor prior to payment of any such proceeds, cash values, or benefits.
+26 This subsection shall apply to any judgment rendered on or after January
+27 1, 1995, irrespective of when the criminal conviction is or was rendered
+28 and irrespective of whether proceedings for attachment, garnishment, or
+29 other legal or equitable process were pending on March 14, 1997.
+30 Sec. 8. Section 44-1089, Reissue Revised Statutes of Nebraska, is
+31 amended to read:
+-10-
+
+LB871 LB871
+2026 2026
+1 44-1089 (1) No noninsurance benefit, charity, relief, or aid to be
+2 paid, provided, or rendered by any society shall be liable to attachment,
+3 garnishment, or other process, or to be seized, taken, appropriated, or
+4 applied by any legal or equitable process or operation of law to pay any
+5 debt or liability of a member or beneficiary, or any other person who may
+6 have a right thereunder, either before or after payment by the society.
+7 (2)(a) Except as provided in subdivision (2)(b) of this section, all
+8 proceeds, cash values, and benefits accruing under any annuity contract,
+9 under any policy or certificate of life insurance payable upon the death
+10 of the insured to a beneficiary other than the estate of the insured, or
+11 under any accident or health insurance policy shall be exempt from
+12 attachment, garnishment, or other legal or equitable process and from all
+13 claims of creditors of the insured and of the beneficiary if related to
+14 the insured by blood or marriage, unless a written assignment to the
+15 contrary has been obtained by the claimant.
+16 (b) Subdivision (2)(a) of this section shall not apply to:
+17 (i) An individual's aggregate interests greater than one hundred
+18 sixty-three thousand three hundred twenty-six one hundred thousand
+19 dollars in all loan values or cash values of all matured or unmatured
+20 life insurance contracts and in all proceeds, cash values, or benefits
+21 accruing under all annuity contracts owned by such individual; and
+22 (ii) An individual's interest in all loan values or cash values of
+23 all matured or unmatured life insurance contracts and in all proceeds,
+24 cash values, or benefits accruing under all annuity contracts owned by
+25 such individual, to the extent that the loan values or cash values of any
+26 matured or unmatured life insurance contract or the proceeds, cash
+27 values, or benefits accruing under any annuity contract were established
+28 or increased through contributions, premiums, or any other payments made
+29 within three years prior to bankruptcy or within three years prior to
+30 entry against the individual of a money judgment which thereafter becomes
+31 final.
+-11-
+
+LB871 LB871
+2026 2026
+1 (c) A fraternal benefit society shall not be liable or responsible
+2 to any person to determine or ascertain the existence or identity of any
+3 such creditors prior to payment of any such loan values, cash values,
+4 proceeds, or benefits.
+5 (d) The Department of Revenue shall adjust the dollar limitation
+6 provided for in subdivision (1)(b)(i) of this section every fifth year
+7 commencing July 1, 2030. The adjusted limitation shall be equal to the
+8 then current limitation adjusted by the cumulative percentage change in
+9 the Consumer Price Index for All Urban Consumers, as prepared by the
+10 United States Department of Labor, Bureau of Labor Statistics, for the
+11 five-year period preceding the adjustment date. The adjusted limitation
+12 shall be rounded to the nearest hundred-dollar amount.
+13 (3) Notwithstanding subsection (2) of this section, proceeds, cash
+14 values, and benefits accruing under any annuity contract or under any
+15 policy or certificate of life insurance payable upon the death of the
+16 insured to a beneficiary other than the estate of the insured shall not
+17 be exempt from attachment, garnishment, or other legal or equitable
+18 process by a judgment creditor of the beneficiary if the judgment against
+19 the beneficiary was based on, arose from, or was related to an act,
+20 transaction, or course of conduct for which the beneficiary has been
+21 convicted by any court of a crime punishable only by life imprisonment or
+22 death. No fraternal benefit society shall be liable or responsible to any
+23 person to determine or ascertain the existence or identity of any such
+24 judgment creditor prior to payment of any such proceeds, cash values, or
+25 benefits. This subsection shall apply to any judgment rendered on or
+26 after January 1, 1995, irrespective of when the criminal conviction is or
+27 was rendered and irrespective of whether proceedings for attachment,
+28 garnishment, or other legal or equitable process were pending on March
+29 14, 1997.
+30 Sec. 9. Original sections 8-1,131, 25-1558, 25-1559, 30-2322,
+31 30-2323, 44-371, and 44-1089, Reissue Revised Statutes of Nebraska, and
+-12-
+
+LB871 LB871
+2026 2026
+1 section 40-101, Revised Statutes Cumulative Supplement, 2024, are
+2 repealed.
+-13-

@@ -1,0 +1,934 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LB1244 LB1244
+2026 2026
+LEGISLATURE OF NEBRASKA
+ONE HUNDRED NINTH LEGISLATURE
+SECOND SESSION
+LEGISLATIVE BILL 1244
+Introduced by Murman, 38; at the request of the Governor.
+Read first time January 21, 2026
+Committee: Revenue
+1 A BILL FOR AN ACT relating to revenue and taxation; to amend section
+2 77-2701.47, Reissue Revised Statutes of Nebraska, sections 77-382,
+3 77-2704.36, 77-2912, and 77-3005, Revised Statutes Cumulative
+4 Supplement, 2024, and sections 77-2701.16 and 77-2716, Revised
+5 Statutes Supplement, 2025; to eliminate certain sales and use tax
+6 exemptions and impose sales and use taxes on certain services; to
+7 change the Mechanical Amusement Device Tax Act and the Tax
+8 Expenditure Reporting Act as prescribed; to change provisions
+9 relating to the Nebraska Job Creation and Mainstreet Revitalization
+10 Act; to harmonize provisions; to provide an operative date; to
+11 repeal the original sections; to outright repeal sections
+12 77-2704.55, 77-2704.60, and 77-2704.67, Reissue Revised Statutes of
+13 Nebraska, and section 77-2704.66, Revised Statutes Cumulative
+14 Supplement, 2024; and to declare an emergency.
+15 Be it enacted by the people of the State of Nebraska,
+-1-
+
+LB1244 LB1244
+2026 2026
+1 Section 1. Section 77-382, Revised Statutes Cumulative Supplement,
+2 2024, is amended to read:
+3 77-382 (1) The department shall prepare a tax expenditure report
+4 describing (a) the basic provisions of the Nebraska tax laws, (b) the
+5 actual or estimated revenue loss caused by the exemptions, deductions,
+6 exclusions, deferrals, credits, and preferential rates in effect on July
+7 1 of each year and allowed under Nebraska's tax structure and in the
+8 property tax, (c) the actual or estimated revenue loss caused by failure
+9 to impose sales and use tax on services purchased for nonbusiness use,
+10 and (d) the elements which make up the tax base for state and local
+11 income, including income, sales and use, property, and miscellaneous
+12 taxes.
+13 (2) The department shall review the major tax exemptions for which
+14 state general funds are used to reduce the impact of revenue lost due to
+15 a tax expenditure. The report shall indicate an estimate of the amount of
+16 the reduction in revenue resulting from the operation of all tax
+17 expenditures. The report shall list each tax expenditure relating to
+18 sales and use tax under the following categories:
+19 (a) Agriculture, which shall include a separate listing for the
+20 following items: Agricultural machinery; agricultural chemicals; seeds
+21 sold to commercial producers; water for irrigation and manufacturing;
+22 commercial artificial insemination; mineral oil as dust suppressant;
+23 animal specialty services and veterinary services performed on livestock
+24 as defined in section 54-183 grooming; oxygen for use in aquaculture;
+25 animal life whose products constitute food for human consumption; and
+26 grains;
+27 (b) Business across state lines, which shall include a separate
+28 listing for the following items: Property shipped out-of-state;
+29 fabrication labor for items to be shipped out-of-state; property to be
+30 transported out-of-state; property purchased in other states to be used
+31 in Nebraska; aircraft delivery to an out-of-state resident or business;
+-2-
+
+LB1244 LB1244
+2026 2026
+1 state reciprocal agreements for industrial machinery; and property taxed
+2 in another state;
+3 (c) Common carrier and logistics, which shall include a separate
+4 listing for the following items: Common Railroad rolling stock and repair
+5 parts and services; common or contract carriers and repair parts and
+6 services; common or contract carrier accessories ; and common or contract
+7 carrier safety equipment;
+8 (d) Consumer goods, which shall include a separate listing for the
+9 following items: Motor vehicles and motorboat trade-ins; merchandise
+10 trade-ins; certain medical equipment and medicine; newspapers;
+11 laundromats; telefloral deliveries; motor vehicle discounts for the
+12 disabled; and political campaign fundraisers;
+13 (e) Energy, which shall include a separate listing for the following
+14 items: Motor fuels; energy used in industry; energy used in agriculture;
+15 aviation fuel; and minerals, oil, and gas severed from real property;
+16 (f) Food, which shall include a separate listing for the following
+17 items: Food for home consumption; Supplemental Nutrition Assistance
+18 Program; school lunches; meals sold by hospitals; meals sold by
+19 institutions at a flat rate; food for the elderly, handicapped, and
+20 Supplemental Security Income recipients; and meals sold by churches;
+21 (g) General business, which shall include a separate listing for the
+22 following items: Component and ingredient parts; manufacturing machinery;
+23 containers; film rentals; molds and dies; syndicated programming;
+24 intercompany sales; intercompany leases; sale of a business or farm
+25 machinery; and transfer of property in a change of business ownership;
+26 (h) Lodging and shelter, which shall include a separate listing for
+27 the following item: Room rentals by certain institutions;
+28 (i) Miscellaneous, which shall include a separate listing for the
+29 following items: Cash discounts and coupons; separately stated finance
+30 charges; casual sales; lease-to-purchase agreements; and separately
+31 stated taxes;
+-3-
+
+LB1244 LB1244
+2026 2026
+1 (j) Nonprofits, governments, and exempt entities, which shall
+2 include a separate listing for the following items: Purchases by
+3 political subdivisions of the state; purchases by churches and nonprofit
+4 colleges and medical facilities; purchasing agents for public real estate
+5 construction improvements; contractor as purchasing agent for public
+6 agencies; Nebraska lottery; admissions to school events; sales on Native
+7 American Indian reservations; school-supporting fundraisers; fine art
+8 purchases by a museum; purchases by the Nebraska State Fair Board;
+9 purchases by the Nebraska Investment Finance Authority and licensees of
+10 the State Racing and Gaming Commission; purchases by the United States
+11 Government; public records; and sales by religious organizations;
+12 (k) Recent sales tax expenditures, which shall include a separate
+13 listing for each sales tax expenditure created by statute or rule and
+14 regulation after July 19, 2012;
+15 (l) Services purchased for nonbusiness use, which shall include a
+16 separate listing for each such service, including, but not limited to,
+17 the following items: Cleaning Motor vehicle cleaning, maintenance, and
+18 repair services; cleaning and repair of clothing; cleaning, maintenance,
+19 and repair of other tangible personal property; maintenance, painting,
+20 and repair of real property; entertainment admissions; hair care and hair
+21 removal services personal care services; lawn care, gardening, and
+22 landscaping services; pet-related services; storage and moving services;
+23 household utilities; other personal services; taxi, limousine, and other
+24 transportation services; legal services; accounting services; veterinary
+25 services; other professional services; and other real estate services;
+26 and
+27 (m) Telecommunications, which shall include a separate listing for
+28 the following items: Prepaid Telecommunications access charges; prepaid
+29 calling arrangements ; conference bridging services; and nonvoice data
+30 services.
+31 (3) It is the intent of the Legislature that nothing in the Tax
+-4-
+
+LB1244 LB1244
+2026 2026
+1 Expenditure Reporting Act shall cause the valuation or assessment of any
+2 property exempt from taxation on the basis of its use exclusively for
+3 religious, educational, or charitable purposes.
+4 Sec. 2. Section 77-2701.16, Revised Statutes Supplement, 2025, is
+5 amended to read:
+6 77-2701.16 (1) Gross receipts means the total amount of the sale or
+7 lease or rental price, as the case may be, of the retail sales of
+8 retailers.
+9 (2) Gross receipts of every person engaged as a public utility
+10 specified in this subsection, as a community antenna television service
+11 operator, or as a satellite service operator or any person involved in
+12 connecting and installing services defined in subdivision (2)(a), (b), or
+13 (d) of this section means:
+14 (a)(i) In the furnishing of telephone communication service, other
+15 than mobile telecommunications service as described in section
+16 77-2703.04, the gross income received from furnishing ancillary services,
+17 except for conference bridging services, and intrastate
+18 telecommunications services, except for value-added, nonvoice data
+19 service.
+20 (ii) In the furnishing of mobile telecommunications service as
+21 described in section 77-2703.04, the gross income received from
+22 furnishing mobile telecommunications service that originates and
+23 terminates in the same state to a customer with a place of primary use in
+24 Nebraska;
+25 (b) In the furnishing of telegraph service, the gross income
+26 received from the furnishing of intrastate telegraph services;
+27 (c)(i) In the furnishing of gas, sewer, water, and electricity
+28 service, other than electricity service to a customer-generator as
+29 defined in section 70-2002, the gross income received from the furnishing
+30 of such services upon billings or statements rendered to consumers for
+31 such utility services.
+-5-
+
+LB1244 LB1244
+2026 2026
+1 (ii) In the furnishing of electricity service to a customer-
+2 generator as defined in section 70-2002, the net energy use upon billings
+3 or statements rendered to customer-generators for such electricity
+4 service;
+5 (d) In the furnishing of community antenna television service or
+6 satellite service, the gross income received from the furnishing of such
+7 community antenna television service as regulated under sections 18-2201
+8 to 18-2205 or 23-383 to 23-388 or satellite service; and
+9 (e) The gross income received from the provision, installation,
+10 construction, servicing, or removal of property used in conjunction with
+11 the furnishing, installing, or connecting of any public utility services
+12 specified in subdivision (2)(a) or (b) of this section or community
+13 antenna television service or satellite service specified in subdivision
+14 (2)(d) of this section, except when acting as a subcontractor for a
+15 public utility, this subdivision does not apply to the gross income
+16 received by a contractor electing to be treated as a consumer of building
+17 materials under subdivision (2) or (3) of section 77-2701.10 for any such
+18 services performed on the customer's side of the utility demarcation
+19 point. This subdivision also does not apply to:
+20 (i) The gross income received by a political subdivision of the
+21 state, an electric cooperative, or an electric membership association for
+22 the lease or use of, or by a contractor for the construction of or
+23 services provided on, electric generation, transmission, distribution, or
+24 street lighting structures or facilities owned by a political subdivision
+25 of the state, an electric cooperative, or an electric membership
+26 association; or
+27 (ii) The gross income received for the lease or use of towers or
+28 other structures and equipment, including antennas and studio transmitter
+29 link systems, primarily used in conjunction with the furnishing of (A)
+30 Internet access services, (B) agricultural global positioning system
+31 locating services, or (C) over-the-air radio and television broadcasting
+-6-
+
+LB1244 LB1244
+2026 2026
+1 via radio and television broadcast stations licensed by the Federal
+2 Communications Commission. For purposes of this subdivision, studio
+3 transmitter link system means a radiofrequency apparatus which serves as
+4 a conduit to deliver station programming content from its origin in a
+5 studio to a broadcast transmitter and antenna.
+6 (3) Gross receipts of every person engaged in selling, leasing, or
+7 otherwise providing intellectual or entertainment property means:
+8 (a) In the furnishing of computer software, the gross income
+9 received, including the charges for coding, punching, or otherwise
+10 producing any computer software and the charges for the tapes, disks,
+11 punched cards, or other properties furnished by the seller; and
+12 (b) In the furnishing of videotapes, movie film, satellite
+13 programming, satellite programming service, and satellite television
+14 signal descrambling or decoding devices, the gross income received from
+15 the license, franchise, or other method establishing the charge.
+16 (4) Gross receipts for providing a service means:
+17 (a) The gross income received for building cleaning and maintenance,
+18 pest control, and security;
+19 (b) The gross income received for motor vehicle washing, waxing,
+20 towing, and painting;
+21 (c) The gross income received for computer software training;
+22 (d) The gross income received for installing and applying tangible
+23 personal property if the sale of the property is subject to tax. If any
+24 or all of the charge for installation is free to the customer and is paid
+25 by a third-party service provider to the installer, any tax due on that
+26 part of the activation commission, finder's fee, installation charge, or
+27 similar payment made by the third-party service provider shall be paid
+28 and remitted by the third-party service provider;
+29 (e) The gross income received for services of recreational vehicle
+30 parks;
+31 (f) The gross income received for labor for repair or maintenance
+-7-
+
+LB1244 LB1244
+2026 2026
+1 services performed with regard to tangible personal property the sale of
+2 which would be subject to sales and use taxes, excluding motor vehicles,
+3 except as otherwise provided in section 77-2704.26 or 77-2704.50;
+4 (g) The gross income received for animal specialty services and
+5 animal grooming services except (i) veterinary services and , (ii)
+6 specialty services or animal grooming services performed on livestock as
+7 defined in section 54-183 , and (iii) animal grooming performed by a
+8 licensed veterinarian or a licensed veterinary technician in conjunction
+9 with medical treatment; and
+10 (h) The gross income received for detective services; .
+11 (i) The gross income received for bail bonding services;
+12 (j) The gross income received for providing chartered flights;
+13 (k) The gross income received for check and debt collection
+14 services;
+15 (l) The gross income received for the cleaning of clothing,
+16 excluding any amounts exempt pursuant to section 77-2704.14;
+17 (m) The gross income received for conference bridging services;
+18 (n) The gross income received for providing credit information;
+19 (o) The gross income received for data processing services;
+20 (p) The gross income received for dating services;
+21 (q) The gross income received for services provided by employment
+22 agencies;
+23 (r) The gross income received for financial reporting services;
+24 (s) The gross income received for fishing and hunting guide
+25 services;
+26 (t) The gross income received for interior design and decorating
+27 services;
+28 (u) The gross income received for interstate telephone and telegraph
+29 services;
+30 (v) The gross income received for investment advising services;
+31 (w) The gross income received for labor to repair intrastate and
+-8-
+
+LB1244 LB1244
+2026 2026
+1 interstate vessels and railroad rolling stock;
+2 (x) The gross income received for land surveying services;
+3 (y) The gross income received for loan broker fees;
+4 (z) The gross income received for lobbying and consulting services;
+5 (aa) The gross income received for local passenger transportation by
+6 chartered road vehicles, including limousines and similar luxury
+7 vehicles;
+8 (bb) The gross income received for local taxi services;
+9 (cc) The gross income received for mainframe computer access and
+10 processing services;
+11 (dd) The gross income received for motor vehicle cleaning and repair
+12 services;
+13 (ee) The gross income received for nail care services, except for
+14 any such services that are part of a course of medical treatment and are
+15 provided by or under the care or supervision of a licensed health care
+16 practitioner or in a licensed health care facility;
+17 (ff) The gross income received for personal instruction services for
+18 dance, golf, or tennis;
+19 (gg) The gross income received for public relations and management
+20 consulting services;
+21 (hh) The gross income received from purchases by licensees of the
+22 State Racing and Gaming Commission;
+23 (ii) The gross income received for real estate management fees;
+24 (jj) The gross income received for secretarial and court reporting
+25 services;
+26 (kk) The gross income received for seismograph and geophysical
+27 services;
+28 (ll) The gross income received for shoeshine services;
+29 (mm) The gross income received for sightseeing services by ground
+30 vehicles;
+31 (nn) The gross income received for skin care services, except for
+-9-
+
+LB1244 LB1244
+2026 2026
+1 any such services that are part of a course of medical treatment and are
+2 provided by or under the care or supervision of a licensed health care
+3 practitioner or in a licensed health care facility;
+4 (oo) The gross income received for social escort services;
+5 (pp) The gross income from storage and moving services;
+6 (qq) The gross income received for tattoo and body modification
+7 services, except for any such services that are part of a course of
+8 medical treatment and are provided by or under the care or supervision of
+9 a licensed health care practitioner or in a licensed health care
+10 facility;
+11 (rr) The gross income received for telefloral delivery services
+12 defined as amounts received by florists in this state who make deliveries
+13 in this state pursuant to instructions received from florists in other
+14 states;
+15 (ss) The gross income received for telemarketing services;
+16 (tt) The gross income received for telephone answering services;
+17 (uu) The gross income received for test laboratory services, except
+18 for medical test laboratory services;
+19 (vv) The gross income received for tour operator services;
+20 (ww) The gross income received for travel agency services;
+21 (xx) The gross income received for water well drilling services;
+22 (yy) The gross income received for wedding planning services; and
+23 (zz) The gross income received for weight loss services, except for
+24 any such services that are part of a course of medical treatment and are
+25 provided by or under the care or supervision of a licensed health care
+26 practitioner or in a licensed health care facility.
+27 (5) Gross receipts includes the sale of admissions. When an
+28 admission to an activity or a membership constituting an admission is
+29 combined with the solicitation of a contribution, the portion or the
+30 amount charged representing the fair market price of the admission shall
+31 be considered a retail sale subject to the tax imposed by section
+-10-
+
+LB1244 LB1244
+2026 2026
+1 77-2703. The organization conducting the activity shall determine the
+2 amount properly attributable to the purchase of the privilege, benefit,
+3 or other consideration in advance, and such amount shall be clearly
+4 indicated on any ticket, receipt, or other evidence issued in connection
+5 with the payment.
+6 (6) Gross receipts includes the sale of live plants incorporated
+7 into real estate except when such incorporation is incidental to the
+8 transfer of an improvement upon real estate or the real estate.
+9 (7) Gross receipts includes the sale of any building materials
+10 annexed to real estate by a person electing to be taxed as a retailer
+11 pursuant to subdivision (1) of section 77-2701.10.
+12 (8) Gross receipts includes the sale of and recharge of prepaid
+13 calling service and prepaid wireless calling service.
+14 (9) Gross receipts includes the retail sale of digital audio works,
+15 digital audiovisual works, digital codes, and digital books delivered
+16 electronically if the products are taxable when delivered on tangible
+17 storage media. A sale includes the transfer of a permanent right of use,
+18 the transfer of a right of use that terminates on some condition, and the
+19 transfer of a right of use conditioned upon the receipt of continued
+20 payments.
+21 (10) Gross receipts includes any receipts from sales of tangible
+22 personal property made over a multivendor marketplace platform that acts
+23 as the intermediary by facilitating sales between a seller and the
+24 purchaser and that, either directly or indirectly through agreements or
+25 arrangements with third parties, collects payment from the purchaser and
+26 transmits payment to the seller.
+27 (11) Gross receipts does not include:
+28 (a) The amount of any rebate granted by a motor vehicle or motorboat
+29 manufacturer or dealer at the time of sale of the motor vehicle or
+30 motorboat, which rebate functions as a discount from the sales price of
+31 the motor vehicle or motorboat; or
+-11-
+
+LB1244 LB1244
+2026 2026
+1 (b) The price of property or services returned or rejected by
+2 customers when the full sales price is refunded either in cash or credit.
+3 Sec. 3. Section 77-2701.47, Reissue Revised Statutes of Nebraska, is
+4 amended to read:
+5 77-2701.47 (1) Manufacturing machinery and equipment means any
+6 machinery or equipment purchased, leased, or rented by a person engaged
+7 in the business of manufacturing for use in manufacturing, including, but
+8 not limited to:
+9 (a) Machinery or equipment for use in manufacturing to produce,
+10 fabricate, assemble, process, finish, refine, or package tangible
+11 personal property;
+12 (b) Machinery or equipment for use in transporting, conveying,
+13 handling, or storing by the manufacturer the raw materials or components
+14 to be used in manufacturing or the products produced by the manufacturer;
+15 (c) Molds and dies and the materials necessary to create molds and
+16 dies for use in manufacturing that determine the physical characteristics
+17 of the finished product or its packaging material, whether or not such
+18 molds or dies are permanent or temporary in nature, and including any
+19 chemicals, solutions, or catalysts utilized in the mold or die process
+20 even if such items are consumed during the course of the mold or die
+21 process;
+22 (c) (d) Machinery or equipment for use in manufacturing to maintain
+23 the integrity of the product or to maintain unique environmental
+24 conditions required for either the product or the machinery and equipment
+25 used in manufacturing by a manufacturer;
+26 (d) (e) Testing equipment for use in manufacturing to measure the
+27 quality of the finished product;
+28 (e) (f) Computers, software, and related peripheral equipment for
+29 use in manufacturing to guide, control, operate, or measure the
+30 manufacturing process;
+31 (f) (g) Machinery or equipment for use in manufacturing to produce
+-12-
+
+LB1244 LB1244
+2026 2026
+1 steam, electricity, or chemical catalysts and solutions that are
+2 essential to the manufacturing process even if such produced items are
+3 consumed during the course of the manufacturing process or do not become
+4 necessary or integral parts of the finished product; and
+5 (g) (h) A repair or replacement part or accessory purchased for use
+6 in maintaining, repairing, or refurbishing machinery and equipment used
+7 in manufacturing.
+8 (2) Manufacturing machinery and equipment does not include: Vehicles
+9 required to be registered for operation on the roads and highways of this
+10 state; hand tools; office equipment; and computers, software, and related
+11 peripheral equipment not used in guiding, controlling, operating, or
+12 measuring of the manufacturing process. Machinery or equipment does not
+13 need to come into direct physical contact with any of the raw materials,
+14 components, or products that are part of the manufacturing process to be
+15 considered manufacturing machinery or equipment.
+16 Sec. 4. Section 77-2704.36, Revised Statutes Cumulative Supplement,
+17 2024, is amended to read:
+18 77-2704.36 (1) Sales and use tax shall not be imposed on the gross
+19 receipts from the sale, lease, or rental of depreciable : (a) Depreciable
+20 agricultural machinery and equipment purchased, leased, or rented on or
+21 after January 1, 1993, for use in commercial agriculture. ; or
+22 (b) Net wrap, baling wire, and twine purchased for use in commercial
+23 agriculture.
+24 (2) For purposes of this section:
+25 (a) (a)(i) Agricultural machinery and equipment means tangible
+26 personal property that is used directly in (i) (A) cultivating or
+27 harvesting a crop, (ii) (B) raising or caring for animal life, (iii) (C)
+28 protecting the health and welfare of animal life, including fans,
+29 curtains, and climate control equipment within livestock buildings, or
+30 (iv) (D) collecting or processing an agricultural product on a farm or
+31 ranch, regardless of the degree of attachment to any real property; and
+-13-
+
+LB1244 LB1244
+2026 2026
+1 (b) (ii) Agricultural machinery and equipment includes, but is not
+2 limited to, header trailers, head haulers, header transports, and seed
+3 tender trailers and excludes any current tractor model as defined in
+4 section 2-2701.01 not permitted for sale in Nebraska pursuant to sections
+5 2-2701 to 2-2711. ;
+6 (b) Baling wire means wire used in the baling of livestock feed or
+7 bedding;
+8 (c) Net wrap means plastic wrap used in the baling of livestock feed
+9 or bedding; and
+10 (d) Twine means a strong string of two or more strands twisted
+11 together used in the baling of livestock feed or bedding.
+12 Sec. 5. Section 77-2716, Revised Statutes Supplement, 2025, is
+13 amended to read:
+14 77-2716 (1) The following adjustments to federal adjusted gross
+15 income or, for corporations and fiduciaries, federal taxable income shall
+16 be made for interest or dividends received:
+17 (a)(i) There shall be subtracted interest or dividends received by
+18 the owner of obligations of the United States and its territories and
+19 possessions or of any authority, commission, or instrumentality of the
+20 United States to the extent includable in gross income for federal income
+21 tax purposes but exempt from state income taxes under the laws of the
+22 United States; and
+23 (ii) There shall be subtracted interest received by the owner of
+24 obligations of the State of Nebraska or its political subdivisions or
+25 authorities which are Build America Bonds to the extent includable in
+26 gross income for federal income tax purposes;
+27 (b) There shall be subtracted that portion of the total dividends
+28 and other income received from a regulated investment company which is
+29 attributable to obligations described in subdivision (a) of this
+30 subsection as reported to the recipient by the regulated investment
+31 company;
+-14-
+
+LB1244 LB1244
+2026 2026
+1 (c) There shall be added interest or dividends received by the owner
+2 of obligations of the District of Columbia, other states of the United
+3 States, or their political subdivisions, authorities, commissions, or
+4 instrumentalities to the extent excluded in the computation of gross
+5 income for federal income tax purposes except that such interest or
+6 dividends shall not be added if received by a corporation which is a
+7 regulated investment company;
+8 (d) There shall be added that portion of the total dividends and
+9 other income received from a regulated investment company which is
+10 attributable to obligations described in subdivision (c) of this
+11 subsection and excluded for federal income tax purposes as reported to
+12 the recipient by the regulated investment company; and
+13 (e)(i) Any amount subtracted under this subsection shall be reduced
+14 by any interest on indebtedness incurred to carry the obligations or
+15 securities described in this subsection or the investment in the
+16 regulated investment company and by any expenses incurred in the
+17 production of interest or dividend income described in this subsection to
+18 the extent that such expenses, including amortizable bond premiums, are
+19 deductible in determining federal taxable income.
+20 (ii) Any amount added under this subsection shall be reduced by any
+21 expenses incurred in the production of such income to the extent
+22 disallowed in the computation of federal taxable income.
+23 (2) There shall be allowed a net operating loss derived from or
+24 connected with Nebraska sources computed under rules and regulations
+25 adopted and promulgated by the Tax Commissioner consistent, to the extent
+26 possible under the Nebraska Revenue Act of 1967, with the laws of the
+27 United States. For a resident individual, estate, or trust, the net
+28 operating loss computed on the federal income tax return shall be
+29 adjusted by the modifications contained in this section. For a
+30 nonresident individual, estate, or trust or for a partial-year resident
+31 individual, the net operating loss computed on the federal return shall
+-15-
+
+LB1244 LB1244
+2026 2026
+1 be adjusted by the modifications contained in this section and any
+2 carryovers or carrybacks shall be limited to the portion of the loss
+3 derived from or connected with Nebraska sources.
+4 (3) There shall be subtracted from federal adjusted gross income for
+5 all taxable years beginning on or after January 1, 1987, the amount of
+6 any state income tax refund to the extent such refund was deducted under
+7 the Internal Revenue Code, was not allowed in the computation of the tax
+8 due under the Nebraska Revenue Act of 1967, and is included in federal
+9 adjusted gross income.
+10 (4) Federal adjusted gross income, or, for a fiduciary, federal
+11 taxable income shall be modified to exclude the portion of the income or
+12 loss received from a small business corporation with an election in
+13 effect under subchapter S of the Internal Revenue Code or from a limited
+14 liability company organized pursuant to the Nebraska Uniform Limited
+15 Liability Company Act that is not derived from or connected with Nebraska
+16 sources as determined in section 77-2734.01.
+17 (5) There shall be subtracted from federal adjusted gross income or,
+18 for corporations and fiduciaries, federal taxable income dividends
+19 received or deemed to be received from corporations which are not subject
+20 to the Internal Revenue Code.
+21 (6) There shall be subtracted from federal taxable income a portion
+22 of the income earned by a corporation subject to the Internal Revenue
+23 Code of 1986 that is actually taxed by a foreign country or one of its
+24 political subdivisions at a rate in excess of the maximum federal tax
+25 rate for corporations. The taxpayer may make the computation for each
+26 foreign country or for groups of foreign countries. The portion of the
+27 taxes that may be deducted shall be computed in the following manner:
+28 (a) The amount of federal taxable income from operations within a
+29 foreign taxing jurisdiction shall be reduced by the amount of taxes
+30 actually paid to the foreign jurisdiction that are not deductible solely
+31 because the foreign tax credit was elected on the federal income tax
+-16-
+
+LB1244 LB1244
+2026 2026
+1 return;
+2 (b) The amount of after-tax income shall be divided by one minus the
+3 maximum tax rate for corporations in the Internal Revenue Code; and
+4 (c) The result of the calculation in subdivision (b) of this
+5 subsection shall be subtracted from the amount of federal taxable income
+6 used in subdivision (a) of this subsection. The result of such
+7 calculation, if greater than zero, shall be subtracted from federal
+8 taxable income.
+9 (7) Federal adjusted gross income shall be modified to exclude any
+10 amount repaid by the taxpayer for which a reduction in federal tax is
+11 allowed under section 1341(a)(5) of the Internal Revenue Code.
+12 (8)(a) Federal adjusted gross income or, for corporations and
+13 fiduciaries, federal taxable income shall be reduced, to the extent
+14 included, by income from interest, earnings, and state contributions
+15 received from the Nebraska educational savings plan trust as provided in
+16 sections 77-1415 to 77-1430 and any account established under the
+17 achieving a better life experience program as provided in sections
+18 77-1401 to 77-1409.
+19 (b) Federal adjusted gross income or, for corporations and
+20 fiduciaries, federal taxable income shall be reduced by any contributions
+21 as a participant in the Nebraska educational savings plan trust, any
+22 contributions to an account established under the achieving a better life
+23 experience program made for the benefit of a beneficiary as provided in
+24 sections 77-1401 to 77-1409, or any contributions to the Give to Enable
+25 Support Cash Fund as provided in the Give to Enable Support Act, to the
+26 extent not deducted for federal income tax purposes, but not to exceed
+27 five thousand dollars per married filing separate return or ten thousand
+28 dollars for any other return. With respect to a qualified rollover within
+29 the meaning of section 529 of the Internal Revenue Code from another
+30 state's plan, any interest, earnings, and state contributions received
+31 from the other state's educational savings plan which is qualified under
+-17-
+
+LB1244 LB1244
+2026 2026
+1 section 529 of the code shall qualify for the reduction provided in this
+2 subdivision. For contributions by a custodian of a custodial account
+3 including rollovers from another custodial account, the reduction shall
+4 only apply to funds added to the custodial account after January 1, 2014.
+5 (c) For taxable years beginning or deemed to begin on or after
+6 January 1, 2021, under the Internal Revenue Code of 1986, as amended,
+7 federal adjusted gross income shall be reduced, to the extent included in
+8 the adjusted gross income of an individual, by the amount of any
+9 contribution made by the individual's employer into an account under the
+10 Nebraska educational savings plan trust owned by the individual, not to
+11 exceed five thousand dollars per married filing separate return or ten
+12 thousand dollars for any other return.
+13 (d) Federal adjusted gross income or, for corporations and
+14 fiduciaries, federal taxable income shall be increased by:
+15 (i) The amount resulting from the cancellation of a participation
+16 agreement refunded to the taxpayer as a participant in the Nebraska
+17 educational savings plan trust to the extent previously deducted under
+18 subdivision (8)(b) of this section; and
+19 (ii) The amount of any withdrawals by the owner of an account
+20 established under the achieving a better life experience program as
+21 provided in sections 77-1401 to 77-1409 for nonqualified expenses to the
+22 extent previously deducted under subdivision (8)(b) of this section.
+23 (9)(a) For income tax returns filed after September 10, 2001, for
+24 taxable years beginning or deemed to begin before January 1, 2006, under
+25 the Internal Revenue Code of 1986, as amended, federal adjusted gross
+26 income or, for corporations and fiduciaries, federal taxable income shall
+27 be increased by eighty-five percent of any amount of any federal bonus
+28 depreciation received under the federal Job Creation and Worker
+29 Assistance Act of 2002 or the federal Jobs and Growth Tax Act of 2003,
+30 under section 168(k) or section 1400L of the Internal Revenue Code of
+31 1986, as amended, for assets placed in service after September 10, 2001,
+-18-
+
+LB1244 LB1244
+2026 2026
+1 and before December 31, 2005.
+2 (b) For a partnership, limited liability company, cooperative,
+3 including any cooperative exempt from income taxes under section 521 of
+4 the Internal Revenue Code of 1986, as amended, limited cooperative
+5 association, subchapter S corporation, or joint venture, the increase
+6 shall be distributed to the partners, members, shareholders, patrons, or
+7 beneficiaries in the same manner as income is distributed for use against
+8 their income tax liabilities.
+9 (c) For a corporation with a unitary business having activity both
+10 inside and outside the state, the increase shall be apportioned to
+11 Nebraska in the same manner as income is apportioned to the state by
+12 section 77-2734.05.
+13 (d) The amount of bonus depreciation added to federal adjusted gross
+14 income or, for corporations and fiduciaries, federal taxable income by
+15 this subsection shall be subtracted in a later taxable year. Twenty
+16 percent of the total amount of bonus depreciation added back by this
+17 subsection for tax years beginning or deemed to begin before January 1,
+18 2003, under the Internal Revenue Code of 1986, as amended, may be
+19 subtracted in the first taxable year beginning or deemed to begin on or
+20 after January 1, 2005, under the Internal Revenue Code of 1986, as
+21 amended, and twenty percent in each of the next four following taxable
+22 years. Twenty percent of the total amount of bonus depreciation added
+23 back by this subsection for tax years beginning or deemed to begin on or
+24 after January 1, 2003, may be subtracted in the first taxable year
+25 beginning or deemed to begin on or after January 1, 2006, under the
+26 Internal Revenue Code of 1986, as amended, and twenty percent in each of
+27 the next four following taxable years.
+28 (10) For taxable years beginning or deemed to begin on or after
+29 January 1, 2003, and before January 1, 2006, under the Internal Revenue
+30 Code of 1986, as amended, federal adjusted gross income or, for
+31 corporations and fiduciaries, federal taxable income shall be increased
+-19-
+
+LB1244 LB1244
+2026 2026
+1 by the amount of any capital investment that is expensed under section
+2 179 of the Internal Revenue Code of 1986, as amended, that is in excess
+3 of twenty-five thousand dollars that is allowed under the federal Jobs
+4 and Growth Tax Act of 2003. Twenty percent of the total amount of
+5 expensing added back by this subsection for tax years beginning or deemed
+6 to begin on or after January 1, 2003, may be subtracted in the first
+7 taxable year beginning or deemed to begin on or after January 1, 2006,
+8 under the Internal Revenue Code of 1986, as amended, and twenty percent
+9 in each of the next four following tax years.
+10 (11)(a) For taxable years beginning or deemed to begin before
+11 January 1, 2018, under the Internal Revenue Code of 1986, as amended,
+12 federal adjusted gross income shall be reduced by contributions, up to
+13 two thousand dollars per married filing jointly return or one thousand
+14 dollars for any other return, and any investment earnings made as a
+15 participant in the Nebraska long-term care savings plan under the Long-
+16 Term Care Savings Plan Act, to the extent not deducted for federal income
+17 tax purposes.
+18 (b) For taxable years beginning or deemed to begin before January 1,
+19 2018, under the Internal Revenue Code of 1986, as amended, federal
+20 adjusted gross income shall be increased by the withdrawals made as a
+21 participant in the Nebraska long-term care savings plan under the act by
+22 a person who is not a qualified individual or for any reason other than
+23 transfer of funds to a spouse, long-term care expenses, long-term care
+24 insurance premiums, or death of the participant, including withdrawals
+25 made by reason of cancellation of the participation agreement, to the
+26 extent previously deducted as a contribution or as investment earnings.
+27 (12) There shall be added to federal adjusted gross income for
+28 individuals, estates, and trusts any amount taken as a credit for
+29 franchise tax paid by a financial institution under sections 77-3801 to
+30 77-3807 as allowed by subsection (5) of section 77-2715.07.
+31 (13)(a) For taxable years beginning or deemed to begin on or after
+-20-
+
+LB1244 LB1244
+2026 2026
+1 January 1, 2015, and before January 1, 2024, under the Internal Revenue
+2 Code of 1986, as amended, federal adjusted gross income shall be reduced
+3 by the amount received as benefits under the federal Social Security Act
+4 which are included in the federal adjusted gross income if:
+5 (i) For taxpayers filing a married filing joint return, federal
+6 adjusted gross income is fifty-eight thousand dollars or less; or
+7 (ii) For taxpayers filing any other return, federal adjusted gross
+8 income is forty-three thousand dollars or less.
+9 (b) For taxable years beginning or deemed to begin on or after
+10 January 1, 2020, and before January 1, 2024, under the Internal Revenue
+11 Code of 1986, as amended, the Tax Commissioner shall adjust the dollar
+12 amounts provided in subdivisions (13)(a)(i) and (ii) of this section by
+13 the same percentage used to adjust individual income tax brackets under
+14 subsection (3) of section 77-2715.03.
+15 (c) For taxable years beginning or deemed to begin on or after
+16 January 1, 2021, and before January 1, 2024, under the Internal Revenue
+17 Code of 1986, as amended, a taxpayer may claim the reduction to federal
+18 adjusted gross income allowed under this subsection or the reduction to
+19 federal adjusted gross income allowed under subsection (14) of this
+20 section, whichever provides the greater reduction.
+21 (14)(a) For taxable years beginning or deemed to begin on or after
+22 January 1, 2021, under the Internal Revenue Code of 1986, as amended,
+23 federal adjusted gross income shall be reduced by a percentage of the
+24 social security benefits that are received and included in federal
+25 adjusted gross income. The pertinent percentage shall be:
+26 (i) Five percent for taxable years beginning or deemed to begin on
+27 or after January 1, 2021, and before January 1, 2022, under the Internal
+28 Revenue Code of 1986, as amended;
+29 (ii) Forty percent for taxable years beginning or deemed to begin on
+30 or after January 1, 2022, and before January 1, 2023, under the Internal
+31 Revenue Code of 1986, as amended;
+-21-
+
+LB1244 LB1244
+2026 2026
+1 (iii) Sixty percent for taxable years beginning or deemed to begin
+2 on or after January 1, 2023, and before January 1, 2024, under the
+3 Internal Revenue Code of 1986, as amended; and
+4 (iv) One hundred percent for taxable years beginning or deemed to
+5 begin on or after January 1, 2024, under the Internal Revenue Code of
+6 1986, as amended.
+7 (b) For purposes of this subsection, social security benefits means
+8 benefits received under the federal Social Security Act.
+9 (c) For taxable years beginning or deemed to begin on or after
+10 January 1, 2021, and before January 1, 2024, under the Internal Revenue
+11 Code of 1986, as amended, a taxpayer may claim the reduction to federal
+12 adjusted gross income allowed under this subsection or the reduction to
+13 federal adjusted gross income allowed under subsection (13) of this
+14 section, whichever provides the greater reduction.
+15 (15)(a) For taxable years beginning or deemed to begin on or after
+16 January 1, 2015, and before January 1, 2022, under the Internal Revenue
+17 Code of 1986, as amended, an individual may make a one-time election
+18 within two calendar years after the date of his or her retirement from
+19 the military to exclude income received as a military retirement benefit
+20 by the individual to the extent included in federal adjusted gross income
+21 and as provided in this subdivision. The individual may elect to exclude
+22 forty percent of his or her military retirement benefit income for seven
+23 consecutive taxable years beginning with the year in which the election
+24 is made or may elect to exclude fifteen percent of his or her military
+25 retirement benefit income for all taxable years beginning with the year
+26 in which he or she turns sixty-seven years of age.
+27 (b) For taxable years beginning or deemed to begin on or after
+28 January 1, 2022, under the Internal Revenue Code of 1986, as amended, an
+29 individual may exclude one hundred percent of the military retirement
+30 benefit income received by such individual to the extent included in
+31 federal adjusted gross income.
+-22-
+
+LB1244 LB1244
+2026 2026
+1 (c) For purposes of this subsection, military retirement benefit
+2 means retirement benefits that are periodic payments attributable to
+3 service in the uniformed services of the United States for personal
+4 services performed by an individual prior to his or her retirement. The
+5 term includes retirement benefits described in this subdivision that are
+6 reported to the individual on either:
+7 (i) An Internal Revenue Service Form 1099-R received from the United
+8 States Department of Defense; or
+9 (ii) An Internal Revenue Service Form 1099-R received from the
+10 United States Office of Personnel Management.
+11 (16) For taxable years beginning or deemed to begin on or after
+12 January 1, 2021, under the Internal Revenue Code of 1986, as amended,
+13 federal adjusted gross income shall be reduced by the amount received as
+14 a Segal AmeriCorps Education Award, to the extent such amount is included
+15 in federal adjusted gross income.
+16 (17) For taxable years beginning or deemed to begin on or after
+17 January 1, 2022, under the Internal Revenue Code of 1986, as amended,
+18 federal adjusted gross income shall be reduced by the amount received by
+19 or on behalf of a firefighter for cancer benefits under the Firefighter
+20 Cancer Benefits Act to the extent included in federal adjusted gross
+21 income.
+22 (18) There shall be subtracted from the federal adjusted gross
+23 income of individuals any amount received by the individual as student
+24 loan repayment assistance under the Teach in Nebraska Today Act, to the
+25 extent such amount is included in federal adjusted gross income.
+26 (19) For taxable years beginning or deemed to begin on or after
+27 January 1, 2023, under the Internal Revenue Code of 1986, as amended, a
+28 retired individual who was employed full time as a firefighter or
+29 certified law enforcement officer for at least twenty years and who is at
+30 least sixty years of age as of the end of the taxable year may reduce his
+31 or her federal adjusted gross income by the amount of health insurance
+-23-
+
+LB1244 LB1244
+2026 2026
+1 premiums paid by such individual during the taxable year, to the extent
+2 such premiums were not already deducted in determining the individual's
+3 federal adjusted gross income.
+4 (20) For taxable years beginning or deemed to begin on or after
+5 January 1, 2024, under the Internal Revenue Code of 1986, as amended, an
+6 individual may reduce his or her federal adjusted gross income by the
+7 amounts received as annuities under the Civil Service Retirement System
+8 which were earned for being employed by the federal government, to the
+9 extent such amounts are included in federal adjusted gross income.
+10 (21) For taxable years beginning or deemed to begin on or after
+11 January 1, 2025, under the Internal Revenue Code of 1986, as amended, an
+12 individual who is a member of the Nebraska National Guard may exclude one
+13 hundred percent of the income received from any of the following sources
+14 to the extent such income is included in the individual's federal
+15 adjusted gross income:
+16 (a) Serving in a 32 U.S.C. duty status such as members attending
+17 drills, annual training, and military schools and members who are serving
+18 in a 32 U.S.C. active guard reserve or active duty for operational
+19 support duty status;
+20 (b) Employment as a 32 U.S.C. federal dual-status technician with
+21 the Nebraska National Guard; or
+22 (c) Serving in a state active duty status.
+23 (22)(a) For taxable years beginning or deemed to begin on or after
+24 January 1, 2024, under the Internal Revenue Code of 1986, as amended, an
+25 individual may reduce his or her federal adjusted gross income by the
+26 amount of interest and principal balance of medical debt discharged under
+27 the Medical Debt Relief Act, to the extent included in such individual's
+28 federal adjusted gross income.
+29 (b) For taxable years beginning or deemed to begin on or after
+30 January 1, 2024, under the Internal Revenue Code of 1986, as amended,
+31 federal adjusted gross income or, for corporations and fiduciaries,
+-24-
+
+LB1244 LB1244
+2026 2026
+1 federal taxable income shall be reduced by the amount of contributions
+2 made to the Medical Debt Relief Fund, to the extent not deducted for
+3 federal income tax purposes.
+4 (23) For taxable years beginning or deemed to begin on or after
+5 January 1, 2025, under the Internal Revenue Code of 1986, as amended, an
+6 individual who is a qualifying employee as defined in section 77-3108 may
+7 reduce his or her federal adjusted gross income by the amount allowed
+8 under section 77-3111.
+9 (24) For taxable years beginning or deemed to begin on or after
+10 January 1, 2026, under the Internal Revenue Code of 1986, as amended,
+11 federal adjusted gross income or, for corporations and fiduciaries,
+12 federal taxable income shall be reduced by the amounts allowed to be
+13 deducted pursuant to section 77-27,242.
+14 (25) There shall be added to federal adjusted gross income or, for
+15 corporations and fiduciaries, federal taxable income for all taxable
+16 years beginning on or after January 1, 2025, the amount of any net
+17 capital loss that is derived from the sale or exchange of gold or silver
+18 bullion to the extent such loss is included in federal adjusted gross
+19 income except that such loss shall not be added if the loss is derived
+20 from the sale of bullion as a taxable distribution from any retirement
+21 plan account that holds gold or silver bullion. For the purposes of this
+22 subsection, bullion means coins, bars, ingots, notes, leaf, foil, film,
+23 or commemorative medallions of gold, silver, platinum, or palladium, or a
+24 combination of these, for which the value depends primarily on its
+25 content and not the form has the same meaning as in section 77-2704.66.
+26 (26) There shall be subtracted from federal adjusted gross income
+27 or, for corporations and fiduciaries, federal taxable income for all
+28 taxable years beginning on or after January 1, 2025, the amount of any
+29 net capital gain that is derived from the sale or exchange of gold or
+30 silver bullion to the extent such gain is included in federal adjusted
+31 gross income except that such gain shall not be subtracted if the gain is
+-25-
+
+LB1244 LB1244
+2026 2026
+1 derived from the sale of bullion as a taxable distribution from any
+2 retirement plan account that holds gold or silver bullion. For the
+3 purposes of this subsection, bullion means coins, bars, ingots, notes,
+4 leaf, foil, film, or commemorative medallions of gold, silver, platinum,
+5 or palladium, or a combination of these, for which the value depends
+6 primarily on its content and not the form has the same meaning as in
+7 section 77-2704.66.
+8 Sec. 6. Section 77-2912, Revised Statutes Cumulative Supplement,
+9 2024, is amended to read:
+10 77-2912 There shall be no new applications filed under the Nebraska
+11 Job Creation and Mainstreet Revitalization Act after June 30, 2026
+12 December 31, 2030. All applications and all credits pending or approved
+13 before such date shall continue in full force and effect, except that no
+14 credits shall be allocated under section 77-2905, issued under section
+15 77-2906, or used on any tax return or similar filing after December 31,
+16 2035.
+17 Sec. 7. Section 77-3005, Revised Statutes Cumulative Supplement,
+18 2024, is amended to read:
+19 77-3005 (1) The occupation tax levied and imposed by the Mechanical
+20 Amusement Device Tax Act shall be in addition to any and all taxes or
+21 fees, of any form whatsoever, now imposed by the State of Nebraska upon
+22 the business of operating or distributing mechanical amusement devices,
+23 including sales and use tax on the gross receipts from the operation of
+24 mechanical amusement devices except that payment of the tax and license
+25 fees due and owing on or before the licensing date of each year shall
+26 exempt any such mechanical amusement device from the application of the
+27 sales tax which would or could otherwise be imposed under the Nebraska
+28 Revenue Act of 1967. Nonpayment of the taxes or fees due and owing on or
+29 before the licensing date of each year shall render the exemption
+30 provided by this section inapplicable, and the particular mechanical
+31 amusement devices shall then be subject to all the provisions of the
+-26-
+
+LB1244 LB1244
+2026 2026
+1 Nebraska Revenue Act of 1967, including the penalty provisions pertaining
+2 to the distributor or operator of such mechanical amusement devices.
+3 (2) No political subdivision of the State of Nebraska shall levy or
+4 impose any tax on mechanical amusement devices in addition to the taxes
+5 imposed by the Mechanical Amusement Device Tax Act, except for local
+6 option sales and use taxes.
+7 Sec. 8. Sections 6 and 9 of this act become operative on June 30,
+8 2026. Sections 1, 2, 3, 4, 5, 7, 10, and 11 of this act become operative
+9 on October 1, 2026. The other sections of this act become operative on
+10 their effective date.
+11 Sec. 9. Original section 77-2912, Revised Statutes Cumulative
+12 Supplement, 2024, is repealed.
+13 Sec. 10. Original section 77-2701.47, Reissue Revised Statutes of
+14 Nebraska, sections 77-382, 77-2704.36, and 77-3005, Revised Statutes
+15 Cumulative Supplement, 2024, and sections 77-2701.16 and 77-2716, Revised
+16 Statutes Supplement, 2025, are repealed.
+17 Sec. 11. The following sections are outright repealed: Sections
+18 77-2704.55, 77-2704.60, and 77-2704.67, Reissue Revised Statutes of
+19 Nebraska, and section 77-2704.66, Revised Statutes Cumulative Supplement,
+20 2024.
+21 Sec. 12. Since an emergency exists, this act takes effect when
+22 passed and approved according to law.
+-27-

@@ -1,0 +1,426 @@
+Title: 
+Official Title: 
+Source: versions - Final Reading
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LB668 LB668
+2026 2026
+LEGISLATURE OF NEBRASKA
+ONE HUNDRED NINTH LEGISLATURE
+SECOND SESSION
+LEGISLATIVE BILL 668
+FINAL READING
+Introduced by Storer, 43; Ibach, 44; Lippincott, 34.
+Read first time January 22, 2025
+Committee: Health and Human Services
+1 A BILL FOR AN ACT relating to the Department of Health and Human
+2 Services; to amend sections 28-374.01 and 28-720, Reissue Revised
+3 Statutes of Nebraska, sections 28-712 and 28-718, Revised Statutes
+4 Cumulative Supplement, 2024, and sections 28-710 and 28-713.01,
+5 Revised Statutes Supplement, 2025; to change provisions relating to
+6 the Adult Protective Services Central Registry; to define and
+7 redefine terms; to change provisions relating to the Child
+8 Protection and Family Safety Act; and to repeal the original
+9 sections.
+10 Be it enacted by the people of the State of Nebraska,
+-1-
+
+LB668 LB668
+2026 2026
+1 Section 1. Section 28-374.01, Reissue Revised Statutes of Nebraska,
+2 is amended to read:
+3 28-374.01 (1) Upon completion of the investigation pursuant to
+4 sections 28-373 and 28-374, the person who allegedly abused, neglected,
+5 or exploited a vulnerable adult shall be given written notice of the
+6 determination of the investigation and whether the person who allegedly
+7 abused, neglected, or exploited a vulnerable adult will be entered into
+8 the registry. No person shall be entered on the registry without first
+9 being notified of the right to contest the determination. If a proper
+10 request for appeal is made by the subject pursuant to this section, the
+11 subject shall not be entered on the registry until a final order is
+12 issued by the department.
+13 (2) If the person who allegedly abused, neglected, or exploited a
+14 vulnerable adult will be entered into the registry, the notice shall be
+15 sent prior to the entry of the subject's name on the registry, by
+16 certified mail with return receipt requested or first-class mail to the
+17 last-known address of the person who allegedly abused, neglected, or
+18 exploited a vulnerable adult and shall include:
+19 (a) The nature of the report;
+20 (b) The classification of the report; and
+21 (c) The right of the person who allegedly abused, neglected, or
+22 exploited a vulnerable adult to request: (i) The the department to amend
+23 or expunge identifying information from the report; (ii) an appeal within
+24 fourteen calendar days after the date of the notice of the department's
+25 determination is sent to the person who allegedly abused, neglected, or
+26 exploited a vulnerable adult; and (iii) the department or to remove the
+27 substantiated report from the registry in accordance with section 28-380.
+28 (3) If the person who allegedly abused, neglected, or exploited a
+29 vulnerable adult will not be entered into the registry, the notice shall
+30 be sent by first-class mail and shall include:
+31 (a) The nature of the report; and
+-2-
+
+LB668 LB668
+2026 2026
+1 (b) The classification of the report.
+2 Sec. 2. Section 28-710, Revised Statutes Supplement, 2025, is
+3 amended to read:
+4 28-710 (1) Sections 28-710 to 28-727 shall be known and may be cited
+5 as the Child Protection and Family Safety Act.
+6 (2) For purposes of the Child Protection and Family Safety Act:
+7 (a) Alternative response means a comprehensive assessment of (i)
+8 child safety, (ii) the risk of future child abuse or neglect, (iii)
+9 family strengths and needs, and (iv) the provision of or referral for
+10 necessary services and support. Alternative response is an alternative to
+11 traditional response and does not include an investigation or a formal
+12 determination as to whether child abuse or neglect has occurred, and the
+13 subject of the report shall not be entered into the central registry of
+14 child protection cases maintained pursuant to section 28-718;
+15 (b) Child abuse or neglect means knowingly, intentionally, or
+16 negligently causing or permitting a minor child to be:
+17 (i) Placed in a situation that endangers his or her life or physical
+18 or mental health;
+19 (ii) Cruelly confined or cruelly punished;
+20 (iii) Deprived of necessary food, clothing, shelter, or care;
+21 (iv) Left unattended in a motor vehicle if such minor child is six
+22 years of age or younger;
+23 (v) Placed in a situation to be sexually abused;
+24 (vi) Placed in a situation to be sexually exploited through sex
+25 trafficking of a minor as defined in section 28-830 or by allowing,
+26 encouraging, or forcing such person to engage in debauchery, public
+27 indecency, or obscene or pornographic photography, films, or depictions;
+28 or
+29 (vii) Placed in a situation to be a trafficking victim as defined in
+30 section 28-830;
+31 (c) Child advocacy center means a community-based organization that
+-3-
+
+LB668 LB668
+2026 2026
+1 (i) provides an appropriate site for conducting forensic interviews as
+2 defined in section 28-728 and referring victims of child abuse or neglect
+3 and appropriate caregivers for such victims to needed evaluation,
+4 services, and supports, (ii) assists county attorneys in facilitating
+5 case reviews, developing and updating protocols, and arranging training
+6 opportunities for the teams established pursuant to sections 28-728 and
+7 28-729, and (iii) is a member, in good standing, of a state chapter as
+8 defined in 34 U.S.C. 20302;
+9 (d) Comprehensive assessment means an analysis of child safety, risk
+10 of future child abuse or neglect, and family strengths and needs on a
+11 report of child abuse or neglect using an evidence-informed and validated
+12 tool. Comprehensive assessment does not include a finding as to whether
+13 the child abuse or neglect occurred but does determine the need for
+14 services and support, if any, to address the safety of children and the
+15 risk of future abuse or neglect;
+16 (e) Department means the Department of Health and Human Services;
+17 (f) Investigation means fact gathering by the department, using an
+18 evidence-informed and validated tool, or by law enforcement related to
+19 the current safety of a child and the risk of future child abuse or
+20 neglect that determines whether child abuse or neglect has occurred and
+21 whether child protective services are needed;
+22 (g) Kin caregiver means a person with whom a child in foster care
+23 has been placed or with whom a child is residing pursuant to a temporary
+24 living arrangement in a non-court-involved case, who has previously lived
+25 with or is a trusted adult that has a preexisting, significant
+26 relationship with the child or with a sibling of such child placed
+27 pursuant to section 43-1311.02;
+28 (h) Law enforcement agency means the police department or town
+29 marshal in incorporated municipalities, the office of the sheriff in
+30 unincorporated areas, and the Nebraska State Patrol;
+31 (i) Member of a military family means an individual who is:
+-4-
+
+LB668 LB668
+2026 2026
+1 (i) Serving active duty service in the armed forces of the United
+2 States, including any reserve component or the National Guard; or
+3 (ii) Is a dependent, as defined in 50 U.S.C. 3911, of a person
+4 described in subdivision (2)(i)(i) of this section;
+5 (j) Non-court-involved case means an ongoing case opened by the
+6 department following a report of child abuse or neglect in which the
+7 department has determined that ongoing services are required to maintain
+8 the safety of a child or alleviate the risk of future abuse or neglect
+9 and in which the family voluntarily engages in child protective services
+10 without a filing in a juvenile court. A non-court-involved case does not
+11 include a prevention case;
+12 (k) Out-of-home child abuse or neglect means child abuse or neglect
+13 occurring outside of a child's family home, including in day care homes,
+14 foster homes, day care centers, residential child-caring agencies as
+15 defined in section 71-1926, other child care facilities or institutions,
+16 and the community. Out-of-home child abuse or neglect also includes cases
+17 in which the subject of the report of child abuse or neglect is not a
+18 member of the child's household, no longer has access to the child, is
+19 unknown, or cannot be identified;
+20 (l)(i) Prevention case means a case in which (A) at least one
+21 juvenile in the home meets the definition of a candidate for foster care
+22 as outlined in the department's prevention plan submitted and approved
+23 pursuant to section 471(e)(4) of the federal Family First Prevention
+24 Services Act; (B) ongoing child welfare services are not required to
+25 maintain the safety of a child; and (C) the family voluntarily engages in
+26 prevention services through community resources.
+27 (ii) A prevention case does not include a case where the home has an
+28 ongoing: (A) Juvenile court case pursuant to subdivision (3)(a) or (3)(c)
+29 of section 43-247; (B) alternative response case with the department; or
+30 (C) non-court-involved case with the department. A prevention case is not
+31 a noncourt or voluntary case as described in section 68-1212;
+-5-
+
+LB668 LB668
+2026 2026
+1 (m) Prevention services means community support services including,
+2 but not limited to, mental health and substance abuse prevention and
+3 treatment services, in-home parent skill-based programs, and kinship
+4 navigator services. The department shall use community funding sources
+5 when available;
+6 (n) (l) Relative caregiver means a person with whom a child is
+7 placed by the department and who is related to the child, or to a sibling
+8 of such child pursuant to section 43-1311.02, by blood, marriage, or
+9 adoption or, in the case of an Indian child, is an extended family member
+10 as defined in section 43-1503;
+11 (o) (m) Report means any communication received by the department or
+12 a law enforcement agency pursuant to the Child Protection and Family
+13 Safety Act that describes child abuse or neglect and contains sufficient
+14 content to identify the child who is the alleged victim of child abuse or
+15 neglect;
+16 (p) (n) Review, Evaluate, and Decide Team means an internal team of
+17 staff within the department and shall include no fewer than two
+18 supervisors or administrators and two staff members knowledgeable on the
+19 policies and practices of the department, including, but not limited to,
+20 the structured review process. County attorneys, child advocacy centers,
+21 or law enforcement agency personnel may attend team reviews upon request
+22 of a party;
+23 (q) (o) School employee means a person nineteen years of age or
+24 older who is employed by a public, private, denominational, or parochial
+25 school approved or accredited by the State Department of Education;
+26 (r) (p) Student means a person less than nineteen years of age
+27 enrolled in or attending a public, private, denominational, or parochial
+28 school approved or accredited by the State Department of Education, or
+29 who was such a person enrolled in or who attended such a school within
+30 ninety days of any violation of section 28-316.01;
+31 (s) (q) Traditional response means an investigation by a law
+-6-
+
+LB668 LB668
+2026 2026
+1 enforcement agency or the department pursuant to section 28-713 which
+2 requires a formal determination of whether child abuse or neglect has
+3 occurred; and
+4 (t) (r) Subject of the report of child abuse or neglect or subject
+5 of the report means the person or persons identified in the report as
+6 responsible for the child abuse or neglect.
+7 Sec. 3. Section 28-712, Revised Statutes Cumulative Supplement,
+8 2024, is amended to read:
+9 28-712 (1) Upon receipt of a report pursuant to section 28-711, the
+10 department shall determine whether to (a) accept the report for
+11 traditional response and an investigation pursuant to section 28-713, (b)
+12 accept the report for alternative response pursuant to section 28-712.01,
+13 (c) accept the report for screening by the Review, Evaluate, and Decide
+14 Team to determine eligibility for alternative response, or (d) classify
+15 the report as requiring no further action by the department. If the
+16 department classifies the report as requiring no further action, the
+17 department may provide the family with information about prevention
+18 services provided through community resources to assist the family with
+19 concerns alleged in the report and refer the family for a prevention
+20 case. If, after completing a traditional response investigation, the
+21 department determines no further action will be taken by the department,
+22 the department may refer the family for a prevention case.
+23 (2)(a) The Nebraska Children's Commission shall appoint an advisory
+24 committee to examine the department's alternative response to reports of
+25 child abuse or neglect and to make recommendations to the Legislature,
+26 the department, and the commission regarding (i) the receipt and
+27 screening of reports of child abuse or neglect by the department, (ii)
+28 the ongoing use of alternative response, (iii) the ongoing use of
+29 traditional response, and (iv) the provision of services within
+30 alternative response and non-court-involved cases to ensure child safety,
+31 to reduce the risk of child abuse or neglect, and to engage families. The
+-7-
+
+LB668 LB668
+2026 2026
+1 advisory committee may request, receive, and review data from the
+2 department regarding such processes.
+3 (b) The members of the advisory committee shall include, but not be
+4 limited to, a representative of (i) the department, (ii) law enforcement
+5 agencies, (iii) county attorneys or other prosecutors, (iv) the state
+6 chapter of child advocacy centers as defined in 34 U.S.C. 20302, (v)
+7 attorneys for parents, (vi) guardians ad litem, (vii) a child welfare
+8 advocacy organization, (viii) families with experience in the child
+9 welfare system, (ix) family caregivers, (x) the Foster Care Review
+10 Office, and (xi) the office of Inspector General of Nebraska Child
+11 Welfare. Members of the advisory committee shall be appointed for terms
+12 of two years. The Nebraska Children's Commission shall appoint the
+13 chairperson of the advisory committee and may fill vacancies on the
+14 advisory committee as they occur.
+15 (3) The department shall adopt and promulgate rules and regulations
+16 to carry out this section and sections 28-710.01, 28-712.01, and 28-713.
+17 Such rules and regulations shall include, but not be limited to,
+18 provisions on (a) the transfer of cases from alternative response to
+19 traditional response, (b) notice to families subject to a comprehensive
+20 assessment and served through alternative response of the alternative
+21 response process and their rights, including the opportunity to challenge
+22 agency determinations, (c) the provision of services through alternative
+23 response, and (d) the collection, sharing, and reporting of data.
+24 Sec. 4. Section 28-713.01, Revised Statutes Supplement, 2025, is
+25 amended to read:
+26 28-713.01 (1) Upon completion of the investigation pursuant to
+27 section 28-713:
+28 (a) In situations of alleged out-of-home child abuse or neglect, the
+29 person or persons having custody of the allegedly abused or neglected
+30 child or children shall be given written notice of the results of the
+31 investigation and any other information the law enforcement agency or
+-8-
+
+LB668 LB668
+2026 2026
+1 department deems necessary. Such notice and information shall be sent by
+2 first-class mail;
+3 (b) Prior to the entry of the subject's name on the central registry
+4 of child protection cases maintained pursuant to section 28-718, the The
+5 subject of the report of child abuse or neglect shall be given written
+6 notice of the determination of the case and whether the subject of the
+7 report of child abuse or neglect will be entered into the central
+8 registry of child protection cases maintained pursuant to section 28-718
+9 under the criteria provided in section 28-720;
+10 (c) If the subject of the report of child abuse or neglect is a
+11 school employee and the child is a student in the school to which such
+12 school employee is assigned for work, the notice described in subdivision
+13 (1)(b) of this section shall also be sent to the Commissioner of
+14 Education; and
+15 (d) If the subject of the report of child abuse or neglect is a
+16 member of a military family, the notice described in subdivision (1)(b)
+17 of this section shall also be sent to the appropriate military
+18 installation as provided in section 28-712.02.
+19 (2) If the subject of the report will be entered into the central
+20 registry, the notice to the subject shall be sent by certified mail with
+21 return receipt requested or first-class mail to the last-known address of
+22 the subject of the report of child abuse or neglect and shall include:
+23 (a) The nature of the report;
+24 (b) The classification of the report under section 28-720;
+25 (c) Notification of the right of the subject of the report of child
+26 abuse or neglect to request: (i) An appeal within fourteen calendar days
+27 after the date of the notice of the department's determination is sent to
+28 the person who allegedly abused or neglected a child and (ii) the
+29 department to amend or expunge identifying information from the report or
+30 to remove the substantiated report from the central registry in
+31 accordance with section 28-723; and
+-9-
+
+LB668 LB668
+2026 2026
+1 (d) If the subject of the report of child abuse or neglect is a
+2 minor child who is twelve years of age or older but younger than nineteen
+3 years of age:
+4 (i) Notification of the mandatory expungement hearing to be held
+5 according to section 28-721, a waiver form to waive the hearing, and an
+6 explanation of the hearing process;
+7 (ii) An explanation of the implications of being entered in the
+8 central registry as a subject;
+9 (iii) Notification of any other procedures determined appropriate in
+10 rules and regulations adopted and promulgated by the department; and
+11 (iv) Provision of a copy of all notice materials required to be
+12 provided to the subject under this subsection to the minor child's
+13 attorney of record, parent or guardian, and guardian ad litem, if
+14 applicable; and .
+15 (e) Any notification required by this section shall be sent to the
+16 subject at least fourteen days prior to the date the subject's name will
+17 be entered on the central registry of child protection cases. No person
+18 shall be entered on the central registry of child protection cases
+19 without first being notified of the right to contest the case
+20 determination.
+21 (3) If the subject of the report will not be entered into the
+22 central registry, the notice to the subject shall be sent by first-class
+23 mail and shall include:
+24 (a) The nature of the report; and
+25 (b) The classification of the report under section 28-720.
+26 (4) The subject of the report may appeal the decision of the
+27 department under this section. The appeal shall be pursuant to the
+28 Administrative Procedure Act.
+29 Sec. 5. Section 28-718, Revised Statutes Cumulative Supplement,
+30 2024, is amended to read:
+31 28-718 (1) There shall be a central registry of child protection
+-10-
+
+LB668 LB668
+2026 2026
+1 cases maintained in the department containing records of all reports of
+2 child abuse or neglect opened for investigation as provided in section
+3 28-713 and classified as either court substantiated or agency
+4 substantiated as provided in section 28-720.
+5 (2) The department shall determine whether a name-change order
+6 received from the clerk of a district court pursuant to section 25-21,271
+7 is for a person on the central registry of child protection cases and, if
+8 so, shall include the changed name with the former name in the registry
+9 and file or cross-reference the information under both names.
+10 (3) The department may charge a reasonable fee in an amount
+11 established by the department in rules and regulations to recover
+12 expenses in carrying out central registry records checks. The fee shall
+13 not exceed five three dollars for each request to check the records of
+14 the central registry. The department shall remit the fees to the State
+15 Treasurer for credit to the Health and Human Services Cash Fund. The
+16 department may waive the fee if the requesting party shows the fee would
+17 be an undue financial hardship. The department shall use the fees to
+18 defray costs incurred to carry out such records checks. The department
+19 may adopt and promulgate rules and regulations to carry out this section.
+20 Sec. 6. Section 28-720, Reissue Revised Statutes of Nebraska, is
+21 amended to read:
+22 28-720 (1) All cases entered into the central registry of child
+23 protection cases maintained pursuant to section 28-718 shall be
+24 classified as one of the following:
+25 (a) Court substantiated, if a court of competent jurisdiction has
+26 entered a judgment of guilty against the subject of the report of child
+27 abuse or neglect upon a criminal complaint, indictment, or information or
+28 there has been an adjudication of jurisdiction of a juvenile court over
+29 the child under subdivision (3)(a) of section 43-247 which relates or
+30 pertains to the report of child abuse or neglect;
+31 (b) Court pending, if a criminal complaint, indictment, or
+-11-
+
+LB668 LB668
+2026 2026
+1 information or a juvenile petition under subdivision (3)(a) of section
+2 43-247, which relates or pertains to the subject of the report of abuse
+3 or neglect, has been filed and is pending in a court of competent
+4 jurisdiction; or
+5 (c) Agency substantiated, if the department's determination of child
+6 abuse or neglect against the subject of the report of child abuse or
+7 neglect was supported by a preponderance of the evidence and based upon
+8 an investigation pursuant to section 28-712.01 or 28-713.
+9 (2) If a case described in subdivision (1)(b) of this section is
+10 dismissed by the court or a juvenile petition under subdivision (3)(a) of
+11 section 43-247 is redesignated to indicate there is no fault on the part
+12 of the parent, guardian, or custodian, the case shall be immediately
+13 expunged from the central registry of child protection cases.
+14 (3)(a) If the subject of the report of child abuse or neglect is a
+15 minor child who is younger than twelve years of age, the case shall not
+16 be entered into the central registry of child protection cases.
+17 (b) If a juvenile petition is filed under subdivision (3)(a) of
+18 section 43-247 indicating that the juvenile is without proper support
+19 through no fault of his or her parent, guardian, or custodian, the case
+20 shall not be entered into the central registry of child protection cases.
+21 (4) If the subject of the report of child abuse or neglect is a
+22 minor child who is twelve years of age or older but younger than nineteen
+23 years of age, the case shall not be classified as court pending in the
+24 central registry of child protection cases.
+25 (5) The department shall report annually, on or before September 15,
+26 to the Governor and electronically to the chairpersons of the Health and
+27 Human Services Committee of the Legislature and the Judiciary Committee
+28 of the Legislature the number of cases entered into the central registry
+29 of child protection cases in which the subject is a minor child, the ages
+30 of such subjects who are children, and the number of such cases
+31 classified as court substantiated or agency substantiated.
+-12-
+
+LB668 LB668
+2026 2026
+1 (6) If a proper request for appeal is made by the subject after
+2 receipt of the notification required by section 28-713, the subject shall
+3 not be entered on the central registry of child protection cases until a
+4 final order is issued by the department.
+5 Sec. 7. Original sections 28-374.01 and 28-720, Reissue Revised
+6 Statutes of Nebraska, sections 28-712 and 28-718, Revised Statutes
+7 Cumulative Supplement, 2024, and sections 28-710 and 28-713.01, Revised
+8 Statutes Supplement, 2025, are repealed.
+-13-

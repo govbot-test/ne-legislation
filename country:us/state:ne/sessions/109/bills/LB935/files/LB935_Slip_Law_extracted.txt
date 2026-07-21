@@ -1,0 +1,1586 @@
+Title: 
+Official Title: 
+Source: versions - Slip Law
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LB935 LB935
+2026 2026
+LEGISLATIVE BILL 935
+Approved by the Governor April 14, 2026
+Introduced by Bosn, 25; Hallstrom, 1.
+A BILL FOR AN ACT relating to law; to amend sections 7-203, 7-207, 25-824,
+25-1802, 25-1804, 27-804, 29-2204.02, 29-4103, 42-371, 43-1409,
+43-1412.01, 84-941.01, and 86-2,103, Reissue Revised Statutes of Nebraska,
+sections 28-311.08, 29-4315, and 59-1608.04, Revised Statutes Cumulative
+Supplement, 2024, and sections 26-102, 26-114, 28-101, 28-311.02,
+28-311.04, 28-358.01, 28-1205, 28-1206, and 42-927, Revised Statutes
+Supplement, 2025; to change provisions of the Legal Education for Public
+Service and Rural Practice Loan Repayment Assistance Act; to provide for
+awards of costs and attorney's fees in certain actions involving political
+subdivisions; to define, redefine, and eliminate terms; to provide for
+civil actions against persons for conduct relating to obscene materials,
+child sexual abuse materials, and child sexual exploitation devices and
+images; to provide powers for the Attorney General and county attorneys;
+to provide immunity for Internet utilities, law enforcement officers,
+courts, attorneys, and agents and employees of courts and attorneys; to
+provide civil penalties; to change provisions of the Protection Orders
+Act; to provide for an exclusion from the hearsay rule for a statement
+offered against a party that wrongfully caused the declarant's
+unavailability; to prohibit certain conduct relating to mobile tracking
+devices; to provide penalties; to change penalties for stalking; to change
+provisions relating to unlawful intrusion; to prohibit operation of an
+unmanned aircraft system in restricted areas and require operators to
+present a certificate upon request; to create the offense of swatting and
+require restitution; to change provisions relating to the requirement that
+courts impose probation for Class IV felonies; to provide for no-contact
+periods for victims of domestic assaults and sexual assaults; to provide
+for docket fees and create a fund; to change provisions relating to liens
+arising from child and spousal support orders; to provide for challenges
+to notarized acknowledgments of paternity based on genetic testing; to
+provide for a funds transfer from the State Settlement Cash Fund; to
+change provisions relating to intercepted communications; to harmonize
+provisions; to provide operative dates; to provide severability; to repeal
+the original sections; and to declare an emergency.
+Be it enacted by the people of the State of Nebraska,
+Section 1. Section 7-203, Reissue Revised Statutes of Nebraska, is amended
+to read:
+7-203 For purposes of the Legal Education for Public Service and Rural
+Practice Loan Repayment Assistance Act:
+(1) Board means the Legal Education for Public Service and Rural Practice
+Loan Repayment Assistance Board;
+(2) Designated legal profession shortage area means a rural area located
+within any county in Nebraska having a population of less than seventy-five
+fifteen thousand inhabitants and not included within a metropolitan statistical
+area as defined by the United States Department of Commerce, Bureau of the
+Census, and determined by the board to be underserved by available legal
+representation;
+(3) Educational loans means loans received as an educational benefit,
+scholarship, or stipend toward a juris doctorate degree and either (a) made,
+insured, or guaranteed by a governmental unit or (b) made under a program
+funded in whole or in part by a governmental unit or nonprofit institution; and
+(4) Public legal service means providing legal service to indigent persons
+while employed by a tax-exempt charitable organization.
+Sec. 2. Section 7-207, Reissue Revised Statutes of Nebraska, is amended to
+read:
+7-207 (1) The Commission on Public Advocacy shall accept applications for
+loan repayment assistance on an annual basis from qualified persons and shall
+present those applications to the board for its consideration. The board shall
+make recommendations for loans to the commission, and the commission shall
+certify the eligible recipients and the loan amount per recipient. The loans
+awarded to the recipients shall come from funds appropriated by the Legislature
+and any other funds that may be available from the Legal Education for Public
+Service and Rural Practice Loan Repayment Assistance Fund.
+(2) Loans under this section awarded on or after July 1, 2026, shall be
+awarded to recipients in the following order of priority:
+(a) Recipients that practice in a county with no other licensed attorney
+actively practicing in such county;
+(b) Recipients that practice in a county with three or fewer licensed
+attorneys actively practicing in such county; and
+(c) Recipients that practice in a county with a population of no more than
+seventy-five thousand inhabitants.
+(3) Nothing in this section shall affect awards previously made to
+recipients on or before June 30, 2026.
+-1-
+
+LB935 LB935
+2026 2026
+Sec. 3. Section 25-824, Reissue Revised Statutes of Nebraska, is amended
+to read:
+25-824 (1) A pleading shall not be used against a party in any criminal
+prosecution or action or proceeding for a penalty or forfeiture as proof of a
+fact admitted or alleged in such pleading. If a pleading is frivolous or made
+in bad faith, it may be stricken. The signature of a party or of an attorney on
+a pleading constitutes a certificate by him or her that he or she has read the
+pleading; that to the best of his or her knowledge, information, and belief
+there is good ground for the filing of the pleading; and that it is not
+interposed for delay.
+(2) Except as provided in subsections (6) (5) and (7) (6) of this section,
+in any civil action commenced or appealed in any court of record in this state,
+the court shall award as part of its judgment and in addition to any other
+costs otherwise assessed reasonable attorney's fees and court costs against any
+attorney or party who has brought or defended a civil action that alleges a
+claim or defense which a court determines is frivolous or made in bad faith.
+(3) When a court determines reasonable attorney's fees or costs should be
+assessed, it shall allocate the payment of such fees or costs among the
+offending attorneys and parties as it determines most just and may charge such
+amount or portion thereof to any offending attorney or party.
+(3) (4) The court shall assess attorney's fees and costs if, upon the
+motion of any party or the court itself, the court finds that an attorney or
+party brought or defended an action or any part of an action that was frivolous
+or that the action or any part of the action was interposed solely for delay or
+harassment. If the court finds that an attorney or party unnecessarily expanded
+the proceedings by other improper conduct, including, but not limited to,
+abuses of civil discovery procedures, the court shall assess attorney's fees
+and costs.
+(4)(a) For purposes of this subsection:
+(i) Claim includes a claim, cross-claim, or counter-claim; and
+(ii) Political subdivision means any village, city, county, school
+district, public power district, community college, natural resources district,
+or other unit of local government.
+(b) It is the policy of the state to deter frivolous or harassing
+litigation, especially when it involves frivolous claims or defenses against a
+political subdivision that necessitate the wasteful expenditure of scarce
+taxpayer resources.
+(c) A political subdivision may request an award of costs and attorney's
+fees as provided in this subsection if:
+(i) The political subdivision is defendant against a claim that is
+frivolous or intended primarily to harass the political subdivision or its
+public officials; or
+(ii) Another party asserts a defense against a claim of the political
+subdivision and such defense is frivolous or intended primarily to harass the
+political subdivision or its public officials.
+(d) The political subdivision may make such request as a claim or a
+motion. When a court has determined that judgment will be entered denying a
+claim or defense against a political subdivision and the political subdivision
+has filed a claim or motion under this subsection, the court shall conduct a
+separate hearing as provided in subdivision (4)(e) of this section. Such
+hearing shall be conducted before entering any order of dismissal or other
+resolution.
+(e) At such hearing the court shall determine whether the other party's
+claim or defense was frivolous or intended primarily to harass the political
+subdivision or its public officials. If the court determines that a claim or
+defense was frivolous or intended primarily to harass the political subdivision
+or its public officials, the party asserting such claim or defense shall have
+the burden to rebut that finding or show the claim was otherwise excused under
+subsection (6) or (7) of this section. If such party fails to meet its burden,
+the court shall award reasonable attorney's fees and other expenses to the
+political subdivision. A court may award fees and expenses pursuant to this
+subsection in addition to any compensation awarded in a judgment.
+(5) When a court determines reasonable attorney's fees or costs should be
+assessed, it shall allocate the payment of such fees or costs among the
+offending attorneys and parties as the court determines most just and may
+charge such amount or portion thereof to any offending attorney or party.
+(6) (5) No attorney's fees or costs shall be assessed if a claim or
+defense was asserted by an attorney or party in a good faith attempt to
+establish a new theory of law in this state or if, after filing suit, a
+voluntary dismissal is filed as to any claim or action within a reasonable time
+after the attorney or party filing the dismissal knew or reasonably should have
+known that he or she would not prevail on such claim or action.
+(7) (6) No party who is appearing without an attorney shall be assessed
+attorney's fees unless the court finds that the party clearly knew or
+reasonably should have known that his or her action or defense or any part of
+such action or defense was frivolous or made in bad faith, except that this
+subsection shall not apply to any situation in which an attorney licensed to
+practice law in the state is appearing without an attorney, in which case he or
+she shall be held to the standards for attorneys prescribed in this section.
+Sec. 4. Section 25-1802, Reissue Revised Statutes of Nebraska, is amended
+to read:
+25-1802 For purposes of sections 25-1802 to 25-1807, unless the context
+otherwise requires:
+-2-
+
+LB935 LB935
+2026 2026
+(1) Fees and other expenses means shall mean reasonable attorney's fees
+and the reasonable expense of expert witnesses plus court costs, but shall not
+include any portion of an attorney's fee or salary paid by a unit of local,
+state , or federal government in the case;
+(2) Political subdivision means any village, city, county, school
+district, public power district, community college, natural resources district,
+or other unit of local government;
+(3) (2) State means shall mean the State of Nebraska, a state agency, or
+any official of the state acting in his or her official capacity; and
+(4) (3) State agency means shall mean any state constitutional office, any
+state administrative department, or any state board or commission established
+by an act of the Legislature.
+Sec. 5. Section 25-1804, Reissue Revised Statutes of Nebraska, is amended
+to read:
+25-1804 (1) A party seeking an award for fees and other expenses pursuant
+to sections 25-1802 to 25-1807 shall, not later than thirty days after the
+entry of the final judgment in the action, submit to the court an application
+which provides evidence of eligibility for an award pursuant to such sections
+and which specifies the amount sought. If the amount sought includes an
+attorney's fee or the fee for an expert witness, the application shall include
+an itemized statement for each such fee indicating the actual time expended in
+service to the applicant and the rate at which the fees were computed.
+(2) Notwithstanding any other provision of such sections, fees and other
+expenses shall be awarded as provided in such sections only to those prevailing
+parties who are:
+(a) Natural persons; or
+(b) Political subdivisions; or
+(c) (b) A sole proprietorship, partnership, limited liability company,
+corporation, association, or public or private organization:
+(i) That had an average daily employment of fifty persons or less for the
+twelve months preceding the filing of such action; and
+(ii) Whose gross receipts for the twelve-month period preceding the filing
+of the action was two million dollars or less or whose average gross receipts
+for the three twelve-month periods preceding the filing of such appeal pursuant
+to the Administrative Procedure Act was two million dollars or less, whichever
+amount is greater.
+Sec. 6. (1) For purposes of this section:
+(a) Child sexual abuse material has the same meaning as in section
+28-1802;
+(b) Internet utility has the same meaning as in section 87-1002;
+(c) Obscene has the same meaning as in section 28-807; and
+(d) Prohibited content means any depiction or content that:
+(i) Is child sexual abuse material;
+(ii) Promotes child sexual abuse material; or
+(iii) Is obscene.
+(2) A person shall not knowingly and intentionally:
+(a) Allow or facilitate access to prohibited content on a publicly
+available Internet website;
+(b) Issue, sell, give, provide, deliver, transfer, transmit, circulate, or
+disseminate by any means on an Internet website any prohibited content; or
+(c) Create or develop prohibited content that is made available on an
+Internet website.
+(3)(a) Except as provided in subdivision (3)(b) of this section, an
+individual depicted in or exposed to prohibited content may bring a civil
+action for appropriate relief against any person who violates subsection (2) of
+this section with respect to such prohibited content.
+(b) This subsection does not authorize a civil action by an adult whose
+exposure to child sexual abuse material was caused by such adult's intentional
+viewing of such material.
+(c) Appropriate relief in an action under this subsection includes:
+(i) Such preliminary and other equitable relief as may be appropriate; and
+(ii) Actual damages, both economic and noneconomic.
+(d) If the plaintiff prevails in an action brought under this subsection,
+the court shall award to the plaintiff reasonable attorney's fees and other
+litigation costs reasonably incurred.
+(e) In an action under this subsection, the doctrine of contributory
+negligence shall not apply, and no plaintiff shall be allocated fault under
+Chapter 25. A person who violates subsection (2) of this section shall be
+jointly and severally liable for damages caused by such violation.
+(4)(a) A person who violates subsection (2) of this section shall be
+subject to a civil penalty of not more than ten thousand dollars per violation.
+The Attorney General or a county attorney may seek recovery of such civil
+penalties in a civil action.
+(b) The Attorney General or a county attorney may also bring a civil
+action against a person who violates subsection (2) of this section to restrain
+or enjoin such violation and for such other equitable relief as the court deems
+appropriate to carry out the purposes of this section.
+(c) If the Attorney General or county attorney prevails in an action
+brought under this subsection, the court shall award to the Attorney General or
+county attorney reasonable attorney's fees and other litigation costs
+reasonably incurred.
+(d) Any civil penalties collected under this section shall be remitted to
+the State Treasurer for distribution in accordance with Article VII, section 5,
+-3-
+
+LB935 LB935
+2026 2026
+of the Constitution of Nebraska.
+(5) Any violation of subsection (2) of this section shall, additionally
+and separately, constitute a deceptive trade practice under the Uniform
+Deceptive Trade Practices Act.
+(6) This section shall not be construed to affect the liability for any
+action that otherwise violates the Uniform Deceptive Trade Practices Act.
+(7) An Internet utility does not violate subsection (2) of this section
+solely by providing access or connection to or from a website or other
+information or content on the Internet or a facility, system, or network not
+under the Internet utility's control, including providing access or
+transmitting, downloading, or storing data, to the extent that such Internet
+utility is not responsible, in whole or in part, for the creation or
+development of prohibited content.
+(8) This section is intended to create a new statutory cause of action
+that is in addition to any other remedy that may exist under the law. The
+duties and liabilities created under this section apply whether or not the
+violator would be considered a publisher or distributor of prohibited content
+under any other statutory or common law cause of action.
+(9) Sovereign immunity shall not be an affirmative defense in a civil
+action brought pursuant to this section.
+(10) Any remedy available under this section may be awarded without regard
+to whether the conduct giving rise to the remedy resulted in a criminal
+conviction.
+Sec. 7. (1) For purposes of this section:
+(a) Law enforcement officer has the same meaning as in section 81-1401;
+and
+(b) Prohibited content has the same meaning as in section 6 of this act.
+(2) There shall be no civil or criminal liability for the viewing or
+possession of prohibited content by:
+(a) A judge who does so in good faith and for purposes of a proceeding
+before the court;
+(b) An attorney who does so in good faith in the course of representing a
+client or potential client;
+(c) An agent or employee of a judge or attorney who does so in good faith
+and for a legitimate purpose while acting within the scope of such agency or
+employment; or
+(d) A law enforcement officer who does so in good faith in the course of
+his or her official duties.
+Sec. 8. (1) For purposes of this section:
+(a) Child sexual exploitation device or image means an anatomically
+correct mannequin, robot, doll, device, or image that:
+(i) Has the features of, or features that resemble those of, a minor; and
+(ii) Is intended for use in sexual acts; and
+(b) Minor means an individual under eighteen years of age.
+(2) A person shall not:
+(a) Knowingly buy, sell, deliver, or distribute any child sexual
+exploitation device or image;
+(b) Knowingly possess a child sexual exploitation device or image that has
+been bought, sold, delivered, or distributed; or
+(c) Possess a child sexual exploitation device or image with the intent to
+engage in any conduct prohibited by subdivision (2)(a) of this section.
+(3)(a) A minor whose features are represented by, or intended by the
+violator to be represented by, a child sexual exploitation device or image, may
+bring a civil action for appropriate relief against any person who violates
+subsection (2) of this section with respect to such device or image.
+(b) Appropriate relief in an action under this subsection includes:
+(i) Such preliminary and other equitable relief as may be appropriate; and
+(ii) Actual damages, both economic and noneconomic.
+(c) If the plaintiff prevails in an action brought under this subsection,
+the court shall award to the plaintiff reasonable attorney's fees and other
+litigation costs reasonably incurred.
+(4)(a) A person who violates subsection (2) of this section shall be
+subject to a civil penalty of not more than ten thousand dollars per violation.
+The Attorney General or a county attorney may seek recovery of such civil
+penalties in a civil action.
+(b) The Attorney General or a county attorney may also bring a civil
+action against a person who violates subsection (2) of this section to restrain
+or enjoin such violation and for such other equitable relief as the court deems
+appropriate to carry out the purposes of this section.
+(c) If the Attorney General or county attorney prevails in an action
+brought under this subsection, the court shall award to the Attorney General or
+county attorney reasonable attorney's fees and other litigation costs
+reasonably incurred.
+(d) Any civil penalties collected under this section shall be remitted to
+the State Treasurer for distribution in accordance with Article VII, section 5,
+of the Constitution of Nebraska.
+(5) Any violation of subsection (2) of this section shall, additionally
+and separately, constitute a deceptive trade practice under the Uniform
+Deceptive Trade Practices Act.
+(6) This section shall not be construed to affect the liability for any
+action that otherwise violates the Uniform Deceptive Trade Practices Act.
+Sec. 9. Section 26-102, Revised Statutes Supplement, 2025, is amended to
+read:
+-4-
+
+LB935 LB935
+2026 2026
+26-102 For purposes of the Protection Orders Act:
+(1) Abuse has the same meaning as in section 42-903;
+(2) Course of conduct has the same meaning as in section 28-311.02;
+(2) (3) Family or household members has the same meaning as in section
+42-903;
+(3) (4) Harass has the same meaning as in section 28-311.02;
+(4) (5) Household pet means any animal maintained for companionship or
+pleasure but does not include any animal kept primarily for commercial purposes
+or for consumption or any livestock animal as defined in section 54-902;
+(5) (6) Law enforcement agency means the police department or town marshal
+in incorporated municipalities, the office of the sheriff in unincorporated
+areas, and the Nebraska State Patrol; and
+(6) (7) Sexual assault offense means:
+(a) Conduct amounting to sexual assault under section 28-319 or 28-320,
+sexual abuse by a school worker under section 28-316.01, sexual assault of a
+child under section 28-319.01 or 28-320.01, a violation of section 28-311.08,
+or an attempt to commit any of such offenses; or
+(b) Subjecting or attempting to subject another person to sexual contact
+or sexual penetration without such person's consent, as such terms are defined
+in section 28-318.
+Sec. 10. Section 26-114, Revised Statutes Supplement, 2025, is amended to
+read:
+26-114 (1)(a) Upon the issuance of a temporary ex parte protection order
+or final protection order, the clerk of the court shall forthwith provide, free
+of charge:
+(i) The petitioner with two certified copies of such order;
+(ii) The local police department or local law enforcement agency and the
+local sheriff's office with one copy each of such order and one copy each of
+the sheriff's return thereon; and
+(iii) A copy of the protection order to the sheriff's office in the county
+where the respondent may be personally served, together with instructions for
+service.
+(b) Upon receipt of the order and instructions for service, the sheriff's
+office in the county where the respondent may be personally served shall
+forthwith serve the protection order upon the respondent and file its return
+thereon with the clerk of the court which issued the protection order within
+fourteen days of the issuance of the protection order.
+(2) If any protection order is dismissed or modified by the court, the
+clerk of the court shall forthwith provide the local police department or local
+law enforcement agency and the local sheriff's office, without charge, with one
+copy each of the order of dismissal or modification.
+(3) Any document required to be provided under this section, including
+certified copies of protection orders, may be provided electronically.
+(4) If the respondent was present at a hearing convened pursuant to
+section 26-108 or 26-109 following issuance of an ex parte protection order and
+the court entered a final protection order at such hearing was not dismissed,
+the respondent shall be deemed to have notice of by the court at such hearing
+that the protection order will be granted and remain in effect and further
+service of notice described in this section is not required for purposes of
+prosecution under section 26-118.
+Sec. 11. Section 27-804, Reissue Revised Statutes of Nebraska, is amended
+to read:
+27-804 (1) Unavailability as a witness includes situations in which the
+declarant:
+(a) Is exempted by ruling of the judge on the ground of privilege from
+testifying concerning the subject matter of the declarant's his statement; or
+(b) Persists in refusing to testify concerning the subject matter of the
+declarant's his statement despite an order of the judge to do so; or
+(c) Testifies to lack of memory of the subject matter of the declarant's
+his statement; or
+(d) Is unable to be present or to testify at the hearing because of death
+or then existing physical or mental illness or infirmity; or
+(e) Is absent from the hearing and the proponent of the declarant's his
+statement has been unable to procure the declarant's his attendance by process
+or other reasonable means.
+A declarant is not unavailable as a witness if the declarant's his
+exemption, refusal, claim of lack of memory, inability, or absence is due to
+the procurement or wrongdoing of the proponent of the declarant's his statement
+for the purpose of preventing the declarant witness from attending or
+testifying.
+(2) Subject to the provisions of section 27-403, the following are not
+excluded by the hearsay rule if the declarant is unavailable as a witness:
+(a) Testimony given as a witness at another hearing of the same or a
+different proceeding, or in a deposition taken in compliance with law in the
+course of the same or a different proceeding, at the instance of or against a
+party with an opportunity to develop the testimony by direct, cross, or
+redirect examination, with motive and interest similar to those of the party
+against whom now offered;
+(b) A statement made by a declarant while believing that the declarant's
+his death was imminent, concerning the cause or circumstances of what the
+declarant he believed to be the declarant's his impending death;
+(c) A statement which was at the time of its making so far contrary to the
+declarant's pecuniary or proprietary interest, or so far tended to subject the
+-5-
+
+LB935 LB935
+2026 2026
+declarant him to civil or criminal liability or to render invalid a claim by
+the declarant him against another, that a reasonable person man in the
+declarant's his position would not have made the statement unless such person
+he believed it to be true. A statement tending to expose the declarant to
+criminal liability and offered to exculpate the accused is not admissible
+unless corroborating circumstances clearly indicate the trustworthiness of the
+statement;
+(d)(i) A statement concerning the declarant's own birth, adoption,
+marriage, divorce, legitimacy, relationship by blood, adoption, or marriage,
+ancestry, or other similar fact of personal or family history, even though
+declarant had no means of acquiring personal knowledge of the matter stated; or
+(ii) a statement concerning the foregoing matters, and death also, of another
+person, if the declarant was related to the other by blood, adoption, or
+marriage or was so intimately associated with the other's family as to be
+likely to have accurate information concerning the matter declared; or
+(e) A statement offered against a party that wrongfully caused, or
+intentionally aided another in wrongfully causing, the declarant's
+unavailability as a witness, and did so intending that result; or
+(f) (e) A statement not specifically covered by any of the foregoing
+exceptions but having equivalent circumstantial guarantees of trustworthiness,
+if the court determines that (i) the statement is offered as evidence of a
+material fact, (ii) the statement is more probative on the point for which it
+is offered than any other evidence which the proponent can procure through
+reasonable efforts, and (iii) the general purposes of these rules and the
+interests of justice will best be served by admission of the statement into
+evidence. A statement may not be admitted under this exception unless the
+proponent of it makes known to the adverse party, sufficiently in advance of
+the trial or hearing to provide the adverse party with a fair opportunity to
+prepare to meet it, the proponent's his intention to offer the statement and
+the particulars of it, including the name and address of the declarant.
+Sec. 12. Section 28-101, Revised Statutes Supplement, 2025, is amended to
+read:
+28-101 Sections 28-101 to 28-1357, 28-1601 to 28-1603, and 28-1701 and
+sections 13 to 16, 23, and 24 of this act shall be known and may be cited as
+the Nebraska Criminal Code.
+Sec. 13. For purposes of sections 13 to 16 of this act:
+(1) Business entity means any form of corporation, company, partnership,
+association, cooperative, joint venture, business trust, or sole proprietorship
+that conducts business in this state;
+(2) Mobile tracking device means any physical device, digital application,
+software, firmware, account setting, or technological configuration that is
+used to collect, transmit, record, or disclose information regarding the
+position or movement of an individual;
+(3) Private investigator means a person licensed under sections 71-3201 to
+71-3213;
+(4) Protection order means any protection order issued or recognized under
+the Protection Orders Act;
+(5) Senior adult has the same meaning as in section 28-366.01; and
+(6) Vulnerable adult has the same meaning as in section 28-371.
+Sec. 14. (1) Except as otherwise provided in section 15 of this act, a
+person shall not knowingly:
+(a) Install a mobile tracking device on another person's property without
+the other person's consent;
+(b) Cause a mobile tracking device to track the position or movement of
+another person or another person's property without the other person's consent;
+or
+(c) Fail to remove or ensure the removal of a mobile tracking device that
+has been installed on another person's property with such person's consent when
+such consent has been revoked.
+(2) For purposes of this section, if a person has given consent for
+another person to install a mobile tracking device on the consenting person's
+property, such consent shall be deemed to have been revoked if any of the
+following applies:
+(a) The consenting person communicates to the person to whom consent was
+given that such consent is revoked;
+(b) The consenting person and the person to whom consent was given are
+married and one of them files an action for divorce, annulment, or separate
+maintenance; or
+(c) The consenting person receives a protection order against the person
+to whom consent was given. Revocation under this subdivision (2)(c) is
+effective when the person to whom consent was given has notice of such
+protection order.
+Sec. 15. Section 14 of this act does not apply to any of the following:
+(1) A mobile tracking device installed and used in compliance with
+sections 86-271 to 86-2,115;
+(2) A mobile tracking device installed and used pursuant to a court order,
+including, but not limited to, as a condition of pretrial release, probation,
+parole, or post-release supervision;
+(3) A parent or legal guardian of a minor child who installs or uses a
+mobile tracking device to track the minor child if any of the following
+applies:
+(a) The parents or legal guardians of the child are lawfully married to
+each other and are not separated or otherwise living apart, and either of those
+-6-
+
+LB935 LB935
+2026 2026
+parents or legal guardians consents to the installation of the tracking device
+or tracking application;
+(b) The parent or legal guardian of the child is the sole surviving parent
+or legal guardian of the child;
+(c) The parent or legal guardian of the child has sole custody of the
+child; or
+(d) The parents or legal guardians of the child are divorced, separated,
+or otherwise living apart and neither parent has sole custody of the child, and
+both consent to the installation of the mobile tracking device;
+(4) A caregiver of a vulnerable adult or senior adult, if such adult's
+treating physician certifies that the installation or use of a mobile tracking
+device on such adult's property is necessary to ensure the safety of such
+adult;
+(5) A person acting in good faith on behalf of a business entity for a
+legitimate business purpose or a governmental entity for a legitimate
+government purpose. This subdivision (5) does not apply to a private
+investigator;
+(6)(a) A private investigator who is acting in the normal course of the
+business of private investigation on behalf of another person and who has the
+consent of the owner of the property upon which the mobile tracking device is
+installed, for the purpose of obtaining information with reference to any of
+the following:
+(i) Criminal offenses committed, threatened, or suspected against the
+United States, a territory of the United States, a state, or any person or
+legal entity;
+(ii) Locating an individual known to be a fugitive from justice;
+(iii) Locating lost or stolen property or other assets that have been
+awarded by the court; or
+(iv) Investigating claims related to workers' compensation.
+(b) This subdivision (6) does not apply if the person on whose behalf the
+private investigator is working is the subject of a protection order or if the
+private investigator knows or reasonably should know that the person on whose
+behalf the private investigator is working seeks the investigator's services to
+aid in the commission of a crime;
+(7) An owner or lessee of a motor vehicle who installs, or directs the
+installation of, a mobile tracking device on the motor vehicle during the
+period of ownership or lease, if any of the following applies:
+(a) The mobile tracking device is removed before the motor vehicle's title
+is transferred or the motor vehicle's lease expires;
+(b) The new owner of the motor vehicle, in the case of a sale, or the
+lessor of the motor vehicle, in the case of an expired lease, consents in
+writing to the nonremoval of the mobile tracking device; or
+(c) The owner of the motor vehicle at the time of the installation of the
+mobile tracking device was the original manufacturer of the motor vehicle; or
+(8) A person or business entity that installs a mobile tracking device on
+any fixed-wing aircraft or rotorcraft operated or managed by the person or
+business entity pursuant to 14 C.F.R. part 91 or part 135 to track the position
+or movement of the fixed-wing aircraft or rotorcraft.
+Sec. 16. A violation of section 14 of this act is a Class IIIA felony.
+Sec. 17. Section 28-311.02, Revised Statutes Supplement, 2025, is amended
+to read:
+28-311.02 (1) It is the intent of the Legislature to enact laws dealing
+with stalking offenses which will protect victims from being willfully
+harassed, intentionally terrified, threatened, or intimidated by individuals
+who intentionally follow, detain, stalk, or harass them or impose any restraint
+on their personal liberty and which will not prohibit constitutionally
+protected activities.
+(2) For purposes of sections 28-311.02 to 28-311.05:
+(a) Harass means to engage in a knowing and willful course of conduct
+directed at a specific person which seriously terrifies, threatens, or
+intimidates the person and which serves no legitimate purpose;
+(a) (b) Course of conduct means a pattern of conduct composed of a series
+of acts over a period of time, however short, evidencing a continuity of
+purpose, including a series of acts of following, detaining, restraining the
+personal liberty of, or stalking the person or telephoning, contacting, or
+otherwise communicating with the person;
+(b) (c) Family or household member has the same meaning as in section
+42-903; and means a spouse or former spouse of the victim, children of the
+victim, a person presently residing with the victim or who has resided with the
+victim in the past, a person who had a child in common with the victim, other
+persons related to the victim by consanguinity or affinity, or any person
+presently involved in a dating relationship with the victim or who has been
+involved in a dating relationship with the victim. For purposes of this
+subdivision, dating relationship means frequent, intimate associations
+primarily characterized by the expectation of affectional or sexual involvement
+but does not include a casual relationship or an ordinary association between
+persons in a business or social context; and
+(c) Harass means to engage in a knowing and willful course of conduct
+directed at a specific person which seriously terrifies, threatens, or
+intimidates the person and which serves no legitimate purpose.
+(d) Substantially conforming criminal violation means a guilty plea, a
+nolo contendere plea, or a conviction for a violation of any federal law or law
+of another state or any county, city, or village ordinance of this state or
+-7-
+
+LB935 LB935
+2026 2026
+another state substantially similar to section 28-311.03. Substantially
+conforming is a question of law to be determined by the court.
+Sec. 18. Section 28-311.04, Revised Statutes Supplement, 2025, is amended
+to read:
+28-311.04 A violation of section 28-311.03 is a Class IIIA felony. (1)
+Except as provided in subsection (2) of this section, any person convicted of
+violating section 28-311.03 is guilty of a Class I misdemeanor.
+(2) Any person convicted of violating section 28-311.03 is guilty of a
+Class IIIA felony if:
+(a) The person has a prior conviction under such section or a
+substantially conforming criminal violation within the last seven years;
+(b) The victim is under sixteen years of age;
+(c) The person possessed a deadly weapon at any time during the violation;
+(d) The person was also in violation of any protection order issued under
+the Protection Orders Act or any valid foreign protection order recognized
+pursuant to section 26-123 or 26-124 at any time during the violation; or
+(e) The person has been convicted of any felony in this state or has been
+convicted of a crime in another jurisdiction which, if committed in this state,
+would constitute a felony and the victim or a family or household member of the
+victim was also the victim of such previous felony.
+Sec. 19. Section 28-311.08, Revised Statutes Cumulative Supplement, 2024,
+is amended to read:
+28-311.08 (1) It shall be unlawful for any person to knowingly intrude
+upon any other person without his or her consent in a place of solitude or
+seclusion. Violation of this subsection is a Class I misdemeanor. A second or
+subsequent violation of this subsection is a Class IV felony.
+(2) It shall be unlawful for any person to knowingly and intentionally
+photograph, film, or otherwise record an image or video of the intimate area of
+any other person without his or her knowledge and consent when his or her
+intimate area would not be generally visible to the public regardless of
+whether such other person is located in a public or private place. Violation of
+this subsection is a Class IV felony.
+(3) It shall be unlawful for any person to knowingly and intentionally
+distribute or otherwise make public an image or video of another person
+recorded in violation of subsection (2) of this section without that person's
+consent. A first or second violation of this subsection is a Class IIA felony.
+A third or subsequent violation of this subsection is a Class II felony.
+(4) It shall be unlawful for any person to knowingly and intentionally
+distribute or otherwise make public an image or video of another person's
+intimate area or of another person engaged in sexually explicit conduct (a) if
+the other person had a reasonable expectation that the image would remain
+private, (b) knowing the other person did not consent to distributing or making
+public the image or video, and (c) if distributing or making public the image
+or video serves no legitimate purpose. Violation of this subsection is a Class
+I misdemeanor. A second or subsequent violation of this subsection is a Class
+IV felony.
+(5) It shall be unlawful for any person to threaten to distribute or
+otherwise make public an image or video of another person's intimate area or of
+another person engaged in sexually explicit conduct with the intent to
+intimidate, threaten, or harass any person. Violation of this subsection is a
+Class I misdemeanor.
+(6) As part of sentencing following a conviction for a violation of
+subsection (1), (2), or (3) of this section, the court shall make a finding as
+to the ages of the defendant and the victim at the time the offense occurred.
+If the defendant is found to have been nineteen years of age or older and the
+victim is found to have been less than eighteen years of age at such time, then
+the defendant shall be required to register under the Sex Offender Registration
+Act.
+(7) No person shall be prosecuted under this section unless the indictment
+for such offense is found by a grand jury or a complaint filed before a
+magistrate within three years after the later of:
+(a) The commission of the crime;
+(b) Law enforcement's or a victim's receipt of actual or constructive
+notice of either the existence of a video or other electronic recording made in
+violation of this section or the distribution of images, video, or other
+electronic recording made in violation of this section; or
+(c) The youngest victim of a violation of this section reaching the age of
+twenty-one years.
+(8) For purposes of this section:
+(a) Intimate area means the naked or undergarment-clad genitalia, pubic
+area, buttocks, or female breast of an individual;
+(b) Intrude means either:
+(i) Viewing another person in a state of undress as it is occurring,
+whether directly or through electronic or other remote means, including, but
+not limited to, by unmanned aircraft; or
+(ii) Recording another person in a state of undress by video,
+photographic, digital, or other electronic means including, but not limited to,
+by unmanned aircraft; and
+(c) Place of solitude or seclusion means a place where a person would
+intend to be in a state of undress and have a reasonable expectation of
+privacy, including, but not limited to, any facility, public or private, used
+as a restroom, tanning booth, locker room, shower room, fitting room, or
+dressing room; and .
+-8-
+
+LB935 LB935
+2026 2026
+(d) Unmanned aircraft means an aircraft, including an aircraft commonly
+known as a drone, which is operated without the possibility of direct human
+intervention from within or on the aircraft.
+Sec. 20. Section 28-358.01, Revised Statutes Supplement, 2025, is amended
+to read:
+28-358.01 (1) Isolation means intentional acts (a) committed for the
+purpose of preventing, and which do prevent, a vulnerable adult or senior adult
+from having contact with family, friends, or concerned persons; (b) committed
+to prevent a vulnerable adult or senior adult from receiving his or her mail or
+telephone calls; (c) of physical or chemical restraint of a vulnerable adult or
+senior adult committed for purposes of preventing contact with visitors,
+family, friends, or other concerned persons; or (d) which restrict, place, or
+confine a vulnerable adult or senior adult in a restricted area for purposes of
+social deprivation or preventing contact with family, friends, visitors, or
+other concerned persons.
+(2) Isolation does not include (a) medical isolation prescribed by a
+licensed physician caring for the vulnerable adult or senior adult; (b) action
+taken in compliance with a protection order issued under the Protection Orders
+Act, a valid foreign protection order recognized pursuant to section 26-123 or
+26-124, or an order excluding a person from certain premises issued pursuant to
+section 42-357; or (c) action authorized by an administrator of a nursing home
+pursuant to section 71-6021; or (d) action taken in compliance with a no-
+contact period required under section 27 of this act.
+Sec. 21. Section 28-1205, Revised Statutes Supplement, 2025, is amended to
+read:
+28-1205 (1)(a) Any person who uses a firearm, a knife, brass or iron
+knuckles, or any other deadly weapon to commit any felony which may be
+prosecuted in a court of this state commits the offense of use of a deadly
+weapon to commit a felony.
+(b) Use of a deadly weapon, other than a firearm, to commit a felony is a
+Class II felony.
+(c) Use of a deadly weapon, which is a firearm, to commit a felony is a
+Class IC felony.
+(2)(a) Any person who possesses a firearm, a knife, brass or iron
+knuckles, or a destructive device during the commission of any felony which may
+be prosecuted in a court of this state commits the offense of possession of a
+deadly weapon during the commission of a felony.
+(b) Possession of a deadly weapon, other than a firearm, during the
+commission of a felony is a Class III felony.
+(c) Possession of a deadly weapon, which is a firearm, during the
+commission of a felony is a Class II felony.
+(3)(a) Any person who carries a firearm or a destructive device during the
+commission of a dangerous misdemeanor commits the offense of carrying a firearm
+or destructive device during the commission of a dangerous misdemeanor.
+(b) A violation of this subsection is a:
+(i) Class I misdemeanor for a first or second offense; and
+(ii) A Class IV felony for any third or subsequent offense.
+(4) A violation of this section shall be treated as a separate and
+distinct offense from the underlying crimes being committed, and a sentence
+imposed under this section shall be consecutive to any other sentence imposed.
+(5) Possession of a deadly weapon may be proved through evidence
+demonstrating either actual or constructive possession of a firearm, a knife,
+brass or iron knuckles, or a destructive device during, immediately prior to,
+or immediately after the commission of a felony.
+(6) For purposes of this section:
+(a) Dangerous misdemeanor means a misdemeanor violation of any of the
+following offenses:
+(i) Stalking under section 28-311.03;
+(i) (ii) Knowing violation of any protection order issued under the
+Protection Orders Act;
+(ii) (iii) Domestic assault under section 28-323;
+(iii) (iv) Assault of an unborn child in the third degree under section
+28-399;
+(iv) (v) Theft by shoplifting under section 28-511.01;
+(v) (vi) Unauthorized use of a propelled vehicle under section 28-516;
+(vi) (vii) Criminal mischief under section 28-519 if such violation arises
+from an incident involving the commission of a misdemeanor crime of domestic
+violence;
+(vii) (viii) Impersonating a police officer under section 28-610;
+(viii) (ix) Resisting arrest under section 28-904;
+(ix) (x) Operating a motor vehicle or vessel to avoid arrest under section
+28-905;
+(x) (xi) Obstructing a peace officer under section 28-906; or
+(xi) (xii) Any attempt under section 28-201 to commit an offense described
+in subdivisions (6)(a)(i) through (x) (xi) of this section;
+(b) Destructive device has the same meaning as in section 28-1213;
+(c) Misdemeanor crime of domestic violence has the same meaning as in
+section 28-1206; and
+(d) Use of a deadly weapon includes the discharge, employment, or visible
+display of any part of a firearm, a knife, brass or iron knuckles, any other
+deadly weapon, or a destructive device during, immediately prior to, or
+immediately after the commission of a felony or communication to another
+indicating the presence of a firearm, a knife, brass or iron knuckles, any
+-9-
+
+LB935 LB935
+2026 2026
+other deadly weapon, or a destructive device during, immediately prior to, or
+immediately after the commission of a felony, regardless of whether such
+firearm, knife, brass or iron knuckles, deadly weapon, or destructive device
+was discharged, actively employed, or displayed.
+Sec. 22. Section 28-1206, Revised Statutes Supplement, 2025, is amended to
+read:
+28-1206 (1) A person commits the offense of possession of a deadly weapon
+by a prohibited person if he or she:
+(a) Possesses a firearm, a knife, or brass or iron knuckles and he or she:
+(i) Has previously been convicted of a felony;
+(ii) Is a fugitive from justice;
+(iii) Is the subject of a current and valid protection order issued under
+the Protection Orders Act or a current and valid foreign protection order
+recognized under section 26-123 or 26-124 and is knowingly violating such
+order; or
+(iv) Is on probation pursuant to a deferred judgment for a felony under
+section 29-2292 or 29-4803; or
+(b) Possesses a firearm or brass or iron knuckles and he or she has been
+convicted within the past seven years of a misdemeanor crime of domestic
+violence.
+(2) The felony conviction may have been had in any court in the United
+States, the several states, territories, or possessions, or the District of
+Columbia.
+(3)(a) Possession of a deadly weapon which is not a firearm by a
+prohibited person is a Class III felony.
+(b) Possession of a deadly weapon which is a firearm by a prohibited
+person is a Class ID felony for a first offense and a Class IB felony for a
+second or subsequent offense.
+(4) Subdivision (1)(a)(i) of this section shall not prohibit:
+(a) Possession of archery equipment for lawful purposes; or
+(b) If in possession of a recreational license, possession of a knife for
+purposes of butchering, dressing, or otherwise processing or harvesting game,
+fish, or furs.
+(5)(a) For purposes of this section, misdemeanor crime of domestic
+violence means a crime that:
+(i) Is classified as a misdemeanor under the laws of the United States or
+the District of Columbia or the laws of any state, territory, possession, or
+tribe;
+(ii) Has, as an element, the use or attempted use of physical force or the
+threatened use of a deadly weapon; and
+(iii) Is committed by another against his or her spouse, his or her former
+spouse, a person with whom he or she has a child in common whether or not they
+have been married or lived together at any time, or a person with whom he or
+she is or was involved in a dating relationship as defined in section 28-323.
+(b) For purposes of this section, misdemeanor crime of domestic violence
+also includes the following offenses, if committed by a person against his or
+her spouse, his or her former spouse, a person with whom he or she is or was
+involved in a dating relationship as defined in section 28-323, or a person
+with whom he or she has a child in common whether or not they have been married
+or lived together at any time:
+(i) Assault in the third degree under section 28-310;
+(ii) Stalking under subsection (1) of section 28-311.04;
+(ii) (iii) False imprisonment in the second degree under section 28-315;
+(iii) (iv) First offense domestic assault in the third degree under
+subsection (1) of section 28-323; or
+(iv) (v) Any attempt or conspiracy to commit any of such offenses.
+(c) A person shall not be considered to have been convicted of a
+misdemeanor crime of domestic violence unless:
+(i) The person was represented by counsel in the case or knowingly and
+intelligently waived the right to counsel in the case; and
+(ii) In the case of a prosecution for a misdemeanor crime of domestic
+violence for which a person was entitled to a jury trial in the jurisdiction in
+which the case was tried, either:
+(A) The case was tried to a jury; or
+(B) The person knowingly and intelligently waived the right to have the
+case tried to a jury.
+(6) In addition, for purposes of this section:
+(a) Archery equipment means:
+(i) A longbow, recurve bow, compound bow, or nonelectric crossbow that is
+drawn or cocked with human power and released by human power; and
+(ii) Target or hunting arrows, including arrows with broad, fixed, or
+removable heads or that contain multiple sharp cutting edges; and
+(b) Recreational license means a state-issued license, certificate,
+registration, permit, tag, sticker, or other similar document or identifier
+evidencing permission to hunt, fish, or trap for furs in the State of Nebraska.
+Sec. 23. (1) For purposes of this section:
+(a) Restricted area means an area of airspace within the state that:
+(i) The Federal Aviation Administration has determined to be a restricted
+area, either by way of a Notice to Airmen, Temporary Flight Restriction, No
+Drone Zone, or other means; or
+(ii) Is classified as a Class B, C, or D airspace by the Federal Aviation
+Administration, as such classifications existed on January 1, 2026; and
+(b) Unmanned aircraft means an aircraft, including an aircraft commonly
+-10-
+
+LB935 LB935
+2026 2026
+known as a drone, which is operated without the possibility of direct human
+intervention from within or on the aircraft.
+(2) Anyone who launches, operates, or causes to be launched or operated,
+any unmanned aircraft system within the state shall present, immediately upon
+request by any peace officer, a current certificate of aircraft registration
+issued by the Federal Aviation Administration or a registered identification
+number for the unmanned aircraft system.
+(3) Except as provided in subsection (4) of this section, no person shall
+launch, operate, or cause to be launched or operated, any unmanned aircraft
+system in any restricted area unless such person:
+(a) Has received approval from the Federal Aviation Administration to
+operate an unmanned aircraft system in the restricted area and is complying
+with all terms and conditions of such approval; and
+(b) Prior to such operation, the person has notified all state, county,
+and municipal law enforcement agencies with jurisdiction in the area that the
+person will be operating an unmanned aircraft in the restricted area and that
+such person has approval from the Federal Aviation Administration for such
+operation.
+(4) Subsection (3) of this section does not apply to commercial operation
+of an unmanned aircraft system when:
+(a) The operator holds a remote pilot certificate from the Federal
+Aviation Administration under 14 C.F.R. part 107;
+(b) The unmanned aircraft does not enter any restricted area described in
+subdivision (1)(a)(i) of this section; and
+(c) The operator has received approval for such operation from the Federal
+Aviation Administration.
+(5) A violation of this section is a Class III misdemeanor.
+Sec. 24. (1) A person commits the offense of swatting if such person:
+(a) Knowingly makes, causes to be made, or directs a false or misleading
+report of criminal activity or a need for emergency medical services or
+assistance from firefighters;
+(b) Such report is made to a law enforcement agency, public safety
+answering point, or any other emergency response organization;
+(c) The person knows or reasonably should know the report is false or
+misleading; and
+(d) The report results in the dispatch of law enforcement, firefighters,
+or emergency response personnel.
+(2) An offense under this section may be committed by any means of
+communication, including, but not limited to, direct communication, electronic
+communication, communication through a third party, or the use of automated or
+digital systems.
+(3)(a) Except as otherwise provided in this subsection, a violation of
+this section is a Class I misdemeanor.
+(b) A violation of this section is a Class II felony if the violation
+proximately:
+(i) Results in serious bodily injury to any person; or
+(ii) Causes a law enforcement officer to deploy or threaten to deploy
+deadly force.
+(c) A violation of this section is a Class IB felony if the violation
+proximately results in the death of any person, including any law enforcement
+or emergency response personnel.
+(4) Upon conviction for a violation of this section, the court shall, in
+addition to any other punishment imposed, order the defendant to make
+restitution, in accordance with sections 29-2280 to 29-2289, for all reasonable
+costs incurred by any victim of the offense and by any government entity as a
+result of the violation. Such expenses include, but are not limited to, law
+enforcement, firefighting, and emergency response personnel costs, tactical or
+specialized unit deployment, medical treatment, and property damage.
+(5) A violation of this section may be prosecuted in the county:
+(a) In which the defendant made the false report;
+(b) In which the recipient of the false report is located;
+(c) Where the recipient responded to the false report; or
+(d) Where the harm or risk of harm caused by the violation occurred.
+(6) For purposes of this section:
+(a) Law enforcement agency has the same meaning as in section 81-1401; and
+(b) Public safety answering point has the same meaning as in section
+86-1052.
+Sec. 25. Section 29-2204.02, Reissue Revised Statutes of Nebraska, is
+amended to read:
+29-2204.02 (1) Except when a term of probation is required by law as
+provided in subsection (2) of this section or except as otherwise provided in
+subsection (4) of this section, in imposing a sentence upon an offender for a
+Class III, IIIA, or IV felony, the court shall:
+(a) Impose a determinate sentence of imprisonment within the applicable
+range in section 28-105; and
+(b) Impose a sentence of post-release supervision, under the jurisdiction
+of the Office of Probation Administration, within the applicable range in
+section 28-105.
+(2) If the criminal offense is a Class IV felony, the court shall impose a
+sentence of probation unless:
+(a) The defendant is concurrently or consecutively sentenced to
+imprisonment for any felony other than another Class IV felony;
+(b) The defendant was originally charged with a Class I, IA, IB, IC, ID,
+-11-
+
+LB935 LB935
+2026 2026
+II, IIA, III, or IIIA felony;
+(c) (b) The defendant has been deemed a habitual criminal pursuant to
+section 29-2221; or
+(d) (c) There are substantial and compelling reasons why the defendant
+cannot effectively and safely be supervised in the community, including, but
+not limited to, the criteria in subsections (2) and (3) of section 29-2260.
+Unless other reasons are found to be present, that the offender has not
+previously succeeded on probation is not, standing alone, a substantial and
+compelling reason.
+(3) If a sentence of probation is not imposed, the court shall state its
+reasoning on the record, advise the defendant of his or her right to appeal the
+sentence, and impose a sentence as provided in subsection (1) of this section.
+(4) For any sentence of imprisonment for a Class III, IIIA, or IV felony
+for an offense committed on or after August 30, 2015, imposed consecutively or
+concurrently with (a) a sentence for a Class III, IIIA, or IV felony for an
+offense committed prior to August 30, 2015, or (b) a sentence of imprisonment
+for a Class I, IA, IB, IC, ID, II, or IIA felony, the court shall impose an
+indeterminate sentence within the applicable range in section 28-105 that does
+not include a period of post-release supervision, in accordance with the
+process set forth in section 29-2204.
+(5) For any sentence of imprisonment for a misdemeanor imposed
+consecutively or concurrently with a sentence of imprisonment for a Class III,
+IIIA, or IV felony for an offense committed on or after August 30, 2015, the
+court shall impose a determinate sentence within the applicable range in
+section 28-106 unless the person is also committed to the Department of
+Correctional Services in accordance with section 29-2204 for (a) a sentence of
+imprisonment for a Class III, IIIA, or IV felony committed prior to August 30,
+2015, or (b) a sentence of imprisonment for a Class I, IA, IB, IC, ID, II, or
+IIA felony.
+(6) If the defendant was under eighteen years of age at the time he or she
+committed the crime for which he or she was convicted, the court may, in its
+discretion, instead of imposing the penalty provided for the crime, make such
+disposition of the defendant as the court deems proper under the Nebraska
+Juvenile Code.
+(7)(a) When imposing a determinate sentence upon an offender under this
+section, the court shall:
+(i) Advise the offender on the record the time the offender will serve on
+his or her term of imprisonment before his or her term of post-release
+supervision assuming that no good time for which the offender will be eligible
+is lost;
+(ii) Advise the offender on the record the time the offender will serve on
+his or her term of post-release supervision; and
+(iii) When imposing a sentence following revocation of post-release
+supervision, advise the offender on the record the time the offender will serve
+on his or her term of imprisonment, including credit for time served, assuming
+that no good time for which the offender will be eligible is lost.
+(b) If a period of post-release supervision is required but not imposed by
+the sentencing court, the term of post-release supervision shall be the minimum
+provided by law.
+(c) If the court imposes more than one sentence upon an offender or
+imposes a sentence upon an offender who is at that time serving another
+sentence, the court shall state whether the sentences are to be concurrent or
+consecutive.
+(d) If the offender has been sentenced to two or more determinate
+sentences and one or more terms of post-release supervision, the offender shall
+serve all determinate sentences before being released on post-release
+supervision.
+Sec. 26. For purposes of sections 26 to 32 of this act:
+(1) Domestic assault offense means any offense under section 28-323;
+(2) Law enforcement agency has the same meaning as in section 81-1401;
+(3) Law enforcement officer has the same meaning as in section 81-1401;
+(4) No-contact period means the period of time that:
+(a) Begins when a person is arrested for a domestic assault offense or
+sexual assault offense; and
+(b) Ends at 11:59 p.m. on the third day after the date of such arrest. If
+such third day is a Saturday, a Sunday, or a day during which the offices of
+courts of record may be legally closed as provided in section 25-2221, the no-
+contact period shall end at 11:59 p.m. on the next day on which such offices
+will be open;
+(5) Sexual assault offense means:
+(a) A felony violation of section 28-316.01, 28-319, 28-319.01, 28-320, or
+28-320.01 or an attempt to commit any such violation; or
+(b) Any other felony that involves subjecting or attempting to subject
+another person to sexual contact or sexual penetration without such person's
+consent, as such terms are defined in section 28-318; and
+(6) Victim means the person alleged to have been the victim of a domestic
+assault offense or sexual assault offense.
+Sec. 27. Unless the victim has provided a waiver under section 28 of this
+act, when a person is arrested for a domestic assault offense or sexual assault
+offense, the person shall, for the duration of the no-contact period:
+(1) Not contact the victim;
+(2) Avoid the residence of the victim and, if applicable, any premises
+temporarily occupied by the victim; and
+-12-
+
+LB935 LB935
+2026 2026
+(3) Avoid causing any person, other than law enforcement officers and
+attorneys for the arrested person and victim, to contact the victim.
+Sec. 28. (1) A victim may waive the no-contact period by signing the
+written waiver in the form provided for in section 29 of this act.
+(2) Additionally, at any time during the no-contact period, a victim may
+waive the no-contact period by contacting the law enforcement agency of the
+arresting officer, signing a written waiver form, and providing such form to
+the agency.
+Sec. 29. (1) When a law enforcement officer arrests a person for a
+domestic assault offense or a sexual assault offense, the officer shall, if
+possible, provide the victim with a printed advisement. Such printed advisement
+shall include a statement in substantially the following form:
+Under Nebraska law, [name of person arrested] is required to avoid contact
+with you until [date and time of expiration of no-contact period]. [Name of
+person arrested] is also not allowed to cause any other person to contact you,
+other than their attorney, your attorney, or a law enforcement officer.
+You may agree to waive this protection, and allow [name of person
+arrested] to contact you. You may do so now by signing this form and returning
+it to the law enforcement officer. You may also do so later by contacting the
+officer's law enforcement agency and filling out a written form they will
+provide.
+If you wish to seek continuing protection after [date and time of
+expiration], you must apply for a protection order from the court. You may seek
+the advice of an attorney about any matter connected with your application for
+any future court orders. The attorney should be consulted promptly so that the
+attorney may assist you in making your application.
+(2) Such form may be provided as a separate document or included as part
+of another document provided to the victim.
+(3) Such form may include any other matters as prescribed by the State
+Court Administrator.
+(4) The State Court Administrator shall develop the form required under
+this section and the written waiver form described in subsection (2) of section
+28 of this act. The administrator shall develop forms in English and may
+develop forms for other languages spoken by Nebraska residents.
+Sec. 30. (1)(a) If a person arrested for a domestic assault offense or
+sexual assault offense is released from custody prior to the expiration of the
+no-contact period, the person shall be advised of the restrictions of the no-
+contact period and the penalties under section 31 of this act for violating
+such restrictions. Such advisement shall be provided orally and in writing.
+(b) Such advisement may be provided by a law enforcement officer, a judge,
+a jail official, or a designee of any such person.
+(c) The arrested person shall sign a written acknowledgment stating that
+such person has received the advisements required by this subsection,
+understands the restrictions of the no-contact period, and understands the
+penalties for violating such restrictions.
+(d) If the arrested person refuses to sign the acknowledgment, such person
+shall not be released from custody until after expiration of the no-contact
+period.
+(2) Any statements or information provided by an arrested person while he
+or she is being given the advisements required by subsection (1) of this
+section shall not be admissible in any proceeding, except for a proceeding
+relating to a violation of section 27 of this act.
+(3) Subsection (1) of this section does not apply if:
+(a) The victim provides a waiver as provided in section 28 of this act; or
+(b) The court orders the discharge of the arrested person under section
+29-506 after finding that no domestic assault offense or sexual assault offense
+has been committed or that there is no probable cause for holding the person to
+answer for the offense.
+Sec. 31. (1) Except as provided in subsection (2) of this section, a
+person who knowingly violates section 27 of this act shall be guilty of an
+offense and punished as follows:
+(a) For a first violation of such section, such person shall be guilty of
+a Class I misdemeanor; and
+(b) For a second or subsequent violation of such section, such person
+shall be guilty of a Class IV felony.
+(2) A person shall not be prosecuted for a violation of section 27 of this
+act if the person was released from custody during the no-contact period
+without being given the advisements and without signing the acknowledgment
+required under section 30 of this act.
+Sec. 32. A law enforcement officer shall, with or without a warrant,
+arrest a person if the officer has probable cause to believe that the person
+has committed a violation of section 27 of this act.
+Sec. 33. Section 29-4103, Reissue Revised Statutes of Nebraska, is amended
+to read:
+29-4103 For purposes of the DNA Identification Information Act:
+(1) Combined DNA Index System means the Federal Bureau of Investigation's
+national DNA identification index system that allows the storage and exchange
+of DNA records submitted by state and local forensic DNA laboratories;
+(2) DNA means deoxyribonucleic acid which is located in the cells and
+provides an individual's personal genetic blueprint. DNA encodes genetic
+information that is the basis of human heredity and forensic identification;
+(3) DNA record means the DNA identification information stored in the
+State DNA Database or the Combined DNA Index System which is derived from DNA
+-13-
+
+LB935 LB935
+2026 2026
+typing test results;
+(4) DNA sample means a blood, tissue, or bodily fluid sample provided by
+any person covered by the DNA Identification Information Act for analysis or
+storage, or both;
+(5) DNA typing tests means the laboratory procedures which evaluate the
+characteristics of a DNA sample which are of value in establishing the identity
+of an individual;
+(6) Law enforcement agency includes a police department, a town marshal, a
+county sheriff, and the Nebraska State Patrol;
+(7) Other specified offense means:
+(a) False misdemeanor stalking pursuant to sections 28-311.02 to 28-311.05
+or false imprisonment in the second degree pursuant to section 28-315; or
+(b) An an attempt, conspiracy, or solicitation to commit any of the
+following offenses: False stalking pursuant to sections 28-311.02 to 28-311.05,
+false imprisonment in the first degree pursuant to section 28-314, false
+imprisonment in the second degree pursuant to section 28-315, knowing and
+intentional sexual abuse of a vulnerable adult or senior adult pursuant to
+subdivision (1)(c) of section 28-386, or a violation of the Sex Offender
+Registration Act pursuant to section 29-4011; and
+(8) Released means any release, parole, furlough, work release,
+prerelease, or release in any other manner from a prison, a jail, or any other
+detention facility or institution.
+Sec. 34. Section 29-4315, Revised Statutes Cumulative Supplement, 2024, is
+amended to read:
+29-4315 (1) Upon an initial interaction with a victim relating to or
+arising from a sexual assault of such victim, a health care provider or peace
+officer, and in the case of a victim under eighteen years of age, the
+Department of Health and Human Services, shall provide the victim with
+information that explains the rights of victims under the Sexual Assault
+Victims' Bill of Rights Act and other relevant law. The information shall be
+presented in clear language that is comprehensible to a person proficient in
+English at the fifth grade level, accessible to persons with visual
+disabilities, and available in all major languages spoken in this state. This
+information shall include, but not be limited to:
+(a) A clear statement that a victim is not required to participate in the
+criminal justice system or to undergo a medical evidentiary or physical
+examination in order to retain the rights provided by the act and other
+relevant law;
+(b) Contact information for appropriate services provided by professionals
+in the fields of domestic violence and sexual assault, including advocates;
+(c) State and federal relief available to victims of crime;
+(d) Law enforcement protection available to the victim, including:
+(i) No-contact periods under sections 26 to 32 of this act; and
+(ii) Domestic domestic violence protection orders, harassment protection
+orders, and sexual assault protection orders and the process to obtain such
+protection;
+(e) Instructions for requesting information regarding the victim's sexual
+assault forensic evidence as provided in section 29-4313; and
+(f) State and federal compensation funds for medical and other costs
+associated with the sexual assault and information on any municipal, state, or
+federal right to restitution for a victim in the event of a conviction.
+(2) The information to be provided under subsection (1) of this section
+shall be developed by the Attorney General and the Nebraska Commission on Law
+Enforcement and Criminal Justice with input from prosecutors, sexual assault
+victims, and organizations with a statewide presence with expertise on domestic
+violence, sexual assault, and child sexual assault.
+(3) The information to be provided under subsection (1) of this section
+shall be made available for viewing and download on the websites of the
+Department of Health and Human Services and the Nebraska Commission on Law
+Enforcement and Criminal Justice. Other relevant state agencies are also
+encouraged to make such information available on their websites.
+Sec. 35. (1) In addition to all other court costs assessed according to
+law, a state docket fee shall be taxed as costs in each civil cause of action
+or traffic misdemeanor or infraction filed in the district courts and county
+courts in the following dollar amounts:
+Case Category State Docket Fee
+Civil cause of action (district court) 45.00
+Civil cause of action
+(county court) when the amount in controversy is:
+$1,500 or less No fee
+$1,500.01 to $7,500.00 10.00
+$7,500.01 or more 20.00
+Dissolution 26.00
+-14-
+
+LB935 LB935
+2026 2026
+Traffic misdemeanor or infraction 36.00
+Small claims 16.00
+(2) The fees shall be remitted to the State Treasurer on forms prescribed
+by the State Treasurer within ten days after the end of the month. The State
+Treasurer shall credit the fees to the General Fund.
+(3) Notwithstanding section 29-2709, Title IV-D status, or the in forma
+pauperis status of any litigant, a county, city, or village shall not be
+required to pay the state docket fee in any case.
+Sec. 36. In addition to all other court costs assessed according to law,
+a case management systems software fee of ten dollars shall be taxed as costs
+in each civil cause of action or traffic misdemeanor or infraction filed in the
+district courts and county courts. The fees shall be remitted to the State
+Treasurer on forms prescribed by the State Treasurer within ten days after the
+end of the month. The State Treasurer shall credit the fees to the Case
+Management Systems Software Cash Fund.
+Sec. 37. (1) The Case Management Systems Software Cash Fund is created.
+The State Court Administrator shall administer the fund. The fund shall consist
+of money remitted pursuant to section 36 of this act. The Supreme Court may use
+the fund to aid in defraying the costs of purchasing, implementing, and
+maintaining electronic case management systems.
+(2) Any money in the fund available for investment shall be invested by
+the state investment officer pursuant to the Nebraska Capital Expansion Act and
+the Nebraska State Funds Investment Act.
+Sec. 38. Section 42-371, Reissue Revised Statutes of Nebraska, is amended
+to read:
+42-371 Under the Uniform Interstate Family Support Act and sections 42-347
+to 42-381, 43-290, 43-512 to 43-512.10, and 43-1401 to 43-1418:
+(1)(a) Except as provided in subdivision (1)(b) of this section, all (1)
+All judgments and orders for payment of money shall be liens, as in other
+actions, upon real property and any personal property registered with any
+county office and may be enforced or collected by execution and the means
+authorized for collection of money judgments. ;
+(b) A judgment or order for payment of child support or spousal support
+creates a lien upon the real or personal property of the judgment debtor which
+attaches when the payment is due and extinguishes when the payment is made.
+(c) For purposes of this section, a current child support or spousal
+support order payment history from the Title IV-D Division of the Department of
+Health and Human Services or spousal support order payment history from the
+clerk of the district court setting forth evidence that all support payments
+are current, and have been made as ordered for the previous twelve-month period
+or the total length of time the order has been in effect, whichever is shorter,
+is prima facie evidence that such payments are in fact current and such
+evidence operates to release the lien described in subdivision (1)(b) of this
+section for purposes of transferring a specific parcel of real property;
+(2) The judgment creditor may execute a partial or total release of the
+judgment or a document subordinating the lien of the judgment to any other
+lien, generally or on specific real or personal property.
+Release of a judgment for child support or spousal support or
+subordination of a lien of a judgment for child support or spousal support may,
+if all such payments are current and not delinquent or in arrears, be released
+or subordinated by a release or subordination document executed by the judgment
+creditor, and such document shall be sufficient to remove or subordinate the
+lien. A properly executed, notarized release or subordination document
+explicitly reciting that all child support payments or spousal support payments
+are current is prima facie evidence that such payments are in fact current. For
+purposes of this section, any delinquency or arrearage of support payments
+shall be determined as provided in subsection (2) of section 42-358.02;
+(3) If a judgment creditor refuses to execute a release of the judgment or
+subordination of a lien as provided in subdivision (2) of this section or the
+support payments are not current, the person desiring such release or
+subordination may file an application for the relief desired in the court which
+rendered the original judgment. A copy of the application and a notice of
+hearing shall be served on the judgment creditor either personally or by
+registered or certified mail no later than ten days before the date of hearing.
+If the court finds that the release or subordination is not requested for the
+purpose of avoiding payment and that the release or subordination will not
+unduly reduce the security, the court may issue an order releasing real or
+personal property from the judgment lien or issue an order subordinating the
+judgment lien. As a condition for such release or subordination, the court may
+require the posting of a bond with the clerk in an amount fixed by the court,
+guaranteeing payment of the judgment. If the court orders a release or
+subordination, the court may order a judgment creditor who, without a good
+faith reason, refused to execute a release or subordination to pay the judgment
+debtor's court costs and attorney's fees involved with the application brought
+under this subdivision. A showing that all support payments are current shall
+be evidence that the judgment creditor did not have a good faith reason to
+refuse to execute such release or subordination. For purposes of this section,
+a current certified copy of support order payment history from the Title IV-D
+Division of the Department of Health and Human Services setting forth evidence
+that all support payments are current is prima facie evidence that such
+payments are in fact current and is valid for thirty days after the date of
+-15-
+
+LB935 LB935
+2026 2026
+certification;
+(4) Full faith and credit shall be accorded to a lien arising by operation
+of law against real and personal property for amounts overdue relating to a
+support order owed by a judgment debtor or obligor who resides or owns property
+in this state when another state agency, party, or other entity seeking to
+enforce such lien complies with the procedural rules relating to the filing of
+the lien in this state. The state agency, party, or other entity seeking to
+enforce such lien shall send a certified copy of the support order with all
+modifications, the notice of lien prescribed by 42 U.S.C. 652(a)(11) and 42
+U.S.C. 654(9)(E), and the appropriate fee to the clerk of the district court in
+the jurisdiction within this state in which the lien is sought. Upon receiving
+the appropriate documents and fee, the clerk of the district court shall accept
+the documents filed and such acceptance shall constitute entry of the foreign
+support order for purposes of this section only. Entry of a lien arising in
+another state pursuant to this section shall result in such lien being afforded
+the same treatment as liens arising in this state. The filing process required
+by this section shall not be construed as requiring an application, complaint,
+answer, and hearing as might be required for the filing or registration of
+foreign judgments under the Nebraska Uniform Enforcement of Foreign Judgments
+Act or the Uniform Interstate Family Support Act;
+(5) Support order judgments shall cease to be liens on real or registered
+personal property ten years from the date (a) the youngest child becomes of age
+or dies or (b) the most recent execution was issued to collect the judgment,
+whichever is later, and such lien shall not be reinstated;
+(6) Alimony and property settlement award judgments, if not covered by
+subdivision (5) of this section, shall cease to be a lien on real or registered
+personal property ten years from the date (a) the judgment was entered, (b) the
+most recent payment was made, or (c) the most recent execution was issued to
+collect the judgment, whichever is latest, and such lien shall not be
+reinstated;
+(7) The court may in any case, upon application or its own motion, after
+notice and hearing, order a person required to make payments to post sufficient
+security, bond, or other guarantee with the clerk to insure payment of both
+current and any delinquent amounts. Upon failure to comply with the order, the
+court may also appoint a receiver to take charge of the debtor's property to
+insure payment. Any bond, security, or other guarantee paid in cash may, when
+the court deems it appropriate, be applied either to current payments or to
+reduce any accumulated arrearage;
+(8)(a) The lien of a mortgage or deed of trust which secures a loan, the
+proceeds of which are used to purchase real property, and (b) any lien given
+priority pursuant to a subordination document under this section shall attach
+prior to any lien authorized by this section. Any mortgage or deed of trust
+which secures the refinancing, renewal, or extension of a real property
+purchase money mortgage or deed of trust shall have the same lien priority with
+respect to any lien authorized by this section as the original real property
+purchase money mortgage or deed of trust to the extent that the amount of the
+loan refinanced, renewed, or extended does not exceed the amount used to pay
+the principal and interest on the existing real property purchase money
+mortgage or deed of trust, plus the costs of the refinancing, renewal, or
+extension; and
+(9) Any lien authorized by this section against personal property
+registered with any county consisting of a motor vehicle or mobile home shall
+attach upon notation of the lien against the motor vehicle or mobile home
+certificate of title and shall have its priority established pursuant to the
+terms of section 60-164 or a subordination document executed under this
+section.
+Sec. 39. Section 42-927, Revised Statutes Supplement, 2025, is amended to
+read:
+42-927 All law enforcement agencies in the state shall provide officers
+employed by them with an education and training program designed to inform the
+officers of the problems of domestic abuse, procedures to deal with such
+problems, no-contact periods under sections 26 to 32 of this act, the
+Protection from Domestic Abuse Act, the Protection Orders Act, and the services
+and facilities available to abused family and household members.
+Sec. 40. Section 43-1409, Reissue Revised Statutes of Nebraska, is amended
+to read:
+43-1409 (1) The signing of a notarized acknowledgment, whether under
+section 43-1408.01 or otherwise, by the alleged father shall create a
+rebuttable presumption of paternity as against the alleged father.
+(2) The signed, notarized acknowledgment is subject to the right of any
+signatory to rescind the acknowledgment within the earlier of (a) (1) sixty
+days or (b) (2) the date of an administrative or judicial proceeding relating
+to the child, including a proceeding to establish a support order in which the
+signatory is a party.
+(3)(a) After the rescission period, a signed, notarized acknowledgment is
+considered a legal finding of paternity. Such legal finding of paternity which
+may be challenged and set aside only:
+(i) On on the basis of fraud, duress, or material mistake of fact; or
+(ii)(A) By a person who has reason to believe he is the biological father
+of the child, on the basis of scientifically reliable genetic testing that
+establishes that such person is the biological father of the child and that the
+acknowledged father is not the biological father of the child. Such genetic
+testing shall be performed by a laboratory accredited by the College of
+-16-
+
+LB935 LB935
+2026 2026
+American Pathologists or any other national accrediting body or public agency
+which has requirements that are substantially equivalent to or more
+comprehensive than those of the college.
+(B) A challenge under subdivision (3)(a)(ii)(A) of this section that is
+filed on or after the operative date of this section shall only be brought by a
+person who is also seeking to establish paternity in himself. This requirement
+does not apply to cases pending on the operative date of this section.
+(b) In a challenge under this subsection, with the burden of proof shall
+be upon the challenger, and the legal responsibilities, including the child
+support obligation, of any signatory arising from the acknowledgment shall not
+be suspended during the challenge, except for good cause shown.
+(4) Such a signed and notarized acknowledgment or a certified copy or
+certified reproduction thereof shall be admissible in evidence in any
+proceeding to establish support.
+(5) Except as otherwise provided in subdivision (3)(a)(ii)(B) of this
+section, the changes made to this section by this legislative bill apply to
+actions under sections 43-1401 to 43-1418 that are pending on the operative
+date of this section and to cases filed on or after such date.
+Sec. 41. Section 43-1412.01, Reissue Revised Statutes of Nebraska, is
+amended to read:
+43-1412.01 (1) An individual may file a complaint for relief and the court
+may set aside a final judgment, court order, administrative order, obligation
+to pay child support, or any other legal determination of paternity if a
+scientifically reliable genetic test performed in accordance with sections
+43-1401 to 43-1418 establishes the exclusion of the individual named as a
+father in the legal determination. The court shall appoint a guardian ad litem
+to represent the interest of the child. The filing party shall pay the costs of
+such test.
+(2) A court that sets aside a determination of paternity in accordance
+with this section shall order completion of a new birth record and may order
+any other appropriate relief, including setting aside an obligation to pay
+child support.
+(3) No support order may be retroactively modified, but may be modified
+with respect to any period during which there is a pending complaint for relief
+from a determination of paternity under this section, but only from the date
+that notice of the complaint was served on the nonfiling party.
+(4) A court shall not grant relief from determination of paternity if the
+individual named as father:
+(a) Completed (1) completed a notarized acknowledgment of paternity
+pursuant to section 43-1408.01, unless such acknowledgement has been set aside
+under subsection (3) of section 43-1409;
+(b) Adopted (2) adopted the child; , or
+(c) Knew (3) knew that the child was conceived through artificial
+insemination.
+(5) The changes made to this section by this legislative bill apply to
+actions under sections 43-1401 to 43-1418 that are pending on the operative
+date of this section and to cases filed on or after such date.
+Sec. 42. Section 59-1608.04, Revised Statutes Cumulative Supplement, 2024,
+is amended to read:
+59-1608.04 (1) The State Settlement Cash Fund is created. The fund shall
+be maintained by the Department of Justice and administered by the Attorney
+General. Except as otherwise provided by law, the fund shall consist of all
+recoveries received pursuant to the Consumer Protection Act, including any
+money, funds, securities, or other things of value in the nature of civil
+damages or other payment, except criminal penalties, whether such recovery is
+by way of verdict, judgment, compromise, or settlement in or out of court, or
+other final disposition of any case or controversy, or any other payments
+received on behalf of the state by the Department of Justice and administered
+by the Attorney General for the benefit of the state or the general welfare of
+its citizens, but excluding all funds held in a trust capacity where specific
+benefits accrue to specific individuals, organizations, or governments. The
+fund may be expended for any allowable legal purposes as determined by the
+Attorney General. Transfers from the State Settlement Cash Fund may be made at
+the direction of the Legislature to the Nebraska Capital Construction Fund, the
+Legal Education for Public Service and Rural Practice Loan Repayment Assistance
+Fund, the Nebraska State Patrol Cash Fund, the Financial Literacy Cash Fund,
+and the General Fund. To provide necessary financial accountability and
+management oversight, revenue from individual settlement agreements or other
+separate sources credited to the State Settlement Cash Fund may be tracked and
+accounted for within the state accounting system through the use of separate
+and distinct funds, subfunds, or any other available accounting mechanism
+specifically approved by the Accounting Administrator for use by the Department
+of Justice. Any money in the fund available for investment shall be invested by
+the state investment officer pursuant to the Nebraska Capital Expansion Act and
+the Nebraska State Funds Investment Act. Beginning October 1, 2024, any
+investment earnings from investment of money in the fund shall be credited to
+the General Fund.
+(2) The State Treasurer shall transfer two million five hundred thousand
+dollars from the State Settlement Cash Fund to the Nebraska Capital
+Construction Fund on July 1, 2013, or as soon thereafter as administratively
+possible.
+(3) The State Treasurer shall transfer eight hundred seventy-six thousand
+nine hundred ninety-eight dollars from the State Settlement Cash Fund to the
+-17-
+
+LB935 LB935
+2026 2026
+General Fund on or before June 30, 2018, on such dates and in such amounts as
+directed by the budget administrator of the budget division of the Department
+of Administrative Services.
+(4) The State Treasurer shall transfer one million seven hundred fifty-six
+thousand six hundred thirty-nine dollars from the State Settlement Cash Fund to
+the General Fund on or before June 30, 2019, on such dates and in such amounts
+as directed by the budget administrator of the budget division of the
+Department of Administrative Services.
+(5) The State Treasurer shall transfer one hundred twenty-five thousand
+dollars from the State Settlement Cash Fund to the Legal Education for Public
+Service and Rural Practice Loan Repayment Assistance Fund on or before April
+30, 2018, on such dates and in such amounts as directed by the budget
+administrator of the budget division of the Department of Administrative
+Services.
+(6) The State Treasurer shall transfer one hundred fifty thousand dollars
+from the State Settlement Cash Fund to the Legal Education for Public Service
+and Rural Practice Loan Repayment Assistance Fund on or before July 9, 2018, on
+such dates and in such amounts as directed by the budget administrator of the
+budget division of the Department of Administrative Services.
+(7) The State Treasurer shall transfer ten thousand dollars from the State
+Settlement Cash Fund to the Legal Education for Public Service and Rural
+Practice Loan Repayment Assistance Fund on the operative date of this section,
+or as soon thereafter as administratively possible.
+Sec. 43. Section 84-941.01, Reissue Revised Statutes of Nebraska, is
+amended to read:
+84-941.01 Potentially disqualifying conviction includes a conviction for:
+(1) Criminal attempt as provided in section 28-201, conspiracy as provided
+in section 28-202, or aiding and abetting as provided in section 28-206, to
+commit an offense listed in this section;
+(2) Murder as provided in sections 28-303 or 28-304;
+(3) Manslaughter as provided in section 28-305;
+(4) Motor vehicle homicide as provided in section 28-306;
+(5) Assault in the first or second degree as provided in sections 28-308
+and 28-309;
+(6) Terroristic threats as provided in section 28-311.01;
+(7) Stalking as provided in section 28-311.03;
+(8) A violation relating to mobile tracking devices under section 14 of
+this act;
+(9) (8) Kidnapping as provided in section 28-313;
+(10) (9) False imprisonment as provided in sections 28-314 and 28-315;
+(11) (10) A sexual act subject to criminal penalties as provided in
+sections 28-317 to 28-322.05;
+(12) (11) Domestic assault as provided in section 28-323;
+(13) (12) Robbery as provided in section 28-324;
+(14) (13) Arson as provided in sections 28-502, 28-503, and 28-504;
+(15) (14) Fraud subject to criminal penalties as provided in sections
+28-505, 28-631, 28-638, 28-639, 28-640, and 28-935;
+(16) (15) Theft as provided in sections 28-511, 28-512, 28-513, and
+28-515;
+(17) (16) Forgery as provided in sections 28-602 and 28-603;
+(18) (17) Incest as provided in section 28-703;
+(19) (18) Child abuse as provided in section 28-707;
+(20) (19) Human trafficking, labor trafficking, sex trafficking, labor
+trafficking of a minor, or sex trafficking of a minor as provided in section
+28-831;
+(21) (20) False reporting as provided in section 28-907;
+(22) Swatting under section 24 of this act;
+(23) (21) Perjury as provided in section 28-915;
+(24) (22) Assault on an officer, an emergency responder, certain
+employees, or a health care professional in the first degree as provided in
+section 28-929;
+(25) (23) Assault on an officer, an emergency responder, certain
+employees, or a health care professional in the second degree as provided in
+section 28-930;
+(26) (24) Assault on an officer, an emergency responder, certain
+employees, or a health care professional in the third degree as provided in
+section 28-931;
+(27) (25) Assault on an officer, an emergency responder, certain
+employees, or a health care professional using a motor vehicle as provided in
+section 28-931.01;
+(28) (26) An offense that has as an element the threat to inflict serious
+bodily injury as defined in section 28-109 or death on another person, the
+intentional infliction of serious bodily injury as defined in section 28-109 on
+another person, or intentionally causing the death of another person;
+(29) (27) An offense for which registration is required under the Sex
+Offender Registration Act; or
+(30) (28) Any offense under the laws of another jurisdiction that is
+substantially equivalent to any of the offenses listed in this section.
+Sec. 44. Section 86-2,103, Reissue Revised Statutes of Nebraska, is
+amended to read:
+86-2,103 (1) A district court may issue a warrant or other order for the
+installation of a mobile tracking device, and such order may authorize the use
+of that device within the jurisdiction of the court and outside that
+-18-
+
+LB935 LB935
+2026 2026
+jurisdiction if the device is installed in that jurisdiction.
+(2) For purposes of this section, mobile tracking device means any:
+(a) Electronic an electronic or mechanical device which permits the
+tracking of the movement of a person or object; or .
+(b) Software program installed on a person's electronic device which
+permits the tracking of the movement of a person or object.
+Sec. 45. Sections 35, 36, and 37 of this act become operative on July 1,
+2026. Sections 20, 26, 27, 28, 29, 30, 31, 32, 34, 39, and 47 of this act
+become operative on January 1, 2027. Sections 1, 2, 3, 4, 5, 6, 7, 8, 9, 10,
+11, 12, 13, 14, 15, 16, 17, 18, 19, 21, 22, 23, 24, 25, 33, 38, 42, 43, 44, and
+48 of this act become operative three calendar months after the adjournment of
+this legislative session. The other sections of this act become operative on
+their effective date.
+Sec. 46. If any section in this act or any part of any section is
+declared invalid or unconstitutional, the declaration shall not affect the
+validity or constitutionality of the remaining portions.
+Sec. 47. Original section 29-4315, Revised Statutes Cumulative
+Supplement, 2024, and sections 28-358.01 and 42-927, Revised Statutes
+Supplement, 2025, are repealed.
+Sec. 48. Original sections 7-203, 7-207, 25-824, 25-1802, 25-1804,
+27-804, 29-2204.02, 29-4103, 42-371, 84-941.01, and 86-2,103, Reissue Revised
+Statutes of Nebraska, sections 28-311.08 and 59-1608.04, Revised Statutes
+Cumulative Supplement, 2024, and sections 26-102, 26-114, 28-101, 28-311.02,
+28-311.04, 28-1205, and 28-1206, Revised Statutes Supplement, 2025, are
+repealed.
+Sec. 49. Original sections 43-1409 and 43-1412.01, Reissue Revised
+Statutes of Nebraska, are repealed.
+Sec. 50. Since an emergency exists, this act takes effect when passed and
+approved according to law.
+-19-

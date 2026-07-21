@@ -1,0 +1,219 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LB1080 LB1080
+2026 2026
+LEGISLATURE OF NEBRASKA
+ONE HUNDRED NINTH LEGISLATURE
+SECOND SESSION
+LEGISLATIVE BILL 1080
+Introduced by DeBoer, 10.
+Read first time January 15, 2026
+Committee: Judiciary
+1 A BILL FOR AN ACT relating to civil procedure; to amend sections 25-1241
+2 and 25-1244, Reissue Revised Statutes of Nebraska, sections 28-915
+3 and 28-915.01, Revised Statutes Cumulative Supplement, 2024, and
+4 section 49-1808, Revised Statutes Supplement, 2025; to provide for
+5 the use of unsworn declarations in civil proceedings as prescribed;
+6 to change and transfer provisions relating to affidavits; to define
+7 terms; to change provisions relating to the offenses of perjury,
+8 making a false statement under oath or affirmation, and unsworn
+9 attorney declarations under the Uniform Unsworn Foreign Declarations
+10 Act; to harmonize provisions; to repeal the original sections; and
+11 to outright repeal section 25-1245, Reissue Revised Statutes of
+12 Nebraska.
+13 Be it enacted by the people of the State of Nebraska,
+-1-
+
+LB1080 LB1080
+2026 2026
+1 Section 1. Section 25-1241, Reissue Revised Statutes of Nebraska, is
+2 amended to read:
+3 25-1241 (1)(a) An affidavit is a document that is signed by a person
+4 under oath before an officer who is authorized by law to administer oaths
+5 to persons in the place where the affidavit is signed and who verifies
+6 the identity of the person signing the affidavit.
+7 (b) An affidavit must contain the officer's signature, notary seal,
+8 title, and commission expiration date. The person signing the affidavit
+9 must do so in the physical presence of the officer or, when authorized by
+10 law, in the online presence of the officer.
+11 (c) An affidavit may be signed within or outside this state. The
+12 fact that an attorney represents a party in any proceeding in any court
+13 of this state shall not disqualify such attorney as an officer before
+14 whom an affidavit may be signed.
+15 (2)(a) An unsworn declaration is a document that is signed by a
+16 person within the boundaries of the United States and contains language
+17 substantially the same as the following: "I declare (or certify, verify,
+18 or state) under penalty of perjury under the laws of the State of
+19 Nebraska that everything I have stated in this document is true and
+20 correct.".
+21 (b) An unsworn declaration shall state (i) the date on which it was
+22 signed and (ii) both the county or political subdivision and the state,
+23 commonwealth, territory, or possession where it was signed.
+24 (3) For purposes of this section, boundaries of the United States
+25 means the geographic boundaries of the United States, Puerto Rico, the
+26 United States Virgin Islands, and any territory or insular possession
+27 subject to the jurisdiction of the United States. An affidavit is a
+28 written declaration under oath, made without notice to the adverse party.
+29 Sec. 2. Section 25-1244, Reissue Revised Statutes of Nebraska, is
+30 amended to read:
+31 25-1244 (1) In a civil proceeding in any court of this state, an An
+-2-
+
+LB1080 LB1080
+2026 2026
+1 affidavit may be used:
+2 (a) To to verify a pleading; ,
+3 (b) To to prove the service of a summons or , notice of or other
+4 process , in an action; ,
+5 (c) To to obtain a provisional remedy or , an examination of a
+6 witness, a stay of proceedings; ,
+7 (d) To support or oppose or upon a motion; , and
+8 (e) For in any other purpose case permitted by law.
+9 (2) An unsworn declaration may be used instead of an affidavit for
+10 any purpose for which an affidavit may be used in a civil proceeding in
+11 any court of this state, except:
+12 (a) For the purpose of supporting a motion, application, or petition
+13 for a court order without notice to the adverse party; or
+14 (b) For a purpose for which a statute or Supreme Court rule
+15 specifically prohibits the use of an unsworn declaration.
+16 Sec. 3. Section 28-915, Revised Statutes Cumulative Supplement,
+17 2024, is amended to read:
+18 28-915 (1) A person is guilty of perjury if, in any (a) official
+19 proceeding he or she makes a false statement under oath or equivalent
+20 affirmation, or swears or affirms the truth of a statement previously
+21 made, when the statement is material and he or she does not believe it to
+22 be true or (b) official proceeding in the State of Nebraska he or she
+23 makes a false statement under penalty of perjury in any unsworn
+24 declaration meeting the requirements of the Uniform Unsworn Foreign
+25 Declarations Act or section 25-1241 or 49-1808, under penalty of perjury
+26 when the statement is material and he or she does not believe it to be
+27 true. Perjury is a Class III felony.
+28 (2) A person is guilty of subornation of perjury if he or she
+29 persuades, procures, or suborns any other person to commit perjury.
+30 Subornation of perjury is a Class III felony.
+31 (3) A falsification shall be material, regardless of the
+-3-
+
+LB1080 LB1080
+2026 2026
+1 admissibility of the statement under rules of evidence, if it could have
+2 affected the course or outcome of the proceeding. It shall not be a
+3 defense that the declarant mistakenly believed the falsification to be
+4 immaterial. Whether a falsification is material in a given factual
+5 situation shall be a question of law.
+6 (4) It shall not be a defense to prosecution under this section that
+7 the oath or affirmation was administered or taken in an irregular manner
+8 or that the declarant was not competent to make the statement. A document
+9 purporting to be made upon oath or affirmation at any time when the actor
+10 presents it as being so verified shall be deemed to have been duly sworn
+11 or affirmed. A document purporting to meet the requirements of the
+12 Uniform Unsworn Foreign Declarations Act or section 25-1241 or 49-1808
+13 shall be deemed to have been made under penalty of perjury.
+14 (5) No person shall be guilty of an offense under this section if he
+15 or she retracted the falsification in the course of the proceeding in
+16 which it was made before it became manifest that the falsification was or
+17 would be exposed and before the falsification substantially affected the
+18 proceeding.
+19 (6) When the defendant made inconsistent statements under oath or
+20 equivalent affirmation, both having been made within the period of the
+21 statute of limitations, the prosecution may proceed by setting forth the
+22 inconsistent statements in a single count alleging in the alternative
+23 that one or the other was false and not believed by the defendant. In
+24 such case it shall not be necessary for the prosecution to prove which
+25 statement was false but only that one or the other was false and not
+26 believed by the defendant to be true.
+27 (7) No person shall be convicted of an offense under this section
+28 when proof of falsity rests solely upon contradiction by testimony of a
+29 single person other than the defendant.
+30 Sec. 4. Section 28-915.01, Revised Statutes Cumulative Supplement,
+31 2024, is amended to read:
+-4-
+
+LB1080 LB1080
+2026 2026
+1 28-915.01 (1) A person who makes a false statement under oath or
+2 equivalent affirmation, or swears or affirms the truth of such a
+3 statement previously made, or makes a false statement in an unsworn
+4 declaration that meets the requirements of the Uniform Unsworn Foreign
+5 Declarations Act or section 25-1241 or 49-1808, when he or she does not
+6 believe the statement to be true, is guilty of a Class I misdemeanor if
+7 the falsification:
+8 (a) Occurs in an official proceeding; or
+9 (b) Is intended to mislead a public servant in performing his or her
+10 official function.
+11 (2) A person who makes a false statement under oath or equivalent
+12 affirmation, or swears or affirms the truth of such a statement
+13 previously made, or makes a false statement in an unsworn declaration
+14 that meets the requirements of the Uniform Unsworn Foreign Declarations
+15 Act, when he or she does not believe the statement to be true, is guilty
+16 of a Class II misdemeanor if the statement is one which is required by
+17 law to be sworn or affirmed before a notary or other person authorized to
+18 administer oaths.
+19 (3) A person who makes a false statement in an unsworn declaration
+20 that meets the requirements of section 25-1241 or 49-1808 and is used for
+21 any purpose authorized by such section, when such person does not believe
+22 the statement to be true, is guilty of a Class II misdemeanor.
+23 (4) (3) Subsections (4) through (7) of section 28-915 shall apply to
+24 subsections (1) through (3) and (2) of this section.
+25 (5) (4) This section shall not apply to reports, statements,
+26 affidavits, or other documents made or filed pursuant to the Nebraska
+27 Political Accountability and Disclosure Act.
+28 Sec. 5. Section 49-1808, Revised Statutes Supplement, 2025, is
+29 amended to read:
+30 49-1808 (1) For purposes of this section, statement includes any
+31 statement, declaration, verification, certificate, oath, or affidavit.
+-5-
+
+LB1080 LB1080
+2026 2026
+1 (2) Except as provided in subsection (3) of this section, Wherever
+2 any matter that is required or permitted to be supported, evidenced,
+3 established, or proved by the sworn written statement declaration,
+4 verification, certificate, statement, oath, or affidavit, in writing, of
+5 an attorney, whose signature is required by virtue of the attorney's
+6 representation of a party in an action, making the same (other than a
+7 deposition, an oath of office, or an oath required to be taken before a
+8 specified official other than a notary public), such matter may, with
+9 like force and effect, be supported, evidenced, established, or proved by
+10 an the unsworn written statement declaration, certificate, verification,
+11 or statement, in writing, of such attorney which: (a) Is signed is
+12 subscribed by the attorney , as true under penalty of perjury, (b) states
+13 the county or political subdivision and the state where it is signed, (c)
+14 states the date on which it is signed, and (d) is dated, in substantially
+15 the following form:
+16 (1) If executed outside of the State of Nebraska: I declare (or
+17 certify, verify, or state) under penalty of perjury under the laws of the
+18 State of Nebraska that everything that I have stated in this document the
+19 foregoing is true and correct. Executed on (date). (Signature); or
+20 Executed on the ........ day of ............., ......., at
+21 (date) (month) (year)
+22 ......................................,
+23 (county or political subdivision, and state)
+24 ......................................
+25 (printed name)
+26 ......................................
+27 (signature)
+28 (3) An unsworn written statement under subsection (2) of this
+29 section shall not be used for a deposition, an oath of office, or an oath
+30 required to be taken before a specified official other than a notary
+31 public.
+-6-
+
+LB1080 LB1080
+2026 2026
+1 (2) If executed within the State of Nebraska: I declare under
+2 penalty of perjury that the foregoing is true and correct. Executed on
+3 (date). (Signature).
+4 Sec. 6. Original sections 25-1241 and 25-1244, Reissue Revised
+5 Statutes of Nebraska, sections 28-915 and 28-915.01, Revised Statutes
+6 Cumulative Supplement, 2024, and section 49-1808, Revised Statutes
+7 Supplement, 2025, are repealed.
+8 Sec. 7. The following section is outright repealed: Section
+9 25-1245, Reissue Revised Statutes of Nebraska.
+-7-
