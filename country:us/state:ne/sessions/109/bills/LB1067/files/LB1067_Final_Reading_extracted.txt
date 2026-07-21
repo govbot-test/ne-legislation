@@ -1,0 +1,264 @@
+Title: 
+Official Title: 
+Source: versions - Final Reading
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LB1067 LB1067
+2026 2026
+LEGISLATURE OF NEBRASKA
+ONE HUNDRED NINTH LEGISLATURE
+SECOND SESSION
+LEGISLATIVE BILL 1067
+FINAL READING
+Introduced by Hallstrom, 1; McKinney, 11; Dover, 19; Quick, 35.
+Read first time January 14, 2026
+Committee: Revenue
+1 A BILL FOR AN ACT relating to revenue and taxation; to amend section
+2 81-1230, Reissue Revised Statutes of Nebraska, section 58-703,
+3 Revised Statutes Cumulative Supplement, 2024, and sections 76-901,
+4 76-903, 77-1327, and 81-1239, Revised Statutes Supplement, 2025; to
+5 change provisions relating to the Affordable Housing Trust Fund, the
+6 rate and disbursement of the documentary stamp tax, the Rural
+7 Workforce Housing Investment Fund, and the Middle Income Workforce
+8 Housing Investment Fund; to harmonize provisions; and to repeal the
+9 original sections.
+10 Be it enacted by the people of the State of Nebraska,
+-1-
+
+LB1067 LB1067
+2026 2026
+1 Section 1. Section 58-703, Revised Statutes Cumulative Supplement,
+2 2024, is amended to read:
+3 58-703 (1) The Affordable Housing Trust Fund is created. The fund
+4 shall receive money pursuant to section 76-903 and may include revenue
+5 from sources recommended by the housing advisory committee established in
+6 section 58-704, appropriations from the Legislature, transfers authorized
+7 by the Legislature, grants, private contributions, repayment of loans,
+8 and all other sources. The Department of Economic Development as part of
+9 its comprehensive housing affordability strategy shall administer the
+10 Affordable Housing Trust Fund.
+11 (2)(a) Prior to July 1, 2027, transfers Transfers may be made from
+12 the Affordable Housing Trust Fund to the General Fund, the Behavioral
+13 Health Services Fund, the Lead-Based Paint Hazard Control Cash Fund, the
+14 Middle Income Workforce Housing Investment Fund, the Rural Workforce
+15 Housing Investment Fund, and the Site and Building Development Fund at
+16 the direction of the Legislature.
+17 (b) Beginning on and after July 1, 2027, money shall not be
+18 transferred from the Affordable Housing Trust Fund.
+19 Sec. 2. Section 76-901, Revised Statutes Supplement, 2025, is
+20 amended to read:
+21 76-901 There is hereby imposed a tax on the grantor executing the
+22 deed as defined in section 76-203 upon the transfer of a beneficial
+23 interest in or legal title to real estate at the rate of three two
+24 dollars and thirty-two cents for each one thousand dollars value or
+25 fraction thereof for transfers before January 1, 2032, and at the rate of
+26 two dollars and thirty-two cents for each one thousand dollars value or
+27 fraction thereof for transfers on or after January 1, 2032. For purposes
+28 of sections 76-901 to 76-908, value means (1) in the case of any deed,
+29 not a gift, the amount of the full actual consideration thereof, paid or
+30 to be paid, including the amount of any lien or liens assumed, and (2) in
+31 the case of a gift or any deed with nominal consideration or without
+-2-
+
+LB1067 LB1067
+2026 2026
+1 stated consideration, the current market value of the property
+2 transferred. Such tax shall be evidenced by stamps to be attached to the
+3 deed. All deeds purporting to transfer legal title or beneficial interest
+4 shall be presumed taxable unless it clearly appears on the face of the
+5 deed or sufficient documentary proof is presented to the register of
+6 deeds that the instrument is exempt under section 76-902.
+7 Sec. 3. Section 76-903, Revised Statutes Supplement, 2025, is
+8 amended to read:
+9 76-903 The Tax Commissioner shall design such stamps in such
+10 denominations as in his or her judgment will be the most advantageous to
+11 all persons concerned. When any deed subject to the tax imposed by
+12 section 76-901 is offered for recordation, the register of deeds shall
+13 ascertain and compute the amount of the tax due thereon and shall collect
+14 such amount as a prerequisite to acceptance of the deed for recordation.
+15 If a dispute arises concerning the taxability of the transfer, the
+16 register of deeds shall not record the deed until the disputed tax is
+17 paid. If a disputed tax has been paid, the taxpayer may file for a refund
+18 pursuant to section 76-908. The taxpayer may also seek a declaratory
+19 ruling pursuant to rules and regulations adopted and promulgated by the
+20 Department of Revenue. From each three two dollars and thirty-two cents
+21 of tax collected pursuant to section 76-901 for transfers before January
+22 1, 2032, the register of deeds shall retain fifty cents to be placed in
+23 the county general fund and shall remit the balance to the State
+24 Treasurer who shall credit ninety-five cents of such amount to the
+25 Affordable Housing Trust Fund, twenty-five cents of such amount to the
+26 Site and Building Development Fund, twenty-five cents of such amount to
+27 the Homeless Shelter Assistance Trust Fund, thirty cents of such amount
+28 to the Behavioral Health Services Fund, and seven cents of such amount to
+29 the Domestic Violence and Sex Trafficking Survivor Housing Assistance
+30 Fund, fifty cents of such amount to the Rural Workforce Housing
+31 Investment Fund, and fifty cents of such amount to the Middle Income
+-3-
+
+LB1067 LB1067
+2026 2026
+1 Workforce Housing Investment Fund. From each two dollars and thirty-two
+2 cents of tax collected pursuant to section 76-901 for transfers on or
+3 after January 1, 2032, the register of deeds shall retain fifty cents to
+4 be placed in the county general fund and shall remit the balance to the
+5 State Treasurer who shall credit ninety-five cents of such amount to the
+6 Affordable Housing Trust Fund, twenty-five cents of such amount to the
+7 Site and Building Development Fund, twenty-five cents of such amount to
+8 the Homeless Shelter Assistance Trust Fund, thirty cents of such amount
+9 to the Behavioral Health Services Fund, and seven cents of such amount to
+10 the Domestic Violence and Sex Trafficking Survivor Housing Assistance
+11 Fund. Except as provided in subsection (6) of section 81-1230, subsection
+12 (3) of section 81-1231, subsection (6) of section 81-1239, and subsection
+13 (3) of section 81-1240, any money remitted to the State Treasurer under
+14 this section shall only be used to credit the funds described in this
+15 section and any purpose authorized by the funds such money is credited to
+16 and shall not be used for any other purpose.
+17 Sec. 4. Section 77-1327, Revised Statutes Supplement, 2025, is
+18 amended to read:
+19 77-1327 (1) It is the intent of the Legislature that accurate and
+20 comprehensive information be developed by the Property Tax Administrator
+21 and made accessible to the taxing officials and property owners in order
+22 to ensure the uniformity and proportionality of the assessments of real
+23 property valuations in the state in accordance with law and to provide
+24 the statistical and narrative reports pursuant to section 77-5027.
+25 (2) All transactions of real property for which the statement
+26 required in section 76-214 is filed shall be available for development of
+27 a sales file by the Property Tax Administrator. All transactions with
+28 stated consideration of more than one hundred dollars or upon which more
+29 than three two dollars and thirty-two cents in documentary stamp taxes
+30 for transactions before January 1, 2032, or two dollars and thirty-two
+31 cents in documentary stamp taxes for transactions on or after January 1,
+-4-
+
+LB1067 LB1067
+2026 2026
+1 2032, are paid shall be considered sales. All sales shall be deemed to be
+2 arm's length transactions unless determined to be otherwise under
+3 professionally accepted mass appraisal techniques. The Department of
+4 Revenue shall not overturn a determination made by a county assessor
+5 regarding the qualification of a sale unless the department reviews the
+6 sale and determines through the review that the determination made by the
+7 county assessor is incorrect.
+8 (3) The Property Tax Administrator annually shall make and issue
+9 comprehensive assessment ratio studies of the average level of
+10 assessment, the degree of assessment uniformity, and the overall
+11 compliance with assessment requirements for each major class of real
+12 property subject to the property tax in each county. The comprehensive
+13 assessment ratio studies shall be developed in compliance with
+14 professionally accepted mass appraisal techniques and shall employ such
+15 statistical analysis as deemed appropriate by the Property Tax
+16 Administrator, including measures of central tendency and dispersion. The
+17 comprehensive assessment ratio studies shall be based upon the sales file
+18 as developed in subsection (2) of this section and shall be used by the
+19 Property Tax Administrator for the analysis of the level of value and
+20 quality of assessment for purposes of section 77-5027 and by the Property
+21 Tax Administrator in establishing the adjusted valuations required by
+22 section 79-1016. Such studies may also be used by assessing officials in
+23 establishing assessed valuations.
+24 (4) For purposes of determining the level of value of agricultural
+25 and horticultural land subject to special valuation under sections
+26 77-1343 to 77-1347.01, the Property Tax Administrator shall annually make
+27 and issue a comprehensive study developed in compliance with
+28 professionally accepted mass appraisal techniques to establish the level
+29 of value if in his or her opinion the level of value cannot be developed
+30 through the use of the comprehensive assessment ratio studies developed
+31 in subsection (3) of this section.
+-5-
+
+LB1067 LB1067
+2026 2026
+1 (5) County assessors and other taxing officials shall electronically
+2 report data on the assessed valuation and other features of the property
+3 assessment process for such periods and in such form and content as the
+4 Property Tax Administrator shall deem appropriate. The Property Tax
+5 Administrator shall so construct and maintain the system used to collect
+6 and analyze the data to enable him or her to make intracounty comparisons
+7 of assessed valuation, including school districts and other political
+8 subdivisions, as well as intercounty comparisons of assessed valuation,
+9 including school districts and other political subdivisions. The Property
+10 Tax Administrator shall include analysis of real property sales pursuant
+11 to land contracts and similar transfers at the time of execution of the
+12 contract or similar transfer.
+13 Sec. 5. Section 81-1230, Reissue Revised Statutes of Nebraska, is
+14 amended to read:
+15 81-1230 (1) The Rural Workforce Housing Investment Fund is created.
+16 Funding for the grant program described in section 81-1229 shall come
+17 from the Rural Workforce Housing Investment Fund. The Rural Workforce
+18 Housing Investment Fund shall receive money pursuant to section 76-903
+19 and may include revenue from appropriations from the Legislature, grants,
+20 private contributions, and other sources. In addition, the State
+21 Treasurer shall make a one-time transfer of seven million three hundred
+22 thousand dollars on or before October 1, 2017, from the Affordable
+23 Housing Trust Fund to the Rural Workforce Housing Investment Fund. Any
+24 money in the Rural Workforce Housing Investment Fund available for
+25 investment shall be invested by the state investment officer pursuant to
+26 the Nebraska Capital Expansion Act and the Nebraska State Funds
+27 Investment Act.
+28 (2) The department shall administer the Rural Workforce Housing
+29 Investment Fund and may seek additional private or nonstate funds to use
+30 in the grant program, including, but not limited to, contributions from
+31 the Nebraska Investment Finance Authority and other interested parties.
+-6-
+
+LB1067 LB1067
+2026 2026
+1 (3) Interest earned by the department on grant funds shall be
+2 applied to the grant program.
+3 (4) If a nonprofit development organization fails to engage in the
+4 initial qualified activity within twenty-four months after receiving
+5 initial grant funding, the nonprofit development organization shall
+6 return the grant funds to the department for credit to the General Fund.
+7 (5) If a nonprofit development organization fails to allocate any
+8 remaining initial grant funding on a qualified activity within twenty-
+9 four months after engaging in the initial qualified activity, the
+10 nonprofit development organization shall return such unallocated grant
+11 funds to the department for credit to the Rural Workforce Housing
+12 Investment Fund.
+13 (6) Beginning July 1, 2027, any funds held by the department in the
+14 Rural Workforce Housing Investment Fund shall be transferred to the
+15 General Fund.
+16 Sec. 6. Section 81-1239, Revised Statutes Supplement, 2025, is
+17 amended to read:
+18 81-1239 (1) The Middle Income Workforce Housing Investment Fund is
+19 created. Funding for the grant program described in section 81-1238 shall
+20 come from the Middle Income Workforce Housing Investment Fund. The Middle
+21 Income Workforce Housing Investment Fund shall receive money pursuant to
+22 section 76-903 and may include revenue transferred at the direction of
+23 the Legislature, grants, private contributions, and other sources. Any
+24 money in the Middle Income Workforce Housing Investment Fund available
+25 for investment shall be invested by the state investment officer pursuant
+26 to the Nebraska Capital Expansion Act and the Nebraska State Funds
+27 Investment Act.
+28 (2) The department shall establish a subaccount within the Middle
+29 Income Workforce Housing Investment Fund that shall be used to fund
+30 affordable housing and related land parcel preparation activities under
+31 the Economic Recovery Act as described in subdivisions (4)(d) and (e) of
+-7-
+
+LB1067 LB1067
+2026 2026
+1 section 81-12,241.
+2 (3) The department shall administer the Middle Income Workforce
+3 Housing Investment Fund and may seek additional private or nonstate funds
+4 to use in the grant program under the Middle Income Workforce Housing
+5 Investment Act, including, but not limited to, contributions from the
+6 Nebraska Investment Finance Authority and other interested parties.
+7 (4) Interest earned by the department on grant funds shall be
+8 applied to the grant program.
+9 (5) If a nonprofit development organization, or a recipient of
+10 subaccount funds described in subsection (2) of this section, fails to
+11 engage in a qualified activity within twenty-four months after receiving
+12 initial grant funding, the nonprofit development organization or
+13 recipient of subaccount funds shall return the grant proceeds to the
+14 department for credit to the General Fund.
+15 (6) Beginning July 1, 2029, any funds held by the department in the
+16 Middle Income Workforce Housing Investment Fund shall be transferred to
+17 the General Fund.
+18 Sec. 7. Original section 81-1230, Reissue Revised Statutes of
+19 Nebraska, section 58-703, Revised Statutes Cumulative Supplement, 2024,
+20 and sections 76-901, 76-903, 77-1327, and 81-1239, Revised Statutes
+21 Supplement, 2025, are repealed.
+-8-

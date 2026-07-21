@@ -1,0 +1,161 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LB1222 LB1222
+2026 2026
+LEGISLATURE OF NEBRASKA
+ONE HUNDRED NINTH LEGISLATURE
+SECOND SESSION
+LEGISLATIVE BILL 1222
+Introduced by Prokop, 27; Bostar, 29.
+Read first time January 21, 2026
+Committee: Banking, Commerce and Insurance
+1 A BILL FOR AN ACT relating to public health and welfare; to require
+2 insurance coverage of acquired brain injury services as prescribed;
+3 to define terms; to require an expedited appeal process; to provide
+4 duties for the Department of Insurance; and to require insurance and
+5 medicaid coverage for diagnostic testing and treatments or
+6 medications prescribed to slow the progression of Alzheimer's
+7 disease and related dementia.
+8 Be it enacted by the people of the State of Nebraska,
+-1-
+
+LB1222 LB1222
+2026 2026
+1 Section 1. (1) No later than January 1, 2027, and notwithstanding
+2 section 44-3,131, (a) an individual or group sickness and accident
+3 insurance policy or subscriber contract delivered, issued for delivery,
+4 or renewed in this state and a hospital, medical, or surgical expense-
+5 incurred policy, except a policy that provides coverage for a specified
+6 disease or other limited-benefit coverage, and (b) a self-funded employee
+7 benefit plan to the extent not preempted by federal law shall provide
+8 coverage for medically necessary treatment related to, or as a result of,
+9 an acquired brain injury.
+10 (2) Such coverage shall not include a lifetime limitation or annual
+11 limitation which is inconsistent with generally accepted standards of
+12 medical necessity or established clinical guidelines for brain injury
+13 rehabilitation. A limitation on inpatient rehabilitation services shall
+14 be separate from, and shall not be included in, a limitation on post-
+15 acute rehabilitation including outpatient day treatment, residential
+16 rehabilitation, or community reintegration. A limitation shall be
+17 separately stated by the insurer. The benefits in this section shall not
+18 be subject to a greater deductible, coinsurance, copayment, or out-of-
+19 pocket limit than any other benefit provided by the insurer under a
+20 comprehensive health insurance policy.
+21 Sec. 2. For purposes of sections 1 to 3 of this act:
+22 (1) Acquired brain injury means an injury to the brain which occurs
+23 after birth and can be caused by an infectious disease, a metabolic
+24 disorder, an endocrine disorder, diminished oxygen, a brain tumor, a
+25 toxin, a disease that affects the blood supply to the brain, a stroke, or
+26 a traumatic brain injury;
+27 (2) Adverse determination means a determination by a clinical peer
+28 reviewer, based on the clinical information provided, that an admission,
+29 extension of stay, or another covered acquired brain injury service is
+30 not medically necessary;
+31 (3) Cognitive communication therapy means treatment that addresses
+-2-
+
+LB1222 LB1222
+2026 2026
+1 an individual's communication problems that have an underlying cause in
+2 one or more cognitive deficits rather than a deficit in primary language
+3 or speech;
+4 (4) Cognitive rehabilitation therapy means a process of re-learning
+5 cognitive skills essential for daily living through coordinated,
+6 specialized, integrated therapeutic treatments that are provided in
+7 dynamic settings designed for efficient and effective re-learning
+8 following damage to brain cells or brain chemistry due to brain injury;
+9 (5) Community reintegration services means services that provide
+10 incremental guided real-world therapeutic training to develop skills
+11 essential for an individual to participate in life, re-enter employment,
+12 attend school and engage in other productive activity, safely live
+13 independently, and participate in the community while avoiding re-
+14 hospitalization and long-term support needs;
+15 (6) Functional rehabilitation therapy means a structured approach
+16 that emphasizes learning by doing, and focuses re-learning a specific
+17 task in a prescribed format with maximum opportunity for repeated correct
+18 practice. Compensatory strategies are developed for each skill that is
+19 persistently impaired and each individual is trained on daily
+20 implementation. To ensure acquisition and use, focus is set on re-
+21 learning those skills essential for safe daily living in home and
+22 community-based settings;
+23 (7) Insurer has the same meaning as defined in section 44-103;
+24 (8) Medical necessity or medically necessary treatment means
+25 services that are consistent with generally accepted principles of
+26 professional medical practice and includes, but is not limited to, (a)
+27 cognitive rehabilitation therapy; (b) cognitive communication therapy;
+28 (c) neurocognitive therapy and rehabilitation; (d) neurobehavioral,
+29 neurophysiological, and neuropsychological therapy and testing; (e)
+30 neurofeedback therapy; (f) functional rehabilitation therapy; (g)
+31 community reintegration services; (h) post-acute residential treatment
+-3-
+
+LB1222 LB1222
+2026 2026
+1 services; (i) inpatient services; (j) outpatient and day treatment
+2 services; and (k) home and community-based treatment;
+3 (9) Neurobehavioral therapy means a set of medical and therapeutic
+4 assessment and treatments focused on behavioral impairments associated
+5 with brain disease or injury and the amelioration of such impairments
+6 through the development of pro-social behavior;
+7 (10) Neurocognitive therapy means treatment of a disorder in which
+8 the primary clinical deficit is in cognitive function that has not been
+9 present since birth and is a decline from a previously attained level of
+10 function;
+11 (11) Neurofeedback therapy means a direct training of brain function
+12 to enhance self-regulatory capacity or an individual's ability to exert
+13 control over behavior, thoughts, and feelings. It is a form of
+14 biofeedback whereby a patient can learn to control brain activity that is
+15 measured and recorded by an electroencephalogram;
+16 (12) Neuropsychological testing means the administration of a
+17 comprehensive battery of tests to evaluate neurocognitive, behavioral,
+18 and emotional strengths and weaknesses and their relationship to abnormal
+19 central nervous system functioning; and
+20 (13) Post-acute residential treatment means integrated medical and
+21 therapeutic services, treatment, education, and skills-training provided
+22 in a home and community-based setting. Such treatment is designed to
+23 create the maximum opportunity for correct practice of the skill in the
+24 context of use to develop new neural pathways to enable the individual to
+25 avoid re-hospitalization and long-term care.
+26 Sec. 3. (1) The Department of Insurance shall adopt and promulgate
+27 rules and regulations to implement sections 1 to 3 of this act and shall
+28 create a process to permit an expedited appeal of an adverse
+29 determination by an insurer for acquired brain injury services covered
+30 under section 1 of this act. An expedited appeal shall be resolved within
+31 five business days of the date such appeal is filed with the department.
+-4-
+
+LB1222 LB1222
+2026 2026
+1 Coverage for ongoing rehabilitation shall continue until such appeal is
+2 resolved if the treating clinician determines that the interruption of
+3 rehabilitation would risk regression.
+4 (2) The department shall monitor compliance with sections 1 to 3 of
+5 this act and shall publish an annual report on its website that
+6 summarizes coverage determinations, coverage denials, and appeals related
+7 to the denial of coverage for acquired brain injury services required by
+8 section 1 of this act.
+9 Sec. 4. No later than January 1, 2028, and notwithstanding section
+10 44-3,131, (a) any individual or group sickness and accident insurance
+11 policy or subscriber contract delivered, issued for delivery, or renewed
+12 in this state and any hospital, medical, or surgical expense-incurred
+13 policy, except for policies that provide coverage for a specified disease
+14 or other limited-benefit coverage, and (b) any self-funded employee
+15 benefit plan to the extent not preempted by federal law shall provide
+16 coverage for all medically necessary diagnostic testing and treatment or
+17 medication approved by the federal Food and Drug Administration
+18 prescribed to slow the progression of Alzheimer's disease or another
+19 related dementia. Coverage of the treatment and medication described in
+20 this section shall not be subject to step-therapy.
+21 Sec. 5. No later than January 1, 2028, the medical assistance
+22 program shall provide coverage for all medically necessary diagnostic
+23 testing and treatment or medication approved by the federal Food and Drug
+24 Administration prescribed to slow the progression of Alzheimer's disease
+25 or another related dementia. Coverage of the treatment and medication
+26 described in this section shall not be subject to step-therapy.
+-5-

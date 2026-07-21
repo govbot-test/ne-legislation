@@ -1,0 +1,1052 @@
+Title: 
+Official Title: 
+Source: versions - Final Reading
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LB822 LB822
+2026 2026
+LEGISLATURE OF NEBRASKA
+ONE HUNDRED NINTH LEGISLATURE
+SECOND SESSION
+LEGISLATIVE BILL 822
+FINAL READING
+Introduced by Nebraska Retirement Systems Committee: Ballard, 21,
+Chairperson; Clements, 2; Hardin, 48; Juarez, 5;
+Sorrentino, 39.
+Read first time January 07, 2026
+Committee: Nebraska Retirement Systems
+1 A BILL FOR AN ACT relating to retirement; to amend sections 16-1001,
+2 16-1002, 16-1003, 16-1004, 16-1006, 16-1007, 16-1008, 16-1009,
+3 16-1010, 16-1011, 16-1012, 16-1013, 16-1014, 16-1015, 16-1016,
+4 16-1017, 16-1018, 16-1019, and 81-8,317, Reissue Revised Statutes of
+5 Nebraska, section 18-1723, Revised Statutes Cumulative Supplement,
+6 2024, and section 16-1005, Revised Statutes Supplement, 2025; to
+7 rename the Police Officers Retirement Act as the Cities of the First
+8 Class Police Officers Retirement Act and change provisions of such
+9 act; to define terms; to eliminate obsolete provisions; to harmonize
+10 provisions; and to repeal the original sections.
+11 Be it enacted by the people of the State of Nebraska,
+-1-
+
+LB822 LB822
+2026 2026
+1 Section 1. Section 16-1001, Reissue Revised Statutes of Nebraska, is
+2 amended to read:
+3 16-1001 Sections 16-1001 to 16-1019 shall be known and may be cited
+4 as the Cities of the First Class Police Officers Retirement Act and shall
+5 apply to all police officers of a city of the first class.
+6 Sec. 2. Section 16-1002, Reissue Revised Statutes of Nebraska, is
+7 amended to read:
+8 16-1002 For purposes of the Cities of the First Class Police
+9 Officers Retirement Act, unless the context otherwise requires:
+10 (1) Actuarial equivalent means equality in value of the aggregate
+11 amount of benefit expected to be received under different forms of
+12 benefit or at different times determined as of a given date as adopted by
+13 the city or the retirement committee for use by the retirement system.
+14 Actuarial equivalencies shall be specified in the funding medium
+15 established for the retirement system, except that if benefits under the
+16 retirement system are obtained through the purchase of an annuity
+17 contract, the actuarial equivalent of any such form of benefit shall be
+18 the amount of pension benefit which can be purchased or otherwise
+19 provided by the police officer's retirement value. All actuarial and
+20 mortality assumptions adopted by the city or retirement committee shall
+21 be on a sex-neutral basis;
+22 (2) Annuity contract means the contract or contracts issued by one
+23 or more life insurance companies and purchased by the retirement system
+24 in order to provide any of the benefits described in the act. Annuity
+25 conversion rates contained in any such contract shall be specified on a
+26 sex-neutral basis;
+27 (3) Beneficiary means the person or persons designated by a police
+28 officer, pursuant to a written instrument filed with the retirement
+29 committee before the police officer's death, to receive death benefits
+30 that which may be payable under the retirement system;
+31 (4) City means a city of the first class that employs police
+-2-
+
+LB822 LB822
+2026 2026
+1 officers;
+2 (5) (4) Funding agent means any bank, trust company, life insurance
+3 company, thrift institution, credit union, or investment management firm
+4 selected by the city or retirement committee to hold or invest the funds
+5 of the retirement system;
+6 (6) (5) Regular interest means the rate of interest earned each
+7 calendar year equal to the rate of net earnings realized for the calendar
+8 year from investments of the retirement fund. Net earnings means the
+9 amount by which income or gain realized from investments of the
+10 retirement fund exceeds the amount of any realized losses from such
+11 investments during the calendar year;
+12 (7) (6) Regular pay means the average salary of the police officer
+13 for the period of five consecutive years preceding elective retirement,
+14 death, or date of disability that which produces the highest average;
+15 (8) (7) Retirement committee means the retirement committee created
+16 pursuant to section 16-1014;
+17 (9) (8) Retirement system means a retirement system established
+18 pursuant to the act;
+19 (10) (9) Retirement value means the accumulated value of the police
+20 officer's employee account and employer account. The retirement value
+21 consists of the sum of the contributions made or transferred to such
+22 accounts by the police officer and by the city on the police officer's
+23 behalf and the regular interest credited to the accounts as of the date
+24 of computation, reduced by any realized losses which were not taken into
+25 account in determining regular interest in any year, and further adjusted
+26 each year to reflect the pro rata share for the accounts of the
+27 appreciation or depreciation of the fair market value of the assets of
+28 the retirement system as determined by the retirement committee. The
+29 retirement value shall be reduced by the amount of all distributions made
+30 to or on the behalf of the police officer from the retirement system.
+31 Such valuation shall be computed annually as of December 31. If separate
+-3-
+
+LB822 LB822
+2026 2026
+1 investment accounts are established pursuant to subsection (3) of section
+2 16-1004, a police officer's retirement value with respect to such
+3 accounts shall be equal to the value of his or her separate investment
+4 accounts as determined under such subsection;
+5 (11) (10) Salary means all amounts paid to a participating police
+6 officer by the employing city for personal services as reported on the
+7 participant's federal income tax withholding statement, including the
+8 police officer's contributions picked up by the city as provided in
+9 subsection (2) of section 16-1005 and any salary reduction contributions
+10 that which are excludable from income for federal income tax purposes
+11 pursuant to section 125 or 457 of the Internal Revenue Code;
+12 (12) (11) Sex-neutral basis means the benefit calculation provided
+13 to the city of the first class by a licensed domestic or foreign
+14 insurance or annuity company with a product available for purchase in
+15 Nebraska that utilizes a blended, non-gender-specific rate for actuarial
+16 assumptions, mortality assumptions, and annuity conversion rates for a
+17 particular participant, except that if a blended, non-gender-specific
+18 rate is not available for purchase in Nebraska, the benefit calculation
+19 shall be performed using the arithmetic mean of the male-specific
+20 actuarial assumptions, mortality assumptions, or annuity conversion rates
+21 and the female-specific actuarial assumptions, mortality assumptions, or
+22 annuity conversion rates, as applicable, for a particular participant,
+23 and the arithmetic mean shall be determined by adding the male-specific
+24 actuarial assumptions, mortality assumptions, or annuity conversion rates
+25 to the female-specific actuarial assumptions, mortality assumptions, or
+26 annuity conversion rates applicable to a particular participant and
+27 dividing the sum by two; and
+28 (13) (12) Straight life annuity means an ordinary annuity payable
+29 for the life of the primary annuitant only and terminating at his or her
+30 death without refund or death benefit of any kind.
+31 Sec. 3. Section 16-1003, Reissue Revised Statutes of Nebraska, is
+-4-
+
+LB822 LB822
+2026 2026
+1 amended to read:
+2 16-1003 A police officer shall be credited with all years of his or
+3 her service after the year 1965 for the purpose of determining vested
+4 retirement benefits under the Cities of the First Class Police Officers
+5 Retirement Act.
+6 Sec. 4. Section 16-1004, Reissue Revised Statutes of Nebraska, is
+7 amended to read:
+8 16-1004 (1) Each city of the first class shall keep and maintain a
+9 Police Officers Retirement System Fund for the purpose of investing
+10 payroll deductions and city contributions to the retirement system. Any
+11 such The fund shall:
+12 (a) Be be maintained separate and apart from all city money and
+13 funds; .
+14 (b) Be The fund shall be administered under the direction of the
+15 city and the retirement committee exclusively for the purposes of the
+16 retirement system and for the benefit of participating police officers
+17 and their beneficiaries of such police officers; .
+18 (c) Be The fund shall be established as a trust under the laws of
+19 this state for all purposes of section 401(a) of the Internal Revenue
+20 Code; .
+21 (d) Accrue regular interest Regular interest shall accrue on any
+22 contributions transferred into the fund; and .
+23 (e) Be Such funds shall be invested in the manner prescribed in
+24 section 16-1016.
+25 (2)(a) Each (2) The city shall establish a medium for funding of the
+26 retirement system, which may be a pension trust fund, custodial account,
+27 group annuity contract, or combination thereof, for the purpose of
+28 investing money for the retirement system in the manner prescribed by
+29 section 16-1016 and to provide the retirement, death, and disability
+30 benefits for police officers pursuant to the Cities of the First Class
+31 Police Officers Retirement Act.
+-5-
+
+LB822 LB822
+2026 2026
+1 (b) The trustee or custodian of any such trust fund may be a
+2 designated funding agent that which is qualified to act as a fiduciary or
+3 custodian in this state, the city treasurer, a city officer authorized to
+4 administer funds of the city, or a combination thereof.
+5 (3)(a) (3) Upon direction of the city, there may be established
+6 separate investment accounts for each participating police officer for
+7 the purpose of allowing each police officer to direct the investment of
+8 all or a portion of such police officer's his or her employee account or
+9 employer account subject to the requirements of section 16-1016 and any
+10 other rules or limitations that may be established by the city or the
+11 retirement committee.
+12 (b) If separate investment accounts are established, each account
+13 shall be separately invested and reinvested, separately credited with all
+14 earnings and gains with respect to the investment of the assets of the
+15 investment account, and separately debited with the losses of the
+16 account.
+17 (c) Each investment account shall be adjusted each year to reflect
+18 the appreciation or depreciation of the fair market value of the assets
+19 held in such account as determined by the retirement committee.
+20 (d) The expenses incurred by the retirement system when a police
+21 officer directs the investment of all or a portion of such police
+22 officer's his or her individual investment account shall be charged
+23 against the police officer's investment account and shall reduce the
+24 police officer's retirement value.
+25 Sec. 5. Section 16-1005, Revised Statutes Supplement, 2025, is
+26 amended to read:
+27 16-1005 (1)(a)(i) Prior to October 1, 2025, each police officer
+28 shall contribute to the retirement system a sum equal to seven percent of
+29 his or her salary.
+30 (ii) Beginning October 1, 2025, each police officer shall contribute
+31 to the retirement system a sum equal to nine percent of such police
+-6-
+
+LB822 LB822
+2026 2026
+1 officer's his or her salary.
+2 (b) Such payment under subdivision (a) of this subsection shall be
+3 made by regular payroll deductions from the police officer's periodic
+4 salary and shall be credited to his or her employee account on a monthly
+5 basis.
+6 (c) Each such account shall also be credited with regular interest.
+7 (2)(a) (2) Each city of the first class shall pick up the police
+8 officers' contributions required by subsection (1) of this section, and
+9 the contributions so picked up shall be treated as employer contributions
+10 in determining federal tax treatment under the Internal Revenue Code,
+11 except that the city shall continue to withhold federal income taxes
+12 based upon these contributions until the Internal Revenue Service or the
+13 federal courts rule that, pursuant to section 414(h) of the Internal
+14 Revenue Code, these contributions shall not be included as gross income
+15 of the employee until such time as they are distributed from the
+16 retirement system.
+17 (b) The city shall pay such these employee contributions from the
+18 same source of funds that which is used in paying earnings to the
+19 employee. The city shall pick up such these contributions by a salary
+20 deduction either through:
+21 (i) A a reduction in the cash salary of the employee; or
+22 (ii) A a combination of a reduction in salary and an offset against
+23 a future salary increase.
+24 (c) A police officer shall not be given an option to choose to
+25 receive the amount of the required contribution in lieu of having such
+26 contribution paid directly to the retirement system.
+27 (3) Each police officer shall be entitled to make voluntary cash
+28 contributions to the retirement system in an amount not to exceed the
+29 contribution limitations established by the Internal Revenue Code. Such
+30 voluntary Voluntary contributions shall:
+31 (a) Be be credited to the police officer's employee account and
+-7-
+
+LB822 LB822
+2026 2026
+1 shall thereafter be credited with regular interest; and .
+2 (b) Become A police officer's voluntary contribution shall become a
+3 part of the Police Officers Retirement System Fund of the city and shall
+4 be held, administered, invested, and distributed in the same manner as
+5 any other employee contribution to the retirement system.
+6 Sec. 6. Section 16-1006, Reissue Revised Statutes of Nebraska, is
+7 amended to read:
+8 16-1006 (1) Each city of the first class shall contribute to the
+9 retirement system a sum equal to one hundred percent of the amounts
+10 deducted, in accordance with subsection (1) of section 16-1005, from each
+11 such police officer's periodic salary. Such payment shall be contributed
+12 as provided in subsection (1) of section 16-1005 for employee
+13 contributions and shall be credited to the police officer's employer
+14 account on a monthly basis. Each such account shall also be credited with
+15 regular interest.
+16 (2) The city shall also contribute to the employer account of any
+17 police officer employed by the city on January 1, 1984, an amount equal
+18 to the employee contributions of such police officer that were made to
+19 the city prior to January 1, 1984, without interest, with such
+20 contribution to be made at the time the police officer retires or
+21 terminates employment with the city. The city may contribute such amount
+22 before the police officer's retirement or termination of employment or
+23 credit interest on such contribution.
+24 Sec. 7. Section 16-1007, Reissue Revised Statutes of Nebraska, is
+25 amended to read:
+26 16-1007 (1)(a) (1) At any time before the police officer's
+27 retirement date, the retiring police officer may elect to receive on such
+28 at his or her retirement date a pension benefit provided under a
+29 purchased annuity contract either in the form of a straight life annuity
+30 or any optional form of annuity benefit established by the retirement
+31 committee and provided under a purchased annuity contract.
+-8-
+
+LB822 LB822
+2026 2026
+1 (b) Each The optional annuity benefit shall be specified in the
+2 funding medium for the retirement system and shall include a straight
+3 life annuity with a guarantee of at least sixty monthly payments or an
+4 annuity payable for the life of the retiring police officer and, after
+5 the death of the retiree, monthly payments, as elected by the retiring
+6 police officer, of either one hundred percent, seventy-five percent, or
+7 fifty percent of the amount of annuity payable to the retiring police
+8 officer during such police officer's his or her life, to the beneficiary
+9 selected by the retiring police officer at the time of the original
+10 application for such an annuity.
+11 (c) The optional benefit forms for the retirement system shall
+12 include a single lump-sum payment of the police officer's retirement
+13 value.
+14 (d) A The retiring police officer may further elect to defer the
+15 date of the first annuity payment or lump-sum payment to the first day of
+16 any specified month prior to such police officer's seventieth birthday
+17 age seventy. If the retiring police officer elects to receive such police
+18 officer's his or her pension benefit in the form of an annuity, the
+19 amount of annuity benefit shall be the amount paid by the annuity
+20 contract purchased or otherwise provided by such police officer's his or
+21 her retirement value as of the date of the first payment. Any such
+22 annuity contract purchased by the retirement system may be distributed to
+23 the police officer and, upon such distribution, all obligations of the
+24 retirement system to pay retirement, death, or disability benefits to the
+25 police officer and such police officer's his or her beneficiaries shall
+26 terminate, without exception.
+27 (2)(a) For all police officers employed on January 1, 1984, and
+28 continuously employed by the city from such date through the date of
+29 their retirement, the amount of the pension benefit, when determined on
+30 the straight life annuity basis, shall not be less than the following
+31 amounts:
+-9-
+
+LB822 LB822
+2026 2026
+1 (i) If retirement occurs following age sixty and with twenty-five
+2 years of service with the city, fifty percent of regular pay; or
+3 (ii) If retirement occurs following age fifty-five but before age
+4 sixty and with twenty-five years of service with the city, forty percent
+5 of regular pay.
+6 (b) A police officer entitled to a minimum pension benefit under
+7 this subsection may elect to receive such pension benefit in any form
+8 permitted by subsection (1) of this section, including a single lump-sum
+9 payment. If the minimum pension benefit is paid in a form other than a
+10 straight life annuity, such benefit shall be the actuarial equivalent of
+11 the straight life annuity that would otherwise be paid to the police
+12 officer pursuant to this subsection.
+13 (c) If the police officer chooses the single lump-sum payment
+14 option, the police officer can request that the actuarial equivalent be
+15 equal to the average of the cost of three annuity contracts based on
+16 products available for purchase in Nebraska. Of the three annuity
+17 contracts used for comparison, one shall be chosen by the police officer,
+18 one shall be chosen by the retirement committee, and one shall be chosen
+19 by the city. The annuity contracts used for comparison shall all use the
+20 same type of sex-neutral basis benefit calculation.
+21 (3) If the retirement value of a police an officer entitled to a
+22 minimum pension benefit under subsection (2) of this section is not
+23 sufficient at the time of the first payment to purchase or provide the
+24 required pension benefit, the city shall transfer such funds as may be
+25 necessary to the employer account of the police officer so that the
+26 retirement value of such police officer is sufficient to purchase or
+27 provide for the required pension benefit.
+28 (4) Any retiring police officer whose pension benefit is less than
+29 twenty-five dollars per month on the straight life annuity option shall
+30 be paid a lump-sum settlement equal to the retirement value and shall not
+31 be entitled to elect to receive annuity benefits.
+-10-
+
+LB822 LB822
+2026 2026
+1 Sec. 8. Section 16-1008, Reissue Revised Statutes of Nebraska, is
+2 amended to read:
+3 16-1008 (1) A police officer of a city of the first class may:
+4 (a) Elect to retire and receive the applicable pension benefit
+5 provided in section 16-1007 based on such police officer's his or her
+6 full retirement value upon the attainment of age sixty;
+7 (b) Elect to take early retirement and receive the applicable
+8 pension benefit provided in section 16-1007 if such police officer he or
+9 she has attained the age of fifty-five and has completed twenty-five
+10 years of service with the city; or
+11 (c) Retire as a result of disability while in the line of duty, as
+12 determined under section 16-1011, at any age, and receive the applicable
+13 pension benefit provided in section 16-1011.
+14 (2) A police officer, who is eligible to retire pursuant to
+15 subsection (1) of this section but does not retire, shall continue to
+16 contribute to such police officer's his or her employee account, and the
+17 city shall continue to contribute to such police officer's his or her
+18 employee account and to such police officer's his or her employer
+19 account.
+20 (3) The first day of the month that immediately follows following
+21 the last day of work shall be the retirement date.
+22 Sec. 9. Section 16-1009, Reissue Revised Statutes of Nebraska, is
+23 amended to read:
+24 16-1009 (1)(a) (1) When prior to retirement any police officer dies
+25 other than in the line of duty and except as provided in subsection (2)
+26 of this section, the entire retirement value shall be payable to the
+27 beneficiary or beneficiaries specified by the deceased police officer
+28 prior to such police officer's his or her death or to the deceased police
+29 officer's estate if no beneficiary was specified.
+30 (b) The retirement value or portion thereof to be received by the
+31 beneficiary may be paid in the form of a single lump-sum payment,
+-11-
+
+LB822 LB822
+2026 2026
+1 straight life annuity, or other optional form of benefit specified in the
+2 retirement system's funding medium.
+3 (c) If benefits are paid in the form of an annuity, the annuity
+4 shall be the amount paid by the annuity contract purchased or otherwise
+5 provided by the amount of the beneficiary's share of the retirement value
+6 as of the date of the first payment. Upon the purchase and distribution
+7 of such annuity contract to the beneficiary, all obligations of the
+8 retirement system to the beneficiary shall terminate, without exception.
+9 (2)(a) (2) If any police officer employed by a such city as a member
+10 of its paid police department on January 1, 1984, except those who were
+11 formerly employed in such department who are now in military service,
+12 dies while employed by the city as a police officer, other than in the
+13 line of duty, after becoming fifty-five years of age and before electing
+14 to retire, and after serving in the paid police department of such city
+15 for at least twenty-one years, then a pension of at least twenty-five
+16 percent of such police officer's his or her regular pay in the form of a
+17 straight life annuity shall be paid to the surviving spouse of such
+18 deceased police officer.
+19 (b) If the deceased police officer is not survived by a spouse or if
+20 the surviving spouse dies before the children of the police officer
+21 attain the age of majority, the pension benefit shall be paid to the
+22 police officer's minor children until they attain the age of majority.
+23 Each such child shall share equally in the total pension benefit to the
+24 age of his or her majority of such child, except that as soon as a child
+25 attains the age of majority, such pension as to such child shall cease.
+26 (c) To the extent that the retirement value at the date of death
+27 exceeds the amount required to purchase the specified pension, the excess
+28 shall be paid in the manner provided in subsection (1) of this section.
+29 (d) If the actuarial equivalent of the pension benefit payable under
+30 this subsection exceeds the retirement value at the time of the first
+31 payment, the city shall contribute such additional amounts as may be
+-12-
+
+LB822 LB822
+2026 2026
+1 necessary to purchase or provide for the required pension benefit.
+2 (e) If a deceased police officer described in this subsection is not
+3 survived by a spouse or minor children, such police officer's his or her
+4 death benefits shall be provided under subsection (1) of this section as
+5 if such police officer was not employed by the city on January 1, 1984.
+6 (3) Any payments for the benefit of a minor child shall be made on
+7 behalf of the child to the surviving parent or, if there is no surviving
+8 parent, to the legal guardian of the child.
+9 Sec. 10. Section 16-1010, Reissue Revised Statutes of Nebraska, is
+10 amended to read:
+11 16-1010 (1) When prior to retirement any police officer dies in the
+12 line of duty or such police officer's his or her death is caused by or is
+13 the result of injuries received while in the line of duty and if such
+14 police officer is not survived by a spouse or by minor children, the
+15 entire retirement value shall be payable to the beneficiary specified by
+16 the deceased police officer prior to such police officer's his or her
+17 death or to the deceased police officer's estate if no beneficiary was
+18 specified.
+19 (2) The retirement value or portion thereof to be received by the
+20 beneficiary may be paid in the form of a single lump-sum payment,
+21 straight life annuity, or other optional form of benefit specified in the
+22 retirement system's funding medium.
+23 (3)(a) For a police officer who is survived by a spouse or minor
+24 children, a retirement pension of fifty percent of regular pay shall be
+25 paid to the surviving spouse or, upon the his or her remarriage or death
+26 of such surviving spouse, to the minor children during each child's
+27 minority subject to deduction of the amounts paid as workers'
+28 compensation benefits on account of death as provided in section 16-1012.
+29 (b) Each such child shall share equally in the total pension benefit
+30 to the age of his or her majority of such child, except that as soon as a
+31 child attains the age of majority, such pension as to such child shall
+-13-
+
+LB822 LB822
+2026 2026
+1 cease.
+2 (c) Any payments for the benefit of a minor child shall be made on
+3 behalf of such child to the surviving parent or, if there is no surviving
+4 parent, to the legal guardian of the child.
+5 (4) To the extent that the retirement value at the date of death
+6 exceeds the amount required to purchase or provide the specified
+7 retirement pension, as reduced by any amounts paid as workers'
+8 compensation benefits, the excess shall be paid in the manner provided in
+9 subsection (1) of section 16-1009.
+10 (5) If the actuarial equivalent of the pension benefit payable to a
+11 surviving spouse or minor children under this section exceeds the
+12 retirement value at the time of the first payment, the city shall
+13 contribute such additional amount as may be necessary to purchase or
+14 provide for the required pension benefit.
+15 Sec. 11. Section 16-1011, Reissue Revised Statutes of Nebraska, is
+16 amended to read:
+17 16-1011 (1) For purposes of this section, disability means the
+18 complete inability of the police officer, for reasons of accident or
+19 other cause while in the line of duty, to perform the duties of a police
+20 officer.
+21 (2) (1) If any police officer becomes disabled, such police officer
+22 shall be placed upon the roll of pensioned police officers at the regular
+23 retirement pension of fifty percent of regular pay for the period of such
+24 disability. For purposes of this section, disability shall mean the
+25 complete inability of the police officer, for reasons of accident or
+26 other cause while in the line of duty, to perform the duties of a police
+27 officer.
+28 (3)(a) (2) No disability benefit payment shall be made except upon
+29 adequate proof furnished to the city. Such , such proof shall include to
+30 consist of a medical examination conducted by a competent, disinterested
+31 physician who is duly licensed to practice medicine and surgery in this
+-14-
+
+LB822 LB822
+2026 2026
+1 state and who certifies to the city that the police officer is unable to
+2 perform the duties of a police officer.
+3 (b) The city, during the first three years of the payment of such
+4 benefits, shall have the right, at reasonable times, to require the
+5 disabled police officer to undergo a medical examination at the city's
+6 expense to determine the continuance of the disability claimed.
+7 (c) After such three-year period, the city may request the district
+8 court to order the police officer to submit proof of the continuance of
+9 the disability claimed if the city has reasonable grounds to believe the
+10 police officer is fraudulently receiving disability payments.
+11 (d) The city shall have the right to demand a physical examination
+12 of the police officer by a competent, disinterested physician who is duly
+13 licensed to practice medicine and surgery in this state, and who is
+14 chosen by the city. The expense of such examination shall be borne by the
+15 city.
+16 (4) (3) In case of temporary disability of a police officer received
+17 while in the line of duty, such police officer he or she shall receive
+18 such police officer's his or her salary during the continuance of such
+19 disability for a period not to exceed twelve months. If , except that if
+20 it is ascertained by the city council or other proper municipal
+21 authorities determine within twelve months that such temporary disability
+22 has become a disability during such period as defined in this section,
+23 then the salary shall cease and such police officer he or she shall be
+24 entitled to the benefits for pensions in case of disability as provided
+25 in this section.
+26 (5)(a) (4) All payments of pension or salary provided by this
+27 section shall be subject to deduction of amounts paid under the Nebraska
+28 Workers' Compensation Act. In case of a permanent disability of a police
+29 officer, such payments shall not commence until all credit for unused
+30 annual or sick leave and other similar credits have been fully utilized
+31 by the disabled police officer if there will be no impairment to such
+-15-
+
+LB822 LB822
+2026 2026
+1 police officer's his or her salary during the period of disability.
+2 (b) Total payments to a disabled police officer, in excess of
+3 amounts paid as workers' compensation benefits, shall not be less than
+4 the retirement value at the date of disability.
+5 (c) If the actuarial equivalent of the disability pension payable
+6 under this section exceeds the police officer's retirement value at the
+7 time of the first payment, the city shall contribute such additional
+8 amounts as may be necessary, from time to time, to provide for the
+9 required disability pension.
+10 (6) (5) If a police officer who was pensioned under this section is
+11 later determined to be no longer disabled, the pension provided for under
+12 this section shall terminate and the police officer's vested retirement
+13 value, as reduced by any disability payments made from the retirement
+14 system, shall thereafter be held and administered in the same manner as
+15 for any nondisabled police officer or former police officer.
+16 (7)(a) (6) If a police officer who has pensioned under this section
+17 is later determined to be no longer disabled during the first three years
+18 when disability benefit payments are being paid, the police officer may
+19 return to duty with the police force under the following conditions:
+20 (i) (a) If a vacancy exists on the police force for which the police
+21 officer is qualified and the police officer wishes to return to the
+22 police force, the city shall hire the police officer to fill the vacancy
+23 at a pay grade of not less than such police officer's his or her previous
+24 pay grade; or
+25 (ii) (b) If no vacancy exists on the police force and the police
+26 officer wishes to return to the police force, the city may create a
+27 vacancy under the city's reduction in force policy adopted under the
+28 Civil Service Act and rehire the officer at a pay grade of not less than
+29 such police officer's his or her previous pay grade.
+30 (b) This The provisions of this subsection shall not apply to a
+31 police officer whose disability benefit payments are terminated because
+-16-
+
+LB822 LB822
+2026 2026
+1 of fraud on the part of the police officer.
+2 Sec. 12. Section 16-1012, Reissue Revised Statutes of Nebraska, is
+3 amended to read:
+4 16-1012 (1) No police officer shall be entitled during any period of
+5 temporary disability to receive in full both such police officer's his or
+6 her salary and such police officer's his or her benefits under the
+7 Nebraska Workers' Compensation Act.
+8 (2) All Nebraska workers' compensation benefits shall be payable in
+9 full to such police officer as provided in the Nebraska Workers'
+10 Compensation Act, but all amounts paid by the city or its insurer under
+11 the Nebraska Workers' Compensation Act to any disabled police officer
+12 entitled to receive a salary during such disability shall be considered
+13 as payments on account of such salary and shall be credited thereon.
+14 (3) The remaining balance of such salary, if any, shall be payable
+15 as otherwise provided in the Cities of the First Class Police Officers
+16 Retirement Act.
+17 Sec. 13. Section 16-1013, Reissue Revised Statutes of Nebraska, is
+18 amended to read:
+19 16-1013 (1) If a police officer quits or is discharged before such
+20 police officer's his or her normal or early retirement date, such police
+21 the officer may request and receive as a lump-sum payment an amount equal
+22 to the retirement value of such police officer's his or her employee
+23 account as determined at the valuation date preceding such police
+24 officer's his or her termination of employment. Such police officer, if
+25 vested, shall also receive a deferred pension benefit in an amount
+26 purchased or provided by the retirement value at the date of retirement.
+27 The retirement value at such retirement date shall consist of the
+28 accumulated value of the police officer's employee account, as reduced by
+29 any lump-sum distributions received prior to retirement, together with a
+30 vested percentage of the accumulated value of such the police officer's
+31 employer account at such police officer's the date of retirement.
+-17-
+
+LB822 LB822
+2026 2026
+1 (2) Until July 1, 2012, the vesting schedule shall be as follows:
+2 (a) If the terminated police officer has been a member of the
+3 retirement system for less than four years, such vesting shall be zero
+4 percent nil;
+5 (b) If the terminated police terminating officer has been a member
+6 of the paid department of the city of the first class for at least four
+7 years, such vesting percentage shall be forty percent. Such vesting
+8 percentage shall be fifty percent after five years, sixty percent after
+9 six years, seventy percent after seven years, eighty percent after eight
+10 years, ninety percent after nine years, and one hundred percent after ten
+11 years; and
+12 (c) All police officers shall be one hundred percent vested upon
+13 attainment of age sixty while employed by the city as a police officer.
+14 (3) Beginning July 1, 2012, the vesting schedule shall be as
+15 follows:
+16 (a) If the terminated police officer has been a member of the
+17 retirement system for less than two years, such vesting shall be zero
+18 percent nil;
+19 (b) If the terminated police terminating officer has been a member
+20 of the paid department of the city of the first class for at least two
+21 years, such vesting percentage shall be forty percent. Such vesting
+22 percentage shall be sixty percent after four years, eighty percent after
+23 five years, and one hundred percent after seven years; and
+24 (c) All police officers shall be one hundred percent vested upon
+25 attainment of age sixty while employed by the city as a police officer.
+26 (4)(a)(i) (4) The deferred pension benefit shall be payable on the
+27 first day of the month that immediately follows following the police
+28 officer's sixtieth birthday.
+29 (ii) At the option of the terminated terminating police officer,
+30 such pension benefit may be paid as of the first day of the month that
+31 follows after such police officer's fifty-fifth birthday officer attains
+-18-
+
+LB822 LB822
+2026 2026
+1 the age of fifty-five. Such election may be made by the police officer
+2 any time prior to the payment of the pension benefits.
+3 (b) The deferred pension benefit shall be paid in the form of the
+4 benefit options specified in subsection (1) of section 16-1007 as elected
+5 by the police officer.
+6 (c) If the police officer's vested retirement value at the date of
+7 such police officer's his or her termination of employment is less than
+8 three thousand five hundred dollars, the city may elect to pay such
+9 police officer such his or her vested retirement value in the form of a
+10 single lump-sum payment.
+11 (5) A police officer may elect upon such police officer's his or her
+12 termination of employment to receive such police officer's his or her
+13 vested retirement value in the form of a single lump-sum payment.
+14 (6) Upon any lump-sum payment of a terminated terminating police
+15 officer's retirement value under this section, such police officer shall
+16 will not be entitled to any deferred pension benefit and the city and the
+17 retirement system shall have no further obligation to pay such police
+18 officer or such police officer's his or her beneficiaries any benefits
+19 under the Cities of the First Class Police Officers Retirement Act.
+20 (7) If the terminated terminating police officer is not credited
+21 with one hundred percent of such police officer's his or her employer
+22 account, the nonvested portion of the account shall be forfeited and
+23 first used to meet the expense charges incurred by the city in connection
+24 with administering the retirement system and the remainder shall then be
+25 used to reduce the city contribution that which would otherwise be
+26 required to fund pension benefits.
+27 Sec. 14. Section 16-1014, Reissue Revised Statutes of Nebraska, is
+28 amended to read:
+29 16-1014 (1) A retirement committee shall be established by each city
+30 to supervise the general operation of the retirement system established
+31 by such city pursuant to the Cities of the First Class Police Officers
+-19-
+
+LB822 LB822
+2026 2026
+1 Retirement Act.
+2 (2) The city council shall continue to be responsible for the
+3 general administration of such retirement system unless specific
+4 functions or all functions with regard to the administration of the
+5 retirement system are delegated, by ordinance, to the retirement
+6 committee.
+7 (3) Whenever duties or powers are vested in the city or the
+8 retirement committee under the act or whenever the act fails to
+9 specifically allocate the duties or powers of administration of the
+10 retirement systems system, such powers or duties shall be vested in the
+11 city unless such powers or duties have been delegated by ordinance to the
+12 retirement committee.
+13 (4) A The city and the retirement committee established by such city
+14 shall have all powers that which are necessary for or appropriate to
+15 establishing, maintaining, managing, and administering the retirement
+16 system established by such city.
+17 Sec. 15. Section 16-1015, Reissue Revised Statutes of Nebraska, is
+18 amended to read:
+19 16-1015 (1) Each retirement committee established pursuant to
+20 section 16-1014 shall consist of the following six members: members from
+21 both the police force and designees of the city council.
+22 (a) Four The committee shall consist of six members of which four
+23 members shall be selected by the police officers from the police force of
+24 the city; and .
+25 (b) Two members selected shall be designated by the city council of
+26 the city.
+27 (2) The members who are not participants in the such retirement
+28 system shall have a general knowledge of retirement plans.
+29 (3) Members of the governing body of such city may serve on the
+30 retirement committee.
+31 (4) The committee members shall be appointed to four-year terms.
+-20-
+
+LB822 LB822
+2026 2026
+1 (5) Vacancies on a retirement committee shall be filled for the
+2 remainder of the term with by a person selected in the same manner as the
+3 vacating committee member was selected with the same representation as
+4 his or her predecessor.
+5 (6) Members of any such the retirement committee shall receive no
+6 salary for serving on such retirement committee and shall not be
+7 compensated for expenses related to serving on such retirement committee.
+8 Sec. 16. Section 16-1016, Reissue Revised Statutes of Nebraska, is
+9 amended to read:
+10 16-1016 (1) The funds of a the retirement system shall be invested
+11 under the general direction of the retirement committee for such
+12 retirement system.
+13 (2) A The city or the retirement committee established by such city
+14 if delegated such function by the city shall select and contract with a
+15 funding agent or agents to hold or invest the assets of the retirement
+16 system established by such city and to provide for the benefits provided
+17 by the Cities of the First Class Police Officers Retirement Act. Such The
+18 city or retirement committee may select and contract with investment
+19 managers registered under the federal Investment Advisers Act of 1940 to
+20 invest, reinvest, and otherwise manage such portion of the assets of the
+21 retirement system as may be assigned by such the city or retirement
+22 committee.
+23 (3) All funds of a the retirement system shall be invested pursuant
+24 to the policies established by the Nebraska Investment Council.
+25 Sec. 17. Section 16-1017, Reissue Revised Statutes of Nebraska, is
+26 amended to read:
+27 16-1017 (1) It shall be the duty of each the retirement committee
+28 to:
+29 (a) Provide each employee a summary of plan eligibility requirements
+30 and benefit provisions;
+31 (b) Provide, within thirty days after a request is made by a
+-21-
+
+LB822 LB822
+2026 2026
+1 participant, a statement describing the amount of benefits such
+2 participant is eligible to receive; and
+3 (c) Make available for review an annual report of the retirement
+4 system's operations describing both (i) the amount of contributions to
+5 the retirement system from both employee and employer sources and (ii) an
+6 identification of the total assets of the retirement system.
+7 (2) Beginning December 31, 1998, through December 31, 2017:
+8 (a) The chairperson of the retirement committee shall file with the
+9 Public Employees Retirement Board a report on each retirement plan
+10 established pursuant to section 401(a) of the Internal Revenue Code and
+11 administered by a retirement system established pursuant to the Police
+12 Officers Retirement Act and shall submit copies of such report to the
+13 Auditor of Public Accounts. The Auditor of Public Accounts may prepare a
+14 review of such report pursuant to section 84-304.02 but is not required
+15 to do so. The annual report shall be in a form prescribed by the Public
+16 Employees Retirement Board and shall contain the following information
+17 for each such retirement plan:
+18 (i) The number of persons participating in the retirement plan;
+19 (ii) The contribution rates of participants in the plan;
+20 (iii) Plan assets and liabilities;
+21 (iv) The names and positions of persons administering the plan;
+22 (v) The names and positions of persons investing plan assets;
+23 (vi) The form and nature of investments;
+24 (vii) For each defined contribution plan, a full description of
+25 investment policies and options available to plan participants; and
+26 (viii) For each defined benefit plan, the levels of benefits of
+27 participants in the plan, the number of members who are eligible for a
+28 benefit, and the total present value of such members' benefits, as well
+29 as the funding sources which will pay for such benefits.
+30 If a plan contains no current active participants, the chairperson
+31 may file in place of such report a statement with the Public Employees
+-22-
+
+LB822 LB822
+2026 2026
+1 Retirement Board indicating the number of retirees still drawing benefits
+2 and the sources and amount of funding for such benefits; and
+3 (b) If such retirement plan is a defined benefit plan which was open
+4 to new members on January 1, 2004, in addition to the reports required by
+5 section 13-2402, the retirement committee shall cause to be prepared an
+6 annual report and the chairperson shall file the same with the Public
+7 Employees Retirement Board and the Nebraska Retirement Systems Committee
+8 of the Legislature and submit to the Auditor of Public Accounts a copy of
+9 such report. The Auditor of Public Accounts may prepare a review of such
+10 report pursuant to section 84-304.02 but is not required to do so. If the
+11 retirement committee does not submit a copy of the report to the Auditor
+12 of Public Accounts within six months after the end of the plan year, the
+13 Auditor of Public Accounts may audit, or cause to be audited, the city.
+14 All costs of the audit shall be paid by the city. The report shall
+15 consist of a full actuarial analysis of each such retirement plan
+16 administered by a retirement system established pursuant to the act. The
+17 analysis shall be prepared by an independent private organization or
+18 public entity employing actuaries who are members in good standing of the
+19 American Academy of Actuaries, and which organization or entity has
+20 demonstrated expertise to perform this type of analysis and is unrelated
+21 to any organization offering investment advice or which provides
+22 investment management services to the retirement plan. The report to the
+23 Nebraska Retirement Systems Committee shall be submitted electronically.
+24 (2)(a) For each city offering a defined benefit plan as part of the
+25 retirement system established by such city, (3)(a) Beginning December 31,
+26 2018, and each December 31 thereafter, for a defined benefit plan the
+27 chairperson of the retirement committee established by such city or such
+28 chairperson's his or her designee shall prepare and electronically file
+29 an annual report not later than June 30 of each year with the Auditor of
+30 Public Accounts and the Nebraska Retirement Systems Committee of the
+31 Legislature. If such retirement plan is a defined benefit plan which was
+-23-
+
+LB822 LB822
+2026 2026
+1 open to new members on January 1, 2004, the annual report shall be in
+2 addition to the reports required by section 13-2402.
+3 (b) The annual report shall be on a form prescribed by the Auditor
+4 of Public Accounts and shall include, but not be limited to, the
+5 following information:
+6 (i) The levels of benefits of participants in the plan, the number
+7 of members who are eligible for a benefit, the total present value of
+8 such members' benefits, and the funding sources that which will pay for
+9 such benefits; and
+10 (ii) A copy of a full actuarial analysis of each such defined
+11 benefit plan. Such The analysis shall be prepared by an independent
+12 private organization or public entity that:
+13 (A) Employs employing actuaries who are members in good standing of
+14 the American Academy of Actuaries;
+15 (B) Has , and which organization or entity has demonstrated
+16 expertise to perform this type of analysis; and
+17 (C) Is is unrelated to any organization that which offers investment
+18 advice or provides investment management services to the retirement plan.
+19 (3)(a) (b) The Auditor of Public Accounts may prepare a review of
+20 any annual such report filed pursuant to this section. Any such review
+21 shall be performed pursuant to section 84-304.02 but is not required to
+22 do so.
+23 (b) If a the retirement committee does not file an annual report
+24 that is required by this section with submit a copy of the report to the
+25 Auditor of Public Accounts within the dates specified in subdivision (2)
+26 (a) of this section for filing such annual report six months after the
+27 end of the plan year, the Auditor of Public Accounts may audit, or cause
+28 to be audited, such the retirement committee. All costs of the audit
+29 shall be paid by such the retirement committee.
+30 Sec. 18. Section 16-1018, Reissue Revised Statutes of Nebraska, is
+31 amended to read:
+-24-
+
+LB822 LB822
+2026 2026
+1 16-1018 (1) For purposes of this section:
+2 (a) New employment city means a city with which a police officer has
+3 started employment as a police officer;
+4 (b) Qualifying change of employment means the termination of
+5 employment of If a police officer with a termination city that is
+6 initiated by such police officer terminates his or her employment for the
+7 purpose of becoming a police officer employed by a new employment city if
+8 such employment begins another city of the first class in Nebraska and
+9 such new employment commences within one hundred twenty days of such
+10 termination; and ,
+11 (c) Termination city means a city with which a police officer has
+12 terminated employment as a police officer to become employed by a new
+13 employment city.
+14 (2) A such police officer who makes a qualifying change of
+15 employment shall be entitled to transfer, from the Police Officers
+16 Retirement System Fund of the termination city to the Police Officers
+17 Retirement System Fund of the new employment city by which he or she is
+18 newly employed, the full amount of such police officer's his or her
+19 employee account and the vested portion of the value of such police
+20 officer's his or her employer account at the time of termination with the
+21 termination city.
+22 (3) Any such The transferred funds shall be directly transferred to
+23 the police officer's employee account in the retirement system of the new
+24 employment city to which transferred and administered by the retirement
+25 committee of such the city to which transferred.
+26 (4) Upon such a transfer, the termination city and the retirement
+27 system for such city shall have no further obligation regarding such
+28 police officer's retirement benefits to such police officer or such
+29 police officer's beneficiaries his or her beneficiary.
+30 (5) Following the commencement of new employment with a new
+31 employment city, the transferring police officer shall be deemed a new
+-25-
+
+LB822 LB822
+2026 2026
+1 employee for all purposes of the retirement system of the new employment
+2 city to which he or she transferred.
+3 Sec. 19. Section 16-1019, Reissue Revised Statutes of Nebraska, is
+4 amended to read:
+5 16-1019 (1)(a) (1) The right to any benefits under the retirement
+6 system and the assets of any fund of the retirement system shall not be
+7 assignable or subject to execution, garnishment, attachment, or the
+8 operation of any bankruptcy or insolvency laws, except that the
+9 retirement system may comply with the directions set forth in a qualified
+10 domestic relations order meeting the requirements of section 414(p) of
+11 the Internal Revenue Code. The city or retirement committee may require
+12 appropriate releases from any person as a condition to complying with any
+13 such order.
+14 (b) The retirement system shall not recognize any domestic relations
+15 order that:
+16 (i) Alters which alters or changes benefits;
+17 (ii) Provides , provides for a form of benefit not otherwise
+18 provided for by the retirement system;
+19 (iii) Increases , increases benefits not otherwise provided by the
+20 retirement system; , or
+21 (iv) Accelerates accelerates or defers the time of payment of
+22 benefits.
+23 (c) No participant or beneficiary shall have any right to any
+24 specific portion of the assets of the retirement system.
+25 (2)(a) (2) The retirement system shall be administered in a manner
+26 necessary to comply with the tax-qualification requirements applicable to
+27 government retirement plans under section 401(a) of the Internal Revenue
+28 Code, including:
+29 (i) Section section 401(a)(9) relating to the time and manner in
+30 which benefits are required to be distributed and section 401(a)(9)(G)
+31 relating to incidental death benefit requirements;
+-26-
+
+LB822 LB822
+2026 2026
+1 (ii) Section , section 401(a)(16) relating to compliance with the
+2 maximum limitation on the plan benefits or contributions under section
+3 415;
+4 (iii) Section , section 401(a)(17) that which limits the amount of
+5 compensation that which can be taken into account under a retirement
+6 plan;
+7 (iv) Section , section 401(a)(25) relating to the specification of
+8 actuarial assumptions;
+9 (v) Section , section 401(a)(31) relating to direct rollover
+10 distributions from eligible retirement plans; , and
+11 (vi) Section section 401(a)(37) relating to the death benefit of a
+12 police officer who dies while performing qualified military service.
+13 (b) Any requirements for compliance with section 401(a) of the
+14 Internal Revenue Code may be set forth in any trust or funding medium for
+15 the retirement system.
+16 (c) This subsection shall be in full force and effect only so long
+17 as conformity with section 401(a) of the Internal Revenue Code is
+18 required for public retirement systems in order to secure the favorable
+19 income tax treatment extended to sponsors and beneficiaries of tax-
+20 qualified retirement plans.
+21 (3) If a the retirement committee of a city determines that the
+22 retirement system for such city has previously overpaid or underpaid a
+23 benefit payable under the Cities of the First Class Police Officers
+24 Retirement Act, such retirement committee it shall have the power to
+25 correct such error. In the event of an overpayment, such the retirement
+26 system may, in addition to any other remedy that the retirement system
+27 possesses may possess, offset future benefit payments by the amount of
+28 the prior overpayment, together with regular interest thereon.
+29 (4) A police officer whose benefit payment is adjusted by a the
+30 retirement committee pursuant to subsection (3) of this section may
+31 request a review by the city council of the city that employs such police
+-27-
+
+LB822 LB822
+2026 2026
+1 officer of the adjustment made by such the retirement committee.
+2 (5) In order to provide the necessary amounts to pay for or fund a
+3 pension plan established under the Cities of the First Class Police
+4 Officers Retirement Act act, the mayor and council may make a levy that
+5 which is within the levy restrictions of section 77-3442.
+6 Sec. 20. Section 18-1723, Revised Statutes Cumulative Supplement,
+7 2024, is amended to read:
+8 18-1723 (1) The Legislature finds and declares the subject of this
+9 section to be a matter of general statewide concern.
+10 (2) For purposes of this section:
+11 (a) Tenured firefighter means any firefighter who was employed as a
+12 firefighter for at least five years by any city or village in this state,
+13 including any city with a home rule charter; and
+14 (b) Tenured police officer means any police officer who was employed
+15 as a police officer for at least five years by any city or village in
+16 this state, including any city with a home rule charter.
+17 (3) For any tenured firefighter or tenured police officer who
+18 suffers Whenever any firefighter who has served a total of five years as
+19 a member of a paid fire department of any city in this state or any
+20 police officer of any city or village, including any city having a home
+21 rule charter, shall suffer death or disability as a result of
+22 hypertension or heart or respiratory defect or disease, there shall be a
+23 rebuttable presumption that such death or disability resulted from
+24 accident or other cause while in the line of duty for all purposes of:
+25 (a) The Cities of the First Class the Police Officers Retirement
+26 Act; , sections 15-1012 to 15-1027, and
+27 (b) The the Cities of the First Class Firefighters Retirement Act; ,
+28 and
+29 (c) Sections 15-1012 to 15-1027; and
+30 (d) Any any firefighter's or police officer's pension plan
+31 established pursuant to any home rule charter. , the Legislature
+-28-
+
+LB822 LB822
+2026 2026
+1 specifically finding the subject of this section to be a matter of
+2 general statewide concern.
+3 (4) Such The rebuttable presumption applies shall apply to death or
+4 disability as a result of hypertension or heart or respiratory defect or
+5 disease after the tenured firefighter or tenured police officer separates
+6 from his or her applicable employment if the death or disability occurs
+7 within three months after such separation. Such rebuttable presumption
+8 shall apply in any action or proceeding arising out of death or
+9 disability incurred prior to December 25, 1969, and which has not been
+10 processed to final administrative or judicial conclusion prior to such
+11 date.
+12 Sec. 21. Section 81-8,317, Reissue Revised Statutes of Nebraska, is
+13 amended to read:
+14 81-8,317 (1) If a public safety officer is killed in the line of
+15 duty, compensation shall be paid as provided in the In the Line of Duty
+16 Compensation Act to recognize the ultimate sacrifice made by such public
+17 safety officer.
+18 (2) The amount of compensation to be paid under the act shall be as
+19 follows:
+20 (a) For deaths occurring during calendar year 2022, the amount of
+21 such compensation shall be two hundred fifty thousand dollars; and
+22 (b) For deaths occurring in calendar year 2023 and each calendar
+23 year thereafter, the amount of such compensation shall be equal to the
+24 compensation amount from the previous calendar year increased by the
+25 percentage increase, if any, in the Consumer Price Index for All Urban
+26 Consumers, as published by the United States Department of Labor, Bureau
+27 of Labor Statistics, for the twelve months ending on June 30 of such
+28 previous calendar year.
+29 (3) The person entitled to receive such compensation shall be
+30 determined as follows:
+31 (a) If the public safety officer designated a person to receive the
+-29-
+
+LB822 LB822
+2026 2026
+1 compensation in accordance with subsection (4) of this section, the
+2 compensation shall be paid to the designated person; or
+3 (b) If no person is designated by the public safety officer or if
+4 the designated person is not alive at the death of the public safety
+5 officer, the compensation shall be paid in accordance with the laws of
+6 this state regarding intestate succession.
+7 (4) The Risk Manager shall prescribe a form that may be used by a
+8 public safety officer to designate a person to receive the compensation.
+9 The public safety officer shall file such form with his or her employer
+10 or, if he or she is a volunteer, with the entity for which the volunteer
+11 service is provided.
+12 (5) Amounts paid under the In the Line of Duty Compensation Act
+13 shall not be considered:
+14 (a) Compensation under the County Employees Retirement Act, the
+15 Judges Retirement Act, the Nebraska State Patrol Retirement Act, the
+16 School Employees Retirement Act, the State Employees Retirement Act, or
+17 any other retirement plan administered by the Public Employees Retirement
+18 Board and shall not be eligible for deferral under any deferred
+19 compensation plan administered by the Public Employees Retirement Board;
+20 or
+21 (b) Regular pay or salary under the Cities of the First Class Police
+22 Officers Retirement Act or the Cities of the First Class Firefighters
+23 Retirement Act.
+24 (6) An employer of the public safety officer shall not have any
+25 right of subrogation under section 48-118 with respect to compensation
+26 paid under the In the Line of Duty Compensation Act.
+27 Sec. 22. Original sections 16-1001, 16-1002, 16-1003, 16-1004,
+28 16-1006, 16-1007, 16-1008, 16-1009, 16-1010, 16-1011, 16-1012, 16-1013,
+29 16-1014, 16-1015, 16-1016, 16-1017, 16-1018, 16-1019, and 81-8,317,
+30 Reissue Revised Statutes of Nebraska, section 18-1723, Revised Statutes
+31 Cumulative Supplement, 2024, and section 16-1005, Revised Statutes
+-30-
+
+LB822 LB822
+2026 2026
+1 Supplement, 2025, are repealed.
+-31-

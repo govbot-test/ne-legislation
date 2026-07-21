@@ -1,0 +1,1149 @@
+Title: 
+Official Title: 
+Source: versions - Final Reading
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LB967 LB967
+2026 2026
+LEGISLATURE OF NEBRASKA
+ONE HUNDRED NINTH LEGISLATURE
+SECOND SESSION
+LEGISLATIVE BILL 967
+FINAL READING
+Introduced by Jacobson, 42; Hallstrom, 1.
+Read first time January 12, 2026
+Committee: Banking, Commerce and Insurance
+1 A BILL FOR AN ACT relating to public health and welfare; to amend
+2 sections 44-150, 44-4055, 44-4059, 44-4064, 44-6122, 81-6,123,
+3 81-6,125, 81-6,127, 81-6,128, 81-12,147, and 81-12,148, Reissue
+4 Revised Statutes of Nebraska, sections 44-116 and 44-4605, Revised
+5 Statutes Cumulative Supplement, 2024, and section 44-1523, Revised
+6 Statutes Supplement, 2025; to change a transfer from the Department
+7 of Insurance Cash Fund; to change provisions relating to reciprocal
+8 licenses and retaliatory measures; to include pharmacy benefit
+9 managers under the Unfair Insurance Trade Practices Act; to change
+10 provisions relating to nonresident license requirements and the
+11 process for issuance, verification, and termination of such licenses
+12 under the Insurance Producers Licensing Act; to change fees under
+13 the Insurance Producers Licensing Act; to provide certain penalties
+14 and require notification of certain material changes under the
+15 Pharmacy Benefit Manager Licensure and Regulation Act; to provide
+16 requirements for electronic notice of annual meetings under the
+17 Mutual Insurance Holding Company Act; to change requirements for
+18 participation in the operation of the designated health information
+19 exchange; to change membership and duties of the Health Information
+20 Technology Board; to change eligible activities for and requirements
+21 for assistance from the Site and Building Development Fund; to adopt
+22 the Nebraska Protection of Seniors from Insurance Exploitation Act;
+-1-
+
+LB967 LB967
+2026 2026
+1 to prohibit health insurance plans from restricting certain claim
+2 payment methods; to harmonize provisions; and to repeal the original
+3 sections.
+4 Be it enacted by the people of the State of Nebraska,
+-2-
+
+LB967 LB967
+2026 2026
+1 Section 1. Section 44-116, Revised Statutes Cumulative Supplement,
+2 2024, is amended to read:
+3 44-116 (1) All money collected by the Department of Insurance for
+4 examination of the affairs of domestic, foreign, or alien insurance
+5 companies and insurers as defined in and pursuant to the Insurers
+6 Examination Act or any other provision of Chapter 44 or for valuing the
+7 reserve liabilities of life insurance companies shall be remitted by the
+8 department to the State Treasurer for credit to the Department of
+9 Insurance Cash Fund, which fund is hereby created. Money in the
+10 Department of Insurance Cash Fund may be used for transfers to the
+11 General Fund at the direction of the Legislature. Any money in the
+12 Department of Insurance Cash Fund available for investment shall be
+13 invested by the state investment officer pursuant to the Nebraska Capital
+14 Expansion Act and the Nebraska State Funds Investment Act.
+15 (2) The State Treasurer shall transfer fourteen million dollars from
+16 the Department of Insurance Cash Fund to the General Fund on or before
+17 June 30, 2026, on such dates and in such amounts as directed by the
+18 budget administrator of the budget division of the Department of
+19 Administrative Services. The State Treasurer shall transfer thirteen
+20 eleven million two hundred thousand dollars from the Department of
+21 Insurance Cash Fund to the General Fund on or before June 30, 2027, on
+22 such dates and in such amounts as directed by the budget administrator of
+23 the budget division of the Department of Administrative Services. The
+24 State Treasurer shall transfer eleven million dollars from the Department
+25 of Insurance Cash Fund to the General Fund on or before June 30, 2028, on
+26 such dates and in such amounts as directed by the budget administrator of
+27 the budget division of the Department of Administrative Services. The
+28 State Treasurer shall transfer eleven million dollars from the Department
+29 of Insurance Cash Fund to the General Fund on or before June 30, 2029, on
+30 such dates and in such amounts as directed by the budget administrator of
+31 the budget division of the Department of Administrative Services.
+-3-
+
+LB967 LB967
+2026 2026
+1 Sec. 2. Section 44-150, Reissue Revised Statutes of Nebraska, is
+2 amended to read:
+3 44-150 (1) When by or pursuant to the laws of any other state or
+4 foreign country any taxes, licenses and other fees, in the aggregate, or
+5 any fines, penalties, deposit requirements, or other material
+6 obligations, prohibitions, or restrictions, are or would be imposed upon
+7 Nebraska insurers, or upon the agents or representatives of such
+8 insurers, which are in excess of such taxes, licenses and other fees, in
+9 the aggregate, or which are in excess of the fines, penalties, deposit
+10 requirements, or other obligations, prohibitions, or restrictions
+11 directly imposed upon similar insurers, or upon the agents or
+12 representatives of such insurers, of such other state or country under
+13 the statutes of this state, so long as such laws of such other state or
+14 country continue in force or are so applied, the same taxes, licenses and
+15 other fees, in the aggregate, or fines, penalties, deposit requirements,
+16 or other material obligations, prohibitions, or restrictions of whatever
+17 kind shall be imposed by the Director of Insurance upon the insurers, or
+18 upon the agents or representatives of such insurers, of such other state
+19 or country doing business or seeking to do business in Nebraska. Any tax,
+20 license or other fee, or other obligation imposed by any city, county, or
+21 other political subdivision or agency of such other state or country on
+22 Nebraska insurers or their agents or representatives shall be deemed to
+23 be imposed by such state or country within the meaning of this section.
+24 (2) This section shall not apply as to personal income taxes, nor as
+25 to ad valorem taxes on real or personal property nor as to special-
+26 purpose obligations or assessments heretofore imposed by another state in
+27 connection with particular kinds of insurance, other than property
+28 insurance; except that deductions, from premium taxes or other taxes
+29 otherwise payable, allowed on account of real estate or personal property
+30 taxes paid shall be taken into consideration by the Director of Insurance
+31 in determining the propriety and extent of retaliatory action under this
+-4-
+
+LB967 LB967
+2026 2026
+1 section.
+2 (3) Nothing in this section shall require retaliatory action because
+3 of fees, obligations, or prohibitions imposed on Nebraska insurance
+4 producers licensed pursuant to the Insurance Producers Licensing Act.
+5 (3) (4) For the purposes of this section the domicile of an alien
+6 insurer, other than insurers formed under the laws of Canada, shall be
+7 that state designated by the insurer in writing filed with the Director
+8 of Insurance at time of admission to this state or within twelve months
+9 after September 28, 1959, whichever date is the later, and may be any one
+10 of the following states: (a) That in which the insurer was first
+11 authorized to transact insurance; (b) that in which is located the
+12 insurer's principal place of business in the United States; or (c) that
+13 in which is held the larger deposit of trusteed assets of the insurer for
+14 the protection of its policyholders and creditors in the United States.
+15 If the insurer makes no such designation its domicile shall be
+16 deemed to be that state in which is located its principal place of
+17 business in the United States.
+18 In the case of an insurer formed under the laws of Canada or a
+19 province thereof, its domicile shall be deemed to be that province in
+20 which its head office is situated.
+21 Sec. 3. Section 44-1523, Revised Statutes Supplement, 2025, is
+22 amended to read:
+23 44-1523 For purposes of the Unfair Insurance Trade Practices Act:
+24 (1) Customer means an individual who purchases, applies to purchase,
+25 or is solicited to purchase an insurance product primarily for personal,
+26 family, or household purposes;
+27 (2) Department means the Department of Insurance;
+28 (3) Director means the Director of Insurance;
+29 (4) Health insurance lead generator means a person that utilizes a
+30 lead generating device to (a) publicize the availability of what is, or
+31 what purports to be, a health insurance product or service that the
+-5-
+
+LB967 LB967
+2026 2026
+1 person is not licensed to sell directly to a customer, (b) identify a
+2 customer who may want to learn about a health insurance product, or (c)
+3 sell or transmit customer information to an insurer or producer for
+4 follow-up contact and sales activity;
+5 (5) Insured means the party named on a policy or certificate as the
+6 individual with legal rights to the benefits provided by such policy or
+7 certificate;
+8 (6) Insurer means any person, reciprocal exchange, interinsurer,
+9 Lloyds-type insurer or other similar group which includes an incorporated
+10 and individual unincorporated underwriter, a fraternal benefit society,
+11 or other legal entity engaged in the business of insurance, including an
+12 agent, a broker, an insurance consultant, an adjuster, a pharmacy benefit
+13 manager, or a third-party administrator. Insurer also includes a health
+14 maintenance organization, a prepaid limited health service organization,
+15 and a dental, optometric, or other similar health service plan. For
+16 purposes of the Unfair Insurance Trade Practices Act, all such insurers
+17 shall be deemed to be engaged in the business of insurance;
+18 (7) Lead generating device means a communication directed to the
+19 public that, regardless of form, content, or stated purpose, is intended
+20 to result in the compilation or qualification of a list containing names
+21 and other personal information to be used to solicit residents of this
+22 state for the purchase of what is, or what purports to be, a health
+23 insurance product or service;
+24 (8) Person means a natural or artificial entity, including, but not
+25 limited to, an individual, a partnership, a limited liability company, an
+26 association, a trust, or a corporation, including a health insurance lead
+27 generator operating as a natural or artificial entity;
+28 (9) Policy or certificate means any contract of insurance,
+29 indemnity, suretyship, or annuity issued, proposed for issuance, or
+30 intended for issuance by an insurer; and
+31 (10) Recording means an audio reproduction of sales and verification
+-6-
+
+LB967 LB967
+2026 2026
+1 of calls, including virtual technology calls, in its entirety, used in
+2 the marketing of insurance.
+3 Sec. 4. Section 44-4055, Reissue Revised Statutes of Nebraska, is
+4 amended to read:
+5 44-4055 (1) Unless denied licensure pursuant to section 44-4059, a
+6 nonresident person shall receive a nonresident insurance producer license
+7 if:
+8 (a) The person is currently licensed as a resident and in good
+9 standing in his or her home state;
+10 (b) The person has submitted the proper request for licensure and
+11 has paid the fees required by section 44-4064;
+12 (c) The person has submitted or transmitted to the director the
+13 application for licensure that the person submitted to his or her home
+14 state, or in lieu of the same, a completed uniform application; and
+15 (d) The person's home state awards nonresident producer licenses to
+16 residents of this state on the same basis.
+17 (2) The director may verify the insurance producer's licensing
+18 status through the producer database maintained by the National
+19 Association of Insurance Commissioners, or its affiliates or
+20 subsidiaries, or any successor, or by contacting the person's home state
+21 regulator.
+22 (3) A nonresident insurance producer who moves from one state to
+23 another state or a resident producer who moves from this state to another
+24 state shall file a change of address and provide certification from the
+25 new resident state within thirty days of the change of legal residence.
+26 No fee or license application is required for the filing of the change of
+27 address.
+28 (4) Notwithstanding any other provision of the Insurance Producers
+29 Licensing Act, a person licensed as a surplus lines insurance producer in
+30 his or her home state shall receive a nonresident surplus lines producer
+31 license pursuant to subsection (1) of this section. Except as to
+-7-
+
+LB967 LB967
+2026 2026
+1 subsection (1) of this section, nothing in this section otherwise amends
+2 or supersedes any provision of the Surplus Lines Insurance Act.
+3 (5) Notwithstanding any other provisions of the Insurance Producers
+4 Licensing Act, a person licensed as a limited line credit insurance
+5 producer, a limited line pre-need funeral insurance producer, or other
+6 type of limited lines producer in his or her home state shall receive a
+7 nonresident limited lines insurance producer license, pursuant to
+8 subsection (1) of this section, granting the same scope of authority as
+9 granted under the license issued by the producer's home state.
+10 (6) If a nonresident licensee's license or authority in the
+11 licensee's home state is no longer active, whether as a result of
+12 suspension, revocation, termination, lapse, voluntary surrender, or other
+13 action by the home state regulator, the director may cancel the
+14 nonresident licensee's license or authority granted in this state by
+15 sending an order of license revocation to the licensee. The licensee may
+16 make written demand upon the director within thirty days after receiving
+17 such order of license revocation for a hearing before the director to
+18 provide proof the licensee is currently licensed as a resident and in
+19 good standing in his or her home state. Such hearing shall be held within
+20 thirty days after the date a request for hearing is received and shall be
+21 held pursuant to the Administrative Procedure Act. If no hearing is
+22 requested within thirty days after receipt of an order of license
+23 revocation, the order of license revocation shall become a final order.
+24 Sec. 5. Section 44-4059, Reissue Revised Statutes of Nebraska, is
+25 amended to read:
+26 44-4059 (1) The director may suspend, revoke, or refuse to issue or
+27 renew an insurance producer's license or may levy an administrative fine
+28 in accordance with subsection (5) (4) of this section, or any combination
+29 of actions, for any one or more of the following causes:
+30 (a) Providing incorrect, misleading, incomplete, or materially
+31 untrue information in the license application;
+-8-
+
+LB967 LB967
+2026 2026
+1 (b) Violating any insurance law or violating any rule, regulation,
+2 subpoena, or order of the director or of another state's insurance
+3 commissioner or director;
+4 (c) Obtaining or attempting to obtain a license through
+5 misrepresentation or fraud;
+6 (d) Improperly withholding, misappropriating, or converting any
+7 money or property received in the course of doing insurance business;
+8 (e) Intentionally misrepresenting the terms of an actual or proposed
+9 insurance contract or application for insurance;
+10 (f) Having been convicted of a felony or a Class I, II, or III
+11 misdemeanor;
+12 (g) Having admitted or been found to have committed any insurance
+13 unfair trade practice, any unfair claims settlement practice, or fraud;
+14 (h) Using fraudulent, coercive, or dishonest practices, or
+15 demonstrating incompetence, untrustworthiness, or financial
+16 irresponsibility in the conduct of business in this state or elsewhere;
+17 (i) Having an insurance producer license, or its equivalent, denied,
+18 suspended, placed on probation, or revoked in Nebraska or in any other
+19 state, province, district, or territory;
+20 (j) Forging another's name to an application for insurance or to any
+21 document related to an insurance transaction;
+22 (k) Improperly using notes or any other reference material to
+23 complete an examination for an insurance license;
+24 (l) Knowingly accepting insurance business from an individual who is
+25 not licensed;
+26 (m) Failing to comply with an administrative or court order imposing
+27 a child support obligation pursuant to the License Suspension Act; and
+28 (n) Failing to pay state income tax or comply with any
+29 administrative or court order directing payment of state income tax. ;
+30 and
+31 (2) If the director has notice that a nonresident licensee failed to
+-9-
+
+LB967 LB967
+2026 2026
+1 maintain, in good standing, a resident license in the insurance
+2 producer's home state, the nonresident license shall be automatically
+3 revoked by the director and the director shall not be required to issue
+4 an order of license revocation in accordance with subsection (6) of
+5 section 44-4055 or renew such license.
+6 (o) Failing to maintain in good standing a resident license in the
+7 insurance producer's home state.
+8 (3) (2) If the director does not renew or denies an application for
+9 a license, the director shall notify the applicant or licensee and
+10 advise, in writing, the applicant or licensee of the reason for the
+11 denial or nonrenewal of the applicant's or licensee's license. The
+12 applicant or licensee may make written demand upon the director within
+13 thirty days for a hearing before the director to determine the
+14 reasonableness of the director's action. The hearing shall be held within
+15 thirty days and shall be held pursuant to the Administrative Procedure
+16 Act.
+17 (4) (3) The license of a business entity may be suspended, revoked,
+18 or refused if the director finds, after notice and hearing, that an
+19 individual licensee's violation was known or should have been known by
+20 one or more of the partners, officers, or managers acting on behalf of
+21 the business entity and the violation was neither reported to the
+22 director nor corrective action taken.
+23 (5) (4) In addition to or in lieu of any applicable denial,
+24 suspension, or revocation of a license, any person violating the
+25 Insurance Producers Licensing Act may, after notice and hearing, be
+26 subject to an administrative fine of not more than one thousand dollars
+27 per violation. Such fine may be enforced in the same manner as civil
+28 judgments. Any person charged with a violation of the act may waive his
+29 or her right to a hearing and consent to such discipline as the director
+30 determines is appropriate. The Administrative Procedure Act shall govern
+31 all hearings held pursuant to such act.
+-10-
+
+LB967 LB967
+2026 2026
+1 (6) (5) The director shall retain the authority to enforce the
+2 provisions of and impose any penalty or remedy authorized by the
+3 Insurance Producers Licensing Act against any person who is under
+4 investigation for or charged with a violation of the act even if the
+5 person's license or registration has been surrendered or has lapsed by
+6 operation of law. No disciplinary proceeding shall be instituted against
+7 any licensed person after the expiration of three years from the
+8 termination of such license.
+9 Sec. 6. Section 44-4064, Reissue Revised Statutes of Nebraska, is
+10 amended to read:
+11 44-4064 (1) Before any license or appointment is issued or renewed
+12 under the Insurance Producers Licensing Act or before any appointment is
+13 terminated, the person requesting such license shall pay or cause to be
+14 paid to the director the following fee or fees, if applicable, as
+15 established by the director:
+16 (a) For each insurance producer license, a fee not to exceed one
+17 hundred dollars, except that if any other state imposes additional or
+18 greater fees, obligations, or prohibitions on Nebraska resident insurance
+19 producers, then such additional or greater fees, obligations, or
+20 prohibitions shall be imposed upon similar insurance producers of such
+21 other state applying for a license in Nebraska;
+22 (b) For each annual appointment, a fee not to exceed ten dollars;
+23 (c) For each termination of an appointment, a fee not to exceed ten
+24 dollars;
+25 (d) A late renewal fee not to exceed one hundred twenty-five
+26 dollars;
+27 (e) A reinstatement fee not to exceed one hundred seventy-five
+28 dollars; and
+29 (f) For each business entity license, a fee not to exceed fifty
+30 dollars, except that if any other state imposes additional or greater
+31 fees, obligations, or prohibitions on Nebraska business entities, then
+-11-
+
+LB967 LB967
+2026 2026
+1 such additional or greater fees, obligations, or prohibitions shall be
+2 imposed upon similar business entities of such other state applying for a
+3 license in Nebraska.
+4 (2) If a licensed person (a) desires to add a line or lines of
+5 insurance to his or her existing license, (b) seeks to change any other
+6 information contained in the license for any reason, or (c) applies for a
+7 duplicate license, such person shall pay to the director a fee
+8 established by the director to cover the expense of replacing the
+9 license.
+10 (3) The director shall not prorate fees imposed pursuant to
+11 subsection (1) of this section and shall not refund fees to any person in
+12 the event of a license denial. The director may refund fees paid pursuant
+13 to this section if the payment has been made in error.
+14 Sec. 7. Section 44-4605, Revised Statutes Cumulative Supplement,
+15 2024, is amended to read:
+16 44-4605 (1) A person shall not establish or operate as a pharmacy
+17 benefit manager in this state for a health benefit plan without first
+18 obtaining a license from the director under the Pharmacy Benefit Manager
+19 Licensure and Regulation Act.
+20 (2) The director may adopt and promulgate rules and regulations
+21 establishing the licensing application, financial, and reporting
+22 requirements for pharmacy benefit managers under the act.
+23 (3) A person applying for a pharmacy benefit manager license shall
+24 submit an application for licensure in the form and manner prescribed by
+25 the director.
+26 (4) A person submitting an application for a pharmacy benefit
+27 manager license shall include with the application a nonrefundable
+28 application fee. The director shall establish the nonrefundable
+29 application fee in an amount not to exceed five hundred dollars.
+30 (5) The director may refuse to issue or renew a license if the
+31 director determines that the applicant or any individual responsible for
+-12-
+
+LB967 LB967
+2026 2026
+1 the conduct of affairs of the applicant is not competent, trustworthy,
+2 financially responsible, or of good personal and business reputation, has
+3 been found to have violated the insurance laws of this state or any other
+4 jurisdiction, or has had an insurance or other certificate of authority
+5 or license denied or revoked for cause by any jurisdiction.
+6 (6)(a) Unless surrendered, suspended, or revoked by the director, a
+7 license issued under this section is valid as long as the pharmacy
+8 benefit manager continues to do business in this state and remains in
+9 compliance with the provisions of the act and any applicable rules and
+10 regulations, including the completion of a renewal application on a form
+11 prescribed by the director and payment of an annual license renewal fee.
+12 The director shall establish the annual license renewal fee in an amount
+13 not to exceed two hundred fifty dollars.
+14 (b) Such application and renewal fee shall be received by the
+15 director on or before thirty days prior to the anniversary of the
+16 effective date of the pharmacy benefit manager's initial or most recent
+17 license.
+18 (c) Subject to subdivision (6)(d) of this section, if a pharmacy
+19 benefit manager fails to comply with subdivision (6)(b) of this section:
+20 (i) Such pharmacy benefit manager shall pay a fine of one hundred
+21 dollars for each day such failure continues and the pharmacy benefit
+22 manager continues to transact any business in this state; and
+23 (ii) In addition to the fine required under subdivision (6)(c)(i) of
+24 this section, if the renewal application and fee are not received prior
+25 to the anniversary of the effective date of the pharmacy benefit
+26 manager's initial or most recent license, the pharmacy benefit manager's
+27 license shall be suspended until the pharmacy benefit manager has
+28 complied with subdivision (6)(b) of this section, any rules and
+29 regulations adopted and promulgated under this section, and any orders
+30 issued under this section. The director shall remit all such fines to the
+31 State Treasurer for distribution in accordance with Article VII, section
+-13-
+
+LB967 LB967
+2026 2026
+1 5, of the Constitution of Nebraska.
+2 (d) For good and sufficient cause shown, the director may grant a
+3 reasonable extension of time not to exceed thirty days within which the
+4 renewal application and fee may be filed as required under subdivision
+5 (6)(b) of this section without the fine required under subdivision (6)(c)
+6 (i) of this section and without any suspension authorized under
+7 subdivision (6)(c)(ii) of this section.
+8 (7) A pharmacy benefit manager shall immediately notify the director
+9 of any material change in its ownership or control or other fact or
+10 circumstance affecting its qualification for a license as a pharmacy
+11 benefit manager in this state.
+12 Sec. 8. Section 44-6122, Reissue Revised Statutes of Nebraska, is
+13 amended to read:
+14 44-6122 Sections 44-6122 to 44-6143 and section 9 of this act shall
+15 be known and may be cited as the Mutual Insurance Holding Company Act.
+16 Sec. 9. (1) A mutual insurance holding company shall provide notice
+17 of its annual meeting to its members as provided by the company's bylaws
+18 or, if the bylaws are silent, in a manner that is reasonable. Electronic
+19 notice, either by direct electronic transmission, publication on a
+20 designated website, or comparable technology, is reasonable if:
+21 (a) For notice by direct electronic transmission, the notice is sent
+22 to an electronic address or account that the member has designated for
+23 receipt of notices or to an electronic address the company reasonably
+24 believes will reach the recipient; or
+25 (b) For notice published on a designated website, the company has
+26 previously informed its members of the time, location, and procedure for
+27 accessing notices published on a designated website.
+28 (2) The notice described in subsection (1) of this section shall
+29 include all information otherwise required by law, including instructions
+30 for accessing meeting materials and for voting or participating in the
+31 meeting if electronic participation or voting is permitted.
+-14-
+
+LB967 LB967
+2026 2026
+1 (3) Notice shall be effective on the date that such notice is sent,
+2 or if published on a designated website, on the date the notice is
+3 published. The company shall demonstrate delivery to the electronic
+4 address or account or publication on a designated website, by
+5 contemporaneous logs, delivery receipts, or portal access records.
+6 (4) Nothing in this section precludes a company from using
+7 electronic means or publication on its website to provide meeting
+8 materials, proxies, ballots, or other member communications if the
+9 company complies with the requirements of this section.
+10 (5) After receipt of notice, a member may contact the company to
+11 request that printed meeting materials be sent via United States mail at
+12 no cost to the member.
+13 (6) A mutual insurance holding company may also provide notice of an
+14 annual meeting to members as part of policy language, a policy
+15 endorsement, a rider, or an amendment.
+16 Sec. 10. Section 81-6,123, Reissue Revised Statutes of Nebraska, is
+17 amended to read:
+18 81-6,123 Sections 81-6,123 to 81-6,128 81-6,126 shall be known and
+19 may be cited as the Population Health Information Act.
+20 Sec. 11. Section 81-6,125, Reissue Revised Statutes of Nebraska, is
+21 amended to read:
+22 81-6,125 (1) The purpose of the Population Health Information Act is
+23 to designate a health information exchange to provide the data
+24 infrastructure needed to assist in creating a healthier Nebraska and
+25 operating the electronic health records initiative.
+26 (2) The designated health information exchange shall:
+27 (a) Enable the secure and seamless exchange of health information in
+28 real-time between health care providers and health care entities for the
+29 purposes of evaluating and monitoring a patient's care and treatment and
+30 reducing health care costs;
+31 (b) (a) Aggregate clinical information from health care entities
+-15-
+
+LB967 LB967
+2026 2026
+1 needed to support the operation of the medical assistance program under
+2 the Medical Assistance Act;
+3 (c) (b) Act as the designated entity for purposes of access to, and
+4 analysis of, health data;
+5 (d) (c) Collect and analyze data for purposes of informing the
+6 Legislature, the department, health care providers, and health care
+7 entities as to the cost of, access to, and quality of health care in
+8 Nebraska; and
+9 (e) (d) Act as a collector and reporter of public health data for
+10 registry submissions, electronic laboratory reporting, immunization
+11 reporting, and syndromic surveillance from an electronic health record,
+12 which does not include claims data. ; and
+13 (e) Enable any health care provider or health care entity to access
+14 information available within the designated health information exchange
+15 to evaluate and monitor care and treatment of a patient in accordance
+16 with the privacy and security provisions set forth in the federal Health
+17 Insurance Portability and Accountability Act of 1996, Public Law 104-191.
+18 (3)(a) On or before January 1, 2027 September 30, 2021, each health
+19 care facility listed in subdivision (b) of this subsection shall
+20 participate in the designated health information exchange through sharing
+21 of clinical information. Subject to subsection (5) of this section, such
+22 Such clinical information shall include the clinical data that the health
+23 care facility captured in its existing electronic health record as
+24 permitted by state and federal laws, rules, and regulations. Any patient
+25 health information shared with the designated health information exchange
+26 as determined by the rules and regulations policies adopted by the Health
+27 Information Technology Board shall be provided in accordance with the
+28 privacy and security provisions set forth in the federal Health Insurance
+29 Portability and Accountability Act of 1996 and regulations adopted under
+30 the act.
+31 (b) This subsection applies to an ambulatory surgical center, a
+-16-
+
+LB967 LB967
+2026 2026
+1 critical access hospital, a general acute hospital, a health clinic, a
+2 hospital, an intermediate care facility, a long-term care hospital, a
+3 mental health substance use treatment center, a PACE center, a pharmacy,
+4 a psychiatric or mental hospital, a public health clinic, or a
+5 rehabilitation hospital, as such terms are defined in the Health Care
+6 Facility Licensure Act, or a diagnostic, laboratory, or imaging center.
+7 (c) This subsection does not apply to (i) a state-owned or state-
+8 operated facility or (ii) an assisted-living facility, a nursing
+9 facility, or a skilled nursing facility, as such terms are defined in the
+10 Health Care Facility Licensure Act.
+11 (d) Any connection established by July 1, 2021, between a health
+12 care facility and the designated health information exchange to
+13 facilitate such participation shall be at no cost to the participating
+14 health care facility.
+15 (e) A health care facility may apply to the board for a waiver from
+16 the requirement to participate under this subsection due to a
+17 technological burden. The board shall review the application and
+18 determine whether to waive the requirement. If the board waives the
+19 requirement for a health care facility, the board shall review the waiver
+20 annually to determine if the health care facility continues to qualify
+21 for the waiver.
+22 (e) (f) The board shall not require a health care facility to
+23 purchase or contract for an electronic records management system or
+24 service.
+25 (4)(a) On or before January 1, 2022, each health insurance plan
+26 shall participate in the designated health information exchange through
+27 sharing of information. Subject to subsection (6) (5) of this section,
+28 such information shall be determined by rules and regulations policies
+29 adopted by the Health Information Technology Board and shall be provided
+30 in accordance with the privacy and security provisions set forth in the
+31 federal Health Insurance Portability and Accountability Act of 1996 and
+-17-
+
+LB967 LB967
+2026 2026
+1 regulations adopted under the act.
+2 (b) For purposes of this subsection:
+3 (i) Health insurance plan includes any group or individual sickness
+4 and accident insurance policy, health maintenance organization contract,
+5 subscriber contract, employee medical, surgical, or hospital care benefit
+6 plan, or self-funded employee benefit plan to the extent not preempted by
+7 federal law; and
+8 (ii) Health insurance plan does not include (A) accident-only,
+9 disability-income, hospital confinement indemnity, dental, hearing,
+10 vision, or credit insurance, (B) coverage issued as a supplement to
+11 liability insurance, (C) insurance provided as a supplement to medicare,
+12 (D) insurance arising from workers' compensation provisions, (E)
+13 automobile medical payment insurance, (F) insurance policies that provide
+14 coverage for a specified disease or any other limited benefit coverage,
+15 or (G) insurance under which benefits are payable with or without regard
+16 to fault and which is statutorily required to be contained in any
+17 liability insurance policy.
+18 (5) The designated health information exchange shall not require a
+19 health care facility or health insurance plan to submit data or
+20 information except that required by rules and regulations adopted by the
+21 Health Information Technology Board.
+22 (6) (5) The designated health information exchange and the
+23 department shall enter into an agreement to allow the designated health
+24 information exchange to collect, aggregate, analyze, report, and release
+25 de-identified data, as defined by the federal Health Insurance
+26 Portability and Accountability Act of 1996, that is derived from the
+27 administration of the medical assistance program. Such written agreement
+28 shall be executed no later than September 30, 2021.
+29 (7) (6) In addition to the right to opt out as provided in section
+30 71-2454, an individual shall have the right to opt out of the designated
+31 health information exchange or the sharing of information required under
+-18-
+
+LB967 LB967
+2026 2026
+1 subsections (3) and (4) of this section. The designated health
+2 information exchange shall adopt a patient opt-out policy consistent with
+3 the federal Health Insurance Portability and Accountability Act of 1996
+4 and other applicable federal requirements. Such policy shall not apply to
+5 mandatory public health reporting requirements.
+6 Sec. 12. Section 81-6,127, Reissue Revised Statutes of Nebraska, is
+7 amended to read:
+8 81-6,127 (1) The Health Information Technology Board is created. The
+9 board shall have twenty-one seventeen members. Except for members
+10 designated in subdivision (2)(o) of this section, the members shall be
+11 appointed by the Governor with the approval of a majority of the members
+12 of the Legislature. The members may begin to serve immediately following
+13 appointment and prior to approval by the Legislature. The members shall
+14 be appointed by February 1, 2021, and the board shall begin meeting on or
+15 before April 1, 2021.
+16 (2) Members designated under subdivisions (b), (c), (d), (e), (g),
+17 (h), and (i) of this subsection shall hold a credential under the Uniform
+18 Credentialing Act. Except as otherwise provided in subsection (4) of this
+19 section, the board shall consist of:
+20 (a) One individual who has experience in operating the prescription
+21 drug monitoring program created under section 71-2454;
+22 (b) Two physicians, one of whom shall be a family practice
+23 physician, who are in active practice and in good standing with the
+24 Department of Health and Human Services appointed from a list of
+25 physicians provided by a statewide organization representing physicians;
+26 (c) One pharmacist who is in active practice and in good standing
+27 with the department appointed from a list of pharmacists provided by a
+28 statewide organization representing pharmacists;
+29 (d) One alcohol and drug counselor providing services for a state-
+30 licensed alcohol and drug abuse addiction treatment program;
+31 (e) One health care provider who is board-certified in pain
+-19-
+
+LB967 LB967
+2026 2026
+1 management;
+2 (f) Two One hospital administrators administrator appointed from a
+3 list of hospital administrators provided by a statewide organization
+4 representing hospital administrators, only one of which shall represent
+5 critical access hospitals as defined in section 71-409;
+6 (g) One dentist who is in active practice and in good standing with
+7 the department appointed from a list of dentists provided by a statewide
+8 organization representing dentists;
+9 (h) One nurse practitioner who is in active practice and in good
+10 standing with the department authorized to prescribe medication appointed
+11 from a list of nurse practitioners authorized to prescribe medication
+12 provided by a statewide organization representing such nurse
+13 practitioners;
+14 (i) One veterinarian who is in active practice and in good standing
+15 with the department appointed from a list of veterinarians provided by a
+16 statewide organization representing veterinarians;
+17 (j) Two representatives One representative of the Department of
+18 Health and Human Services including one representative from the Division
+19 of Medicaid and Long-Term Care of the Department of Health and Human
+20 Services;
+21 (k) One representative of a delegate as defined in section 71-2454;
+22 (l) One health care payor as defined in section 25-21,247 or an
+23 employee of a health care payor;
+24 (m) One credentialed health information management professional
+25 appointed from a list of such professionals provided by a statewide
+26 organization representing such professionals;
+27 (n) One representative of the statewide health information exchange
+28 described in section 71-2455; and
+29 (o) The chairperson of the Health and Human Services Committee of
+30 the Legislature and the chairperson of the Appropriations Committee of
+31 the Legislature, both of whom are nonvoting, ex officio members; .
+-20-
+
+LB967 LB967
+2026 2026
+1 (p) One representative of an insurer, as defined in section 44-103,
+2 who offers at least one health insurance plan as defined in section
+3 81-6,125; and
+4 (q) One individual with experience in the electronic exchange of
+5 sensitive information.
+6 (3) Except for members designated in subdivisions (2)(a) and (o) of
+7 this section:
+8 (a) A minimum of three members shall be appointed from each
+9 congressional district;
+10 (b) Each member shall be appointed for a five-year term beginning on
+11 April 1, 2021, and may serve for any number of such terms; and
+12 (c) Any member appointed prior to April 1, 2021, shall begin to
+13 serve immediately upon appointment and continue serving for the term
+14 beginning on April 1, 2021; and
+15 (c) (d) Any vacancy in membership, other than by expiration of a
+16 term, shall be filled within ninety days by the Governor by appointment
+17 for the vacant position as provided in subsection (2) of this section.
+18 (4) If, after appointment, the classification of a member's
+19 credential changes or a member's credential classification is terminated
+20 and if such credential was a qualification for appointment, the member
+21 shall be permitted to continue to serve as a member of the board until
+22 the expiration of the term for which appointed unless the member loses
+23 the credential due to disciplinary action.
+24 (5) The members shall be reimbursed for their actual and necessary
+25 expenses incurred in serving on the board as provided in section 71-2455.
+26 (6) A simple majority of members shall constitute a quorum for the
+27 transaction of all business.
+28 Sec. 13. Section 81-6,128, Reissue Revised Statutes of Nebraska, is
+29 amended to read:
+30 81-6,128 (1) The Health Information Technology Board shall:
+31 (a) Establish criteria for data collection and disbursement by the
+-21-
+
+LB967 LB967
+2026 2026
+1 statewide health information exchange described in section 71-2455 and
+2 the prescription drug monitoring program created under section 71-2454 to
+3 improve the quality of information provided to clinicians. Such data
+4 shall not include proprietary or confidential financial information
+5 maintained by a health care provider or health care entity;
+6 (b) Establish the framework and standards necessary to ensure the
+7 secure and seamless exchange of health information in real-time between
+8 health care providers and health care entities through the statewide
+9 health information exchange;
+10 (c) (b) Evaluate and ensure that the statewide health information
+11 exchange is meeting technological standards for reporting of data for the
+12 prescription drug monitoring program, including the data to be collected
+13 and reported and the frequency of data collection and disbursement;
+14 (d) (c) Provide the governance oversight necessary to ensure that
+15 any health information in the statewide health information exchange and
+16 the prescription drug monitoring program may be accessed, used, or
+17 disclosed only in accordance with the privacy and security protections
+18 set forth in the federal Health Insurance Portability and Accountability
+19 Act of 1996, Public Law 104-191, and regulations promulgated thereunder.
+20 All protected health information is privileged, is not a public record,
+21 and may be withheld from the public pursuant to section 84-712.05; and
+22 (e) (d) Provide recommendations to the statewide health information
+23 exchange on any other matters referred to the board.
+24 (2) The board, upon the recommendation of the department, shall
+25 adopt rules and regulations policies and procedures necessary to carry
+26 out the Population Health Information Act its duties. Notwithstanding
+27 section 71-2455, the department shall draft, promulgate, and enforce such
+28 rules and regulations.
+29 (3) The authority of the board to direct the use or release of data
+30 under this section or section 71-2454 shall apply only to requests
+31 submitted to the board after September 1, 2021.
+-22-
+
+LB967 LB967
+2026 2026
+1 (4) The board may hold meetings by telecommunication or electronic
+2 communication subject to the Open Meetings Act. Any official action or
+3 vote of the members of the board shall be preserved in the records of the
+4 board.
+5 (5) By November 15, 2021, and November 15 of each year thereafter,
+6 the board shall develop and submit an annual report to the Governor and
+7 the Health and Human Services Committee of the Legislature regarding
+8 considerations undertaken, decisions made, accomplishments, and other
+9 relevant information. The report submitted to the Legislature shall be
+10 submitted electronically.
+11 Sec. 14. Section 81-12,147, Reissue Revised Statutes of Nebraska, is
+12 amended to read:
+13 81-12,147 (1) Except as provided in subsection (2) of this section,
+14 the Department of Economic Development shall use the Site and Building
+15 Development Fund to finance loans, grants, subsidies, credit
+16 enhancements, and other financial assistance for industrial site and
+17 building development and for expenses of the department as appropriated
+18 by the Legislature for administering the fund. The following activities
+19 are eligible for assistance from the fund:
+20 (a) Grants or zero-interest loans to villages, cities, or counties
+21 to acquire land, infuse infrastructure, or otherwise make large sites and
+22 buildings ready for industrial development;
+23 (b) Matching funds for new construction, rehabilitation, or
+24 acquisition of land and buildings to assist villages, cities, and
+25 counties;
+26 (c) Technical assistance, design and finance services, and
+27 consultation for villages, cities, and counties for the preparation and
+28 creation of industrial-ready sites and buildings;
+29 (d) Loan guarantees for eligible projects;
+30 (e) Projects making industrial-ready sites and buildings more
+31 accessible to business and industry;
+-23-
+
+LB967 LB967
+2026 2026
+1 (f) Infrastructure projects necessary for the development of
+2 industrial-ready sites and buildings;
+3 (g) Projects that mitigate the economic impact of a closure or
+4 downsizing of a private-sector entity by making necessary improvements to
+5 buildings and infrastructure;
+6 (h) Public and private sector initiatives that will improve the
+7 military value of military installations by making necessary improvements
+8 to buildings and infrastructure, including, but not limited to, a grant
+9 for the establishment of the United States Strategic Command Nuclear
+10 Command, Control, and Communications public-private-partnership facility;
+11 (i) A grant to a city of the second class that is served by two
+12 first-class railroads, that is within fifteen miles of two state borders,
+13 and that partners with public power utilities for purposes of expanding
+14 electrical system capacities and enhancing redundancy and resilience;
+15 (j) A grant of two million dollars to a city of the first class
+16 located in the third congressional district if the property previously
+17 housed a university or college that is no longer extant and if the
+18 improvement and revitalization of the real property is for purposes of
+19 supporting the housing, employment, and program needs of youth exiting
+20 the foster care system. In addition, the real property may be used for
+21 youth exiting juvenile court supervision in an out-of-home placement;
+22 (k) Public and private sector initiatives that will improve the
+23 value of cities of the second class that have partnered with the United
+24 States Department of Defense or its contractors on upgrades to ground-
+25 based nuclear deterrence. Such improvements include the construction of
+26 electrical, drinking water, and clean water infrastructure; and
+27 (l) Identification, evaluation, and development of large commercial
+28 and industrial sites and building infrastructure to attract major
+29 investment and employment opportunities for advanced manufacturing,
+30 processing, trade, technology, aerospace, automotive, clean energy, life
+31 science, and other transformational industries in Nebraska by means of
+-24-
+
+LB967 LB967
+2026 2026
+1 the department providing grants to or partnering with political
+2 subdivisions, including inland port authorities under the Municipal
+3 Inland Port Authority Act, or nonprofit economic development corporations
+4 and entering into contracts for consulting, engineering, and development
+5 studies to identify, evaluate, and develop large commercial and
+6 industrial sites in Nebraska; and .
+7 (m) Grants to political subdivisions and nationally and state
+8 accredited golf associations to construct golf facilities and related
+9 infrastructure. Such facilities shall be located within the boundaries of
+10 a city of the metropolitan class.
+11 (2) The Department of Economic Development shall use the subaccount
+12 of the Site and Building Development Fund described in subsection (2) of
+13 section 81-12,146 to provide financial assistance to any inland port
+14 authority created under the Municipal Inland Port Authority Act to help
+15 finance large shovel-ready commercial and industrial sites developed
+16 under such act.
+17 Sec. 15. Section 81-12,148, Reissue Revised Statutes of Nebraska, is
+18 amended to read:
+19 81-12,148 (1) Governmental subdivisions and Nebraska nonprofit
+20 organizations are eligible to receive assistance under the Site and
+21 Building Development Act. Any entity receiving assistance under
+22 subsection (1) of section 81-12,147 shall provide, or cause to be
+23 provided, matching funds for the eligible activity in an amount
+24 determined by the Department of Economic Development, which amount shall
+25 be at least equal to one hundred percent of the amount of assistance
+26 provided by the Site and Building Development Fund. Nothing in the act
+27 shall be construed to allow individuals or businesses to receive direct
+28 loans from the fund.
+29 (2) An applicant for a grant for development of a public-private-
+30 partnership facility under subdivision (1)(h) of section 81-12,147 shall
+31 provide the Director of Economic Development with a letter of support
+-25-
+
+LB967 LB967
+2026 2026
+1 from the United States Strategic Command prior to approval of the
+2 application and with proof of the availability of twenty million dollars
+3 in private or other funds for the facility. No funds shall be expended or
+4 grants awarded until receipt of proof of the availability of twenty
+5 million dollars in private or other funds for the facility and
+6 certification is provided by the Director of Economic Development to the
+7 budget administrator of the budget division of the Department of
+8 Administrative Services.
+9 (3) An applicant for a grant for development under subdivision (1)
+10 (k) of section 81-12,147 is not required to meet the matching fund
+11 requirements pursuant to this section but shall provide the Director of
+12 Economic Development a letter from the United States Department of
+13 Defense or contractor providing upgrades to ground-based nuclear
+14 deterrence that infrastructure improvements, including the construction
+15 of electrical, drinking water, and clean water infrastructure, will not
+16 be included in the scope of the project. No grants shall be awarded or
+17 funds expended until such letter is received.
+18 (4)(a) An applicant for a grant for construction of a golf facility
+19 under subdivision (1)(m) of section 81-12,147 shall, prior to approval of
+20 the application, provide the Director of Economic Development with:
+21 (i) Documentation demonstrating the facility's programming for
+22 veterans;
+23 (ii) Documentation demonstrating the facility's programming for
+24 youth;
+25 (iii) A letter of support from a nationally accredited golf
+26 association;
+27 (iv) A letter of support from a state accredited golf association;
+28 (v) A letter of support from the mayor of the city of the
+29 metropolitan class where the facility will be located; and
+30 (vi) Proof of funding for at least eighty percent of the total costs
+31 of the construction.
+-26-
+
+LB967 LB967
+2026 2026
+1 (b) A grant issued under this subsection shall not exceed twenty
+2 percent of the total costs of the construction.
+3 (5) (4) This section does not apply to any inland port authority
+4 receiving assistance under subsection (2) of section 81-12,147.
+5 Sec. 16. Sections 16 to 25 of this act shall be known and may be
+6 cited as the Nebraska Protection of Seniors from Insurance Exploitation
+7 Act.
+8 Sec. 17. (1) It is the intent of the Legislature to provide legal
+9 protection to insurers and insurance producers so that they have the
+10 discretion to take action to assist in detecting and preventing financial
+11 exploitation.
+12 (2) The Legislature recognizes that insurers and insurance producers
+13 are in a unique position to potentially discover financial exploitation
+14 when conducting transactions on behalf of and at the request of their
+15 customers.
+16 (3) The Legislature recognizes that insurers and insurance producers
+17 have duties imposed by contract and duties imposed by both federal and
+18 state law to conduct transactions requested by their customers faithfully
+19 and timely in accordance with the customer's instructions.
+20 (4) The Legislature recognizes that insurers and insurance producers
+21 do not have a duty to contravene the valid instructions of their
+22 customers and nothing in the Nebraska Protection of Seniors from
+23 Insurance Exploitation Act creates such a duty.
+24 Sec. 18. For purposes of the Nebraska Protection of Seniors from
+25 Insurance Exploitation Act, unless the context otherwise requires:
+26 (1) Director means the Director of Insurance;
+27 (2) Disbursement means any attempt to withdraw money or access a
+28 benefit from a life insurance policy or an annuity irrespective of
+29 whether the request is classified as a surrender, loan, withdrawal,
+30 partial withdrawal, accelerated benefit, or otherwise;
+31 (3) Eligible adult means:
+-27-
+
+LB967 LB967
+2026 2026
+1 (a) A senior adult as defined in section 28-366.01; or
+2 (b) A vulnerable adult as defined in section 28-371;
+3 (4) Financial exploitation means:
+4 (a) The wrongful or unauthorized taking, withholding, appropriation,
+5 or use of money, assets, or other property of an eligible adult by any
+6 person; or
+7 (b) Any act or omission taken by a person, including through the use
+8 of a power of attorney, guardianship, or conservatorship of an eligible
+9 adult, to:
+10 (i) Obtain control, through deception, intimidation, or undue
+11 influence, over the eligible adult's money, assets, or other property to
+12 deprive the eligible adult of the ownership, use, benefit, or possession
+13 of his or her money, assets, or other property; or
+14 (ii) Convert money, assets, or other property of the eligible adult
+15 to deprive such eligible adult of the ownership, use, benefit, or
+16 possession of his or her money, assets, or other property;
+17 (5) Insurer means any insurance company as defined in section 44-103
+18 regulated under laws administered by the Director of Insurance;
+19 (6) Permissible third party means any individual previously
+20 designated by the eligible adult who may be contacted about the eligible
+21 adult's insurance policy, contract, or account, or a person otherwise
+22 permitted to be contacted by any state or federal law, rule, or
+23 regulation; and
+24 (7) Trained individual means any of the following:
+25 (a) An insurance producer who has taken at least two hours of
+26 continuing education focused on how to identify the suspected or
+27 attempted financial exploitation of an eligible adult, which included
+28 identifying common signs indicating the financial exploitation of an
+29 eligible adult and how to provide notification regarding the suspected or
+30 attempted financial exploitation of an eligible adult; or
+31 (b) A person who has received training pursuant to section 23 of
+-28-
+
+LB967 LB967
+2026 2026
+1 this act.
+2 Sec. 19. An insurer or trained individual who, acting reasonably
+3 and in good faith, makes a disclosure of information to the director
+4 pursuant to the Nebraska Protection of Seniors from Insurance
+5 Exploitation Act or the Insurance Fraud Act shall be immune from
+6 administrative or civil liability that might otherwise arise from such
+7 disclosure or for any failure to notify the eligible adult of the
+8 disclosure. This section shall not abrogate or modify any existing
+9 statutory or common law privileges or immunities.
+10 Sec. 20. (1) If an insurer or trained individual reasonably
+11 believes financial exploitation of an eligible adult may have occurred,
+12 has been attempted, or is being attempted, the insurer or trained
+13 individual may notify a permissible third party. Notification to a
+14 permissible third party is not required prior to any insurer's, trained
+15 individual's, director's, or relevant agency's review or investigation of
+16 financial exploitation.
+17 (2) Insurers and trained individuals shall not notify a permissible
+18 third party if the insurer or trained individual reasonably suspects that
+19 such permissible third party has financially exploited or otherwise
+20 abused the eligible adult.
+21 (3) An insurer or trained individual who, acting reasonably and in
+22 good faith, complies with this section shall be immune from any
+23 administrative or civil liability that might otherwise arise from such
+24 notification.
+25 Sec. 21. (1) If an insurer or trained individual reasonably
+26 believes a disbursement or transaction will likely result in or
+27 contribute to the financial exploitation of an eligible adult, the
+28 insurer or trained individual may initiate an internal review of the
+29 requested disbursement or transaction.
+30 (2) An insurer may delay a disbursement or transaction from an
+31 eligible adult's insurance policy, contract, or account on which an
+-29-
+
+LB967 LB967
+2026 2026
+1 eligible adult is a beneficiary if all of the following apply:
+2 (a) The insurer reasonably believes, after an internal review is
+3 initiated pursuant to subsection (1) of this section, that the requested
+4 disbursement or transaction will likely result in or contribute to the
+5 financial exploitation of an eligible adult;
+6 (b) Immediately, but in no event more than seven business days after
+7 the disbursement or transaction is delayed, the insurer provides written
+8 notification of the delay and the reason for the delay to all persons
+9 authorized to transact business on the insurance policy, contract, or
+10 account. An insurer shall not notify a person authorized to transact
+11 business on the insurance policy, contract, or account if the insurer
+12 reasonably believes such person has committed or attempted financial
+13 exploitation or other abuse of an eligible adult or committed or
+14 attempted insurance fraud;
+15 (c) Within seven business days after the disbursement or transaction
+16 is delayed, the insurer notifies the director of the delay and provides
+17 to the director the reason for the delay, including the status of the
+18 internal review initiated pursuant to subsection (1) of this section; and
+19 (d) The insurer continues the internal review of the suspected or
+20 attempted financial exploitation of the eligible adult, as necessary, and
+21 provides the director with updates of such review upon request.
+22 (3) Any delay of a disbursement or transaction authorized by this
+23 section shall expire upon the first to occur of any of the following:
+24 (a) A final determination by the insurer that the disbursement or
+25 transaction will not result in or contribute to financial exploitation of
+26 the eligible adult;
+27 (b) Fifteen business days after the date on which the insurer first
+28 delayed the disbursement or transaction, unless extended pursuant to
+29 subdivision (3)(c) or (3)(d) of this section;
+30 (c) If the internal review initiated pursuant to subsection (1) of
+31 this section continues to support the insurer's reasonable belief that
+-30-
+
+LB967 LB967
+2026 2026
+1 the disbursement or transaction will likely result in or contribute to
+2 the financial exploitation of an eligible adult, twenty-five business
+3 days after the date on which the insurer first delayed the disbursement
+4 or the transaction, unless extended pursuant to subdivision (3)(d) of
+5 this section; or
+6 (d) If the internal review initiated pursuant to subsection (1) of
+7 this section continues to support the insurer's reasonable belief that
+8 the disbursement or transaction will likely result in or contribute to
+9 the financial exploitation of an eligible adult, fifty-five business days
+10 after the date on which the insurer first delayed the disbursement or
+11 transaction.
+12 (4) Notwithstanding subsection (3) of this section, upon the
+13 petition of the director, an insurer who initiated a delay of
+14 disbursement or transaction pursuant to this section, or another
+15 interested party, a court of competent jurisdiction may enter an order
+16 terminating, extending, or modifying the delay of the disbursement or
+17 transaction and may order other protective relief.
+18 Sec. 22. (1) An insurer or trained individual who, acting
+19 reasonably and in good faith, complies with section 21 of this act or the
+20 Insurance Fraud Act shall be immune from any administrative or civil
+21 liability that might otherwise arise from such delay in a disbursement or
+22 transaction or any other actions or omissions related to the
+23 administration of the Nebraska Protection of Seniors from Insurance
+24 Exploitation Act. An insurer or trained individual shall be immune from
+25 administrative or civil liability for not choosing to implement a program
+26 to comply with section 21 of this act. An insurer or trained individual
+27 shall not be liable for the actions of a permissible third party.
+28 (2) An insurer or trained individual shall be immune from any civil,
+29 criminal, or administrative liability for declining to interact with a
+30 permissible third party if the insurer or trained individual reasonably
+31 believes that:
+-31-
+
+LB967 LB967
+2026 2026
+1 (a) The permissible third party is, may be, or may have been engaged
+2 in the financial exploitation of the eligible adult; or
+3 (b) Such interaction is not in the best interests of the eligible
+4 adult.
+5 (3) A permissible third party who acts in good faith and exercises
+6 reasonable care in providing information to the insurer or trained
+7 individual, or in assisting the insurer, trained individual, or law
+8 enforcement in an investigation of suspected financial exploitation,
+9 shall be immune from any administrative, civil, or criminal liability
+10 that might otherwise arise from such actions.
+11 Sec. 23. (1) Except for insurance producers described in
+12 subdivision (7)(a) of section 18 of this act, an insurer shall provide
+13 training to all supervisors and employees of such insurer appropriate to
+14 the job responsibilities of supervisors and employees handling or
+15 advising on complaints, possible fraud, and investigations. Such training
+16 shall be completed by the later of April 15, 2027, or one year after the
+17 date any supervisor or employee begins employment with or becomes
+18 affiliated or associated with the insurer. The training shall include all
+19 of the following:
+20 (a) Instruction on how to identify the suspected or attempted
+21 exploitation of an eligible adult, including identifying common signs
+22 indicating the financial exploitation of an eligible adult, and how to
+23 provide notification regarding the suspected or attempted exploitation of
+24 an eligible adult; and
+25 (b) Instruction regarding privacy and confidentiality requirements.
+26 (2) An insurer shall provide the training required by this section
+27 as soon as reasonably practicable.
+28 (3) Notwithstanding subsections (1) and (2) of this section, an
+29 insurer shall be deemed to be in compliance with this section if such
+30 insurer provides antifraud training to all supervisors and employees of
+31 such insurer pursuant to the laws or regulations of this state or another
+-32-
+
+LB967 LB967
+2026 2026
+1 state and if such training includes instruction substantially similar to
+2 the instruction described in subdivisions (1)(a) and (b) of this section.
+3 Sec. 24. (1) An insurer shall provide access to or copies of
+4 records that are relevant to the suspected or attempted financial
+5 exploitation of an eligible adult to the director and to law enforcement,
+6 either as part of a referral to the director or law enforcement, or upon
+7 the request of the director or law enforcement pursuant to an
+8 investigation. The records may include historical records as well as
+9 records relating to the most recent transactions and disbursement
+10 requests from the insurance policy, contract, or account that may
+11 comprise financial exploitation of an eligible adult.
+12 (2) All records made available to the director or law enforcement or
+13 any other person pursuant to this section, including the National
+14 Association of Insurance Commissioners and its affiliates and
+15 subsidiaries, in the course of an investigation conducted under the
+16 Nebraska Protection of Seniors from Insurance Exploitation Act, shall be
+17 confidential, shall not be subject to subpoena, shall not be made public
+18 by the director or any other person, and shall not be public records
+19 subject to disclosure pursuant to sections 84-712 to 84-712.09. Such
+20 workpapers, recorded information, documents, and copies may be provided
+21 to other state, federal, foreign, and international regulatory and law
+22 enforcement agencies and the National Association of Insurance
+23 Commissioners and its affiliates and subsidiaries if the recipient agrees
+24 in writing to maintain the confidentiality of such workpapers, recorded
+25 information, documents, and copies.
+26 Sec. 25. The director may adopt and promulgate rules and
+27 regulations to carry out the Nebraska Protection of Seniors from
+28 Insurance Exploitation Act, including, but not limited to, rules and
+29 regulations related to:
+30 (1) The form and manner of the notifications under section 21 of
+31 this act; and
+-33-
+
+LB967 LB967
+2026 2026
+1 (2) The specific content and methods of the training required under
+2 section 23 of this act.
+3 Sec. 26. Beginning January 1, 2027, a health insurance plan, its
+4 contractors, and its affiliates shall not restrict the method of claim
+5 payment to a health care provider for health care services to a credit,
+6 charge, or debit card, or any combination thereof.
+7 Sec. 27. Original sections 44-150, 44-4055, 44-4059, 44-4064,
+8 44-6122, 81-6,123, 81-6,125, 81-6,127, 81-6,128, 81-12,147, and
+9 81-12,148, Reissue Revised Statutes of Nebraska, sections 44-116 and
+10 44-4605, Revised Statutes Cumulative Supplement, 2024, and section
+11 44-1523, Revised Statutes Supplement, 2025, are repealed.
+-34-

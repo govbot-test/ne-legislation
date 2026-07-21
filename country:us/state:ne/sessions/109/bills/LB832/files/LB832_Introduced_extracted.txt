@@ -1,0 +1,36 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LB832 LB832
+2026 2026
+LEGISLATURE OF NEBRASKA
+ONE HUNDRED NINTH LEGISLATURE
+SECOND SESSION
+LEGISLATIVE BILL 832
+Introduced by Hansen, 16.
+Read first time January 08, 2026
+Committee: Health and Human Services
+1 A BILL FOR AN ACT relating to public assistance; to amend section 68-994,
+2 Revised Statutes Cumulative Supplement, 2024; to prohibit the
+3 addition of long-term care service and supports to the medicaid
+4 managed care program; and to repeal the original section.
+5 Be it enacted by the people of the State of Nebraska,
+-1-
+
+LB832 LB832
+2026 2026
+1 Section 1. Section 68-994, Revised Statutes Cumulative Supplement,
+2 2024, is amended to read:
+3 68-994 Until July 1, 2030 2023, the department shall not add long-
+4 term care services and supports to the medicaid managed care program. For
+5 purposes of this section, long-term care services and supports includes
+6 services of a skilled nursing facility, a nursing facility, and an
+7 assisted-living facility and home and community-based services.
+8 Sec. 2. Original section 68-994, Revised Statutes Cumulative
+9 Supplement, 2024, is repealed.
+-2-

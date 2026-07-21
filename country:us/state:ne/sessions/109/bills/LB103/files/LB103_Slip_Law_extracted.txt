@@ -1,0 +1,128 @@
+Title: 
+Official Title: 
+Source: versions - Slip Law
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LB103 LB103
+2026 2026
+LEGISLATIVE BILL 103
+Approved by the Governor February 24, 2026
+Introduced by DeBoer, 10; Bosn, 25; Raybould, 28.
+A BILL FOR AN ACT relating to evidence; to amend sections 27-412 and 29-1917,
+Revised Statutes Cumulative Supplement, 2024; to change provisions
+relating to admissibility of evidence of past sexual assaults and the
+procedure for taking depositions of certain witnesses; and to repeal the
+original sections.
+Be it enacted by the people of the State of Nebraska,
+Section 1. Section 27-412, Revised Statutes Cumulative Supplement, 2024,
+is amended to read:
+27-412 (1) The following evidence is not admissible in any civil or
+criminal proceeding involving alleged sexual misconduct except as provided in
+subsections (2) and (3) of this section:
+(a) Evidence offered to prove that any victim engaged in other sexual
+behavior or has been the victim of any other sexual assault; and
+(b) Evidence offered to prove any victim's sexual predisposition.
+(2)(a) In a criminal case, the following evidence is admissible, if
+otherwise admissible under the Nebraska Evidence Rules:
+(i) Evidence of specific instances of sexual behavior by the victim
+offered to prove that a person other than the accused was the source of semen,
+injury, or other physical evidence;
+(ii) Evidence of specific instances of sexual behavior of the victim with
+respect to the accused offered by the accused to prove consent of the victim if
+it is first established to the court that such behavior is similar to the
+behavior involved in the case and tends to establish a pattern of behavior of
+the victim relevant to the issue of consent; and
+(iii) Evidence, the exclusion of which would violate the constitutional
+rights of the accused.
+(b) In a civil case, evidence offered to prove the sexual behavior or
+sexual predisposition of any victim is admissible if it is otherwise admissible
+under the Nebraska Evidence Rules and its probative value substantially
+outweighs the danger of harm to any victim and of unfair prejudice to any
+party. Evidence of a victim's reputation is admissible only if it has been
+placed in controversy by the victim.
+(3)(a) A party intending to offer evidence under subsection (2) of this
+section shall:
+(i) File a written motion at least fifteen days before trial specifically
+describing the evidence and stating the purpose for which it is offered unless
+the court, for good cause, requires a different time for filing or permits
+filing during trial; and
+(ii) Serve the motion on all parties and notify the victim or, when
+appropriate, the victim's guardian or representative.
+(b) Before admitting evidence under this section, the court shall conduct
+a hearing in camera outside the presence of any jury.
+(4) Evidence of the victim's consent is not admissible in any civil
+proceeding involving alleged:
+(a) Sexual penetration when the actor is nineteen years of age or older
+and the victim is less than sixteen years of age; or
+(b) Sexual contact when the actor is nineteen years of age or older and
+the victim is less than fifteen years of age.
+Sec. 2. Section 29-1917, Revised Statutes Cumulative Supplement, 2024, is
+amended to read:
+29-1917 (1) Except as provided in section 29-1926, at any time after the
+filing of an indictment or information in a felony prosecution, the prosecuting
+attorney or the defendant may request the court to allow the taking of a
+deposition of any person other than the defendant who may be a witness in the
+trial of the offense. The court may order the taking of the deposition when it
+finds the testimony of the witness:
+(a) May be material or relevant to the issue to be determined at the trial
+of the offense; or
+(b) May be of assistance to the parties in the preparation of their
+respective cases.
+(2) An order granting the taking of a deposition shall include the time
+and place for taking such deposition and such other conditions as the court
+determines to be just.
+(3) Except as provided in subsections subsection (4) and (5) of this
+section, the proceedings in taking the deposition of a witness pursuant to this
+section and returning it to the court shall be governed in all respects as the
+taking of depositions in civil cases, including section 25-1223.
+(4)(a) If the prosecuting attorney or defendant seeks to question a
+witness at a deposition under this section regarding evidence admissible under
+subsection (2) of section 27-412 or regarding a prior alleged false allegation
+of sexual assault, such party shall state notice of intent to do so in the
+motion to depose the witness. Such notice shall not include the name or any
+-1-
+
+LB103 LB103
+2026 2026
+identifying information of the witness, nor the grounds upon which the moving
+party believes such evidence may be relevant and admissible.
+(b) If the opposing party objects to questioning described in subdivision
+(4)(a) of this section, such party shall file a written objection. Such written
+objection shall not include the name or identifying information of the witness,
+nor the grounds upon which that party believes the evidence is not relevant or
+admissible.
+(c) Upon the filing of an objection under subdivision (4)(b) of this
+section, the court shall conduct an in camera hearing regarding such motion.
+Only the parties shall be permitted to be present at such hearing. The record
+of such hearing shall be sealed and preserved to be made available to the
+appellate court in the event of an appeal, and the contents shall not otherwise
+be revealed without a court order. Such hearing shall be conducted no fewer
+than seven days before any scheduled deposition in which a party seeks to
+adduce evidence pursuant to this subsection. At such hearing, the moving party
+shall state the grounds upon which the moving party believes such evidence may
+be relevant and admissible.
+(d) The court shall allow questioning described in subdivision (4)(a) of
+this section if the court finds that such testimony could be relevant and
+admissible at trial.
+(5)(a) (4)(a) A sexual assault victim may request to have an advocate of
+the victim's choosing present during a deposition under this section. The
+prosecuting attorney shall inform the victim that the victim may make such
+request as soon as reasonably practicable prior to the deposition. If the
+victim wishes to have an advocate present, the victim shall, if reasonably
+practicable, inform the prosecuting attorney if an advocate will be present,
+and, if known, the advocate's identity and contact information. If so informed
+by the victim, the prosecuting attorney shall notify the defendant as soon as
+reasonably practicable.
+(b) An advocate present at a deposition under this section shall not
+interfere with the deposition or provide legal advice.
+(c) For purposes of this subsection, the terms sexual assault victim,
+victim, and advocate have the same meanings as in section 29-4309.
+(6) (5) A deposition taken pursuant to this section may be used at the
+trial by any party solely for the purpose of contradicting or impeaching the
+testimony of the deponent as a witness.
+Sec. 3. Original sections 27-412 and 29-1917, Revised Statutes Cumulative
+Supplement, 2024, are repealed.
+-2-

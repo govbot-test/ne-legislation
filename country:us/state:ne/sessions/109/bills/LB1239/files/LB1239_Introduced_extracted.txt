@@ -1,0 +1,38 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LB1239 LB1239
+2026 2026
+LEGISLATURE OF NEBRASKA
+ONE HUNDRED NINTH LEGISLATURE
+SECOND SESSION
+LEGISLATIVE BILL 1239
+Introduced by DeKay, 40.
+Read first time January 21, 2026
+Committee: Health and Human Services
+1 A BILL FOR AN ACT relating to public health and welfare; to amend section
+2 71-2451.01, Reissue Revised Statutes of Nebraska; to change
+3 provisions relating to management of long-term care facilities; and
+4 to repeal the original section.
+5 Be it enacted by the people of the State of Nebraska,
+-1-
+
+LB1239 LB1239
+2026 2026
+1 Section 1. Section 71-2451.01, Reissue Revised Statutes of Nebraska,
+2 is amended to read:
+3 71-2451.01 Unless otherwise allowed by state or federal law or
+4 regulation, the management of a long-term care facility at which an
+5 automated medication system is located shall not require a resident of
+6 the facility to obtain medication through the automated medication system
+7 and shall not restrict or impair the ability of a resident of the
+8 facility to obtain a medication medications from the pharmacy of the
+9 resident's choice.
+10 Sec. 2. Original section 71-2451.01, Reissue Revised Statutes of
+11 Nebraska, is repealed.
+-2-

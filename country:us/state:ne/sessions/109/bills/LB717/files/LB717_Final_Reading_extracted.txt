@@ -1,0 +1,3073 @@
+Title: 
+Official Title: 
+Source: versions - Final Reading
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LB717 LB717
+2026 2026
+LEGISLATURE OF NEBRASKA
+ONE HUNDRED NINTH LEGISLATURE
+SECOND SESSION
+LEGISLATIVE BILL 717
+FINAL READING
+Introduced by Jacobson, 42.
+Read first time January 07, 2026
+Committee: Banking, Commerce and Insurance
+1 A BILL FOR AN ACT relating to banking and finance; to amend sections
+2 8-1,124, 8-1502, 8-2102, and 45-741, Reissue Revised Statutes of
+3 Nebraska, sections 8-3003, 8-3013, 45-735, and 45-737, Revised
+4 Statutes Cumulative Supplement, 2024, sections 8-135, 8-141,
+5 8-143.01, 8-157.01, 8-183.04, 8-1,140, 8-318, 8-355, 8-1101,
+6 8-1101.01, 8-1704, 8-1707, 8-2703, 8-2742, 8-2903, 8-3005, 8-3007,
+7 8-3033, 8-3034, 21-17,102, 21-17,115, 45-101.04, 45-335, 45-345,
+8 45-349, 45-364, 59-1722, and 69-2103, Revised Statutes Supplement,
+9 2025, and section 4A-108, Uniform Commercial Code, Revised Statutes
+10 Supplement, 2025; to adopt updates to federal law; to define and
+11 redefine terms; to change provisions relating to notice of control
+12 of certain banks and trust companies, the applicability of the
+13 Nebraska Money Transmitters Act, digital asset depository
+14 institutions, the maximum general interest rate on certain loans,
+15 installment loans, mortgage loan originators, and mortgage bankers;
+16 to change references to the Nebraska Money Transmitters Act in the
+17 Controllable Electronic Record Fraud Prevention Act; to harmonize
+18 provisions; to provide operative dates; to repeal the original
+19 sections; and to declare an emergency.
+20 Be it enacted by the people of the State of Nebraska,
+-1-
+
+LB717 LB717
+2026 2026
+1 Section 1. Section 8-135, Revised Statutes Supplement, 2025, is
+2 amended to read:
+3 8-135 (1) All persons, regardless of age, may become depositors in
+4 any bank and shall be subject to the same duties and liabilities
+5 respecting their deposits. Whenever a deposit is accepted by any bank in
+6 the name of any person, regardless of age, the deposit may be withdrawn
+7 by the depositor by any of the following methods:
+8 (a) Check or other instrument in writing. The check or other
+9 instrument in writing constitutes a receipt or acquittance if the check
+10 or other instrument in writing is signed by the depositor and constitutes
+11 a valid release and discharge to the bank for all payments so made; or
+12 (b) Electronic means through:
+13 (i) Preauthorized direct withdrawal;
+14 (ii) An automatic teller machine;
+15 (iii) A debit card;
+16 (iv) A transfer by telephone;
+17 (v) A network, including the Internet; or
+18 (vi) Any electronic terminal, computer, magnetic tape, or other
+19 electronic means.
+20 (2) All persons, individually or with others and regardless of age,
+21 may enter into an agreement with a bank for the lease of a safe deposit
+22 box and shall be bound by the terms of the agreement.
+23 (3) This section shall not be construed to affect the rights,
+24 liabilities, or responsibilities of participants in an electronic fund
+25 transfer under the federal Electronic Fund Transfer Act, 15 U.S.C. 1693
+26 et seq., as such act existed on January 1, 2026 2025, and shall not
+27 affect the legal relationships between a minor and any person other than
+28 the bank.
+29 Sec. 2. Section 8-141, Revised Statutes Supplement, 2025, is amended
+30 to read:
+31 8-141 (1) No bank shall directly or indirectly loan to any single
+-2-
+
+LB717 LB717
+2026 2026
+1 corporation, limited liability company, firm, or individual, including in
+2 such loans all loans made to the several members or shareholders of such
+3 corporation, limited liability company, or firm, for the use and benefit
+4 of such corporation, limited liability company, firm, or individual, more
+5 than twenty-five percent of the paid-up capital, surplus, and capital
+6 notes and debentures or fifteen percent of the unimpaired capital and
+7 unimpaired surplus of such bank, whichever is greater. Such limitations
+8 shall be subject to the following exceptions:
+9 (a) Obligations of any person, partnership, limited liability
+10 company, association, or corporation in the form of notes or drafts
+11 secured by shipping documents or instruments transferring or securing
+12 title covering livestock or giving a lien on livestock shall be subject
+13 under this section to a limitation of ten percent of such capital,
+14 surplus, and capital notes and debentures or ten percent of such
+15 unimpaired capital and unimpaired surplus, whichever is greater, in
+16 addition to such twenty-five percent of such capital and surplus or such
+17 fifteen percent of such unimpaired capital and unimpaired surplus. To
+18 qualify for the additional ten percent limit, the bank shall perfect a
+19 security interest in the livestock under applicable law and the livestock
+20 shall at all times have a current market value equal to at least one
+21 hundred fifteen percent of the amount of the secured note that exceeds
+22 twenty-five percent of the bank's capital, surplus, and capital notes and
+23 debentures or fifteen percent of the bank's unimpaired capital and
+24 unimpaired surplus;
+25 (b) Obligations of any person, partnership, limited liability
+26 company, association, or corporation secured by not less than a like
+27 amount of bonds or notes of the United States issued since April 24,
+28 1917, or certificates of indebtedness of the United States, treasury
+29 bills of the United States, or obligations fully guaranteed both as to
+30 principal and interest by the United States shall be subject under this
+31 section to a limitation of ten percent of such capital, surplus, and
+-3-
+
+LB717 LB717
+2026 2026
+1 capital notes and debentures or ten percent of such unimpaired capital
+2 and unimpaired surplus, whichever is greater, in addition to such twenty-
+3 five percent of such capital and surplus or such fifteen percent of such
+4 unimpaired capital and unimpaired surplus;
+5 (c) Obligations of any person, partnership, limited liability
+6 company, association, or corporation which are secured by negotiable
+7 warehouse receipts shall be subject under this section to a limitation of
+8 ten percent of such capital, surplus, and capital notes and debentures or
+9 ten percent of such unimpaired capital and unimpaired surplus, whichever
+10 is greater, in addition to such twenty-five percent of such capital,
+11 surplus, and capital notes and debentures or such fifteen percent of such
+12 unimpaired capital and unimpaired surplus. To qualify for the additional
+13 ten percent limit, the receipts securing the obligations shall at all
+14 times have a current market value equal to at least one hundred fifteen
+15 percent of the amount of the obligations that exceeds twenty-five percent
+16 of the bank's capital, surplus, and capital note and debentures or
+17 fifteen percent of the bank's unimpaired capital and unimpaired surplus;
+18 or
+19 (d) Obligations of any person, partnership, limited liability
+20 company, association, or corporation which are secured by readily
+21 marketable collateral having a market value, as determined by reliable
+22 and continuously available price quotations, in an amount at least equal
+23 to the face amount of the note or notes secured by such collateral, shall
+24 be subject under this section to a limitation of ten percent of such
+25 capital, surplus, and capital notes and debentures or ten percent of such
+26 unimpaired capital and unimpaired surplus, whichever is greater, in
+27 addition to such twenty-five percent of such capital and surplus or such
+28 fifteen percent of such unimpaired capital and unimpaired surplus.
+29 (2)(a) For purposes of this section, the discounting of bills of
+30 exchange, drawn in good faith against actually existing values, and the
+31 discounting of commercial paper actually owned by the persons negotiating
+-4-
+
+LB717 LB717
+2026 2026
+1 the bills of exchange or commercial paper shall not be considered as the
+2 lending of money.
+3 (b) Loans or obligations shall not be subject to any limitation
+4 under this section, based upon such capital and surplus or such
+5 unimpaired capital and unimpaired surplus, to the extent that such
+6 capital and surplus or such unimpaired capital and unimpaired surplus are
+7 secured or covered by guaranties, or by commitments or agreements to take
+8 over or to purchase such capital and surplus or such unimpaired capital
+9 and unimpaired surplus, made by any federal reserve bank or by the United
+10 States Government or any authorized agency thereof, including any
+11 corporation wholly owned directly or indirectly by the United States, or
+12 general obligations of any state of the United States or any political
+13 subdivision of the state. The phrase general obligation of any state or
+14 any political subdivision of the state means an obligation supported by
+15 the full faith and credit of an obligor possessing general powers of
+16 taxation, including property taxation, but does not include municipal
+17 revenue bonds and sanitary and improvement district warrants which are
+18 subject to the limitations set forth in this section.
+19 (c) Any bank may subscribe to, invest in, purchase, and own single-
+20 family mortgages secured by the Federal Housing Administration or the
+21 United States Department of Veterans Affairs and mortgage-backed
+22 certificates of the Government National Mortgage Association which are
+23 guaranteed as to payment of principal and interest by the Government
+24 National Mortgage Association. Such mortgages and certificates shall not
+25 be subject under this section to any limitation based upon such capital
+26 and surplus or such unimpaired capital and unimpaired surplus.
+27 (d) Obligations representing loans to any national banking
+28 association or to any banking institution organized under the laws of any
+29 state, when such loans are approved by the director by rule and
+30 regulation or otherwise, shall not be subject under this section to any
+31 limitation based upon such capital and surplus or such unimpaired capital
+-5-
+
+LB717 LB717
+2026 2026
+1 and unimpaired surplus.
+2 (e) Loans or extensions of credit secured by a segregated deposit
+3 account in the lending bank shall not be subject under this section to
+4 any limitation based on such capital and surplus or such unimpaired
+5 capital and unimpaired surplus. The director may adopt and promulgate
+6 rules and regulations governing the terms and conditions of such security
+7 interest and segregated deposit account.
+8 (f) For the purpose of determining lending limits, partnerships
+9 shall not be treated as separate entities. Each individual shall be
+10 charged with his or her personal debt plus the debt of every partnership
+11 in which he or she is a partner, except that for purposes of this section
+12 (a) an individual shall only be charged with the debt of any limited
+13 partnership in which he or she is a partner to the extent that the terms
+14 of the limited partnership agreement provide that such individual is to
+15 be held liable for the debts or actions of such limited partnership and
+16 (b) no individual shall be charged with the debt of any general
+17 partnership in which he or she is a partner beyond the extent to which
+18 (i) his or her liability for such partnership debt is limited by the
+19 terms of a contract or other written agreement between the bank and such
+20 individual and (ii) any personal debt of such individual is incurred for
+21 the use and benefit of such general partnership.
+22 (3) A loan made within lending limits at the initial time the loan
+23 was made may be renewed, extended, or serviced without regard to changes
+24 in the lending limit of a bank following the initial extension of the
+25 loan if (a) the renewal, extension, or servicing of the loan does not
+26 result in the extension of funds beyond the initial amount of the loan or
+27 (b) the accrued interest on the loan is not added to the original amount
+28 of the loan in the process of renewal, extension, or servicing.
+29 (4) Any bank may purchase or take an interest in life insurance
+30 contracts for any purpose incidental to the business of banking. A bank's
+31 purchase of any life insurance contract, as measured by its cash
+-6-
+
+LB717 LB717
+2026 2026
+1 surrender value, from any one life insurance company shall not at any
+2 time exceed twenty-five percent of the paid-up capital, surplus, and
+3 capital notes and debentures of such bank or fifteen percent of the
+4 unimpaired capital and unimpaired surplus of such bank, whichever is
+5 greater. A bank's purchase of life insurance contracts, as measured by
+6 their cash surrender values, in the aggregate from all life insurance
+7 companies shall not at any time exceed thirty-five percent of the paid-up
+8 capital, surplus, undivided profits, and capital notes and debentures of
+9 such bank. The limitations under this subsection on a bank's purchase of
+10 life insurance contracts, in the aggregate from all life insurance
+11 companies, shall not apply to any contract purchased prior to April 5,
+12 1994.
+13 (5) On and after January 21, 2013, the director has the authority to
+14 determine the manner and extent to which credit exposure resulting from
+15 derivative transactions, repurchase agreements, reverse repurchase
+16 agreements, securities lending transactions, and securities borrowing
+17 transactions shall be taken into account for purposes of determining
+18 compliance with this section. In making such determinations, the director
+19 may, but is not required to, act by rule and regulation or order.
+20 (6) For purposes of this section:
+21 (a) Derivative transaction means any transaction that is a contract,
+22 agreement, swap, warrant, note, or option that is based, in whole or in
+23 part, on the value of, any interest in, or any quantitative measure or
+24 the occurrence of any event relating to, one or more commodities,
+25 securities, currencies, interest or other rates, indices, or other
+26 assets;
+27 (b) Loan includes:
+28 (i) All direct and indirect advances of funds to a person made on
+29 the basis of any obligation of that person to repay the funds or
+30 repayable from specific property pledged by or on behalf of that person;
+31 (ii) To the extent specified by rule and regulation or order of the
+-7-
+
+LB717 LB717
+2026 2026
+1 director, any liability of a state bank to advance funds to or on behalf
+2 of a person pursuant to a contractual commitment; and
+3 (iii) Any credit exposure to a person arising from a derivative
+4 transaction, repurchase agreement, reverse repurchase agreement,
+5 securities lending transaction, or securities borrowing transaction
+6 between the bank and the person; and
+7 (c) Unimpaired capital and unimpaired surplus means:
+8 (i) For qualifying banks that have elected to use the community bank
+9 leverage ratio framework, as set forth under the Capital Adequacy
+10 Standards of the appropriate federal banking agency:
+11 (A) The bank's tier 1 capital as reported according to the capital
+12 guidelines of the appropriate federal banking agency; and
+13 (B) The bank's allowance for loan and lease losses or allowance for
+14 credit losses, as applicable, as reported in the most recent consolidated
+15 report of condition filed under 12 U.S.C. 1817(a)(3), as such section
+16 existed on January 1, 2026 2025; and
+17 (ii) For all other banks:
+18 (A) The bank's tier 1 and tier 2 capital included in the bank's
+19 risk-based capital under the capital guidelines of the appropriate
+20 federal banking agency, based on the bank's most recent consolidated
+21 report of condition filed under 12 U.S.C. 1817(a)(3), as such section
+22 existed on January 1, 2026 2025; and
+23 (B) The balance of the bank's allowance for loan and lease losses
+24 not included in the bank's tier 2 capital for purposes of the calculation
+25 of risk-based capital by the appropriate federal banking agency, based on
+26 the bank's most recent consolidated report of condition filed under 12
+27 U.S.C. 1817(a)(3), as such section existed on January 1, 2026 2025.
+28 (7) Notwithstanding the provisions of section 8-1,140, the director
+29 may, by order, deny or limit the inclusion of goodwill in the calculation
+30 of a bank's unimpaired capital and unimpaired surplus or in the
+31 calculation of a bank's paid-up capital and surplus.
+-8-
+
+LB717 LB717
+2026 2026
+1 Sec. 3. Section 8-143.01, Revised Statutes Supplement, 2025, is
+2 amended to read:
+3 8-143.01 (1) No bank shall extend credit to any of its executive
+4 officers, directors, or principal shareholders or to any related interest
+5 of such persons in an amount that, when aggregated with the amount of all
+6 other extensions of credit by the bank to that person and to all related
+7 interests of that person, exceeds the higher of twenty-five thousand
+8 dollars or five percent of the bank's unimpaired capital and unimpaired
+9 surplus unless (a) the extension of credit has been approved in advance
+10 by a majority vote of the entire board of directors of the bank, a record
+11 of which shall be made and kept as a part of the records of such bank,
+12 and (b) the interested party has abstained from participating directly or
+13 indirectly in such vote.
+14 (2) No bank shall extend credit to any of its executive officers,
+15 directors, or principal shareholders or to any related interest of such
+16 persons in an amount that, when aggregated with the amount of all other
+17 extensions of credit by the bank to that person and to all related
+18 interests of that person, exceeds five hundred thousand dollars except by
+19 complying with the requirements of subdivisions (1)(a) and (b) of this
+20 section.
+21 (3) No bank shall extend credit to any of its executive officers,
+22 and no such executive officer shall borrow from or otherwise become
+23 indebted to his or her bank, except in the amounts and for the purposes
+24 set forth in subsection (4) of this section.
+25 (4) A bank shall be authorized to extend credit to any of its
+26 executive officers:
+27 (a) In any amount to finance the education of such executive
+28 officer's children;
+29 (b)(i) In any amount to finance or refinance the purchase,
+30 construction, maintenance, or improvement of a residence of such
+31 executive officer if the extension of credit is secured by a first lien
+-9-
+
+LB717 LB717
+2026 2026
+1 on the residence and the residence is owned or is expected to be owned
+2 after the extension of credit by the executive officer and (ii) in the
+3 case of a refinancing, only the amount of the refinancing used to repay
+4 the original extension of credit, together with the closing costs of the
+5 refinancing, and any additional amount thereof used for any of the
+6 purposes enumerated in this subdivision are included within this category
+7 of credit;
+8 (c) In any amount if the extension of credit is (i) secured by a
+9 perfected security interest in bonds, notes, certificates of
+10 indebtedness, or treasury bills of the United States or in other such
+11 obligations fully guaranteed as to principal and interest by the United
+12 States, (ii) secured by unconditional takeout commitments or guarantees
+13 of any department, agency, bureau, board, commission, or establishment of
+14 the United States or any corporation wholly owned directly or indirectly
+15 by the United States, or (iii) secured by a perfected security interest
+16 in a segregated deposit account in the lending bank; or
+17 (d) For any other purpose not specified in subdivisions (a), (b),
+18 and (c) of this subsection if the aggregate amount of such other
+19 extensions of credit to such executive officer does not exceed, at any
+20 one time, the greater of two and one-half percent of the bank's
+21 unimpaired capital and unimpaired surplus or twenty-five thousand
+22 dollars, but in no event greater than one hundred thousand dollars or the
+23 amount of the bank's lending limit as prescribed in section 8-141,
+24 whichever is less.
+25 (5)(a) Except as provided in subdivision (b) of this subsection, the
+26 board of directors of a bank may obtain a credit report from a recognized
+27 credit agency, on an annual basis, for any or all of its executive
+28 officers.
+29 (b) Subdivision (a) of this subsection does not apply to any
+30 executive officer if such officer is excluded by a resolution of the
+31 board of directors or by the bylaws of the bank from participating in the
+-10-
+
+LB717 LB717
+2026 2026
+1 major policymaking functions of the bank and does not actually
+2 participate in the major policymaking functions of the bank.
+3 (6) No bank shall extend credit to any of its executive officers,
+4 directors, or principal shareholders or to any related interest of such
+5 persons in an amount that, when aggregated with the amount of all other
+6 extensions of credit by the bank to that person and to all related
+7 interests of that person, exceeds the lending limit of the bank as
+8 prescribed in section 8-141.
+9 (7)(a) Except as provided in subdivision (b) of this subsection, no
+10 bank shall extend credit to any of its executive officers, directors, or
+11 principal shareholders or to any related interest of such persons unless
+12 the extension of credit (i) is made on substantially the same terms,
+13 including interest rates and collateral, as, and following credit-
+14 underwriting procedures that are not less stringent than, those
+15 prevailing at the time for comparable transactions by the bank with other
+16 persons that are not covered by this section and who are not employed by
+17 the bank and (ii) does not involve more than the normal risk of repayment
+18 or present other unfavorable features.
+19 (b) Nothing in subdivision (a) of this subsection shall prohibit any
+20 extension of credit made by a bank pursuant to a benefit or compensation
+21 program under the provisions of 12 C.F.R. 215.4(a)(2), as such regulation
+22 existed on January 1, 2026 2025.
+23 (8) For purposes of this section:
+24 (a) Executive officer means a person who participates or has
+25 authority to participate, other than in the capacity of director, in the
+26 major policymaking functions of the bank, whether or not the officer has
+27 an official title, the title designates such officer as an assistant, or
+28 such officer is serving without salary or other compensation. Executive
+29 officer includes the chairperson of the board of directors, the
+30 president, all vice presidents, the cashier, the corporate secretary, and
+31 the treasurer, unless the executive officer is excluded by a resolution
+-11-
+
+LB717 LB717
+2026 2026
+1 of the board of directors or by the bylaws of the bank from
+2 participating, other than in the capacity of director, in the major
+3 policymaking functions of the bank, and the executive officer does not
+4 actually participate in such functions. A manager or assistant manager of
+5 a branch of a bank shall not be considered to be an executive officer
+6 unless such individual participates or is authorized to participate in
+7 the major policymaking functions of the bank; and
+8 (b) Unimpaired capital and unimpaired surplus means the sum of:
+9 (i) The total equity capital of the bank reported on its most recent
+10 consolidated report of condition filed under section 8-166;
+11 (ii) Any subordinated notes and debentures approved as an addition
+12 to the bank's capital structure by the appropriate federal banking
+13 agency; and
+14 (iii) Any valuation reserves created by charges to the bank's income
+15 reported on its most recent consolidated report of condition filed under
+16 section 8-166.
+17 (9) Any executive officer, director, or principal shareholder of a
+18 bank or any other person who intentionally violates this section or who
+19 aids, abets, or assists in a violation of this section is guilty of a
+20 Class IV felony.
+21 (10) The Director of Banking and Finance may adopt and promulgate
+22 rules and regulations to carry out this section, including rules and
+23 regulations defining or further defining terms used in this section,
+24 consistent with the provisions of 12 U.S.C. 84 and implementing
+25 Regulation O as such section and regulation existed on January 1, 2026
+26 2025.
+27 Sec. 4. Section 8-157.01, Revised Statutes Supplement, 2025, is
+28 amended to read:
+29 8-157.01 (1) Any establishing financial institution may establish
+30 and maintain any number of automatic teller machines at which all banking
+31 transactions, defined as receiving deposits of every kind and nature and
+-12-
+
+LB717 LB717
+2026 2026
+1 crediting such to customer accounts, cashing checks and cash withdrawals,
+2 transferring funds from checking accounts to savings accounts,
+3 transferring funds from savings accounts to checking accounts,
+4 transferring funds from either checking accounts and savings accounts to
+5 accounts of other customers, transferring payments from customer accounts
+6 into accounts maintained by other customers of the financial institution
+7 or the financial institution, including preauthorized draft authority,
+8 preauthorized loans, and credit transactions, receiving payments payable
+9 at the financial institution or otherwise, account balance inquiry, and
+10 any other transaction incidental to the business of the financial
+11 institution or which will provide a benefit to the financial
+12 institution's customers or the general public, may be conducted. Any
+13 automatic teller machine owned by a nonfinancial institution third party
+14 shall be sponsored by an establishing financial institution. Neither such
+15 automatic teller machines nor the transactions conducted thereat shall be
+16 construed as the establishment of a branch or as branch banking.
+17 (2) Any financial institution may become a user financial
+18 institution by agreeing to pay the establishing financial institution the
+19 automatic teller machine usage fee. Such agreement shall be implied by
+20 the use of such automatic teller machines.
+21 (3)(a)(i) All automatic teller machines shall be made available on a
+22 nondiscriminating basis for use by Nebraska customers of a user financial
+23 institution and (ii) all Nebraska automatic teller machine transactions
+24 initiated by Nebraska customers of a user financial institution shall be
+25 made on a nondiscriminating basis.
+26 (b) It shall not be deemed discrimination if (i) an automatic teller
+27 machine does not offer the same transaction services as other automatic
+28 teller machines, (ii) there are no automatic teller machine usage fees
+29 charged between affiliate financial institutions for the use of automatic
+30 teller machines, (iii) the automatic teller machine usage fees of an
+31 establishing financial institution that authorizes and directly or
+-13-
+
+LB717 LB717
+2026 2026
+1 indirectly routes Nebraska automatic teller machine transactions to
+2 multiple switches, all of which comply with the requirements of
+3 subdivision (3)(d) of this section, differ solely based upon the fees
+4 established by the switches, (iv) automatic teller machine usage fees
+5 differ based upon whether the transaction initiated at an automatic
+6 teller machine is subject to a surcharge or provided on a surcharge-free
+7 basis, or (v) the automatic teller machines established or sponsored by
+8 an establishing financial institution are made available for use by
+9 Nebraska customers of any user financial institution which agrees to pay
+10 the automatic teller machine usage fee and which conforms to the
+11 operating rules and technical standards established by the switch to
+12 which a Nebraska automatic teller machine transaction is directly or
+13 indirectly routed.
+14 (c) The director, upon notice and after a hearing, may terminate or
+15 suspend the use of any automatic teller machine if he or she determines
+16 that the automatic teller machine is not made available on a
+17 nondiscriminating basis or that Nebraska automatic teller machine
+18 transactions initiated at such automatic teller machine are not made on a
+19 nondiscriminating basis.
+20 (d) A switch (i) shall provide to all financial institutions that
+21 have a main office or approved branch located in the State of Nebraska
+22 and that conform to the operating rules and technical standards
+23 established by the switch an equal opportunity to participate in the
+24 switch for the use of and access thereto; (ii) shall be capable of
+25 operating to accept and route Nebraska automatic teller machine
+26 transactions, whether receiving data from an automatic teller machine, an
+27 establishing financial institution, or a data processing center; and
+28 (iii) shall be capable of being directly or indirectly connected to every
+29 data processing center for any automatic teller machine.
+30 (e) The director, upon notice and after a hearing, may terminate or
+31 suspend the operation of any switch with respect to all Nebraska
+-14-
+
+LB717 LB717
+2026 2026
+1 automatic teller machine transactions if he or she determines that the
+2 switch is not being operated in the manner required under subdivision (3)
+3 (d) of this section.
+4 (f) Subject to the requirement for a financial institution to comply
+5 with this subsection, no user financial institution or establishing
+6 financial institution shall be required to become a member of any
+7 particular switch.
+8 (4) Any consumer initiating an electronic funds transfer at an
+9 automatic teller machine for which an automatic teller machine surcharge
+10 will be imposed shall receive notice in accordance with the provisions of
+11 15 U.S.C. 1693b(d)(3)(A) and (B), as such section existed on January 1,
+12 2026 2025. Such notice shall appear on the screen of the automatic teller
+13 machine or appear on a paper notice issued from such machine after the
+14 transaction is initiated and before the consumer is irrevocably committed
+15 to completing the transaction.
+16 (5) A point-of-sale terminal may be established at any point within
+17 this state by a financial institution, a group of two or more financial
+18 institutions, or a combination of a financial institution or financial
+19 institutions and a third party or parties. Such parties may contract with
+20 a seller of goods and services or any other third party for the operation
+21 of point-of-sale terminals.
+22 (6) A seller of goods and services or any other third party on whose
+23 premises one or more point-of-sale terminals are established shall not
+24 be, solely by virtue of such establishment, a financial institution and
+25 shall not be subject to the laws governing, or other requirements imposed
+26 on, financial institutions, except for the requirement that it faithfully
+27 perform its obligations in connection with any transaction originated at
+28 any point-of-sale terminal on its premises.
+29 (7) Nothing in this section shall be construed to prohibit nonbank
+30 employees from assisting in transactions originated at automatic teller
+31 machines or point-of-sale terminals, and such assistance shall not be
+-15-
+
+LB717 LB717
+2026 2026
+1 deemed to be engaging in the business of banking.
+2 (8)(a) Annually by September 1, any entity operating as a switch in
+3 Nebraska shall file a notice with the department setting forth its name,
+4 address, and contact information for an officer authorized to answer
+5 inquiries related to its operations in Nebraska.
+6 (b) Any entity intending to operate in Nebraska as a switch shall
+7 file a notice with the department setting forth its name, address, and
+8 contact information for an officer authorized to answer inquiries related
+9 to its operations in Nebraska. Such notice shall be filed at least thirty
+10 days prior to the date on which the switch commences operations, and
+11 thereafter annually by September 1.
+12 (9) Nothing in this section prohibits ordinary clearinghouse
+13 transactions between financial institutions.
+14 (10) Nothing in this section shall prevent any financial institution
+15 which has a main chartered office or an approved branch located in the
+16 State of Nebraska from participating in a national automatic teller
+17 machine program to allow its customers to use automatic teller machines
+18 located outside of the State of Nebraska which are established by out-of-
+19 state financial institutions or foreign financial institutions or to
+20 allow customers of out-of-state financial institutions or foreign
+21 financial institutions to use its automatic teller machines. Such
+22 participation and any automatic teller machine usage fees charged or
+23 received pursuant to the national automatic teller machine program or
+24 usage fees charged for the use of its automatic teller machines by
+25 customers of out-of-state financial institutions or foreign financial
+26 institutions shall not be considered for purposes of determining (a) if
+27 an automatic teller machine has been made available or Nebraska automatic
+28 teller machine transactions have been made on a nondiscriminating basis
+29 for use by Nebraska customers of a user financial institution or (b) if a
+30 switch complies with subdivision (3)(d) of this section.
+31 (11) An agreement to operate or share an automatic teller machine
+-16-
+
+LB717 LB717
+2026 2026
+1 may not prohibit, limit, or restrict the right of the operator or owner
+2 of the automatic teller machine to charge a customer conducting a
+3 transaction using an account from a foreign financial institution an
+4 access fee or surcharge not otherwise prohibited under state or federal
+5 law.
+6 (12) Switch fees shall not be subject to this section or be
+7 regulated by the department.
+8 (13) Nothing in this section shall prevent a group of two or more
+9 credit unions, each of which has a main chartered office or an approved
+10 branch located in the State of Nebraska, from participating in a credit
+11 union service organization organized on or before January 1, 2015, for
+12 the purpose of owning automatic teller machines, provided that all
+13 participating credit unions have an ownership interest in the credit
+14 union service organization and that the credit union service organization
+15 has an ownership interest in each of the participating credit unions'
+16 automatic teller machines. Such participation and any automatic teller
+17 machine usage fees associated with Nebraska automatic teller machine
+18 transactions initiated by customers of participating credit unions at
+19 such automatic teller machines shall not be considered for purposes of
+20 determining if such automatic teller machines have been made available on
+21 a nondiscriminating basis or if Nebraska automatic teller machine
+22 transactions initiated at such automatic teller machines have been made
+23 on a nondiscriminating basis, provided that all Nebraska automatic teller
+24 machine transactions initiated by customers of participating credit
+25 unions result in the same automatic teller machine usage fees for
+26 essentially the same service routed over the same switch.
+27 (14) Nebraska automatic teller machine usage fees and any agreements
+28 relating to Nebraska automatic teller machine usage fees shall comply
+29 with subsection (3) of this section.
+30 (15) For purposes of this section:
+31 (a) Access means the ability to utilize an automatic teller machine
+-17-
+
+LB717 LB717
+2026 2026
+1 or a point-of-sale terminal to conduct permitted banking transactions or
+2 purchase goods and services electronically;
+3 (b) Account means a checking account, a savings account, a share
+4 account, or any other customer asset account held by a financial
+5 institution. Such an account may also include a line of credit which a
+6 financial institution has agreed to extend to its customer;
+7 (c) Affiliate financial institution means any financial institution
+8 which is a subsidiary of the same bank holding company;
+9 (d) Automatic teller machine usage fee means any per transaction fee
+10 established by a switch or otherwise established on behalf of an
+11 establishing financial institution and collected from the user financial
+12 institution and paid to the establishing financial institution for the
+13 use of the automatic teller machine. An automatic teller machine usage
+14 fee shall not include switch fees;
+15 (e) Electronic funds transfer means any transfer of funds, other
+16 than a transaction originated by check, draft, or similar paper
+17 instrument, that is initiated through a point-of-sale terminal, an
+18 automatic teller machine, or a personal terminal for the purpose of
+19 ordering, instructing, or authorizing a financial institution to debit or
+20 credit an account;
+21 (f) Essentially the same service means the same Nebraska automatic
+22 teller machine transaction offered by an establishing financial
+23 institution irrespective of the user financial institution, the Nebraska
+24 customer of which initiates the Nebraska automatic teller machine
+25 transaction. A Nebraska automatic teller machine transaction that is
+26 subject to a surcharge is not essentially the same service as the same
+27 banking transaction for which a surcharge is not imposed;
+28 (g) Establishing financial institution means any financial
+29 institution which has a main chartered office or approved branch located
+30 in the State of Nebraska that establishes or sponsors an automatic teller
+31 machine or any out-of-state financial institution that establishes or
+-18-
+
+LB717 LB717
+2026 2026
+1 sponsors an automatic teller machine;
+2 (h) Financial institution means a bank, savings bank, building and
+3 loan association, savings and loan association, or credit union, whether
+4 chartered by the department, the United States, or a foreign state
+5 agency; any other similar organization which is covered by federal
+6 deposit insurance; or a subsidiary of any such entity;
+7 (i) Foreign financial institution means a financial institution
+8 located outside the United States;
+9 (j) Nebraska automatic teller machine transaction means a banking
+10 transaction as defined in subsection (1) of this section which is (i)
+11 initiated at an automatic teller machine established in whole or in part
+12 or sponsored by an establishing financial institution, (ii) for an
+13 account of a Nebraska customer of a user financial institution, and (iii)
+14 processed through a switch regardless of whether it is routed directly or
+15 indirectly from an automatic teller machine;
+16 (k) Personal terminal means a personal computer and telephone,
+17 wherever located, operated by a customer of a financial institution for
+18 the purpose of initiating a transaction affecting an account of the
+19 customer;
+20 (l) Sponsoring an automatic teller machine means the acceptance of
+21 responsibility by an establishing financial institution for compliance
+22 with all provisions of law governing automatic teller machines and
+23 Nebraska automatic teller machine transactions in connection with an
+24 automatic teller machine owned by a nonfinancial institution third party;
+25 (m) Switch fee means a fee established by a switch and assessed to a
+26 user financial institution or to an establishing financial institution
+27 other than an automatic teller machine usage fee; and
+28 (n) User financial institution means any financial institution which
+29 has a main chartered office or approved branch located in the State of
+30 Nebraska which avails itself of and provides its customers with automatic
+31 teller machine services.
+-19-
+
+LB717 LB717
+2026 2026
+1 Sec. 5. Section 8-183.04, Revised Statutes Supplement, 2025, is
+2 amended to read:
+3 8-183.04 (1) Notwithstanding any other provision of the Nebraska
+4 Banking Act or any other Nebraska law, a state or federal savings
+5 association which was formed and in operation as a mutual savings
+6 association as of July 15, 1998, may elect to retain its mutual form of
+7 corporate organization upon conversion to a state bank.
+8 (2) All references to shareholders or stockholders for state banks
+9 shall be deemed to be references to members for such a converted savings
+10 association.
+11 (3) The amount and type of capital required for such a converted
+12 savings association shall be as required for federal mutual savings
+13 associations in 12 C.F.R. 5.21, as such regulation existed on January 1,
+14 2026 2025, except that if at any time the department determines that the
+15 capital of such a converted savings association is impaired, the director
+16 may require the members to make up the capital impairment.
+17 (4) The director may adopt and promulgate rules and regulations
+18 governing such converted mutual savings associations. In adopting and
+19 promulgating such rules and regulations, the director may consider the
+20 provisions of sections 8-301 to 8-384 governing savings associations in
+21 mutual form of corporate organization.
+22 Sec. 6. Section 8-1,124, Reissue Revised Statutes of Nebraska, is
+23 amended to read:
+24 8-1,124 As used in sections 8-1,124 to 8-1,129, unless the context
+25 otherwise requires:
+26 (1) Emergency means any condition or occurrence, actual or
+27 threatened, which interferes physically with the conduct of normal
+28 business operations at one or more or all of the offices of a financial
+29 institution, or which poses an imminent or existing threat to the safety
+30 or security of persons or property, or both, including, but not limited
+31 to, fire, flood, earthquake, hurricane, wind, rain, snow storm, labor
+-20-
+
+LB717 LB717
+2026 2026
+1 dispute and strike, power failure, cybersecurity event as defined in
+2 section 87-1201, transportation failure, interruption of a communication
+3 facility, shortage of fuel, housing, food, transportation, or labor,
+4 robbery or attempted robbery, actual or threatened enemy attack, epidemic
+5 or other catastrophe, riot, civil commotion, and any other act of
+6 lawlessness or violence, actual or threatened;
+7 (2) Financial institution means a bank, savings bank, building and
+8 loan association, savings and loan association, credit union, or trust
+9 company, or any office thereof, chartered by the department;
+10 (3) Office means any place at which a financial institution
+11 transacts its business or conducts operations related to its business;
+12 and
+13 (4) Officers means the person or persons designated by the board of
+14 directors, supervisory committee, or other governing body of a financial
+15 institution, to act for such financial institution in an emergency or, in
+16 the absence of any such designation or of such officer or officers, the
+17 president or any other officer in charge of such financial institution or
+18 of such office or offices.
+19 Sec. 7. Section 8-1,140, Revised Statutes Supplement, 2025, is
+20 amended to read:
+21 8-1,140 Notwithstanding any of the other provisions of the Nebraska
+22 Banking Act or any other Nebraska statute, any bank incorporated under
+23 the laws of this state and organized under the provisions of the act, or
+24 under the laws of this state as they existed prior to May 9, 1933, shall
+25 directly, or indirectly through a department, a subsidiary, or
+26 subsidiaries, have all the rights, powers, privileges, benefits, and
+27 immunities which may be exercised as of January 1, 2026 2025, by a
+28 federally chartered bank doing business in Nebraska, including the
+29 exercise of all powers and activities that are permitted for a financial
+30 subsidiary of a federally chartered bank. Such rights, powers,
+31 privileges, benefits, and immunities shall not relieve such bank from
+-21-
+
+LB717 LB717
+2026 2026
+1 payment of state taxes assessed under any applicable laws of this state.
+2 Sec. 8. Section 8-318, Revised Statutes Supplement, 2025, is amended
+3 to read:
+4 8-318 (1)(a) Shares of stock in any association, or in any federal
+5 savings and loan association incorporated under the provisions of the
+6 federal Home Owners' Loan Act, with its principal office and place of
+7 business in this state, may be subscribed for, held, transferred,
+8 surrendered, withdrawn, and forfeited and payments thereon received and
+9 receipted for by any person, regardless of age, in the same manner and
+10 with the same binding effect as though such person were of the age of
+11 majority, except that a minor or his or her estate shall not be bound on
+12 his or her subscription to stock except to the extent of payments
+13 actually made thereon.
+14 (b) Whenever a share account is accepted by any building and loan
+15 association in the name of any person, regardless of age, the deposit may
+16 be withdrawn by the shareholder by any of the following methods:
+17 (i) Check or other instrument in writing. The check or other
+18 instrument in writing constitutes a receipt or acquittance if the check
+19 or other instrument in writing is signed by the shareholder and
+20 constitutes a valid release in discharge to the building and loan
+21 association for all payments so made; or
+22 (ii) Electronic means through:
+23 (A) Preauthorized direct withdrawal;
+24 (B) An automatic teller machine;
+25 (C) A debit card;
+26 (D) A transfer by telephone;
+27 (E) A network, including the Internet; or
+28 (F) Any electronic terminal, computer, magnetic tape, or other
+29 electronic means.
+30 (c) This section shall not be construed to affect the rights,
+31 liabilities, or responsibilities of participants in an electronic fund
+-22-
+
+LB717 LB717
+2026 2026
+1 transfer under the federal Electronic Fund Transfer Act, 15 U.S.C. 1693
+2 et seq., as it existed on January 1, 2026 2025, and shall not affect the
+3 legal relationships between a minor and any person other than the
+4 building and loan association.
+5 (2) All trustees, guardians, personal representatives,
+6 administrators, and conservators appointed by the courts of this state
+7 may invest and reinvest in, acquire, make withdrawals in whole or in
+8 part, hold, transfer, or make new or additional investments in or
+9 transfers of shares of stock in any (a) building and loan association
+10 organized under the laws of the State of Nebraska or (b) federal savings
+11 and loan association incorporated under the provisions of the federal
+12 Home Owners' Loan Act, having its principal office and place of business
+13 in this state, without an order of approval from any court.
+14 (3) Trustees created solely by the terms of a trust instrument may
+15 invest in, acquire, hold, and transfer such shares, and make withdrawals,
+16 in whole or in part, therefrom, without any order of court, unless
+17 expressly limited, restricted, or prohibited therefrom by the terms of
+18 such trust instrument.
+19 (4) All building and loan associations referred to in this section
+20 are qualified to act as trustee or custodian within the provisions of the
+21 federal Self-Employed Individuals Tax Retirement Act of 1962, as amended,
+22 or under the terms and provisions of section 408(a) of the Internal
+23 Revenue Code, if the provisions of such retirement plan require the funds
+24 of such trust or custodianship to be invested exclusively in shares or
+25 accounts in the association or in other associations. If any such
+26 retirement plan, within the judgment of the association, constitutes a
+27 qualified plan under the federal Self-Employed Individuals Tax Retirement
+28 Act of 1962, or under the terms and provisions of section 408(a) of the
+29 Internal Revenue Code, and the regulations promulgated thereunder at the
+30 time the trust was established and accepted by the association, is
+31 subsequently determined not to be such a qualified plan or subsequently
+-23-
+
+LB717 LB717
+2026 2026
+1 ceases to be such a qualified plan, in whole or in part, the association
+2 may continue to act as trustee of any deposits theretofore made under
+3 such plan and to dispose of the same in accordance with the directions of
+4 the member and beneficiaries thereof. No association, in respect to
+5 savings made under this section, shall be required to segregate such
+6 savings from other assets of the association. The association shall keep
+7 appropriate records showing in proper detail all transactions engaged in
+8 under the authority of this section.
+9 Sec. 9. Section 8-355, Revised Statutes Supplement, 2025, is amended
+10 to read:
+11 8-355 Notwithstanding any of the provisions of Chapter 8, article 3,
+12 or any other Nebraska statute, except as provided in section 8-345.02,
+13 any association incorporated under the laws of the State of Nebraska and
+14 organized under the provisions of such article shall have all the rights,
+15 powers, privileges, benefits, and immunities which may be exercised as of
+16 January 1, 2026 2025, by a federal savings and loan association doing
+17 business in Nebraska. Such rights, powers, privileges, benefits, and
+18 immunities shall not relieve such association from payment of state taxes
+19 assessed under any applicable laws of this state.
+20 Sec. 10. Section 8-1101, Revised Statutes Supplement, 2025, is
+21 amended to read:
+22 8-1101 For purposes of the Securities Act of Nebraska, unless the
+23 context otherwise requires:
+24 (1) Agent means any individual other than a broker-dealer who
+25 represents a broker-dealer or issuer in effecting or attempting to effect
+26 sales of securities, but agent does not include an individual who
+27 represents (a) an issuer in (i) effecting a transaction in a security
+28 exempted by subdivision (6), (7), or (8) of section 8-1110, (ii)
+29 effecting certain transactions exempted by section 8-1111, (iii)
+30 effecting transactions in a federal covered security as described in
+31 section 18(b)(3) of the Securities Act of 1933, or (iv) effecting
+-24-
+
+LB717 LB717
+2026 2026
+1 transactions with existing employees, limited liability company members,
+2 partners, or directors of the issuer or any of its subsidiaries if no
+3 commission or other remuneration is paid or given directly or indirectly
+4 for soliciting any person in this state or (b) a broker-dealer in
+5 effecting transactions described in section 15(h)(2) of the Securities
+6 Exchange Act of 1934. A partner, limited liability company member,
+7 officer, or director of a broker-dealer is an agent only if he or she
+8 otherwise comes within this definition;
+9 (2) Broker-dealer means any person engaged in the business of
+10 effecting transactions in securities for the account of others or for his
+11 or her own account. Broker-dealer does not include (a) an issuer-dealer,
+12 agent, bank, savings institution, or trust company, (b) an issuer
+13 effecting a transaction in its own security exempted by subdivision (5)
+14 (a), (b), (c), (d), (e), or (f) of section 8-1110 or which qualifies as a
+15 federal covered security pursuant to section 18(b)(1) of the Securities
+16 Act of 1933, (c) a person who has no place of business in this state if
+17 he or she effects transactions in this state exclusively with or through
+18 the issuers of the securities involved in the transactions, other broker-
+19 dealers, or banks, savings institutions, credit unions, trust companies,
+20 insurance companies, investment companies as defined in the Investment
+21 Company Act of 1940, pension or profit-sharing trusts, or other financial
+22 institutions or institutional buyers, whether acting for themselves or as
+23 trustees, (d) a person who is registered as a broker-dealer with the
+24 Securities and Exchange Commission under the Securities Exchange Act of
+25 1934 and has no place of business in this state if during any period of
+26 twelve consecutive months he or she does not effect transactions in
+27 securities or offer to effect transactions with more than five people in
+28 this state in any manner to persons other than those specified in
+29 subdivision (2)(c) of this section, or (e) a person who is a resident of
+30 Canada and who has no office or other physical presence in Nebraska if
+31 the following conditions are satisfied: (i) The person must be registered
+-25-
+
+LB717 LB717
+2026 2026
+1 with, or be a member of, a securities self-regulatory organization in
+2 Canada or a stock exchange in Canada; (ii) the person must maintain, in
+3 good standing, its provisional or territorial registration or membership
+4 in a securities self-regulatory organization in Canada, or stock exchange
+5 in Canada; (iii) the person effects, or attempts to effect, (A) a
+6 transaction with or for a Canadian client who is temporarily present in
+7 this state and with whom the Canadian broker-dealer had a bona fide
+8 customer relationship before the client entered this state or (B) a
+9 transaction with or for a Canadian client in a self-directed tax
+10 advantaged retirement plan in Canada of which that client is the holder
+11 or contributor; and (iv) the person complies with all provisions of the
+12 Securities Act of Nebraska relating to the disclosure of material
+13 information in connection with the transaction, or (f) a person that is
+14 exempt from registration as a broker-dealer with the Securities and
+15 Exchange Commission pursuant to Section 15(b)(13) of the Securities and
+16 Exchange Act of 1934;
+17 (3) Department means the Department of Banking and Finance. Director
+18 means the Director of Banking and Finance of the State of Nebraska except
+19 as further provided in section 8-1120;
+20 (4) Federal covered adviser means a person who is registered under
+21 section 203 of the Investment Advisers Act of 1940;
+22 (5) Federal covered security means any security described as a
+23 covered security under section 18(b) of the Securities Act of 1933 or
+24 rules and regulations under the act;
+25 (6) Guaranteed means guaranteed as to payment of principal,
+26 interest, or dividends;
+27 (7) Investment adviser means any person who for compensation engages
+28 in the business of advising others, either directly or through
+29 publications or writings, as to the value of securities or as to the
+30 advisability of investing in, purchasing, or selling securities or who
+31 for compensation and as a part of a regular business issues or
+-26-
+
+LB717 LB717
+2026 2026
+1 promulgates analyses or reports concerning securities. Investment adviser
+2 also includes financial planners and other persons who, as an integral
+3 component of other financially related services, provide the foregoing
+4 investment advisory services to others for compensation and as part of a
+5 business or who hold themselves out as providing the foregoing investment
+6 advisory services to others for compensation. Investment adviser does not
+7 include (a) an investment adviser representative, (b) a bank, savings
+8 institution, or trust company, (c) a lawyer, accountant, engineer, or
+9 teacher whose performance of these services is solely incidental to the
+10 practice of his or her profession, (d) a broker-dealer or its agent whose
+11 performance of these services is solely incidental to its business as a
+12 broker-dealer and who receives no special compensation for them, (e) an
+13 issuer-dealer, (f) a publisher of any bona fide newspaper, news column,
+14 newsletter, news magazine, or business or financial publication or
+15 service, whether communicated in hard copy form, by electronic means, or
+16 otherwise which does not consist of the rendering of advice on the basis
+17 of the specific investment situation of each client, (g) a person who has
+18 no place of business in this state if (i) his or her only clients in this
+19 state are other investment advisers, federal covered advisers, broker-
+20 dealers, banks, savings institutions, credit unions, trust companies,
+21 insurance companies, investment companies as defined in the Investment
+22 Company Act of 1940, pension or profit-sharing trusts, or other financial
+23 institutions or institutional buyers, whether acting for themselves or as
+24 trustees, or (ii) during the preceding twelve-month period, he or she has
+25 had five or fewer clients who are residents of this state other than
+26 those persons specified in subdivision (g)(i) of this subdivision, (h)
+27 any person that is a federal covered adviser or is excluded from the
+28 definition of investment adviser under section 202 of the Investment
+29 Adviser Act of 1940, or (i) such other persons not within the intent of
+30 this subdivision as the director may by rule and regulation or order
+31 designate;
+-27-
+
+LB717 LB717
+2026 2026
+1 (8) Investment adviser representative means any partner, limited
+2 liability company member, officer, or director or any person occupying a
+3 similar status or performing similar functions of a partner, limited
+4 liability company member, officer, or director or other individual,
+5 except clerical or ministerial personnel, who is employed by or
+6 associated with an investment adviser that is registered or required to
+7 be registered under the Securities Act of Nebraska or who has a place of
+8 business located in this state and is employed by or associated with a
+9 federal covered adviser, and who (a) makes any recommendations or
+10 otherwise renders advice regarding securities, (b) manages accounts or
+11 portfolios of clients, (c) determines which recommendation or advice
+12 regarding securities should be given, (d) solicits, offers, or negotiates
+13 for the sale of or sells investment advisory services, or (e) supervises
+14 employees who perform any of the foregoing;
+15 (9) Issuer means any person who issues or proposes to issue any
+16 security, except that (a) with respect to certificates of deposit,
+17 voting-trust certificates, or collateral-trust certificates or with
+18 respect to certificates of interest or shares in an unincorporated
+19 investment trust not having a board of directors, or persons performing
+20 similar functions, or of the fixed, restricted management, or unit type,
+21 the term issuer means the person or persons performing the acts and
+22 assuming the duties of depositor or manager pursuant to the provisions of
+23 the trust or other agreement or instrument under which the security is
+24 issued and (b) with respect to a fractional or pooled interest in a
+25 viatical settlement contract, issuer means the person who creates, for
+26 the purpose of sale, the fractional or pooled interest. In the case of a
+27 viatical settlement contract that is not fractionalized or pooled, issuer
+28 means the person effecting a transaction with a purchaser of such
+29 contract;
+30 (10) Issuer-dealer means (a) any issuer located in the State of
+31 Nebraska or (b) any issuer which registered its securities by
+-28-
+
+LB717 LB717
+2026 2026
+1 qualification who proposes to sell to the public of the State of Nebraska
+2 the securities that it issues without the benefit of another registered
+3 broker-dealer. Such securities shall have been approved for sale in the
+4 State of Nebraska pursuant to section 8-1104;
+5 (11) Nonissuer means not directly or indirectly for the benefit of
+6 the issuer;
+7 (12) Person means an individual, a corporation, a partnership, a
+8 limited liability company, an association, a joint-stock company, a trust
+9 in which the interests of the beneficiaries are evidenced by a security,
+10 an unincorporated organization, a government, or a political subdivision
+11 of a government;
+12 (13) Sale or sell includes every contract of sale of, contract to
+13 sell, or disposition of a security or interest in a security for value.
+14 Offer or offer to sell includes every attempt or offer to dispose of, or
+15 solicitation of an offer to buy, a security or interest in a security for
+16 value. Any security given or delivered with or as a bonus on account of
+17 any purchase of securities or any other thing is considered to constitute
+18 part of the subject of the purchase and to have been offered and sold for
+19 value. A purported gift of assessable stock shall be considered to
+20 involve an offer and sale. Every sale or offer of a warrant or right to
+21 purchase or subscribe to another security of the same or another issuer,
+22 as well as every sale or offer of a security which gives the holder a
+23 present or future right or privilege to convert into another security of
+24 the same or another issuer, shall be considered to include an offer of
+25 the other security;
+26 (14) Security means any note, stock, treasury stock, bond,
+27 debenture, units of beneficial interest in a real estate trust, evidence
+28 of indebtedness, certificate of interest or participation in any profit-
+29 sharing agreement, collateral-trust certificate, preorganization
+30 certificate or subscription, transferable share, investment contract,
+31 viatical settlement contract or any fractional or pooled interest in such
+-29-
+
+LB717 LB717
+2026 2026
+1 contract, membership interest in any limited liability company organized
+2 under Nebraska law or any other jurisdiction unless otherwise excluded
+3 from this definition, voting-trust certificate, certificate of deposit
+4 for a security, certificate of interest or participation in an oil, gas,
+5 or mining title or lease or in payments out of production under such a
+6 title or lease, in general any interest or instrument commonly known as a
+7 security, or any certificate of interest or participation in, temporary
+8 or interim certificate for, guarantee of, or warrant or right to
+9 subscribe to or purchase any of the foregoing. Security does not include
+10 any insurance or endowment policy or annuity contract issued by an
+11 insurance company. Security also does not include a membership interest
+12 in a limited liability company when all of the following exist: (a) The
+13 member enters into a written commitment to be engaged actively and
+14 directly in the management of the limited liability company; and (b) all
+15 members of the limited liability company are actively engaged in the
+16 management of the limited liability company. For the limited purposes of
+17 determining professional malpractice insurance premiums, a security
+18 issued through a transaction that is exempted pursuant to subdivision
+19 (23) of section 8-1111 shall not be considered a security;
+20 (15) State means any state, territory, or possession of the United
+21 States as well as the District of Columbia and Puerto Rico; and
+22 (16) Viatical settlement contract means an agreement for the
+23 purchase, sale, assignment, transfer, devise, or bequest of all or any
+24 portion of the death benefit or ownership of a life insurance policy or
+25 contract for consideration which is less than the expected death benefit
+26 of the life insurance policy or contract. Viatical settlement contract
+27 does not include (a) the assignment, transfer, sale, devise, or bequest
+28 of a death benefit of a life insurance policy or contract made by the
+29 viator to an insurance company or to a viatical settlement provider or
+30 broker licensed pursuant to the Viatical Settlements Act, (b) the
+31 assignment of a life insurance policy or contract to a bank, savings
+-30-
+
+LB717 LB717
+2026 2026
+1 bank, savings and loan association, credit union, or other licensed
+2 lending institution as collateral for a loan, or (c) the exercise of
+3 accelerated benefits pursuant to the terms of a life insurance policy or
+4 contract and consistent with applicable law.
+5 Sec. 11. Section 8-1101.01, Revised Statutes Supplement, 2025, is
+6 amended to read:
+7 8-1101.01 For purposes of the Securities Act of Nebraska:
+8 (1) Fair practice or ethical rules or standards promulgated by the
+9 Securities and Exchange Commission, the Financial Industry Regulatory
+10 Authority, or a self-regulatory organization approved by the Securities
+11 and Exchange Commission means such practice, rules, or standards as they
+12 existed on January 1, 2026 2025;
+13 (2) Federal rules and regulations adopted under the Investment
+14 Advisers Act of 1940 or the Securities Act of 1933 means such rules and
+15 regulations as they existed on January 1, 2026 2025; and
+16 (3) Securities Act of 1933, Securities Exchange Act of 1934,
+17 Investment Advisers Act of 1940, Investment Company Act of 1940,
+18 Commodity Exchange Act, and the federal Interstate Land Sales Full
+19 Disclosure Act means the acts as they existed on January 1, 2026 2025.
+20 Sec. 12. Section 8-1502, Reissue Revised Statutes of Nebraska, is
+21 amended to read:
+22 8-1502 (1) Except as provided in subsection (2) of this section, no
+23 person acting personally or as agent shall acquire control of any state-
+24 chartered bank or trust company without first giving sixty days' notice
+25 to the Department of Banking and Finance on forms provided by the
+26 department of such proposed acquisition.
+27 The Director of Banking and Finance, upon receipt of a substantially
+28 complete such notice, shall act upon it within thirty days, and, unless
+29 he or she disapproves the proposed acquisition within that period of
+30 time, it may become effective on the sixty-first day after receipt
+31 without his or her approval, except that the director may extend the
+-31-
+
+LB717 LB717
+2026 2026
+1 thirty-day period an additional thirty days if in his or her judgment any
+2 material information submitted is substantially inaccurate or the
+3 acquiring party has not furnished all the information required by
+4 sections 8-1501 to 8-1505 or by the director.
+5 An acquisition may be made prior to the expiration of the
+6 disapproval period if the director issues written notice of his or her
+7 intent not to disapprove the action.
+8 Within three days after his or her decision to disapprove any
+9 proposed acquisition, the director shall notify the acquiring party in
+10 writing of the disapproval. The notice shall provide a statement of the
+11 basis for the disapproval.
+12 (2) The notice requirements of subsection (1) of this section shall
+13 not apply when:
+14 (a) Shares of a state-chartered bank or trust company are acquired
+15 by a person in the regular course of securing or collecting a debt
+16 previously contracted in good faith or through inheritance or a bona fide
+17 gift if notice of such acquisition is given to the department, on forms
+18 provided by the department, within thirty days after the acquisition;
+19 (b) Shares of a state-chartered bank or trust company are
+20 transferred from an individual or individuals to a trust formed by the
+21 individual or individuals for estate-planning purposes if (i) there is no
+22 change in the proportion of shares held by the trust for such individual
+23 or individuals compared to the ownership of such individual or
+24 individuals prior to the formation of the trust, (ii) the individual or
+25 individuals control the trust, and (iii) notice of the proposed transfer
+26 is given to the department, on forms provided by the department, at least
+27 thirty days prior to the proposed transfer and the department does not
+28 disapprove the transfer for the reason that the transfer is an attempt to
+29 subvert the requirements of sections 8-1501 to 8-1505; or
+30 (c) The director, the Governor, and the Secretary of State jointly
+31 determine that an emergency exists which requires expeditious action or
+-32-
+
+LB717 LB717
+2026 2026
+1 that the department must act immediately to prevent probable failure of
+2 the institution to be acquired.
+3 Sec. 13. Section 8-1704, Revised Statutes Supplement, 2025, is
+4 amended to read:
+5 8-1704 CFTC rule shall mean any rule, regulation, or order of the
+6 Commodity Futures Trading Commission in effect on January 1, 2026 2025.
+7 Sec. 14. Section 8-1707, Revised Statutes Supplement, 2025, is
+8 amended to read:
+9 8-1707 Commodity Exchange Act shall mean the act of Congress known
+10 as the Commodity Exchange Act, 7 U.S.C. 1, as amended on January 1, 2026
+11 2025.
+12 Sec. 15. Section 8-2102, Reissue Revised Statutes of Nebraska, is
+13 amended to read:
+14 8-2102 For purposes of the Interstate Branching and Merger Act,
+15 unless the context otherwise requires:
+16 (1) Bank means a bank as defined in 12 U.S.C. 1813, as such section
+17 existed on January 1, 2026 2012;
+18 (2) Department means the Department of Banking and Finance;
+19 (3) Director means the Director of Banking and Finance;
+20 (4) Home state means (a) with respect to a state chartered bank, the
+21 state in which the bank is chartered and (b) with respect to a national
+22 bank, the state in which the main office of the bank is located;
+23 (5) Home state regulator means, with respect to an out-of-state
+24 state chartered bank, the bank supervisory agency of the state in which
+25 such bank is chartered;
+26 (6) Host state means a state, other than the home state of a bank,
+27 in which the bank maintains, or seeks to establish and maintain, a
+28 branch;
+29 (7) Interstate merger transaction means a merger or consolidation of
+30 two or more banks, at least one of which is a Nebraska bank and at least
+31 one of which is an out-of-state bank, and the conversion of the main
+-33-
+
+LB717 LB717
+2026 2026
+1 office and the branches of any bank involved in such merger or
+2 consolidation into branches of the resulting bank;
+3 (8) Nebraska bank means a bank whose home state is Nebraska;
+4 (9) Nebraska state chartered bank means a corporation which is
+5 chartered to conduct a bank in this state pursuant to the Nebraska
+6 Banking Act;
+7 (10) Out-of-state bank means a bank whose home state is a state
+8 other than Nebraska;
+9 (11) Out-of-state state chartered bank means a bank chartered under
+10 the laws of any state other than Nebraska;
+11 (12) Resulting bank means a bank that has resulted from an
+12 interstate merger transaction under the Interstate Branching and Merger
+13 Act; and
+14 (13) State means any state of the United States, the District of
+15 Columbia, any territory of the United States, Puerto Rico, Guam, American
+16 Samoa, the Trust Territory of the Pacific Islands, the Virgin Islands,
+17 and the Northern Mariana Islands.
+18 Sec. 16. Section 8-2703, Revised Statutes Supplement, 2025, is
+19 amended to read:
+20 8-2703 The Nebraska Money Transmitters Act does not apply to:
+21 (1) An operator of a payment system to the extent that such operator
+22 provides processing, clearing, or settlement services, between or among
+23 persons exempted from the Nebraska Money Transmitters Act under this
+24 section or licensees, in connection with wire transfers, credit card
+25 transactions, debit card transactions, stored value transactions,
+26 automated clearinghouse transfers, or similar funds transfers;
+27 (2) A person appointed as an agent of a payee to collect and process
+28 a payment from a payor to the payee for goods or services, other than
+29 money transmission, provided to the payor by the payee, provided that:
+30 (a) There exists a written agreement between the payee and the agent
+31 directing the agent to collect and process payments from payors on the
+-34-
+
+LB717 LB717
+2026 2026
+1 behalf of the payee;
+2 (b) The payee holds the agent out to the public as accepting
+3 payments for goods or services on the behalf of the payee; and
+4 (c) Payment for the goods or services is treated as received by the
+5 payee upon receipt by the agent so that the payor's obligation is
+6 extinguished and there is no risk of loss to the payor if the agent fails
+7 to remit the funds to the payee;
+8 (3) A person that acts as an intermediary by processing payments
+9 between an entity that has directly incurred an outstanding money
+10 transmission obligation to a sender, and the sender's designated
+11 recipient, provided that the entity:
+12 (a) Is properly licensed or exempt from licensing requirements of
+13 the Nebraska Money Transmitters Act;
+14 (b) Provides a receipt, electronic record, or other written
+15 confirmation to the sender identifying the entity as the provider of
+16 money transmission in the transaction; and
+17 (c) Bears sole responsibility to satisfy the outstanding money
+18 transmission obligation to the sender, including the obligation to make
+19 the sender whole in connection with any failure to transmit the funds to
+20 the designated recipient of the sender;
+21 (4) The United States or any department, agency, or instrumentality
+22 thereof or any agent of the United States or any department, agency, or
+23 instrumentality thereof;
+24 (5) Money transmission by the United States Postal Service or by an
+25 agent of the United States Postal Service;
+26 (6) A state, county, or city or any governmental agency, political
+27 subdivision, or instrumentality of a state, or any agent of a state,
+28 county, or city or any governmental agency, political subdivision, or
+29 instrumentality of a state;
+30 (7) A federally insured depository financial institution, bank
+31 holding company, office of an international banking corporation, foreign
+-35-
+
+LB717 LB717
+2026 2026
+1 bank that establishes a federal branch pursuant to the International
+2 Banking Act of 1978, corporation organized pursuant to the Bank Service
+3 Company Act, or corporation organized under the Edge Act;
+4 (8) Electronic funds transfer of governmental benefits for a
+5 federal, state, county, or other governmental agency by a contractor on
+6 behalf of the United States or a department, agency, or instrumentality
+7 thereof, or on behalf of a state, county, or other governmental
+8 subdivision, agency, or instrumentality thereof;
+9 (9) A board of trade designated as a contract market under the
+10 Commodity Exchange Act or a person that, in the ordinary course of
+11 business, provides clearance and settlement services for a board of trade
+12 to the extent of such person's operation as or for such a board;
+13 (10) A person registered as a futures commission merchant under the
+14 federal commodities laws to the extent of such person's operation as a
+15 merchant;
+16 (11) A person registered as a securities broker-dealer under federal
+17 or state securities laws to the extent of such person's operation as a
+18 broker-dealer;
+19 (12) An individual employed by a licensee, authorized delegate, or
+20 any person exempted from the licensing requirements of the Nebraska Money
+21 Transmitters Act when acting within the scope of employment, under the
+22 supervision of the licensee, authorized delegate, or exempted person, as
+23 an employee and not as an independent contractor;
+24 (13) A person expressly appointed as a third-party service provider
+25 to or agent of an entity exempt under subdivision (7) of this section,
+26 solely to the extent that:
+27 (a) Such service provider or agent is engaging in money transmission
+28 on behalf of and pursuant to a written agreement with the exempt entity
+29 that sets forth the specific functions that the service provider or agent
+30 is to perform; and
+31 (b) The exempt entity assumes all risk of loss and all legal
+-36-
+
+LB717 LB717
+2026 2026
+1 responsibility for satisfying the outstanding money transmission
+2 obligations owed to purchasers and holders of the outstanding money
+3 transmission obligations upon receipt of the purchaser's or holder's
+4 money or monetary value by the service provider or agent;
+5 (14) A person, firm, corporation, or association licensed in this
+6 state and acting within this state within the scope of a license:
+7 (a) As a collection agency pursuant to the Collection Agency Act;
+8 (b) As a credit services organization pursuant to the Credit
+9 Services Organization Act; or
+10 (c) To engage in the debt management business pursuant to sections
+11 69-1201 to 69-1217;
+12 (15) A charter issued under the Nebraska Financial Innovation Act;
+13 and
+14 (16) A person that provides payroll processing services if such
+15 person:
+16 (a)(i) Employs less than twenty full time or full-time equivalent
+17 employees for the provision of such services; or
+18 (ii) Provides payroll processing services for less than fifty
+19 employees residing in Nebraska;
+20 (b) Has not been convicted of or pled guilty or nolo contendere to a
+21 felony in a domestic, foreign, or military court and no key individual or
+22 person in control of the person that provides payroll processing services
+23 has been convicted of or pled guilty or nolo contendere to a felony in a
+24 domestic, foreign, or military court;
+25 (c) Has never had a financial services license or professional
+26 license revoked in any jurisdiction and no key individual or person in
+27 control of the person providing payroll processing services has ever had
+28 a financial services license or professional license revoked in any
+29 jurisdiction, except that a revocation that is formally vacated shall not
+30 be deemed a revocation; and
+31 (d) Does not otherwise engage in the business of money transmission
+-37-
+
+LB717 LB717
+2026 2026
+1 in this state or any other activity requiring a license under the
+2 Nebraska Money Transmitters Act; and
+3 (17) (16) A person exempt by regulation or order if the director
+4 finds such exemption to be in the public interest and that the regulation
+5 of such person is not necessary for the purposes of the Nebraska Money
+6 Transmitters Act.
+7 Sec. 17. Section 8-2742, Revised Statutes Supplement, 2025, is
+8 amended to read:
+9 8-2742 For purposes of the Nebraska Money Transmitters Act:
+10 (1) 31 C.F.R. 1010.100 means 31 C.F.R. 1010.100, as such regulation
+11 existed on January 1, 2026 2025;
+12 (2) Bank Secrecy Act means the Bank Secrecy Act, 31 U.S.C. 5311 et
+13 seq., and the implementing regulations of such act, as such act and
+14 regulations existed on January 1, 2026 2025;
+15 (3) Bank Service Company Act means the Bank Service Company Act, 12
+16 U.S.C. 1861 et seq., as such act existed on January 1, 2026 2025;
+17 (4) Commodity Exchange Act means the Commodity Exchange Act, 7
+18 U.S.C. 1 et seq., as such act existed on January 1, 2026 2025;
+19 (5) Edge Act means the Edge Act, 12 U.S.C. 611 et seq., as such act
+20 existed on January 1, 2026 2025;
+21 (6) Federal Credit Union Act means the Federal Credit Union Act, 12
+22 U.S.C. 1751 et seq., as such act existed on January 1, 2026 2025;
+23 (7) Federal Deposit Insurance Act means the Federal Deposit
+24 Insurance Act, 12 U.S.C. 1811 et seq., as such act existed on January 1,
+25 2026 2025;
+26 (8) Federal remittance rule means 12 C.F.R. part 1005, subpart B, as
+27 such regulation existed on January 1, 2026 2025;
+28 (9) Foreign Account Tax Compliance Act means the Foreign Account Tax
+29 Compliance Act, 26 U.S.C. 1471 et seq., as such act existed on January 1,
+30 2026 2025;
+31 (10) International Banking Act of 1978 means the International
+-38-
+
+LB717 LB717
+2026 2026
+1 Banking Act of 1978, 12 U.S.C. 3101 et seq., as such act existed on
+2 January 1, 2026 2025;
+3 (11) Securities Exchange Act of 1934 means the Securities Exchange
+4 Act of 1934, 15 U.S.C. 78a et seq., as such act existed on January 1,
+5 2026 2025;
+6 (12) United States Bankruptcy Code means 11 U.S.C. 101 et seq., as
+7 such sections existed on January 1, 2026 2025; and
+8 (13) Uniting and Strengthening America by Providing Appropriate
+9 Tools Required to Intercept and Obstruct Terrorism Act of 2001 means the
+10 Uniting and Strengthening America by Providing Appropriate Tools Required
+11 to Intercept and Obstruct Terrorism Act of 2001, Public Law 107-56, as
+12 such act existed on January 1, 2026 2025.
+13 Sec. 18. Section 8-2903, Revised Statutes Supplement, 2025, is
+14 amended to read:
+15 8-2903 (1) When a financial institution, or an employee of a
+16 financial institution, reasonably believes, or has received information
+17 from the department or a law enforcement agency demonstrating that it is
+18 reasonable to believe, that financial exploitation of a vulnerable adult
+19 or senior adult may have occurred, may have been attempted, is occurring,
+20 or is being attempted, the financial institution may, but is not required
+21 to:
+22 (a) Delay or refuse a transaction with or involving the vulnerable
+23 adult or senior adult;
+24 (b) Delay or refuse to permit the withdrawal or disbursement of
+25 funds contained in the vulnerable adult's or senior adult's account;
+26 (c) Prevent a change in ownership of the vulnerable adult's or
+27 senior adult's account;
+28 (d) Prevent a transfer of funds from the vulnerable adult's or
+29 senior adult's account to an account owned wholly or partially by another
+30 person;
+31 (e) Refuse to comply with instructions given to the financial
+-39-
+
+LB717 LB717
+2026 2026
+1 institution by an agent or a person acting for or with an agent under a
+2 power of attorney signed or purported to have been signed by the
+3 vulnerable adult or senior adult; or
+4 (f) Prevent the designation or change the designation of
+5 beneficiaries to receive any property, benefit, or contract rights for a
+6 vulnerable adult or senior adult at death.
+7 (2) A financial institution is not required to act under subsection
+8 (1) of this section when provided with information alleging that
+9 financial exploitation may have occurred, may have been attempted, is
+10 occurring, or is being attempted, but may use the financial institution's
+11 discretion to determine whether or not to act under subsection (1) of
+12 this section based on the information available to the financial
+13 institution at the time.
+14 (3)(a)(i) A financial institution may notify any third party
+15 reasonably associated with a vulnerable adult or senior adult if the
+16 financial institution reasonably believes that the financial exploitation
+17 of a vulnerable adult or senior adult may have occurred, may have been
+18 attempted, is occurring, or is being attempted.
+19 (ii) A third party reasonably associated with a vulnerable adult or
+20 senior adult includes, but is not limited to, the following: (A) A
+21 parent, spouse, adult child, sibling, or other known family member or
+22 close associate of a vulnerable adult or senior adult; (B) an authorized
+23 contact provided by a vulnerable adult or senior adult to the financial
+24 institution; (C) a co-owner, additional authorized signatory, or
+25 beneficiary on a vulnerable adult's or a senior adult's account; (D) an
+26 attorney in fact, trustee, conservator, guardian, or other fiduciary who
+27 has been selected by a vulnerable adult or senior adult, a court, or a
+28 third party to manage some or all of the financial affairs of the
+29 vulnerable adult or senior adult; and (E) an attorney known to represent
+30 or have represented the vulnerable adult or senior adult.
+31 (b) A financial institution may choose not to notify any third party
+-40-
+
+LB717 LB717
+2026 2026
+1 reasonably associated with a vulnerable adult or senior adult of
+2 suspected financial exploitation of the vulnerable adult or senior adult
+3 if the financial institution reasonably believes the third party is, may
+4 be, or may have been engaged in the financial exploitation of the
+5 vulnerable adult or senior adult or if requested to refrain from making a
+6 notification by a law enforcement agency, if such notification could
+7 interfere with a law enforcement investigation.
+8 (c) Nothing in this subsection shall prevent a financial institution
+9 from notifying the department or a law enforcement agency, if the
+10 financial institution reasonably believes that the financial exploitation
+11 of a vulnerable adult or senior adult may have occurred, may have been
+12 attempted, is occurring, or is being attempted.
+13 (4) The authority granted the financial institution under subsection
+14 (1) of this section expires upon the sooner of: (a) Thirty business days
+15 after the date on which the financial institution first acted under
+16 subsection (1) of this section; (b) when the financial institution is
+17 satisfied that the transaction or act will not result in financial
+18 exploitation of the vulnerable adult or senior adult; or (c) upon
+19 termination by an order of a court of competent jurisdiction.
+20 (5) Unless otherwise directed by order of a court of competent
+21 jurisdiction, a financial institution may extend the duration under
+22 subsection (4) of this section based on a reasonable belief that the
+23 financial exploitation of a vulnerable adult or senior adult may continue
+24 to occur or continue to be attempted.
+25 (6) A financial institution and its bank holding company, if any,
+26 and any employees, agents, officers, and directors of the financial
+27 institution and its bank holding company, if any, shall be immune from
+28 any civil, criminal, or administrative liability that may otherwise exist
+29 (a) for delaying or refusing to execute a transaction, withdrawal, or
+30 disbursement, or for not delaying or refusing to execute such
+31 transaction, withdrawal, or disbursement under this section and (b) for
+-41-
+
+LB717 LB717
+2026 2026
+1 actions taken in furtherance of determinations made under subsections (1)
+2 through (5) of this section.
+3 (7)(a) Notwithstanding any other law to the contrary, the refusal by
+4 a financial institution to engage in a transaction as authorized under
+5 subsection (1) of this section shall not constitute the wrongful dishonor
+6 of an item under section 4-402, Uniform Commercial Code.
+7 (b) Notwithstanding any other law to the contrary, a reasonable
+8 belief that payment of a check will facilitate the financial exploitation
+9 of a vulnerable adult or senior adult shall constitute reasonable grounds
+10 to doubt the collectability of the item for purposes of the federal Check
+11 Clearing for the 21st Century Act, 12 U.S.C. 5001 et seq., the federal
+12 Expedited Funds Availability Act, 12 U.S.C. 4001 et seq., and 12 C.F.R.
+13 part 229, as such acts and part existed on January 1, 2026 2025.
+14 Sec. 19. Section 8-3003, Revised Statutes Cumulative Supplement,
+15 2024, is amended to read:
+16 8-3003 For purposes of the Nebraska Financial Innovation Act:
+17 (1) Blockchain means a distributed digital record of controllable
+18 electronic record transactions;
+19 (2) Centralized finance means centralized digital asset exchanges,
+20 businesses, or organizations with a valid physical address;
+21 (3) Control has the following meaning:
+22 (a) A person has control of a controllable electronic record if:
+23 (i) The following conditions are met:
+24 (A) The controllable electronic record or the system in which it is
+25 recorded, if any, gives the person:
+26 (I) The power to derive substantially all the benefit from the
+27 controllable electronic record;
+28 (II) Subject to subdivision (b) of this subdivision, the exclusive
+29 power to prevent others from deriving substantially all the benefit from
+30 the controllable electronic record; and
+31 (III) Subject to subdivision (b) of this subdivision, the exclusive
+-42-
+
+LB717 LB717
+2026 2026
+1 power to transfer control of the controllable electronic record to
+2 another person or cause another person to obtain control of a
+3 controllable electronic record that derives from the controllable
+4 electronic record; and
+5 (B) The controllable electronic record, a record attached to or
+6 logically associated with the controllable electronic record, or the
+7 system in which the controllable electronic record is recorded, if any,
+8 enables the person to readily identify itself as having the powers
+9 specified in subdivision (a)(i) of this subdivision; or
+10 (ii) Another person obtains control of the controllable electronic
+11 record on behalf of the person, or having previously obtained control of
+12 the controllable electronic record, acknowledges that it has control on
+13 behalf of the person.
+14 (b) A power specified in subdivisions (3)(a)(i)(A)(II) or (III) of
+15 this section can be exclusive, even if:
+16 (i) The controllable electronic record or the system in which it is
+17 recorded, if any, limits the use to which the controllable electronic
+18 record may be put or has protocols that are programmed to result in a
+19 transfer of control; and
+20 (ii) The person has agreed to share the power with another person.
+21 (c) For the purposes of subdivision (3)(a)(i)(B) of this section, a
+22 person may be identified in any way, including by name, identifying
+23 number, cryptographic key, office, or account number;
+24 (4) Controllable electronic borrowing means the act of receiving
+25 digital assets or the use of digital assets from a lender in exchange for
+26 the payment to the lender of digital assets, interest, fees, or rewards;
+27 (5) Controllable electronic record means an electronic record that
+28 can be subjected to control. The term has the same meaning as digital
+29 asset and does not include electronic chattel paper, electronic
+30 documents, investment property, and transferable records under the
+31 Uniform Electronic Transactions Act;
+-43-
+
+LB717 LB717
+2026 2026
+1 (6) Controllable electronic record exchange means a business that
+2 allows customers to purchase, sell, convert, send, receive, or trade
+3 digital assets for other digital assets;
+4 (7) Controllable electronic record lending means the act of
+5 providing digital assets to a borrower in exchange for digital assets,
+6 interest, fees, or rewards;
+7 (8) Controllable electronic records staking means the act of
+8 pledging a digital asset or token with an expectation of gaining digital
+9 assets, interest, fees, or other rewards on such act;
+10 (9) Customer means a digital asset depositor or digital asset
+11 account holder;
+12 (10) Decentralized finance means digital asset exchanges,
+13 businesses, or organizations operating independently on blockchains;
+14 (11) Department means the Department of Banking and Finance;
+15 (12) Digital asset depository means (a) a financial institution that
+16 securely holds liquid assets when such assets are in the form of
+17 controllable electronic records, either as a corporation organized,
+18 chartered, and operated pursuant to the Nebraska Financial Innovation Act
+19 as a digital asset depository institution or (b) a financial institution
+20 which has been further chartered by the director to operate operating a
+21 digital asset depository business in as a digital asset depository
+22 department of the financial institution under a charter granted by the
+23 director;
+24 (13) Digital asset depository department means a financial
+25 institution operating a digital asset depository business as a digital
+26 asset depository department under a charter granted by the director;
+27 (14) Digital asset depository institution means a corporation
+28 operating a digital asset depository business organized and chartered
+29 pursuant to the Nebraska Financial Innovation Act;
+30 (15) Director means the Director of Banking and Finance;
+31 (16) Financial institution means a bank, savings bank, building and
+-44-
+
+LB717 LB717
+2026 2026
+1 loan association, or savings and loan association, or credit union
+2 chartered by the United States, the department, or a foreign state
+3 agency; or a trust company;
+4 (17) Fork means a change to the protocol of a blockchain network;
+5 (18) Independent node verification network means a shared electronic
+6 database where copies of the same information are stored on multiple
+7 computers; and
+8 (19) Stablecoin means a controllable electronic record designed to
+9 have a stable value that is backed by a reserve asset.
+10 Sec. 20. Section 8-3005, Revised Statutes Supplement, 2025, is
+11 amended to read:
+12 8-3005 (1)(a) A digital asset depository may:
+13 (i) Make contracts as a corporation under Nebraska law;
+14 (ii) Sue and be sued;
+15 (iii) Receive notes as permitted by federal law;
+16 (iv) Carry on a nonlending digital asset banking business for
+17 customers, consistent with subdivision (2)(b) of this section;
+18 (v) Provide payment services upon the request of a customer; and
+19 (vi) Make an application to become a member bank of the federal
+20 reserve system.
+21 (b) A digital asset depository shall maintain its main office and
+22 the primary office of its chief executive officer in Nebraska.
+23 (c) As otherwise authorized by this section, a digital asset
+24 depository may conduct business with customers outside this state.
+25 (2)(a) A digital asset depository institution, consistent with the
+26 Nebraska Financial Innovation Act, shall be organized as a corporation
+27 under the Nebraska Model Business Corporation Act to exercise the powers
+28 set forth in subsection (1) of this section.
+29 (b) A digital asset depository institution shall not accept demand
+30 deposits of United States currency or United States currency that may be
+31 accessed or withdrawn by check or similar means for payment to third
+-45-
+
+LB717 LB717
+2026 2026
+1 parties and except as otherwise provided in this subsection, a digital
+2 asset depository institution shall not make any loans to consumers for
+3 personal, property or household purposes, mortgage loans, or commercial
+4 loans of any fiat currency including, but not limited to, United States
+5 currency, including the provision of temporary credit relating to
+6 overdrafts. Notwithstanding this prohibition against fiat currency
+7 lending by a digital asset depository institution, a digital asset
+8 depository institution may facilitate the provision of digital asset
+9 business services resulting from the interaction of customers with
+10 centralized finance or decentralized finance platforms including, but not
+11 limited to, controllable electronic record exchange, staking,
+12 controllable electronic record lending, and controllable electronic
+13 record borrowing. A digital asset depository institution may purchase
+14 debt obligations specified by subdivision (2)(c) of section 8-3009.
+15 (c) A digital asset depository institution may open a branch in this
+16 state or in another state in the manner set forth in section 8-157 or
+17 8-2303. A branch in another state is subject to the laws of the host
+18 state. A digital asset depository institution, including any branch of
+19 the digital asset depository institution, may only accept digital asset
+20 deposits or provide other digital asset business services under the
+21 Nebraska Financial Innovation Act to individual customers or a customer
+22 that is a legal entity other than a natural person engaged in a bona fide
+23 business which is lawful under the laws of Nebraska, the laws of the host
+24 state if the entity is headquartered in another state, and federal law.
+25 (3) The deposit limitations of subdivision (2)(a)(ii) of section
+26 8-157 shall not apply to a digital asset depository.
+27 (4) Any United States currency coming into an account established by
+28 a customer of a digital asset depository institution shall be held in a
+29 financial institution, the deposits of which are insured by the Federal
+30 Deposit Insurance Corporation , which maintained a main-chartered office
+31 in this state, any branch thereof in this state, or any branch of the
+-46-
+
+LB717 LB717
+2026 2026
+1 financial institution which maintained the main-chartered office in this
+2 state prior to becoming a branch of such financial institution.
+3 (5) A digital asset depository institution shall establish and
+4 maintain programs for compliance with the federal Bank Secrecy Act, in
+5 accordance with 12 C.F.R. 208.63, as the act and rule existed on January
+6 1, 2026 2025.
+7 (6) A digital asset depository shall help meet the digital financial
+8 needs of the communities in which it operates, consistent with safe and
+9 sound operations, and shall maintain and update a public file available
+10 to any person on request and on any Internet website or mobile
+11 application it maintains containing specific information about its
+12 efforts to meet community needs, including:
+13 (a) The collection and reporting of data;
+14 (b) Its policies and procedures for accepting and responding to
+15 consumer complaints; and
+16 (c) Its efforts to assist with financial literacy or personal
+17 finance programs to increase knowledge and skills of Nebraska students in
+18 areas such as digital assets, budgeting, credit, checking and savings
+19 accounts, loans, stocks, and insurance.
+20 Sec. 21. Section 8-3007, Revised Statutes Supplement, 2025, is
+21 amended to read:
+22 8-3007 (1) No customer shall open or maintain an account with a
+23 digital asset depository or otherwise receive any services from the
+24 digital asset depository unless the customer meets the criteria of this
+25 subsection. A customer shall:
+26 (a) Make sufficient evidence available to the digital asset
+27 depository to enable compliance with anti-money laundering, customer
+28 identification, and beneficial ownership requirements, as determined by
+29 the federal Bank Secrecy Act guidance and the policies and practices of
+30 the institution; and
+31 (b) If the customer is a legal entity other than a natural person:
+-47-
+
+LB717 LB717
+2026 2026
+1 (i) Be in good standing with the jurisdiction in the United States
+2 in which it is incorporated or organized; and
+3 (ii) Be engaged in a business that is lawful and bona fide in
+4 Nebraska, in the host state, if applicable, and under federal law
+5 consistent with subsection (3) of this section.
+6 (2) A customer which meets the criteria of subsection (1) of this
+7 section may be issued a digital asset depository account and otherwise
+8 receive services from the digital asset depository, contingent on the
+9 digital asset depository maintaining sufficient insurance under
+10 subsection (5) of section 8-3023.
+11 (3) Consistent with subdivisions (1)(a)(iv) and (v) of section
+12 8-3005, and in addition to any requirements specified by federal law, a
+13 digital asset depository shall require that any potential customer that
+14 is a legal entity other than a natural person provide reasonable evidence
+15 that the entity is engaged in a business that is lawful and bona fide in
+16 Nebraska, in the host state, if applicable, and under federal law or is
+17 likely to open a lawful, bona fide business within a federal Bank Secrecy
+18 Act compliant timeframe, as the act existed on January 1, 2026 2025. For
+19 purposes of this subsection, reasonable evidence includes business entity
+20 filings, articles of incorporation or organization, bylaws, operating
+21 agreements, business plans, promotional materials, financing agreements,
+22 or other evidence.
+23 Sec. 22. Section 8-3013, Revised Statutes Cumulative Supplement,
+24 2024, is amended to read:
+25 8-3013 (1) The capital stock of each digital asset depository
+26 institution chartered under the Nebraska Financial Innovation Act shall
+27 be subscribed for as paid-up stock. Except as provided in subsection (3)
+28 of this section, a No digital asset depository institution shall not be
+29 chartered with capital stock of less than ten million dollars.
+30 (2) A No digital asset depository institution shall not commence
+31 business until the full amount of its authorized capital is subscribed
+-48-
+
+LB717 LB717
+2026 2026
+1 and all capital stock is fully paid in. Except as provided in subsection
+2 (3) of this section, a No digital asset depository institution shall not
+3 may be chartered without a paid-up surplus fund of at least three years
+4 of estimated operating expenses in the amount disclosed pursuant to
+5 subsection (2) of section 8-3015 or in another amount required by the
+6 director.
+7 (3) Notwithstanding the provisions of subsections (1) and (2) of
+8 this section and at the discretion of the director, a digital asset
+9 depository institution may be chartered and commence business if such
+10 institution meets the capital and surplus requirements for a
+11 substantially similar federal charter, license, or regulatory structure
+12 as determined by the director.
+13 (4) (3) A digital asset depository institution may acquire
+14 additional capital prior to the granting of a charter and shall report
+15 this capital as an amendment to its charter application.
+16 Sec. 23. Section 8-3033, Revised Statutes Supplement, 2025, is
+17 amended to read:
+18 8-3033 For purposes of the Controllable Electronic Record Fraud
+19 Prevention Act:
+20 (1) Blockchain analytics means the analysis of data from blockchains
+21 or public distributed ledgers, including associated transaction
+22 information;
+23 (2) Blockchain analytics software means a software service that uses
+24 blockchain analytics data to provide risk-specific information about
+25 controllable electronic record addresses, among other things;
+26 (3) Controllable electronic record has the same meaning as in
+27 section 8-3003;
+28 (4) Controllable electronic record address means an alphanumeric
+29 identifier associated with a controllable electronic record wallet
+30 identifying the location to which a controllable electronic record
+31 transaction can be sent;
+-49-
+
+LB717 LB717
+2026 2026
+1 (5) Controllable electronic record kiosk means an electronic
+2 terminal acting as a mechanical agent of the controllable electronic
+3 record kiosk operator to enable the controllable electronic record kiosk
+4 operator to facilitate the exchange of controllable electronic records
+5 for money, bank credit, or other controllable electronic records,
+6 including, but not limited to, by (a) connecting directly to a separate
+7 controllable electronic record exchange that performs the actual
+8 controllable electronic record transmission or (b) drawing upon the
+9 controllable electronic record in the possession of the electronic
+10 terminal's operator;
+11 (6) Controllable electronic record kiosk operator means a person, or
+12 a third party acting on behalf of another person, that engages in
+13 controllable electronic record business activity via a controllable
+14 electronic record kiosk located in this state or a person that owns,
+15 operates, or manages a money transmission kiosk located in this state
+16 through which controllable electronic record business activity is
+17 offered;
+18 (7) Controllable electronic record kiosk transaction means a
+19 transaction conducted or performed, in whole or in part, by electronic
+20 means via a controllable electronic record kiosk. Controllable electronic
+21 record kiosk transaction includes, but is not limited to, a transaction
+22 made at a controllable electronic record kiosk (a) to purchase
+23 controllable electronic records with United States dollars, (b) or to
+24 sell controllable electronic records for United States dollars, or (c) to
+25 fund a stored value account, which, at the time the stored value account
+26 is funded or thereafter, offers the ability to purchase a controllable
+27 electronic record and is utilized to purchase a controllable electronic
+28 record; and
+29 (8) Controllable electronic record wallet means a software
+30 application or other mechanism providing a means to hold the keys
+31 necessary to access and transfer controllable electronic records;
+-50-
+
+LB717 LB717
+2026 2026
+1 (9) Customer means new customers and existing customers;
+2 (10) Department means the Department of Banking and Finance;
+3 (11) Existing customer means an individual whose first controllable
+4 electronic record kiosk transaction with the controllable electronic
+5 record kiosk operator was more than fourteen days prior;
+6 (12) New customer means an individual during the fourteen-day period
+7 after such individual's first transaction with the controllable
+8 electronic record kiosk operator that the individual has never previously
+9 transacted with. The individual shall remain defined as a new customer
+10 during the fourteen-day period after the first controllable electronic
+11 record kiosk transaction with the controllable electronic record kiosk
+12 operator; and
+13 (13) Transaction hash means a unique identifier made up of a string
+14 of characters that acts as a record of and provides proof that the
+15 transaction was verified and added to the blockchain.
+16 Sec. 24. Section 8-3034, Revised Statutes Supplement, 2025, is
+17 amended to read:
+18 8-3034 (1) A controllable electronic record kiosk operator shall not
+19 engage in controllable electronic record kiosk transactions or hold
+20 itself out as being able to engage in such transactions with or on behalf
+21 of another person unless the kiosk operator has a license issued under
+22 the Nebraska Money Transmitters Act pursuant to section 8-2725.
+23 (2) A controllable electronic record kiosk operator shall report
+24 each controllable electronic record kiosk as an authorized delegate under
+25 the Nebraska Money Transmitters Act pursuant to section 8-2730.
+26 (3) In addition to the required reporting of authorized delegates
+27 pursuant to the Nebraska Money Transmitters Act section 8-2730, each
+28 controllable electronic record kiosk operator shall submit to the
+29 department within forty-five days after the end of each calendar quarter
+30 a list of all associated controllable electronic record addresses
+31 utilized by each controllable electronic record kiosk, on a form as
+-51-
+
+LB717 LB717
+2026 2026
+1 prescribed by the department.
+2 Sec. 25. Section 21-17,102, Revised Statutes Supplement, 2025, is
+3 amended to read:
+4 21-17,102 (1) Funds not used in loans to members may be invested:
+5 (a) In securities, obligations, or other instruments of or issued by
+6 or fully guaranteed as to principal and interest by the United States of
+7 America or any agency or instrumentality thereof or in any trust or
+8 trusts established for investing directly or collectively in the same;
+9 (b) In securities, obligations, or other instruments of any state of
+10 the United States, the District of Columbia, the Commonwealth of Puerto
+11 Rico, and the several territories organized by Congress or any political
+12 subdivision thereof;
+13 (c) In deposits, obligations, or other accounts of financial
+14 institutions organized under state or federal law;
+15 (d) In loans to or in share accounts of other credit unions or
+16 corporate central credit unions;
+17 (e) In obligations issued by banks for cooperatives, federal land
+18 banks, federal intermediate credit banks, federal home loan banks, the
+19 Federal Home Loan Bank Board, or any corporation designated in 31 U.S.C.
+20 9101 as a wholly owned government corporation; in obligations,
+21 participation certificates, or other instruments of or insured by or
+22 fully guaranteed as to principal and interest by the Federal National
+23 Mortgage Association or the Government National Mortgage Association; in
+24 mortgages, obligations, or other securities which are or ever have been
+25 sold by the Federal Home Loan Mortgage Corporation pursuant to section
+26 305 or section 306 of the Federal Home Loan Mortgage Corporation Act, 12
+27 U.S.C. 1454 et seq.; in obligations or other instruments or securities of
+28 the Student Loan Marketing Association; or in obligations, participation,
+29 securities, or other instruments of or issued by or fully guaranteed as
+30 to principal and interest by any other agency of the United States. A
+31 state credit union may issue and sell securities which are guaranteed
+-52-
+
+LB717 LB717
+2026 2026
+1 pursuant to section 306(g) of the National Housing Act, 12 U.S.C.
+2 1721(g);
+3 (f) In participation certificates evidencing a beneficial interest
+4 in obligations or in a right to receive interest and principal
+5 collections therefrom, which obligations have been subjected by one or
+6 more government agencies to a trust or trusts for which any executive
+7 department, agency, or instrumentality of the United States or
+8 administrator thereof has been named to act as trustee;
+9 (g) In share accounts or deposit accounts of any corporate central
+10 credit union in which such investments are specifically authorized by the
+11 board of directors of the credit union making the investment;
+12 (h) In the shares, stock, or other obligations of any other
+13 organization, not to exceed ten percent of the credit union's capital and
+14 not to exceed five percent of the credit union's capital in any one
+15 corporation's stock, bonds, or other obligations, unless otherwise
+16 approved by the director. Such authority shall not include the power to
+17 acquire control, directly or indirectly, of another financial
+18 institution, nor invest in shares, stocks, or obligations of any
+19 insurance company or trade association except as otherwise expressly
+20 provided for or approved by the director;
+21 (i) In the capital stock of the National Credit Union Administration
+22 Central Liquidity Facility;
+23 (j) In obligations of or issued by any state or political
+24 subdivision thereof, including any agency, corporation, or
+25 instrumentality of a state or political subdivision, except that no
+26 credit union may invest more than ten percent of its capital in the
+27 obligations of any one issuer, exclusive of general obligations of the
+28 issuer;
+29 (k) In securities issued pursuant to the Nebraska Business
+30 Development Corporation Act;
+31 (l) In participation loans with other credit unions, credit union
+-53-
+
+LB717 LB717
+2026 2026
+1 organizations, or other organizations; and
+2 (m) In insurance policies and other investment products to fund
+3 employee benefit plans for its employees, not to exceed fifteen percent
+4 of the net worth of a credit union from a single issuer or twenty-five
+5 percent of the net worth of a credit union in aggregate. Employee benefit
+6 plan has the same meaning as in 29 U.S.C. 1002(3), as such section
+7 existed on January 1, 2026 2025. If the employee benefits arrangement
+8 does not present a risk to the safety and soundness of the domestic
+9 credit union as determined by the director, the purchase of those
+10 investment products is not subject to the limitations of the Credit Union
+11 Act.
+12 (2) In addition to investments expressly permitted by the Credit
+13 Union Act, a credit union may make any other type of investment approved
+14 by the department by rule, regulation, or order.
+15 Sec. 26. Section 21-17,115, Revised Statutes Supplement, 2025, is
+16 amended to read:
+17 21-17,115 Notwithstanding any of the other provisions of the Credit
+18 Union Act or any other Nebraska statute, any credit union incorporated
+19 under the laws of the State of Nebraska and organized under the
+20 provisions of the act shall have all the rights, powers, privileges,
+21 benefits, and immunities which may be exercised as of January 1, 2026
+22 2025, by a federal credit union doing business in Nebraska on the
+23 condition that such rights, powers, privileges, benefits, and immunities
+24 shall not relieve such credit union from payment of state taxes assessed
+25 under any applicable laws of this state.
+26 Sec. 27. Section 45-101.04, Revised Statutes Supplement, 2025, is
+27 amended to read:
+28 45-101.04 The limitation on the rate of interest provided in section
+29 45-101.03 shall not apply to:
+30 (1) Other rates of interest authorized for loans made by any
+31 licensee or permittee operating under a license or permit duly issued by
+-54-
+
+LB717 LB717
+2026 2026
+1 the Department of Banking and Finance pursuant to the Credit Union Act,
+2 the Nebraska Installment Loan and Sales Act, subsection (4) of section
+3 8-319, or sections 8-815 to 8-829;
+4 (2) Loans made to any corporation, partnership, limited liability
+5 company, or trust;
+6 (3) The guarantor or surety of any loan to a corporation,
+7 partnership, limited liability company, or trust;
+8 (4) Loans made when the aggregate principal amount of the
+9 indebtedness is one hundred twenty-five thousand dollars or more of the
+10 borrower to any one financial institution, licensee, or permittee;
+11 (5) Loans insured, guaranteed, sponsored, or participated in, either
+12 in whole or part, by any agency, department, or program of the United
+13 States or state government;
+14 (6) Loans or advances of money, repayable on demand, which are made
+15 solely upon securities, as defined in subdivision (14) of section 8-1101,
+16 pledged as collateral for such repayment and in which such loans or
+17 advances are used by the borrower only for the purchase of securities as
+18 so defined. It shall be lawful to contract for and receive any rate of
+19 interest on such transaction as the parties thereto may expressly agree;
+20 (7) Interest charges made on open credit accounts by a person who
+21 sells goods or services on credit when the interest charges do not exceed
+22 one and one-third percent per month for any charges which remain unpaid
+23 for more than thirty days following rendition of the statement of
+24 account;
+25 (8) A minimum charge of ten dollars per loan which may be charged by
+26 the lender in lieu of all interest charges;
+27 (9) Loans described in subsection (4) of section 8-319 made by a
+28 state or federal savings and loan association at a rate not to exceed
+29 nineteen percent per annum;
+30 (10) Loans made primarily for business or agricultural purposes or
+31 secured by real property when such loans are made (a) by a licensee,
+-55-
+
+LB717 LB717
+2026 2026
+1 registrant, or permittee operating under a license, registration, or
+2 permit duly issued by the Department of Banking and Finance except for
+3 licensees operating under the Nebraska Installment Loan and Sales Act,
+4 (b) by any financial institution insured by the Federal Deposit Insurance
+5 Corporation or the National Credit Union Administration, or (c) by any
+6 insurance company organized under the laws of this state and subject to
+7 regulation by the Department of Insurance;
+8 (11) Loans secured solely by real property when such loans are (a)
+9 made by licensees operating under the Nebraska Installment Loan and Sales
+10 Act and (b) made to finance or refinance the purchase of the property or
+11 construction on or improvements to the property, if the Department of
+12 Banking and Finance has the authority to examine such loans for
+13 compliance with sections 45-101.02 and 45-101.03. A licensee making a
+14 loan pursuant to this subdivision may obtain an interest in any fixtures
+15 attached to such real property and any insurance proceeds payable in
+16 connection with such real property or the loan;
+17 (12) Loans secured by a reverse mortgage pursuant to section
+18 45-702.01;
+19 (13) Interest charges made on any goods or services sold under an
+20 installment contract pursuant to the Nebraska Installment Loan and Sales
+21 Act. Subject to section 45-365, it shall be lawful to contract for and
+22 receive any rate of interest on such contract as the parties may
+23 expressly agree to in writing; or
+24 (14) Fees which may be charged by a licensee for services pursuant
+25 to the Delayed Deposit Services Licensing Act.
+26 Sec. 28. Section 45-335, Revised Statutes Supplement, 2025, is
+27 amended to read:
+28 45-335 For purposes of the Nebraska Installment Loan and Sales Act,
+29 unless the context otherwise requires:
+30 (1) Applicant means a person applying for a license under the
+31 Nebraska Installment Loan and Sales Act;
+-56-
+
+LB717 LB717
+2026 2026
+1 (2) Basic time price means the cash sale price of the goods or
+2 services which are the subject matter of an installment sales contract
+3 plus the amount included therein, if a separate identified charge is made
+4 therefor and stated in the contract, for insurance, registration,
+5 certificate of title, debt cancellation contract, debt suspension
+6 contract, electronic title and lien services, guaranteed asset protection
+7 waiver, and license fees, filing fees, an origination fee, and fees and
+8 charges prescribed by law which actually are or will be paid to public
+9 officials for determining the existence of or for perfecting, releasing,
+10 or satisfying any security related to the credit transaction or any
+11 charge for nonfiling insurance if such charge does not exceed the amount
+12 of fees and charges prescribed by law which would have been paid to
+13 public officials for filing, perfecting, releasing, and satisfying any
+14 security related to the credit transaction and less the amount of the
+15 buyer's downpayment in money or goods or both;
+16 (3) Branch office means any location, other than the main office
+17 location, at which the business of a licensee is to be conducted,
+18 including:
+19 (a) Any offices physically located in Nebraska; and
+20 (b) Any offices that, while not physically located in this state,
+21 intend to transact business with Nebraska residents;
+22 (4) Breach of security of the system means unauthorized acquisition
+23 of data that compromises the security, confidentiality, or integrity of
+24 information;
+25 (5) Buyer means a person who buys goods or obtains services from a
+26 seller in an installment sale;
+27 (6) Cash price or cash sale price means the price stated in an
+28 installment sales contract for which the seller would have sold or
+29 furnished to the buyer and the buyer would have bought or acquired from
+30 the seller goods or services which are the subject matter of the contract
+31 if such sale had been a sale for cash instead of an installment sale. It
+-57-
+
+LB717 LB717
+2026 2026
+1 may include the cash price of accessories or services related to the sale
+2 such as delivery, installation, alterations, modifications, and
+3 improvements and may include taxes to the extent imposed on the cash
+4 sale;
+5 (7) Consumer means an individual who is a resident of Nebraska and
+6 who seeks to obtain, obtains, or has obtained financial products or
+7 services that are to be used primarily for personal, family, or household
+8 purposes;
+9 (8)(a) Control in the case of a corporation means (i) direct or
+10 indirect ownership of or the right to control twenty-five percent or more
+11 of the voting shares of the corporation or (ii) the ability of a person
+12 or group acting in concert to elect a majority of the directors or
+13 otherwise effect a change in policy.
+14 (b) Control in the case of any other entity means (i) the power,
+15 directly or indirectly, to direct the management or policies of the
+16 entity, (ii) the contribution of twenty-five percent or more of the
+17 capital of the entity, or (iii) the right to receive, upon dissolution,
+18 twenty-five percent or more of the capital of the entity;
+19 (9) Debt cancellation contract means a loan term or contractual
+20 arrangement modifying loan terms under which a financial institution or
+21 licensee agrees to cancel all or part of a buyer's obligation to repay an
+22 extension of credit from the financial institution or licensee upon the
+23 occurrence of a specified event. The debt cancellation contract may be
+24 separate from or a part of other loan documents. The term debt
+25 cancellation contract does not include loan payment deferral arrangements
+26 in which the triggering event is the buyer's unilateral election to defer
+27 repayment or the financial institution's or licensee's unilateral
+28 decision to allow a deferral of repayment;
+29 (10) Debt suspension contract means a loan term or contractual
+30 arrangement modifying loan terms under which a financial institution or
+31 licensee agrees to suspend all or part of a buyer's obligation to repay
+-58-
+
+LB717 LB717
+2026 2026
+1 an extension of credit from the financial institution or licensee upon
+2 the occurrence of a specified event. The debt suspension contract may be
+3 separate from or a part of other loan documents. The term debt suspension
+4 contract does not include loan payment deferral arrangements in which the
+5 triggering event is the buyer's unilateral election to defer repayment or
+6 the financial institution's or licensee's unilateral decision to allow a
+7 deferral of repayment;
+8 (11) Department means the Department of Banking and Finance;
+9 (12) Director means the Director of Banking and Finance;
+10 (13) Financial institution has the same meaning as in section
+11 8-101.03;
+12 (14) Goods means all personal property, except money or things in
+13 action, and includes goods which, at the time of sale or subsequently,
+14 are so affixed to realty as to become part thereof whether or not
+15 severable therefrom;
+16 (15) Guaranteed asset protection waiver means a waiver that is
+17 offered, sold, or provided in accordance with the Guaranteed Asset
+18 Protection Waiver Act;
+19 (16) Installment sale means any transaction, whether or not
+20 involving the creation or retention of a security interest, in which a
+21 buyer acquires goods or services from a seller pursuant to an agreement
+22 which provides for a time-price differential and under which the buyer
+23 agrees to pay all or part of the time-sale price in one or more
+24 installments and within one hundred forty-five months, except that the
+25 purchase of mobile homes may exceed such one-hundred-forty-five-month
+26 limitation. Installment sale does not include a consumer rental purchase
+27 agreement defined in and regulated by the Consumer Rental Purchase
+28 Agreement Act;
+29 (17) Installment sales contract means an agreement entered into in
+30 this state evidencing an installment sale except those otherwise provided
+31 for in separate acts;
+-59-
+
+LB717 LB717
+2026 2026
+1 (18) Licensee means any person who obtains a license under the
+2 Nebraska Installment Loan and Sales Act;
+3 (19) Loan or installment loan means a loan or any extension of
+4 credit to a consumer originated or made with an interest rate greater
+5 than the maximum interest rate allowed under section 45-101.03 and , a
+6 minimum loan term of six months , and a principal balance of less than
+7 twenty-five thousand dollars;
+8 (20) Mortgage loan originator has the same meaning as in section
+9 45-702;
+10 (21) Nationwide Mortgage Licensing System and Registry means a
+11 licensing system, also known as the Nationwide Multistate Licensing
+12 System and Registry, developed and maintained by the Conference of State
+13 Bank Supervisors and the American Association of Residential Mortgage
+14 Regulators for the licensing and registration of mortgage loan
+15 originators, mortgage bankers, installment loan companies, and other
+16 state-regulated financial services entities and industries;
+17 (22) Person means individual, partnership, limited liability
+18 company, association, financial institution, trust, corporation, or any
+19 other legal entity;
+20 (23) Real property means an owner-occupied single-family, two-
+21 family, three-family, or four-family dwelling which is located in this
+22 state, which is occupied, used, or intended to be occupied or used for
+23 residential purposes, and which is, or is intended to be, permanently
+24 affixed to the land;
+25 (24) Sales finance company means a person purchasing one or more
+26 installment sales contracts from one or more sellers or acquiring any
+27 rights of ownership, servicing, or other forms of participation in or
+28 otherwise engaging with a consumer on behalf of the purchaser of one or
+29 more installment sales contracts from one or more sellers. Sales finance
+30 company includes, but is not limited to, a financial institution or
+31 installment loan licensee, if so engaged;
+-60-
+
+LB717 LB717
+2026 2026
+1 (25) Seller means a person who sells goods or furnishes services to
+2 a buyer under an installment sale;
+3 (26) Services means work, labor, and services of any kind performed
+4 in conjunction with an installment sale but does not include services for
+5 which the prices charged are required by law to be established and
+6 regulated by the government of the United States or any state;
+7 (27) Time-price differential, however denominated or expressed,
+8 means the amount, as limited in the Nebraska Installment Loan and Sales
+9 Act, to be added to the basic time price; and
+10 (28) Time-sale price means the total of the basic time price of the
+11 goods or services, the amount of the buyer's downpayment in money or
+12 goods or both, and the time-price differential.
+13 Sec. 29. Section 45-345, Revised Statutes Supplement, 2025, is
+14 amended to read:
+15 45-345 (1) A licensee shall notify the director through the
+16 Nationwide Mortgage Licensing System and Registry at least thirty days
+17 prior to the occurrence of any change of the licensee's name, trade name,
+18 or doing business as designation.
+19 (2)(a) Except as provided in subdivisions (b) and (c) of this
+20 subsection, a licensee shall notify the director in writing or through
+21 the Nationwide Mortgage Licensing System and Registry within three
+22 business days from the time that the licensee becomes aware of any breach
+23 of the security of the system of computerized data owned or licensed by
+24 the licensee, which contains personal information about a Nebraska
+25 resident, or the unauthorized access to or use of such information about
+26 a Nebraska resident as a result of the breach.
+27 (b) If a licensee would be required under Nebraska law to provide
+28 notification to a Nebraska resident regarding such incident, then the
+29 licensee shall provide a copy of such notification to the department
+30 prior to or simultaneously with the licensee's notification to the
+31 Nebraska resident.
+-61-
+
+LB717 LB717
+2026 2026
+1 (c) Notice required by this subsection may be delayed if a law
+2 enforcement agency determines that the notice will impede a criminal
+3 investigation. Notice shall be made in good faith, without unreasonable
+4 delay, and as soon as possible after the law enforcement agency
+5 determines that notification will no longer impede the investigation.
+6 (d) For purposes of this subsection, the terms breach of the
+7 security of the system and personal information have the same meaning as
+8 in section 87-802.
+9 (3) A licensee shall maintain the minimum net worth required by
+10 section 45-337 while a license issued to the licensee under the Nebraska
+11 Installment Loan and Sales Act is in effect. The minimum net worth shall
+12 be proven by an annual audit conducted by a certified public accountant.
+13 A licensee shall submit a copy of the annual audit to the director as
+14 required by section 45-337 or upon written request of the director. If a
+15 licensee fails to maintain the required minimum net worth, the department
+16 may issue a notice of cancellation of the license in lieu of revocation
+17 proceedings.
+18 (4)(a) Every licensee shall, at the time any loan is made, give to
+19 the borrower, or if there are two or more borrowers, to one of the
+20 borrowers, a statement in the English language disclosing in clear and
+21 distinct terms the information required to be disclosed under the federal
+22 Consumer Credit Protection Act.
+23 (b) The licensee shall also give to the borrower a copy of any
+24 writing evidencing a loan if the writing requires or provides for the
+25 signature of the borrower. The writing evidencing the borrower's
+26 obligation to pay a loan shall contain a clear and conspicuous notice in
+27 form and content substantially as follows:
+28 NOTICE TO CONSUMER: 1. Do not sign this paper before you read it. 2.
+29 You are entitled to a copy of this paper. 3. You may prepay the unpaid
+30 balance at any time without penalty and may be entitled to receive a
+31 refund of unearned charges in accordance with law.
+-62-
+
+LB717 LB717
+2026 2026
+1 (5)(a) Every licensee shall disclose to the borrower, in connection
+2 with any refinance of an existing installment loan, whether or not the
+3 borrower will receive a net tangible benefit through such refinance. Such
+4 disclosure shall be on a worksheet prescribed by the director or on a
+5 form prescribed by the director substantially similar to such worksheet.
+6 (b) For purposes of this subsection, net tangible benefit means a
+7 benefit of a refinance that will be in the financial interests of the
+8 borrower. Net tangible benefit includes, but is not limited to:
+9 (i) Obtaining a lower interest rate;
+10 (ii) Obtaining a lower monthly payment, including principal,
+11 interest, taxes, and insurance;
+12 (iii) Obtaining a shorter amortization schedule;
+13 (iv) Changing from an adjustable interest rate to a fixed interest
+14 rate;
+15 (v) Eliminating a negative amortization feature;
+16 (vi) Eliminating a balloon payment feature;
+17 (vii) Receiving cash out from the new loan in an amount greater than
+18 all closing costs incurred in connection with such loan;
+19 (viii) Avoiding foreclosure;
+20 (ix) Eliminating private insurance; and
+21 (x) Consolidating other existing loans into a new loan.
+22 (6) (5) All licensees under the Nebraska Installment Loan and Sales
+23 Act shall, on or before March 1 of each year, file with the department a
+24 report of the licensee's earnings and operations for the preceding
+25 calendar year, the licensee's assets at the end of the year, and any
+26 other relevant information as the department may reasonably require. The
+27 report shall be made under oath and shall be in the form and manner
+28 prescribed by the department.
+29 (7) (6) All installment loan licensees shall submit a mortgage
+30 report of condition as required by section 45-726 on or before a date or
+31 dates established by rule, regulation, or order of the director.
+-63-
+
+LB717 LB717
+2026 2026
+1 (8) (7) Upon written request of a borrower, the licensee shall
+2 provide a written statement of the dates and amounts of payments made and
+3 the amounts of any default and deferment charges assessed preceding the
+4 month in which the request is received and the total amount unpaid as of
+5 the end of the period covered by the statement and a copy of the loan
+6 agreement and security agreement, and a facsimile of any insurance
+7 certificate issued as part of the transaction, if applicable. The
+8 licensee may charge a reasonable fee for such copies, not to exceed fifty
+9 cents per page.
+10 (9) (8) A licensee shall answer in writing, within ten business days
+11 after receipt, any written request for payoff information from a borrower
+12 or a borrower's representative. This service shall be provided without
+13 charge to the borrower, except that when such information is provided
+14 upon request within sixty days after the fulfillment of a previous
+15 request, a processing fee of up to ten dollars may be charged for the
+16 subsequent request.
+17 Sec. 30. Section 45-349, Revised Statutes Supplement, 2025, is
+18 amended to read:
+19 45-349 (1) Except as provided in section 45-350 and subsection (6)
+20 of this section, every installment loan licensee may make loans and may
+21 contract for and receive on such loans charges at a rate not exceeding
+22 twenty-four percent per annum on that part of the unpaid principal
+23 balance on any loan not in excess of one thousand dollars, and twenty-one
+24 percent per annum on any remainder of such unpaid principal balance.
+25 Except for loans secured by mobile homes, an installment loan licensee
+26 may not make loans for a period in excess of one hundred forty-five
+27 months if the amount of the loan is greater than three thousand dollars
+28 but less than twenty-five thousand dollars. Unless otherwise allowed for
+29 by law, charges on loans made under the Nebraska Installment Loan and
+30 Sales Act shall not be paid, deducted, or received in advance. The
+31 contracting for, charging of, or receiving of charges as provided for in
+-64-
+
+LB717 LB717
+2026 2026
+1 subsection (2) of this section shall not be deemed to be the payment,
+2 deduction, or receipt of such charges in advance.
+3 (2) When the loan contract requires repayment in substantially equal
+4 and consecutive monthly installments of principal and charges combined,
+5 the installment loan licensee may, at the time the loan is made,
+6 precompute the charges at the agreed rate on scheduled unpaid principal
+7 balances according to the terms of the contract and add such charges to
+8 the principal of the loan. Every payment may be applied to the combined
+9 total of principal and precomputed charges until the contract is fully
+10 paid. All payments made on account of any loan except for default and
+11 deferment charges shall be deemed to be applied to the unpaid
+12 installments in the order in which the unpaid installments are due. The
+13 portion of the precomputed charges applicable to any particular month of
+14 the contract, as originally scheduled or following a deferment, shall be
+15 that proportion of such precomputed charges, excluding any adjustment
+16 made for a first installment period of more than one month and any
+17 adjustment made for deferment, which the balance of the contract
+18 scheduled to be outstanding during such month bears to the sum of all
+19 monthly balances originally scheduled to be outstanding by the contract.
+20 This section shall not limit or restrict the manner of calculating
+21 charges, whether by way of add-on, single annual rate, or otherwise, if
+22 the rate of charges does not exceed what is permitted by this section.
+23 Charges may be contracted for and earned at a single annual rate, except
+24 that the total charges from such rate shall not be greater than the total
+25 charges from the several rates otherwise applicable to the different
+26 portions of the unpaid balance according to subsection (1) of this
+27 section. All loan contracts made pursuant to this subsection are subject
+28 to the following adjustments:
+29 (a) Notwithstanding the requirement for substantially equal and
+30 consecutive monthly installments, the first installment period may not
+31 exceed one month by more than twenty-one days and may not fall short of
+-65-
+
+LB717 LB717
+2026 2026
+1 one month by more than eleven days. The charges for each day exceeding
+2 one month shall be one-thirtieth of the charges which would be applicable
+3 to a first installment period of one month. The charge for extra days in
+4 the first installment period may be added to the first installment and
+5 such charges for such extra days shall be excluded in computing any
+6 rebate;
+7 (b) If prepayment in full by cash, a new loan, or otherwise occurs
+8 before the first installment due date, the charges shall be recomputed at
+9 the rate of charges contracted for in accordance with this section upon
+10 the actual unpaid principal balance of the loan for the actual time
+11 outstanding by applying the payment, or payments, first to charges at the
+12 agreed rate and the remainder to the principal. The amount of charges so
+13 computed shall be retained in lieu of all precomputed charges;
+14 (c) If a contract is prepaid in full by cash, a new loan, or
+15 otherwise after the first installment due date, the borrower shall
+16 receive a rebate of an amount which is not less than the amount obtained
+17 by applying to the unpaid principal balances as originally scheduled or,
+18 if deferred, as deferred, for the period following prepayment, according
+19 to the actuarial method, the rate of charge contracted for in accordance
+20 with this section. The licensee may round the rate of charge to the
+21 nearest one-half of one percent if such procedure is not consistently
+22 used to obtain a greater yield than would otherwise be permitted. Any
+23 default and deferment charges which are due and unpaid may be deducted
+24 from any rebate. No rebate shall be required for any partial prepayment.
+25 No rebate of less than one dollar need be made. Acceleration of the
+26 maturity of the contract shall not in itself require a rebate. If
+27 judgment is obtained before the final installment date, the contract
+28 balance shall be reduced by the rebate which would be required for
+29 prepayment in full as of the date judgment is obtained;
+30 (d) If any installment on a precomputed or interest-bearing loan is
+31 unpaid in full for ten or more consecutive days, Sundays and holidays
+-66-
+
+LB717 LB717
+2026 2026
+1 included, after it is due, the licensee may charge and collect a default
+2 charge not exceeding an amount equal to five percent of such installment.
+3 If any installment payment is made by a check, draft, or similar signed
+4 order which is not honored because of insufficient funds, no account, or
+5 any other reason except an error of a third party to the loan contract,
+6 the licensee may charge and collect a fifteen-dollar bad check charge.
+7 Such default or bad check charges may be collected when due or at any
+8 time thereafter;
+9 (e) If, as of an installment due date, the payment date of all
+10 wholly unpaid installments is deferred one or more full months and the
+11 maturity of the contract is extended for a corresponding period, the
+12 licensee may charge and collect a deferment charge not exceeding the
+13 charge applicable to the first of the installments deferred, multiplied
+14 by the number of months in the deferment period. The deferment period is
+15 that period during which no payment is made or required by reason of such
+16 deferment. The deferment charge may be collected at the time of deferment
+17 or at any time thereafter. The portion of the precomputed charges
+18 applicable to each deferred balance and installment period following the
+19 deferment period shall remain the same as that applicable to such balance
+20 and periods under the original loan contract. No installment on which a
+21 default charge has been collected, or on account of which any partial
+22 payment has been made, shall be deferred or included in the computation
+23 of the deferment charge unless such default charge or partial payment is
+24 refunded to the borrower or credited to the deferment charge. Any payment
+25 received at the time of deferment may be applied first to the deferment
+26 charge and the remainder, if any, applied to the unpaid balance of the
+27 contract, except that if such payment is sufficient to pay, in addition
+28 to the appropriate deferment charge, any installment which is in default
+29 and the applicable default charge, it shall be first so applied and any
+30 such installment shall not be deferred or subject to the deferment
+31 charge. If a loan is prepaid in full during the deferment period, the
+-67-
+
+LB717 LB717
+2026 2026
+1 borrower shall receive, in addition to the required rebate, a rebate of
+2 that portion of the deferment charge applicable to any unexpired full
+3 month or months of such deferment period; and
+4 (f) If two or more full installments are in default for one full
+5 month or more at any installment date and if the contract so provides,
+6 the installment loan licensee may reduce the contract balance by the
+7 rebate which would be required for prepayment in full as of such
+8 installment date and the amount remaining unpaid shall be deemed to be
+9 the unpaid principal balance and thereafter in lieu of charging,
+10 collecting, receiving, and applying charges as provided in this
+11 subsection, charges may be charged, collected, received, and applied at
+12 the agreed rate as otherwise provided by this section until the loan is
+13 fully paid.
+14 (3) The charges, as referred to in subsection (1) of this section,
+15 shall not be compounded. The charging, collecting, and receiving of
+16 charges as provided in subsection (2) of this section shall not be deemed
+17 compounding. If part or all of the consideration for a loan contract is
+18 the unpaid principal balance of a prior loan, then the principal amount
+19 payable under such loan contract may include any unpaid charges on the
+20 prior loan which have accrued within sixty days before the making of such
+21 loan contract and may include the balance remaining after giving the
+22 rebate required by subsection (2) of this section. Except as provided in
+23 subsection (2) of this section, charges shall (a) be computed and paid
+24 only as a percentage per month of the unpaid principal balance or
+25 portions thereof and (b) be computed on the basis of the number of days
+26 actually elapsed. For purposes of computing charges, whether at the
+27 maximum rate or less, a month shall be that period of time from any date
+28 in a month to the corresponding date in the next month but if there is no
+29 such corresponding date then to the last day of the next month, and a day
+30 shall be considered one-thirtieth of a month when computation is made for
+31 a fraction of a month.
+-68-
+
+LB717 LB717
+2026 2026
+1 (4) Except as provided in subsections (5) and (6) of this section,
+2 in addition to that provided for under the Nebraska Installment Loan and
+3 Sales Act, no further or other amount whatsoever shall be directly or
+4 indirectly charged, contracted for, or received. If any amount, in excess
+5 of the charges permitted, is charged, contracted for, or received, the
+6 loan contract shall not on that account be void, but the installment loan
+7 licensee shall have no right to collect or receive any interest or other
+8 charges whatsoever. If such interest or other charges have been collected
+9 or contracted for, the licensee shall refund to the borrower all interest
+10 and other charges collected and shall not collect any interest or other
+11 charges contracted for and thereafter due on the loan involved, as
+12 liquidated damages, and the installment loan licensee or its assignee, if
+13 found liable, shall pay the costs of any action relating thereto,
+14 including reasonable attorney's fees. No installment loan licensee shall
+15 be found liable under this subsection if it shows by a preponderance of
+16 the evidence that the violation was not intentional and resulted from a
+17 bona fide error notwithstanding the maintenance of procedures reasonably
+18 adopted to avoid any such error.
+19 (5) A borrower may be required to pay all reasonable expenses
+20 incurred in connection with the making, closing, disbursing, extending,
+21 readjusting, or renewing of loans. Such expenses may include abstracting,
+22 recording, releasing, and registration fees; premiums paid for nonfiling
+23 insurance; premiums paid on insurance policies covering tangible personal
+24 property securing the loan; amounts charged for a debt cancellation
+25 contract or a debt suspension contract, as agreed upon by the parties, if
+26 the debt cancellation contract or debt suspension contract is a contract
+27 of a financial institution or installment loan licensee and such contract
+28 is sold directly by such financial institution or licensee or by an
+29 unaffiliated, nonexclusive agent of such financial institution or
+30 licensee in accordance with 12 C.F.R. part 37, as such part existed on
+31 January 1, 2026 2025, and the financial institution or installment loan
+-69-
+
+LB717 LB717
+2026 2026
+1 licensee is responsible for the unaffiliated, nonexclusive agent's
+2 compliance with such part; title examinations; credit reports; survey;
+3 taxes or charges imposed upon or in connection with the making and
+4 recording or releasing of any mortgage; amounts charged for a guaranteed
+5 asset protection waiver; and fees and expenses charged for electronic
+6 title and lien services. Except as provided in subsection (6) of this
+7 section, a borrower may also be required to pay a nonrefundable loan
+8 origination fee not to exceed the lesser of five hundred dollars or an
+9 amount equal to seven percent of that part of the original principal
+10 balance of any loan not in excess of two thousand dollars and five
+11 percent on that part of the original principal balance in excess of two
+12 thousand dollars, if the installment loan licensee has not made another
+13 loan to the borrower within the previous twelve months. If the licensee
+14 has made another loan to the borrower within the previous twelve months,
+15 a nonrefundable loan origination fee may only be charged on new funds
+16 advanced on each successive loan. Such reasonable initial charges may be
+17 collected from the borrower or included in the principal balance of the
+18 loan at the time the loan is made and shall not be considered interest or
+19 a charge for the use of the money loaned.
+20 (6)(a) Loans secured solely by real property that are not made
+21 pursuant to subdivision (11) of section 45-101.04 on real property shall
+22 not be subject to the limitations on the rate of interest provided in
+23 subsection (1) of this section or the limitations on the nonrefundable
+24 loan origination fee under subsection (5) of this section if (i) the
+25 principal amount of the loan is seven thousand five hundred dollars or
+26 more and (ii) the sum of the principal amount of the loan and the
+27 balances of all other liens against the property do not exceed one
+28 hundred percent of the appraised value of the property. Acceptable
+29 methods of determining appraised value shall be made by the department
+30 pursuant to rule, regulation, or order.
+31 (b) An origination fee on such loan shall be computed only on the
+-70-
+
+LB717 LB717
+2026 2026
+1 principal amount of the loan reduced by any portion of the principal that
+2 consists of the amount required to pay off another loan made under this
+3 subsection by the same licensee.
+4 (c) A prepayment penalty on such loan shall be permitted only if (i)
+5 the maximum amount of the penalty to be assessed is stated in writing at
+6 the time the loan is made, (ii) the loan is prepaid in full within two
+7 years from the date of the loan, and (iii) the loan is prepaid with money
+8 other than the proceeds of another loan made by the same licensee. Such
+9 prepayment penalty shall not exceed six months' interest on eighty
+10 percent of the original principal balance computed at the agreed rate of
+11 interest on the loan.
+12 (d) An installment loan licensee making a loan pursuant to this
+13 subsection may obtain an interest in any fixtures attached to such real
+14 property and any insurance proceeds payable in connection with such real
+15 property or the loan.
+16 (e) For purposes of this subsection, principal amount of the loan
+17 means the total sum owed by the borrower including, but not limited to,
+18 insurance premiums, loan origination fees, or any other amount that is
+19 financed, except that for purposes of subdivision (6)(b) of this section,
+20 loan origination fees shall not be included in calculating the principal
+21 amount of the loan.
+22 Sec. 31. Section 45-364, Revised Statutes Supplement, 2025, is
+23 amended to read:
+24 45-364 (1) Each retail installment sales contract shall be in
+25 writing, shall be signed by both the buyer and the seller, and shall
+26 contain the following items, and a copy thereof shall be delivered to the
+27 buyer at the time the instrument is signed, except for contracts made in
+28 conformance with subdivision (5)(c) of section 45-336:
+29 (a) The cash sale price;
+30 (b) The amount of the buyer's downpayment, and whether made in money
+31 or goods, or partly in money and partly in goods, including a brief
+-71-
+
+LB717 LB717
+2026 2026
+1 description of any goods traded in;
+2 (c) The difference between subdivisions (a) and (b) of this
+3 subsection;
+4 (d) The amount included for insurance if a separate charge is made
+5 therefor, specifying the types of coverages;
+6 (e) The amount included for a debt cancellation contract or a debt
+7 suspension contract if the debt cancellation contract or debt suspension
+8 contract is a contract of a financial institution or licensee, such
+9 contract is sold directly by such financial institution or licensee or by
+10 an unaffiliated, nonexclusive agent of such financial institution or
+11 licensee in accordance with 12 C.F.R. part 37, as such part existed on
+12 January 1, 2026 2025, and the financial institution or licensee is
+13 responsible for the unaffiliated, nonexclusive agent's compliance with
+14 such part, and a separate charge is made therefor;
+15 (f) The amount included for electronic title and lien services other
+16 than fees and charges prescribed by law which actually are or will be
+17 paid to public officials for determining the existence of or for
+18 perfecting, releasing, or satisfying any security related to the credit
+19 transaction;
+20 (g) The basic time price, which is the sum of subdivisions (c), (d),
+21 (e), and (f) of this subsection;
+22 (h) The time-price differential;
+23 (i) The amount of the time-price balance, which is the sum of
+24 subdivisions (g) and (h) of this subsection, payable in installments by
+25 the buyer to the seller;
+26 (j) The number, amount, and due date or period of each installment;
+27 (k) The time-sales price; and
+28 (l) The amount included for a guaranteed asset protection waiver.
+29 (2) The contract shall contain substantially the following notice:
+30 NOTICE TO THE BUYER. DO NOT SIGN THIS CONTRACT BEFORE YOU READ IT OR IF
+31 IT CONTAINS BLANK SPACES. YOU ARE ENTITLED TO A COPY OF THE CONTRACT YOU
+-72-
+
+LB717 LB717
+2026 2026
+1 SIGN.
+2 (3) The items listed in subsection (1) of this section need not be
+3 stated in the sequence or order set forth in such subsection. Additional
+4 items may be included to explain the computations made in determining the
+5 amount to be paid by the buyer. No installment sales contract shall be
+6 signed by the buyer or proffered by the seller when it contains blank
+7 spaces to be filled in after execution, except that if delivery of the
+8 goods or services is not made at the time of the execution of the
+9 contract, the identifying numbers or marks of the goods, or similar
+10 information, and the due date of the first installment may be inserted in
+11 the contract after its execution.
+12 (4) If a seller proffers an installment sales contract as part of a
+13 transaction which delays or cancels, or promises to delay or cancel, the
+14 payment of the time-price differential on the contract if the buyer pays
+15 the basic time price, cash price, or cash sale price within a certain
+16 period of time, the seller shall, in clear and conspicuous writing,
+17 either within the installment sales contract or in a separate document,
+18 inform the buyer of the exact date by which the buyer must pay the basic
+19 time price, cash price, or cash sale price in order to delay or cancel
+20 the payment of the time-price differential. The seller or any subsequent
+21 purchaser of the installment sales contract, including a sales finance
+22 company, shall not be allowed to change such date.
+23 (5) Upon written request from the buyer, the holder of an
+24 installment sales contract shall give or forward to the buyer a written
+25 statement of the dates and amounts of payments and the total amount
+26 unpaid under such contract. A buyer shall be given a written receipt for
+27 any payment when made in cash.
+28 (6) After payment of all sums for which the buyer is obligated under
+29 a contract, the holder shall deliver or mail to the buyer at his or her
+30 last-known address one or more good and sufficient instruments or copies
+31 thereof to acknowledge payment in full and shall release all security in
+-73-
+
+LB717 LB717
+2026 2026
+1 the goods and mark canceled and return to the buyer the original
+2 agreement or copy thereof or instruments or copies thereof signed by the
+3 buyer. For purposes of this section, a copy shall meet the requirements
+4 of section 25-12,112.
+5 Sec. 32. Section 45-735, Revised Statutes Cumulative Supplement,
+6 2024, is amended to read:
+7 45-735 (1) A mortgage loan originator shall be an employee or
+8 independent agent of a single Nebraska licensed mortgage banker,
+9 registrant, or installment loan company that shall directly supervise,
+10 control, and maintain responsibility for the acts and omissions of the
+11 mortgage loan originator.
+12 (2)(a) A mortgage loan originator shall not engage in mortgage loan
+13 origination activities at any location that is not a main office location
+14 of a licensed mortgage banker, registrant, or installment loan company or
+15 a branch office of a licensed mortgage banker or registrant. The licensed
+16 mortgage banker, registrant, or installment loan company shall designate
+17 the location or locations at which each mortgage loan originator is
+18 originating residential mortgage loans.
+19 (b) The department may adopt and promulgate rules, regulations, and
+20 orders to authorize and regulate the use of remote work arrangements
+21 conducted outside of a main office location or branch office by employees
+22 or agents, including mortgage loan originators, of licensed mortgage
+23 bankers, registrants, or installment loan companies.
+24 (3) Any licensed mortgage banker, registrant, or installment loan
+25 company who engages an independent agent as a mortgage loan originator
+26 shall maintain a written agency contract with such mortgage loan
+27 originator. Such written agency contract shall provide that the mortgage
+28 loan originator is originating loans exclusively for the licensed
+29 mortgage banker, registrant, or installment loan company.
+30 (4) A licensed mortgage banker, registrant, or installment loan
+31 company that has hired a licensed mortgage loan originator as an employee
+-74-
+
+LB717 LB717
+2026 2026
+1 or entered into an independent agent agreement with such licensed
+2 mortgage loan originator shall provide notification to the department as
+3 soon as reasonably possible after entering into such relationship, along
+4 with a fee of fifty dollars. The employing entity shall not allow the
+5 mortgage loan originator to conduct such activity in this state prior to
+6 such notification to the department and confirmation that the department
+7 has received notice of the termination of the mortgage loan originator's
+8 prior employment.
+9 (5) A licensed mortgage banker, registrant, or installment loan
+10 company shall notify the department no later than ten days after the
+11 termination, whether voluntary or involuntary, of a mortgage loan
+12 originator unless the mortgage loan originator has previously notified
+13 the department of the termination.
+14 Sec. 33. Section 45-737, Revised Statutes Cumulative Supplement,
+15 2024, is amended to read:
+16 45-737 A licensee licensed as a mortgage banker shall:
+17 (1) Disburse required funds paid by the borrower and held in escrow
+18 for the payment of insurance payments no later than the date upon which
+19 the premium is due under the insurance policy;
+20 (2) Disburse funds paid by the borrower and held in escrow for the
+21 payment of real estate taxes prior to the time such real estate taxes
+22 become delinquent;
+23 (3) Pay any penalty incurred by the borrower because of the failure
+24 of the licensee to make the payments required in subdivisions (1) and (2)
+25 of this section unless the licensee establishes that the failure to
+26 timely make the payments was due solely to the fact that the borrower was
+27 sent a written notice of the amount due more than fifteen calendar days
+28 before the due date to the borrower's last-known address and failed to
+29 timely remit the amount due to the licensee;
+30 (4) At least annually perform a complete escrow analysis. If there
+31 is a change in the amount of the periodic payments, the licensee shall
+-75-
+
+LB717 LB717
+2026 2026
+1 mail written notice of such change to the borrower at least twenty
+2 calendar days before the effective date of the change in payment. The
+3 following information shall be provided to the borrower, without charge,
+4 in one or more reports, at least annually:
+5 (a) The name and address of the licensee;
+6 (b) The name and address of the borrower;
+7 (c) A summary of the escrow account activity during the year which
+8 includes all of the following:
+9 (i) The balance of the escrow account at the beginning of the year;
+10 (ii) The aggregate amount of deposits to the escrow account during
+11 the year; and
+12 (iii) The aggregate amount of withdrawals from the escrow account
+13 for each of the following categories:
+14 (A) Payments applied to loan principal;
+15 (B) Payments applied to interest;
+16 (C) Payments applied to real estate taxes;
+17 (D) Payments for real property insurance premiums; and
+18 (E) All other withdrawals; and
+19 (d) A summary of loan principal for the year as follows:
+20 (i) The amount of principal outstanding at the beginning of the
+21 year;
+22 (ii) The aggregate amount of payments applied to principal during
+23 the year; and
+24 (iii) The amount of principal outstanding at the end of the year;
+25 (5) Establish and maintain a toll-free telephone number or accept
+26 collect telephone calls to respond to inquiries from borrowers, if the
+27 licensee services residential mortgage loans. If a licensee ceases to
+28 service residential mortgage loans, it shall continue to maintain a toll-
+29 free telephone number or accept collect telephone calls to respond to
+30 inquiries from borrowers for a period of twelve months after the date the
+31 licensee ceased to service residential mortgage loans. A telephonic
+-76-
+
+LB717 LB717
+2026 2026
+1 messaging service which does not permit the borrower an option of
+2 personal contact with an employee, agent, or contractor of the licensee
+3 shall not satisfy the conditions of this section. Each day such licensee
+4 fails to comply with this subdivision shall constitute a separate
+5 violation of the Residential Mortgage Licensing Act;
+6 (6) Answer in writing, within seven business days after receipt, any
+7 written request for payoff information received from a borrower or a
+8 borrower's designated representative. This service shall be provided
+9 without charge to the borrower, except that when such information is
+10 provided upon request within sixty days after the fulfillment of a
+11 previous request, a processing fee of up to ten dollars may be charged;
+12 (7) Record or cause to be recorded a release of mortgage pursuant to
+13 the provisions of section 76-2803 or, in the case of a trust deed, record
+14 or cause to be recorded a reconveyance pursuant to the provisions of
+15 section 76-2803;
+16 (8) Maintain a copy of all documents and records relating to each
+17 residential mortgage loan and application for a residential mortgage
+18 loan, including, but not limited to, loan applications, federal Truth in
+19 Lending Act statements, good faith estimates, appraisals, notes, rights
+20 of rescission, and mortgages or trust deeds for a period of five years
+21 after the date the residential mortgage loan is funded or the loan
+22 application is denied or withdrawn;
+23 (9) Notify the director in writing or through the Nationwide
+24 Mortgage Licensing System and Registry within three business days after
+25 the occurrence of any of the following:
+26 (a) The filing of a voluntary petition in bankruptcy by the licensee
+27 or notice of a filing of an involuntary petition in bankruptcy against
+28 the licensee;
+29 (b) The licensee has lost the ability to fund a loan or loans after
+30 it had made a loan commitment or commitments and approved a loan
+31 application or applications;
+-77-
+
+LB717 LB717
+2026 2026
+1 (c) Any other state or jurisdiction institutes license denial, cease
+2 and desist, suspension, or revocation procedures against the licensee;
+3 (d) The attorney general of any state, the Consumer Financial
+4 Protection Bureau, or the Federal Trade Commission initiates an action to
+5 enforce consumer protection laws against the licensee or any of the
+6 licensee's officers, directors, shareholders, partners, members,
+7 employees, or agents;
+8 (e) The Federal National Mortgage Association, Federal Home Loan
+9 Mortgage Corporation, Federal Housing Administration, or Government
+10 National Mortgage Association suspends or terminates the licensee's
+11 status as an approved seller or seller and servicer;
+12 (f) The filing of a criminal indictment or information against the
+13 licensee or any of its officers, directors, shareholders, partners,
+14 members, employees, or agents;
+15 (g) The licensee or any of the licensee's officers, directors,
+16 shareholders, partners, members, employees, or agents was convicted of,
+17 pleaded guilty to, or was found guilty after a plea of nolo contendere to
+18 (i) a misdemeanor under state or federal law which involves dishonesty or
+19 fraud or which involves any aspect of the mortgage banking business,
+20 depository institution business, or installment loan company business or
+21 (ii) any felony under state or federal law; or
+22 (h)(i) Except as provided in subdivisions (9)(h)(ii) and (iii) of
+23 this section, a licensee shall notify the director in writing or through
+24 the Nationwide Mortgage Licensing System and Registry within three
+25 business days from the time that the licensee becomes aware of any breach
+26 of security of the system of computerized data owned or licensed by the
+27 licensee, which contains personal information about a Nebraska resident,
+28 or the unauthorized access to or use of such information about a Nebraska
+29 resident as a result of the breach.
+30 (ii) If a licensee would be required under Nebraska law to provide
+31 notification to a Nebraska resident regarding such incident, then the
+-78-
+
+LB717 LB717
+2026 2026
+1 licensee shall provide a copy of such notification to the department
+2 prior to or simultaneously with the licensee's notification to the
+3 Nebraska resident.
+4 (iii) Notice required by subdivision (9)(h) of this section may be
+5 delayed if a law enforcement agency determines that the notice will
+6 impede a criminal investigation. Notice shall be made in good faith,
+7 without unreasonable delay, and as soon as possible after the law
+8 enforcement agency determines that notification will no longer impede the
+9 investigation.
+10 (iv) For purposes of subdivision (9)(h) of this section, the terms
+11 breach of the security of the system and personal information have the
+12 same meaning as in section 87-802; and
+13 (10) Notify the director in writing or through the Nationwide
+14 Mortgage Licensing System and Registry within thirty days after the
+15 occurrence of a material development other than as described in
+16 subdivision (9) of this section, including, but not limited to, any of
+17 the following:
+18 (a) Business reorganization;
+19 (b) A change of name, trade name, doing business as designation, or
+20 main office address;
+21 (c) The establishment of a branch office. Notice of such
+22 establishment shall be on a form prescribed by the department and
+23 accompanied by a fee of seventy-five dollars for each branch office;
+24 (d) The relocation or closing of a branch office; or
+25 (e) The entry of an order against the licensee or any of the
+26 licensee's officers, directors, shareholders, partners, members,
+27 employees, or agents, including orders to which the licensee or other
+28 parties consented, by any other state or federal regulator; and .
+29 (11)(a) Disclose to the borrower, in connection with any refinance
+30 of an existing residential mortgage loan, whether or not the borrower
+31 will receive a net tangible benefit through such refinance. Such
+-79-
+
+LB717 LB717
+2026 2026
+1 disclosure shall be on a worksheet prescribed by the director or on a
+2 form prescribed by the director substantially similar to such worksheet.
+3 (b) For purposes of this subsection, net tangible benefit means a
+4 benefit of a refinance that will be in the financial interests of the
+5 borrower. Net tangible benefit includes, but is not limited to:
+6 (i) Obtaining a lower interest rate;
+7 (ii) Obtaining a lower monthly payment, including principal,
+8 interest, taxes, and insurance;
+9 (iii) Obtaining a shorter amortization schedule;
+10 (iv) Changing from an adjustable interest rate to a fixed interest
+11 rate;
+12 (v) Eliminating a negative amortization feature;
+13 (vi) Eliminating a balloon payment feature;
+14 (vii) Receiving cash out from the new loan in an amount greater than
+15 all closing costs incurred in connection with such loan;
+16 (viii) Avoiding foreclosure;
+17 (ix) Eliminating private mortgage insurance; and
+18 (x) Consolidating other existing loans into a new mortgage loan.
+19 Sec. 34. Section 45-741, Reissue Revised Statutes of Nebraska, is
+20 amended to read:
+21 45-741 (1) The director may examine documents and records maintained
+22 by a licensee, registrant, individual, or person subject to the
+23 Residential Mortgage Licensing Act. The director may investigate
+24 complaints about a licensee, registrant, individual, or person subject to
+25 the act. The director may investigate reports of alleged violations of
+26 the act, any federal law governing residential mortgage loans, or any
+27 rule, regulation, or order of the director under the act. For purposes of
+28 investigating violations or complaints arising under the act or for the
+29 purposes of examination, the director may review, investigate, or examine
+30 any licensee, registrant, individual, or person subject to the act as
+31 often as necessary in order to carry out the purposes of the act.
+-80-
+
+LB717 LB717
+2026 2026
+1 (2) For purposes of any investigation, examination, or proceeding,
+2 including, but not limited to, initial licensing, license renewal,
+3 license suspension, license conditioning, or license revocation, the
+4 director shall have the authority to access, receive, and use any books,
+5 accounts, records, files, documents, information, or evidence, including,
+6 but not limited to:
+7 (a) Criminal, civil, and administrative history information;
+8 (b) Personal history and experience information, including
+9 independent credit reports obtained from a consumer reporting agency
+10 described in 15 U.S.C. 1681a(p), as such section existed on January 1,
+11 2026 2010; and
+12 (c) Any other documents, information, or evidence the director deems
+13 relevant to the inquiry or investigation regardless of the location,
+14 possession, control, or custody of such documents, information, or
+15 evidence.
+16 (3) Each licensee, registrant, individual, or person subject to the
+17 Residential Mortgage Licensing Act shall make available to the director
+18 upon request the books, accounts, records, files, or documents relating
+19 to the operations of such licensee, registrant, individual, or person
+20 subject to the act. The director shall have access to such books,
+21 accounts, records, files, and documents and may interview the officers,
+22 principals, mortgage loan originators, employees, independent
+23 contractors, agents, and customers of the licensee, registrant,
+24 individual, or person subject to the act, concerning the business of the
+25 licensee, registrant, individual, or person subject to the act.
+26 (4) Each licensee, registrant, individual, or person subject to the
+27 act shall make or compile reports or prepare other information as
+28 instructed by the director in order to carry out the purposes of this
+29 section, including, but not limited to:
+30 (a) Accounting compilations;
+31 (b) Information lists and data concerning loan transactions on a
+-81-
+
+LB717 LB717
+2026 2026
+1 form prescribed by the director; or
+2 (c) Such other information deemed necessary to carry out the
+3 purposes of this section.
+4 (5) The director may send a notice of investigation or inquiry
+5 request for information to a licensee or registrant. Upon receipt by a
+6 licensee or registrant of the director's notice of investigation or
+7 inquiry request for information, the licensee or registrant shall respond
+8 within twenty-one calendar days. Each day beyond that time a licensee or
+9 registrant fails to respond as required by this subsection shall
+10 constitute a separate violation of the act. This subsection shall not be
+11 construed to require the director to send a notice of investigation to a
+12 licensee, a registrant, or any person.
+13 (6) For the purpose of any investigation, examination, or proceeding
+14 under the act, the director or any officer designated by him or her may
+15 administer oaths and affirmations, subpoena witnesses and compel their
+16 attendance, take evidence, and require the production of any books,
+17 papers, correspondence, memoranda, agreements, or other documents or
+18 records which the director deems relevant or material to the inquiry. If
+19 any person refuses to comply with a subpoena issued under this section or
+20 to testify with respect to any matter relevant to the proceeding, the
+21 district court of Lancaster County may, on application of the director,
+22 issue an order requiring the person to comply with the subpoena and to
+23 testify. Failure to obey an order of the court to comply with the
+24 subpoena may be punished by the court as civil contempt.
+25 (7) In conducting an examination or investigation under this
+26 section, the director may rely on reports made by the licensee or
+27 registrant which have been prepared within the preceding twelve months
+28 for the following federal agencies or federally related entities:
+29 (a) The United States Department of Housing and Urban Development;
+30 (b) The Federal Housing Administration;
+31 (c) The Federal National Mortgage Association;
+-82-
+
+LB717 LB717
+2026 2026
+1 (d) The Government National Mortgage Association;
+2 (e) The Federal Home Loan Mortgage Corporation;
+3 (f) The United States Department of Veterans Affairs; or
+4 (g) The Consumer Financial Protection Bureau.
+5 (8) In order to carry out the purposes of this section, the director
+6 may:
+7 (a) Enter into agreements or relationships with other government
+8 officials or regulatory associations in order to improve efficiencies and
+9 reduce the regulatory burden by sharing resources, standardized or
+10 uniform methods or procedures, and documents, records, information, or
+11 evidence obtained under this section;
+12 (b) Use, hire, contract, or employ publicly or privately available
+13 analytical systems, methods, or software to examine or investigate the
+14 licensee, registrant, individual, or person subject to the act;
+15 (c) Accept and rely on examination or investigation reports made by
+16 other government officials, within or without this state; or
+17 (d) Accept audit reports made by an independent certified public
+18 accountant for the licensee, registrant, individual, or person subject to
+19 the act in the course of that part of the examination covering the same
+20 general subject matter as the audit and incorporate the audit report in
+21 the report of the examination, report of investigation, or other writing
+22 of the director.
+23 (9) If the director receives a complaint or other information
+24 concerning noncompliance with the act by an exempt person, the director
+25 shall inform the agency having supervisory authority over the exempt
+26 person of the complaint.
+27 (10) No licensee, registrant, individual, or person subject to
+28 investigation or examination under this section shall knowingly withhold,
+29 abstract, remove, mutilate, destroy, or secrete any books, records,
+30 computer records, or other information.
+31 (11) The total charge for an examination or investigation shall be
+-83-
+
+LB717 LB717
+2026 2026
+1 paid by the licensee or registrant as set forth in sections 8-605 and
+2 8-606.
+3 (12) Examination reports shall not be deemed public records and may
+4 be withheld from the public pursuant to section 84-712.05.
+5 (13) Complaint files shall be deemed public records.
+6 (14) The authority of this section shall remain in effect, whether
+7 such a licensee, registrant, individual, or person subject to the
+8 Residential Mortgage Licensing Act acts or claims to act under any
+9 licensing or registration law of this state or claims to act without such
+10 authority.
+11 Sec. 35. Section 59-1722, Revised Statutes Supplement, 2025, is
+12 amended to read:
+13 59-1722 (1) Any transaction involving the sale of a franchise as
+14 defined in 16 C.F.R. 436.1(h), as such regulation existed on January 1,
+15 2026 2025, shall be exempt from the Seller-Assisted Marketing Plan Act,
+16 except that such transactions shall be subject to subdivision (1)(d) of
+17 section 59-1757, those provisions regulating or prescribing the use of
+18 the phrase buy-back or secured investment or similar phrases as set forth
+19 in sections 59-1726 to 59-1728 and 59-1751, and all sections which
+20 provide for their enforcement. The exemption shall only apply if:
+21 (a) The franchise is offered and sold in compliance with the
+22 requirements of 16 C.F.R. part 436, Disclosure Requirements and
+23 Prohibitions Concerning Franchising, as such part existed on January 1,
+24 2026 2025;
+25 (b) Before placing any advertisement in a Nebraska-based
+26 publication, offering for sale to any prospective purchaser in Nebraska,
+27 or making any representations in connection with such offer or sale to
+28 any prospective purchaser in Nebraska, the seller files a notice with the
+29 Department of Banking and Finance which contains (i) the name, address,
+30 and telephone number of the seller and the name under which the seller
+31 intends to do business and (ii) a brief description of the plan offered
+-84-
+
+LB717 LB717
+2026 2026
+1 by the seller; and
+2 (c) The seller pays a filing fee of one hundred dollars.
+3 (2) The department may request a copy of the disclosure document
+4 upon receipt of a written complaint or inquiry regarding the seller or
+5 upon a reasonable belief that a violation of the Seller-Assisted
+6 Marketing Plan Act has occurred or may occur. The seller shall provide
+7 such copy within ten business days of receipt of the request.
+8 (3) All funds collected by the department under this section shall
+9 be remitted to the State Treasurer for credit to the Securities Act Cash
+10 Fund.
+11 (4) The Director of Banking and Finance may by order deny or revoke
+12 an exemption specified in this section with respect to a particular
+13 offering of one or more business opportunities if the director finds that
+14 such an order is in the public interest or is necessary for the
+15 protection of purchasers. An order shall not be entered without
+16 appropriate prior notice to all interested parties, an opportunity for
+17 hearing, and written findings of fact and conclusions of law. If the
+18 public interest or the protection of purchasers so requires, the director
+19 may by order summarily deny or revoke an exemption specified in this
+20 section pending final determination of any proceedings under this
+21 section. An order under this section shall not operate retroactively.
+22 Sec. 36. Section 69-2103, Revised Statutes Supplement, 2025, is
+23 amended to read:
+24 69-2103 For purposes of the Consumer Rental Purchase Agreement Act:
+25 (1) Advertisement means a commercial message in any medium that
+26 aids, promotes, or assists directly or indirectly a consumer rental
+27 purchase agreement but does not include in-store merchandising aids such
+28 as window signs and ceiling banners;
+29 (2) Cash price means the price at which the lessor would have sold
+30 the property to the consumer for cash on the date of the consumer rental
+31 purchase agreement for the property;
+-85-
+
+LB717 LB717
+2026 2026
+1 (3) Consumer means a natural person who rents property under a
+2 consumer rental purchase agreement;
+3 (4) Consumer rental purchase agreement means an agreement which is
+4 for the use of property by a consumer primarily for personal, family, or
+5 household purposes, which is for an initial period of four months or
+6 less, whether or not there is any obligation beyond the initial period,
+7 which is automatically renewable with each payment, and which permits the
+8 consumer to become the owner of the property. A consumer rental purchase
+9 agreement in compliance with the act shall not be construed to be a lease
+10 or agreement which constitutes a credit sale as defined in 12 C.F.R.
+11 1026.2(a)(16), as such regulation existed on January 1, 2026 2025, and 15
+12 U.S.C. 1602(h), as such section existed on January 1, 2026 2025, or a
+13 lease which constitutes a consumer lease as defined in 12 C.F.R. 1013.2,
+14 as such regulation existed on January 1, 2026 2025. Consumer rental
+15 purchase agreement does not include:
+16 (a) Any lease for agricultural, business, or commercial purposes;
+17 (b) Any lease made to an organization;
+18 (c) A lease or agreement which constitutes an installment sale or
+19 installment sales contract as defined in section 45-335;
+20 (d) A security interest as defined in subdivision (35) of section
+21 1-201, Uniform Commercial Code; and
+22 (e) A home solicitation sale as defined in section 69-1601;
+23 (5) Consummation means the occurrence of an event which causes a
+24 consumer to become contractually obligated on a consumer rental purchase
+25 agreement;
+26 (6) Department means the Department of Banking and Finance;
+27 (7) Lease payment means a payment to be made by the consumer for the
+28 right of possession and use of the property for a specific lease period
+29 but does not include taxes imposed on such payment;
+30 (8) Lease period means a week, month, or other specific period of
+31 time, during which the consumer has the right to possess and use the
+-86-
+
+LB717 LB717
+2026 2026
+1 property after paying the lease payment and applicable taxes for such
+2 period;
+3 (9) Lessor means a person who in the ordinary course of business
+4 operates a commercial outlet which regularly leases, offers to lease, or
+5 arranges for the leasing of property under a consumer rental purchase
+6 agreement;
+7 (10) Property means any property that is not real property under the
+8 laws of this state when made available for a consumer rental purchase
+9 agreement; and
+10 (11) Total of payments to acquire ownership means the total of all
+11 charges imposed by the lessor and payable by the consumer as a condition
+12 of acquiring ownership of the property. Total of payments to acquire
+13 ownership includes lease payments and any initial nonrefundable
+14 administrative fee or required delivery charge but does not include
+15 taxes, late charges, reinstatement fees, or charges for optional products
+16 or services.
+17 Sec. 37. Section 4A-108, Uniform Commercial Code, Revised Statutes
+18 Supplement, 2025, is amended to read:
+19 4A-108 Relationship to federal Electronic Fund Transfer Act.
+20 (a) Except as provided in subsection (b), this article does not
+21 apply to a funds transfer any part of which is governed by the federal
+22 Electronic Fund Transfer Act, 15 U.S.C. 1693 et seq., as such act existed
+23 on January 1, 2026 2025.
+24 (b) This article applies to a funds transfer that is a remittance
+25 transfer as defined in the federal Electronic Fund Transfer Act, 15
+26 U.S.C. 1693o-1, as such section existed on January 1, 2026 2025, unless
+27 the remittance transfer is an electronic fund transfer as defined in the
+28 federal Electronic Fund Transfer Act, 15 U.S.C. 1693a, as such section
+29 existed on January 1, 2026 2025.
+30 (c) In a funds transfer to which this article applies, in the event
+31 of an inconsistency between an applicable provision of this article and
+-87-
+
+LB717 LB717
+2026 2026
+1 an applicable provision of the federal Electronic Fund Transfer Act, the
+2 provision of the federal Electronic Fund Transfer Act governs to the
+3 extent of the inconsistency.
+4 Sec. 38. Sections 6, 10, 12, 16, 19, 22, 23, 24, 27, 28, 29, 32,
+5 33, and 39 of this act become operative three calendar months after the
+6 adjournment of this legislative session. The other sections of this act
+7 become operative on their effective date.
+8 Sec. 39. Original sections 8-1,124 and 8-1502, Reissue Revised
+9 Statutes of Nebraska, sections 8-3003, 8-3013, 45-735, and 45-737,
+10 Revised Statutes Cumulative Supplement, 2024, and sections 8-1101,
+11 8-2703, 8-3033, 8-3034, 45-101.04, 45-335, and 45-345, Revised Statutes
+12 Supplement, 2025, are repealed.
+13 Sec. 40. Original sections 8-2102 and 45-741, Reissue Revised
+14 Statutes of Nebraska, sections 8-135, 8-141, 8-143.01, 8-157.01,
+15 8-183.04, 8-1,140, 8-318, 8-355, 8-1101.01, 8-1704, 8-1707, 8-2742,
+16 8-2903, 8-3005, 8-3007, 21-17,102, 21-17,115, 45-349, 45-364, 59-1722,
+17 and 69-2103, Revised Statutes Supplement, 2025, and section 4A-108,
+18 Uniform Commercial Code, Revised Statutes Supplement, 2025, are repealed.
+19 Sec. 41. Since an emergency exists, this act takes effect when
+20 passed and approved according to law.
+-88-

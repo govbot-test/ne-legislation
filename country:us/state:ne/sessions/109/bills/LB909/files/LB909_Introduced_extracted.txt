@@ -1,0 +1,910 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LB909 LB909
+2026 2026
+LEGISLATURE OF NEBRASKA
+ONE HUNDRED NINTH LEGISLATURE
+SECOND SESSION
+LEGISLATIVE BILL 909
+Introduced by Hardin, 48.
+Read first time January 09, 2026
+Committee: Judiciary
+1 A BILL FOR AN ACT relating to crimes and offenses; to amend sections
+2 83-4,143 and 84-941.01, Reissue Revised Statutes of Nebraska,
+3 section 27-404, Revised Statutes Cumulative Supplement, 2024, and
+4 sections 26-102, 27-413, 28-101, 28-318, 28-712.01, 28-1701,
+5 29-4003, 29-4309, 29-4316, and 81-1850, Revised Statutes Supplement,
+6 2025; to prohibit sexual abuse by a law enforcement officer; to
+7 define and redefine terms; to require registration under the Sex
+8 Offender Registration Act; to change offenses included within
+9 certain protections for victims of sexual offenses and certain
+10 victim notification requirements; to harmonize provisions; and to
+11 repeal the original sections.
+12 Be it enacted by the people of the State of Nebraska,
+-1-
+
+LB909 LB909
+2026 2026
+1 Section 1. Section 26-102, Revised Statutes Supplement, 2025, is
+2 amended to read:
+3 26-102 For purposes of the Protection Orders Act:
+4 (1) Abuse has the same meaning as in section 42-903;
+5 (2) Course of conduct has the same meaning as in section 28-311.02;
+6 (3) Family or household members has the same meaning as in section
+7 42-903;
+8 (4) Harass has the same meaning as in section 28-311.02;
+9 (5) Household pet means any animal maintained for companionship or
+10 pleasure but does not include any animal kept primarily for commercial
+11 purposes or for consumption or any livestock animal as defined in section
+12 54-902;
+13 (6) Law enforcement agency means the police department or town
+14 marshal in incorporated municipalities, the office of the sheriff in
+15 unincorporated areas, and the Nebraska State Patrol; and
+16 (7) Sexual assault offense means:
+17 (a) Conduct amounting to sexual assault under section 28-319 or
+18 28-320, sexual abuse by a school worker under section 28-316.01, sexual
+19 abuse by a law enforcement officer under section 5 of this act, sexual
+20 assault of a child under section 28-319.01 or 28-320.01, a violation of
+21 section 28-311.08, or an attempt to commit any of such offenses; or
+22 (b) Subjecting or attempting to subject another person to sexual
+23 contact or sexual penetration without such person's consent, as such
+24 terms are defined in section 28-318.
+25 Sec. 2. Section 27-404, Revised Statutes Cumulative Supplement,
+26 2024, is amended to read:
+27 27-404 (1) Evidence of a person's character or a trait of his or her
+28 character is not admissible for the purpose of proving that he or she
+29 acted in conformity therewith on a particular occasion, except:
+30 (a) Evidence of a pertinent trait of his or her character offered by
+31 an accused, or by the prosecution to rebut the same;
+-2-
+
+LB909 LB909
+2026 2026
+1 (b) Evidence of a pertinent trait of character of the victim of the
+2 crime offered by an accused or by the prosecution to rebut the same, or
+3 evidence of a character trait of peacefulness of the victim offered by
+4 the prosecution in a homicide case to rebut evidence that the victim was
+5 the first aggressor. In a sexual assault case, reputation, opinion, or
+6 other evidence of past sexual behavior of the victim is governed by
+7 section 27-412; or
+8 (c) Evidence of the character of a witness as provided in sections
+9 27-607 to 27-609.
+10 (2) Evidence of other crimes, wrongs, or acts is not admissible to
+11 prove the character of a person in order to show that he or she acted in
+12 conformity therewith. It may, however, be admissible for other purposes,
+13 such as proof of motive, opportunity, intent, preparation, plan,
+14 knowledge, identity, or absence of mistake or accident.
+15 (3) When such evidence is admissible pursuant to this section, in
+16 criminal cases evidence of other crimes, wrongs, or acts of the accused
+17 may be offered in evidence by the prosecution if the prosecution proves
+18 to the court by clear and convincing evidence that the accused committed
+19 the crime, wrong, or act. Such proof shall first be made outside the
+20 presence of any jury.
+21 (4) Regarding the admissibility in a civil or criminal action of
+22 evidence of a person's commission of another offense or offenses of
+23 sexual assault under sections 28-316.01 and 28-319 to 28-322.05, see
+24 sections 27-413 to 27-415.
+25 Sec. 3. Section 27-413, Revised Statutes Supplement, 2025, is
+26 amended to read:
+27 27-413 For purposes of sections 27-414 and 27-415, offense of sexual
+28 assault means:
+29 (1) Any violation of section 28-316.01, section 5 of this act, or
+30 sections 28-319 to 28-322.5;
+31 (b) An sexual assault under section 28-319 or 28-320, sexual abuse
+-3-
+
+LB909 LB909
+2026 2026
+1 by a school worker under section 28-316.01, sexual assault of a child
+2 under section 28-319.01 or 28-320.01, sexual assault by use of an
+3 electronic communication device under section 28-320.02, sexual abuse of
+4 an inmate or parolee under sections 28-322.01 to 28-322.03, sexual abuse
+5 of a protected individual under section 28-322.04, sexual abuse of a
+6 detainee under section 28-322.05, an attempt or conspiracy to commit any
+7 of the crimes listed in this section; , or
+8 (3) The the commission of or conviction for a crime in another
+9 jurisdiction that is substantially similar to any crime listed in this
+10 section.
+11 Sec. 4. Section 28-101, Revised Statutes Supplement, 2025, is
+12 amended to read:
+13 28-101 Sections 28-101 to 28-1357, 28-1601 to 28-1603, and 28-1701
+14 and section 5 of this act shall be known and may be cited as the Nebraska
+15 Criminal Code.
+16 Sec. 5. (1) For purposes of this section:
+17 (a) Law enforcement officer has the same meaning as in section
+18 81-1401;
+19 (b) Minor means a person who is at least sixteen years of age but
+20 less than nineteen years of age;
+21 (c) Sexual contact has the same meaning as in section 28-318; and
+22 (d) Sexual penetration has the same meaning as in section 28-318.
+23 (2) A law enforcement officer shall not:
+24 (a) Subject a minor to sexual penetration or sexual contact; or
+25 (b) Engage in a pattern or scheme of conduct to subject a minor to
+26 sexual penetration or sexual contact.
+27 (3) It is not a defense to a charge under this section that the
+28 minor consented to such sexual penetration or sexual contact.
+29 (4) Any law enforcement officer who engages in sexual penetration
+30 with a minor is guilty of sexual abuse by a law enforcement officer in
+31 the first degree. Sexual abuse by a law enforcement officer in the first
+-4-
+
+LB909 LB909
+2026 2026
+1 degree is a Class IIA felony.
+2 (5) Any law enforcement officer who engages in sexual contact with a
+3 minor is guilty of sexual abuse by a law enforcement officer in the
+4 second degree. Sexual abuse by a law enforcement officer in the second
+5 degree is a Class IIIA felony.
+6 (6) Any law enforcement officer who engages in a pattern or scheme
+7 of conduct with the intent to subject a minor to sexual penetration or
+8 sexual contact is guilty of sexual abuse by a law enforcement officer in
+9 the third degree. Sexual abuse by a law enforcement officer in the third
+10 degree is a Class IV felony.
+11 Sec. 6. Section 28-318, Revised Statutes Supplement, 2025, is
+12 amended to read:
+13 28-318 As used in sections 28-317 to 28-322.05, unless the context
+14 otherwise requires:
+15 (1) Actor means a person accused of sexual assault;
+16 (2) Intimate parts means the genital area, groin, inner thighs,
+17 buttocks, or breasts;
+18 (3) Past sexual behavior means sexual behavior other than the sexual
+19 behavior upon which the sexual assault is alleged;
+20 (4) Serious personal injury means great bodily injury or
+21 disfigurement, extreme mental anguish or mental trauma, pregnancy,
+22 disease, or loss or impairment of a sexual or reproductive organ;
+23 (5) Sexual contact means the intentional touching of the victim's
+24 sexual or intimate parts or the intentional touching of the victim's
+25 clothing covering the immediate area of the victim's sexual or intimate
+26 parts. Sexual contact also means the touching by the victim of the
+27 actor's sexual or intimate parts or the clothing covering the immediate
+28 area of the actor's sexual or intimate parts when such touching is
+29 intentionally caused by the actor. Sexual contact includes only such
+30 conduct which can be reasonably construed as being for the purpose of
+31 sexual arousal or gratification of either party. Sexual contact also
+-5-
+
+LB909 LB909
+2026 2026
+1 includes the touching of a child with the actor's sexual or intimate
+2 parts on any part of the child's body for purposes of sexual abuse by a
+3 school worker under section 28-316.01, sexual abuse by a law enforcement
+4 officer under section 5 of this act, or sexual assault of a child under
+5 sections 28-319.01 and 28-320.01;
+6 (6) Sexual penetration means sexual intercourse in its ordinary
+7 meaning, cunnilingus, fellatio, anal intercourse, or any intrusion,
+8 however slight, of any part of the actor's or victim's body or any object
+9 manipulated by the actor into the genital or anal openings of the
+10 victim's body which can be reasonably construed as being for nonmedical,
+11 nonhealth, or nonlaw enforcement purposes. Sexual penetration shall not
+12 require emission of semen;
+13 (7) Victim means the person alleging to have been sexually
+14 assaulted;
+15 (8) Without consent means:
+16 (a)(i) The victim was compelled to submit due to the use of force or
+17 threat of force or coercion, or (ii) the victim expressed a lack of
+18 consent through words, or (iii) the victim expressed a lack of consent
+19 through conduct, or (iv) the consent, if any was actually given, was the
+20 result of the actor's deception as to the identity of the actor or the
+21 nature or purpose of the act on the part of the actor;
+22 (b) The victim need only resist, either verbally or physically, so
+23 as to make the victim's refusal to consent genuine and real and so as to
+24 reasonably make known to the actor the victim's refusal to consent; and
+25 (c) A victim need not resist verbally or physically where it would
+26 be useless or futile to do so; and
+27 (9) Force or threat of force means (a) the use of physical force
+28 which overcomes the victim's resistance or (b) the threat of physical
+29 force, express or implied, against the victim or a third person that
+30 places the victim in fear of death or in fear of serious personal injury
+31 to the victim or a third person where the victim reasonably believes that
+-6-
+
+LB909 LB909
+2026 2026
+1 the actor has the present or future ability to execute the threat.
+2 Sec. 7. Section 28-712.01, Revised Statutes Supplement, 2025, is
+3 amended to read:
+4 28-712.01 (1)(a) The department may assign a report for alternative
+5 response consistent with the Child Protection and Family Safety Act.
+6 (b) No report involving any of the following shall be assigned to
+7 alternative response but shall be immediately forwarded to law
+8 enforcement or the county attorney:
+9 (i) Murder in the first or second degree as defined in section
+10 28-303 or 28-304 or manslaughter as defined in section 28-305;
+11 (ii) Assault in the first, second, or third degree or assault by
+12 strangulation or suffocation as defined in section 28-308, 28-309,
+13 28-310, or 28-310.01;
+14 (iii) Sexual abuse, including acts prohibited by section 28-316.01,
+15 28-319, 28-319.01, 28-320, 28-320.01, 28-320.02, 28-322.01, 28-322.02,
+16 28-322.03, 28-322.04, 28-322.05, 28-703, or 28-707 or section 5 of this
+17 act;
+18 (iv) Labor trafficking of a minor or sex trafficking of a minor as
+19 defined in section 28-830;
+20 (v) Neglect of a minor child that results in serious bodily injury
+21 as defined in section 28-109, requires hospitalization of the child, or
+22 results in an injury to the child that requires ongoing medical care,
+23 behavioral health care, or physical or occupational therapy, including a
+24 growth delay, which may be referred to as failure to thrive, that has
+25 been diagnosed by a physician and is due to parental neglect;
+26 (vi) Physical abuse to the head or torso of a child or physical
+27 abuse that results in bodily injury;
+28 (vii) An allegation that requires a forensic interview at a child
+29 advocacy center or coordination with the child abuse and neglect
+30 investigation team pursuant to section 28-728;
+31 (viii) Out-of-home child abuse or neglect;
+-7-
+
+LB909 LB909
+2026 2026
+1 (ix) An allegation being investigated by a law enforcement agency at
+2 the time of the assignment;
+3 (x) A history of termination of parental rights;
+4 (xi) Absence of a caretaker without having given an alternate
+5 caregiver authority to make decisions and grant consents for necessary
+6 care, treatment, and education of a child or without having made
+7 provision to be contacted to make such decisions or grant such consents;
+8 (xii) Domestic violence involving a caretaker in situations in which
+9 the alleged perpetrator has access to the child or caretaker;
+10 (xiii) A household member illegally manufactures methamphetamine or
+11 opioids;
+12 (xiv) A child has had contact with methamphetamine or other
+13 nonprescribed opioids, including a positive drug screening or test; or
+14 (xv) For a report involving an infant, a household member tests
+15 positive for methamphetamine or nonprescribed opioids at the birth of
+16 such infant.
+17 (c) The department may adopt and promulgate rules and regulations to
+18 (i) provide additional ineligibility criteria for assignment to
+19 alternative response and (ii) establish additional criteria requiring
+20 review by the Review, Evaluate, and Decide Team.
+21 (d) A report that includes any of the following may be eligible for
+22 alternative response but shall first be reviewed by the Review, Evaluate,
+23 and Decide Team prior to assignment to alternative response:
+24 (i) Domestic assault as defined in section 28-323 or domestic
+25 violence in the family home;
+26 (ii) Use of alcohol or controlled substances as defined in section
+27 28-401 or 28-405 by a caregiver that impairs the caregiver's ability to
+28 care and provide safety for the child; or
+29 (iii) A family member residing in the home or a caregiver that has
+30 been the subject of a report accepted for traditional response or
+31 assigned to alternative response in the past six months.
+-8-
+
+LB909 LB909
+2026 2026
+1 (2) The Review, Evaluate, and Decide Team shall convene to review
+2 reports pursuant to the department's rules, regulations, and policies, to
+3 evaluate the information, and to determine assignment for alternative
+4 response or traditional response. The team shall utilize consistent
+5 criteria to review the severity of the allegation of child abuse or
+6 neglect, access to the perpetrator, vulnerability of the child, family
+7 history including previous reports, parental cooperation, parental or
+8 caretaker protective factors, and other information as deemed necessary.
+9 At the conclusion of the review, the report shall be assigned to either
+10 traditional response or alternative response. Decisions of the team shall
+11 be made by consensus. If the team cannot come to consensus, the report
+12 shall be assigned for a traditional response.
+13 (3) In the case of an alternative response, the department shall
+14 complete a comprehensive assessment. The department shall transfer the
+15 case being given alternative response to traditional response if the
+16 department determines that a child is unsafe or if the concern for the
+17 safety of the child is due to a temporary living arrangement. Upon
+18 completion of the comprehensive assessment, if it is determined that the
+19 child is safe, participation in services offered to the family receiving
+20 an alternative response is voluntary, the case shall not be transferred
+21 to traditional response based upon the family's failure to enroll or
+22 participate in such services, and the subject of the report shall not be
+23 entered into the central registry of child protection cases maintained
+24 pursuant to section 28-718.
+25 (4) The department shall, by the next working day after receipt of a
+26 report of child abuse or neglect, enter into the tracking system of child
+27 protection cases maintained pursuant to section 28-715 all reports of
+28 child abuse or neglect received under this section that are opened for
+29 alternative response and any action taken.
+30 (5) The department shall make available to the appropriate
+31 investigating law enforcement agency, child advocacy center, and county
+-9-
+
+LB909 LB909
+2026 2026
+1 attorney a copy of all reports relative to a case of suspected child
+2 abuse or neglect. Aggregate, nonidentifying data regarding reports of
+3 child abuse or neglect receiving an alternative response shall be made
+4 available quarterly to requesting agencies outside the department. Such
+5 alternative response data shall include, but not be limited to, the
+6 nature of the initial child abuse or neglect report, the age of the child
+7 or children, the nature of services offered, the location of the cases,
+8 the number of cases per month, and the number of alternative response
+9 cases that were transferred to traditional response. Other than the
+10 office of Inspector General of Nebraska Child Welfare, the Public
+11 Counsel, law enforcement agency personnel, child advocacy center
+12 employees, and county attorneys, no other agency or individual shall be
+13 provided specific, identifying reports of child abuse or neglect being
+14 given alternative response. The office of Inspector General of Nebraska
+15 Child Welfare shall have access to all reports relative to cases of
+16 suspected child abuse or neglect subject to traditional response and
+17 those subject to alternative response. The department and the office
+18 shall develop procedures allowing for the Inspector General's review of
+19 cases subject to alternative response. The Inspector General shall
+20 include in the report pursuant to section 50-1818 a summary of all cases
+21 reviewed pursuant to this subsection.
+22 Sec. 8. Section 28-1701, Revised Statutes Supplement, 2025, is
+23 amended to read:
+24 28-1701 (1) A person shall not be arrested or prosecuted for an
+25 eligible alcohol or drug offense if such person witnessed or was the
+26 victim of a sexual assault and such person:
+27 (a) Either:
+28 (i) In good faith, reported such sexual assault to law enforcement;
+29 or
+30 (ii) Requested emergency medical assistance for the victim of the
+31 sexual assault; and
+-10-
+
+LB909 LB909
+2026 2026
+1 (b) Evidence supporting the arrest or prosecution of the eligible
+2 alcohol or drug offense was obtained or discovered as a result of such
+3 person reporting such sexual assault to law enforcement or requesting
+4 emergency medical assistance.
+5 (2) A person shall not be arrested or prosecuted for an eligible
+6 alcohol or drug offense if:
+7 (a) Evidence supporting the arrest or prosecution of the person for
+8 the offense was obtained or discovered as a result of the investigation
+9 or prosecution of a sexual assault; and
+10 (b) Such person cooperates with law enforcement in the investigation
+11 or prosecution of the sexual assault.
+12 (3) For purposes of this section:
+13 (a) Eligible alcohol or drug offense means:
+14 (i) A violation of subsection (3) or (13) of section 28-416 or of
+15 section 28-441;
+16 (ii) A violation of section 53-180.02 committed by a person older
+17 than eighteen years of age and under the age of twenty-one years, as
+18 described in subdivision (4)(a) of section 53-180.05;
+19 (iii) A violation of a city or village ordinance similar to
+20 subdivision (3)(a)(i) or (ii) of this section; or
+21 (iv) Attempt, conspiracy, solicitation, being an accessory to,
+22 aiding and abetting, aiding the consummation of, or compounding a felony
+23 with any of the offenses in subdivision (3)(a)(i), (ii), or (iii) of this
+24 section as the underlying offense; and
+25 (b) Sexual assault means:
+26 (i) A violation of section 28-316.01, 28-319, 28-319.01, 28-320,
+27 28-320.01, 28-320.02, 28-322.01, 28-322.02, 28-322.03, 28-322.04,
+28 28-322.05, 28-703, or 28-1805 or section 5 of this act, sex trafficking
+29 or sex trafficking of a minor under section 28-831, or subdivision (1)(c)
+30 or (g) of section 28-386 or subdivision (1)(d), (e), or (f) of section
+31 28-707; or
+-11-
+
+LB909 LB909
+2026 2026
+1 (ii) Attempt, conspiracy, solicitation, being an accessory to,
+2 aiding and abetting, aiding the consummation of, or compounding a felony
+3 with any of the offenses listed in subdivision (3)(b)(i) of this section
+4 as the underlying offense.
+5 Sec. 9. Section 29-4003, Revised Statutes Supplement, 2025, is
+6 amended to read:
+7 29-4003 (1)(a) The Sex Offender Registration Act applies to any
+8 person who on or after January 1, 1997:
+9 (i) Has ever pled guilty to, pled nolo contendere to, or been found
+10 guilty of any of the following:
+11 (A) Kidnapping of a minor pursuant to section 28-313, except when
+12 the person is the parent of the minor and was not convicted of any other
+13 offense in this section;
+14 (B) False imprisonment of a minor pursuant to section 28-314 or
+15 28-315;
+16 (C) Sexual assault pursuant to section 28-319 or 28-320;
+17 (D) Sexual abuse by a school worker pursuant to section 28-316.01;
+18 (E) Sexual abuse by a law enforcement officer pursuant to section 5
+19 of this act;
+20 (F) (E) Sexual assault of a child in the second or third degree
+21 pursuant to section 28-320.01;
+22 (G) (F) Sexual assault of a child in the first degree pursuant to
+23 section 28-319.01;
+24 (H) (G) Sexual abuse of a vulnerable adult or senior adult pursuant
+25 to subdivision (1)(c) of section 28-386;
+26 (I) (H) Incest of a minor pursuant to section 28-703;
+27 (J) (I) Pandering of a minor pursuant to section 28-802;
+28 (K) (J) Conduct relating to child sexual abuse material under
+29 section 28-1805 or subdivision (2)(b) or (c) of section 28-1804;
+30 (L) (K) Knowingly possessing or receiving any child sexual abuse
+31 material pursuant to subsection (1) or (5) of section 28-1803;
+-12-
+
+LB909 LB909
+2026 2026
+1 (M) (L) Criminal child enticement pursuant to section 28-311;
+2 (N) (M) Child enticement by means of an electronic communication
+3 device pursuant to section 28-320.02;
+4 (O) (N) Debauching a minor pursuant to section 28-805; or
+5 (P) (O) Attempt, solicitation, aiding or abetting, being an
+6 accessory, or conspiracy to commit an offense listed in subdivisions (1)
+7 (a)(i)(A) through (1)(a)(i)(P) (1)(a)(i)(N) of this section;
+8 (ii) Has ever pled guilty to, pled nolo contendere to, or been found
+9 guilty of any offense that is substantially equivalent to a registrable
+10 offense under subdivision (1)(a)(i) of this section by any village, town,
+11 city, state, territory, commonwealth, or other jurisdiction of the United
+12 States, by the United States Government, by court-martial or other
+13 military tribunal, or by a foreign jurisdiction, notwithstanding a
+14 procedure comparable in effect to that described under section 29-2264 or
+15 any other procedure to nullify a conviction other than by pardon;
+16 (iii) Is incarcerated in a jail, a penal or correctional facility,
+17 or any other public or private institution or is under probation or
+18 parole as a result of pleading guilty to or being found guilty of a
+19 registrable offense under subdivision (1)(a)(i) or (ii) of this section
+20 prior to January 1, 1997; or
+21 (iv) Enters the state and is required to register as a sex offender
+22 under the laws of another village, town, city, state, territory,
+23 commonwealth, or other jurisdiction of the United States.
+24 (b) In addition to the registrable offenses under subdivision (1)(a)
+25 of this section, the Sex Offender Registration Act applies to any person
+26 who on or after January 1, 2010:
+27 (i)(A) Except as provided in subdivision (1)(b)(i)(B) of this
+28 section, has ever pled guilty to, pled nolo contendere to, or been found
+29 guilty of any of the following:
+30 (I) Murder in the first degree pursuant to section 28-303;
+31 (II) Murder in the second degree pursuant to section 28-304;
+-13-
+
+LB909 LB909
+2026 2026
+1 (III) Manslaughter pursuant to section 28-305;
+2 (IV) Assault in the first degree pursuant to section 28-308;
+3 (V) Assault in the second degree pursuant to section 28-309;
+4 (VI) Assault in the third degree pursuant to section 28-310;
+5 (VII) Stalking pursuant to section 28-311.03;
+6 (VIII) Violation of section 28-311.08 requiring registration under
+7 the act pursuant to subsection (6) of section 28-311.08;
+8 (IX) Kidnapping pursuant to section 28-313;
+9 (X) False imprisonment pursuant to section 28-314 or 28-315;
+10 (XI) Sexual abuse of an inmate or parolee in the first degree
+11 pursuant to section 28-322.02;
+12 (XII) Sexual abuse of an inmate or parolee in the second degree
+13 pursuant to section 28-322.03;
+14 (XIII) Sexual abuse of a protected individual pursuant to section
+15 28-322.04;
+16 (XIV) Incest pursuant to section 28-703;
+17 (XV) Child abuse pursuant to subdivision (1)(d) or (e) of section
+18 28-707;
+19 (XVI) Enticement by electronic communication device pursuant to
+20 section 28-833; or
+21 (XVII) Attempt, solicitation, aiding or abetting, being an
+22 accessory, or conspiracy to commit an offense listed in subdivisions (1)
+23 (b)(i)(A)(I) through (1)(b)(i)(A)(XVI) of this section.
+24 (B) In order for the Sex Offender Registration Act to apply to the
+25 offenses listed in subdivisions (1)(b)(i)(A)(I), (II), (III), (IV), (V),
+26 (VI), (VII), (IX), and (X) of this section, a court shall have found that
+27 evidence of sexual penetration or sexual contact, as those terms are
+28 defined in section 28-318, was present in the record, which shall include
+29 consideration of the factual basis for a plea-based conviction and
+30 information contained in the presentence report;
+31 (ii) Has ever pled guilty to, pled nolo contendere to, or been found
+-14-
+
+LB909 LB909
+2026 2026
+1 guilty of any offense that is substantially equivalent to a registrable
+2 offense under subdivision (1)(b)(i) of this section by any village, town,
+3 city, state, territory, commonwealth, or other jurisdiction of the United
+4 States, by the United States Government, by court-martial or other
+5 military tribunal, or by a foreign jurisdiction, notwithstanding a
+6 procedure comparable in effect to that described under section 29-2264 or
+7 any other procedure to nullify a conviction other than by pardon; or
+8 (iii) Enters the state and is required to register as a sex offender
+9 under the laws of another village, town, city, state, territory,
+10 commonwealth, or other jurisdiction of the United States.
+11 (c) In addition to the registrable offenses under subdivisions (1)
+12 (a) and (b) of this section, the Sex Offender Registration Act applies to
+13 any person who on or after January 1, 2020:
+14 (i) Has ever pled guilty to, pled nolo contendere to, or been found
+15 guilty of sexual abuse of a detainee under section 28-322.05; or
+16 (ii) Has ever pled guilty to, pled nolo contendere to, or been found
+17 guilty of any offense that is substantially equivalent to a registrable
+18 offense under subdivision (1)(c)(i) of this section by any village, town,
+19 city, state, territory, commonwealth, or other jurisdiction of the United
+20 States, by the United States Government, by court-martial or other
+21 military tribunal, or by a foreign jurisdiction, notwithstanding a
+22 procedure comparable in effect to that described under section 29-2264 or
+23 any other procedure to nullify a conviction other than by pardon.
+24 (d) In addition to the registrable offenses under subdivisions (1)
+25 (a), (b), and (c) of this section, the Sex Offender Registration Act
+26 applies to any person who on or after January 1, 2023:
+27 (i) Has ever pled guilty to, pled nolo contendere to, or been found
+28 guilty of human trafficking under subsection (1) or (2) of section
+29 28-831, and the court determines either by notification of sex offender
+30 registration responsibilities or notation in the sentencing order that
+31 the human trafficking was sex trafficking or sex trafficking of a minor
+-15-
+
+LB909 LB909
+2026 2026
+1 and not solely labor trafficking or labor trafficking of a minor; or
+2 (ii) Has ever pled guilty to, pled nolo contendere to, or been found
+3 guilty of any offense that is substantially equivalent to a registrable
+4 offense under subdivision (1)(d)(i) of this section by any village, town,
+5 city, state, territory, commonwealth, or other jurisdiction of the United
+6 States, by the United States Government, by court-martial or other
+7 military tribunal, or by a foreign jurisdiction, notwithstanding a
+8 procedure comparable in effect to that described under section 29-2264 or
+9 any other procedure to nullify a conviction other than by pardon.
+10 (2) A person appealing a conviction of a registrable offense under
+11 this section shall be required to comply with the act during the appeals
+12 process.
+13 Sec. 10. Section 29-4309, Revised Statutes Supplement, 2025, is
+14 amended to read:
+15 29-4309 For the purposes of the Sexual Assault Victims' Bill of
+16 Rights Act:
+17 (1)(a) Advocate means:
+18 (i) Any employee or supervised volunteer of a domestic violence and
+19 sexual assault victim assistance program or of any other agency,
+20 business, or organization that is not affiliated with a law enforcement
+21 or prosecutor's office, whose primary purpose is assisting domestic
+22 violence and sexual assault victims. This includes employees or
+23 supervised volunteers of an Indian tribe or a postsecondary educational
+24 institution;
+25 (ii) A representative from a victim and witness assistance center as
+26 established in sections 81-1845 to 81-1847 or a similar entity affiliated
+27 with a law enforcement agency or prosecutor's office; or
+28 (iii) An advocate who is employed by a child advocacy center that
+29 meets the requirements of subsection (2) of section 28-728.
+30 (b) If reasonably possible, an advocate shall speak the victim's
+31 preferred language or use the services of a qualified interpreter;
+-16-
+
+LB909 LB909
+2026 2026
+1 (2) Health care provider means any individual who is licensed,
+2 certified, or registered to perform specified health services consistent
+3 with state law;
+4 (3) Sexual assault means a violation of section 28-316.01, 28-319,
+5 28-319.01, 28-320, 28-320.01, 28-320.02, 28-322.01, 28-322.02, 28-322.03,
+6 28-322.04, 28-322.05, 28-703, or 28-1805 or section 5 of this act, sex
+7 trafficking or sex trafficking of a minor under section 28-831, or
+8 subdivision (1)(c) or (g) of section 28-386 or subdivision (1)(d), (e),
+9 or (f) of section 28-707;
+10 (4) Sexual assault forensic evidence means evidence collected by a
+11 health care provider contained within any sexual assault forensic
+12 evidence collection kit, including a toxicology kit, or any forensic
+13 evidence collected by law enforcement through the course of an
+14 investigation; and
+15 (5)(a) Sexual assault victim or victim means any person who is a
+16 victim of sexual assault who reports such sexual assault:
+17 (i) To a health care provider, law enforcement, or an advocate,
+18 including anonymous reporting as provided in section 28-902; and
+19 (ii) In the case of a victim who is under eighteen years of age, to
+20 the Department of Health and Human Services.
+21 (b) Sexual assault victim or victim also includes, if the victim
+22 described in subdivision (5)(a) of this section is incompetent, deceased,
+23 or a minor who is unable to consent to counseling services, such victim's
+24 parent, guardian, or spouse, unless such person is the reported
+25 assailant.
+26 Sec. 11. Section 29-4316, Revised Statutes Supplement, 2025, is
+27 amended to read:
+28 29-4316 (1) For purposes of this section:
+29 (a) Criminal justice agency has the same meaning as in section
+30 29-3509;
+31 (b) Sex trafficking means sex trafficking or sex trafficking of a
+-17-
+
+LB909 LB909
+2026 2026
+1 minor in violation of section 28-831; and
+2 (c) Sexual assault means a violation of section 28-319, 28-316.01,
+3 28-319.01, 28-320, 28-320.01, 28-320.02, 28-322.01, 28-322.02, 28-322.03,
+4 28-322.04, 28-322.05, 28-703, or 28-1805 or section 5 of this act or
+5 subdivision (1)(c) or (g) of section 28-386 or subdivision (1)(d), (e),
+6 or (f) of section 28-707.
+7 (2) Except as provided in subsection (3) of this section, and unless
+8 otherwise required by statute, a criminal justice agency and any attorney
+9 involved in the investigation or prosecution of an alleged sexual assault
+10 or sex trafficking violation shall maintain the confidentiality of the
+11 identity and personal identifying information of the alleged victim. Such
+12 information may be shared by such criminal justice agencies and between
+13 such criminal justice agencies and attorneys as necessary to carry out
+14 their duties.
+15 (3) The confidentiality required by subsection (2) of this section
+16 does not apply:
+17 (a) To the extent waived by the alleged victim;
+18 (b) If criminal charges involving the alleged sexual assault or sex
+19 trafficking are filed;
+20 (c) If the victim has died as a result of, or in connection with,
+21 the alleged sexual assault or sex trafficking;
+22 (d) In cases where personal identifying information or the identity
+23 of the victim are released as part of a child abduction alert system used
+24 by law enforcement agencies, such as the AMBER Alert system;
+25 (e) To a person making a report of suspected child abuse or neglect
+26 as required in section 28-711;
+27 (f) To the sharing of reports and information regarding child abuse
+28 and neglect with a child abuse and neglect investigation team or child
+29 abuse and neglect treatment team provided for in section 28-728;
+30 (g) To the Department of Health and Human Services and other
+31 assisting agencies as necessary to carry out their duties in
+-18-
+
+LB909 LB909
+2026 2026
+1 investigations of child abuse or neglect;
+2 (h) To communication with an individual that an educational entity,
+3 as defined in section 79-1201.01, has designated:
+4 (i) As a Title IX coordinator; or
+5 (ii) To receive reports related to sexual assault or sex trafficking
+6 or to provide supportive measures related to such reports; or
+7 (i) To communication with advocates and health care providers as
+8 defined in section 29-4309.
+9 Sec. 12. Section 81-1850, Revised Statutes Supplement, 2025, is
+10 amended to read:
+11 81-1850 (1) For purposes of this section:
+12 (a) Covered offense means:
+13 (i) Murder in the first degree, section 28-303;
+14 (ii) Murder in the second degree, section 28-304;
+15 (iii) Manslaughter, section 28-305;
+16 (iv) Motor vehicle homicide, section 28-306;
+17 (v) Assault in the first degree, section 28-308;
+18 (vi) Assault in the second degree, section 28-309;
+19 (vii) Assault by strangulation or suffocation, section 28-310.01;
+20 (viii) Terroristic threats, section 28-311.01;
+21 (ix) Stalking, section 28-311.03;
+22 (x) Kidnapping, section 28-313;
+23 (xi) False imprisonment in the first degree, section 28-314;
+24 (xii) Sexual abuse by a school employee, section 28-316.01;
+25 (xiii) Sexual abuse by a law enforcement officer, section 5 of this
+26 act;
+27 (xiv) (xiii) Sexual assault in the first degree, section 28-319;
+28 (xv) (xiv) Sexual assault of a child in the first degree, section
+29 28-319.01;
+30 (xvi) (xv) Sexual assault in the second degree, section 28-320;
+31 (xvii) (xvi) Sexual assault of a child in the second or third
+-19-
+
+LB909 LB909
+2026 2026
+1 degree, section 28-320.01;
+2 (xviii) (xvii) Child enticement by means of an electronic
+3 communication device, section 28-320.02;
+4 (xix) Sexual abuse of an inmate or parolee, section 28-322.02;
+5 (xx) Sexual abuse of an inmate or parolee, section 28-322.03;
+6 (xxi) (xviii) Sexual abuse of a protected individual, section
+7 28-322.04;
+8 (xxii) Sexual abuse of a detainee, section 28-322.05;
+9 (xxiii) (xix) Domestic assault in the first or second degree,
+10 section 28-323;
+11 (xxiv) (xx) Sex trafficking, sex trafficking of a minor, labor
+12 trafficking, or labor trafficking of a minor, section 28-831; or
+13 (xxv) (xxi) An attempt, solicitation, or conspiracy to commit an
+14 offense listed in subdivision (1)(a) of this section; and
+15 (b) Victim has the same meaning as in section 29-119.
+16 (2)(a) Except as provided in subdivision (2)(b) of this section,
+17 when a person is convicted of a felony, the county attorney shall forward
+18 the name and address of any victim of such convicted person to the Board
+19 of Parole, the Department of Correctional Services, the county
+20 corrections agency, the Department of Health and Human Services, and the
+21 Board of Pardons, as applicable.
+22 (b) A victim may waive the right to notification under this section
+23 by notifying the county attorney, in which case the county attorney is
+24 not required to comply with subdivision (2)(a) of this section.
+25 (c) The Board of Parole, the Department of Correctional Services,
+26 the county corrections agency, the Department of Health and Human
+27 Services, and the Board of Pardons shall include the victim's name in the
+28 file of the convicted person, but the name shall not be part of the
+29 public record of any parole or pardons hearings of the convicted person.
+30 (d) Any victim, including a victim who has waived his or her right
+31 to notification, may request the notification prescribed in this section,
+-20-
+
+LB909 LB909
+2026 2026
+1 as applicable, by sending a written request to the Board of Parole, the
+2 Department of Correctional Services, the county corrections agency, the
+3 Department of Health and Human Services, or the Board of Pardons any time
+4 after the convicted person is incarcerated and until the convicted person
+5 is no longer under the jurisdiction of the Board of Parole, the county
+6 corrections agency, the Department of Correctional Services, or the Board
+7 of Pardons or, if the convicted person is under the jurisdiction of the
+8 Department of Health and Human Services, within the three-year period
+9 after the convicted person is no longer under the jurisdiction of the
+10 Board of Parole, the county corrections agency, the Department of
+11 Correctional Services, or the Board of Pardons.
+12 (3) A victim whose name appears in the file of the convicted person
+13 shall be notified by the Board of Parole:
+14 (a) Within ninety days after conviction of an offender, of the
+15 tentative date of release and the earliest parole eligibility date of
+16 such offender;
+17 (b) Of any parole hearings or proceedings;
+18 (c) Of any decision of the Board of Parole;
+19 (d) When a convicted person who is on parole is returned to custody
+20 because of parole violations; and
+21 (e) If the convicted person has been adjudged a mentally disordered
+22 sex offender or is a convicted sex offender, when such convicted person
+23 is released from custody or treatment.
+24 Such notification shall be given in person, by telecommunication, or
+25 by mail.
+26 (4) A victim whose name appears in the file of the convicted person
+27 shall be notified by the Department of Correctional Services or a county
+28 corrections agency:
+29 (a) When a convicted person is granted a furlough or release from
+30 incarceration for twenty-four hours or longer or any transfer of the
+31 convicted person to community status;
+-21-
+
+LB909 LB909
+2026 2026
+1 (b) When a convicted person is released into community-based
+2 programs, including educational release and work release programs. Such
+3 notification shall occur at the beginning and termination of any such
+4 program;
+5 (c) When a convicted person escapes or does not return from a
+6 granted furlough or release and again when the convicted person is
+7 returned into custody;
+8 (d) When a convicted person is discharged from custody upon
+9 completion of his or her sentence. Such notice shall be given at least
+10 thirty days before discharge, when practicable;
+11 (e) Of the (i) department's calculation of the earliest parole
+12 eligibility date of the prisoner with all potential good time or
+13 disciplinary credits considered if the sentence exceeds ninety days or
+14 (ii) county corrections agency's calculation of the earliest release date
+15 of the prisoner. The victim may request one notice of the calculation
+16 described in this subdivision. Such information shall be mailed not later
+17 than thirty days after receipt of the request;
+18 (f) Of any reduction in the prisoner's minimum sentence; and
+19 (g) Of the victim's right to submit a statement as provided in
+20 section 81-1848.
+21 (5) A victim whose name appears in the file of a convicted person
+22 shall be notified by the Department of Health and Human Services:
+23 (a) When a person described in subsection (6) of this section
+24 becomes the subject of a petition pursuant to the Nebraska Mental Health
+25 Commitment Act or the Sex Offender Commitment Act prior to his or her
+26 discharge from custody upon the completion of his or her sentence or
+27 within thirty days after such discharge. The county attorney who filed
+28 the petition shall notify the Department of Correctional Services of such
+29 petition. The Department of Correctional Services shall forward the names
+30 and addresses of victims appearing in the file of the convicted person to
+31 the Department of Health and Human Services; and
+-22-
+
+LB909 LB909
+2026 2026
+1 (b) When a person under a mental health board commitment pursuant to
+2 subdivision (a) of this subsection:
+3 (i) Escapes from an inpatient facility providing board-ordered
+4 treatment and again when the person is returned to an inpatient facility;
+5 (ii) Is discharged or has a change in disposition from inpatient
+6 board-ordered treatment;
+7 (iii) Is granted a furlough or release for twenty-four hours or
+8 longer; and
+9 (iv) Is released into educational release programs or work release
+10 programs. Such notification shall occur at the beginning and termination
+11 of any such program.
+12 (6) Subsection (5) of this section applies to a person convicted of
+13 a covered offense which is also alleged to be the recent act or threat
+14 underlying the commitment of such person as mentally ill and dangerous or
+15 as a dangerous sex offender as defined in section 83-174.01.
+16 (7) A victim whose name appears in the file of a person convicted of
+17 a covered offense shall be notified, via certified mail, by the Board of
+18 Pardons:
+19 (a) Of any pardon or commutation proceedings at least thirty
+20 calendar days prior to the proceedings; and
+21 (b) If a pardon or commutation has been granted, within ten days
+22 after such granting.
+23 (8) The Board of Parole, the Department of Correctional Services,
+24 the Department of Health and Human Services, and the Board of Pardons
+25 shall adopt and promulgate rules and regulations as needed to carry out
+26 this section.
+27 (9) The victim's address and telephone number maintained by the
+28 Department of Correctional Services, the Department of Health and Human
+29 Services, the county corrections agency, the Board of Parole, and the
+30 Board of Pardons pursuant to subsection (2) of this section shall be
+31 exempt from disclosure under Nebraska public records laws and federal
+-23-
+
+LB909 LB909
+2026 2026
+1 freedom of information laws, as such federal laws existed on January 1,
+2 2004.
+3 Sec. 13. Section 83-4,143, Reissue Revised Statutes of Nebraska, is
+4 amended to read:
+5 83-4,143 (1) It is the intent of the Legislature that the Board of
+6 Parole may recommend placement of felony offenders at the incarceration
+7 work camp. The offenders recommended by the board shall be offenders
+8 currently housed at other Department of Correctional Services adult
+9 correctional facilities and shall complete the incarceration work camp
+10 programming prior to release on parole.
+11 (2) When the Board of Parole is of the opinion that a felony
+12 offender currently incarcerated in a Department of Correctional Services
+13 adult correctional facility may benefit from a brief and intensive period
+14 of regimented, structured, and disciplined programming immediately prior
+15 to release on parole, the board may direct placement of such an offender
+16 in an incarceration work camp for a period not to exceed one hundred
+17 eighty days as a condition of release on parole. The board may consider
+18 such placement if the felony offender (a) is medically and mentally fit
+19 to participate, with allowances given for reasonable accommodation as
+20 determined by medical and mental health professionals, and (b) has not
+21 previously been incarcerated for a violent felony crime, and (c) is not
+22 incarcerated for a covered offense. Offenders convicted of a crime under
+23 sections 28-319 to 28-322.05 or of any capital crime are not eligible to
+24 be placed in an incarceration work camp.
+25 (3) The Director of Correctional Services may assign a felony
+26 offender to an incarceration work camp if he or she believes it is in the
+27 best interests of the felony offender and of society, except that
+28 offenders incarcerated for covered offenses convicted of a crime under
+29 sections 28-319 to 28-322.05 or of any capital crime are not eligible to
+30 be assigned to an incarceration work camp pursuant to this subsection.
+31 (4) For purposes of this section, covered offense means:
+-24-
+
+LB909 LB909
+2026 2026
+1 (a) A capital crime; or
+2 (b) A violation of section 28-316 or section 5 of this act or
+3 sections 28-319 to 28-322.05.
+4 Sec. 14. Section 84-941.01, Reissue Revised Statutes of Nebraska, is
+5 amended to read:
+6 84-941.01 Potentially disqualifying conviction includes a conviction
+7 for:
+8 (1) Criminal attempt as provided in section 28-201, conspiracy as
+9 provided in section 28-202, or aiding and abetting as provided in section
+10 28-206, to commit an offense listed in this section;
+11 (2) Murder as provided in sections 28-303 or 28-304;
+12 (3) Manslaughter as provided in section 28-305;
+13 (4) Motor vehicle homicide as provided in section 28-306;
+14 (5) Assault in the first or second degree as provided in sections
+15 28-308 and 28-309;
+16 (6) Terroristic threats as provided in section 28-311.01;
+17 (7) Stalking as provided in section 28-311.03;
+18 (8) Kidnapping as provided in section 28-313;
+19 (9) False imprisonment as provided in sections 28-314 and 28-315;
+20 (10) A sexual act subject to criminal penalties as provided in
+21 section 28-316.01 or section 5 of this act or sections 28-317 to
+22 28-322.05;
+23 (11) Domestic assault as provided in section 28-323;
+24 (12) Robbery as provided in section 28-324;
+25 (13) Arson as provided in sections 28-502, 28-503, and 28-504;
+26 (14) Fraud subject to criminal penalties as provided in sections
+27 28-505, 28-631, 28-638, 28-639, 28-640, and 28-935;
+28 (15) Theft as provided in sections 28-511, 28-512, 28-513, and
+29 28-515;
+30 (16) Forgery as provided in sections 28-602 and 28-603;
+31 (17) Incest as provided in section 28-703;
+-25-
+
+LB909 LB909
+2026 2026
+1 (18) Child abuse as provided in section 28-707;
+2 (19) Human trafficking, labor trafficking, sex trafficking, labor
+3 trafficking of a minor, or sex trafficking of a minor as provided in
+4 section 28-831;
+5 (20) False reporting as provided in section 28-907;
+6 (21) Perjury as provided in section 28-915;
+7 (22) Assault on an officer, an emergency responder, certain
+8 employees, or a health care professional in the first degree as provided
+9 in section 28-929;
+10 (23) Assault on an officer, an emergency responder, certain
+11 employees, or a health care professional in the second degree as provided
+12 in section 28-930;
+13 (24) Assault on an officer, an emergency responder, certain
+14 employees, or a health care professional in the third degree as provided
+15 in section 28-931;
+16 (25) Assault on an officer, an emergency responder, certain
+17 employees, or a health care professional using a motor vehicle as
+18 provided in section 28-931.01;
+19 (26) An offense that has as an element the threat to inflict serious
+20 bodily injury as defined in section 28-109 or death on another person,
+21 the intentional infliction of serious bodily injury as defined in section
+22 28-109 on another person, or intentionally causing the death of another
+23 person;
+24 (27) An offense for which registration is required under the Sex
+25 Offender Registration Act; or
+26 (28) Any offense under the laws of another jurisdiction that is
+27 substantially equivalent to any of the offenses listed in this section.
+28 Sec. 15. Original sections 83-4,143 and 84-941.01, Reissue Revised
+29 Statutes of Nebraska, section 27-404, Revised Statutes Cumulative
+30 Supplement, 2024, and sections 26-102, 27-413, 28-101, 28-318, 28-712.01,
+31 28-1701, 29-4003, 29-4309, 29-4316, and 81-1850, Revised Statutes
+-26-
+
+LB909 LB909
+2026 2026
+1 Supplement, 2025, are repealed.
+-27-

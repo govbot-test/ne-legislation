@@ -1,0 +1,159 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LB472 LB472
+2025 2025
+LEGISLATURE OF NEBRASKA
+ONE HUNDRED NINTH LEGISLATURE
+FIRST SESSION
+LEGISLATIVE BILL 472
+Introduced by McKeon, 41.
+Read first time January 21, 2025
+Committee: Government, Military and Veterans Affairs
+1 A BILL FOR AN ACT relating to government regulations; to adopt the
+2 Regulatory Management Act.
+3 Be it enacted by the people of the State of Nebraska,
+-1-
+
+LB472 LB472
+2025 2025
+1 Section 1. Sections 1 to 3 of this act shall be known and may be
+2 cited as the Regulatory Management Act.
+3 Sec. 2. For purposes of the Regulatory Management Act:
+4 (1) Agency means each board, commission, department, officer,
+5 division, or other administrative office or unit of the state government
+6 authorized by law to make rules and regulations, except the Adjutant
+7 General's office as provided in Chapter 55, the courts including the
+8 Nebraska Workers' Compensation Court, the Commission of Industrial
+9 Relations, the Legislature, and the Secretary of State with respect to
+10 the duties imposed by the act;
+11 (2) Anecdotal problem means an isolated incident or issue based on
+12 individual cases or specific situations, not indicative of a broader
+13 pattern or systemic deficiency, and typically resolvable through existing
+14 procedures or case-by-case interventions without necessitating new
+15 regulatory requirements;
+16 (3) Cost of compliance means the total estimated financial burden
+17 imposed on individuals or businesses to adhere to regulatory
+18 requirements;
+19 (4) Monetized cost or benefit means those costs or benefits that can
+20 be expressed in monetary terms, such as health benefits leading to a
+21 reduction in health care costs for employees, improvements to market
+22 efficiency due to loss reduction or reduced transaction costs, consumer
+23 savings, licensure and registration fees, legal costs, certification and
+24 education costs, material costs, or opportunity costs related to property
+25 value or usage;
+26 (5) Nonmonetized cost or benefit means those costs or benefits that
+27 cannot be easily quantified in monetary terms, such as costs or benefits
+28 associated with changes in privacy protections, indirect environmental
+29 impacts, changes in how markets are regulated, or changes in security
+30 protocols or requirements;
+31 (6) Regulatory requirement means any action or step that must be
+-2-
+
+LB472 LB472
+2025 2025
+1 taken or piece of information that must be provided in accordance with
+2 legislation, regulation, guidance, policy, or forms, but does not include
+3 nonbinding statements such as statements concerning only the internal
+4 management of any agency not affecting private rights or procedures,
+5 declaratory rulings, intra-agency or interagency memoranda, or agency
+6 guidance that is not enforceable under the rule of law; and
+7 (7) Systemic failure or problem means a widespread market failure,
+8 government failure, or other issue affecting the functionality or
+9 efficiency of an industry, market, process, or system within the state
+10 that (a) is identified using a coherent and testable theory explaining
+11 why the failure or problem is systemic rather than anecdotal and (b) is
+12 reasonably considered to be possible to resolve or mitigate through
+13 regulatory intervention.
+14 Sec. 3. (1)(a) The Office of Regulatory Management is established,
+15 which shall be under the direct control and supervision of the Director
+16 of Regulatory Management appointed by the Governor to serve at the
+17 pleasure of the Governor.
+18 (b) The Director of Regulatory Management shall exercise the powers
+19 and perform the duties conferred or imposed by the Regulatory Management
+20 Act and perform such other duties as may be required by the Governor. The
+21 director shall be responsible for the overall supervision of the office's
+22 programs and personnel. The office shall serve as an agency whose
+23 services are primarily for the support and regulation of other state
+24 agencies in carrying out their regulatory functions.
+25 (c) The office shall include appropriate staff to carry out the
+26 duties and programs assigned to the office.
+27 (2) The office shall supervise the establishment of a baseline
+28 catalog of regulatory requirements currently in effect and accurately
+29 maintain and publish such catalog in a manner that is fully transparent.
+30 In order to create this catalog:
+31 (a) Each agency shall conduct and communicate to the office an
+-3-
+
+LB472 LB472
+2025 2025
+1 internal review of all regulatory requirements currently in effect and
+2 update such review at the request of the office or every two years,
+3 whichever is soonest;
+4 (b) Each regulatory requirement shall be listed along with its
+5 governing regulation, statutory authority or requirement, or other
+6 relevant documentation. The catalog shall retain a consistent format to
+7 ensure data efficacy over time;
+8 (c) Agency reviews, pursuant to this subsection, shall be completed
+9 and communicated to the office no later than six months after the
+10 effective date of this act. Thereafter, updates to agency reviews shall
+11 be completed and communicated to the office no later than sixty days
+12 after an update request or at the end of the two-year period described in
+13 this subsection if no update has been requested by the office; and
+14 (d) The office shall publish, in a manner that is fully transparent,
+15 a biennial report showing the change in the number and estimated impact
+16 of regulatory requirements currently enacted by each agency. Such report
+17 shall include an estimated change in cost of compliance for the median
+18 citizen or business of the State of Nebraska.
+19 (3) The office shall collect, analyze, assess, and publish agency
+20 evaluations, reports, needs assessments, or other due diligence related
+21 to new regulatory requirements to ensure best practices are being
+22 utilized in the creation of new requirements. All departments, agencies,
+23 offices, or divisions of the State of Nebraska shall provide the office
+24 with such evaluations, reports, needs assessments, or other due diligence
+25 upon request.
+26 (4) The office shall endeavor to ensure that agencies are (a)
+27 clearly identifying a systemic failure or problem that requires new
+28 regulatory action to solve and not an anecdotal problem that could be
+29 handled on a case-by-case basis, (b) analyzing credible and substantial
+30 empirical evidence to support the agency's identification of a systemic
+31 failure or problem, (c) establishing a clear analysis of the costs and
+-4-
+
+LB472 LB472
+2025 2025
+1 benefits of new regulatory requirements to be taken to solve a systemic
+2 failure or problem identified by the agency, and (d) adequately
+3 addressing uncertainty about the existence or impact of the systemic
+4 failure or problem identified by the agency.
+5 (5) When establishing an analysis of a regulatory requirement, an
+6 agency shall provide monetized estimates of nonmonetized costs or
+7 benefits when such an estimate is feasible, and quantitative estimates of
+8 nonmonetized effects when such an estimate is not feasible. If neither a
+9 monetized nor a quantitative estimate is feasible for a nonmonetized
+10 cost, agencies shall provide a note within the analysis with qualitative
+11 descriptions of such nonmonetized costs and benefits.
+12 (6) If the office determines that best practices were not used in
+13 identifying a systemic failure or problem and subsequent regulatory
+14 action taken by an agency, the office shall communicate to the agency and
+15 the Governor a request to reevaluate the decision to take regulatory
+16 action based on the best practices established in the Regulatory
+17 Management Act and those further established by the office. The office
+18 shall not consider a statement of statutory authorization to be
+19 sufficient due diligence in the identification of a systemic failure or
+20 problem or as substantial evidence of the need for new regulatory action.
+21 (7) The office shall publish agency evaluations, reports, needs
+22 assessments, or other due diligence provided, as well as the office's
+23 assessment thereof, in a manner that is fully transparent.
+24 (8) If any new regulatory requirement is mandated by statute, such
+25 information shall be included in the information provided to the office
+26 and shall be published in the office's assessment thereof in accordance
+27 with the act.
+28 (9) The office shall not have the authority to authorize or reject
+29 regulatory actions taken by any other agency.
+-5-
