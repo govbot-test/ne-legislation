@@ -1,0 +1,666 @@
+Title: 
+Official Title: 
+Source: versions - Natural Resources AM2422 Brandt AM2387 Prokop AM2517
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+AM2422 AM2422
+LB1010 LB1010
+QNC - 03/03/2026 QNC - 03/03/2026
+AMENDMENTS TO LB1010
+Introduced by Natural Resources.
+1 1. Strike the original sections and insert the following new
+2 sections:
+3 Section 1. Sections 1 to 4 of this act shall be known and may be
+4 cited as the Large Load Customer Regulation Act.
+5 Sec. 2. For purposes of the Large Load Customer Regulation Act:
+6 (1) Large load customer means a retail load customer requesting a
+7 new or expanded interconnection where the total load at a single site
+8 would exceed twenty megawatts;
+9 (2) Onsite backup generating facilities means (a) generation of one
+10 megawatt or larger that is not capable of operating in parallel with the
+11 grid for greater than one-tenth of a second or (b) generation of one
+12 megawatt or larger that is capable of operating continuously in parallel
+13 with the grid, non-exporting, and meeting applicable generator
+14 interconnection requirements; and
+15 (3) Public power supplier means a public power district organized
+16 under Chapter 70, article 6, a public power and irrigation district, a
+17 municipality, a registered group of municipalities, an electric
+18 cooperative, an electric membership association, a joint entity formed
+19 under the Interlocal Cooperation Act, a joint public agency formed under
+20 the Joint Public Agency Act, an agency formed under the Municipal
+21 Cooperative Financing Act, or any other governmental entity providing
+22 electric service.
+23 Sec. 3. (1) Public power suppliers shall establish standards for
+24 interconnecting large load customers in a manner designed to support
+25 business development in this state while mitigating the potential for
+26 stranded infrastructure costs and maintaining system reliability. The
+27 standards shall include, but are not limited to:
+-1-
+
+AM2422 AM2422
+LB1010 LB1010
+QNC - 03/03/2026 QNC - 03/03/2026
+1 (a) A requirement for each large load customer to disclose to the
+2 interconnecting public power supplier whether the customer is pursuing a
+3 substantially similar request for electric service the approval of which
+4 would result in the customer materially changing, delaying, or
+5 withdrawing the interconnection request. The disclosure may redact
+6 competitively sensitive details. The public power supplier shall not
+7 sell, share, or disclose the information submitted to it under this
+8 subdivision;
+9 (b) A requirement for each interconnected large load customer to
+10 disclose to the interconnecting public power supplier information about
+11 the customer's onsite backup generating facilities. The public power
+12 supplier shall use such information for purposes of the procedure
+13 described in section 4 of this act;
+14 (c) A study fee of fifty thousand dollars or one thousand dollars
+15 per megawatt, whichever is greater, to be paid to the interconnecting
+16 public power supplier for initial studies for loads that exceed the load
+17 threshold described in subdivision (1) of section 2 of this act. A large
+18 load customer that requests additional capacity following the study shall
+19 pay an additional study fee based on the new request. The public power
+20 supplier shall complete the study within one year after receiving the
+21 study fee;
+22 (d) A method for a large load customer to demonstrate site control
+23 for the proposed load location; and
+24 (e) Financial commitment requirements for the development of
+25 transmission and generation infrastructure needed to serve a large load
+26 customer.
+27 (2) A public power supplier is authorized to establish or negotiate
+28 rates, charges, and operating standards for each large load customer that
+29 fairly allocate electricity system costs to the large load customer and
+30 also mitigate (a) operational and resource adequacy risks and (b)
+31 financial risks to other customers, without regard to the requirements of
+-2-
+
+AM2422 AM2422
+LB1010 LB1010
+QNC - 03/03/2026 QNC - 03/03/2026
+1 section 70-655.
+2 (3) A public power supplier may impose electric service requirements
+3 for large load customers on its system in addition to the standards
+4 established under this section.
+5 Sec. 4. Public power suppliers shall develop a procedure to:
+6 (1) Procure demand response, reductions, and load flexibility from
+7 large load customers; and
+8 (2) In the event of grid instability or an emergency condition,
+9 require the affected large load customers to curtail load or, for those
+10 customers with onsite backup generating facilities, to deploy such
+11 facilities for the duration of the grid instability or emergency
+12 condition or until the load can be recalled safely.
+13 Sec. 5. Section 70-670, Reissue Revised Statutes of Nebraska, is
+14 amended to read:
+15 70-670 (1) In addition to any other rights and powers conferred upon
+16 any district organized under or subject to Chapter 70, article 6, each
+17 such district shall have and exercise the power of eminent domain to
+18 acquire from any person, firm, association, or private corporation any
+19 and all property owned, used, or operated, or useful for operation, in
+20 the generation, transmission, storage, or distribution of electrical
+21 energy, including an existing electric utility system or any part
+22 thereof. The procedure to condemn property shall be exercised in the
+23 manner set forth in Chapter 76, article 7.
+24 (2) In the case of the acquisition through the exercise of the power
+25 of eminent domain of an existing electric utility system or part thereof,
+26 the Attorney General shall, upon request of any district, represent such
+27 district in the institution and prosecution of condemnation proceedings.
+28 After acquisition of an existing electric utility system through the
+29 exercise of the power of eminent domain, the district shall reimburse the
+30 state for all costs and expenses incurred in the condemnation proceedings
+31 by the Attorney General.
+-3-
+
+AM2422 AM2422
+LB1010 LB1010
+QNC - 03/03/2026 QNC - 03/03/2026
+1 (3) A district may agree to limit its exercise of the power of
+2 eminent domain to acquire a project which is a renewable energy
+3 generation facility producing electricity with wind and any related
+4 facilities.
+5 (4) No property owned, used, or operated as part of a privately
+6 developed renewable energy generation facility meeting the requirements
+7 of section 70-1014.02 shall be subject to eminent domain by any consumer-
+8 owned electric supplier operating in the State of Nebraska.
+9 Sec. 6. Section 70-704, Revised Statutes Cumulative Supplement,
+10 2024, is amended to read:
+11 70-704 Each corporation shall have power: (1) To sue and be sued,
+12 complain, and defend, in its corporate name; (2) to have perpetual
+13 succession unless a limited period of duration is stated in its articles
+14 of incorporation; (3) to adopt a corporate seal, which may be altered at
+15 pleasure, and to use it or a facsimile thereof, as required by law; (4)
+16 to generate, manufacture, purchase, acquire, and accumulate electric
+17 energy and to store, transmit, distribute, sell, furnish, and dispose of
+18 such electric energy; (5) to acquire, own, hold, use, exercise and, to
+19 the extent permitted by law, to sell, mortgage, pledge, hypothecate, and
+20 in any manner dispose of franchises, rights, privileges, licenses,
+21 rights-of-way, and easements necessary, useful, or appropriate; (6) to
+22 purchase, receive, lease as lessee, or in any other manner acquire, own,
+23 hold, maintain, sell, exchange, and use any and all real and personal
+24 property or any interest therein for the purposes expressed herein; (7)
+25 to borrow money and otherwise contract indebtedness, to issue its
+26 obligations therefor, and to secure the payment thereof by mortgage,
+27 pledge, or deed of trust of all or any of its property, assets,
+28 franchises, revenue, or income; (8) to sell and convey, mortgage, pledge,
+29 lease as lessor, and otherwise dispose of all or any part of its property
+30 and assets; (9) to have the same powers now exercised by law by public
+31 light and power districts or private corporations to use any of the
+-4-
+
+AM2422 AM2422
+LB1010 LB1010
+QNC - 03/03/2026 QNC - 03/03/2026
+1 streets, highways, or public lands of the state or its political
+2 subdivisions in the manner provided by law; (10) to have and exercise the
+3 power of eminent domain for the purposes expressed in section 70-703 in
+4 the manner set forth in sections 76-704 to 76-724 and to have the powers
+5 and be subject to the restrictions of electric light and power
+6 corporations and districts as regards the use and occupation of public
+7 highways and the manner or method of construction and physical operation
+8 of plants, systems, and transmission lines; (11) to accept gifts or
+9 grants of money, services, or property, real or personal; (12) to make
+10 any and all contracts necessary or convenient for the exercise of the
+11 powers granted herein; (13) to fix, regulate, and collect rates, fees,
+12 rents, or other charges for electric energy furnished by the corporation;
+13 (14) to elect or appoint officers, agents, and employees of the
+14 corporation and to define their duties and fix their compensation; (15)
+15 to make and alter bylaws not inconsistent with the articles of
+16 incorporation or with the laws of this state for the administration and
+17 regulation of the affairs of the corporation; (16) to sell, lease, or
+18 license its dark fiber pursuant to sections 86-574 to 86-578; and (17) to
+19 do and perform, either for itself or its members or for any other
+20 corporation organized under the Electric Cooperative Corporation Act or
+21 for the members thereof, any and all acts and things and to have and
+22 exercise any and all powers as may be necessary, convenient, or
+23 appropriate to effectuate the purpose for which the corporation is
+24 organized. Notwithstanding any law, ordinance, resolution, or regulation
+25 of any political subdivision to the contrary, each corporation may
+26 receive funds and extend loans pursuant to the Nebraska Investment
+27 Finance Authority Act.
+28 Sec. 7. Section 70-1001.01, Revised Statutes Supplement, 2025, is
+29 amended to read:
+30 70-1001.01 For purposes of sections 70-1001 to 70-1028.02, unless
+31 the context otherwise requires:
+-5-
+
+AM2422 AM2422
+LB1010 LB1010
+QNC - 03/03/2026 QNC - 03/03/2026
+1 (1) Associated energy storage resource means any energy storage
+2 resource that:
+3 (a) Is located on the premises of a privately developed renewable
+4 energy generation facility;
+5 (b) Has the primary purpose of storing the electric energy produced
+6 at such facility; and
+7 (c) Has a maximum limit of electricity output that, aggregated with
+8 a co-located generation facility, is collectively limited to the
+9 nameplate capacity of such generation facility;
+10 (2) (1) Board means the Nebraska Power Review Board;
+11 (3) (2) Commercial electric vehicle charging station means equipment
+12 designed to provide electricity for a fee for the charging of an electric
+13 vehicle or a plug-in hybrid electric vehicle, including an electric
+14 vehicle direct-current charger or a super-fast charger, any successor
+15 technology, and all components thereof. Commercial electric vehicle
+16 charging station does not include the residence of a person where an
+17 electric vehicle or a plug-in hybrid electric vehicle is charged if no
+18 customer usage fee is charged;
+19 (4) (3) Commercial electric vehicle charging station operator means
+20 a person, partnership, corporation, or other business entity or political
+21 subdivision that operates a commercial electric vehicle charging station;
+22 (5) (4) Direct-current, fast-charging station means a publicly
+23 available charging system capable of delivering at least fifty kilowatts
+24 of direct-current electrical power to an electric vehicle's rechargeable
+25 battery at a voltage of two hundred volts or greater;
+26 (6) (5) Direct-current, fast-charging station operator means a
+27 person, partnership, corporation, or other business entity that operates
+28 a direct-current, fast-charging station open to the public. The term does
+29 not include an electric supplier or a political subdivision;
+30 (7) (6) Electric supplier or supplier of electricity means any legal
+31 entity supplying, producing, storing, or distributing electricity within
+-6-
+
+AM2422 AM2422
+LB1010 LB1010
+QNC - 03/03/2026 QNC - 03/03/2026
+1 the state for sale at wholesale or retail. Electric supplier does not
+2 include a commercial electric vehicle charging station operator that is a
+3 private person or privately owned partnership, privately owned
+4 corporation, or other privately owned business;
+5 (8) (7) Electronic-related means relating to electronic devices,
+6 circuits, or similar systems, or the components of such electronic
+7 devices, circuits, or similar systems, that require electrical currents
+8 or electromagnetism to operate;
+9 (9) Energy storage resource means a facility that is capable of
+10 receiving electric energy from the electrical grid, or from a generation
+11 source with which such facility is associated, and capable of storing
+12 such energy for later injection into the electrical grid. Energy storage
+13 resource does not include any device or equipment that is intended solely
+14 to inject or absorb reactive power, including any capacitor or
+15 synchronous condenser, or any equipment that is intended solely to
+16 provide electric energy for electric vehicles;
+17 (10) (8) Foreign adversary means a foreign government or foreign
+18 nongovernment person determined to be a foreign adversary pursuant to 15
+19 C.F.R. 791.4, as such regulation existed on February 7, 2025;
+20 (11) (9) Military installation means:
+21 (a) A United States Air Force ballistic missile silo located within
+22 the geographic area described in 31 C.F.R. 802.211(b)(3), as such
+23 regulation existed on January 1, 2025; or
+24 (b) A United States Air Force base described in 31 C.F.R.
+25 802.227(c), as such regulation existed on January 1, 2025;
+26 (12) (10) Plug-in hybrid electric vehicle has the same meaning as in
+27 section 60-345.01;
+28 (13) (11) Private electric supplier means an electric supplier that
+29 produces or stores producing electricity from a privately developed
+30 renewable energy generation facility or energy storage resource that is
+31 not a public power district, a public power and irrigation district, a
+-7-
+
+AM2422 AM2422
+LB1010 LB1010
+QNC - 03/03/2026 QNC - 03/03/2026
+1 municipality, a registered group of municipalities, an electric
+2 cooperative, an electric membership association, any other governmental
+3 entity, or any combination thereof. A private electric supplier is
+4 limited to the development of energy storage resources and privately
+5 developed renewable energy generation facilities those facilities as
+6 provided in subdivision (12) of this section;
+7 (14) (12) Privately developed renewable energy generation facility
+8 means and is limited to a facility that (a) generates electricity using
+9 solar, wind, geothermal, biomass, landfill gas, or biogas, including all
+10 associated energy storage resources of the facility and all electrically
+11 connected equipment used to produce, collect, and store the facility
+12 output up to and including the transformer that steps up the voltage to
+13 sixty thousand volts or greater, and including supporting structures,
+14 buildings, and roads, unless otherwise agreed to in a joint transmission
+15 development agreement, (b) is developed, constructed, and owned, in whole
+16 or in part, by one or more private electric suppliers, and (c) is not
+17 wholly owned by a public power district, a public power and irrigation
+18 district, a municipality, a registered group of municipalities, an
+19 electric cooperative, an electric membership association, any other
+20 governmental entity, or any combination thereof;
+21 (15) (13) Regional transmission organization means an entity
+22 independent from those entities generating or marketing electricity at
+23 wholesale or retail, which has operational control over the electric
+24 transmission lines in a designated geographic area in order to reduce
+25 constraints in the flow of electricity and ensure that all power
+26 suppliers have open access to transmission lines for the transmission of
+27 electricity;
+28 (16) (14) Reliable or reliability means the ability of an electric
+29 supplier to supply the aggregate electric power and energy requirements
+30 of its electricity consumers in Nebraska at all times under normal
+31 operating conditions, taking into account scheduled and unscheduled
+-8-
+
+AM2422 AM2422
+LB1010 LB1010
+QNC - 03/03/2026 QNC - 03/03/2026
+1 outages, including sudden disturbances or unanticipated loss of system
+2 components that are to be reasonably expected for any electric utility
+3 following prudent utility practices, recognizing certain weather
+4 conditions and other contingencies may cause outages at the distribution,
+5 transmission, and generation level;
+6 (17) (15) Representative organization means an organization
+7 designated by the board and organized for the purpose of providing joint
+8 planning and encouraging maximum cooperation and coordination among
+9 electric suppliers. Such organization shall represent electric suppliers
+10 owning a combined electric generation plant accredited capacity of at
+11 least ninety percent of the total electric generation plant accredited
+12 capacity constructed and in operation within the state;
+13 (18) (16) State means the State of Nebraska; and
+14 (19) (17) Unbundled retail rates means the separation of utility
+15 bills into the individual price components for which an electric supplier
+16 charges its retail customers, including, but not limited to, the separate
+17 charges for the generation, transmission, and distribution of
+18 electricity.
+19 Sec. 8. Section 70-1012, Revised Statutes Supplement, 2025, is
+20 amended to read:
+21 70-1012 (1) Before any electric generation facilities, any energy
+22 storage resources, or any transmission lines or related facilities
+23 carrying more than seven hundred volts are constructed or acquired by any
+24 supplier, an application, filed with the board and containing such
+25 information as the board shall prescribe, shall be approved by the board,
+26 except that such approval shall not be required (a) for the construction
+27 or acquisition of a transmission line extension or related facilities
+28 within a supplier's own service area or for the construction or
+29 acquisition of a line not exceeding one-half mile outside its own service
+30 area when all owners of electric lines located within one-half mile of
+31 the extension consent thereto in writing and such consents are filed with
+-9-
+
+AM2422 AM2422
+LB1010 LB1010
+QNC - 03/03/2026 QNC - 03/03/2026
+1 the board, (b) for any generation facility when the board finds that (i)
+2 such facility is being constructed or acquired to replace a generating
+3 plant owned by an individual municipality or registered group of
+4 municipalities with a capacity not greater than that of the plant being
+5 replaced, (ii) such facility will generate less than twenty-five thousand
+6 kilowatts of electric energy at rated capacity, and (iii) the applicant
+7 will not use the plant or transmission capacity to supply wholesale power
+8 to customers outside the applicant's existing retail service area or
+9 chartered territory, (c) for acquisition of transmission lines or related
+10 facilities, within the state, carrying one hundred fifteen thousand volts
+11 or less, if the current owner of the transmission lines or related
+12 facilities notifies the board of the lines or facilities involved in the
+13 transaction and the parties to the transaction, or (d) for the
+14 construction of a qualified facility as defined in section 70-2002.
+15 (2)(a) Before any electric supplier commences construction of or
+16 acquires an electric generation facility, energy storage resource, or
+17 transmission lines or related facilities carrying more than seven hundred
+18 volts that will be or are located within a ten-mile radius of a military
+19 installation, the owner of such facility, resource, transmission lines,
+20 or related facilities shall provide written notice certifying to the
+21 board that such facility, resource, or facilities contain no electronic-
+22 related equipment or electronic-related components manufactured by any
+23 foreign adversary.
+24 (b) Any electric supplier that supplies, produces, stores, or
+25 distributes supplying, producing, or distributing electricity within the
+26 state for sale at retail is exempt from subdivision (a) of this
+27 subsection if it is in compliance with the critical infrastructure
+28 protection requirements issued by the North American Electric Reliability
+29 Corporation. To receive such exemption, the electric supplier shall
+30 submit written notice to the board certifying that it is in such
+31 compliance. The electric supplier shall also submit written notice to the
+-10-
+
+AM2422 AM2422
+LB1010 LB1010
+QNC - 03/03/2026 QNC - 03/03/2026
+1 board at any time such supplier is no longer in such compliance.
+2 (3)(a) Before any electric supplier that is not exempt from
+3 subdivision (2)(a) of this section commences construction of or acquires
+4 an electric generation facility or transmission lines or related
+5 facilities carrying more than seven hundred volts that will be or are
+6 located within a ten-mile radius of a military installation, the electric
+7 supplier shall, following consultation with such supplier's vendors,
+8 submit a one-time written notice to the board certifying that such
+9 facility or facilities continually contain no electronic-related
+10 equipment or electronic-related components manufactured by any foreign
+11 adversary.
+12 (b) The electric supplier shall also submit written notice to the
+13 board at any time such facility or facilities are no longer in compliance
+14 with the certification provided under subdivision (a) of this subsection.
+15 (4) Notwithstanding subsections (2) and (3) of this section, an
+16 electric supplier required to provide certification under subsection (2)
+17 of this section may use electronic-related equipment or electronic-
+18 related components manufactured by a foreign adversary if the board
+19 preapproves the use of such equipment or components after finding that:
+20 (a) There is no other reasonable option for procuring such equipment
+21 or components; and
+22 (b) Not procuring or using such equipment or components would cause
+23 a greater harm to the state or residents of the state than the harm
+24 associated with the equipment or components.
+25 (5) Before any private electric supplier commences construction or
+26 acquires an energy storage resource or related facilities, the owners of
+27 such resource or proposed resource shall file an application with the
+28 board that contains the information prescribed by the board and shall
+29 obtain approval of such application by the board. Such application shall
+30 include evidence that demonstrates to the board that:
+31 (a) The private electric supplier has entered into or, prior to
+-11-
+
+AM2422 AM2422
+LB1010 LB1010
+QNC - 03/03/2026 QNC - 03/03/2026
+1 construction, will enter into a power purchase agreement or similar
+2 contractual agreement with a Nebraska public power district, public power
+3 and irrigation district, municipality, registered group of
+4 municipalities, electric cooperative, or electric membership association,
+5 any other governmental entity, or any combination thereof for purchase of
+6 all electric energy and electric capacity of such resource and will
+7 maintain a contractual relationship throughout the operational life of
+8 the resource;
+9 (b) The private electric supplier has obtained written consent from
+10 each electric supplier that will have any part of the energy storage
+11 resource located in its chartered territory or retail service area and
+12 any other electric supplier that will be interconnected with the private
+13 electric supplier at a substation or switchyard that contains facilities
+14 rated at one hundred kilovolts or greater. Any written consent that is
+15 required under this subdivision shall be provided on a form that is
+16 prescribed by the board. Such written consent shall be filed with the
+17 board with the application; and
+18 (c) The private electric supplier has entered into a joint
+19 transmission development agreement with the consumer-owned electric
+20 supplier that owns the transmission facilities that will interconnect
+21 with the energy storage resource. The agreement shall address
+22 construction, ownership, operation, and maintenance of such additions or
+23 upgrades to the transmission facilities as required for the energy
+24 storage resource. The joint transmission development agreement shall be
+25 negotiated and executed contemporaneously with the generator
+26 interconnection agreement or any other directive of the applicable
+27 regional transmission organization with jurisdiction over the addition or
+28 upgrade of transmission. The terms of such agreement shall be consistent
+29 with prudent electric utility practices for the interconnection of the
+30 energy storage resource, the consumer-owned electric supplier's
+31 reasonable transmission interconnection requirements, and applicable
+-12-
+
+AM2422 AM2422
+LB1010 LB1010
+QNC - 03/03/2026 QNC - 03/03/2026
+1 transmission design and construction standards. The consumer-owned
+2 electric supplier shall have the right to purchase and own transmission
+3 facilities as set forth in the joint transmission development agreement.
+4 The private electric supplier that owns the energy storage resource shall
+5 have the right to construct any necessary facility or improvement set
+6 forth in the joint transmission development agreement pursuant to the
+7 standards set forth in the agreement at the private electric supplier's
+8 cost.
+9 (6) Nothing in this section shall be construed to limit the
+10 authority of or require an electric supplier that is operating in this
+11 state to enter into a joint agreement with a private electric supplier to
+12 develop, construct, or jointly own a generation facility or energy
+13 storage resource.
+14 (7) Nothing in this section shall be construed to authorize a
+15 private electric supplier to:
+16 (a) Sell or deliver electricity at retail in Nebraska;
+17 (b) Own or operate distribution facilities intended to provide
+18 retail electric service in this state; or
+19 (c) Have or use the power of eminent domain in this state.
+20 (8) An energy storage resource that is not an associated energy
+21 resource and has been approved by the board shall be exempt from the use
+22 of eminent domain by any electric supplier.
+23 (9) (5) A privately developed renewable energy generation facility
+24 is exempt from this section if it complies with section 70-1014.02.
+25 Sec. 9. Section 70-1012.01, Reissue Revised Statutes of Nebraska, is
+26 amended to read:
+27 70-1012.01 (1) If a supplier terminates construction or acquisition
+28 of electric generation or transmission facilities or energy storage
+29 resources after receiving approval for the facilities or resources from
+30 the board, the supplier shall file with the board, within thirty days
+31 after the action taken to terminate construction or acquisition, a
+-13-
+
+AM2422 AM2422
+LB1010 LB1010
+QNC - 03/03/2026 QNC - 03/03/2026
+1 statement of the factors or reasons relied upon by the supplier in taking
+2 such action. Within ten days after receipt of such a filing, the board
+3 shall give notice of the filing to such other suppliers as it deems
+4 interested or affected by such action and it shall hold a hearing for the
+5 purpose of obtaining such additional information as the board deems
+6 advisable or necessary to inform other suppliers and the public of the
+7 reasons for such termination. Notice of any such hearing shall be given
+8 to those suppliers previously given notice of the filing and to any other
+9 parties expressing interest in the approved application.
+10 (2) The board shall not have authority to approve or deny the action
+11 of a supplier terminating construction or acquisition, and any such
+12 filing or hearing shall be advisory and solely for the purpose of
+13 informing the board, other suppliers, interested parties, and the
+14 ratepayers of this state of the factors or reasons relied upon in taking
+15 action to terminate construction or acquisition.
+16 (3) Nothing in this section shall constitute or be construed as a
+17 defense to any cause of action, including a claim for breach of contract,
+18 resulting from such termination.
+19 (4) A privately developed renewable energy generation facility is
+20 exempt from this section if it complies with section 70-1014.02.
+21 Sec. 10. Section 70-1015, Revised Statutes Supplement, 2025, is
+22 amended to read:
+23 70-1015 (1) If any supplier violates Chapter 70, article 10, by
+24 either (a) commencing the construction or finalizing or attempting to
+25 finalize the acquisition of any generation facilities, any energy storage
+26 resources, any transmission lines, or any related facilities without
+27 first providing notice or obtaining board approval, whichever is
+28 required, or (b) serving or attempting to serve at retail any customers
+29 located in Nebraska or any wholesale customers in violation of section
+30 70-1002.02, such construction, acquisition, or service of such customers
+31 shall be enjoined in an action brought in the name of the State of
+-14-
+
+AM2422 AM2422
+LB1010 LB1010
+QNC - 03/03/2026 QNC - 03/03/2026
+1 Nebraska until such supplier has complied with Chapter 70, article 10.
+2 (2) If the executive director of the board determines that a private
+3 electric supplier commenced construction of a privately developed
+4 renewable energy generation facility less than thirty days prior to
+5 providing the notice and certification required in subdivisions (2)(a)
+6 and (b) of section 70-1014.02, the executive director shall send notice
+7 via certified mail to the private electric supplier, informing it of the
+8 determination that the private electric supplier is in violation of such
+9 subdivisions and is subject to a fine in the amount of five hundred
+10 dollars. The private electric supplier shall have twenty days from the
+11 date on which the notice is received in which to submit the notice and
+12 certification described in such subdivisions and to pay the fine. Within
+13 ten days after the private electric supplier submits a notice and
+14 certification compliant with subsection (2) of section 70-1014.02 and
+15 payment of the fine, the executive director of the board shall issue the
+16 written acknowledgment described in subsection (3) of section 70-1014.02.
+17 If the private electric supplier fails to submit a notice and
+18 certification compliant with subsection (2) of section 70-1014.02 and pay
+19 the fine within twenty days after the date on which the private electric
+20 supplier receives the notice from the executive director of the board,
+21 the private electric supplier shall immediately cease construction or
+22 operation of the privately developed renewable energy generation facility
+23 and any associated energy storage resource.
+24 (3) If the private electric supplier disputes that construction was
+25 commenced less than thirty days prior to submitting the written notice
+26 and certification required by subdivisions (2)(a) and (b) of section
+27 70-1014.02, the private electric supplier may request a hearing before
+28 the board. Such request shall be submitted within twenty days after the
+29 private electric supplier receives the notice sent by the executive
+30 director pursuant to subsection (2) of this section. If the private
+31 electric supplier does not accept the certified mail sent pursuant to
+-15-
+
+AM2422 AM2422
+LB1010 LB1010
+QNC - 03/03/2026 QNC - 03/03/2026
+1 such subsection, the executive director shall send a second notice to the
+2 private electric supplier by first-class United States mail. The private
+3 electric supplier may submit a request for hearing within twenty days
+4 after the date on which the second notice was mailed.
+5 (4) Upon receipt of a request for hearing, the board shall set a
+6 hearing date. Such hearing shall be held within sixty days after such
+7 receipt. The board shall provide to the private electric supplier written
+8 notice of the hearing at least twenty days prior to the date of the
+9 hearing. The board or its hearing officer may grant continuances upon
+10 good cause shown or upon the request of the private electric supplier.
+11 Timely filing of a request for hearing by a private electric supplier
+12 shall stay any further enforcement under this section until the board
+13 issues an order pursuant to subsection (5) of this section or the request
+14 for hearing is withdrawn.
+15 (5) The board shall issue a written decision within sixty days after
+16 conclusion of the hearing. All costs of the hearing shall be paid by the
+17 private electric supplier if (a) the board determines that the private
+18 electric supplier commenced construction of the privately developed
+19 renewable energy generation facility and any associated energy storage
+20 resource less than thirty days prior to submitting the written notice and
+21 certification required pursuant to subsection (2) of section 70-1014.02
+22 or (b) the private electric supplier withdraws its request for hearing
+23 prior to the board issuing its decision.
+24 (6) A private electric supplier which the board finds to be in
+25 violation of the requirements of subsection (2) of section 70-1014.02
+26 shall either (a) pay the fine described in this section and submit a
+27 notice and certification compliant with subsection (2) of section
+28 70-1014.02 or (b) immediately cease construction or operation of the
+29 privately developed renewable energy generation facility and any
+30 associated energy storage resource.
+31 Sec. 11. Section 70-1506, Revised Statutes Supplement, 2025, is
+-16-
+
+AM2422 AM2422
+LB1010 LB1010
+QNC - 03/03/2026 QNC - 03/03/2026
+1 amended to read:
+2 70-1506 (1) For purposes of this section:
+3 (a) Cryptocurrency mining means validating transactions for addition
+4 to a blockchain distributed ledger;
+5 (b) Cryptocurrency mining operation means any facility of one
+6 megawatt in size or greater that conducts cryptocurrency mining; and
+7 (c) Data center means a facility:
+8 (i) The primary services of which are the storage, management, and
+9 processing of digital data;
+10 (ii) That is used to house computer and network systems, including
+11 associated components such as servers, network equipment and appliances,
+12 telecommunications systems, data storage systems, systems for monitoring
+13 and managing infrastructure performance, Internet-related equipment and
+14 services, data communications connections, environmental controls, fire
+15 protection systems, and security systems and services; and
+16 (iii) That has a peak electricity demand of ten megawatts or more;
+17 and
+18 (d) (c) Public power supplier means a public power district,
+19 municipal electric utility, or any other government entity providing
+20 electric service.
+21 (2) A public power supplier may impose requirements on any
+22 cryptocurrency mining operation or data center for the cost of
+23 infrastructure upgrades necessitated by such operation or center
+24 operations, including, but not limited to:
+25 (a) Requiring direct payment or a letter of credit from such
+26 operation or center for such cost; or
+27 (b) Imposing terms and conditions on such operation or center that
+28 require the operation or center to pay the full cost of providing
+29 electric service and ensure no cost is passed on to other retail
+30 customers.
+31 (3) Requirements imposed pursuant to this section shall be fair,
+-17-
+
+AM2422 AM2422
+LB1010 LB1010
+QNC - 03/03/2026 QNC - 03/03/2026
+1 reasonable, and not unduly discriminatory.
+2 (4) Before any requirement is imposed pursuant to this section, the
+3 public power supplier shall conduct a load study to determine the costs,
+4 impacts, and infrastructure upgrades necessitated by the cryptocurrency
+5 mining operation or data center.
+6 (5) Any person intending to install a cryptocurrency mining
+7 operation or data center is responsible for notifying the local public
+8 power supplier of such intent, and such operation or center is subject to
+9 the interconnection requirements of such supplier.
+10 (6) The owner or operator of a data center shall submit an annual
+11 report to the Department of Water, Energy, and Environment and the
+12 Natural Resources Committee of the Legislature on or before September 30
+13 of each year that includes the following:
+14 (a) The name of the data center;
+15 (b) The names of the developers and owners of the data center;
+16 (c) The physical size of the data center in square feet;
+17 (d) The location of the data center, including street address and
+18 county;
+19 (e) The annual electricity demand of the data center;
+20 (f) The annual water usage of the data center;
+21 (g) The sales and use tax exemptions the data center utilizes or
+22 expects to utilize;
+23 (h) Any incentive payments for the data center under the ImagiNE
+24 Nebraska Act and the Nebraska Advantage Act;
+25 (i) All energy efficiency, load management, and conservation
+26 measures implemented by the data center;
+27 (j) All commitments by the data center to use renewable energy; and
+28 (k) The service life of the data center.
+29 (7) (6) Each public power supplier shall make available to the
+30 public on the supplier's website the number of cryptocurrency mining
+31 operations under the jurisdiction of the supplier and the annual energy
+-18-
+
+AM2422 AM2422
+LB1010 LB1010
+QNC - 03/03/2026 QNC - 03/03/2026
+1 usage of each operation.
+2 (8) (7) A cryptocurrency mining operation shall allow a public power
+3 supplier to interrupt such operation's electric service according to such
+4 supplier's established rate schedules and policies.
+5 Sec. 12. Original sections 70-670 and 70-1012.01, Reissue Revised
+6 Statutes of Nebraska, section 70-704, Revised Statutes Cumulative
+7 Supplement, 2024, and sections 70-1001.01, 70-1012, 70-1015, and 70-1506,
+8 Revised Statutes Supplement, 2025, are repealed.
+-19-

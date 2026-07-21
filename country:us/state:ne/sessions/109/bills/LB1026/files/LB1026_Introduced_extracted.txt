@@ -1,0 +1,154 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LB1026 LB1026
+2026 2026
+LEGISLATURE OF NEBRASKA
+ONE HUNDRED NINTH LEGISLATURE
+SECOND SESSION
+LEGISLATIVE BILL 1026
+Introduced by Storm, 23; Clouse, 37; DeKay, 40; Sorrentino, 39; Strommen,
+47.
+Read first time January 13, 2026
+Committee: Natural Resources
+1 A BILL FOR AN ACT relating to electricity; to amend section 70-1001.01,
+2 Revised Statutes Supplement, 2025; to define a term; to prohibit
+3 retirement, shutdown, cessation of operation, and alteration of
+4 operation of certain facilities as prescribed; to harmonize
+5 provisions; and to repeal the original section.
+6 Be it enacted by the people of the State of Nebraska,
+-1-
+
+LB1026 LB1026
+2026 2026
+1 Section 1. Section 70-1001.01, Revised Statutes Supplement, 2025, is
+2 amended to read:
+3 70-1001.01 For purposes of sections 70-1001 to 70-1028.02 and
+4 section 2 of this act, unless the context otherwise requires:
+5 (1) Board means the Nebraska Power Review Board;
+6 (2) Commercial electric vehicle charging station means equipment
+7 designed to provide electricity for a fee for the charging of an electric
+8 vehicle or a plug-in hybrid electric vehicle, including an electric
+9 vehicle direct-current charger or a super-fast charger, any successor
+10 technology, and all components thereof. Commercial electric vehicle
+11 charging station does not include the residence of a person where an
+12 electric vehicle or a plug-in hybrid electric vehicle is charged if no
+13 customer usage fee is charged;
+14 (3) Commercial electric vehicle charging station operator means a
+15 person, partnership, corporation, or other business entity or political
+16 subdivision that operates a commercial electric vehicle charging station;
+17 (4) Direct-current, fast-charging station means a publicly available
+18 charging system capable of delivering at least fifty kilowatts of direct-
+19 current electrical power to an electric vehicle's rechargeable battery at
+20 a voltage of two hundred volts or greater;
+21 (5) Direct-current, fast-charging station operator means a person,
+22 partnership, corporation, or other business entity that operates a
+23 direct-current, fast-charging station open to the public. The term does
+24 not include an electric supplier or a political subdivision;
+25 (6) Electric supplier or supplier of electricity means any legal
+26 entity supplying, producing, or distributing electricity within the state
+27 for sale at wholesale or retail. Electric supplier does not include a
+28 commercial electric vehicle charging station operator that is a private
+29 person or privately owned partnership, privately owned corporation, or
+30 other privately owned business;
+31 (7) Electronic-related means relating to electronic devices,
+-2-
+
+LB1026 LB1026
+2026 2026
+1 circuits, or similar systems, or the components of such electronic
+2 devices, circuits, or similar systems, that require electrical currents
+3 or electromagnetism to operate;
+4 (8) Foreign adversary means a foreign government or foreign
+5 nongovernment person determined to be a foreign adversary pursuant to 15
+6 C.F.R. 791.4, as such regulation existed on February 7, 2025;
+7 (9) Military installation means:
+8 (a) A United States Air Force ballistic missile silo located within
+9 the geographic area described in 31 C.F.R. 802.211(b)(3), as such
+10 regulation existed on January 1, 2025; or
+11 (b) A United States Air Force base described in 31 C.F.R.
+12 802.227(c), as such regulation existed on January 1, 2025;
+13 (10) Plug-in hybrid electric vehicle has the same meaning as in
+14 section 60-345.01;
+15 (11) Private electric supplier means an electric supplier producing
+16 electricity from a privately developed renewable energy generation
+17 facility that is not a public power district, a public power and
+18 irrigation district, a municipality, a registered group of
+19 municipalities, an electric cooperative, an electric membership
+20 association, any other governmental entity, or any combination thereof. A
+21 private electric supplier is limited to the development of those
+22 facilities as provided in subdivision (12) of this section;
+23 (12) Privately developed renewable energy generation facility means
+24 and is limited to a facility that (a) generates electricity using solar,
+25 wind, geothermal, biomass, landfill gas, or biogas, including all
+26 electrically connected equipment used to produce, collect, and store the
+27 facility output up to and including the transformer that steps up the
+28 voltage to sixty thousand volts or greater, and including supporting
+29 structures, buildings, and roads, unless otherwise agreed to in a joint
+30 transmission development agreement, (b) is developed, constructed, and
+31 owned, in whole or in part, by one or more private electric suppliers,
+-3-
+
+LB1026 LB1026
+2026 2026
+1 and (c) is not wholly owned by a public power district, a public power
+2 and irrigation district, a municipality, a registered group of
+3 municipalities, an electric cooperative, an electric membership
+4 association, any other governmental entity, or any combination thereof;
+5 (13) Regional transmission organization means an entity independent
+6 from those entities generating or marketing electricity at wholesale or
+7 retail, which has operational control over the electric transmission
+8 lines in a designated geographic area in order to reduce constraints in
+9 the flow of electricity and ensure that all power suppliers have open
+10 access to transmission lines for the transmission of electricity;
+11 (14) Reliable or reliability means the ability of an electric
+12 supplier to supply the aggregate electric power and energy requirements
+13 of its electricity consumers in Nebraska at all times under normal
+14 operating conditions, taking into account scheduled and unscheduled
+15 outages, including sudden disturbances or unanticipated loss of system
+16 components that are to be reasonably expected for any electric utility
+17 following prudent utility practices, recognizing certain weather
+18 conditions and other contingencies may cause outages at the distribution,
+19 transmission, and generation level;
+20 (15) Representative organization means an organization designated by
+21 the board and organized for the purpose of providing joint planning and
+22 encouraging maximum cooperation and coordination among electric
+23 suppliers. Such organization shall represent electric suppliers owning a
+24 combined electric generation plant accredited capacity of at least ninety
+25 percent of the total electric generation plant accredited capacity
+26 constructed and in operation within the state;
+27 (16) State means the State of Nebraska; and
+28 (17) Unbundled retail rates means the separation of utility bills
+29 into the individual price components for which an electric supplier
+30 charges its retail customers, including, but not limited to, the separate
+31 charges for the generation, transmission, and distribution of
+-4-
+
+LB1026 LB1026
+2026 2026
+1 electricity.
+2 Sec. 2. (1) An electric supplier shall not retire, shutdown, cease
+3 operation of, or substantially alter the operation of any electric
+4 generation facility or privately developed renewable energy generation
+5 facility if the electric supplier has customers waiting for electric
+6 service unless such retirement, shutdown, cessation, or alteration is due
+7 to any of the following reasons:
+8 (a) The facility's retirement, shutdown, cessation, or alteration is
+9 mandated by federal or state law;
+10 (b) The facility is mechanically unsafe to operate;
+11 (c) The facility is damaged beyond repair due to a natural disaster;
+12 or
+13 (d) Continuing operation of the facility is uneconomical.
+14 (2) Before the retirement, shutdown, cessation, or alteration can
+15 occur, the governing body of the electric supplier shall identify the
+16 reasons for the retirement, shutdown, cessation, or alteration in a
+17 resolution and such resolution shall include at least one of the reasons
+18 described in subsection (1) of this section.
+19 Sec. 3. Original section 70-1001.01, Revised Statutes Supplement,
+20 2025, is repealed.
+-5-

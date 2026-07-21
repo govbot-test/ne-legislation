@@ -1,0 +1,47 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LB1082 LB1082
+2026 2026
+LEGISLATURE OF NEBRASKA
+ONE HUNDRED NINTH LEGISLATURE
+SECOND SESSION
+LEGISLATIVE BILL 1082
+Introduced by Storer, 43; Bosn, 25; Jacobson, 42; Kauth, 31.
+Read first time January 15, 2026
+Committee: Transportation and Telecommunications
+1 A BILL FOR AN ACT relating to the Nebraska Telecommunications Regulation
+2 Act; to amend sections 86-101 and 86-103, Reissue Revised Statutes
+3 of Nebraska; to define a term; to provide a duty for
+4 telecommunications companies as prescribed; to harmonize provisions;
+5 and to repeal the original sections.
+6 Be it enacted by the people of the State of Nebraska,
+-1-
+
+LB1082 LB1082
+2026 2026
+1 Section 1. Section 86-101, Reissue Revised Statutes of Nebraska, is
+2 amended to read:
+3 86-101 Sections 86-101 to 86-166 and sections 3 and 4 of this act
+4 shall be known and may be cited as the Nebraska Telecommunications
+5 Regulation Act.
+6 Sec. 2. Section 86-103, Reissue Revised Statutes of Nebraska, is
+7 amended to read:
+8 86-103 For purposes of the Nebraska Telecommunications Regulation
+9 Act, unless the context otherwise requires, the definitions found in
+10 sections 86-104 to 86-121.01 and section 3 of this act apply.
+11 Sec. 3. North American Numbering Plan has the same meaning as in 47
+12 C.F.R. 52.5, as such regulation existed on January 1, 2026.
+13 Sec. 4. A telecommunications company shall have a duty to protect
+14 subscribers and customers of the company from receiving unwanted calls or
+15 text messages from users of unauthenticated North American Numbering Plan
+16 numbers and prevent the fraudulent provision of misleading or inaccurate
+17 caller identification information.
+18 Sec. 5. Original sections 86-101 and 86-103, Reissue Revised
+19 Statutes of Nebraska, are repealed.
+-2-

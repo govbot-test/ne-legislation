@@ -1,0 +1,21 @@
+Title: 
+Official Title: 
+Source: versions - Cavanaugh, M. AM2910
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+AM2910 AM2910
+LB1010 LB1010
+QNC - 03/24/2026 QNC - 03/24/2026
+AMENDMENTS TO LB1010
+(Amendments to E and R amendments, ER147)
+Introduced by Cavanaugh, M., 6.
+1 1. On page 21, after line 6 insert the following new subsection:
+2 "(7) The owner or operator of a data center shall:
+3 (a) Bear all decommissioning costs of such data center; and
+4 (b) Enter into a community benefit agreement with communities
+5 affected by the data center."; in line 7 strike "(7)" and insert "(8)";
+6 and in line 11 strike "(8)" and insert "(9)".
+-1-

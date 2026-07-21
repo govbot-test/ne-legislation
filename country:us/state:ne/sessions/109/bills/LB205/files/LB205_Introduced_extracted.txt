@@ -1,0 +1,234 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LB205 LB205
+2025 2025
+LEGISLATURE OF NEBRASKA
+ONE HUNDRED NINTH LEGISLATURE
+FIRST SESSION
+LEGISLATIVE BILL 205
+Introduced by Bosn, 25.
+Read first time January 14, 2025
+Committee: Judiciary
+1 A BILL FOR AN ACT relating to civil actions; to provide requirements for
+2 admissibility of evidence relating to damages for past or future
+3 medical expenses; to require certain disclosures by claimants in
+4 certain cases; to provide limitations on damages for medical
+5 expenses; to provide for a cap on noneconomic damages in certain
+6 civil actions against commercial motor vehicle carriers; and to
+7 provide duties for courts.
+8 Be it enacted by the people of the State of Nebraska,
+-1-
+
+LB205 LB205
+2025 2025
+1 Section 1. For purposes of sections 1 to 4 of this act:
+2 (1) Claimant means a person seeking damages for medical expenses in
+3 a personal injury or wrongful death action;
+4 (2) Factoring company means a person who purchases a health care
+5 provider's accounts receivable at a discount below the invoice value of
+6 such accounts;
+7 (3) Health care coverage means any third-party health care or
+8 disability services financing arrangement, including, but not limited to,
+9 arrangements with entities certified or authorized under state or federal
+10 law; state or federal health care benefit programs; workers'
+11 compensation; and personal injury protection;
+12 (4) Health care provider means any of the following professionals
+13 and entities, and professionals and entities similarly licensed in
+14 another jurisdiction:
+15 (a) A facility licensed under the Health Care Facility Licensure Act
+16 and its clinical and nonclinical staff providing inpatient or outpatient
+17 services;
+18 (b) A health care professional licensed under the Uniform
+19 Credentialing Act;
+20 (c) A professional health care service entity as defined in section
+21 71-7910.01;
+22 (d) An organization or association of health care professionals
+23 licensed under the Uniform Credentialing Act;
+24 (e) A clinical laboratory providing services in this state or
+25 services to health care providers in this state, if the clinical
+26 laboratory is certified by the Centers for Medicare and Medicaid Services
+27 of the United States Department of Health and Human Services under the
+28 federal Clinical Laboratories Improvement Act of 1967, as amended, and
+29 any rules issued thereunder, as such act and rules existed on January 1,
+30 2025;
+31 (f) A federally qualified health center as defined in 42 U.S.C.
+-2-
+
+LB205 LB205
+2025 2025
+1 1396d(l)(2)(B), as such section existed on January 1, 2025; and
+2 (g) A home health aide as defined in section 71-6602; and
+3 (5) Letter of protection means any arrangement by which a health
+4 care provider renders treatment in exchange for a promise of payment for
+5 the claimant's medical expenses from any judgment or settlement of a
+6 personal injury or wrongful death action. The term includes any such
+7 arrangement, regardless of whether referred to as a letter of protection.
+8 Sec. 2. (1) Evidence offered to prove the amount of damages for
+9 past or future medical treatment or services in a personal injury or
+10 wrongful death action shall only be admissible as provided in this
+11 section.
+12 (2) Evidence offered to prove the amount of damages for charges for
+13 past medical treatment or services that have been satisfied is limited to
+14 evidence of the amount actually paid, regardless of the source of
+15 payment.
+16 (3) Evidence offered to prove the amount necessary to satisfy unpaid
+17 charges incurred for medical treatment or services is limited to the
+18 following:
+19 (a) If the claimant has health care coverage other than medicare or
+20 medicaid, evidence of the amount which such health care coverage is
+21 obligated to pay the health care provider to satisfy such charges, plus
+22 the claimant's share of such charges;
+23 (b) If the claimant has health care coverage but obtains treatment
+24 under a letter of protection or otherwise does not submit charges for any
+25 health care provider's medical treatment or services to health care
+26 coverage, evidence of the amount the claimant's health care coverage
+27 would pay the health care provider to satisfy such past unpaid charges,
+28 plus the claimant's share of such charges, had the claimant obtained
+29 medical services or treatment pursuant to the health care coverage;
+30 (c) If the claimant does not have health care coverage or has health
+31 care coverage through medicare or medicaid, evidence of one hundred
+-3-
+
+LB205 LB205
+2025 2025
+1 twenty percent of the medicare reimbursement rate in effect on the date
+2 of the claimant's incurred medical treatment or services or, if there is
+3 no applicable medicare rate for a medical treatment or service, one
+4 hundred seventy percent of the applicable state medicaid rate in effect
+5 on such date;
+6 (d) If the claimant obtains medical treatment or services under a
+7 letter of protection and the health care provider subsequently transfers
+8 the right to receive payment under the letter of protection to a third
+9 party, evidence of the amount the third party paid or agreed to pay the
+10 health care provider in exchange for the right to receive payment
+11 pursuant to the letter of protection; and
+12 (e) Any evidence of reasonable amounts billed to the claimant for
+13 medically necessary treatment or medically necessary services provided to
+14 the claimant.
+15 (4) Evidence offered to prove the amount of damages for any unpaid
+16 charges for future medical treatment or services the claimant will
+17 receive is limited to the following:
+18 (a) If the claimant has health care coverage, other than medicare or
+19 medicaid, or is eligible for any such health care coverage, evidence of
+20 the amount for which such future charges of health care providers could
+21 be satisfied if submitted to such health care coverage, plus the
+22 claimant's share of such charges;
+23 (b) If the claimant does not have health care coverage, has health
+24 care coverage through medicare or medicaid, or is eligible for such
+25 coverage through medicare or medicaid, evidence of one hundred twenty
+26 percent of the medicare reimbursement rate in effect at the time of trial
+27 for the medical treatment or services the claimant will receive or, if
+28 there is no applicable medicare rate for a medical treatment or service,
+29 one hundred seventy percent of the applicable state medicaid rate in
+30 effect at such time; and
+31 (c) Any evidence of reasonable future amounts to be billed to the
+-4-
+
+LB205 LB205
+2025 2025
+1 claimant for medically necessary treatment or medically necessary
+2 services.
+3 (5) This section does not impose an affirmative duty upon any party
+4 to seek a reduction in billed charges to which the party is not
+5 contractually entitled.
+6 (6) Individual contracts between health care providers and
+7 authorized commercial insurers or authorized health maintenance
+8 organizations are not subject to discovery or disclosure and are not
+9 admissible into evidence to prove the amount of damages for past or
+10 future medical treatment or services in a personal injury or wrongful
+11 death action.
+12 Sec. 3. In a personal injury or wrongful death action, as a
+13 condition precedent to asserting any claim for expenses for medical
+14 treatment or services rendered under a letter of protection, the claimant
+15 shall disclose:
+16 (1) A copy of the letter of protection;
+17 (2) All billings for such medical expenses, which must be itemized
+18 and, to the extent applicable, coded according to:
+19 (a) For health care providers billing at the provider level, the
+20 American Medical Association's Current Procedural Terminology (CPT), or
+21 the Centers for Medicare and Medicaid Services' Healthcare Common
+22 Procedure Coding System (HCPCS), in effect on the date the medical
+23 treatment or services were rendered;
+24 (b) For health care providers billing at the facility level for
+25 expenses incurred in a clinical or outpatient setting, including when
+26 billing through an Ambulatory Payment Classification (APC) or Enhanced
+27 Ambulatory Patient Grouping (EAPG), the International Classification of
+28 Diseases (ICD) diagnosis code and, if applicable, the American Medical
+29 Association's Current Procedural Terminology (CPT), in effect on the date
+30 the medical treatment or services were rendered; and
+31 (c) For health care providers billing at the facility level for
+-5-
+
+LB205 LB205
+2025 2025
+1 expenses incurred in an inpatient setting, including when billing through
+2 a Diagnosis Related Group (DRG), the International Classification of
+3 Diseases (ICD) diagnosis and procedure codes in effect on the date on
+4 which the claimant is discharged;
+5 (3) If the health care provider sells the accounts receivable for
+6 the claimant's medical expenses to a factoring company or other third
+7 party:
+8 (a) The name of the factoring company or other third party who
+9 purchased such accounts; and
+10 (b) The dollar amount for which the factoring company or other third
+11 party purchased such accounts, including any discount provided below the
+12 invoice amount;
+13 (4) Whether the claimant, at the time medical treatment or services
+14 were rendered, had health care coverage and, if so, the identity of such
+15 coverage; and
+16 (5) Whether the claimant was referred for medical treatment or
+17 services under a letter of protection and, if so, the identity of the
+18 person who made the referral. If the referral is made by the claimant's
+19 attorney, disclosure of the referral is permitted, and evidence of such
+20 referral is admissible notwithstanding any attorney-client privilege
+21 asserted. In such situation, the financial relationship between a law
+22 firm and a health care provider, including the number of referrals,
+23 frequency, and financial benefit obtained, is relevant to the issue of
+24 the bias of a testifying health care provider.
+25 Sec. 4. The damages that may be recovered by a claimant in a
+26 personal injury or wrongful death action for the reasonable and necessary
+27 cost or value of past or future medical treatment or services shall not:
+28 (1) Include any amount in excess of the evidence of charges for
+29 medical treatment or services admitted pursuant to section 2 of this act;
+30 or
+31 (2) Exceed the sum of the following:
+-6-
+
+LB205 LB205
+2025 2025
+1 (a) Amounts actually paid by or on behalf of the claimant to a
+2 health care provider who rendered medical treatment or services;
+3 (b) Amounts necessary to satisfy charges for medical treatment or
+4 services that are due and owing but at the time of trial are not yet
+5 satisfied; and
+6 (c) Amounts necessary to provide for any reasonable and necessary
+7 medical treatment or services the claimant will receive in the future.
+8 Sec. 5. (1) For purposes of this section:
+9 (a) Commercial motor vehicle has the same meaning as in section
+10 60-316; and
+11 (b) Commercial motor vehicle carrier means any person that
+12 transports property by commercial motor vehicle upon the public highways.
+13 (2) The total amount recoverable per plaintiff for noneconomic
+14 damages in a civil action for personal injury or death involving a
+15 commercial motor vehicle requiring a commercial driver's license, whether
+16 in tort or otherwise, is one million dollars. This limit on damages
+17 applies regardless of the number of derivative claims or theories of
+18 liability in the civil action.
+19 (3) In a civil action subject to the limit provided in subsection
+20 (2) of this section:
+21 (a) If the action is tried before a jury, the jury shall first make
+22 a finding as to noneconomic damages without regard to the limit in
+23 subsection (2) of this section. If the noneconomic damages exceed such
+24 limit, the court shall then reduce the award to comply with such limit;
+25 and
+26 (b) If the action is tried without a jury, the court shall first
+27 make a finding as to noneconomic damages without regard to the limit in
+28 subsection (2) of this section. If the noneconomic damages exceed such
+29 limit, the court shall then reduce the award to comply with such limit.
+-7-

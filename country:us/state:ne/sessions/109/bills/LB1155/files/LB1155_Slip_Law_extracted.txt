@@ -1,0 +1,1012 @@
+Title: 
+Official Title: 
+Source: versions - Slip Law
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LB1155 LB1155
+2026 2026
+LEGISLATIVE BILL 1155
+Approved by the Governor April 14, 2026
+Introduced by Dorn, 30; Arch, 14; Bosn, 25; Cavanaugh, M., 6; Clements, 2;
+Hansen, 16; Hardin, 48; Jacobson, 42; Riepe, 12.
+A BILL FOR AN ACT relating to legislative oversight; to amend sections
+43-2,108, 50-1205, 50-1803, 50-1805, 50-1812, 50-1912, 50-1918, 77-2711,
+77-27,119, and 83-4,134.01, Revised Statutes Supplement, 2025; to change
+provisions relating to access to records of juvenile probation officers
+and an annual report under the Legislative Performance Audit Act; to
+change provisions of the Office of Inspector General of Nebraska Child
+Welfare Act and the Office of Inspector General of the Nebraska
+Correctional System Act; to change provisions relating to audits involving
+tax information and room confinement of a juvenile in a juvenile facility;
+to harmonize provisions; and to repeal the original sections.
+Be it enacted by the people of the State of Nebraska,
+Section 1. Section 43-2,108, Revised Statutes Supplement, 2025, is amended
+to read:
+43-2,108 (1) The juvenile court judge shall keep a record of all
+proceedings of the court in each case, including appearances, findings, orders,
+decrees, and judgments, and any evidence which he or she feels it is necessary
+and proper to record. The case file shall contain the complaint or petition and
+subsequent pleadings. The case file may be maintained as an electronic document
+through the court's electronic case management system, on microfilm, or in a
+paper volume and disposed of when determined by the State Records Administrator
+pursuant to the Records Management Act.
+(2) Except as provided in subsections (3) and (4) of this section, the
+medical, psychological, psychiatric, and social welfare reports and the records
+of juvenile probation officers, as they relate to individual proceedings in the
+juvenile court, shall not be open to inspection, without order of the court.
+Such records shall be made available to a district court of this state or the
+District Court of the United States on the order of a judge thereof for the
+confidential use of such judge or his or her probation officer as to matters
+pending before such court but shall not be made available to parties or their
+counsel; and such district court records shall be made available to a county
+court or separate juvenile court upon request of the county judge or separate
+juvenile judge for the confidential use of such judge and his or her probation
+officer as to matters pending before such court, but shall not be made
+available by such judge to the parties or their counsel.
+(3) As used in this section, confidential record information means all
+docket records, other than the pleadings, orders, decrees, and judgments; case
+files and records; reports and records of probation officers; and information
+supplied to the court of jurisdiction in such cases by any individual or any
+public or private institution, agency, facility, or clinic, which is compiled
+by, produced by, and in the possession of any court. In all cases under
+subdivision (3)(a) of section 43-247, access to all confidential record
+information in such cases shall be granted only as follows: (a) The court of
+jurisdiction may, subject to applicable federal and state regulations,
+disseminate such confidential record information to any individual, or public
+or private agency, institution, facility, or clinic which is providing services
+directly to the juvenile and such juvenile's parents or guardian and his or her
+immediate family who are the subject of such record information; (b) the court
+of jurisdiction may disseminate such confidential record information, with the
+consent of persons who are subjects of such information, or by order of such
+court after showing of good cause, to any law enforcement agency upon such
+agency's specific request for such agency's exclusive use in the investigation
+of any protective service case or investigation of allegations under
+subdivision (3)(a) of section 43-247, regarding the juvenile or such juvenile's
+immediate family, who are the subject of such investigation; and (c) the court
+of jurisdiction may disseminate such confidential record information to any
+court, which has jurisdiction of the juvenile who is the subject of such
+information upon such court's request.
+(4) The court shall provide copies of predispositional reports and
+evaluations of the juvenile to the juvenile's attorney and the county attorney
+or city attorney prior to any hearing in which the report or evaluation will be
+relied upon.
+(5) In all cases under sections 43-246.01 and 43-247, the office of
+Inspector General of Nebraska Child Welfare may submit a written request to the
+probation administrator for access to the records of juvenile probation
+officers in a specific case. Upon a juvenile court order, the records shall be
+provided to the Inspector General within five business days for the exclusive
+use in an investigation pursuant to the Office of Inspector General of Nebraska
+Child Welfare Act. Nothing in this subsection shall prevent the notification of
+death or serious injury of a juvenile to the Inspector General of Nebraska
+Child Welfare pursuant to section 50-1806 as soon as reasonably possible after
+the Office of Probation Administration learns of such death or serious injury.
+-1-
+
+LB1155 LB1155
+2026 2026
+(6) In all cases under sections 43-246.01 and 43-247, the juvenile court
+shall disseminate confidential record information to the Foster Care Review
+Office pursuant to the Foster Care Review Act.
+(7) Nothing in subsections (3), (5), and (6) of this section shall be
+construed to restrict the dissemination of confidential record information
+between any individual or public or private agency, institute, facility, or
+clinic, except any such confidential record information disseminated by the
+court of jurisdiction pursuant to this section shall be for the exclusive and
+private use of those to whom it was released and shall not be disseminated
+further without order of such court.
+(8)(a) Any records concerning a juvenile court petition filed pursuant to
+subdivision (3)(c) of section 43-247 shall remain confidential except as may be
+provided otherwise by law. Such records shall be accessible to (i) the juvenile
+except as provided in subdivision (b) of this subsection, (ii) the juvenile's
+counsel, (iii) the juvenile's parent or guardian, and (iv) persons authorized
+by an order of a judge or court.
+(b) Upon application by the county attorney or by the director of the
+facility where the juvenile is placed and upon a showing of good cause
+therefor, a judge of the juvenile court having jurisdiction over the juvenile
+or of the county where the facility is located may order that the records shall
+not be made available to the juvenile if, in the judgment of the court, the
+availability of such records to the juvenile will adversely affect the
+juvenile's mental state and the treatment thereof.
+(9) Nothing in subsection (3), (5), or (6) of this section shall be
+construed to restrict the immediate dissemination of a current picture and
+information about a child who is missing from a foster care or out-of-home
+placement. Such dissemination by the Office of Probation Administration shall
+be authorized by an order of a judge or court. Such information shall be
+subject to state and federal confidentiality laws and shall not include that
+the child is in the care, custody, or control of the Department of Health and
+Human Services or under the supervision of the Office of Probation
+Administration.
+(10) Any juvenile court order that places a juvenile on electronic
+monitoring shall also state that data from such electronic monitoring device
+shall be made available to a designated law enforcement officer as provided in
+this subsection. A law enforcement agency may designate law enforcement
+officers who may receive such data. Upon a request by such an officer or a law
+enforcement agency, the Office of Probation Administration shall provide such
+officer or law enforcement agency with access to the electronic monitoring
+database.
+(11) For any juvenile subject to the supervision of a probation officer,
+the Office of Probation Administration shall provide the Nebraska Commission on
+Law Enforcement and Criminal Justice with the following information: The name
+of the juvenile, the name and contact information of the juvenile's parents or
+guardians, the name and contact information of the juvenile's probation
+officer, any terms of probation included in a juvenile court order, the
+placement of the juvenile if placed out of home, whether the juvenile is a
+prohibited juvenile offender under section 28-1204.05, search and seizure
+status, criminal associations, and the school the juvenile is attending. The
+commission shall provide access to such information to law enforcement agencies
+through the state's criminal justice information system in a manner that allows
+such information to be readily accessible through the main interface of the
+system.
+Sec. 2. Section 50-1205, Revised Statutes Supplement, 2025, is amended to
+read:
+50-1205 The committee shall:
+(1) Adopt, by majority vote, procedures consistent with the Legislative
+Performance Audit Act to govern the business of the committee and the conduct
+of performance audits;
+(2) Ensure that performance audits undertaken by the office are not
+undertaken based on or influenced by special or partisan interests;
+(3) Review performance audit requests and select, by majority vote,
+agencies or agency programs for performance audit;
+(4) Review, amend, if necessary, and approve a scope statement and an
+audit plan for each performance audit;
+(5) Respond to inquiries regarding performance audits;
+(6) Inspect or approve the inspection of the premises, or any parts
+thereof, of any agency or any property owned, leased, or operated by an agency
+as frequently as is necessary in the opinion of the committee to carry out a
+performance audit or preaudit inquiry;
+(7) Inspect and examine, or approve the inspection and examination of, the
+records and documents of any agency as a part of a performance audit or
+preaudit inquiry;
+(8) At the request of the Legislative Auditor, issue subpoenas,
+enforceable by action in an appropriate court, to compel any person to appear,
+give sworn testimony, or produce documentary or other evidence deemed relevant
+to a performance audit as provided in section 50-1216;
+(9) Review completed reports prepared by the office, together with
+comments from the evaluated agency, and adopt recommendations and incorporate
+them into an audit report;
+(10) Release audit reports to the public and distribute them
+electronically to the Clerk of the Legislature with or without benefit of a
+public hearing;
+-2-
+
+LB1155 LB1155
+2026 2026
+(11) Hold public hearings, at the committee's discretion, for the purpose
+of receiving testimony prior to issuance of audit reports;
+(12) Establish a system to ascertain and monitor an agency's
+implementation of the recommendations contained in audit reports and compliance
+with any statutory changes resulting from the recommendations;
+(13) Issue an annual report each September, to be prepared by the
+Legislative Auditor and approved by the committee chairperson, summarizing
+recommendations made pursuant to audit reports during the previous fiscal year
+and the status of implementation of those recommendations;
+(14) Consult with the Director of Legislative Oversight and the
+Legislative Auditor regarding the staffing and budgetary needs of the office;
+(15) Approve or reject, within the budgetary limits of the office,
+contracts to retain consultants to assist with performance audits requiring
+specialized knowledge or expertise. Requests for consultant contracts shall be
+approved by the Legislative Auditor and presented to the committee by the
+Legislative Auditor. A majority vote shall be required to approve consultant
+contract requests. For purposes of section 50-1213, subsection (11) of section
+77-2711, and subsections (10) through (13) of section 77-27,119, any consultant
+retained to assist with a performance audit or preaudit inquiry shall be
+considered an employee of the office during the course of the contract; and
+(16) At its discretion, and with the agreement of the Auditor of Public
+Accounts, conduct joint fiscal or performance audits with the Auditor of Public
+Accounts. The details of any joint audit shall be agreed upon in writing by the
+committee and the Auditor of Public Accounts.
+Sec. 3. Section 50-1803, Revised Statutes Supplement, 2025, is amended to
+read:
+50-1803 (1) It is the intent of the Legislature that the Office of
+Inspector General of Nebraska Child Welfare:
+(a) Assist in improving operations of the Nebraska child welfare system
+and juvenile justice system;
+(b) Provide an independent form of inquiry for concerns regarding the
+actions of individuals and agencies responsible for the care and protection of
+children and youth in the Nebraska child welfare system and juvenile justice
+system. Confusion of the roles, responsibilities, and accountability structures
+between individuals, private contractors, branches of government, and agencies
+in the current systems system make it difficult for the Legislature to monitor
+and oversee the Nebraska child welfare system and juvenile justice system; and
+(c) Provide a process for investigation and review to determine if
+individual complaints and issues of investigation and inquiry reveal a problem
+in the child welfare system and juvenile justice system, not just individual
+cases, that necessitates legislative action for improved policies and
+restructuring of such systems the child welfare system.
+(2) It is not the intent of the Legislature in enacting the Office of
+Inspector General of Nebraska Child Welfare Act to interfere with the duties of
+the Legislative Auditor or the Legislative Fiscal Analyst or to interfere with
+the statutorily defined investigative responsibilities or prerogatives of any
+officer, agency, board, bureau, commission, association, society, or
+institution of the executive or judicial branch of state government, except
+that the act does not preclude an inquiry on the sole basis that another agency
+has the same responsibility. The act shall not be construed to interfere with
+or supplant the responsibilities or prerogatives of the Governor to
+investigate, monitor, and report on the activities of the agencies, boards,
+bureaus, commissions, associations, societies, and institutions of the
+executive branch under the Governor's administrative direction.
+Sec. 4. Section 50-1805, Revised Statutes Supplement, 2025, is amended to
+read:
+50-1805 (1) The office of Inspector General of Nebraska Child Welfare is
+created within the Division of Legislative Oversight for the purpose of
+conducting investigations, audits, inspections, and other oversight of the
+Nebraska child welfare system and juvenile justice system for the Legislature.
+The Inspector General shall be appointed by the Director of Legislative
+Oversight with approval from the chairperson of the Executive Board of the
+Legislative Council, the chairperson of the Legislative Oversight Committee,
+and the chairperson of the Health and Human Services Committee of the
+Legislature.
+(2) The Inspector General shall be appointed for a term of five years and
+may be reappointed. The Inspector General shall be selected without regard to
+political affiliation and on the basis of integrity, capability for strong
+leadership, and demonstrated ability in accounting, auditing, financial
+analysis, law, management analysis, public administration, investigation, or
+criminal justice administration or other closely related fields. No former or
+current executive or manager of the department may be appointed Inspector
+General within five years after such former or current executive's or manager's
+period of service with the department. Not later than two years after the date
+of appointment, the Inspector General shall obtain certification as a Certified
+Inspector General by the Association of Inspectors General, its successor, or
+another nationally recognized organization that provides and sponsors
+educational programs and establishes professional qualifications,
+certifications, and licensing for inspectors general. During the Inspector
+General's employment, the Inspector General shall not be actively involved in
+partisan affairs.
+(3) The Inspector General shall employ such investigators and support
+staff as the Inspector General deems necessary to carry out the duties of the
+-3-
+
+LB1155 LB1155
+2026 2026
+office within the amount available by appropriation through the Division of
+Legislative Oversight for the office of Inspector General of Nebraska Child
+Welfare. The Inspector General shall be subject to the control and supervision
+of the Director of Legislative Oversight, except that removal of the Inspector
+General shall require approval of the chairperson of the Legislative Oversight
+Committee. The Inspector General may also be removed by a two-thirds majority
+vote of the Legislative Oversight Committee.
+Sec. 5. Section 50-1812, Revised Statutes Supplement, 2025, is amended to
+read:
+50-1812 (1) Reports of investigations conducted by the office shall not be
+distributed beyond the entity that is the subject of the report without the
+consent of the Inspector General.
+(2) Except when a report is provided to a guardian ad litem or an attorney
+in the juvenile court pursuant to subsection (2) of section 50-1814, the office
+shall redact confidential information before distributing a report of an
+investigation.
+(3) The office may disclose confidential information to the chairperson of
+the Legislative Oversight Committee at the chairperson's request. The office
+may also disclose confidential information to the chairperson of the
+Legislative Oversight Committee, the chairperson of the Executive Board of the
+Legislative Council, the chairperson of the Health and Human Services Committee
+of the Legislature, or the chairperson of the Judiciary Committee of the
+Legislature when such disclosure is, in the judgment of the Inspector General
+and the Director of Legislative Oversight, appropriate to keep the Legislature
+informed of important events, issues, and developments in the Nebraska child
+welfare system and juvenile justice system. Any confidential information shared
+remains confidential and shall not be disclosed.
+(4) The office may also disclose such confidential information to the
+Legislative Oversight Committee when such disclosure is, in the judgment of the
+chairperson of the Legislative Oversight Committee, appropriate to keep the
+Legislature informed of important events, issues, and developments in the
+Nebraska child welfare system and juvenile justice system. Any confidential
+information shared remains confidential and shall not be disclosed.
+(5)(a) A summarized final report based on an investigation may be publicly
+released in order to bring awareness to systemic issues.
+(b) Such report shall be released only:
+(i) After a disclosure is made to the chairperson of the Legislative
+Oversight Committee pursuant to subsection (3) of this section; and
+(ii) If a determination is made by the Inspector General with the
+chairperson of the Legislative Oversight Committee that doing so would be in
+the best interest of the public.
+(c) If there is disagreement about whether releasing the report would be
+in the best interest of the public, the chairperson of the Executive Board of
+the Legislative Council shall make the final decision.
+(d) The Legislative Oversight Committee shall be notified prior to a
+report of an investigation being publicly released under this section.
+(6) Records and documents, regardless of physical form, that are obtained
+or produced by the office in the course of an investigation are not public
+records for purposes of sections 84-712 to 84-712.09. Reports of investigations
+conducted by the office are not public records for purposes of sections 84-712
+to 84-712.09.
+(7) The office may withhold the identity of sources of information to
+protect from retaliation any person who files a complaint or provides
+information in good faith pursuant to the Office of Inspector General of
+Nebraska Child Welfare Act.
+Sec. 6. Section 50-1912, Revised Statutes Supplement, 2025, is amended to
+read:
+50-1912 (1) Reports of investigations conducted by the office shall not be
+distributed beyond the entity that is the subject of the report without the
+consent of the Inspector General.
+(2) The office shall redact confidential information before distributing a
+report of an investigation.
+(3) The office may disclose confidential information to the chairperson of
+the Legislative Oversight Committee at the chairperson's request. The office
+may also disclose confidential information to the chairperson of the
+Legislative Oversight Committee, the chairperson of the Executive Board of the
+Legislative Council, and the chairperson of the Judiciary Committee of the
+Legislature when such disclosure is, in the judgment of the Inspector General
+and the Director of Legislative Oversight, appropriate to keep the Legislature
+informed of important events, issues, and developments in the Nebraska
+correctional system. Any confidential information shared remains confidential
+and shall not be disclosed.
+(4) The office may also disclose such confidential information to the
+Legislative Oversight Committee when such disclosure is, in the judgment of the
+chairperson of the Legislative Oversight Committee, appropriate to keep the
+Legislature informed of important events, issues, and developments in the
+Nebraska correctional system. Any confidential information shared remains
+confidential and shall not be disclosed.
+(5)(a) A summarized final report based on an investigation may be publicly
+released in order to bring awareness to systemic issues.
+(b) Such report shall be released only:
+(i) After a disclosure is made to the chairperson of the Legislative
+Oversight Committee pursuant to subsection (3) of this section; and
+-4-
+
+LB1155 LB1155
+2026 2026
+(ii) If a determination is made by the Inspector General with the
+chairperson of the Legislative Oversight Committee that doing so would be in
+the best interest of the public.
+(c) If there is disagreement about whether releasing the report would be
+in the best interest of the public, the chairperson of the Executive Board of
+the Legislative Council shall make the final decision.
+(d) The Legislative Oversight Committee shall be notified prior to a
+report of an investigation being publicly released under this section.
+(6) Records and documents, regardless of physical form, that are obtained
+or produced by the office in the course of an investigation are not public
+records for purposes of sections 84-712 to 84-712.09. Reports of investigations
+conducted by the office are not public records for purposes of sections 84-712
+to 84-712.09.
+(7) The office may withhold the identity of sources of information to
+protect from retaliation any person who files a complaint or provides
+information in good faith pursuant to the Office of Inspector General of the
+Nebraska Correctional System Act.
+Sec. 7. Section 50-1918, Revised Statutes Supplement, 2025, is amended to
+read:
+50-1918 On or before October September 15 of each year, the Inspector
+General shall provide to the Legislature and the Governor a report that
+includes a summary of reports and investigations made under the Office of
+Inspector General of the Nebraska Correctional System Act for the preceding
+year. The report to the Legislature shall be submitted electronically and filed
+with the Clerk of the Legislature. The reports shall include findings and
+recommendations and an update on the status of recommendations made in prior
+reports, if any. The findings and recommendations may address issues discovered
+through investigations, audits, inspections, and reviews by the office that
+will (1) increase accountability and legislative oversight of the Nebraska
+correctional system, (2) improve operations of the department and the Nebraska
+correctional system, (3) deter and identify fraud, abuse, and illegal acts, and
+(4) identify inconsistencies between statutory requirements and requirements
+for accreditation. The reports shall not contain any confidential or
+identifying information concerning the subjects of the reports and
+investigations.
+Sec. 8. Section 77-2711, Revised Statutes Supplement, 2025, is amended to
+read:
+77-2711 (1)(a) The Tax Commissioner shall enforce sections 77-2701.04 to
+77-2713 and may prescribe, adopt, and enforce rules and regulations relating to
+the administration and enforcement of such sections.
+(b) The Tax Commissioner may prescribe the extent to which any ruling or
+regulation shall be applied without retroactive effect.
+(2) The Tax Commissioner may employ accountants, auditors, investigators,
+assistants, and clerks necessary for the efficient administration of the
+Nebraska Revenue Act of 1967 and may delegate authority to his or her
+representatives to conduct hearings, prescribe regulations, or perform any
+other duties imposed by such act.
+(3)(a) Every seller, every retailer, and every person storing, using, or
+otherwise consuming in this state property purchased from a retailer shall keep
+such records, receipts, invoices, and other pertinent papers in such form as
+the Tax Commissioner may reasonably require.
+(b) Every such seller, retailer, or person shall keep such records for not
+less than three years from the making of such records unless the Tax
+Commissioner in writing sooner authorized their destruction.
+(4) The Tax Commissioner or any person authorized in writing by him or her
+may examine the books, papers, records, and equipment of any person selling
+property and any person liable for the use tax and may investigate the
+character of the business of the person in order to verify the accuracy of any
+return made or, if no return is made by the person, to ascertain and determine
+the amount required to be paid. In the examination of any person selling
+property or of any person liable for the use tax, an inquiry shall be made as
+to the accuracy of the reporting of city and county sales and use taxes for
+which the person is liable under the Local Option Revenue Act or sections
+13-319, 13-324, 13-2813, and 77-6403 and the accuracy of the allocation made
+between the various counties, cities, villages, and municipal counties of the
+tax due. The Tax Commissioner may make or cause to be made copies of resale or
+exemption certificates and may pay a reasonable amount to the person having
+custody of the records for providing such copies.
+(5) The taxpayer shall have the right to keep or store his or her records
+at a point outside this state and shall make his or her records available to
+the Tax Commissioner at all times.
+(6) In administration of the use tax, the Tax Commissioner may require the
+filing of reports by any person or class of persons having in his, her, or
+their possession or custody information relating to sales of property, the
+storage, use, or other consumption of which is subject to the tax. The report
+shall be filed when the Tax Commissioner requires and shall set forth the names
+and addresses of purchasers of the property, the sales price of the property,
+the date of sale, and such other information as the Tax Commissioner may
+require.
+(7) It shall be a Class I misdemeanor for the Tax Commissioner, any
+official or employee of the Tax Commissioner, the State Treasurer, or the
+Department of Administrative Services, or any other person to make known in any
+manner whatever the business affairs, operations, or information obtained by an
+-5-
+
+LB1155 LB1155
+2026 2026
+investigation of records and activities of any retailer or any other person
+visited or examined in the discharge of official duty or the amount or source
+of income, profits, losses, expenditures, or any particular thereof, set forth
+or disclosed in any return, or to permit any return or copy thereof, or any
+book containing any abstract or particulars thereof to be seen or examined by
+any person not connected with the Tax Commissioner. Nothing in this section
+shall be construed to prohibit (a) the delivery to a taxpayer, his or her duly
+authorized representative, or his or her successors, receivers, trustees,
+executors, administrators, assignees, or guarantors, if directly interested, of
+a certified copy of any return or report in connection with his or her tax, (b)
+the publication of statistics so classified as to prevent the identification of
+particular reports or returns and the items thereof, (c) the inspection by the
+Attorney General, other legal representative of the state, or county attorney
+of the reports or returns of any taxpayer when either (i) information on the
+reports or returns is considered by the Attorney General to be relevant to any
+action or proceeding instituted by the taxpayer or against whom an action or
+proceeding is being considered or has been commenced by any state agency or the
+county or (ii) the taxpayer has instituted an action to review the tax based
+thereon or an action or proceeding against the taxpayer for collection of tax
+or failure to comply with the Nebraska Revenue Act of 1967 is being considered
+or has been commenced, (d) the furnishing of any information to the United
+States Government or to states allowing similar privileges to the Tax
+Commissioner, (e) the disclosure of information and records to a collection
+agency contracting with the Tax Commissioner pursuant to sections 77-377.01 to
+77-377.04, (f) the disclosure to another party to a transaction of information
+and records concerning the transaction between the taxpayer and the other
+party, (g) the disclosure of information pursuant to section 77-27,195,
+77-5731, 77-6837, 77-6839, or 77-6928, or (h) the disclosure of information to
+the Department of Labor necessary for the administration of the Employment
+Security Law, the Contractor Registration Act, or the Employee Classification
+Act.
+(8) Notwithstanding the provisions of subsection (7) of this section, the
+Tax Commissioner may permit the Postal Inspector of the United States Postal
+Service or his or her delegates to inspect the reports or returns of any person
+filed pursuant to the Nebraska Revenue Act of 1967 when information on the
+reports or returns is relevant to any action or proceeding instituted or being
+considered by the United States Postal Service against such person for the
+fraudulent use of the mails to carry and deliver false and fraudulent tax
+returns to the Tax Commissioner with the intent to defraud the State of
+Nebraska or to evade the payment of Nebraska state taxes.
+(9) Notwithstanding the provisions of subsection (7) of this section, the
+Tax Commissioner may permit other tax officials of this state to inspect the
+tax returns, reports, and applications filed under sections 77-2701.04 to
+77-2713, but such inspection shall be permitted only for purposes of enforcing
+a tax law and only to the extent and under the conditions prescribed by the
+rules and regulations of the Tax Commissioner.
+(10) Notwithstanding the provisions of subsection (7) of this section, the
+Tax Commissioner may, upon request, provide the county board of any county
+which has exercised the authority granted by section 81-3716 with a list of the
+names and addresses of the hotels located within the county for which lodging
+sales tax returns have been filed or for which lodging sales taxes have been
+remitted for the county's County Visitors Promotion Fund under the Nebraska
+Visitors Development Act.
+The information provided by the Tax Commissioner shall indicate only the
+names and addresses of the hotels located within the requesting county for
+which lodging sales tax returns have been filed for a specified period and the
+fact that lodging sales taxes remitted by or on behalf of the hotel have
+constituted a portion of the total sum remitted by the state to the county for
+a specified period under the provisions of the Nebraska Visitors Development
+Act. No additional information shall be revealed.
+(11)(a) Notwithstanding the provisions of subsection (7) of this section,
+the Tax Commissioner shall, upon written request by the Auditor of Public
+Accounts or the Legislative Audit Office, make tax returns and tax return
+information open to inspection by or disclosure to the Auditor of Public
+Accounts or employees of the Legislative Audit Office for the purpose of and to
+the extent necessary in making an audit of the Department of Revenue pursuant
+to section 50-1205 or 84-304 or subsection (14) of this section. Confidential
+tax returns and tax return information shall be audited only upon the premises
+of the Department of Revenue or through secure remote access. All audit work
+papers pertaining to the audit of the Department of Revenue that contain return
+information in a form that can be associated with or otherwise identify,
+directly or indirectly, a particular taxpayer shall be stored in a secure place
+in the Department of Revenue.
+(b) No employee of the Auditor of Public Accounts or the Legislative Audit
+Office shall disclose to any person, other than another Auditor of Public
+Accounts or office employee whose official duties require such disclosure, any
+return or return information described in the Nebraska Revenue Act of 1967 in a
+form which can be associated with or otherwise identify, directly or
+indirectly, a particular taxpayer.
+(c) Any person who violates the provisions of this subsection shall be
+guilty of a Class I misdemeanor. For purposes of this subsection, employee
+includes a former Auditor of Public Accounts or Legislative Audit Office
+employee.
+-6-
+
+LB1155 LB1155
+2026 2026
+(12) For purposes of this subsection and subsections (11) and (14) of this
+section:
+(a) Disclosure means the making known to any person in any manner a tax
+return or return information;
+(b) Return information means:
+(i) A taxpayer's identification number and (A) the nature, source, or
+amount of his or her income, payments, receipts, deductions, exemptions,
+credits, assets, liabilities, net worth, tax liability, tax withheld,
+deficiencies, over assessments, or tax payments, whether the taxpayer's return
+was, is being, or will be examined or subject to other investigation or
+processing or (B) any other data received by, recorded by, prepared by,
+furnished to, or collected by the Tax Commissioner with respect to a return or
+the determination of the existence or possible existence of liability or the
+amount of liability of any person for any tax, penalty, interest, fine,
+forfeiture, or other imposition or offense; and
+(ii) Any part of any written determination or any background file document
+relating to such written determination; and
+(c) Tax return or return means any tax or information return or claim for
+refund required by, provided for, or permitted under sections 77-2701 to
+77-2713 which is filed with the Tax Commissioner by, on behalf of, or with
+respect to any person and any amendment or supplement thereto, including
+supporting schedules, attachments, or lists which are supplemental to or part
+of the filed return.
+(13) Notwithstanding the provisions of subsection (7) of this section, the
+Tax Commissioner shall, upon request, provide any municipality which has
+adopted the local option sales tax under the Local Option Revenue Act with a
+list of the names and addresses of the retailers which have collected the local
+option sales tax for the municipality and any additional information requested
+by the municipality so long as the information does not include any data
+detailing the specific revenue, expenses, or operations of any particular
+business. A request may be made no greater than three times annually.
+(14)(a) Notwithstanding the provisions of subsection (7) of this section,
+the Tax Commissioner shall, upon written request, provide an individual
+certified under subdivision (b) of this subsection representing a municipality
+which has adopted the local option sales and use tax under the Local Option
+Revenue Act with confidential sales and use tax returns and sales and use tax
+return information regarding taxpayers that possess a sales tax permit and the
+amounts remitted by such permitholders at locations within the boundaries of
+the requesting municipality or with confidential business use tax returns and
+business use tax return information regarding taxpayers that file a Nebraska
+and Local Business Use Tax Return and the amounts remitted by such taxpayers at
+locations within the boundaries of the requesting municipality. Any written
+request pursuant to this subsection shall provide the Department of Revenue
+with no less than ten business days to prepare the sales and use tax returns
+and sales and use tax return information requested. If the individual certified
+under subdivision (b) of this subsection requests that copies of such returns
+and return information be sent to him or her by electronic transmission, the
+Tax Commissioner shall abide by the request and send such information secured
+in a manner as determined by the Tax Commissioner.
+(b) Each municipality that seeks to request information under subdivision
+(a) of this subsection shall certify to the Department of Revenue one
+individual who is authorized by such municipality to make such a request for
+the documents described in subdivision (a) of this subsection. The individual
+may be a municipal employee or an individual who contracts with the requesting
+municipality to provide financial, accounting, or other administrative
+services.
+(c) If upon review of the documents described in subdivision (a) of this
+subsection the individual certified by a municipality pursuant to subdivision
+(b) of this subsection identifies a suspected irregularity or discrepancy, such
+individual may provide notification of the suspected irregularity or
+discrepancy to the Auditor of Public Accounts who may conduct an audit as
+provided in subsection (11) of this section.
+(d) The individual certified under subdivision (b) of this subsection may
+disclose the copies of the returns and return information described in
+subdivision (a) of this subsection to another municipal employee for purposes
+of (i) verifying the accuracy of the collection, analysis, and forecasting,
+(ii) verifying the accuracy of the allocation made between various
+municipalities of the tax due, or (iii) verifying the taxes are used according
+to the purpose voted on by the people of the municipality. An individual
+certified by a municipality pursuant to subdivision (b) of this subsection
+shall not disclose to any person any information obtained pursuant to a review
+under this subsection other than for the purposes described in this subsection.
+An individual certified by a municipality pursuant to subdivision (b) of this
+subsection shall remain subject to this subsection after he or she (i) is no
+longer certified or (ii) is no longer in the employment of or under contract
+with the certifying municipality.
+(e) Any person who violates the provisions of this subsection shall be
+guilty of a Class I misdemeanor.
+(f) The Department of Revenue shall not be held liable by any person for
+an impermissible disclosure by a municipality or any agent or employee thereof
+of any information obtained pursuant to a review under this subsection.
+(15) In all proceedings under the Nebraska Revenue Act of 1967, the Tax
+Commissioner may act for and on behalf of the people of the State of Nebraska.
+-7-
+
+LB1155 LB1155
+2026 2026
+The Tax Commissioner in his or her discretion may waive all or part of any
+penalties provided by the provisions of such act or interest on delinquent
+taxes specified in section 45-104.02, as such rate may from time to time be
+adjusted.
+(16)(a) The purpose of this subsection is to set forth the state's policy
+for the protection of the confidentiality rights of all participants in the
+system operated pursuant to the streamlined sales and use tax agreement and of
+the privacy interests of consumers who deal with model 1 sellers.
+(b) For purposes of this subsection:
+(i) Anonymous data means information that does not identify a person;
+(ii) Confidential taxpayer information means all information that is
+protected under a member state's laws, regulations, and privileges; and
+(iii) Personally identifiable information means information that
+identifies a person.
+(c) The state agrees that a fundamental precept for model 1 sellers is to
+preserve the privacy of consumers by protecting their anonymity. With very
+limited exceptions, a certified service provider shall perform its tax
+calculation, remittance, and reporting functions without retaining the
+personally identifiable information of consumers.
+(d) The governing board of the member states in the streamlined sales and
+use tax agreement may certify a certified service provider only if that
+certified service provider certifies that:
+(i) Its system has been designed and tested to ensure that the fundamental
+precept of anonymity is respected;
+(ii) Personally identifiable information is only used and retained to the
+extent necessary for the administration of model 1 with respect to exempt
+purchasers;
+(iii) It provides consumers clear and conspicuous notice of its
+information practices, including what information it collects, how it collects
+the information, how it uses the information, how long, if at all, it retains
+the information, and whether it discloses the information to member states.
+Such notice shall be satisfied by a written privacy policy statement accessible
+by the public on the website of the certified service provider;
+(iv) Its collection, use, and retention of personally identifiable
+information is limited to that required by the member states to ensure the
+validity of exemptions from taxation that are claimed by reason of a consumer's
+status or the intended use of the goods or services purchased; and
+(v) It provides adequate technical, physical, and administrative
+safeguards so as to protect personally identifiable information from
+unauthorized access and disclosure.
+(e) The state shall provide public notification to consumers, including
+exempt purchasers, of the state's practices relating to the collection, use,
+and retention of personally identifiable information.
+(f) When any personally identifiable information that has been collected
+and retained is no longer required for the purposes set forth in subdivision
+(16)(d)(iv) of this section, such information shall no longer be retained by
+the member states.
+(g) When personally identifiable information regarding an individual is
+retained by or on behalf of the state, it shall provide reasonable access by
+such individual to his or her own information in the state's possession and a
+right to correct any inaccurately recorded information.
+(h) If anyone other than a member state, or a person authorized by that
+state's law or the agreement, seeks to discover personally identifiable
+information, the state from whom the information is sought should make a
+reasonable and timely effort to notify the individual of such request.
+(i) This privacy policy is subject to enforcement by the Attorney General.
+(j) All other laws and regulations regarding the collection, use, and
+maintenance of confidential taxpayer information remain fully applicable and
+binding. Without limitation, this subsection does not enlarge or limit the
+state's authority to:
+(i) Conduct audits or other reviews as provided under the agreement and
+state law;
+(ii) Provide records pursuant to the federal Freedom of Information Act,
+disclosure laws with governmental agencies, or other regulations;
+(iii) Prevent, consistent with state law, disclosure of confidential
+taxpayer information;
+(iv) Prevent, consistent with federal law, disclosure or misuse of federal
+return information obtained under a disclosure agreement with the Internal
+Revenue Service; and
+(v) Collect, disclose, disseminate, or otherwise use anonymous data for
+governmental purposes.
+Sec. 9. Section 77-27,119, Revised Statutes Supplement, 2025, is amended
+to read:
+77-27,119 (1) The Tax Commissioner shall administer and enforce the income
+tax imposed by sections 77-2714 to 77-27,135, and he or she is authorized to
+conduct hearings, to adopt and promulgate such rules and regulations, and to
+require such facts and information to be reported as he or she may deem
+necessary to enforce the income tax provisions of such sections, except that
+such rules, regulations, and reports shall not be inconsistent with the laws of
+this state or the laws of the United States. The Tax Commissioner may for
+enforcement and administrative purposes divide the state into a reasonable
+number of districts in which branch offices may be maintained.
+(2)(a) The Tax Commissioner may prescribe the form and contents of any
+-8-
+
+LB1155 LB1155
+2026 2026
+return or other document required to be filed under the income tax provisions.
+Such return or other document shall be compatible as to form and content with
+the return or document required by the laws of the United States. The form
+shall have a place where the taxpayer shall designate the school district in
+which he or she lives and the county in which the school district is
+headquartered. The Tax Commissioner shall adopt and promulgate such rules and
+regulations as may be necessary to insure compliance with this requirement.
+(b) The State Department of Education, with the assistance and cooperation
+of the Department of Revenue, shall develop a uniform system for numbering all
+school districts in the state. Such system shall be consistent with the data
+processing needs of the Department of Revenue and shall be used for the school
+district identification required by subdivision (a) of this subsection.
+(c) The proper filing of an income tax return shall consist of the
+submission of such form as prescribed by the Tax Commissioner or an exact
+facsimile thereof with sufficient information provided by the taxpayer on the
+face of the form from which to compute the actual tax liability. Each taxpayer
+shall include such taxpayer's correct social security number or state
+identification number and the school district identification number of the
+school district in which the taxpayer resides on the face of the form. A filing
+is deemed to occur when the required information is provided.
+(3) The Tax Commissioner, for the purpose of ascertaining the correctness
+of any return or other document required to be filed under the income tax
+provisions, for the purpose of determining corporate income, individual income,
+and withholding tax due, or for the purpose of making an estimate of taxable
+income of any person, shall have the power to examine or to cause to have
+examined, by any agent or representative designated by him or her for that
+purpose, any books, papers, records, or memoranda bearing upon such matters and
+may by summons require the attendance of the person responsible for rendering
+such return or other document or remitting any tax, or any officer or employee
+of such person, or the attendance of any other person having knowledge in the
+premises, and may take testimony and require proof material for his or her
+information, with power to administer oaths or affirmations to such person or
+persons.
+(4) The time and place of examination pursuant to this section shall be
+such time and place as may be fixed by the Tax Commissioner and as are
+reasonable under the circumstances. In the case of a summons, the date fixed
+for appearance before the Tax Commissioner shall not be less than twenty days
+from the time of service of the summons.
+(5) No taxpayer shall be subjected to unreasonable or unnecessary
+examinations or investigations.
+(6) Except in accordance with proper judicial order or as otherwise
+provided by law, it shall be unlawful for the Tax Commissioner, any officer or
+employee of the Tax Commissioner, any person engaged or retained by the Tax
+Commissioner on an independent contract basis, any person who pursuant to this
+section is permitted to inspect any report or return or to whom a copy, an
+abstract, or a portion of any report or return is furnished, any employee of
+the State Treasurer or the Department of Administrative Services, or any other
+person to divulge, make known, or use in any manner the amount of income or any
+particulars set forth or disclosed in any report or return required except for
+the purpose of enforcing sections 77-2714 to 77-27,135. The officers charged
+with the custody of such reports and returns shall not be required to produce
+any of them or evidence of anything contained in them in any action or
+proceeding in any court, except on behalf of the Tax Commissioner in an action
+or proceeding under the provisions of the tax law to which he or she is a party
+or on behalf of any party to any action or proceeding under such sections when
+the reports or facts shown thereby are directly involved in such action or
+proceeding, in either of which events the court may require the production of,
+and may admit in evidence, so much of such reports or of the facts shown
+thereby as are pertinent to the action or proceeding and no more. Nothing in
+this section shall be construed (a) to prohibit the delivery to a taxpayer, his
+or her duly authorized representative, or his or her successors, receivers,
+trustees, personal representatives, administrators, assignees, or guarantors,
+if directly interested, of a certified copy of any return or report in
+connection with his or her tax, (b) to prohibit the publication of statistics
+so classified as to prevent the identification of particular reports or returns
+and the items thereof, (c) to prohibit the inspection by the Attorney General,
+other legal representatives of the state, or a county attorney of the report or
+return of any taxpayer who brings an action to review the tax based thereon,
+against whom an action or proceeding for collection of tax has been instituted,
+or against whom an action, proceeding, or prosecution for failure to comply
+with the Nebraska Revenue Act of 1967 is being considered or has been
+commenced, (d) to prohibit furnishing to the Nebraska Workers' Compensation
+Court the names, addresses, and identification numbers of employers, and such
+information shall be furnished on request of the court, (e) to prohibit the
+disclosure of information and records to a collection agency contracting with
+the Tax Commissioner pursuant to sections 77-377.01 to 77-377.04, (f) to
+prohibit the disclosure of information pursuant to section 77-27,195, 77-4110,
+77-5731, 77-6521, 77-6837, 77-6839, or 77-6928, (g) to prohibit the disclosure
+to the Public Employees Retirement Board of the addresses of individuals who
+are members of the retirement systems administered by the board, and such
+information shall be furnished to the board solely for purposes of its
+administration of the retirement systems upon written request, which request
+shall include the name and social security number of each individual for whom
+-9-
+
+LB1155 LB1155
+2026 2026
+an address is requested, (h) to prohibit the disclosure of information to the
+Department of Labor necessary for the administration of the Employment Security
+Law, the Contractor Registration Act, or the Employee Classification Act, (i)
+to prohibit the disclosure to the Department of Motor Vehicles of tax return
+information pertaining to individuals, corporations, and businesses determined
+by the Department of Motor Vehicles to be delinquent in the payment of amounts
+due under agreements pursuant to the International Fuel Tax Agreement Act, and
+such disclosure shall be strictly limited to information necessary for the
+administration of the act, (j) to prohibit the disclosure under section
+42-358.08, 43-512.06, or 43-3327 to any court-appointed individuals, the county
+attorney, any authorized attorney, or the Department of Health and Human
+Services of an absent parent's address, social security number, amount of
+income, health insurance information, and employer's name and address for the
+exclusive purpose of establishing and collecting child, spousal, or medical
+support, (k) to prohibit the disclosure of information to the Department of
+Insurance, the Nebraska State Historical Society, or the State Historic
+Preservation Officer as necessary to carry out the Department of Revenue's
+responsibilities under the Nebraska Job Creation and Mainstreet Revitalization
+Act, or (l) to prohibit the disclosure to the Department of Insurance of
+information pertaining to authorization for, and use of, tax credits under the
+New Markets Job Growth Investment Act. Information so obtained shall be used
+for no other purpose. Any person who violates this subsection shall be guilty
+of a felony and shall upon conviction thereof be fined not less than one
+hundred dollars nor more than five hundred dollars, or be imprisoned not more
+than five years, or be both so fined and imprisoned, in the discretion of the
+court and shall be assessed the costs of prosecution. If the offender is an
+officer or employee of the state, he or she shall be dismissed from office and
+be ineligible to hold any public office in this state for a period of two years
+thereafter.
+(7) Reports and returns required to be filed under income tax provisions
+of sections 77-2714 to 77-27,135 shall be preserved until the Tax Commissioner
+orders them to be destroyed.
+(8) Notwithstanding the provisions of subsection (6) of this section, the
+Tax Commissioner may permit the Secretary of the Treasury of the United States
+or his or her delegates or the proper officer of any state imposing an income
+tax, or the authorized representative of either such officer, to inspect the
+income tax returns of any taxpayer or may furnish to such officer or his or her
+authorized representative an abstract of the return of income of any taxpayer
+or supply him or her with information concerning an item of income contained in
+any return or disclosed by the report of any investigation of the income or
+return of income of any taxpayer, but such permission shall be granted only if
+the statutes of the United States or of such other state, as the case may be,
+grant substantially similar privileges to the Tax Commissioner of this state as
+the officer charged with the administration of the income tax imposed by
+sections 77-2714 to 77-27,135.
+(9) Notwithstanding the provisions of subsection (6) of this section, the
+Tax Commissioner may permit the Postal Inspector of the United States Postal
+Service or his or her delegates to inspect the reports or returns of any person
+filed pursuant to the Nebraska Revenue Act of 1967 when information on the
+reports or returns is relevant to any action or proceeding instituted or being
+considered by the United States Postal Service against such person for the
+fraudulent use of the mails to carry and deliver false and fraudulent tax
+returns to the Tax Commissioner with the intent to defraud the State of
+Nebraska or to evade the payment of Nebraska state taxes.
+(10)(a) Notwithstanding the provisions of subsection (6) of this section,
+the Tax Commissioner shall, upon written request by the Auditor of Public
+Accounts or the Legislative Audit Office, make tax returns and tax return
+information open to inspection by or disclosure to officers and employees of
+the Auditor of Public Accounts or employees of the Legislative Audit Office for
+the purpose of and to the extent necessary in making an audit of the Department
+of Revenue pursuant to section 50-1205 or 84-304. The Auditor of Public
+Accounts or Legislative Audit Office shall statistically and randomly select
+the tax returns and tax return information to be audited based upon a computer
+tape provided by the Department of Revenue which contains only total population
+documents without specific identification of taxpayers. The Tax Commissioner
+shall have the authority to approve the statistical sampling method used by the
+Auditor of Public Accounts or Legislative Audit Office. Confidential tax
+returns and tax return information shall be audited only upon the premises of
+the Department of Revenue or through secure remote access. All audit workpapers
+pertaining to the audit of the Department of Revenue that contain return
+information in a form that can be associated with or otherwise identify,
+directly or indirectly, a particular taxpayer shall be stored in a secure place
+in the Department of Revenue.
+(b) When selecting tax returns or tax return information for a performance
+audit of a tax incentive program, the Legislative Audit Office shall select the
+tax returns or tax return information for either all or a statistically and
+randomly selected sample of taxpayers who have applied for or who have
+qualified for benefits under the tax incentive program that is the subject of
+the audit. When the Legislative Audit Office reports on its review of tax
+returns and tax return information, it shall comply with subdivision (10)(c) of
+this section.
+(c) No officer or employee of the Auditor of Public Accounts or
+Legislative Audit Office employee shall disclose to any person, other than
+-10-
+
+LB1155 LB1155
+2026 2026
+another officer or employee of the Auditor of Public Accounts or Legislative
+Audit Office whose official duties require such disclosure, any return or
+return information described in the Nebraska Revenue Act of 1967 in a form
+which can be associated with or otherwise identify, directly or indirectly, a
+particular taxpayer.
+(d) Any person who violates the provisions of this subsection shall be
+guilty of a Class IV felony and, in the discretion of the court, may be
+assessed the costs of prosecution. The guilty officer or employee shall be
+dismissed from employment and be ineligible to hold any position of employment
+with the State of Nebraska for a period of two years thereafter. For purposes
+of this subsection, officer or employee shall include a former officer or
+employee of the Auditor of Public Accounts or former employee of the
+Legislative Audit Office.
+(11) For purposes of subsections (10) through (13) of this section:
+(a) Tax returns shall mean any tax or information return or claim for
+refund required by, provided for, or permitted under sections 77-2714 to
+77-27,135 which is filed with the Tax Commissioner by, on behalf of, or with
+respect to any person and any amendment or supplement thereto, including
+supporting schedules, attachments, or lists which are supplemental to or part
+of the filed return;
+(b) Return information shall mean:
+(i) A taxpayer's identification number and (A) the nature, source, or
+amount of his or her income, payments, receipts, deductions, exemptions,
+credits, assets, liabilities, net worth, tax liability, tax withheld,
+deficiencies, overassessments, or tax payments, whether the taxpayer's return
+was, is being, or will be examined or subject to other investigation or
+processing or (B) any other data received by, recorded by, prepared by,
+furnished to, or collected by the Tax Commissioner with respect to a return or
+the determination of the existence or possible existence of liability or the
+amount of liability of any person for any tax, penalty, interest, fine,
+forfeiture, or other imposition or offense; and
+(ii) Any part of any written determination or any background file document
+relating to such written determination; and
+(c) Disclosures shall mean the making known to any person in any manner a
+return or return information.
+(12) The Auditor of Public Accounts shall (a) notify the Tax Commissioner
+in writing thirty days prior to the beginning of an audit of his or her intent
+to conduct an audit, (b) provide an audit plan, and (c) provide a list of the
+tax returns and tax return information identified for inspection during the
+audit. The Legislative Audit Office shall notify the Tax Commissioner of the
+intent to conduct an audit and of the scope of the audit as provided in section
+50-1209.
+(13) The Auditor of Public Accounts or the Legislative Audit Office shall,
+as a condition for receiving tax returns and tax return information: (a)
+Subject employees involved in the audit to the same confidential information
+safeguards and disclosure procedures as required of Department of Revenue
+employees; (b) establish and maintain a permanent system of standardized
+records with respect to any request for tax returns or tax return information,
+the reason for such request, and the date of such request and any disclosure of
+the tax return or tax return information; (c) establish and maintain a secure
+area or place in the Department of Revenue in which the tax returns, tax return
+information, or audit workpapers shall be stored; (d) restrict access to the
+tax returns or tax return information only to persons whose duties or
+responsibilities require access; (e) provide such other safeguards as the Tax
+Commissioner determines to be necessary or appropriate to protect the
+confidentiality of the tax returns or tax return information; (f) provide a
+report to the Tax Commissioner which describes the procedures established and
+utilized by the Auditor of Public Accounts or Legislative Audit Office for
+insuring the confidentiality of tax returns, tax return information, and audit
+workpapers; and (g) upon completion of use of such returns or tax return
+information, return to the Tax Commissioner such returns or tax return
+information, along with any copies.
+(14) The Tax Commissioner may permit other tax officials of this state to
+inspect the tax returns and reports filed under sections 77-2714 to 77-27,135,
+but such inspection shall be permitted only for purposes of enforcing a tax law
+and only to the extent and under the conditions prescribed by the rules and
+regulations of the Tax Commissioner.
+(15) The Tax Commissioner shall compile the school district information
+required by subsection (2) of this section. Insofar as it is possible, such
+compilation shall include, but not be limited to, the total adjusted gross
+income of each school district in the state. The Tax Commissioner shall adopt
+and promulgate such rules and regulations as may be necessary to insure that
+such compilation does not violate the confidentiality of any individual income
+tax return nor conflict with any other provisions of state or federal law.
+Sec. 10. Section 83-4,134.01, Revised Statutes Supplement, 2025, is
+amended to read:
+83-4,134.01 (1) It is the intent of the Legislature to establish a system
+of investigation and performance review in order to provide increased
+accountability and oversight regarding the use of room confinement for
+juveniles in a juvenile facility.
+(2) The following shall apply regarding placement in room confinement of a
+juvenile in a juvenile facility:
+(a) Room confinement of a juvenile for longer than one hour during a
+-11-
+
+LB1155 LB1155
+2026 2026
+twenty-four-hour period shall be documented and approved in writing by a
+supervisor in the juvenile facility. Documentation of the room confinement
+shall include the date of the occurrence; the race, ethnicity, age, and gender
+of the juvenile; the reason for placement of the juvenile in room confinement;
+an explanation of why less restrictive means were unsuccessful; the ultimate
+duration of the placement in room confinement in hours and minutes; facility
+staffing levels at the time of confinement; and any incidents of self-harm or
+suicide committed by the juvenile while he or she was isolated;
+(b) If any physical or mental health clinical evaluation was performed
+during the time the juvenile was in room confinement for longer than one hour,
+the results of such evaluation shall be considered in any decision to place a
+juvenile in room confinement or to continue room confinement;
+(c) The juvenile facility shall electronically submit a quarterly report
+quarterly to the Division of Legislative Oversight Legislature on the juveniles
+placed in room confinement; the length of time, in hours and minutes, each
+juvenile was in room confinement; the race, ethnicity, age, and gender of each
+juvenile placed in room confinement; facility staffing levels at the time of
+confinement; and the reason each juvenile was placed in room confinement. The
+report shall specifically address each instance of room confinement of a
+juvenile for more than four hours, including all reasons why attempts to return
+the juvenile to the general population of the juvenile facility were
+unsuccessful. The report shall also detail all corrective measures taken in
+response to noncompliance with this section. The report shall redact all
+personal identifying information but shall provide individual, not aggregate,
+data. The report shall be delivered electronically to the Legislature. The
+initial quarterly report shall be submitted within two weeks after the quarter
+ending on September 30, 2016. Subsequent reports shall be submitted for the
+ensuing quarters within four weeks after the end of each quarter; and
+(d) All reports submitted pursuant to this section shall be in a format
+the Division of Legislative Oversight determines is necessary for its review;
+and
+(e) (d) The Division of Legislative Oversight, specifically the Inspector
+General of Nebraska Child Welfare or the Legislative Audit Office, shall review
+all data collected pursuant to this section in order to assess the use of room
+confinement for juveniles in each juvenile facility and prepare an annual
+report of the his or her findings of the Division of Legislative Oversight,
+including, but not limited to, identifying changes in policy and practice which
+may lead to decreased use of such confinement as well as model evidence-based
+criteria to be used to determine when a juvenile should be placed in room
+confinement. The report shall be delivered electronically to the Legislature on
+an annual basis.
+(3) The use of consecutive periods of room confinement to avoid the intent
+or purpose of this section is prohibited.
+(4) Any juvenile facility which is not a residential child-caring agency
+which fails to comply with the requirements of this section is subject to
+disciplinary action as provided in section 83-4,134. Any juvenile facility
+which is a residential child-caring agency which fails to comply with the
+requirements of this section is subject to disciplinary action as provided in
+section 71-1940.
+Sec. 11. Original sections 43-2,108, 50-1205, 50-1803, 50-1805, 50-1812,
+50-1912, 50-1918, 77-2711, 77-27,119, and 83-4,134.01, Revised Statutes
+Supplement, 2025, are repealed.
+-12-

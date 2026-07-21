@@ -1,0 +1,44 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LB1069 LB1069
+2026 2026
+LEGISLATURE OF NEBRASKA
+ONE HUNDRED NINTH LEGISLATURE
+SECOND SESSION
+LEGISLATIVE BILL 1069
+Introduced by Dover, 19.
+Read first time January 14, 2026
+Committee: Banking, Commerce and Insurance
+1 A BILL FOR AN ACT relating to emergency medical services; to amend
+2 section 38-1201, Revised Statutes Cumulative Supplement, 2024; to
+3 provide billing requirements for emergency care providers as
+4 prescribed; to define a term; and to repeal the original section.
+5 Be it enacted by the people of the State of Nebraska,
+-1-
+
+LB1069 LB1069
+2026 2026
+1 Section 1. Section 38-1201, Revised Statutes Cumulative Supplement,
+2 2024, is amended to read:
+3 38-1201 Sections 38-1201 to 38-1239 and section 2 of this act shall
+4 be known and may be cited as the Emergency Medical Services Practice Act.
+5 Sec. 2. (1) An emergency care provider shall not be eligible to
+6 receive state-funded emergency medical services grant assistance
+7 administered by the department unless such provider certifies, on a form
+8 prescribed by the department, that the provider maintains and implements
+9 a policy for billing for services by submitting claims to public or
+10 private third-party payors, if appropriate.
+11 (2) For purposes of this section, billing for services means the
+12 regular submission of a claim for reimbursement to medicare, medicaid, a
+13 private health insurer, or a legally responsible third-party payor for
+14 emergency or non-emergency medical services provided by the emergency
+15 care provider.
+16 Sec. 3. Original section 38-1201, Revised Statutes Cumulative
+17 Supplement, 2024, is repealed.
+-2-

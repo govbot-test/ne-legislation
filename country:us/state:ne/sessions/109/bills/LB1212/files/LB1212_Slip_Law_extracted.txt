@@ -1,0 +1,483 @@
+Title: 
+Official Title: 
+Source: versions - Slip Law
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LB1212 LB1212
+2026 2026
+LEGISLATIVE BILL 1212
+Approved by the Governor April 14, 2026
+Introduced by Riepe, 12.
+A BILL FOR AN ACT relating to occupational licensing; to amend sections
+81-3437.01 and 81-3451, Reissue Revised Statutes of Nebraska, sections
+38-2001 and 38-2002, Revised Statutes Cumulative Supplement, 2024, and
+section 81-3449, Revised Statutes Supplement, 2025; to define terms and
+provide for licensure of internationally trained physicians under the
+Medicine and Surgery Practice Act; to change and eliminate provisions
+relating to the Engineers and Architects Regulation Act; to harmonize
+provisions; to provide operative dates; and to repeal the original
+sections.
+Be it enacted by the people of the State of Nebraska,
+Section 1. Section 38-2001, Revised Statutes Cumulative Supplement, 2024,
+is amended to read:
+38-2001 Sections 38-2001 to 38-2064 and sections 3 to 9 of this act shall
+be known and may be cited as the Medicine and Surgery Practice Act.
+Sec. 2. Section 38-2002, Revised Statutes Cumulative Supplement, 2024, is
+amended to read:
+38-2002 For the purposes of the Medicine and Surgery Practice Act and
+elsewhere in the Uniform Credentialing Act, unless the context otherwise
+requires, the definitions found in sections 38-2003 to 38-2022 and section 3 of
+this act apply.
+Sec. 3. For purposes of sections 3 to 9 of this act:
+(1) Assessment and evaluation program means a structured program approved
+by the department, with the recommendation of the board, which utilizes
+multiple assessment methods to evaluate an internationally trained physician's
+performance over time across the general competencies within the physician's
+intended scope of practice;
+(2) General competencies means the six domains of professional competence
+endorsed by the Coalition for Physician Accountability, including patient care
+and procedural skills, medical knowledge, practice-based learning and
+improvement, interpersonal and communication skills, professionalism, and
+systems-based practice;
+(3) Health profession shortage area means a geographic region of the state
+that has been designated by the Nebraska Rural Health Advisory Commission
+pursuant to section 71-5665;
+(4) Internationally trained physician means a physician who has: (a)
+Received a degree of doctor of medicine or its equivalent from a legally
+chartered medical school outside the United States; (b) completed a graduate
+medical education training program that is substantially similar to United
+States graduate medical education or residency, as determined by the board; (c)
+been licensed or otherwise authorized to practice medicine in a country other
+than the United States; (d) practiced medicine for at least three of the last
+five years following the completion of a graduate medical education training
+program, unless that period is waived by the board; and (e) been in good
+standing with any previous medical licensing or regulatory institution during
+the most recent three years of practice and has no pending discipline before
+the licensing or regulatory institution;
+(5) Legally chartered medical school outside the United States means a
+medical school recognized by the Educational Commission for Foreign Medical
+Graduates that provides individuals with a medical education or training
+outside the United States that is substantially similar to the training
+required to qualify to practice medicine and surgery in this state, as
+determined by the board;
+(6) Licensing examination means the United States Medical Licensing
+Examination;
+(7) Participating health care entity means a federally qualified health
+center, hospital, or other entity that provides an assessment and evaluation
+program and is approved by the department, with the recommendation of the
+board. The department, with the recommendation of the board, may establish
+additional criteria for qualification as a participating health care entity
+including criteria relating to the ability to implement a board-recommended
+assessment and evaluation program addressing the general competencies;
+(8) Provisional license means a license to practice medicine issued
+pursuant to section 4 of this act; and
+(9) Transitional license means a license issued pursuant to section 5 of
+this act that permits an internationally trained physician to practice as a
+practitioner in a health profession shortage area independently without the
+supervision of a participating health care entity.
+Sec. 4. (1) The department, with the recommendation of the board, may
+issue a provisional license for no longer than three years to an
+internationally trained physician if the physician and the participating health
+care entity submit evidence that the physician:
+(a) Meets the definition of an internationally trained physician as
+-1-
+
+LB1212 LB1212
+2026 2026
+defined in section 3 of this act;
+(b) Has a valid certification issued by the Educational Commission for
+Foreign Medical Graduates;
+(c) Has achieved a passing score on step 1 and step 2 of the licensing
+examination;
+(d) Has entered into an agreement with a participating health care entity
+for full-time employment under the supervision of a licensed physician. Such
+agreement shall provide that the participating health care entity shall conduct
+an initial formative needs assessment, develop an individualized learning and
+supervision plan, and assess and evaluate the physician's familiarity with the
+standards appropriate for medical practice in the state, consistent with
+assessment and evaluation criteria established in rules and regulations adopted
+and promulgated by the department, with the recommendation of the board, and
+designed to address all general competencies;
+(e) Is either a United States citizen or is legally authorized to work by
+the federal government pursuant to 8 C.F.R. 274a.12, as such regulation existed
+on January 1, 2026; and
+(f) Has satisfied other criteria as required by the board which shall not
+include a medical education residency program as a prerequisite.
+(2) An internationally trained physician practicing under a provisional
+license shall be allowed to renew such physician's provisional license for one
+three-year period. No physician practicing under a provisional license shall be
+allowed to hold a provisional license for more than six years.
+(3)(a) Within six months after a physician commences practice under a
+provisional license, the participating health care entity shall: (i) Conduct an
+initial formative needs assessment of the internationally trained physician's
+competence in the general competencies, including a review of the physician's
+prior graduate medical education and practice experience using a process
+approved by the department, with the recommendation of the board; and (ii)
+submit an individualized learning and supervision plan to the department for
+the physician that is informed by the initial formative needs assessment and
+addresses all general competencies for the physician's intended scope of
+practice. A copy of such plan shall be provided to the board.
+(b) The initial formative needs assessment shall be used to identify areas
+of strength and areas in which additional support is needed and shall not be
+used to deny issuance of a provisional license to a physician who otherwise
+meets the requirements of subsection (1) of this section.
+(4)(a) The assessment and evaluation program utilized by a participating
+health care entity for a physician practicing under a provisional license shall
+include, but not be limited to: (i) Standardized assessments of medical
+knowledge; (ii) direct observation of the physician's clinical skills; (iii)
+multi-source feedback from physicians and other health care team members and,
+when feasible, patients; and (iv) periodic audits of medical records for which
+the physician is responsible.
+(b) The assessment and evaluation program shall ensure that the physician
+engages in a sufficient volume and breadth of cases to permit meaningful
+assessment across the general competencies for the physician's intended scope
+of practice.
+(5) An internationally trained physician practicing under a provisional
+license shall be supervised and employed by a participating health care entity.
+All practice under a provisional license shall initially occur under
+supervision by a supervisor who meets the requirements described in subdivision
+(a) of this subsection. The level of supervision may be adjusted over time
+based on documented competence demonstrated through the assessment and
+evaluation program, in accordance with standards and supervision levels
+established in rules and regulations adopted and promulgated by the department,
+with the recommendation of the board. A participating health care entity shall:
+(a) Employ one or more supervisors to supervise internationally trained
+physicians. A supervisor shall (i) be licensed to practice medicine in the
+state in good standing, and (ii) possess all necessary institutional
+privileges;
+(b) Carry medical malpractice insurance covering such physician during the
+period of time the physician practices under the provisional license; and
+(c) Complete all required assessment and evaluation program criteria.
+(6) The department, with the recommendation of the board, may adopt and
+promulgate rules and regulations to carry out this section, including, but not
+limited to, criteria for participating health care entities and supervisors,
+requirements for assessment and evaluation programs, supervision levels, and
+required forms for initial formative needs assessments and individualized
+learning and supervision plans.
+Sec. 5. (1) The department, with the recommendation of the board, may
+issue a transitional license for no longer than three years to an
+internationally trained physician if such physician has:
+(a) Practiced medicine for three years under the supervision of a
+participating health care entity;
+(b) Completed and received satisfactory results on the participating
+health care entity's department-approved and board-recommended assessment and
+evaluation program which shall document, using multiple assessment methods, the
+physician's performance across the general competencies within the physician's
+intended scope of practice;
+(c) Received a satisfactory score on step 3 of the licensing examination;
+and
+(d) Completed additional prerequisites required by the board. Such
+-2-
+
+LB1212 LB1212
+2026 2026
+prerequisites shall not include a medical education residency program.
+(2) Prior to issuing a transitional license, the department shall receive
+from the participating health care entity a final assessment and evaluation
+report on a form prescribed by the department, with the recommendation of the
+board, affirming that, in the judgment of the participating health care entity,
+the physician has demonstrated the ability to engage in independent and
+unsupervised practice within the physician's intended scope of practice across
+all general competencies. The board shall be provided with a copy of the final
+assessment and evaluation report and may review the report and make a
+recommendation to the department regarding issuance, denial, or renewal of a
+provisional or transitional license under this section.
+(3) The transitional license may be renewed for one three-year period.
+Sec. 6. (1) After an internationally trained physician has practiced
+under a provisional license for a minimum of three years and a transitional
+license for a minimum of three years, such physician shall be eligible to apply
+for an unrestricted license to practice medicine in this state. Prior to
+granting such unrestricted license, the board shall review and evaluate
+assessment data and reports submitted under sections 4 and 5 of this act.
+(2) While practicing under a provisional or transitional license, the
+physician shall submit the following information to the department and the
+board every six months or upon request: (a) A statement certifying that the
+physician is employed as a physician in this state and not subject to
+discipline; and (b) a disclosure of the results of any assessment or evaluation
+completed by the participating health care entity under an approved assessment
+and evaluation program pursuant to section 5 of this act.
+(3) The physician shall notify the department and the board of any changes
+in employment during the period of time a provisional license is in effect.
+Sec. 7. A participating health care entity employing a physician
+practicing under a provisional or transitional license shall ensure that such
+physician:
+(1) Is subject to, and protected by, the entity's policies regarding work
+hours, discrimination and harassment, and access to wellness and support
+services on the same basis as other physicians employed by the entity; and
+(2) Receives written information at the commencement of employment
+regarding the policies described in subdivision (1) of this section.
+Sec. 8. (1) In addition to other grounds for disciplinary action against
+the license under the Uniform Credentialing Act, the department may take
+disciplinary action, including suspension and revocation, against a license
+granted pursuant to section 4 or 5 of this act for professional misconduct,
+noncompliance with licensure requirements, or an unsatisfactory assessment or
+evaluation submitted by a participating health care entity. In determining
+whether an assessment or evaluation is unsatisfactory under this subsection,
+the department may consider the totality of assessment data generated under an
+approved assessment and evaluation program, including repeated deficiencies in
+one or more general competencies and the physician's response to remediation.
+The department shall consider any board recommendation relating to an
+assessment or evaluation described in this section.
+(2) A provisional or transitional license may be suspended, pending a full
+disciplinary review by the department if, in the judgment of a participating
+health care entity, the internationally trained physician's practice
+jeopardizes the health and well-being of a patient.
+Sec. 9. An internationally trained physician aggrieved by any action
+against such physician's provisional or transitional license may appeal the
+decision. The appeal shall be in accordance with the Administrative Procedure
+Act.
+Sec. 10. Section 81-3437.01, Reissue Revised Statutes of Nebraska, is
+amended to read:
+81-3437.01 (1) Each licensee authorized to practice architecture or
+engineering must obtain a seal. The design of the seal shall be determined by
+the board. If a professional engineer's license has been issued in a specific
+discipline, the discipline shall be specified on the seal. The following
+information shall be on the seal: State of Nebraska; licensee's name;
+licensee's license number; and the words Architect or Professional (discipline)
+Engineer.
+(2) Whenever the seal is applied, the licensee's signature and the date of
+the seal's application shall be placed across or adjacent to the seal in a
+manner that does not obscure the licensee's name or the license number on the
+seal. The board may adopt and promulgate rules and regulations for application
+of the seal.
+(3) The seal and the date of its placement shall be on all technical
+submissions and calculations whenever presented to a client or any public or
+governmental agency. It shall be unlawful for a licensee to affix his or her
+seal or to permit his or her seal to be affixed to any document after the
+expiration of the certificate or for the purpose of aiding or abetting any
+other person to evade or attempt to evade the Engineers and Architects
+Regulation Act.
+(4) The seal and date shall be placed on all originals, copies, tracings,
+or other reproducible drawings and the first page and last pages of
+specifications, reports, and studies in such a manner that the seal, signature,
+and date will be reproduced and be in compliance with rules and regulations of
+the board. The application of the licensee's seal shall constitute
+certification that the work was done by the licensee or under the licensee's
+control.
+-3-
+
+LB1212 LB1212
+2026 2026
+(5) In the case of a temporary permit issued to a licensee of another
+state, the licensee shall use his or her state of licensure seal and shall
+affix his or her signature and temporary permit to all his or her work.
+Sec. 11. Section 81-3449, Revised Statutes Supplement, 2025, is amended to
+read:
+81-3449 The provisions of the Engineers and Architects Regulation Act
+regulating the practice of architecture do not apply to the following
+activities:
+(1) The construction, remodeling, alteration, or renovation of a detached
+single-family through four-family dwelling of less than five thousand square
+feet of above grade finished space. Any detached or attached sheds, storage
+buildings, and garages incidental to the dwelling are not included in the
+tabulation of finished space. Such exemption may be increased by rule and
+regulation of the board adopted pursuant to the Negotiated Rulemaking Act but
+shall not exceed the Type V, column B, limitations set forth by the allowable
+height and building areas table in the state building code adopted in section
+71-6403;
+(2) The construction, remodeling, alteration, or renovation of a one-story
+commercial or industrial building or structure of less than five thousand
+square feet of above grade finished space which does not exceed thirty feet in
+height unless such building or structure, or the remodeling or repairing
+thereof, provides for the employment, housing, or assembly of twenty or more
+persons. Any detached or attached sheds, storage buildings, and garages
+incidental to the building or structure are not included in the tabulation of
+finished space. Such exemption may be increased by rule and regulation of the
+board adopted pursuant to the Negotiated Rulemaking Act but shall not exceed
+the Type V, column B, limitations set forth by the allowable height and
+building areas table in the state building code adopted in section 71-6403;
+(3) The construction, remodeling, alteration, or renovation of farm
+buildings, including barns, silos, sheds, or housing for farm equipment and
+machinery, livestock, poultry, or storage, if the structures are designed to be
+occupied by no more than twenty persons. Such exemption may be increased by
+rule and regulation of the board adopted pursuant to the Negotiated Rulemaking
+Act but shall not exceed the Type V, column B, limitations set forth by the
+allowable height and building areas table in the state building code adopted in
+section 71-6403;
+(4) Any public works project with contemplated expenditures for a
+completed project that do not exceed one hundred thousand dollars. The board
+shall adjust the dollar amount in this subdivision every fifth year. The first
+such adjustment after August 27, 2011, shall be effective on July 1, 2014. The
+adjusted amount shall be equal to the then current amount adjusted by the
+cumulative percentage change in the Consumer Price Index for All Urban
+Consumers published by the Federal Bureau of Labor Statistics for the five-year
+period preceding the adjustment date. The amount shall be rounded to the next
+highest one-thousand-dollar amount;
+(5) Any alteration, renovation, or remodeling of a building if the
+alteration, renovation, or remodeling does not affect architectural or
+engineering safety features of the building;
+(6) The teaching, including research and service, of architectural
+subjects in a college or university offering a degree in architecture
+accredited by the National Architectural Accrediting Board;
+(7) The preparation of submissions to architects, building officials, or
+other regulating authorities by the manufacturer, supplier, or installer of any
+materials, assemblies, components, or equipment that describe or illustrate the
+use of such items, the preparation of any details or shop drawings required of
+the contractor by the terms of the construction documents, or the management of
+construction contracts by persons customarily engaged in contracting work;
+(8) The preparation of technical submissions or the administration of
+construction contracts by employees of a person or organization lawfully
+engaged in the practice of architecture if such employees are acting under the
+direct supervision of an architect;
+(9) A public service provider or an organization who employs a licensee
+performing professional services for itself;
+(10) A nonresident who holds the certification issued by the National
+Council of Architectural Registration Boards offering to render the
+professional services involved in the practice of architecture. The nonresident
+shall not perform any of the professional services involved in the practice of
+architecture until licensed as provided in the Engineers and Architects
+Regulation Act. The nonresident shall notify the board in writing that (a) he
+or she holds a National Council of Architectural Registration Boards
+certificate and is not currently licensed in Nebraska but will be present in
+Nebraska for the purpose of offering to render architectural services, (b) he
+or she will deliver a copy of the notice to every potential client to whom the
+applicant offers to render architectural services, and (c) he or she promises
+to apply immediately to the board for licensure if selected as the architect
+for the project;
+(10) (11) The practice by a qualified member of another legally recognized
+profession who is otherwise licensed or certified by this state or any
+political subdivision to perform services consistent with the laws of this
+state, the training, and the code of ethics of the respective profession, if
+such qualified member does not represent himself or herself to be practicing
+architecture and does not represent himself or herself to be an architect;
+(11) (12) Financial institutions making disbursements of funds in
+-4-
+
+LB1212 LB1212
+2026 2026
+connection with construction projects;
+(12) (13) Earthmoving and related work associated with soil and water
+conservation practices performed on farmland or any land owned by a political
+subdivision that is not subject to a permit from the Department of Water,
+Energy, and Environment or for work related to livestock waste facilities that
+are not subject to a permit by the Department of Water, Energy, and
+Environment; and
+(13) (14) The work of employees and agents of a political subdivision or a
+nonprofit entity organized for the purpose of furnishing electrical service
+performing, in accordance with other requirements of law, their customary
+duties in the administration and enforcement of codes, permit programs, and
+land-use regulations and their customary duties in utility and public works
+construction, operation, and maintenance.
+Sec. 12. Section 81-3451, Reissue Revised Statutes of Nebraska, is amended
+to read:
+81-3451 (1) The following shall be considered as the minimum evidence
+satisfactory to the board that an applicant is eligible for enrollment as an
+engineer-intern:
+(a)(i) Graduation from a program accredited by the Engineering
+Accreditation Commission of ABET;
+(ii) Graduation from a program accredited by the Canadian Engineering
+Accreditation Board; or
+(iii) Meeting the Education Standard of the National Council of Examiners
+for Engineering and Surveying as determined by the council;
+(b) Passage of an examination in the fundamentals of engineering as
+accepted by the Board of Engineers and Architects;
+(c) Submittal of an application accompanied by the fee established by the
+board; and
+(d) Demonstration of good reputation and good ethical character by
+attestation of references. The names and complete addresses of references
+acceptable to the board shall be included in the application for enrollment.
+(2)(a) The following shall be considered as the minimum evidence
+satisfactory to the board that an applicant is eligible for admission to the
+examination on the principles and practice of engineering that is adopted by
+the board:
+(i)(A) Graduation from a program accredited by the Engineering
+Accreditation Commission of ABET;
+(B) Graduation from a program accredited by the Canadian Engineering
+Accreditation Board; or
+(C) Meeting the Education Standard of the National Council of Examiners
+for Engineering and Surveying as determined by the council;
+(ii) Passage of an examination in the fundamentals of engineering as
+accepted by the Board of Engineers and Architects;
+(iii) Submittal of an application accompanied by the fee established by
+the board; and
+(iv) Demonstration of good reputation and good ethical character by
+attestation of references. The names and complete addresses of references
+acceptable to the board shall be included in the application.
+(b) A candidate who fails the principles and practice of engineering
+examination may apply for reexamination, which may be granted upon payment of a
+fee established by the board. In the event of a second or subsequent failure,
+the examinee may, at the discretion of the board, be required to appear before
+the board with evidence of having acquired the necessary additional knowledge
+to qualify before admission to the examination.
+(2) (3) The following shall be considered as the minimum evidence
+satisfactory to the board that an applicant is eligible for licensure as a
+professional engineer:
+(a)(i) Graduation from a program accredited by the Engineering
+Accreditation Commission of ABET;
+(ii) Graduation from a program accredited by the Canadian Engineering
+Accreditation Board; or
+(iii) Meeting the Education Standard of the National Council of Examiners
+for Engineering and Surveying as determined by the council;
+(b) Passage of an examination in the fundamentals of engineering that is
+accepted by the Board of Engineers and Architects;
+(c) (a) Passage of an examination in the principles and practice of
+engineering that is accepted by the board examination as set forth in
+subsection (2) of this section;
+(d) (b) A record of four years or more of progressive post-accredited-
+degree experience on engineering projects of a grade and character which
+indicates to the board that the applicant may be competent to practice
+engineering;
+(e) Submittal of an application for licensure as a professional engineer
+accompanied by a fee established by the board;
+(f) (c) Demonstration of good reputation and good ethical character by
+attestation of references. The names and complete addresses of references
+acceptable to the board shall be included in the application for licensure; and
+(g) (d) Successful passage of an examination on the statutes, rules, and
+other requirements unique to this state.
+(3) (4) An individual holding a license to practice engineering issued by
+a proper authority of any jurisdiction, based on credentials that do not
+conflict with subsection subsections (2) and (3) of this section and other
+provisions of the Engineers and Architects Regulation Act, may, upon
+-5-
+
+LB1212 LB1212
+2026 2026
+application, be licensed as a professional engineer after:
+(a) Demonstration of good reputation and good ethical character by
+attestation of references. The names and complete addresses of references
+acceptable to the board shall be included in the application for licensure; and
+(b) Successful passage of an examination on the statutes, rules, and other
+requirements unique to this state.
+(4) (5) An individual who has been licensed to practice engineering for
+fifteen years or more in one or more jurisdictions and who has practiced
+engineering for fifteen years in compliance with the licensing laws in the
+jurisdictions where his or her engineering practice has occurred since initial
+licensure may, upon application, be licensed as a professional engineer after:
+(a) Demonstration of good reputation and good ethical character by
+attestation of references. The names and complete addresses of references
+acceptable to the board shall be included in the application for licensure; and
+(b) Successful passage of an examination on the statutes, rules, and other
+requirements unique to this state.
+(5) (6) The board may designate a professional engineer as being licensed
+in a specific discipline or branch of engineering signifying the area in which
+the professional engineer has demonstrated competence.
+(6) (7) Upon application to the board in writing and payment of a fee
+established by the board, an individual who holds a valid license to practice
+engineering in another jurisdiction may be issued a temporary permit, valid for
+a definite period of time, to provide engineering services for a specific
+project. An individual may not be issued more than one temporary permit. No
+right to practice engineering accrues to such applicant with respect to any
+other work not set forth in the temporary permit. Temporary permit holders are
+subject to all of the provisions of the Engineers and Architects Regulation Act
+governing the practice of engineering.
+(7) (8) None of the examination materials described in this section shall
+be considered public records.
+(8) (9) The board or its agent shall direct the time and place of the
+engineering examinations referenced in subsections (1) and , (2) , and (3) of
+this section.
+(9) (10) The board may adopt the examinations and grading procedures of
+the National Council of Examiners for Engineering and Surveying. The board may
+also adopt guidelines published by the council.
+(10) (11) Licensure shall be effective upon issuance.
+Sec. 13. Sections 1, 2, 3, 4, 5, 6, 7, 8, 9, and 14 of this act become
+operative on August 1, 2027. The other sections of this act become operative on
+their effective date.
+Sec. 14. Original sections 38-2001 and 38-2002, Revised Statutes
+Cumulative Supplement, 2024, are repealed.
+Sec. 15. Original sections 81-3437.01 and 81-3451, Reissue Revised
+Statutes of Nebraska, and section 81-3449, Revised Statutes Supplement, 2025,
+are repealed.
+-6-

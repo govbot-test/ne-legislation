@@ -1,0 +1,218 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LB1111 LB1111
+2026 2026
+LEGISLATURE OF NEBRASKA
+ONE HUNDRED NINTH LEGISLATURE
+SECOND SESSION
+LEGISLATIVE BILL 1111
+Introduced by Cavanaugh, M., 6; McKinney, 11.
+Read first time January 16, 2026
+Committee: Natural Resources
+1 A BILL FOR AN ACT relating to electricity; to amend section 70-1025,
+2 Revised Statutes Cumulative Supplement, 2024, and section 70-1506,
+3 Revised Statutes Supplement, 2025; to require an annual data center
+4 load report to the Nebraska Power Review Board; to define and
+5 redefine terms; to provide powers and duties for public power
+6 suppliers; to allow and require regulation of data centers as
+7 prescribed; to change provisions relating to regulation of
+8 cryptocurrency mining operation; and to repeal the original
+9 sections.
+10 Be it enacted by the people of the State of Nebraska,
+-1-
+
+LB1111 LB1111
+2026 2026
+1 Section 1. Section 70-1025, Revised Statutes Cumulative Supplement,
+2 2024, is amended to read:
+3 70-1025 (1) The representative organization shall file with the
+4 board a coordinated long-range power supply plan containing the following
+5 information:
+6 (a) The identification of all electric generation plants operating
+7 or authorized for construction within the state that have a rated
+8 capacity of at least twenty-five thousand kilowatts;
+9 (b) The identification of all transmission lines located or
+10 authorized for construction within the state that have a rated capacity
+11 of at least two hundred thirty kilovolts; and
+12 (c) The identification of all additional planned electric generation
+13 and transmission requirements needed to serve estimated power supply
+14 demands within the state for a period of twenty years.
+15 (2) The representative organization shall file with the board the
+16 coordinated long-range power supply plan specified in subsection (1) of
+17 this section, and the board shall determine the date on which such report
+18 is to be filed, except that such report shall not be required to be filed
+19 more often than biennially.
+20 (3) An annual load and capability report shall be filed with the
+21 board by the representative organization. The report shall include:
+22 (a) Statewide utility load forecasts and the resources available to
+23 satisfy the loads over a twenty-year period; and
+24 (b) Such other information as the board requests if such request is
+25 submitted in writing to the representative organization, is consistent
+26 with the board's statutory responsibilities, and can be performed at a
+27 reasonable cost.
+28 (4) The annual load and capability report shall be filed on dates
+29 specified by the board.
+30 (5) An annual data center load report shall be filed with the board
+31 by the representative organization. The report shall include:
+-2-
+
+LB1111 LB1111
+2026 2026
+1 (a) A compilation of the information for proposed and existing data
+2 centers described by subsection (9) of section 70-1506;
+3 (b) A statewide data center load forecast;
+4 (c) A description of existing and proposed electricity generation
+5 needed to meet such load forecast;
+6 (d) A description of transmission additions and enhancements needed
+7 to meet such load forecast;
+8 (e) The estimated costs of all new generation and transmission
+9 needed to meet such load forecast;
+10 (f) Stranded asset costs, including total costs recovered from
+11 ratepayers that are not data centers;
+12 (g) Identification of data center decommissioning resources,
+13 activities, and shortfalls;
+14 (h) The policies, terms, and schedules of all public power suppliers
+15 intended to limit cost and risk impacts of data centers on other retail
+16 customers; and
+17 (i) Such other information the board considers necessary in the
+18 interest of the public.
+19 (6) The annual data center load report shall be filed on dates
+20 specified by the board. The board shall make the information in the
+21 annual data center load report public to the maximum extent permitted by
+22 law.
+23 Sec. 2. Section 70-1506, Revised Statutes Supplement, 2025, is
+24 amended to read:
+25 70-1506 (1) For purposes of this section:
+26 (a) Cryptocurrency mining means validating transactions for addition
+27 to a blockchain distributed ledger;
+28 (b) Cryptocurrency mining operation means a data center at least any
+29 facility of one megawatt in size but not exceeding twenty megawatts in
+30 size or greater that conducts cryptocurrency mining; and
+31 (c) Data center means a facility:
+-3-
+
+LB1111 LB1111
+2026 2026
+1 (i) The primary services of which are the storage, management, and
+2 processing of digital data; and
+3 (ii) That is used to house computer and network systems, including
+4 associated components such as servers, network equipment and appliances,
+5 telecommunications systems, data storage systems, systems for monitoring
+6 and managing infrastructure performance, Internet-related equipment and
+7 services, data communications connections, environmental controls, fire
+8 protection systems, and security systems and services;
+9 (d) Large data center means a data center with a peak electricity
+10 demand of twenty megawatts or more; and
+11 (e) (c) Public power supplier means a public power district,
+12 municipal electric utility, or any other government entity providing
+13 electric service.
+14 (2) When establishing or negotiating rates, tolls, rents, and other
+15 charges for large data centers, a public power supplier shall ensure, to
+16 the maximum extent permitted by law, that:
+17 (a) Each large data center pays the full cost of providing new
+18 electric service to such center, including, but not limited to, the cost
+19 of infrastructure upgrades necessitated by the operation of such center;
+20 (b) The cost of providing electric service to a large data center is
+21 not paid by other retail customers;
+22 (c) Other retail customers are not placed at financial risk for
+23 paying stranded costs associated with providing electric service to large
+24 data centers that have prematurely ceased operation; and
+25 (d) Each large data center bears all decommissioning costs of such
+26 center.
+27 (3) A public power supplier shall impose terms and conditions on a
+28 large data center to require that such center:
+29 (a) Pay the cost of infrastructure upgrades necessitated by the
+30 operation of the large data center;
+31 (b) Prevent transfer of costs and risks of infrastructure upgrades
+-4-
+
+LB1111 LB1111
+2026 2026
+1 to other retail customers during the operation of the large data center
+2 and, in the event the large data center operation ceases to operate,
+3 before the center pays the full costs of infrastructure upgrades
+4 necessitated for the operation of the center;
+5 (c) Submit a proposal to meet some or all of the large data center
+6 operation's load demand through private electric supplier agreements or
+7 self-generation, as a means to limit the risk of ratepayer stranded-asset
+8 costs;
+9 (d) Comply with any decommissioning requirements adopted by local
+10 governmental entities;
+11 (e) Submit a decommissioning plan to the public power supplier that
+12 obligates the large data center to:
+13 (i) Bear all costs of decommissioning the large data center;
+14 (ii) Post a security bond or other instrument, no later than the
+15 first year following commercial operation of the large data center,
+16 securing the costs of decommissioning the center; and
+17 (iii) Provide a copy of such bond or instrument to the public power
+18 supplier;
+19 (f) Provide the public power supplier with a copy of any required
+20 county or municipal zoning and other permits; and
+21 (g) Enter into a community benefit agreement to mitigate adverse
+22 community impacts.
+23 (4) (2) A public power supplier may impose requirements on any
+24 cryptocurrency mining operation for the cost of infrastructure upgrades
+25 necessitated by such operations, including, but not limited to:
+26 (a) Requiring direct payment or a letter of credit from such
+27 operation for such cost; or
+28 (b) Imposing terms and conditions on such operation that are in the
+29 interest of the public.
+30 (5) (3) Requirements imposed pursuant to this section shall be fair,
+31 reasonable, and not unduly discriminatory.
+-5-
+
+LB1111 LB1111
+2026 2026
+1 (6) (4) Before any requirement is imposed pursuant to this section,
+2 the public power supplier shall conduct a load study to determine the
+3 costs, impacts, and infrastructure upgrades necessitated by the large
+4 data center or cryptocurrency mining operation.
+5 (7) A public power supplier shall limit electric service to a large
+6 data center to the extent such center is able to acquire electric service
+7 from a private electric supplier or self-generation of the center and
+8 shall interconnect the center's private supplier and self-generation.
+9 (8) (5) Any person intending to install a large data center or
+10 cryptocurrency mining operation is responsible for notifying the local
+11 public power supplier of such intent, and such center or operation is
+12 subject to the interconnection requirements of such supplier.
+13 (9) (6) Each public power supplier shall make available to the
+14 public on the supplier's website the following information for each
+15 proposed and existing data center under the jurisdiction of the supplier:
+16 number of cryptocurrency mining operations under the jurisdiction of the
+17 supplier and the annual energy usage of each operation.
+18 (a) The name of the data center;
+19 (b) The names of the developers and owners of the data center;
+20 (c) The physical size of the data center in square feet;
+21 (d) The location of the data center, including street address and
+22 county;
+23 (e) The electricity demand of the data center;
+24 (f) The suppliers of electricity that would provide electric service
+25 to the data center and the amount of electricity provided by each
+26 supplier, including the names of public power suppliers and any private
+27 electricity suppliers, self-generation, or other energy suppliers;
+28 (g) The customer types and duration of customer demand contracts for
+29 the data center;
+30 (h) The transmission and distribution facility additions and
+31 enhancements required to serve the data center;
+-6-
+
+LB1111 LB1111
+2026 2026
+1 (i) All energy efficiency, load management, and conservation
+2 measures implemented by the data center;
+3 (j) All commitments by the data center to use renewable energy; and
+4 (k) The service life of the data center.
+5 (10) (7) A large data center or cryptocurrency mining operation
+6 shall allow a public power supplier to interrupt the such operation's
+7 electric service of such center or operation according to such supplier's
+8 established rate schedules and policies.
+9 Sec. 3. Original section 70-1025, Revised Statutes Cumulative
+10 Supplement, 2024, and section 70-1506, Revised Statutes Supplement, 2025,
+11 are repealed.
+-7-

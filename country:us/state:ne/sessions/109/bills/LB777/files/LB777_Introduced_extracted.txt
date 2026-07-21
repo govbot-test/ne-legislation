@@ -1,0 +1,147 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LB777 LB777
+2026 2026
+LEGISLATURE OF NEBRASKA
+ONE HUNDRED NINTH LEGISLATURE
+SECOND SESSION
+LEGISLATIVE BILL 777
+Introduced by Cavanaugh, M., 6.
+Read first time January 07, 2026
+Committee: Health and Human Services
+1 A BILL FOR AN ACT relating to the Medical Assistance Act; to amend
+2 section 68-908, Revised Statutes Cumulative Supplement, 2024; to add
+3 eligibility and reporting requirements for the Department of Health
+4 and Human Services as prescribed; and to repeal the original
+5 section.
+6 Be it enacted by the people of the State of Nebraska,
+-1-
+
+LB777 LB777
+2026 2026
+1 Section 1. Section 68-908, Revised Statutes Cumulative Supplement,
+2 2024, is amended to read:
+3 68-908 (1) The department shall administer the medical assistance
+4 program.
+5 (2) The department may (a) enter into contracts and interagency
+6 agreements, (b) adopt and promulgate rules and regulations, (c) adopt fee
+7 schedules, (d) apply for and implement waivers and managed care plans for
+8 services for eligible recipients, including services under the Nebraska
+9 Behavioral Health Services Act, and (e) perform such other activities as
+10 necessary and appropriate to carry out its duties under the Medical
+11 Assistance Act. A covered item or service as described in section 68-911
+12 that is furnished through a school-based health center, furnished by a
+13 provider, and furnished under a managed care plan pursuant to a waiver
+14 does not require prior consultation or referral by a patient's primary
+15 care physician to be covered. Any federally qualified health center
+16 providing services as a sponsoring facility of a school-based health
+17 center shall be reimbursed for such services provided at a school-based
+18 health center at the federally qualified health center reimbursement
+19 rate.
+20 (3) The department shall maintain the confidentiality of information
+21 regarding applicants for or recipients of medical assistance and such
+22 information shall only be used for purposes related to administration of
+23 the medical assistance program and the provision of such assistance or as
+24 otherwise permitted by federal law.
+25 (4) The department shall provide the maximum amount of retroactive
+26 coverage for each medical assistance eligibility category as permitted by
+27 federal law.
+28 (5) (4) The department shall prepare an annual summary and analysis
+29 of the medical assistance program for legislative and public review. The
+30 department shall submit a report of such summary and analysis to the
+31 Governor and the Legislature electronically no later than December 1 of
+-2-
+
+LB777 LB777
+2026 2026
+1 each year. The annual summary shall include, but not be limited to:
+2 (a) The number and percentage of applications approved and denied;
+3 (b) The number of eligibility determinations, including the number
+4 and percentage of those individuals remaining enrolled, terminations, and
+5 other determinations;
+6 (c) The number of case closures in the medical assistance program
+7 and the Children's Health Insurance Program and the specific reason for
+8 the closure broken down by (i) eligibility category, including program
+9 type, (ii) local public health district or other geographic area, and
+10 (iii) race or ethnicity, if available;
+11 (d) The number of medical assistance program and Children's Health
+12 Insurance Program enrollees broken down by (i) eligibility category,
+13 including program type, (ii) local public health district or other
+14 geographic area, and (iii) race or ethnicity, if available;
+15 (e) The number and percentage of redeterminations or renewals
+16 processed ex parte, broken down by (i) eligibility category, including
+17 program type and (ii) race or ethnicity, if available;
+18 (f) The average number of days required to process applications for
+19 the medical assistance program and Children's Health Insurance Program,
+20 separating the data by applicants with modified adjusted gross income and
+21 nonmodified adjusted gross income eligibility;
+22 (g) The rate of re-enrollment within ninety days of termination and
+23 within twelve months of termination, broken down by (i) eligibility
+24 category, including program type, (ii) local public health district or
+25 other geographic area, and (iii) race or ethnicity, if available;
+26 (h) The average client call duration;
+27 (i) The client call abandonment rate;
+28 (j) The number of requests for a fair hearing separated by (i)
+29 eligibility category and program type, (ii) outcome, and (iii) amount of
+30 time until final disposition; and
+31 (k) A link to the medical assistance program fair hearing decisions
+-3-
+
+LB777 LB777
+2026 2026
+1 that have been redacted to protect private and health information, which
+2 shall be posted on the department's website; .
+3 (l) The status of community engagement requirements, including:
+4 (i) A description of the plans to implement community engagement
+5 requirements for medicaid recipients, including the authority and
+6 effective date for the requirements and the recipients subject to the
+7 requirements;
+8 (ii) The number of denied applications and renewals for failure to
+9 meet community engagement requirements;
+10 (iii) The number of applications and renewals denied because the
+11 community engagement requirement verification could not be completed;
+12 (iv) The number of applications and renewals which required the
+13 recipient to submit additional information relating to compliance with
+14 community engagement requirements;
+15 (v) The number of applications and renewals approved because the
+16 applications and renewals received an exemption, the type of exemption,
+17 whether or not the exemption was applied automatically, and whether or
+18 not the recipient was required to take action to receive the exemption;
+19 (vi) The number of applications and renewals approved because the
+20 applications and renewals complied with the community engagement
+21 requirement, disaggregated by the compliance activity type, whether or
+22 not compliance was determined automatically, and whether or not the
+23 recipient was required to take further action in order to be approved;
+24 (vii) The number of applications and renewals denied or terminated
+25 due to a failure to meet community engagement requirements in which the
+26 recipient was re-enrolled within ninety days and the number of such
+27 applications and renewals in which the recipient was re-enrolled within
+28 twelve months;
+29 (viii) A list of data sources the department uses to verify
+30 compliance or exemption status; and
+31 (ix) A list of external vendors contracted by the state to assess
+-4-
+
+LB777 LB777
+2026 2026
+1 compliance with, or exemption from, community engagement requirements,
+2 including a link to each vendor's current contract;
+3 (m) The number of identified cases of concurrent enrollment and
+4 external vendors contracted by the state to identify concurrent
+5 enrollees, including a link to each vendor's contract. For cases
+6 terminated for concurrent enrollment, the rate of re-enrollment within
+7 ninety days after the date of termination and the rate of re-enrollment
+8 within twelve months after the date of termination; and
+9 (n) A description of cost sharing, premiums, copays, and deductibles
+10 for goods and services provided under the medical assistance program,
+11 including (i) the amounts of the cost sharing, premiums, copays, and
+12 deductibles and (ii) the payment source for collected cost sharing.
+13 Sec. 2. Original section 68-908, Revised Statutes Cumulative
+14 Supplement, 2024, is repealed.
+-5-

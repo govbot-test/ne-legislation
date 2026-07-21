@@ -1,0 +1,1209 @@
+Title: 
+Official Title: 
+Source: versions - Enrollment and Review ER147
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+ER147 ER147
+LB1010 LB1010
+AJC - 03/17/2026 AJC - 03/17/2026
+E AND R AMENDMENTS TO LB 1010
+Introduced by Guereca, 7, Chairman Enrollment and Review
+1 1. Strike the original sections and insert the following new
+2 sections:
+3 Section 1. Sections 1 to 4 of this act shall be known and may be
+4 cited as the Large Load Customer Regulation Act.
+5 Sec. 2. For purposes of the Large Load Customer Regulation Act:
+6 (1) Large load customer means a retail load customer requesting a
+7 new or expanded interconnection where the total load at a single site
+8 would exceed twenty megawatts;
+9 (2) Onsite backup generating facilities means (a) generation of one
+10 megawatt or larger that is not capable of operating in parallel with the
+11 grid for greater than one-tenth of a second or (b) generation of one
+12 megawatt or larger that is capable of operating continuously in parallel
+13 with the grid, non-exporting, and meeting applicable generator
+14 interconnection requirements; and
+15 (3) Public power supplier means a public power district organized
+16 under Chapter 70, article 6, a public power and irrigation district, a
+17 municipality, a registered group of municipalities, an electric
+18 cooperative, an electric membership association, a joint entity formed
+19 under the Interlocal Cooperation Act, a joint public agency formed under
+20 the Joint Public Agency Act, an agency formed under the Municipal
+21 Cooperative Financing Act, or any other governmental entity providing
+22 electric service.
+23 Sec. 3. (1) Public power suppliers shall establish standards for
+24 interconnecting large load customers in a manner designed to support
+25 business development in this state while mitigating the potential for
+26 stranded infrastructure costs and maintaining system reliability. The
+27 standards shall include, but are not limited to:
+-1-
+
+ER147 ER147
+LB1010 LB1010
+AJC - 03/17/2026 AJC - 03/17/2026
+1 (a) A requirement for each large load customer to disclose to the
+2 interconnecting public power supplier whether the customer is pursuing a
+3 substantially similar request for electric service the approval of which
+4 would result in the customer materially changing, delaying, or
+5 withdrawing the interconnection request. The disclosure may redact
+6 competitively sensitive details. The public power supplier shall not
+7 sell, share, or disclose the information submitted to it under this
+8 subdivision;
+9 (b) A requirement for each interconnected large load customer to
+10 disclose to the interconnecting public power supplier information about
+11 the customer's onsite backup generating facilities. The public power
+12 supplier shall use such information for purposes of the procedure
+13 described in section 4 of this act;
+14 (c) A study fee of fifty thousand dollars or one thousand dollars
+15 per megawatt, whichever is greater, to be paid to the interconnecting
+16 public power supplier for initial studies for loads that exceed the load
+17 threshold described in subdivision (1) of section 2 of this act. A large
+18 load customer that requests additional capacity following the study shall
+19 pay an additional study fee based on the new request. The public power
+20 supplier shall complete the study within one year after receiving the
+21 study fee;
+22 (d) A method for a large load customer to demonstrate site control
+23 for the proposed load location; and
+24 (e) Financial commitment requirements for the development of
+25 transmission and generation infrastructure needed to serve a large load
+26 customer.
+27 (2) A public power supplier is authorized to establish or negotiate
+28 rates, charges, and operating standards for each large load customer that
+29 fairly allocate electricity system costs to the large load customer and
+30 also mitigate (a) operational and resource adequacy risks and (b)
+31 financial risks to other customers, without regard to the requirements of
+-2-
+
+ER147 ER147
+LB1010 LB1010
+AJC - 03/17/2026 AJC - 03/17/2026
+1 section 70-655.
+2 (3) A public power supplier may impose electric service requirements
+3 for large load customers on its system in addition to the standards
+4 established under this section.
+5 Sec. 4. Public power suppliers shall develop a procedure to:
+6 (1) Procure demand response, reductions, and load flexibility from
+7 large load customers; and
+8 (2) In the event of grid instability or an emergency condition,
+9 require the affected large load customers to curtail load or, for those
+10 customers with onsite backup generating facilities, to deploy such
+11 facilities for the duration of the grid instability or emergency
+12 condition or until the load can be recalled safely.
+13 Sec. 5. Section 13-518, Revised Statutes Supplement, 2025, is
+14 amended to read:
+15 13-518 For purposes of sections 13-518 to 13-522:
+16 (1) Allowable growth means (a) for governmental units other than
+17 community colleges, the percentage increase in taxable valuation in
+18 excess of the base limitation established under section 77-3446, if any,
+19 due to (i) improvements to real property as a result of new construction
+20 and additions to existing buildings, (ii) any other improvements to real
+21 property which increase the value of such property, (iii) any increase in
+22 valuation due to annexation of real property by the governmental unit,
+23 (iv) a change in the use of real property, (v) any increase in personal
+24 property valuation over the prior year, and (vi) the accumulated excess
+25 valuation over the redevelopment project valuation described in section
+26 18-2147 of the Community Development Law for redevelopment projects
+27 within the governmental unit in the year immediately after the division
+28 of taxes for such redevelopment project has ended and (b) for community
+29 colleges, the percentage increase in excess of the base limitation, if
+30 any, in full-time equivalent students from the second year to the first
+31 year preceding the year for which the budget is being determined;
+-3-
+
+ER147 ER147
+LB1010 LB1010
+AJC - 03/17/2026 AJC - 03/17/2026
+1 (2) Capital improvements means (a) acquisition of real property or
+2 (b) acquisition, construction, or extension of any improvements on real
+3 property;
+4 (3) Governing body has the same meaning as in section 13-503, except
+5 that for fiscal years beginning on or after July 1, 2025, such term shall
+6 not include the governing body of any county, city, or village;
+7 (4) Governmental unit means every political subdivision which has
+8 authority to levy a property tax or authority to request levy authority
+9 under section 77-3443, except that such term shall not include (a)
+10 sanitary and improvement districts which have been in existence for five
+11 years or less, (b) school districts, or (c) for fiscal years beginning on
+12 or after July 1, 2025, counties, cities, or villages;
+13 (5) Qualified sinking fund means a fund or funds maintained
+14 separately from the general fund to pay for acquisition or replacement of
+15 tangible personal property with a useful life of five years or more which
+16 is to be undertaken in the future but is to be paid for in part or in
+17 total in advance using periodic payments into the fund. The term includes
+18 sinking funds under subdivision (13) of section 35-508 for firefighting
+19 and rescue equipment or apparatus;
+20 (6) Restricted funds means (a) property tax, excluding any amounts
+21 refunded to taxpayers, (b) payments in lieu of property taxes, (c) local
+22 option sales taxes, (d) motor vehicle taxes, (e) state aid, (f) transfers
+23 of surpluses from any user fee, permit fee, or regulatory fee if the fee
+24 surplus is transferred to fund a service or function not directly related
+25 to the fee and the costs of the activity funded from the fee, (g) any
+26 funds excluded from restricted funds for the prior year because they were
+27 budgeted for capital improvements but which were not spent and are not
+28 expected to be spent for capital improvements, (h) the tax provided in
+29 sections 77-27,223 to 77-27,227 beginning in the second fiscal year in
+30 which the county will receive a full year of receipts, and (i) any excess
+31 tax collections returned to the county under section 77-1776. Funds
+-4-
+
+ER147 ER147
+LB1010 LB1010
+AJC - 03/17/2026 AJC - 03/17/2026
+1 received pursuant to the nameplate capacity tax levied under section
+2 77-6203 for the first five years after a renewable energy generation
+3 facility or energy storage resource has been commissioned are
+4 nonrestricted funds; and
+5 (7) State aid means:
+6 (a) For all governmental units, state aid paid pursuant to sections
+7 60-3,202 and 77-3523 and reimbursement provided pursuant to section
+8 77-1239;
+9 (b) For municipalities, state aid to municipalities paid pursuant to
+10 sections 39-2501 to 39-2520, 60-3,190, and 77-27,139.04 and insurance
+11 premium tax paid to municipalities;
+12 (c) For counties, state aid to counties paid pursuant to sections
+13 60-3,184 to 60-3,190, insurance premium tax paid to counties, and
+14 reimbursements to counties from funds appropriated pursuant to section
+15 29-3933;
+16 (d) For community colleges, state aid to community colleges paid
+17 pursuant to the Community College Aid Act;
+18 (e) For educational service units, state aid appropriated under
+19 sections 79-1241.01 and 79-1241.03; and
+20 (f) For local public health departments as defined in section
+21 71-1626, state aid as distributed under section 71-1628.08.
+22 Sec. 6. Section 70-670, Reissue Revised Statutes of Nebraska, is
+23 amended to read:
+24 70-670 (1) In addition to any other rights and powers conferred upon
+25 any district organized under or subject to Chapter 70, article 6, each
+26 such district shall have and exercise the power of eminent domain to
+27 acquire from any person, firm, association, or private corporation any
+28 and all property owned, used, or operated, or useful for operation, in
+29 the generation, transmission, storage, or distribution of electrical
+30 energy, including an existing electric utility system or any part
+31 thereof. The procedure to condemn property shall be exercised in the
+-5-
+
+ER147 ER147
+LB1010 LB1010
+AJC - 03/17/2026 AJC - 03/17/2026
+1 manner set forth in Chapter 76, article 7.
+2 (2) In the case of the acquisition through the exercise of the power
+3 of eminent domain of an existing electric utility system or part thereof,
+4 the Attorney General shall, upon request of any district, represent such
+5 district in the institution and prosecution of condemnation proceedings.
+6 After acquisition of an existing electric utility system through the
+7 exercise of the power of eminent domain, the district shall reimburse the
+8 state for all costs and expenses incurred in the condemnation proceedings
+9 by the Attorney General.
+10 (3) A district may agree to limit its exercise of the power of
+11 eminent domain to acquire a project which is a renewable energy
+12 generation facility producing electricity with wind and any related
+13 facilities.
+14 (4) No property owned, used, or operated as part of a privately
+15 developed renewable energy generation facility meeting the requirements
+16 of section 70-1014.02 shall be subject to eminent domain by any consumer-
+17 owned electric supplier operating in the State of Nebraska.
+18 Sec. 7. Section 70-704, Revised Statutes Cumulative Supplement,
+19 2024, is amended to read:
+20 70-704 Each corporation shall have power: (1) To sue and be sued,
+21 complain, and defend, in its corporate name; (2) to have perpetual
+22 succession unless a limited period of duration is stated in its articles
+23 of incorporation; (3) to adopt a corporate seal, which may be altered at
+24 pleasure, and to use it or a facsimile thereof, as required by law; (4)
+25 to generate, manufacture, purchase, acquire, and accumulate electric
+26 energy and to store, transmit, distribute, sell, furnish, and dispose of
+27 such electric energy; (5) to acquire, own, hold, use, exercise and, to
+28 the extent permitted by law, to sell, mortgage, pledge, hypothecate, and
+29 in any manner dispose of franchises, rights, privileges, licenses,
+30 rights-of-way, and easements necessary, useful, or appropriate; (6) to
+31 purchase, receive, lease as lessee, or in any other manner acquire, own,
+-6-
+
+ER147 ER147
+LB1010 LB1010
+AJC - 03/17/2026 AJC - 03/17/2026
+1 hold, maintain, sell, exchange, and use any and all real and personal
+2 property or any interest therein for the purposes expressed herein; (7)
+3 to borrow money and otherwise contract indebtedness, to issue its
+4 obligations therefor, and to secure the payment thereof by mortgage,
+5 pledge, or deed of trust of all or any of its property, assets,
+6 franchises, revenue, or income; (8) to sell and convey, mortgage, pledge,
+7 lease as lessor, and otherwise dispose of all or any part of its property
+8 and assets; (9) to have the same powers now exercised by law by public
+9 light and power districts or private corporations to use any of the
+10 streets, highways, or public lands of the state or its political
+11 subdivisions in the manner provided by law; (10) to have and exercise the
+12 power of eminent domain for the purposes expressed in section 70-703 in
+13 the manner set forth in sections 76-704 to 76-724 and to have the powers
+14 and be subject to the restrictions of electric light and power
+15 corporations and districts as regards the use and occupation of public
+16 highways and the manner or method of construction and physical operation
+17 of plants, systems, and transmission lines; (11) to accept gifts or
+18 grants of money, services, or property, real or personal; (12) to make
+19 any and all contracts necessary or convenient for the exercise of the
+20 powers granted herein; (13) to fix, regulate, and collect rates, fees,
+21 rents, or other charges for electric energy furnished by the corporation;
+22 (14) to elect or appoint officers, agents, and employees of the
+23 corporation and to define their duties and fix their compensation; (15)
+24 to make and alter bylaws not inconsistent with the articles of
+25 incorporation or with the laws of this state for the administration and
+26 regulation of the affairs of the corporation; (16) to sell, lease, or
+27 license its dark fiber pursuant to sections 86-574 to 86-578; and (17) to
+28 do and perform, either for itself or its members or for any other
+29 corporation organized under the Electric Cooperative Corporation Act or
+30 for the members thereof, any and all acts and things and to have and
+31 exercise any and all powers as may be necessary, convenient, or
+-7-
+
+ER147 ER147
+LB1010 LB1010
+AJC - 03/17/2026 AJC - 03/17/2026
+1 appropriate to effectuate the purpose for which the corporation is
+2 organized. Notwithstanding any law, ordinance, resolution, or regulation
+3 of any political subdivision to the contrary, each corporation may
+4 receive funds and extend loans pursuant to the Nebraska Investment
+5 Finance Authority Act.
+6 Sec. 8. Section 70-1001.01, Revised Statutes Supplement, 2025, is
+7 amended to read:
+8 70-1001.01 For purposes of sections 70-1001 to 70-1028.02, unless
+9 the context otherwise requires:
+10 (1) Associated energy storage resource means any energy storage
+11 resource that:
+12 (a) Is located on the premises of a privately developed renewable
+13 energy generation facility;
+14 (b) Has the primary purpose of storing the electric energy produced
+15 at such facility; and
+16 (c) Has a maximum limit of electricity output that, aggregated with
+17 a co-located generation facility, is collectively limited to the
+18 nameplate capacity of such generation facility;
+19 (2) (1) Board means the Nebraska Power Review Board;
+20 (3) (2) Commercial electric vehicle charging station means equipment
+21 designed to provide electricity for a fee for the charging of an electric
+22 vehicle or a plug-in hybrid electric vehicle, including an electric
+23 vehicle direct-current charger or a super-fast charger, any successor
+24 technology, and all components thereof. Commercial electric vehicle
+25 charging station does not include the residence of a person where an
+26 electric vehicle or a plug-in hybrid electric vehicle is charged if no
+27 customer usage fee is charged;
+28 (4) (3) Commercial electric vehicle charging station operator means
+29 a person, partnership, corporation, or other business entity or political
+30 subdivision that operates a commercial electric vehicle charging station;
+31 (5) (4) Direct-current, fast-charging station means a publicly
+-8-
+
+ER147 ER147
+LB1010 LB1010
+AJC - 03/17/2026 AJC - 03/17/2026
+1 available charging system capable of delivering at least fifty kilowatts
+2 of direct-current electrical power to an electric vehicle's rechargeable
+3 battery at a voltage of two hundred volts or greater;
+4 (6) (5) Direct-current, fast-charging station operator means a
+5 person, partnership, corporation, or other business entity that operates
+6 a direct-current, fast-charging station open to the public. The term does
+7 not include an electric supplier or a political subdivision;
+8 (7) (6) Electric supplier or supplier of electricity means any legal
+9 entity supplying, producing, storing, or distributing electricity within
+10 the state for sale at wholesale or retail. Electric supplier does not
+11 include a commercial electric vehicle charging station operator that is a
+12 private person or privately owned partnership, privately owned
+13 corporation, or other privately owned business;
+14 (8) (7) Electronic-related means relating to electronic devices,
+15 circuits, or similar systems, or the components of such electronic
+16 devices, circuits, or similar systems, that require electrical currents
+17 or electromagnetism to operate;
+18 (9) Energy storage resource means a facility that is capable of
+19 receiving electric energy from the electrical grid, or from a generation
+20 source with which such facility is associated, and capable of storing
+21 such energy for later injection into the electrical grid. Energy storage
+22 resource does not include any device or equipment that is intended solely
+23 to inject or absorb reactive power, including any capacitor or
+24 synchronous condenser, or any equipment that is intended solely to
+25 provide electric energy for electric vehicles;
+26 (10) (8) Foreign adversary means a foreign government or foreign
+27 nongovernment person determined to be a foreign adversary pursuant to 15
+28 C.F.R. 791.4, as such regulation existed on February 7, 2025;
+29 (11) (9) Military installation means:
+30 (a) A United States Air Force ballistic missile silo located within
+31 the geographic area described in 31 C.F.R. 802.211(b)(3), as such
+-9-
+
+ER147 ER147
+LB1010 LB1010
+AJC - 03/17/2026 AJC - 03/17/2026
+1 regulation existed on January 1, 2025; or
+2 (b) A United States Air Force base described in 31 C.F.R.
+3 802.227(c), as such regulation existed on January 1, 2025;
+4 (12) (10) Plug-in hybrid electric vehicle has the same meaning as in
+5 section 60-345.01;
+6 (13) (11) Private electric supplier means an electric supplier that
+7 produces or stores producing electricity from a privately developed
+8 renewable energy generation facility or energy storage resource that is
+9 not a public power district, a public power and irrigation district, a
+10 municipality, a registered group of municipalities, an electric
+11 cooperative, an electric membership association, any other governmental
+12 entity, or any combination thereof. A private electric supplier is
+13 limited to the development of energy storage resources and privately
+14 developed renewable energy generation facilities those facilities as
+15 provided in subdivision (12) of this section;
+16 (14) (12) Privately developed renewable energy generation facility
+17 means and is limited to a facility that (a) generates electricity using
+18 solar, wind, geothermal, biomass, landfill gas, or biogas, including all
+19 associated energy storage resources of the facility and all electrically
+20 connected equipment used to produce, collect, and store the facility
+21 output up to and including the transformer that steps up the voltage to
+22 sixty thousand volts or greater, and including supporting structures,
+23 buildings, and roads, unless otherwise agreed to in a joint transmission
+24 development agreement, (b) is developed, constructed, and owned, in whole
+25 or in part, by one or more private electric suppliers, and (c) is not
+26 wholly owned by a public power district, a public power and irrigation
+27 district, a municipality, a registered group of municipalities, an
+28 electric cooperative, an electric membership association, any other
+29 governmental entity, or any combination thereof;
+30 (15) (13) Regional transmission organization means an entity
+31 independent from those entities generating or marketing electricity at
+-10-
+
+ER147 ER147
+LB1010 LB1010
+AJC - 03/17/2026 AJC - 03/17/2026
+1 wholesale or retail, which has operational control over the electric
+2 transmission lines in a designated geographic area in order to reduce
+3 constraints in the flow of electricity and ensure that all power
+4 suppliers have open access to transmission lines for the transmission of
+5 electricity;
+6 (16) (14) Reliable or reliability means the ability of an electric
+7 supplier to supply the aggregate electric power and energy requirements
+8 of its electricity consumers in Nebraska at all times under normal
+9 operating conditions, taking into account scheduled and unscheduled
+10 outages, including sudden disturbances or unanticipated loss of system
+11 components that are to be reasonably expected for any electric utility
+12 following prudent utility practices, recognizing certain weather
+13 conditions and other contingencies may cause outages at the distribution,
+14 transmission, and generation level;
+15 (17) (15) Representative organization means an organization
+16 designated by the board and organized for the purpose of providing joint
+17 planning and encouraging maximum cooperation and coordination among
+18 electric suppliers. Such organization shall represent electric suppliers
+19 owning a combined electric generation plant accredited capacity of at
+20 least ninety percent of the total electric generation plant accredited
+21 capacity constructed and in operation within the state;
+22 (18) (16) State means the State of Nebraska; and
+23 (19) (17) Unbundled retail rates means the separation of utility
+24 bills into the individual price components for which an electric supplier
+25 charges its retail customers, including, but not limited to, the separate
+26 charges for the generation, transmission, and distribution of
+27 electricity.
+28 Sec. 9. Section 70-1012, Revised Statutes Supplement, 2025, is
+29 amended to read:
+30 70-1012 (1) Before any electric generation facilities, any energy
+31 storage resources, or any transmission lines or related facilities
+-11-
+
+ER147 ER147
+LB1010 LB1010
+AJC - 03/17/2026 AJC - 03/17/2026
+1 carrying more than seven hundred volts are constructed or acquired by any
+2 supplier, an application, filed with the board and containing such
+3 information as the board shall prescribe, shall be approved by the board,
+4 except that such approval shall not be required (a) for the construction
+5 or acquisition of a transmission line extension or related facilities
+6 within a supplier's own service area or for the construction or
+7 acquisition of a line not exceeding one-half mile outside its own service
+8 area when all owners of electric lines located within one-half mile of
+9 the extension consent thereto in writing and such consents are filed with
+10 the board, (b) for any generation facility when the board finds that (i)
+11 such facility is being constructed or acquired to replace a generating
+12 plant owned by an individual municipality or registered group of
+13 municipalities with a capacity not greater than that of the plant being
+14 replaced, (ii) such facility will generate less than twenty-five thousand
+15 kilowatts of electric energy at rated capacity, and (iii) the applicant
+16 will not use the plant or transmission capacity to supply wholesale power
+17 to customers outside the applicant's existing retail service area or
+18 chartered territory, (c) for acquisition of transmission lines or related
+19 facilities, within the state, carrying one hundred fifteen thousand volts
+20 or less, if the current owner of the transmission lines or related
+21 facilities notifies the board of the lines or facilities involved in the
+22 transaction and the parties to the transaction, or (d) for the
+23 construction of a qualified facility as defined in section 70-2002.
+24 (2)(a) Before any electric supplier commences construction of or
+25 acquires an electric generation facility, energy storage resource, or
+26 transmission lines or related facilities carrying more than seven hundred
+27 volts that will be or are located within a ten-mile radius of a military
+28 installation, the owner of such facility, resource, transmission lines,
+29 or related facilities shall provide written notice certifying to the
+30 board that such facility, resource, or facilities contain no electronic-
+31 related equipment or electronic-related components manufactured by any
+-12-
+
+ER147 ER147
+LB1010 LB1010
+AJC - 03/17/2026 AJC - 03/17/2026
+1 foreign adversary.
+2 (b) Any electric supplier that supplies, produces, stores, or
+3 distributes supplying, producing, or distributing electricity within the
+4 state for sale at retail is exempt from subdivision (a) of this
+5 subsection if it is in compliance with the critical infrastructure
+6 protection requirements issued by the North American Electric Reliability
+7 Corporation. To receive such exemption, the electric supplier shall
+8 submit written notice to the board certifying that it is in such
+9 compliance. The electric supplier shall also submit written notice to the
+10 board at any time such supplier is no longer in such compliance.
+11 (3)(a) Before any electric supplier that is not exempt from
+12 subdivision (2)(a) of this section commences construction of or acquires
+13 an electric generation facility or transmission lines or related
+14 facilities carrying more than seven hundred volts that will be or are
+15 located within a ten-mile radius of a military installation, the electric
+16 supplier shall, following consultation with such supplier's vendors,
+17 submit a one-time written notice to the board certifying that such
+18 facility or facilities continually contain no electronic-related
+19 equipment or electronic-related components manufactured by any foreign
+20 adversary.
+21 (b) The electric supplier shall also submit written notice to the
+22 board at any time such facility or facilities are no longer in compliance
+23 with the certification provided under subdivision (a) of this subsection.
+24 (4) Notwithstanding subsections (2) and (3) of this section, an
+25 electric supplier required to provide certification under subsection (2)
+26 of this section may use electronic-related equipment or electronic-
+27 related components manufactured by a foreign adversary if the board
+28 preapproves the use of such equipment or components after finding that:
+29 (a) There is no other reasonable option for procuring such equipment
+30 or components; and
+31 (b) Not procuring or using such equipment or components would cause
+-13-
+
+ER147 ER147
+LB1010 LB1010
+AJC - 03/17/2026 AJC - 03/17/2026
+1 a greater harm to the state or residents of the state than the harm
+2 associated with the equipment or components.
+3 (5) Before any private electric supplier commences construction or
+4 acquires an energy storage resource or related facilities, the owners of
+5 such resource or proposed resource shall file an application with the
+6 board that contains the information prescribed by the board and shall
+7 obtain approval of such application by the board. Such application shall
+8 include evidence that demonstrates to the board that:
+9 (a) The private electric supplier has entered into or, prior to
+10 construction, will enter into a power purchase agreement or similar
+11 contractual agreement with a Nebraska public power district, public power
+12 and irrigation district, municipality, registered group of
+13 municipalities, electric cooperative, or electric membership association,
+14 any other governmental entity, or any combination thereof for purchase of
+15 all electric energy and electric capacity of such resource and will
+16 maintain a contractual relationship throughout the operational life of
+17 the resource;
+18 (b) The private electric supplier has obtained written consent from
+19 each electric supplier that will have any part of the energy storage
+20 resource located in its chartered territory or retail service area and
+21 any other electric supplier that will be interconnected with the private
+22 electric supplier at a substation or switchyard that contains facilities
+23 rated at one hundred kilovolts or greater. Any written consent that is
+24 required under this subdivision shall be provided on a form that is
+25 prescribed by the board. Such written consent shall be filed with the
+26 board with the application; and
+27 (c) The private electric supplier has entered into a joint
+28 transmission development agreement with the consumer-owned electric
+29 supplier that owns the transmission facilities that will interconnect
+30 with the energy storage resource. The agreement shall address
+31 construction, ownership, operation, and maintenance of such additions or
+-14-
+
+ER147 ER147
+LB1010 LB1010
+AJC - 03/17/2026 AJC - 03/17/2026
+1 upgrades to the transmission facilities as required for the energy
+2 storage resource. The joint transmission development agreement shall be
+3 negotiated and executed contemporaneously with the generator
+4 interconnection agreement or any other directive of the applicable
+5 regional transmission organization with jurisdiction over the addition or
+6 upgrade of transmission. The terms of such agreement shall be consistent
+7 with prudent electric utility practices for the interconnection of the
+8 energy storage resource, the consumer-owned electric supplier's
+9 reasonable transmission interconnection requirements, and applicable
+10 transmission design and construction standards. The consumer-owned
+11 electric supplier shall have the right to purchase and own transmission
+12 facilities as set forth in the joint transmission development agreement.
+13 The private electric supplier that owns the energy storage resource shall
+14 have the right to construct any necessary facility or improvement set
+15 forth in the joint transmission development agreement pursuant to the
+16 standards set forth in the agreement at the private electric supplier's
+17 cost.
+18 (6) Nothing in this section shall be construed to limit the
+19 authority of or require an electric supplier that is operating in this
+20 state to enter into a joint agreement with a private electric supplier to
+21 develop, construct, or jointly own a generation facility or energy
+22 storage resource.
+23 (7) Nothing in this section shall be construed to authorize a
+24 private electric supplier to:
+25 (a) Sell or deliver electricity at retail in Nebraska;
+26 (b) Own or operate distribution facilities intended to provide
+27 retail electric service in this state; or
+28 (c) Have or use the power of eminent domain in this state.
+29 (8) An energy storage resource that is not an associated energy
+30 resource and has been approved by the board shall be exempt from the use
+31 of eminent domain by any electric supplier.
+-15-
+
+ER147 ER147
+LB1010 LB1010
+AJC - 03/17/2026 AJC - 03/17/2026
+1 (9) (5) A privately developed renewable energy generation facility
+2 is exempt from this section if it complies with section 70-1014.02.
+3 Sec. 10. Section 70-1012.01, Reissue Revised Statutes of Nebraska,
+4 is amended to read:
+5 70-1012.01 (1) If a supplier terminates construction or acquisition
+6 of electric generation or transmission facilities or energy storage
+7 resources after receiving approval for the facilities or resources from
+8 the board, the supplier shall file with the board, within thirty days
+9 after the action taken to terminate construction or acquisition, a
+10 statement of the factors or reasons relied upon by the supplier in taking
+11 such action. Within ten days after receipt of such a filing, the board
+12 shall give notice of the filing to such other suppliers as it deems
+13 interested or affected by such action and it shall hold a hearing for the
+14 purpose of obtaining such additional information as the board deems
+15 advisable or necessary to inform other suppliers and the public of the
+16 reasons for such termination. Notice of any such hearing shall be given
+17 to those suppliers previously given notice of the filing and to any other
+18 parties expressing interest in the approved application.
+19 (2) The board shall not have authority to approve or deny the action
+20 of a supplier terminating construction or acquisition, and any such
+21 filing or hearing shall be advisory and solely for the purpose of
+22 informing the board, other suppliers, interested parties, and the
+23 ratepayers of this state of the factors or reasons relied upon in taking
+24 action to terminate construction or acquisition.
+25 (3) Nothing in this section shall constitute or be construed as a
+26 defense to any cause of action, including a claim for breach of contract,
+27 resulting from such termination.
+28 (4) A privately developed renewable energy generation facility is
+29 exempt from this section if it complies with section 70-1014.02.
+30 Sec. 11. Section 70-1015, Revised Statutes Supplement, 2025, is
+31 amended to read:
+-16-
+
+ER147 ER147
+LB1010 LB1010
+AJC - 03/17/2026 AJC - 03/17/2026
+1 70-1015 (1) If any supplier violates Chapter 70, article 10, by
+2 either (a) commencing the construction or finalizing or attempting to
+3 finalize the acquisition of any generation facilities, any energy storage
+4 resources, any transmission lines, or any related facilities without
+5 first providing notice or obtaining board approval, whichever is
+6 required, or (b) serving or attempting to serve at retail any customers
+7 located in Nebraska or any wholesale customers in violation of section
+8 70-1002.02, such construction, acquisition, or service of such customers
+9 shall be enjoined in an action brought in the name of the State of
+10 Nebraska until such supplier has complied with Chapter 70, article 10.
+11 (2) If the executive director of the board determines that a private
+12 electric supplier commenced construction of a privately developed
+13 renewable energy generation facility less than thirty days prior to
+14 providing the notice and certification required in subdivisions (2)(a)
+15 and (b) of section 70-1014.02, the executive director shall send notice
+16 via certified mail to the private electric supplier, informing it of the
+17 determination that the private electric supplier is in violation of such
+18 subdivisions and is subject to a fine in the amount of five hundred
+19 dollars. The private electric supplier shall have twenty days from the
+20 date on which the notice is received in which to submit the notice and
+21 certification described in such subdivisions and to pay the fine. Within
+22 ten days after the private electric supplier submits a notice and
+23 certification compliant with subsection (2) of section 70-1014.02 and
+24 payment of the fine, the executive director of the board shall issue the
+25 written acknowledgment described in subsection (3) of section 70-1014.02.
+26 If the private electric supplier fails to submit a notice and
+27 certification compliant with subsection (2) of section 70-1014.02 and pay
+28 the fine within twenty days after the date on which the private electric
+29 supplier receives the notice from the executive director of the board,
+30 the private electric supplier shall immediately cease construction or
+31 operation of the privately developed renewable energy generation facility
+-17-
+
+ER147 ER147
+LB1010 LB1010
+AJC - 03/17/2026 AJC - 03/17/2026
+1 and any associated energy storage resource.
+2 (3) If the private electric supplier disputes that construction was
+3 commenced less than thirty days prior to submitting the written notice
+4 and certification required by subdivisions (2)(a) and (b) of section
+5 70-1014.02, the private electric supplier may request a hearing before
+6 the board. Such request shall be submitted within twenty days after the
+7 private electric supplier receives the notice sent by the executive
+8 director pursuant to subsection (2) of this section. If the private
+9 electric supplier does not accept the certified mail sent pursuant to
+10 such subsection, the executive director shall send a second notice to the
+11 private electric supplier by first-class United States mail. The private
+12 electric supplier may submit a request for hearing within twenty days
+13 after the date on which the second notice was mailed.
+14 (4) Upon receipt of a request for hearing, the board shall set a
+15 hearing date. Such hearing shall be held within sixty days after such
+16 receipt. The board shall provide to the private electric supplier written
+17 notice of the hearing at least twenty days prior to the date of the
+18 hearing. The board or its hearing officer may grant continuances upon
+19 good cause shown or upon the request of the private electric supplier.
+20 Timely filing of a request for hearing by a private electric supplier
+21 shall stay any further enforcement under this section until the board
+22 issues an order pursuant to subsection (5) of this section or the request
+23 for hearing is withdrawn.
+24 (5) The board shall issue a written decision within sixty days after
+25 conclusion of the hearing. All costs of the hearing shall be paid by the
+26 private electric supplier if (a) the board determines that the private
+27 electric supplier commenced construction of the privately developed
+28 renewable energy generation facility and any associated energy storage
+29 resource less than thirty days prior to submitting the written notice and
+30 certification required pursuant to subsection (2) of section 70-1014.02
+31 or (b) the private electric supplier withdraws its request for hearing
+-18-
+
+ER147 ER147
+LB1010 LB1010
+AJC - 03/17/2026 AJC - 03/17/2026
+1 prior to the board issuing its decision.
+2 (6) A private electric supplier which the board finds to be in
+3 violation of the requirements of subsection (2) of section 70-1014.02
+4 shall either (a) pay the fine described in this section and submit a
+5 notice and certification compliant with subsection (2) of section
+6 70-1014.02 or (b) immediately cease construction or operation of the
+7 privately developed renewable energy generation facility and any
+8 associated energy storage resource.
+9 Sec. 12. Section 70-1506, Revised Statutes Supplement, 2025, is
+10 amended to read:
+11 70-1506 (1) For purposes of this section:
+12 (a) Cryptocurrency mining means validating transactions for addition
+13 to a blockchain distributed ledger;
+14 (b) Cryptocurrency mining operation means any facility of one
+15 megawatt in size or greater that conducts cryptocurrency mining; and
+16 (c) Data center means a facility:
+17 (i) The primary services of which are the storage, management, and
+18 processing of digital data;
+19 (ii) That is used to house computer and network systems, including
+20 associated components such as servers, network equipment and appliances,
+21 telecommunications systems, data storage systems, systems for monitoring
+22 and managing infrastructure performance, Internet-related equipment and
+23 services, data communications connections, environmental controls, fire
+24 protection systems, and security systems and services; and
+25 (iii) That has a peak electricity demand of ten megawatts or more;
+26 and
+27 (d) (c) Public power supplier means a public power district,
+28 municipal electric utility, or any other government entity providing
+29 electric service.
+30 (2) A public power supplier may impose requirements on any
+31 cryptocurrency mining operation or data center for the cost of
+-19-
+
+ER147 ER147
+LB1010 LB1010
+AJC - 03/17/2026 AJC - 03/17/2026
+1 infrastructure upgrades necessitated by such operation or center
+2 operations, including, but not limited to:
+3 (a) Requiring direct payment or a letter of credit from such
+4 operation or center for such cost; or
+5 (b) Imposing terms and conditions on such operation or center that
+6 require the operation or center to pay the full cost of providing
+7 electric service and ensure no cost is passed on to other retail
+8 customers.
+9 (3) Requirements imposed pursuant to this section shall be fair,
+10 reasonable, and not unduly discriminatory.
+11 (4) Before any requirement is imposed pursuant to this section, the
+12 public power supplier shall conduct a load study to determine the costs,
+13 impacts, and infrastructure upgrades necessitated by the cryptocurrency
+14 mining operation or data center.
+15 (5) Any person intending to install a cryptocurrency mining
+16 operation or data center is responsible for notifying the local public
+17 power supplier of such intent, and such operation or center is subject to
+18 the interconnection requirements of such supplier.
+19 (6) The owner or operator of a data center shall submit an annual
+20 report to the Department of Water, Energy, and Environment and the
+21 Natural Resources Committee of the Legislature on or before September 30
+22 of each year that includes the following:
+23 (a) The name of the data center;
+24 (b) The names of the developers and owners of the data center;
+25 (c) The physical size of the data center in square feet;
+26 (d) The location of the data center, including street address and
+27 county;
+28 (e) The annual electricity demand of the data center;
+29 (f) The annual water usage of the data center;
+30 (g) The sales and use tax exemptions the data center utilizes or
+31 expects to utilize;
+-20-
+
+ER147 ER147
+LB1010 LB1010
+AJC - 03/17/2026 AJC - 03/17/2026
+1 (h) Any incentive payments for the data center under the ImagiNE
+2 Nebraska Act and the Nebraska Advantage Act;
+3 (i) All energy efficiency, load management, and conservation
+4 measures implemented by the data center;
+5 (j) All commitments by the data center to use renewable energy; and
+6 (k) The service life of the data center.
+7 (7) (6) Each public power supplier shall make available to the
+8 public on the supplier's website the number of cryptocurrency mining
+9 operations under the jurisdiction of the supplier and the annual energy
+10 usage of each operation.
+11 (8) (7) A cryptocurrency mining operation shall allow a public power
+12 supplier to interrupt such operation's electric service according to such
+13 supplier's established rate schedules and policies.
+14 Sec. 13. Section 77-202, Revised Statutes Supplement, 2025, is
+15 amended to read:
+16 77-202 (1) The following property shall be exempt from property
+17 taxes:
+18 (a) Property of the state and its governmental subdivisions to the
+19 extent used or being developed for use by the state or governmental
+20 subdivision for a public purpose. For purposes of this subdivision:
+21 (i) Property of the state and its governmental subdivisions means
+22 (A) property held in fee title by the state or a governmental subdivision
+23 or (B) property beneficially owned by the state or a governmental
+24 subdivision in that it is used for a public purpose and is being acquired
+25 under a lease-purchase agreement, financing lease, or other instrument
+26 which provides for transfer of legal title to the property to the state
+27 or a governmental subdivision upon payment of all amounts due thereunder.
+28 If the property to be beneficially owned by a governmental subdivision
+29 has a total acquisition cost that exceeds the threshold amount or will be
+30 used as the site of a public building with a total estimated construction
+31 cost that exceeds the threshold amount, then such property shall qualify
+-21-
+
+ER147 ER147
+LB1010 LB1010
+AJC - 03/17/2026 AJC - 03/17/2026
+1 for an exemption under this section only if the question of acquiring
+2 such property or constructing such public building has been submitted at
+3 a primary, general, or special election held within the governmental
+4 subdivision and has been approved by the voters of the governmental
+5 subdivision. For purposes of this subdivision, threshold amount means the
+6 greater of fifty thousand dollars or six-tenths of one percent of the
+7 total actual value of real and personal property of the governmental
+8 subdivision that will beneficially own the property as of the end of the
+9 governmental subdivision's prior fiscal year; and
+10 (ii) Public purpose means use of the property (A) to provide public
+11 services with or without cost to the recipient, including the general
+12 operation of government, public education, public safety, transportation,
+13 public works, civil and criminal justice, public health and welfare,
+14 developments by a public housing authority, parks, culture, recreation,
+15 community development, and cemetery purposes, or (B) to carry out the
+16 duties and responsibilities conferred by law with or without
+17 consideration. Public purpose does not include leasing of property to a
+18 private party unless the lease of the property is at fair market value
+19 for a public purpose. Leases of property by a public housing authority to
+20 low-income individuals as a place of residence are for the authority's
+21 public purpose;
+22 (b) Unleased property of the state or its governmental subdivisions
+23 which is not being used or developed for use for a public purpose but
+24 upon which a payment in lieu of taxes is paid for public safety, rescue,
+25 and emergency services and road or street construction or maintenance
+26 services to all governmental units providing such services to the
+27 property. Except as provided in Article VIII, section 11, of the
+28 Constitution of Nebraska, the payment in lieu of taxes shall be based on
+29 the proportionate share of the cost of providing public safety, rescue,
+30 or emergency services and road or street construction or maintenance
+31 services unless a general policy is adopted by the governing body of the
+-22-
+
+ER147 ER147
+LB1010 LB1010
+AJC - 03/17/2026 AJC - 03/17/2026
+1 governmental subdivision providing such services which provides for a
+2 different method of determining the amount of the payment in lieu of
+3 taxes. The governing body may adopt a general policy by ordinance or
+4 resolution for determining the amount of payment in lieu of taxes by
+5 majority vote after a hearing on the ordinance or resolution. Such
+6 ordinance or resolution shall nevertheless result in an equitable
+7 contribution for the cost of providing such services to the exempt
+8 property;
+9 (c) Property owned by and used exclusively for agricultural and
+10 horticultural societies;
+11 (d)(i) Property owned by educational, religious, charitable, or
+12 cemetery organizations, or any organization for the exclusive benefit of
+13 any such educational, religious, charitable, or cemetery organization,
+14 and used exclusively for educational, religious, charitable, or cemetery
+15 purposes, when such property is not (A) owned or used for financial gain
+16 or profit to either the owner or user, (B) used for the sale of alcoholic
+17 liquors for more than twenty hours per week, or (C) owned or used by an
+18 organization which discriminates in membership or employment based on
+19 race, color, or national origin.
+20 (ii) For purposes of subdivision (1)(d) of this section:
+21 (A) Educational organization means (I) an institution operated
+22 exclusively for the purpose of offering regular courses with systematic
+23 instruction in academic, vocational, or technical subjects or assisting
+24 students through services relating to the origination, processing, or
+25 guarantying of federally reinsured student loans for higher education,
+26 (II) a museum or historical society operated exclusively for the benefit
+27 and education of the public, or (III) a nonprofit organization that owns
+28 or operates a child care facility; and
+29 (B) Charitable organization includes (I) an organization operated
+30 exclusively for the purpose of the mental, social, or physical benefit of
+31 the public or an indefinite number of persons and (II) a fraternal
+-23-
+
+ER147 ER147
+LB1010 LB1010
+AJC - 03/17/2026 AJC - 03/17/2026
+1 benefit society organized and licensed under sections 44-1072 to
+2 44-10,109.
+3 (iii) The property tax exemption authorized in subdivision (1)(d)(i)
+4 of this section shall apply to any for-profit skilled nursing facility,
+5 for-profit nursing facility, or for-profit assisted-living facility that
+6 provides housing for medicaid beneficiaries, except that the exemption
+7 amount for such property shall be a percentage of the property taxes that
+8 would otherwise be due. Such percentage shall be equal to the average
+9 percentage of occupied beds in the facility provided to medicaid
+10 beneficiaries over the most recent three-year period. This subdivision
+11 shall not be construed to modify, limit, or reduce any property tax
+12 exemption provided to a nonprofit skilled nursing facility, nonprofit
+13 nursing facility, or nonprofit assisted-living facility pursuant to
+14 subdivision (1)(d)(i) of this section. For purposes of this subdivision,
+15 skilled nursing facility has the same meaning as in section 71-429,
+16 nursing facility has the same meaning as in section 71-424, and assisted-
+17 living facility has the same meaning as in section 71-5903.
+18 (iv) The property tax exemption authorized in subdivision (1)(d)(i)
+19 of this section shall apply to a building that (A) is owned by a
+20 charitable organization, (B) is made available to students in attendance
+21 at an educational institution, and (C) is recognized by such educational
+22 institution as approved student housing, except that the exemption shall
+23 only apply to the commons area of such building, including any common
+24 rooms and cooking and eating facilities;
+25 (e) Household goods and personal effects not owned or used for
+26 financial gain or profit to either the owner or user; and
+27 (f) A portion of the property owned by a taxpayer as provided in the
+28 Recreational Trail Easement Property Tax Exemption Act.
+29 (2) The increased value of land by reason of shade and ornamental
+30 trees planted along the highway shall not be taken into account in the
+31 valuation of land.
+-24-
+
+ER147 ER147
+LB1010 LB1010
+AJC - 03/17/2026 AJC - 03/17/2026
+1 (3) Tangible personal property which is not depreciable tangible
+2 personal property as defined in section 77-119 shall be exempt from
+3 property tax.
+4 (4) Motor vehicles, trailers, and semitrailers required to be
+5 registered for operation on the highways of this state shall be exempt
+6 from payment of property taxes.
+7 (5) Business and agricultural inventory shall be exempt from the
+8 personal property tax. For purposes of this subsection, business
+9 inventory includes personal property owned for purposes of leasing or
+10 renting such property to others for financial gain only if the personal
+11 property is of a type which in the ordinary course of business is leased
+12 or rented thirty days or less and may be returned at the option of the
+13 lessee or renter at any time and the personal property is of a type which
+14 would be considered household goods or personal effects if owned by an
+15 individual. All other personal property owned for purposes of leasing or
+16 renting such property to others for financial gain shall not be
+17 considered business inventory.
+18 (6) Any personal property exempt pursuant to subsection (2) of
+19 section 77-4105 or section 77-5209.02 shall be exempt from the personal
+20 property tax.
+21 (7) Livestock shall be exempt from the personal property tax.
+22 (8) Any personal property exempt pursuant to the Nebraska Advantage
+23 Act or the ImagiNE Nebraska Act shall be exempt from the personal
+24 property tax.
+25 (9) Any depreciable tangible personal property used directly in the
+26 generation of electricity using wind as the fuel source shall be exempt
+27 from the property tax levied on depreciable tangible personal property.
+28 Any depreciable tangible personal property used directly in the
+29 generation of electricity using solar, biomass, or landfill gas as the
+30 fuel source shall be exempt from the property tax levied on depreciable
+31 tangible personal property if such depreciable tangible personal property
+-25-
+
+ER147 ER147
+LB1010 LB1010
+AJC - 03/17/2026 AJC - 03/17/2026
+1 was installed on or after January 1, 2016, and has a nameplate capacity
+2 of one hundred kilowatts or more. Depreciable tangible personal property
+3 used directly in the generation of electricity using wind, solar,
+4 biomass, or landfill gas as the fuel source includes, but is not limited
+5 to, wind turbines, rotors and blades, towers, solar panels, trackers,
+6 generating equipment, transmission components, substations, supporting
+7 structures or racks, inverters, and other system components such as
+8 wiring, control systems, switchgears, and generator step-up transformers.
+9 (10) Any depreciable tangible personal property used in the storage
+10 of electricity by an energy storage resource subject to the nameplate
+11 capacity tax levied under section 77-6203 shall be exempt from the
+12 property tax levied on depreciable tangible personal property.
+13 (11) (10) Any tangible personal property that is acquired by a
+14 person operating a data center located in this state, that is assembled,
+15 engineered, processed, fabricated, manufactured into, attached to, or
+16 incorporated into other tangible personal property, both in component
+17 form or that of an assembled product, for the purpose of subsequent use
+18 at a physical location outside this state by the person operating a data
+19 center shall be exempt from the personal property tax. Such exemption
+20 extends to keeping, retaining, or exercising any right or power over
+21 tangible personal property in this state for the purpose of subsequently
+22 transporting it outside this state for use thereafter outside this state.
+23 For purposes of this subsection, data center means computers, supporting
+24 equipment, and other organized assembly of hardware or software that are
+25 designed to centralize the storage, management, or dissemination of data
+26 and information, environmentally controlled structures or facilities or
+27 interrelated structures or facilities that provide the infrastructure for
+28 housing the equipment, such as raised flooring, electricity supply,
+29 communication and data lines, Internet access, cooling, security, and
+30 fire suppression, and any building housing the foregoing.
+31 (12) (11) For tax years prior to tax year 2020, each person who owns
+-26-
+
+ER147 ER147
+LB1010 LB1010
+AJC - 03/17/2026 AJC - 03/17/2026
+1 property required to be reported to the county assessor under section
+2 77-1201 shall be allowed an exemption amount as provided in the Personal
+3 Property Tax Relief Act. For tax years prior to tax year 2020, each
+4 person who owns property required to be valued by the state as provided
+5 in section 77-601, 77-682, 77-801, or 77-1248 shall be allowed a
+6 compensating exemption factor as provided in the Personal Property Tax
+7 Relief Act.
+8 (13)(a) (12)(a) Broadband equipment shall be exempt from the
+9 personal property tax if such broadband equipment is:
+10 (i) Deployed in an area funded in whole or in part by funds from the
+11 Broadband Equity, Access, and Deployment Program, authorized by the
+12 federal Infrastructure Investment and Jobs Act, Public Law 117-58; or
+13 (ii) Deployed in a qualified census tract located within the
+14 corporate limits of a city of the metropolitan class and being utilized
+15 to provide end-users with access to the Internet at speeds of at least
+16 one hundred megabits per second for downloading and at least one hundred
+17 megabits per second for uploading.
+18 (b) An owner of broadband equipment seeking an exemption under this
+19 section shall apply for an exemption to the county assessor on or before
+20 December 31 of the year preceding the year for which the exemption is to
+21 begin. If the broadband equipment meets the criteria described in this
+22 subsection, the county assessor shall approve the application within
+23 thirty calendar days after receiving the application. The application
+24 shall be on forms prescribed by the Tax Commissioner.
+25 (c) For purposes of this subsection:
+26 (i) Broadband communications service means telecommunications
+27 service as defined in section 86-121, video programming as defined in 47
+28 U.S.C. 522, as such section existed on January 1, 2024, or Internet
+29 access as defined in section 1104 of the federal Internet Tax Freedom
+30 Act, Public Law 105-277;
+31 (ii) Broadband equipment means machinery or equipment used to
+-27-
+
+ER147 ER147
+LB1010 LB1010
+AJC - 03/17/2026 AJC - 03/17/2026
+1 provide broadband communications service and includes, but is not limited
+2 to, wires, cables, fiber, conduits, antennas, poles, switches, routers,
+3 amplifiers, rectifiers, repeaters, receivers, multiplexers, duplexers,
+4 transmitters, circuit cards, insulating and protective materials and
+5 cases, power equipment, backup power equipment, diagnostic equipment,
+6 storage devices, modems, and other general central office or headend
+7 equipment, such as channel cards, frames, and cabinets, or equipment used
+8 in successor technologies, including items used to monitor, test,
+9 maintain, enable, or facilitate qualifying equipment, machinery,
+10 software, ancillary components, appurtenances, accessories, or other
+11 infrastructure that is used in whole or in part to provide broadband
+12 communications service. Machinery or equipment used to produce broadband
+13 communications service does not include personal consumer electronics,
+14 including, but not limited to, smartphones, computers, and tablets; and
+15 (iii) Qualified census tract means a qualified census tract as
+16 defined in 26 U.S.C. 42(d)(5)(B)(ii)(I), as such section existed on
+17 January 1, 2024.
+18 Sec. 14. Section 77-6202, Revised Statutes Cumulative Supplement,
+19 2024, is amended to read:
+20 77-6202 For purposes of sections 77-6201 to 77-6204:
+21 (1) Commissioned means the renewable energy generation facility or
+22 energy storage resource has been in commercial operation for at least
+23 twenty-four hours. A renewable energy generation facility is not in
+24 commercial operation unless the renewable energy generation facility is
+25 connected to the electrical grid or to the end user if the renewable
+26 energy generation facility is a customer-generator as defined in section
+27 70-2002;
+28 (2) Energy storage resource has the same meaning as in section
+29 70-1001.01;
+30 (3) (2) Nameplate capacity means the capacity of (a) a renewable
+31 energy generation facility to generate electricity as measured in
+-28-
+
+ER147 ER147
+LB1010 LB1010
+AJC - 03/17/2026 AJC - 03/17/2026
+1 megawatts, including fractions of a megawatt, or (b) an energy storage
+2 resource to store electricity as measured in megawatts, including
+3 fractions of a megawatt. Nameplate capacity shall be determined based on
+4 the facility's alternating current capacity of the facility or resource;
+5 and
+6 (4) (3) Renewable energy generation facility means (a) a facility
+7 that generates electricity using wind as the fuel source or (b) a
+8 facility that generates electricity using solar, biomass, or landfill gas
+9 as the fuel source if such facility was installed on or after January 1,
+10 2016, and has a nameplate capacity of one hundred kilowatts or more.
+11 Sec. 15. Section 77-6203, Revised Statutes Cumulative Supplement,
+12 2024, is amended to read:
+13 77-6203 (1)(a) (1) The owner of a renewable energy generation
+14 facility annually shall pay a nameplate capacity tax equal to the total
+15 nameplate capacity of the commissioned renewable energy generation
+16 facility multiplied by a tax rate of three thousand five hundred eighteen
+17 dollars per megawatt.
+18 (b) The owner of an energy storage resource with a nameplate
+19 capacity of one hundred kilowatts or more annually shall pay a nameplate
+20 capacity tax equal to the total nameplate capacity of the commissioned
+21 energy storage resource multiplied by a tax rate of three thousand five
+22 hundred eighteen dollars per megawatt.
+23 (2) No tax shall be imposed on a renewable energy generation
+24 facility or energy storage resource:
+25 (a) Owned or operated by the federal government, the State of
+26 Nebraska, a public power district, a public power and irrigation
+27 district, an individual municipality, a registered group of
+28 municipalities, an electric membership association, or a cooperative; or
+29 (b) That is a customer-generator as defined in section 70-2002.
+30 (3) No tax levied pursuant to this section shall be construed to
+31 constitute restricted funds as defined in section 13-518 for the first
+-29-
+
+ER147 ER147
+LB1010 LB1010
+AJC - 03/17/2026 AJC - 03/17/2026
+1 five years after the renewable energy generation facility or energy
+2 storage resource is commissioned.
+3 (4) The presence of one or more renewable energy generation
+4 facilities, energy storage resources subject to the nameplate capacity
+5 tax, or supporting infrastructure shall not be a factor in the
+6 assessment, determination of actual value, or classification under
+7 section 77-201 of the real property underlying or adjacent to such
+8 facilities, resources, or infrastructure.
+9 (5)(a) The Department of Revenue shall collect the tax due under
+10 this section.
+11 (b) The tax shall be imposed beginning the first calendar year the
+12 renewable energy generation facility is commissioned or the first
+13 calendar year the energy storage resource has a nameplate capacity of one
+14 hundred kilowatts or more. A renewable energy generation facility that
+15 uses wind as the fuel source which was commissioned prior to July 15,
+16 2010, shall be subject to the tax levied pursuant to sections 77-6201 to
+17 77-6204 on and after January 1, 2010. The amount of property tax on
+18 depreciable tangible personal property previously paid on a renewable
+19 energy generation facility that uses wind as the fuel source which was
+20 commissioned prior to July 15, 2010, which is greater than the amount
+21 that would have been paid pursuant to sections 77-6201 to 77-6204 from
+22 the date of commissioning until January 1, 2010, shall be credited
+23 against any tax due under Chapter 77, and any amount so credited that is
+24 unused in any tax year shall be carried over to subsequent tax years
+25 until fully utilized.
+26 (c)(i) The tax for the first calendar year shall be prorated based
+27 upon the number of days remaining in the calendar year after the
+28 renewable energy generation facility is commissioned or after the energy
+29 storage resource reaches nameplate capacity of one hundred kilowatts or
+30 more.
+31 (ii) In the first year in which a renewable energy generation
+-30-
+
+ER147 ER147
+LB1010 LB1010
+AJC - 03/17/2026 AJC - 03/17/2026
+1 facility or energy storage resource is taxed or in any year in which
+2 additional commissioned nameplate capacity is added to a renewable energy
+3 generation facility or energy storage resource, the taxes on the initial
+4 or additional nameplate capacity shall be prorated for the number of days
+5 remaining in the calendar year.
+6 (iii) When a renewable energy generation facility or energy storage
+7 resource is decommissioned or made nonoperational by a change in law
+8 during a tax year, the taxes shall be prorated for the number of days
+9 during which the renewable energy generation facility or energy storage
+10 resource was not decommissioned or was operational.
+11 (iv) When the capacity of a renewable energy generation facility or
+12 energy storage resource to produce or store electricity is reduced but
+13 the renewable energy generation facility or energy storage resource is
+14 not decommissioned, the nameplate capacity of the renewable energy
+15 generation facility or energy storage resource is deemed to be unchanged.
+16 (6)(a) On March 1 of each year, the owner of a renewable energy
+17 generation facility or an energy storage resource shall file with the
+18 Department of Revenue a report on the nameplate capacity of the facility
+19 or resource for the previous year from January 1 through December 31. All
+20 taxes shall be due on April 1 and shall be delinquent if not paid on a
+21 quarterly basis on April 1 and each quarter thereafter. Delinquent
+22 quarterly payments shall draw interest at the rate provided for in
+23 section 45-104.02, as such rate may from time to time be adjusted.
+24 (b) The owner of a renewable energy generation facility or energy
+25 storage resource is liable for the taxes under this section with respect
+26 to the facility or resource, whether or not the owner of the facility or
+27 resource is the owner of the land on which the facility or resource is
+28 situated.
+29 (7) Failure to file a report required by subsection (6) of this
+30 section, filing such report late, failure to pay taxes due, or
+31 underpayment of such taxes shall result in a penalty of five percent of
+-31-
+
+ER147 ER147
+LB1010 LB1010
+AJC - 03/17/2026 AJC - 03/17/2026
+1 the amount due being imposed for each quarter the report is overdue or
+2 the payment is delinquent, except that the penalty shall not exceed ten
+3 thousand dollars.
+4 (8) The Department of Revenue shall enforce the provisions of this
+5 section. The department may adopt and promulgate rules and regulations
+6 necessary for the implementation and enforcement of this section.
+7 (9) The Department of Revenue shall separately identify the proceeds
+8 from the tax imposed by this section and shall pay all such proceeds over
+9 to the county treasurer of the county where the renewable energy
+10 generation facility or energy storage resource is located within thirty
+11 days after receipt of such proceeds.
+12 Sec. 16. Section 77-6204, Revised Statutes Supplement, 2025, is
+13 amended to read:
+14 77-6204 (1) The county treasurer shall distribute all revenue
+15 received from the Department of Revenue pursuant to section 77-6203 as
+16 follows:
+17 (a) Five percent of such revenue shall be distributed to the
+18 community college area in which the renewable energy generation facility
+19 or energy storage resource is located; and
+20 (b) The remainder of such revenue shall be distributed to local
+21 taxing entities which, but for such personal property tax exemption,
+22 would have received distribution of personal property tax revenue from
+23 depreciable personal property used directly in the generation of
+24 electricity using wind, solar, biomass, or landfill gas as the fuel
+25 source or used in the storage of electricity by an energy storage
+26 resource.
+27 (2) A local taxing entity's status as eligible for distribution
+28 under subdivision (1)(b) of this section shall not be affected when and
+29 if (a) the net book value of personal property used directly in the
+30 generation of electricity using wind, solar, biomass, or landfill gas as
+31 the fuel source becomes zero or (b) the net book value of personal
+-32-
+
+ER147 ER147
+LB1010 LB1010
+AJC - 03/17/2026 AJC - 03/17/2026
+1 property used in the storage of electricity by an energy storage resource
+2 becomes zero.
+3 (3) A local taxing entity's status as eligible for distribution
+4 under such subdivision (1)(b) of this section shall be affected by (a)
+5 the disposal of all of the exempt depreciable personal property used
+6 directly in the generation of electricity using wind, solar, biomass, or
+7 landfill gas as the fuel source or (b) the disposal of all of the exempt
+8 depreciable personal property used in the storage of electricity by an
+9 energy storage resource.
+10 (4) (3) The distribution to each eligible local taxing entity under
+11 subdivision (1)(b) of this section shall be calculated by determining the
+12 amount of taxes that the eligible local taxing entity levied during the
+13 taxable year and dividing this amount by the total tax levied by all of
+14 the eligible local taxing entities during the year. Each eligible
+15 entity's resulting fraction shall then be multiplied by the amount of
+16 revenue available for distribution pursuant to subdivision (1)(b) of this
+17 section to determine the portion of such revenue due each local taxing
+18 entity.
+19 (5) (4) The Department of Revenue shall not retain any revenue
+20 collected pursuant to sections 77-6201 to 77-6204 for distribution, use,
+21 transfer, pledge, or allocation to or from the General Fund.
+22 Sec. 17. Original sections 70-670 and 70-1012.01, Reissue Revised
+23 Statutes of Nebraska, sections 70-704, 77-6202, and 77-6203, Revised
+24 Statutes Cumulative Supplement, 2024, and sections 13-518, 70-1001.01,
+25 70-1012, 70-1015, 70-1506, 77-202, and 77-6204, Revised Statutes
+26 Supplement, 2025, are repealed.
+27 2. On page 1, strike beginning with "electricity" in line 1 through
+28 line 11 and insert "electricity; to amend sections 70-670 and 70-1012.01,
+29 Reissue Revised Statutes of Nebraska, sections 70-704, 77-6202, and
+30 77-6203, Revised Statutes Cumulative Supplement, 2024, and sections
+31 13-518, 70-1001.01, 70-1012, 70-1015, 70-1506, 77-202, and 77-6204,
+-33-
+
+ER147 ER147
+LB1010 LB1010
+AJC - 03/17/2026 AJC - 03/17/2026
+1 Revised Statutes Supplement, 2025; to adopt the Large Load Customer
+2 Regulation Act; to change provisions relating to restricted funds; to
+3 provide for eminent domain relating to energy storage; to provide for
+4 storage of electric energy under the Electric Cooperative Corporation
+5 Act; to define and redefine terms; to change application, notice, filing,
+6 exemption, and violation provisions, and provide for certain energy
+7 storage resources relating to certain electric suppliers; to change
+8 provisions relating to cryptocurrency mining operations and data centers;
+9 to provide requirements relating to data centers; to provide for a
+10 nameplate capacity tax for energy storage resources; to harmonize
+11 provisions; and to repeal the original sections.
+-34-

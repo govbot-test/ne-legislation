@@ -1,0 +1,281 @@
+Title: 
+Official Title: 
+Source: versions - Dungan AM2977
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+AM2977 AM2977
+LB958 LB958
+DLM - 03/30/2026 DLM - 03/30/2026
+AMENDMENTS TO LB958
+(Amendments to Standing Committee amendments, AM2766)
+Introduced by Dungan, 26.
+1 1. Strike the original sections and all amendments thereto and
+2 insert the following new sections:
+3 Section 1. Section 68-901, Revised Statutes Cumulative Supplement,
+4 2024, is amended to read:
+5 68-901 Sections 68-901 to 68-9,111 and section 2 of this act shall
+6 be known and may be cited as the Medical Assistance Act.
+7 Sec. 2. (1) For purposes of this section:
+8 (a) Assessment tool means any standardized instrument, including the
+9 InterRai assessment system or successor tools, used by the department to
+10 evaluate functional eligibility, service needs, or service tier
+11 assignments for medicaid or home and community-based services waiver
+12 participants;
+13 (b) Clinical interviewing means a type of directed conversation
+14 applied in a variety of contexts, including assessment and treatment
+15 planning for persons applying for, or receiving, services under the
+16 medical assistance program or a home and community-based services waiver
+17 authorized under section 1915(c) of the federal Social Security Act, as
+18 amended. Clinical interviewing may include the use of standard assessment
+19 materials but allows the interviewer, based on training and patient
+20 responses, to determine the questions to ask, clarify ambiguities, and
+21 adapt the questions to the patient's comprehension in order to enhance
+22 understanding; and
+23 (c) Waiver participant means an individual applying for, or
+24 receiving, services under a home and community-based services waiver
+25 authorized under section 1915(c) of the federal Social Security Act, as
+26 amended.
+-1-
+
+AM2977 AM2977
+LB958 LB958
+DLM - 03/30/2026 DLM - 03/30/2026
+1 (2) The department shall ensure that all employees and contractors
+2 who administer or utilize assessment tools for waiver participants
+3 receive training in clinical interviewing techniques. Such training shall
+4 include, but not be limited to:
+5 (a) Proper administration of assessment tools;
+6 (b) Techniques for adapting questions to the comprehension and
+7 communication needs of the individual being assessed;
+8 (c) Methods for clarifying ambiguous or incomplete responses; and
+9 (d) Procedures that ensure accurate and complete assessment results.
+10 (3) The department shall communicate eligibility determinations,
+11 service tier assignments, and service hour determinations to a waiver
+12 participant, or a parent or legal guardian of a waiver participant, in a
+13 timely, clear, and specific manner. Such communication shall include:
+14 (a) A complete explanation of the assigned service tier and
+15 eligibility determination;
+16 (b) A clear and precise explanation of the assessment tool results;
+17 and
+18 (c) Information regarding the right to appeal the determination.
+19 (4)(a) Services authorized under a waiver shall be based upon
+20 individualized assessments of medical necessity, functional need, and
+21 health and safety requirements, as determined through the person-centered
+22 planning process in accordance with federal home and community-based
+23 services waiver regulations.
+24 (b) The department shall ensure that services are sufficient in
+25 amount, duration, and scope to reasonably serve the needs of participants
+26 and prevent unnecessary institutionalization, hospitalization, or risk of
+27 serious harm.
+28 (c) Nothing in this section shall be construed to limit the state's
+29 obligation to comply with federal medicaid requirements governing
+30 comparability, reasonable standards, and protection of the health and
+31 welfare of waiver participants.
+-2-
+
+AM2977 AM2977
+LB958 LB958
+DLM - 03/30/2026 DLM - 03/30/2026
+1 (5) If a determination results in a reduction of a waiver
+2 participant's service tier, authorized service hours, or service
+3 provision, the department shall conduct an immediate supervisory review
+4 of the assessment and determination prior to final implementation of the
+5 reduction.
+6 (6) No later than August 1, 2026, and August 1, 2027, the department
+7 shall submit a report electronically to the Legislative Oversight
+8 Committee of the Legislature, the Health and Human Services Committee of
+9 the Legislature, and the office of the Public Counsel regarding the
+10 implementation and use of assessment tools for waiver participants. The
+11 report shall only apply to the developmental disability waiver using
+12 intermediate level of care criteria and shall include, but not be limited
+13 to:
+14 (a) The metrics used in the assessment tools;
+15 (b) An explanation of nonproprietary algorithms, case-mix
+16 methodologies, or scoring matrices used to determine eligibility or
+17 service tiers;
+18 (c) The number and percentage of waiver participants whose service
+19 tiers remained the same, increased, or decreased, and the reasons for
+20 such changes;
+21 (d) Aggregate assessment results compared to previous years'
+22 assessments and service tier determinations;
+23 (e) Any identified disparities, trends, or implementation
+24 challenges;
+25 (f) Any other information necessary to evaluate the effectiveness,
+26 accuracy, and fairness of the assessment tools;
+27 (g) The ways in which the department is complying with the federal
+28 Ensuring Access to Medicaid Final Rule, including requirements related to
+29 grievance procedures, critical incident reporting, and appeal processes
+30 for waiver participants; and
+31 (h) The procedures implemented by medicaid managed care contractors
+-3-
+
+AM2977 AM2977
+LB958 LB958
+DLM - 03/30/2026 DLM - 03/30/2026
+1 relating to grievances, critical incidents, and appeals for waiver
+2 participants.
+3 Sec. 3. Section 68-908, Revised Statutes Cumulative Supplement,
+4 2024, is amended to read:
+5 68-908 (1) The department shall administer the medical assistance
+6 program.
+7 (2) The department may (a) enter into contracts and interagency
+8 agreements, (b) adopt and promulgate rules and regulations, (c) adopt fee
+9 schedules, (d) apply for and implement waivers and managed care plans for
+10 services for eligible recipients, including services under the Nebraska
+11 Behavioral Health Services Act, and (e) perform such other activities as
+12 necessary and appropriate to carry out its duties under the Medical
+13 Assistance Act. A covered item or service as described in section 68-911
+14 that is furnished through a school-based health center, furnished by a
+15 provider, and furnished under a managed care plan pursuant to a waiver
+16 does not require prior consultation or referral by a patient's primary
+17 care physician to be covered. Any federally qualified health center
+18 providing services as a sponsoring facility of a school-based health
+19 center shall be reimbursed for such services provided at a school-based
+20 health center at the federally qualified health center reimbursement
+21 rate.
+22 (3) The department shall maintain the confidentiality of information
+23 regarding applicants for or recipients of medical assistance and such
+24 information shall only be used for purposes related to administration of
+25 the medical assistance program and the provision of such assistance or as
+26 otherwise permitted by federal law.
+27 (4) The department shall provide the maximum amount of retroactive
+28 coverage for each medical assistance eligibility category as permitted by
+29 section 71112 of the federal One Big Beautiful Bill Act, Public Law
+30 119-21, as such section existed on January 1, 2026.
+31 (5) (4) The department shall prepare an annual summary and analysis
+-4-
+
+AM2977 AM2977
+LB958 LB958
+DLM - 03/30/2026 DLM - 03/30/2026
+1 of the medical assistance program for legislative and public review. The
+2 department shall submit a report of such summary and analysis to the
+3 Governor and the Legislature electronically no later than December 1 of
+4 each year. The annual summary shall include, but not be limited to:
+5 (a) The number and percentage of applications approved and denied;
+6 (b) The number of eligibility determinations, including the number
+7 and percentage of those individuals remaining enrolled, terminations, and
+8 other determinations;
+9 (c) The number of case closures in the medical assistance program
+10 and the Children's Health Insurance Program and the specific reason for
+11 the closure broken down by (i) eligibility category, including program
+12 type, (ii) local public health district or other geographic area, and
+13 (iii) race or ethnicity, if available;
+14 (d) The number of medical assistance program and Children's Health
+15 Insurance Program enrollees broken down by (i) eligibility category,
+16 including program type, (ii) local public health district or other
+17 geographic area, and (iii) race or ethnicity, if available;
+18 (e) The number and percentage of redeterminations or renewals
+19 processed ex parte, broken down by (i) eligibility category, including
+20 program type and (ii) race or ethnicity, if available;
+21 (f) The average number of days required to process applications for
+22 the medical assistance program and Children's Health Insurance Program,
+23 separating the data by applicants with modified adjusted gross income and
+24 nonmodified adjusted gross income eligibility;
+25 (g) The rate of re-enrollment within ninety days of termination and
+26 within twelve months of termination, broken down by (i) eligibility
+27 category, including program type, (ii) local public health district or
+28 other geographic area, and (iii) race or ethnicity, if available;
+29 (h) The average client call duration;
+30 (i) The client call abandonment rate;
+31 (j) The number of requests for a fair hearing separated by (i)
+-5-
+
+AM2977 AM2977
+LB958 LB958
+DLM - 03/30/2026 DLM - 03/30/2026
+1 eligibility category and program type, (ii) outcome, and (iii) amount of
+2 time until final disposition; and
+3 (k) A link to the medical assistance program fair hearing decisions
+4 that have been redacted to protect private and health information, which
+5 shall be posted on the department's website; .
+6 (l) The status of community engagement requirements, including:
+7 (i) A description of the plans to implement community engagement
+8 requirements for medicaid recipients, including the authority and
+9 effective date for the requirements and the recipients subject to the
+10 requirements;
+11 (ii) The number of denied applications and renewals for failure to
+12 meet community engagement requirements;
+13 (iii) The number of applications and renewals denied because the
+14 community engagement requirement verification could not be completed;
+15 (iv) The number of applications and renewals which required the
+16 recipient to submit additional information relating to compliance with
+17 community engagement requirements;
+18 (v) The number of applications and renewals approved because the
+19 applications and renewals received an exemption, the type of exemption,
+20 whether or not the exemption was applied automatically, and whether or
+21 not the recipient was required to take action to receive the exemption;
+22 (vi) The number of applications and renewals approved because the
+23 applications and renewals complied with the community engagement
+24 requirement, disaggregated by the compliance activity type, whether or
+25 not compliance was determined automatically, and whether or not the
+26 recipient was required to take further action in order to be approved;
+27 (vii) The number of applications and renewals denied or terminated
+28 due to a failure to meet community engagement requirements in which the
+29 recipient was re-enrolled within ninety days and the number of such
+30 applications and renewals in which the recipient was re-enrolled within
+31 twelve months;
+-6-
+
+AM2977 AM2977
+LB958 LB958
+DLM - 03/30/2026 DLM - 03/30/2026
+1 (viii) A list of data sources the department uses to verify
+2 compliance or exemption status; and
+3 (ix) A list of external vendors contracted by the state to assess
+4 compliance with, or exemption from, community engagement requirements,
+5 including a link to each vendor's current contract;
+6 (m) The number of identified cases of concurrent enrollment and
+7 external vendors contracted by the state to identify concurrent
+8 enrollees, including a link to each vendor's contract. For cases
+9 terminated for concurrent enrollment, the rate of re-enrollment within
+10 ninety days after the date of termination and the rate of re-enrollment
+11 within twelve months after the date of termination; and
+12 (n) A description of cost sharing, premiums, copays, and deductibles
+13 for goods and services provided under the medical assistance program,
+14 including (i) the amounts of the cost sharing, premiums, copays, and
+15 deductibles and (ii) the payment source for collected cost sharing.
+16 Sec. 4. Section 68-9,106, Revised Statutes Cumulative Supplement,
+17 2024, is amended to read:
+18 68-9,106 The Nebraska Prenatal Plus Program is created within the
+19 Department of Health and Human Services. The purpose of the Nebraska
+20 Prenatal Plus Program is to reduce the incidence of low birth weight,
+21 pre-term birth, and adverse birth outcomes while also addressing other
+22 lifestyle, behavioral, and nonmedical aspects of an at-risk mother's life
+23 that may affect the health and well-being of the mother or the child.
+24 This program shall terminate on June 30, 2028.
+25 Sec. 5. Section 68-9,107, Revised Statutes Cumulative Supplement,
+26 2024, is amended to read:
+27 68-9,107 Services eligible for reimbursement for at-risk mothers
+28 under the Nebraska Prenatal Plus Program include, but are not limited to:
+29 (1) Six or fewer sessions of nutrition counseling; (2) psychosocial
+30 counseling and support; (3) general client education and health
+31 promotion; (4) a minimum of two breastfeeding support sessions; and (5)
+-7-
+
+AM2977 AM2977
+LB958 LB958
+DLM - 03/30/2026 DLM - 03/30/2026
+1 targeted case management.
+2 Sec. 6. Section 68-9,109, Revised Statutes Supplement, 2025, is
+3 amended to read:
+4 68-9,109 The Department of Health and Human Services shall
+5 electronically submit a report to the Legislature on or before December
+6 15 of each year beginning December 15, 2024, through December 15, 2034
+7 2029, on the Nebraska Prenatal Plus Program which includes (1) the number
+8 of mothers served, (2) the services offered, and (3) the birth outcomes
+9 for each mother served.
+10 Sec. 7. Sections 4, 5, 6, and 8 of this act become operative three
+11 calendar months after the adjournment of this legislative session. The
+12 other sections of this act become operative on their effective date.
+13 Sec. 8. Original sections 68-9,106 and 68-9,107, Revised Statutes
+14 Cumulative Supplement, 2024, and section 68-9,109, Revised Statutes
+15 Supplement, 2025, are repealed.
+16 Sec. 9. Original sections 68-901 and 68-908, Revised Statutes
+17 Cumulative Supplement, 2024, are repealed.
+18 Sec. 10. Since an emergency exists, this act takes effect when
+19 passed and approved according to law.
+-8-
