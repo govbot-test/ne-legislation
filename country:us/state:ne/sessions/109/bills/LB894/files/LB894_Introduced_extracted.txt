@@ -1,0 +1,187 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LB894 LB894
+2026 2026
+LEGISLATURE OF NEBRASKA
+ONE HUNDRED NINTH LEGISLATURE
+SECOND SESSION
+LEGISLATIVE BILL 894
+Introduced by DeKay, 40; Brandt, 32; DeBoer, 10.
+Read first time January 08, 2026
+Committee: Agriculture
+1 A BILL FOR AN ACT relating to grain dealers; to amend section 75-904,
+2 Reissue Revised Statutes of Nebraska, and sections 75-902 and
+3 75-903, Revised Statutes Cumulative Supplement, 2024; to redefine
+4 grain dealer for purposes of the Grain Dealer Act and the Grain
+5 Warehouse Act; to change provisions relating to annual fees for
+6 grain dealer licenses and securities under the Grain Dealer Act; to
+7 harmonize provisions; to repeal the original sections; and to
+8 outright repeal section 75-905, Reissue Revised Statutes of
+9 Nebraska.
+10 Be it enacted by the people of the State of Nebraska,
+-1-
+
+LB894 LB894
+2026 2026
+1 Section 1. Section 75-902, Revised Statutes Cumulative Supplement,
+2 2024, is amended to read:
+3 75-902 For purposes of the Grain Dealer Act, unless the context
+4 otherwise requires:
+5 (1) Commission means the Public Service Commission;
+6 (2) Direct delivery grain has the same meaning as in section 88-526;
+7 (3) Direct delivery obligation has the same meaning as in section
+8 88-526;
+9 (4)(a) Grain means, but is not limited to, all unprocessed beans,
+10 whole corn, milo and other sorghum, wheat, rye, barley, oats, millet,
+11 safflower seed and processed plant pellets, alfalfa pellets, and any
+12 other bulk pelleted agricultural storable commodity, except grain which
+13 has been processed or packaged for distribution as seed.
+14 (b) Grain includes all commodities described in subdivision (4)(a)
+15 of this section whether grown and marketed as fungible commodities or
+16 within segregated marketing channels, including, but not limited to,
+17 certified organic commodities;
+18 (5)(a) Grain dealer means any person, partnership, limited liability
+19 company, corporation, or association that (i) buys grain from the
+20 producer of the grain within this state for purposes of selling such
+21 grain or (ii) acts as an employee or agent of a buyer or seller for
+22 purposes of collective bargaining in the marketing of grain.
+23 (b) Grain dealer does not include (i) a feeder or custom feeder of
+24 livestock or poultry or (ii) a warehouse licensee under the Grain
+25 Warehouse Act or a warehouse licensee under the United States Warehouse
+26 Act of a warehouse located in Nebraska if the warehouse licensee does not
+27 buy, sell, or transport grain other than grain that is received at its
+28 licensed warehouse facilities;
+29 (6) In-store transfer has the same meaning as in section 88-526;
+30 (7) Post-direct delivery storage position has the same meaning as in
+31 section 88-526; and
+-2-
+
+LB894 LB894
+2026 2026
+1 (8) Producer means the owner, tenant, or operator of land in this
+2 state who has an interest in and receives all or part of the proceeds
+3 from the sale of grain produced on that land.
+4 Sec. 2. Section 75-903, Revised Statutes Cumulative Supplement,
+5 2024, is amended to read:
+6 75-903 (1) All grain dealers doing business in this state shall be
+7 licensed by the commission. If the applicant is an individual, the
+8 application shall include the applicant's social security number. To
+9 procure and maintain a license, each grain dealer shall:
+10 (a) (1) Pay an annual fee that is of one hundred dollars which shall
+11 be due on or before the date established by the commission. Such fee
+12 shall not exceed one thousand five hundred dollars for each license. Such
+13 fee fees shall be paid to the State Treasurer on or before the due date
+14 established by the commission for such fee. The State Treasurer shall
+15 credit such fee and credited to the General Fund;
+16 (b) (2) File a security pursuant to subsection (2) of this section;
+17 and
+18 (c) File a reviewed or audited fiscal year-end financial statement
+19 prepared by an independent certified public accounting firm as required
+20 in subsection (3) of this section.
+21 (2)(a) The security required under subdivision (1)(b) of this
+22 section which may be a bond issued by a corporate surety company and
+23 payable to the commission, an irrevocable letter of credit, or a
+24 certificate of deposit, subject to the approval of the commission, for
+25 the benefit of any producer who files a valid claim arising from a sale
+26 to a grain dealer.
+27 (b) The security shall be in an amount set by the commission of not
+28 less than thirty-five thousand dollars and not more than one million
+29 dollars. Amounts used in the calculation of the security:
+30 (i) Shall shall include all direct delivery grain purchases and
+31 exchanges valued on the date delivery is made; and .
+-3-
+
+LB894 LB894
+2026 2026
+1 (ii) Shall Amounts used in the calculation of the security shall not
+2 include any transactions in which direct delivery grain is exchanged for
+3 a post-direct delivery storage position and the post-direct delivery
+4 storage position is created by an in-store transfer on the same date as
+5 the delivery of the direct delivery grain.
+6 (c)(i) Such security shall be furnished on the condition that the
+7 licensee shall will pay for any grain purchased as follows:
+8 (A) If a demand for payment is made upon demand, not later than two
+9 business fifteen days after the date of the last shipment of the any
+10 contract; and .
+11 (B) If a demand for payment is not made, not later than thirty days
+12 after the date of the last shipment of the contract unless otherwise
+13 provided in such contract.
+14 (ii) If a licensee fails to pay for any grain that such licensee has
+15 purchased pursuant to this subsection, such licensee shall be liable to
+16 the producer for interest on the unpaid amount pursuant to section
+17 45-103.
+18 (d) The liability of the surety shall cover purchases made by the
+19 grain dealer during the time the bond is in force. A grain dealer's bond
+20 filed with the commission shall be in continuous force and effect until
+21 canceled by the surety. The liability of the surety on any bond required
+22 by this section shall not accumulate for each successive license period
+23 during which the bond is in force. ; and
+24 (e) No seller shall have recourse to the licensee's security unless,
+25 as of the date the commission initiates an administrative action against
+26 the licensee, the seller has completed delivery of grain to the licensee
+27 for which payment is due and payable. Any seller holding a deferred-
+28 pricing, price-later, or similar contract under which title has passed
+29 but no payment obligation has yet matured shall not be eligible to claim
+30 against the security unless the payment obligation became due prior to
+31 the date of such administrative action.
+-4-
+
+LB894 LB894
+2026 2026
+1 (3) File a reviewed or audited fiscal year-end financial statement
+2 prepared by an independent certified public accounting firm.
+3 (3)(a) If licensing as an individual, the financial statement shall
+4 be prepared in accordance with Other Comprehensive Basis of Accountancy,
+5 as filed with the board, for a personal financial statement, using
+6 historical cost and accrual basis of accounting. If licensing as a
+7 partnership, corporation, or limited liability company, the financial
+8 statement shall be prepared in accordance with accounting principles
+9 generally accepted.
+10 (b) The financial statement shall include:
+11 (i) (a) A statement of income showing profit or loss;
+12 (ii) A (b) a balance sheet;
+13 (iii) A (c) a statement of cash flow;
+14 (iv) A (d) a statement of proprietor's capital or retained earnings;
+15 (v) The (e) the volume and dollar value of the grain purchases the
+16 licensee made in Nebraska during the fiscal year;
+17 (vi) The (f) the volume and dollar value of transactions in which
+18 direct delivery grain is exchanged for a post-direct delivery storage
+19 position and the post-direct delivery storage position is not created by
+20 an in-store transfer on the same date as the delivery of the direct
+21 delivery grain; and
+22 (vii) The (g) the accounting firm's certification, assurances,
+23 opinions, and comments and the notes with respect to the financial
+24 statement.
+25 (c) If the volume and dollar value of the grain purchases is not
+26 reported, the grain dealer shall file the maximum grain dealer security
+27 as required by the Grain Dealer Act.
+28 (d) (4) If an applicant for a grain dealer license is a wholly owned
+29 subsidiary of a parent company and such a financial statement is not
+30 prepared for the subsidiary, the parent company shall submit its reviewed
+31 or audited fiscal year-end financial statement and shall execute an
+-5-
+
+LB894 LB894
+2026 2026
+1 unconditional guarantee agreement as prescribed by the commission.
+2 Sec. 3. Section 75-904, Reissue Revised Statutes of Nebraska, is
+3 amended to read:
+4 75-904 Each grain dealer or his or her agent upon taking possession
+5 of grain from a seller shall issue a receipt, contract, bill of lading,
+6 or other written communication to the seller or his or her agent. The
+7 grain dealer receipt, contract, bill of lading, or other written
+8 communication issued by the grain dealer shall include the provisions of
+9 section 75-905 and be in such form as the Public Service Commission may
+10 by rule and regulation require.
+11 Sec. 4. Original section 75-904, Reissue Revised Statutes of
+12 Nebraska, and sections 75-902 and 75-903, Revised Statutes Cumulative
+13 Supplement, 2024, are repealed.
+14 Sec. 5. The following section is outright repealed: Section 75-905,
+15 Reissue Revised Statutes of Nebraska.
+-6-

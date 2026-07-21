@@ -1,0 +1,1120 @@
+Title: 
+Official Title: 
+Source: versions - Education AM2454
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+AM2454 AM2454
+LB937 LB937
+TTB - 03/06/2026 TTB - 03/06/2026
+AMENDMENTS TO LB937
+Introduced by Education.
+1 1. Strike the original sections and insert the following new
+2 sections:
+3 Section 1. Section 28-710, Revised Statutes Supplement, 2025, is
+4 amended to read:
+5 28-710 (1) Sections 28-710 to 28-727 and section 2 of this act shall
+6 be known and may be cited as the Child Protection and Family Safety Act.
+7 (2) For purposes of the Child Protection and Family Safety Act:
+8 (a) Alternative response means a comprehensive assessment of (i)
+9 child safety, (ii) the risk of future child abuse or neglect, (iii)
+10 family strengths and needs, and (iv) the provision of or referral for
+11 necessary services and support. Alternative response is an alternative to
+12 traditional response and does not include an investigation or a formal
+13 determination as to whether child abuse or neglect has occurred, and the
+14 subject of the report shall not be entered into the central registry of
+15 child protection cases maintained pursuant to section 28-718;
+16 (b) Child abuse or neglect means knowingly, intentionally, or
+17 negligently causing or permitting a minor child to be:
+18 (i) Placed in a situation that endangers his or her life or physical
+19 or mental health;
+20 (ii) Cruelly confined or cruelly punished;
+21 (iii) Deprived of necessary food, clothing, shelter, or care;
+22 (iv) Left unattended in a motor vehicle if such minor child is six
+23 years of age or younger;
+24 (v) Placed in a situation to be sexually abused;
+25 (vi) Placed in a situation to be sexually exploited through sex
+26 trafficking of a minor as defined in section 28-830 or by allowing,
+27 encouraging, or forcing such person to engage in debauchery, public
+-1-
+
+AM2454 AM2454
+LB937 LB937
+TTB - 03/06/2026 TTB - 03/06/2026
+1 indecency, or obscene or pornographic photography, films, or depictions;
+2 or
+3 (vii) Placed in a situation to be a trafficking victim as defined in
+4 section 28-830;
+5 (c) Child advocacy center means a community-based organization that
+6 (i) provides an appropriate site for conducting forensic interviews as
+7 defined in section 28-728 and referring victims of child abuse or neglect
+8 and appropriate caregivers for such victims to needed evaluation,
+9 services, and supports, (ii) assists county attorneys in facilitating
+10 case reviews, developing and updating protocols, and arranging training
+11 opportunities for the teams established pursuant to sections 28-728 and
+12 28-729, and (iii) is a member, in good standing, of a state chapter as
+13 defined in 34 U.S.C. 20302;
+14 (d) Comprehensive assessment means an analysis of child safety, risk
+15 of future child abuse or neglect, and family strengths and needs on a
+16 report of child abuse or neglect using an evidence-informed and validated
+17 tool. Comprehensive assessment does not include a finding as to whether
+18 the child abuse or neglect occurred but does determine the need for
+19 services and support, if any, to address the safety of children and the
+20 risk of future abuse or neglect;
+21 (e) Department means the Department of Health and Human Services;
+22 (f) Educational decisionmaker has the same meaning as in section
+23 79-530;
+24 (g) Exempt school means a school which elects pursuant to section
+25 79-1601 not to meet accreditation or approval requirements;
+26 (h) (f) Investigation means fact gathering by the department, using
+27 an evidence-informed and validated tool, or by law enforcement related to
+28 the current safety of a child and the risk of future child abuse or
+29 neglect that determines whether child abuse or neglect has occurred and
+30 whether child protective services are needed;
+31 (i) (g) Kin caregiver means a person with whom a child in foster
+-2-
+
+AM2454 AM2454
+LB937 LB937
+TTB - 03/06/2026 TTB - 03/06/2026
+1 care has been placed or with whom a child is residing pursuant to a
+2 temporary living arrangement in a non-court-involved case, who has
+3 previously lived with or is a trusted adult that has a preexisting,
+4 significant relationship with the child or with a sibling of such child
+5 placed pursuant to section 43-1311.02;
+6 (j) (h) Law enforcement agency means the police department or town
+7 marshal in incorporated municipalities, the office of the sheriff in
+8 unincorporated areas, and the Nebraska State Patrol;
+9 (k) (i) Member of a military family means an individual who is:
+10 (i) Serving active duty service in the armed forces of the United
+11 States, including any reserve component or the National Guard; or
+12 (ii) Is a dependent, as defined in 50 U.S.C. 3911, of a person
+13 described in subdivision (2)(k)(i) (2)(i)(i) of this section;
+14 (l) (j) Non-court-involved case means an ongoing case opened by the
+15 department following a report of child abuse or neglect in which the
+16 department has determined that ongoing services are required to maintain
+17 the safety of a child or alleviate the risk of future abuse or neglect
+18 and in which the family voluntarily engages in child protective services
+19 without a filing in a juvenile court;
+20 (m) (k) Out-of-home child abuse or neglect means child abuse or
+21 neglect occurring outside of a child's family home, including in day care
+22 homes, foster homes, day care centers, residential child-caring agencies
+23 as defined in section 71-1926, other child care facilities or
+24 institutions, and the community. Out-of-home child abuse or neglect also
+25 includes cases in which the subject of the report of child abuse or
+26 neglect is not a member of the child's household, no longer has access to
+27 the child, is unknown, or cannot be identified;
+28 (n) (l) Relative caregiver means a person with whom a child is
+29 placed by the department and who is related to the child, or to a sibling
+30 of such child pursuant to section 43-1311.02, by blood, marriage, or
+31 adoption or, in the case of an Indian child, is an extended family member
+-3-
+
+AM2454 AM2454
+LB937 LB937
+TTB - 03/06/2026 TTB - 03/06/2026
+1 as defined in section 43-1503;
+2 (o) (m) Report means any communication received by the department or
+3 a law enforcement agency pursuant to the Child Protection and Family
+4 Safety Act that describes child abuse or neglect and contains sufficient
+5 content to identify the child who is the alleged victim of child abuse or
+6 neglect;
+7 (p) (n) Review, Evaluate, and Decide Team means an internal team of
+8 staff within the department and shall include no fewer than two
+9 supervisors or administrators and two staff members knowledgeable on the
+10 policies and practices of the department, including, but not limited to,
+11 the structured review process. County attorneys, child advocacy centers,
+12 or law enforcement agency personnel may attend team reviews upon request
+13 of a party;
+14 (q) (o) School employee means a person nineteen years of age or
+15 older who is employed by a public, private, denominational, or parochial
+16 school approved or accredited by the State Department of Education;
+17 (r) (p) Student means a person less than nineteen years of age
+18 enrolled in or attending a public, private, denominational, or parochial
+19 school approved or accredited by the State Department of Education, or
+20 who was such a person enrolled in or who attended such a school within
+21 ninety days of any violation of section 28-316.01;
+22 (s) (q) Traditional response means an investigation by a law
+23 enforcement agency or the department pursuant to section 28-713 which
+24 requires a formal determination of whether child abuse or neglect has
+25 occurred; and
+26 (t) (r) Subject of the report of child abuse or neglect or subject
+27 of the report means the person or persons identified in the report as
+28 responsible for the child abuse or neglect.
+29 Sec. 2. (1) The subject of a substantiated report of child abuse or
+30 neglect shall not be permitted to transfer or otherwise disenroll a
+31 student for whom such subject is a parent, legal guardian, or educational
+-4-
+
+AM2454 AM2454
+LB937 LB937
+TTB - 03/06/2026 TTB - 03/06/2026
+1 decisionmaker from the student's current school until the filing of a
+2 petition under the Nebraska Juvenile Code or fourteen days after
+3 notification to the subject of the report pursuant to section 28-713.01,
+4 whichever occurs first.
+5 (2) For any substantiated report involving a subject who is a parent
+6 of a student, legal guardian of a student, or educational decisionmaker
+7 for a student, the department shall notify each such student's current
+8 school and the Commissioner of Education that such student shall not be
+9 transferred or otherwise disenrolled from such school by a parent, legal
+10 guardian, or educational decisionmaker until further notice and that any
+11 new election filed under section 79-1601 for such student to attend an
+12 exempt school shall be invalid until further notice.
+13 (3) If an election is filed under section 79-1601 in violation of
+14 this section or if such student's current school receives a request to
+15 transfer or disenroll such student, the Commissioner of Education or the
+16 school shall immediately notify the department of the filing or the
+17 request and that such notice is being given pursuant to this section.
+18 (4) Upon the filing of a petition under the Nebraska Juvenile Code
+19 or fourteen days after notification to the subject of the report pursuant
+20 to section 28-713.01, whichever occurs first, the department shall notify
+21 such student's current school and the Commissioner of Education that
+22 there is no longer a restriction under subsection (2) of this section.
+23 (5) Notices pursuant to this section are confidential investigation
+24 records and shall not contain any information other than the name of the
+25 student and whether or not to allow such student to transfer or otherwise
+26 disenroll from the school pursuant to this section.
+27 (6) The department may adopt and promulgate rules and regulations to
+28 carry out this section.
+29 Sec. 3. Section 79-209, Reissue Revised Statutes of Nebraska, is
+30 amended to read:
+31 79-209 (1) In all school districts in this state, any
+-5-
+
+AM2454 AM2454
+LB937 LB937
+TTB - 03/06/2026 TTB - 03/06/2026
+1 superintendent, principal, teacher, or member of the school board who
+2 knows of any violation of subsection (2) of section 79-201 shall within
+3 three days report such violation to the attendance officer of the school,
+4 who shall immediately investigate the case. When of his or her personal
+5 knowledge or by report or complaint from any resident of the district,
+6 the attendance officer believes that there is a violation of subsection
+7 (2) of section 79-201, the attendance officer shall immediately
+8 investigate such alleged violation.
+9 (2) All school boards shall have a written policy on attendance
+10 developed and annually reviewed in collaboration with the county attorney
+11 of the county in which the principal office of the school district is
+12 located. The policy shall include a provision indicating how the school
+13 district will handle cases in which excessive absences are due to
+14 illness. The policy shall also state the circumstances and number of
+15 absences or the hourly equivalent upon which the school shall render all
+16 services to address barriers to attendance. Such services shall be
+17 provided upon twenty days of absence, and shall include, but not be
+18 limited to:
+19 (a) Written communication by school officials with the person or
+20 persons who have legal or actual charge or control of any child; and
+21 (b) One or more meetings between, at a minimum, a school attendance
+22 officer, a school social worker, or a school administrator or his or her
+23 designee, the person who has legal or actual charge or control of the
+24 child, the person who is responsible for making educational decisions on
+25 behalf of the child if that person is someone other than the person who
+26 has legal or actual charge or control of the child, and the child, when
+27 appropriate, to address the barriers to attendance. The result of the
+28 meeting or meetings shall be to develop a collaborative plan to reduce
+29 barriers identified to improve regular attendance. The plan shall
+30 include, if agreed to by the person who is responsible for making
+31 educational decisions on behalf of the child, an educational evaluation
+-6-
+
+AM2454 AM2454
+LB937 LB937
+TTB - 03/06/2026 TTB - 03/06/2026
+1 to determine whether any intellectual, academic, physical, or social-
+2 emotional barriers are contributing factors to the lack of attendance.
+3 The plan shall also consider, but not be limited to:
+4 (i) The physical, mental, or behavioral health of the child;
+5 (ii) Educational counseling;
+6 (iii) Referral to community agencies for economic services;
+7 (iv) Family or individual counseling;
+8 (v) Assisting the family in working with other community services;
+9 and
+10 (vi) Referral to restorative justice practices or services.
+11 (3)(a) (3) The school may report to the county attorney of the
+12 county in which the person resides when the school has documented the
+13 efforts it has made as required by subsection (2) of this section that
+14 the collaborative plan to reduce barriers identified to improve regular
+15 attendance has not been successful and that the child has accrued twenty
+16 days or more of unexcused absences during the school year. The following
+17 shall not be considered unexcused absences:
+18 (i) Absences excused by a parent, guardian, or educational
+19 decisionmaker as defined in section 79-530 of the child for physical or
+20 mental illness and for which a note from a licensed physician, licensed
+21 physician assistant, or licensed mental health practitioner has been
+22 provided that supports such absence; or been absent more than twenty days
+23 per school year.
+24 (ii) Absences:
+25 (A) By pregnant or parenting students that are in accordance with a
+26 policy developed pursuant to section 79-2,151; or
+27 (B) By students (I) who have an individualized family service plan,
+28 (II) who have an individualized education program under the federal
+29 Individuals with Disabilities Education Act, 20 U.S.C. 1400 et seq.,
+30 (III) receiving special accommodations or services under section 504 of
+31 the federal Rehabilitation Act of 1973, 29 U.S.C. 794, (IV) receiving
+-7-
+
+AM2454 AM2454
+LB937 LB937
+TTB - 03/06/2026 TTB - 03/06/2026
+1 special education as defined in section 79-1125, or (V) who are eligible
+2 for services under the McKinney-Vento Homeless Assistance Act, 42 U.S.C.
+3 1141 et seq., specifically the Education for Homeless Children and Youth
+4 program, if such absences are related to any such plan, services, special
+5 education, or program.
+6 (b) The school shall notify the child's family in writing prior to
+7 referring the child to the county attorney. Failure by the school to
+8 document the efforts required by subsection (2) of this section is a
+9 defense to prosecution under section 79-201 and to adjudication under
+10 subdivision (3)(a) or (3)(b) of section 43-247 based upon such absences.
+11 Illness that makes attendance impossible or impracticable shall not be
+12 the basis for referral to the county attorney.
+13 (4) Nothing in this section shall preclude a county attorney from
+14 being involved at any stage in the process to address excessive
+15 absenteeism.
+16 Sec. 4. Section 79-239, Reissue Revised Statutes of Nebraska, is
+17 amended to read:
+18 79-239 (1) If an application is rejected by the option school
+19 district or if the resident school district rejects a request for release
+20 under subsection (1) of section 79-237, the rejecting school district
+21 shall provide written notification to the parent or guardian stating (a)
+22 the specific reasons for the rejection including, for students with an
+23 individualized education program under the federal Individuals with
+24 Disabilities Education Act, 20 U.S.C. 1400 et seq., or with a diagnosed
+25 disability as defined in section 79-1118.01, a description of services
+26 and accommodations required that the school district does not have the
+27 capacity to provide, and (b) the process for appealing such rejection to
+28 the State Board of Education. Such notification shall be sent by
+29 certified mail.
+30 (2) The parent or legal guardian may appeal a rejection to the State
+31 Board of Education by filing a written request, together with a copy of
+-8-
+
+AM2454 AM2454
+LB937 LB937
+TTB - 03/06/2026 TTB - 03/06/2026
+1 the rejection notice, with the State Board of Education. Such request and
+2 copy of the notice must be received by the board within thirty days after
+3 the date the notification of the rejection was received by the parent or
+4 legal guardian. Such hearing shall be held in accordance with the
+5 Administrative Procedure Act and shall determine whether the procedures
+6 of sections 79-234 to 79-241 have been followed. Any rejection based upon
+7 capacity limitations established under section 79-238 shall be the
+8 responsibility of the school district to prove in any appeal filed with
+9 the state board.
+10 (3)(a) As part of the end-of-the-school-year annual statistical
+11 summary required pursuant to section 79-528, Beginning July 1, 2024, and
+12 on or before July 1 of each year thereafter, each school district shall
+13 provide to the State Department of Education information prescribed by
+14 the Commissioner of Education relating to all applications received
+15 pursuant to section 79-237 rejected by the option school district. Such
+16 information shall include, but not be limited to, (a) the number of
+17 applications approved and the number of applications rejected by in each
+18 public school in such school district, (b) an explanation why each
+19 rejected application was rejected, (c) whether each application for
+20 option enrollment indicated that the student had an individualized
+21 education program under the federal Individuals with Disabilities
+22 Education Act, 20 U.S.C. 1400 et seq., or had been identified as a
+23 student with a disability as defined in section 79-1118.01, and (d) if
+24 the school district is in a learning community, whether information
+25 regarding the requirements of subsection (4) of section 79-238 was
+26 provided to the applicant.
+27 (b) The Commissioner of Education shall annually compile the
+28 information received pursuant to this subsection and provide a report on
+29 such information electronically to the Legislature beginning on September
+30 1, 2024, and on or before September 1 of each year thereafter. The State
+31 Board of Education may adopt and promulgate rules and regulations to
+-9-
+
+AM2454 AM2454
+LB937 LB937
+TTB - 03/06/2026 TTB - 03/06/2026
+1 carry out this subsection.
+2 Sec. 5. Section 79-2,136, Revised Statutes Supplement, 2025, is
+3 amended to read:
+4 79-2,136 (1) Each school board shall allow the part-time enrollment
+5 of students, for all courses selected by the students, who are residents
+6 of, or admitted to, the school district pursuant to subsection (1), (2),
+7 or (11) of section 79-215 and who are also enrolled in a private,
+8 denominational, or parochial school or in a school which elects pursuant
+9 to section 79-1601 not to meet accreditation or approval requirements and
+10 shall establish policies and procedures for such part-time enrollment.
+11 Such policies and procedures may include provisions permitting the part-
+12 time enrollment of such students who are not residents of, or admitted
+13 to, such school districts to the extent permitted pursuant to section
+14 79-215 and may require part-time students to follow school policies that
+15 apply to other students at any time the part-time student is present on
+16 school grounds or at a school-sponsored activity or athletic event. Part-
+17 time enrollment shall not entitle a student to transportation or
+18 transportation reimbursements pursuant to section 79-611.
+19 (2) Each school board shall establish policies and procedures to
+20 allow any student who is a resident of, or admitted to, the school
+21 district pursuant to subsection (1), (2), or (11) of section 79-215 and
+22 who is enrolled in a school which elects pursuant to section 79-1601 not
+23 to meet accreditation or approval requirements to participate in any
+24 extracurricular activities as defined in section 79-2,126, including, but
+25 not limited to, interschool competitions, to the same extent and subject
+26 to the same requirements, conditions, and procedures as a student
+27 enrolled in a public school governed by such board, except that any
+28 school which elects pursuant to section 79-1601 not to meet accreditation
+29 or approval requirements shall set the standards for satisfactory
+30 academic performance for a student from the school to participate in
+31 extracurricular activities pursuant to this subsection and shall provide
+-10-
+
+AM2454 AM2454
+LB937 LB937
+TTB - 03/06/2026 TTB - 03/06/2026
+1 assurances of compliance with such academic standards.
+2 (3) School board policies and procedures adopted pursuant to
+3 subsection (2) of this section:
+4 (a) Shall shall require any student desiring to participate in
+5 extracurricular activities regulated by an athletics or activities
+6 association to which such school is a member pursuant to such subsection
+7 to be enrolled in five credit hours offered by the school district in any
+8 semester in order to participate in such extracurricular activities, but
+9 may not prohibit a student from enrolling in more than five credit
+10 hours; ,
+11 (b) Shall require any student desiring to participate in an
+12 extracurricular activity that is governed by a national or state
+13 organization other than an athletics or activities association to be
+14 enrolled only in the minimum number of credit hours offered by the school
+15 district as required by such national or state organization in order to
+16 participate in such extracurricular activity, but may not prohibit a
+17 student from enrolling in more than such minimum credit hours;
+18 (c) Shall not require any student desiring to participate in an
+19 extracurricular activity that is not governed by a national or state
+20 organization or an athletics or activities association to be enrolled in
+21 any minimum number of credit hours offered by the school district in
+22 order to participate in such extracurricular activity;
+23 (d) Shall shall not allow any preference in the selection of a
+24 student for participation in an extracurricular activity based on such
+25 student's status as a full-time student in the school district; , and
+26 (e) May (c) may require any student participating in extracurricular
+27 activities pursuant to such subsection to follow school policies that
+28 apply to other students when present on school grounds or at a school-
+29 sponsored activity or athletic event.
+30 (4) Participation in extracurricular activities pursuant to
+31 subsection (2) of this section shall not entitle a student to
+-11-
+
+AM2454 AM2454
+LB937 LB937
+TTB - 03/06/2026 TTB - 03/06/2026
+1 transportation, except to and from practices and events to the same
+2 extent as public school students participating in such activities, or
+3 transportation reimbursement pursuant to section 79-611.
+4 (5) (4) Nothing in this section shall be construed to exempt any
+5 student from the compulsory attendance provisions of section 79-201 or
+6 any statutes relating to habitual truancy.
+7 Sec. 6. Section 79-308, Reissue Revised Statutes of Nebraska, is
+8 amended to read:
+9 79-308 (1) The Commissioner of Education shall organize institutes
+10 and conferences at such times and places as he or she deems practicable.
+11 He or she shall, as far as practicable, attend such institutes and
+12 conferences, provide proper instructors for the same, and in other ways
+13 seek to improve the efficiency of teachers and advance the cause of
+14 education in the state.
+15 (2) The Legislature finds that (a) an educator-effectiveness system
+16 includes a quality evaluation system with the primary goal of improving
+17 instruction and learning in every school district and (b) school
+18 districts have an opportunity to receive training on the quality
+19 evaluation models.
+20 (3) Beginning with the 2016-17 school year through the 2020-21
+21 school year, school districts may apply to the State Department of
+22 Education for grant funding for a period of up to two years to implement
+23 an evaluation model for effective educators and to obtain the necessary
+24 training for administrators and teachers for such model.
+25 Sec. 7. Section 79-528, Reissue Revised Statutes of Nebraska, is
+26 amended to read:
+27 79-528 (1)(a) On or before October 15 July 20 in all school
+28 districts, the superintendent shall file with the State Department of
+29 Education a report showing the number of children from five through
+30 eighteen years of age belonging to the school district according to the
+31 census taken as provided in sections 79-524 and 79-578.
+-12-
+
+AM2454 AM2454
+LB937 LB937
+TTB - 03/06/2026 TTB - 03/06/2026
+1 (b) The board of any district neglecting to take and report the
+2 enumeration shall be liable to the school district for all school money
+3 which such district may lose by such neglect.
+4 (2) On or before June 30 the superintendent of each school district
+5 shall file with the Commissioner of Education a report described as an
+6 end-of-the-school-year annual statistical summary showing (a) the number
+7 of children attending school during the year under five years of age, (b)
+8 the length of time the school has been taught during the year by a
+9 qualified teacher, (c) the length of time taught by each substitute
+10 teacher, (d) information regarding option enrollment applications as
+11 required under subdivision (3)(a) of section 79-239, and (e) (d) such
+12 other information as the Commissioner of Education directs.
+13 (3) On or before November 1 the superintendent of each school
+14 district shall submit to the Commissioner of Education a report described
+15 as the annual financial report showing (a) (i) the amount of money
+16 received from all sources during the year and the amount of money
+17 expended by the school district during the year, (b) (ii) the amount of
+18 bonded indebtedness, (c) (iii) such other information as shall be
+19 necessary to fulfill the requirements of the Tax Equity and Educational
+20 Opportunities Support Act and section 79-1114, and (d) (iv) such other
+21 information as the Commissioner of Education directs.
+22 (4)(a) On or before October 15 of each year, the superintendent of
+23 each school district shall file with the commissioner the fall school
+24 district membership report, which report shall include the number of
+25 children from birth through twenty years of age enrolled in the district
+26 on October 1 of a given school year. The report shall enumerate (i)
+27 students by grade level, (ii) school district levies and total assessed
+28 valuation for the current fiscal year, (iii) students enrolled in the
+29 district as option students, resident students enrolled in another
+30 district as option students, students enrolled in the district as open
+31 enrollment students, and resident students enrolled in another district
+-13-
+
+AM2454 AM2454
+LB937 LB937
+TTB - 03/06/2026 TTB - 03/06/2026
+1 as open enrollment students, and (iv) such other information as the
+2 Commissioner of Education directs.
+3 (b) On or before October 15 of each year prior to 2017, each
+4 learning community coordinating council shall issue to the department a
+5 report which enumerates the learning community levies pursuant to
+6 subdivision (2)(b) of section 77-3442 and total assessed valuation for
+7 the current fiscal year.
+8 (b) (c) When any school district fails to submit its fall membership
+9 report by November 1, the commissioner shall, after notice to the
+10 district and an opportunity to be heard, direct that any state aid
+11 granted pursuant to the Tax Equity and Educational Opportunities Support
+12 Act be withheld until such time as the report is received by the
+13 department. In addition, the commissioner shall direct the county
+14 treasurer to withhold all school money belonging to the school district
+15 until such time as the commissioner notifies the county treasurer of
+16 receipt of such report. The county treasurer shall withhold such money.
+17 Sec. 8. (1) For purposes of this section:
+18 (a) Child abuse means an offense committed under section 28-707; and
+19 (b) Sexual misconduct means any verbal, nonverbal, written, or
+20 electronic communication, or any other act directed toward or with a
+21 student that is designed to establish a sexual relationship with the
+22 student, including a sexual invitation, dating or soliciting a date,
+23 engaging in sexual dialogue, making sexually suggestive comments, self-
+24 disclosure or physical exposure of a sexual or erotic nature, and any
+25 other sexual, indecent, or erotic contact with a student. Sexual
+26 misconduct includes sexual abuse by a school worker pursuant to section
+27 28-316.01 or violations of a policy adopted pursuant to section 79-879
+28 relating to relationships with students.
+29 (2) No school board of a school district or governing authority of
+30 an approved or accredited private, denominational, or parochial school
+31 shall employ or contract for the paid services of any person to serve in
+-14-
+
+AM2454 AM2454
+LB937 LB937
+TTB - 03/06/2026 TTB - 03/06/2026
+1 a position which involves regular contact with students unless the school
+2 board or governing authority, in addition to any other requirements:
+3 (a) Requires the applicant to provide:
+4 (i) A list, including name, address, telephone number, and other
+5 relevant contact information for:
+6 (A) The applicant's current employer at the time of the application,
+7 if any;
+8 (B) All former schools that such applicant was employed by within
+9 the seven years preceding such application; and
+10 (C) All former employers that the applicant was employed by within
+11 the seven years preceding such application that involved direct contact
+12 with children;
+13 (ii) A written authorization for the release and disclosure of any
+14 records related to the information requested under subdivision (2)(a)(i)
+15 of this section by the applicant's employers listed under such
+16 subdivision to the school district or school. Such written authorization
+17 shall also release employers from liability that may arise from the
+18 disclosure or release of such records; and
+19 (iii) A written statement as to whether the applicant:
+20 (A) Has been the subject of a report of child abuse, unless the
+21 investigation resulted in a finding that the allegations were false or
+22 the alleged incident of child abuse or neglect was not substantiated;
+23 (B) Has ever been disciplined, discharged, nonrenewed, asked to
+24 resign from employment, or resigned from or otherwise separated from any
+25 employment while allegations of child abuse or neglect or sexual
+26 misconduct were pending or under investigation, or due to an adjudication
+27 or finding of child abuse or neglect or sexual misconduct; or
+28 (C) Has ever had a license, professional license, or certificate
+29 suspended, surrendered, or revoked while allegations of child abuse or
+30 neglect or sexual misconduct were pending or under investigation, or due
+31 to an adjudication or finding of child abuse or neglect or sexual
+-15-
+
+AM2454 AM2454
+LB937 LB937
+TTB - 03/06/2026 TTB - 03/06/2026
+1 misconduct; and
+2 (b) Conducts a review of the employment history of the applicant by
+3 contacting the employers listed by the applicant under subdivision (2)(a)
+4 of this section and requesting the following information:
+5 (i) The dates of employment of the applicant; and
+6 (ii) A statement as to whether, to the extent the employer has
+7 knowledge, the applicant:
+8 (A) Has been the subject of a report of child abuse, unless the
+9 investigation resulted in a finding that the allegations were false or
+10 the alleged incident of child abuse or neglect was not substantiated;
+11 (B) Has ever been disciplined, discharged, nonrenewed, asked to
+12 resign from employment, or resigned from or otherwise separated from any
+13 employment while allegations of child abuse or neglect or sexual
+14 misconduct were pending or under investigation, or due to an adjudication
+15 or finding of child abuse or neglect or sexual misconduct; or
+16 (C) Has ever had a license, professional license, or certificate
+17 suspended, surrendered, or revoked while allegations of child abuse or
+18 neglect or sexual misconduct were pending or under investigation, or due
+19 to an adjudication or finding of child abuse or neglect or sexual
+20 misconduct.
+21 (3) The review of an applicant's employment history and background
+22 information as provided pursuant to this section may be conducted through
+23 telephonic, electronic, or written communications. If the review is
+24 conducted by telephone, the results of the review shall be documented in
+25 writing by the prospective employer.
+26 (4)(a) An applicant who willfully provides false information or
+27 willfully fails to disclose information required in subdivision (2)(a) of
+28 this section shall be subject to discipline up to, and including, (i)
+29 termination or denial of employment, (ii) reporting to the state agency
+30 or other entity with authority to revoke any relevant certificate or
+31 license, or (iii) being subject to a civil penalty of not more than five
+-16-
+
+AM2454 AM2454
+LB937 LB937
+TTB - 03/06/2026 TTB - 03/06/2026
+1 hundred dollars. Any penalty collected pursuant to this subsection shall
+2 be distributed pursuant to Article VII, section 5, of the Constitution of
+3 Nebraska.
+4 (b) The school board or the governing authority of an approved or
+5 accredited private, denominational, or parochial school shall include a
+6 notification of the penalties set forth in this section on all
+7 applications for employment for positions which involve regular contact
+8 with students.
+9 (c) The school board or the governing authority of an approved or
+10 accredited private, denominational, or parochial school shall have the
+11 right to immediately terminate an individual's employment or rescind an
+12 offer of employment if:
+13 (i) The applicant is offered employment or commences employment or
+14 contracted services with the school following the effective date of this
+15 act;
+16 (ii) Information regarding the applicant's history of child abuse or
+17 sexual misconduct is subsequently discovered or obtained by the employer
+18 that the employer determines disqualifies the applicant or employee from
+19 employment with the school; and
+20 (iii) The termination of employment pursuant to this subdivision (4)
+21 (c) shall not be subject to any grievance or appeals procedures or tenure
+22 proceedings pursuant to any collective bargaining or negotiated
+23 agreement.
+24 (5) After reviewing the information disclosed under subdivision (2)
+25 (a) of this section and finding an affirmative response to any of the
+26 inquiries in subdivision (2)(a)(iii) of this section, the school board or
+27 board of education, prior to determining to continue with the applicant's
+28 job application process, shall make further inquiries of the applicant's
+29 current or former employer to ascertain additional details regarding the
+30 matter disclosed.
+31 (6) A school board or a governing authority of an approved or
+-17-
+
+AM2454 AM2454
+LB937 LB937
+TTB - 03/06/2026 TTB - 03/06/2026
+1 accredited private, denominational, or parochial school may employ or
+2 contract with an applicant on a provisional basis for a period not to
+3 exceed ninety days pending review by the school board or the governing
+4 authority of information received pursuant to subsection (2) of this
+5 section, provided that all of the following conditions are satisfied:
+6 (a) The applicant has complied with subsection (2) of this section;
+7 (b) The school board or the governing authority has no knowledge or
+8 information pertaining to the applicant that the applicant is required to
+9 disclose pursuant to subdivision (2)(a)(iii) of this section; and
+10 (c) The school board or the governing authority determines that
+11 special or emergent circumstances exist that justify the temporary
+12 employment of the applicant.
+13 (7) Information received by a school board or a governing authority
+14 under this section shall not be considered a public record subject to
+15 disclosure pursuant to sections 84-712 to 84-712.09.
+16 (8)(a) A school board or a governing authority that receives a
+17 request for information or records regarding an applicant pursuant to and
+18 in accordance with this section from another school board or board of
+19 education shall provide such information and respond to such inquiries as
+20 soon as practicable.
+21 (b) An employer that provides information or records about a current
+22 or former employee or applicant shall be immune from criminal and civil
+23 liability for the disclosure of the information, unless the information
+24 or any record provided was knowingly false. The immunity shall be in
+25 addition to and not in limitation of any other immunity provided by law.
+26 (9)(a) On or after the effective date of this act, a school board or
+27 a governing authority of an approved or accredited public, private,
+28 denominational, or parochial school may not enter into an agreement, an
+29 employment contract, an agreement for resignation or termination, a
+30 severance agreement, or any other contract or agreement or take any
+31 action that:
+-18-
+
+AM2454 AM2454
+LB937 LB937
+TTB - 03/06/2026 TTB - 03/06/2026
+1 (i) Has the effect of suppressing or destroying information relating
+2 to an investigation related to a report of suspected child abuse or
+3 sexual misconduct by a current or former employee;
+4 (ii) Affects the ability of the school board or the governing
+5 authority to report suspected child abuse or sexual misconduct to the
+6 appropriate authorities; or
+7 (iii) Requires the school board or the governing authority to
+8 expunge information about allegations or findings of suspected child
+9 abuse or sexual misconduct from any documents maintained by the school
+10 unless, after investigation, the allegations are found to be false or the
+11 alleged incident of child abuse or sexual misconduct has not been
+12 substantiated.
+13 (b) Any provision of an employment contract or agreement for
+14 resignation or termination or a severance agreement that is entered into,
+15 amended, or renewed after the effective date of this act and that is
+16 contrary to this section shall be void and unenforceable.
+17 (10) The State Department of Education shall establish a public
+18 awareness campaign to publicize the provisions of this section and to
+19 ensure applicants and employers are aware of their respective rights and
+20 responsibilities under this section. The department shall post on its
+21 website guidance documents and any other informational materials that may
+22 assist applicants and employers in the implementation of and compliance
+23 with this section.
+24 Sec. 9. Section 79-816, Reissue Revised Statutes of Nebraska, is
+25 amended to read:
+26 79-816 (1) The State Department of Education shall create and
+27 administer the Nebraska Teacher Apprenticeship Program. The purpose of
+28 the program is to help recruit and increase the number of teachers
+29 throughout the state by utilizing an apprenticeship model for training.
+30 The program shall provide for an applicant who successfully completes the
+31 program to obtain a certificate or permit issued by the Commissioner of
+-19-
+
+AM2454 AM2454
+LB937 LB937
+TTB - 03/06/2026 TTB - 03/06/2026
+1 Education. The department may work with standard institutions of higher
+2 education as defined in section 79-807, the Department of Labor, and
+3 other entities the State Department of Education deems necessary to
+4 develop and implement the program.
+5 (2) An individual may apply for participation in the program if the
+6 individual (a) is an employee of a school approved or accredited by the
+7 State Department of Education or (b) has a contract to begin working for
+8 a school approved or accredited by the State Department of Education at
+9 the start of the school year for which the individual is applying for
+10 participation in the program.
+11 (3) The department shall determine requirements for completion of
+12 the program by an applicant. The requirements shall include, but need not
+13 be limited to:
+14 (a) The completion of a one-year apprenticeship in a classroom;
+15 (b) A baccalaureate degree from a standard institution of higher
+16 education; and
+17 (c) Successful completion of a subject area examination as
+18 determined by the Commissioner of Education and pedagogy examination
+19 created by the department as part of the program.
+20 (4) The Commissioner of Education shall issue a certificate to teach
+21 as set forth pursuant to the rules and regulations adopted and
+22 promulgated pursuant to sections 79-806 to 79-815 to an applicant who
+23 successfully completes the program.
+24 (5) It is the intent of the Legislature to appropriate one million
+25 dollars for fiscal year 2023-24 and each fiscal year thereafter from the
+26 Education Future Fund to the State Department of Education for the
+27 program.
+28 Sec. 10. Section 79-8,113, Reissue Revised Statutes of Nebraska, is
+29 amended to read:
+30 79-8,113 For purposes of the Nebraska Teacher Recruitment and
+31 Retention Act:
+-20-
+
+AM2454 AM2454
+LB937 LB937
+TTB - 03/06/2026 TTB - 03/06/2026
+1 (1) Department means the State Department of Education;
+2 (2) Dual enrollment means a course taught to students for credit at
+3 both a high school and a postsecondary institution;
+4 (3) (2) Grant means a grant for teacher recruitment and retention
+5 payments under the Nebraska Teacher Recruitment and Retention Act; and
+6 (4) (3) Teacher means a person who holds a valid certificate to
+7 teach in Nebraska issued by the Commissioner of Education and is employed
+8 in Nebraska for the instruction of students in elementary or high school
+9 grades.
+10 Sec. 11. Section 79-8,114, Reissue Revised Statutes of Nebraska, is
+11 amended to read:
+12 79-8,114 (1) A teacher may apply to the department for a grant. The
+13 department shall not prioritize a grant based upon the school where the
+14 applicant teaches.
+15 (2) A teacher is eligible to apply for:
+16 (a) A retention one grant of two thousand five hundred dollars if
+17 the teacher has signed a contract to complete such teacher's second
+18 complete school year of full-time employment as a teacher at a Nebraska
+19 school in school year 2023-24, 2024-25, 2025-26, or 2026-27;
+20 (b) A retention two grant of two thousand five hundred dollars if
+21 the teacher has signed a contract to complete such teacher's fourth
+22 complete school year of full-time employment as a teacher at a Nebraska
+23 school in school year 2023-24, 2024-25, 2025-26, or 2026-27;
+24 (c) A retention three grant of two thousand five hundred dollars if
+25 the teacher has signed a contract to complete such teacher's sixth
+26 complete school year of full-time employment as a teacher at a Nebraska
+27 school in school year 2023-24, 2024-25, 2025-26, or 2026-27; and
+28 (d)(i) A high-need retention grant of five thousand dollars if on or
+29 after June 2, 2023, a teacher:
+30 (A) Obtains an endorsement in special education, mathematics,
+31 science, or technology , or dual credit; and (B)(I) For an application
+-21-
+
+AM2454 AM2454
+LB937 LB937
+TTB - 03/06/2026 TTB - 03/06/2026
+1 submitted prior to April 17, 2024, signs a contract to complete a school
+2 year of full-time employment as a teacher at a Nebraska school in school
+3 year 2024-25, 2025-26, or 2026-27; or (II) For an application submitted
+4 on or after April 17, 2024, signs a contract to complete a school year of
+5 full-time employment as a teacher to teach in such endorsement area at a
+6 Nebraska school in school year 2024-25, 2025-26, or 2026-27; or .
+7 (B) Signs a contract to complete a school year of full-time
+8 employment as a teacher at a Nebraska school in school year 2026-27 and
+9 teaches at least one dual enrollment course during such school year.
+10 (ii) A teacher shall only be eligible to receive one high-need
+11 retention grant.
+12 Sec. 12. Section 79-1035, Reissue Revised Statutes of Nebraska, is
+13 amended to read:
+14 79-1035 (1) (1)(a) The State Treasurer shall, on or before January
+15 25 of each year, make a complete exhibit of all money belonging to the
+16 permanent school fund and the temporary school fund as returned to him or
+17 her from the several counties, together with the amount derived from
+18 other sources, and deliver such exhibit duly certified to the
+19 Commissioner of Education and the chairperson of the Education Committee
+20 of the Legislature.
+21 (b) Through 2021, the exhibit required in subdivision (1)(a) of this
+22 section shall include a separate accounting, not to exceed an amount of
+23 ten million dollars, of the income from solar and wind agreements on
+24 school lands. The amount of income from solar and wind agreements on
+25 school lands shall be used to fund the grants described in section
+26 79-308. The Board of Educational Lands and Funds shall provide the State
+27 Treasurer with the information necessary to make the exhibit required by
+28 this subsection. Separate accounting shall not be made for income from
+29 solar or wind agreements on school lands that exceeds the sum of ten
+30 million dollars.
+31 (2) On or before February 25 following receipt of the exhibit from
+-22-
+
+AM2454 AM2454
+LB937 LB937
+TTB - 03/06/2026 TTB - 03/06/2026
+1 the State Treasurer pursuant to subsection (1) of this section, the
+2 Commissioner of Education shall make the apportionment of the temporary
+3 school fund to each school district as follows: From the whole amount,
+4 there shall be paid to those districts in which there are school or
+5 saline lands, which lands are used for a public purpose, an amount in
+6 lieu of tax money that would be raised if such lands were taxable, to be
+7 fixed in the manner prescribed in section 79-1036; and the remainder
+8 shall be apportioned to the districts according to the pro rata
+9 enumeration of children who are five through eighteen years of age in
+10 each district last returned from the school district. The calculation of
+11 apportionment for each school fiscal year shall include any corrections
+12 to the prior school fiscal year's apportionment.
+13 (3) The Commissioner of Education shall certify the amount of the
+14 apportionment of the temporary school fund as provided in subsection (2)
+15 of this section to the Director of Administrative Services. The Director
+16 of Administrative Services shall issue payments to the various districts
+17 for the respective amounts so certified by the Commissioner of Education.
+18 (4) For purposes of this section, agreement means any lease,
+19 easement, covenant, or other such contractual arrangement.
+20 Sec. 13. Section 79-1601, Reissue Revised Statutes of Nebraska, is
+21 amended to read:
+22 79-1601 (1) Except as provided in subsections (2) through (6) of
+23 this section, all private, denominational, and parochial schools in the
+24 State of Nebraska and all teachers employed or giving instruction in such
+25 schools shall be subject to and governed by the provisions of the general
+26 school laws of the state so far as the same apply to grades,
+27 qualifications, and certification of teachers and promotion of students.
+28 All private, denominational, and parochial schools shall have adequate
+29 equipment and supplies, shall be graded the same, and shall have courses
+30 of study for each grade conducted in such schools substantially the same
+31 as those given in the public schools which the students would attend in
+-23-
+
+AM2454 AM2454
+LB937 LB937
+TTB - 03/06/2026 TTB - 03/06/2026
+1 the absence of such private, denominational, or parochial schools.
+2 (2) All private, denominational, or parochial schools shall either
+3 comply with the accreditation or approval requirements as prescribed
+4 pursuant to section 79-318 or, for those schools which elect not to meet
+5 accreditation or approval requirements, the requirements prescribed in
+6 subsections (2) through (6) of this section. Standards and procedures for
+7 approval and accreditation shall be based upon the program of studies,
+8 guidance services, the number and preparation of teachers in relation to
+9 the curriculum and enrollment, instructional materials and equipment,
+10 science facilities and equipment, library facilities and materials, and
+11 health and safety factors in buildings and grounds. Rules and regulations
+12 governing procedures for private, denominational, and parochial schools
+13 which elect, pursuant to the procedures prescribed in subsections (2)
+14 through (6) of this section, not to meet state accreditation or approval
+15 requirements shall be based upon an assurance that such schools offer a
+16 program of instruction leading to the acquisition of basic skills in the
+17 language arts, mathematics, science, social studies, and health. The
+18 assurance required pursuant to this subsection shall be satisfied by a
+19 signed statement by the parent, legal guardian, or educational
+20 decisionmaker of a student that the education provided complies with
+21 subsections (2) through (6) of this section. Rules and regulations which
+22 govern procedures under this section are limited to procedures for
+23 receiving information from a parent, legal guardian, or educational
+24 decisionmaker of a student or a parent representative when such
+25 individual files the election not to meet accreditation or approval
+26 requirements under this section and procedures for carrying out section 2
+27 of this act.
+28 (3) The provisions of subsections (3) through (6) of this section
+29 shall apply to any private, denominational, or parochial school in the
+30 State of Nebraska which elects not to meet state accreditation or
+31 approval requirements. Except as provided in section 2 of this act, an An
+-24-
+
+AM2454 AM2454
+LB937 LB937
+TTB - 03/06/2026 TTB - 03/06/2026
+1 election pursuant to such subsections shall be effective when a statement
+2 is received by the Commissioner of Education signed by a parent, legal
+3 guardian, or educational decisionmaker of each student attending such
+4 private, denominational, or parochial school, stating that (a) either
+5 specifically (i) the requirements for approval and accreditation required
+6 by law and the rules and regulations adopted and promulgated by the State
+7 Board of Education violate sincerely held religious beliefs of the
+8 parent, legal guardian, or educational decisionmaker or (ii) the
+9 requirements for approval and accreditation required by law and the rules
+10 and regulations adopted and promulgated by the State Board of Education
+11 interfere with the decisions of the parent, legal guardian, or
+12 educational decisionmaker in directing the student's education, (b) an
+13 authorized representative of such parent, legal guardian, or educational
+14 decisionmaker will annually submit to the Commissioner of Education an
+15 assurance that the requirements of subdivisions (4)(a) through (c) of
+16 this section are and will continue to be satisfied, (c) the school offers
+17 the courses of instruction required by subsections (2), (3), and (4) of
+18 this section, and (d) the parent, legal guardian, or educational
+19 decisionmaker is satisfied that individuals monitoring instruction at
+20 such school are qualified to monitor instruction in the basic skills as
+21 required by subsections (2), (3), and (4), and (5) of this section.
+22 (4) Each such private, denominational, or parochial school shall (a)
+23 meet minimum requirements relating to health, fire, and safety standards
+24 prescribed by state law and the rules and regulations of the State Fire
+25 Marshal, (b) report attendance pursuant to section 79-201, (c) maintain a
+26 sequential program of instruction designed to lead to basic skills in the
+27 language arts, mathematics, science, social studies, and health, and (d)
+28 comply with the immunization requirements in section 79-217 if the
+29 statement signed by the parent, legal guardian, or educational
+30 decisionmaker indicates a nonreligious reason pursuant to subdivision (3)
+31 (a)(ii) of this section for the student attending a private,
+-25-
+
+AM2454 AM2454
+LB937 LB937
+TTB - 03/06/2026 TTB - 03/06/2026
+1 denominational, or parochial school which elects not to meet state
+2 accreditation or approval requirements. The State Board of Education
+3 shall establish procedures for receiving information and reports required
+4 by subsections (3) through (6) of this section from authorized parent
+5 representatives who may act as agents for the parent, legal guardian, or
+6 educational decisionmaker of a student attending such schools.
+7 (5)(a) (5) Individuals employed or utilized by schools which elect
+8 not to meet state accreditation or approval requirements shall not be
+9 required to meet the certification requirements prescribed in sections
+10 79-801 to 79-815.
+11 (b) Individuals monitoring or providing instruction at a school
+12 which elects not to meet state accreditation or approval requirements
+13 shall not have been convicted of any felony offense under sections 28-319
+14 to 28-322.05 or section 28-316.01, 28-323, 28-703, or 28-707.
+15 (6) Any school which elects not to meet state accreditation or
+16 approval requirements and does not meet the requirements of subsections
+17 (2) through (6) of this section shall not be deemed a school, and the
+18 parent, legal guardian, or educational decisionmaker of any students
+19 attending such school shall be subject to prosecution pursuant to section
+20 79-201 or any statutes relating to habitual truancy.
+21 (7) For purposes of this section, educational decisionmaker means a
+22 person designated or ordered by a court to make educational decisions on
+23 behalf of a child.
+24 Sec. 14. Section 79-3407, Reissue Revised Statutes of Nebraska, is
+25 amended to read:
+26 79-3407 The department shall prepare documents to be submitted by
+27 school districts to aid the department in calculating each school
+28 district's property tax request authority and unused property tax request
+29 authority. Each school district shall submit such documents to the
+30 department on or before October 15 September 30 of each year. If a school
+31 district fails to submit such documents to the department or if the
+-26-
+
+AM2454 AM2454
+LB937 LB937
+TTB - 03/06/2026 TTB - 03/06/2026
+1 department determines from such documents that a school district is not
+2 complying with the limits provided in the School District Property Tax
+3 Limitation Act, the department shall notify the school district of its
+4 determination. The Commissioner of Education shall then direct that any
+5 state aid granted pursuant to the Tax Equity and Educational
+6 Opportunities Support Act be withheld until such time as the school
+7 district submits the required documents or complies with the School
+8 District Property Tax Limitation Act. The state aid shall be held for six
+9 months. If the school district complies within the six-month period, it
+10 shall receive the suspended state aid. If the school district fails to
+11 comply within the six-month period, the suspended state aid shall revert
+12 to the General Fund.
+13 Sec. 15. Section 79-3703, Reissue Revised Statutes of Nebraska, is
+14 amended to read:
+15 79-3703 (1) The State Department of Education shall develop and
+16 administer the College Pathway Program to provide funds grants on or
+17 after July 1, 2024, to eligible providers to provide services in
+18 accordance with subsection (2) of this section to underrepresented and
+19 low-income students in high school and postsecondary education.
+20 (2) A provider is eligible for funding a grant pursuant to the
+21 College Pathway Program Act if the provider offers, exclusively to
+22 underrepresented and low-income students, educational services that
+23 provide materials, services, and supports to help a student graduate from
+24 high school, apply for admission to a postsecondary institution, and
+25 complete the requirements to receive an associate degree or a
+26 baccalaureate degree. Such educational services may include:
+27 (a) Assistance and tutorials which help students in completing
+28 applications for a college or university, including applying for aid
+29 through the Free Application for Federal Student Aid or other
+30 scholarships;
+31 (b) Assistance and materials which help students take the
+-27-
+
+AM2454 AM2454
+LB937 LB937
+TTB - 03/06/2026 TTB - 03/06/2026
+1 appropriate high school classes in an area or field of study a student is
+2 interested in and any classes necessary for a student to gain acceptance
+3 at a postsecondary institution or complete the requirements and take the
+4 appropriate postsecondary education classes to receive an associate
+5 degree or a baccalaureate degree; and
+6 (c) Any other services specified pursuant to rules and regulations
+7 adopted and promulgated by the State Board of Education.
+8 (3) Eligible providers may apply to the State Department of
+9 Education for funding a grant in a manner prescribed by the Commissioner
+10 of Education.
+11 Sec. 16. Section 79-3704, Reissue Revised Statutes of Nebraska, is
+12 amended to read:
+13 79-3704 (1) On or before December 1, 2024, and each December 1
+14 thereafter, the State Department of Education shall electronically submit
+15 a report to the Clerk of the Legislature regarding the College Pathway
+16 Program Act, including, but not limited to, the recipients of funding
+17 grants and evaluations of the effectiveness of the grant program.
+18 (2) The State Board of Education may adopt and promulgate rules and
+19 regulations to carry out the College Pathway Program Act.
+20 Sec. 17. Sections 17 to 22 of this act shall be known and may be
+21 cited as the Prior Learning Act.
+22 Sec. 18. For purposes of the Prior Learning Act:
+23 (1) Commission means the Coordinating Commission for Postsecondary
+24 Education;
+25 (2) Cut score means the minimum score an individual is required to
+26 achieve on a prior learning examination to receive postsecondary credit
+27 from a Nebraska public postsecondary institution;
+28 (3) Nebraska public postsecondary institution has the same meaning
+29 as in section 85-2403; and
+30 (4) Prior learning examination means a postsecondary level
+31 examination approved by the commission pursuant to section 19 of this act
+-28-
+
+AM2454 AM2454
+LB937 LB937
+TTB - 03/06/2026 TTB - 03/06/2026
+1 to assess whether a student, prior to taking a postsecondary course, has
+2 already obtained knowledge and skills at a level substantially similar to
+3 what is expected from a student who has successfully completed a
+4 postsecondary course on the same subject.
+5 Sec. 19. (1) On or before September 1, 2026, the commission shall,
+6 in consultation with Nebraska public postsecondary institutions, approve
+7 a list of prior learning examinations and the cut score for each such
+8 examination. The list shall include commonly recognized prior learning
+9 examinations, including, but not limited to:
+10 (a) Prior learning examinations that are associated with
+11 participation in high school courses specifically designed to prepare
+12 students for such examinations;
+13 (b) Prior learning examinations that are associated with
+14 participation in high school courses using international curriculum
+15 frameworks;
+16 (c) Prior learning examinations that are not associated with high
+17 school courses endorsed by the provider of the prior learning
+18 examination; and
+19 (d) Prior learning examinations that assess and certify foundational
+20 workplace skills and are not associated with a specific high school
+21 course.
+22 (2) The commission shall, in consultation with Nebraska public
+23 postsecondary institutions, set cut scores in a manner consistent with
+24 national practices and shall utilize recommendations for such cut scores
+25 contained in any comprehensive guide maintained by a national
+26 organization recognized for expertise on the topic of appropriate cut
+27 scores for prior learning examinations in the context of awarding
+28 postsecondary academic credit.
+29 (3) The commission shall, in consultation with Nebraska public
+30 postsecondary institutions, update the list of prior learning
+31 examinations and cut scores as necessary to provide options for students
+-29-
+
+AM2454 AM2454
+LB937 LB937
+TTB - 03/06/2026 TTB - 03/06/2026
+1 while maintaining the academic integrity of such institutions.
+2 (4) The commission shall post and maintain the list of prior
+3 learning examinations and cut scores on the commission's website in a
+4 location accessible to prospective postsecondary students and families.
+5 Sec. 20. (1) On or before October 1, 2026, each Nebraska public
+6 postsecondary institution shall develop and implement written policies
+7 and procedures for awarding academic credit based on prior learning
+8 examinations. The policies and procedures shall:
+9 (a) Except as otherwise provided in this section, award academic
+10 credit to students for each distinct prior learning examination for which
+11 the student met or exceeded the cut score;
+12 (b) Prioritize application of credit toward courses that meet
+13 general education, major, or degree requirements over application of
+14 credit towards courses that are elective for the student;
+15 (c) Establish the process through which credits awarded under this
+16 section shall be recorded on transcripts and transferred to other
+17 Nebraska public postsecondary institutions; and
+18 (d) Ensure that policies and procedures are publicly posted on the
+19 institution's website in a location accessible to prospective students
+20 and families.
+21 (2) With approval from the commission, a Nebraska public
+22 postsecondary institution may require a higher minimum score than the cut
+23 score approved by the commission pursuant to section 19 of this act if
+24 the chief academic officer of such institution determines, based on
+25 evidence of student performance or course success rates, that a higher
+26 score is necessary for success in a specific course or sequence. Such
+27 justification shall be documented and submitted to the commission as part
+28 of the request for commission approval of the higher minimum score.
+29 (3) On or before October 15, 2026, each Nebraska public
+30 postsecondary institution shall submit its policies and procedures
+31 adopted under this section to the commission. The commission shall
+-30-
+
+AM2454 AM2454
+LB937 LB937
+TTB - 03/06/2026 TTB - 03/06/2026
+1 compile all such policies and procedures and post a statewide summary on
+2 the commission's website, including the justification for any higher
+3 minimum score requirements approved by the commission pursuant to
+4 subsection (2) of this section.
+5 Sec. 21. (1) On or before December 31, 2027, and on or before
+6 December 31 of each year thereafter, each Nebraska public postsecondary
+7 institution shall submit an annual report to the commission including:
+8 (a) The number of students awarded academic credit based on prior
+9 learning examinations during the preceding academic year;
+10 (b) The total number of academic credits awarded based on prior
+11 learning examinations;
+12 (c) For students who graduate from the institution, the number of
+13 such credits applied toward:
+14 (i) General education;
+15 (ii) Major or degree program requirements; and
+16 (iii) Elective credit; and
+17 (d) Any additional information the commission determines necessary
+18 to assess the implementation and impact of this act.
+19 (2) The Commission shall annually compile the reports received under
+20 this section and electronically submit a summary to the Education
+21 Committee of the Legislature and make such summary publicly available on
+22 the commission's website.
+23 Sec. 22. The commission may adopt and promulgate rules and
+24 regulations as necessary to carry out the Prior Learning Act.
+25 Sec. 23. Original sections 79-209, 79-239, 79-308, 79-528, 79-816,
+26 79-8,113, 79-8,114, 79-1035, 79-1601, 79-3407, 79-3703, and 79-3704,
+27 Reissue Revised Statutes of Nebraska, and sections 28-710 and 79-2,136,
+28 Revised Statutes Supplement, 2025, are repealed.
+29 Sec. 24. The following sections are outright repealed: Sections
+30 79-309.01 and 79-718, Reissue Revised Statutes of Nebraska.
+-31-

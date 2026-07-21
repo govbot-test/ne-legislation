@@ -1,0 +1,915 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LB987 LB987
+2026 2026
+LEGISLATURE OF NEBRASKA
+ONE HUNDRED NINTH LEGISLATURE
+SECOND SESSION
+LEGISLATIVE BILL 987
+Introduced by Lonowski, 33.
+Read first time January 12, 2026
+Committee: Banking, Commerce and Insurance
+1 A BILL FOR AN ACT relating to insurance; to adopt the Vision Benefit Plan
+2 Act; to provide an operative date; to provide severability; and to
+3 declare an emergency.
+4 Be it enacted by the people of the State of Nebraska,
+-1-
+
+LB987 LB987
+2026 2026
+1 Section 1. Sections 1 to 14 of this act shall be known and may be
+2 cited as the Vision Benefit Plan Act.
+3 Sec. 2. For purposes of the Vision Benefit Plan Act:
+4 (1) Chargeback means a dollar amount, fee, surcharge, rebate, or
+5 item of value that reduces, modifies, or offsets all or part of the
+6 enrollee's responsibility, provider reimbursement, allowed amount, or fee
+7 schedule for a covered service or covered material;
+8 (2) Covered materials means materials for which reimbursement from
+9 an insurer, vision benefit manager, or subcontractor is provided to an
+10 eye care provider by an enrollee's plan contract, or for which a
+11 reimbursement would be available but for the application of the
+12 enrollee's contractual limitations of deductibles, copayments, or
+13 coinsurance, regardless of how the materials are listed or described in
+14 an enrollee's benefit plan's definition of benefits;
+15 (3) Covered services means the professional work performed by an eye
+16 care provider for which reimbursements for an insurer, vision benefit
+17 manager, or subcontractor are provided to an eye care provider by an
+18 enrollee's plan contract, or for which a reimbursement would be available
+19 but for the application of the enrollee's contractual plan limitations of
+20 deductibles, copayments, or coinsurance, regardless of how the services
+21 are listed or described in an enrollee's benefit plan's definition of
+22 benefits;
+23 (4) Director means the Director of Insurance;
+24 (5) Enrollee means any individual participating in a health benefit
+25 plan, vision benefit plan, or vision benefit discount plan that is
+26 purchased by an individual or provided to an individual by an entity that
+27 purchases or supplies coverage for a health benefit plan, vision benefit
+28 plan, or vision benefit discount plan;
+29 (6) Extrapolation means a mathematical formula, process, or
+30 technique used by a vision benefit manager, or the vision benefit
+31 manager's agent, in the audit of an optometrist to estimate audit results
+-2-
+
+LB987 LB987
+2026 2026
+1 or findings for a larger batch of claims not reviewed by the vision
+2 benefit manager;
+3 (7) Eye care provider means a licensed doctor of optometry
+4 practicing under the authority of the Optometry Practice Act or a
+5 licensed medical or osteopathic doctor practicing under the authority of
+6 the Medicine and Surgery Practice Act;
+7 (8) Fee schedule means the document or system that lists the
+8 predetermined payment rates or allowed amounts for covered services or
+9 covered materials and determines how much eye care providers are
+10 reimbursed by the insurer or vision benefit manager and how much patients
+11 are charged by the insurer, vision benefit manager, or eye care provider;
+12 (9) Insurer means an individual, corporation, partnership, company,
+13 organization, group, health maintenance organization, captive risk-
+14 retention group, self-insurance group, optometric service and indemnity
+15 corporation, or other entity, whether organized for profit or not for
+16 profit, whether foreign or domestic, that conducts business in this state
+17 and that offers a vision benefit plan or provides coverage for vision-
+18 related services or vision-related materials to enrollees. For avoidance
+19 of doubt, an entity is considered an insurer for purposes of the Vision
+20 Benefit Plan Act irrespective of (a) its corporate form or category of
+21 licensure, if applicable, including whether it is otherwise subject to
+22 insurance regulations or any other regulations, (b) whether it, either
+23 directly or indirectly, reimburses, indemnifies, pays, or discounts the
+24 costs of vision services or vision materials, or (c) whether it
+25 delegates, assigns, or contracts performance of any function regulated by
+26 the act to an affiliate, subsidiary, contractor, intermediary, or network
+27 leasing entity;
+28 (10) Materials means ophthalmic devices, including, but not limited
+29 to, lenses, devices containing lenses, artificial intraocular lenses,
+30 ophthalmic frames and other lens mounting apparatus, prisms, lens
+31 treatments and coatings, contact lenses, low vision devices, vision
+-3-
+
+LB987 LB987
+2026 2026
+1 therapy devices, and prosthetic devices to correct, relieve, or treat
+2 defects or abnormal conditions of the human eye or its adnexa, or any
+3 material allowed to be utilized by the Board of Optometry and the
+4 Optometry Practice Act;
+5 (11) Nominal means, when there is no corresponding reimbursement in
+6 the current year's published Physician Fee Schedule released annually by
+7 the federal Centers for Medicare and Medicaid Services or in the current
+8 year's published state medicaid fee schedule, an amount less than the
+9 reasonable compensation to the eye care provider rendering the covered
+10 service or covered materials, taking into account the provider's direct
+11 and indirect costs, including the actual acquisition costs and actual pro
+12 rata overhead costs and reasonable profit;
+13 (12) Participating eye care provider means an eye care provider that
+14 has entered into a contractual agreement or other business relationship
+15 with an insurer, vision benefit manager, third-party administrator, or
+16 subcontractor to provide covered services or covered materials;
+17 (13) Subcontractor means an individual, company, organization,
+18 group, or other entity, including, but not limited to, agents, servants,
+19 brokers, wholesalers, distributors, partially owned or wholly owned
+20 subsidiaries, and controlled organizations, that is contracted by the
+21 vision benefit manager to supply services or materials to another vision
+22 benefit manager, eye care provider, or enrollee to execute or fulfill the
+23 health benefit plan, vision benefit plan, or vision benefit discount plan
+24 of a vision benefit manager;
+25 (14) Vision benefit discount plan means a policy, contract, or
+26 agreement offered by an insurer or vision benefit manager to an enrollee
+27 that solely provides for a discount for vision care services or
+28 materials;
+29 (15) Vision benefit manager means an individual, company,
+30 organization, group, or other entity, including, but not limited to, an
+31 insurer, a third-party administrator, and a subcontractor, that creates,
+-4-
+
+LB987 LB987
+2026 2026
+1 promotes, sells, provides, advertises, or administers an integrated or
+2 stand-alone vision benefit plan, vision benefit discount plan, or other
+3 insurance policy or contract which provides vision benefits or discounts
+4 to an enrollee pertaining to the provision of covered services or covered
+5 materials; and
+6 (16) Vision benefit plan means a policy, contract, agreement, or any
+7 prepaid vision plan offered by an insurer or vision benefit manager to an
+8 enrollee to pay for, reimburse, discount, or offset healthcare costs.
+9 Sec. 3. (1) An insurer or vision benefit manager shall disclose the
+10 following information publicly on its website and with all documents and
+11 document packages, including, but not limited to, proposals, responses to
+12 requests for proposals, sales documents, enrollment documents, benefit
+13 plan documents, purchaser contracts, enrollee contracts, and provider
+14 agreements that are presented to purchasers, potential purchasers,
+15 enrollees, potential enrollees, participating eye care providers,
+16 potential participating providers, and state agencies with
+17 jurisdictional, regulatory, or enforcement authority over its business:
+18 (a) Its legal name and entity type;
+19 (b) Its legal address and the state in which the legal entity is
+20 formed or organized;
+21 (c) The physical address, mailing address, electronic mail address,
+22 and phone number of its operational headquarters;
+23 (d) The agencies, departments, committees, commissions, and other
+24 bodies that have jurisdictional, regulatory, or enforcement authority
+25 over its business;
+26 (e) A statement that no jurisdictional, regulatory, or enforcement
+27 authority exists over its business, if none exists;
+28 (f) The names, physical addresses, mailing addresses, electronic
+29 mail addresses, and phone numbers of all parent companies, related
+30 holding companies, wholly owned subsidiary companies, and partially owned
+31 subsidiary companies;
+-5-
+
+LB987 LB987
+2026 2026
+1 (g) All federal and state litigation in which the insurer or vision
+2 benefit manager is, or has been, a party in the current year and during
+3 the preceding five years; and
+4 (h) All formal complaints to the Department of Insurance against the
+5 insurer or vision benefit manager in the current year and during the
+6 preceding five years by purchasers, enrollees, or eye care providers.
+7 (2) All information required to be disclosed by an insurer or vision
+8 benefit manager in subsection (1) of this section shall be conveyed in
+9 plain language, shall be typed with a minimum of ten-point font size, and
+10 shall be prominently displayed:
+11 (a) On the insurer's or vision benefit manager's website in a
+12 publicly accessible section titled "Required Transparency Information for
+13 Patients, Doctors, and Purchasers"; and
+14 (b) In a separately created document titled "Required Transparency
+15 Information for Patients, Doctors, and Purchasers" that shall be included
+16 with all documents and document packages, including, but not limited to,
+17 proposals, responses to requests for proposals, benefit plan documents,
+18 sales documents, enrollment documents, purchaser contracts, enrollee
+19 contracts, and provider agreements.
+20 (3) An insurer or vision benefit manager shall provide notice to
+21 each participating eye care provider of any proposed amendments to
+22 existing provider agreements, fee schedules, provider handbooks, provider
+23 manuals, or related policy documents via electronic mail.
+24 (4) A participating eye care provider shall be provided with a
+25 minimum of ninety calendar days from the time of distribution to review
+26 changes and respond, if necessary, to any proposed amendments from an
+27 insurer or vision benefit manager to existing provider agreements, fee
+28 schedules, provider handbooks, provider manuals, or related policy
+29 documents. Any such proposed amendments proffered by the insurer or
+30 vision benefit manager in violation of this subsection shall be void and
+31 unenforceable as a matter of law.
+-6-
+
+LB987 LB987
+2026 2026
+1 (5) Any proposed amendments to existing provider agreements, fee
+2 schedules, provider handbooks, provider manuals, or related policy
+3 documents by an insurer or vision benefit manager delivered to a
+4 participating eye care provider shall be:
+5 (a) Enumerated in a cover letter;
+6 (b) Marked with highlights or in tracked changes within the
+7 applicable agreements or documents to clearly display all changes over
+8 the previous version; and
+9 (c) Structured to include implications of agreeance or non-agreeance
+10 by the participating eye care provider.
+11 (6) An insurer or vision benefit manager shall maintain:
+12 (a) A phone number to company representatives to receive questions
+13 and communications from participating eye care providers at all times
+14 during standard business hours;
+15 (b) The ability for an eye care provider to leave voice messages at
+16 all times; and
+17 (c) The ability for an eye care provider to have a live phone
+18 discussion with a company representative within twenty-four hours of an
+19 initial phone call or a voice message left with the insurer or vision
+20 benefit manager.
+21 (7) An insurer or vision benefit manager shall maintain a physical
+22 mailing address and an electronic mail address to company representatives
+23 to receive questions, disputes, and communications from participating eye
+24 care providers about all matters, at all times, including, but not
+25 limited to, proposed amendments to existing provider agreements, fee
+26 schedules, provider handbooks, provider manuals, and related policy
+27 documents, and shall publish instructions for mail submission and
+28 electronic mail submission of questions, disputes, and communications in
+29 a place visible to participating eye care providers, including on its
+30 website and in any provider agreements, provider handbooks, provider
+31 manuals, or related policy documents.
+-7-
+
+LB987 LB987
+2026 2026
+1 (8) An insurer or vision benefit manager shall acknowledge receipt
+2 of an electronic mail message within one hour by use of a return
+3 electronic mail message with a communication tracking number and shall
+4 respond to the substantive questions or communications of the electronic
+5 mail message within seventy-two hours in writing by use of a return
+6 electronic mail message.
+7 (9) An insurer or vision benefit manager shall, at all times, make
+8 available to the eye care provider the most up-to-date provider
+9 agreements, fee schedules, provider handbooks, provider manuals, and
+10 related policy documents via website access.
+11 (10) Insurers or vision benefit managers shall not engage in
+12 marketing or advertising activities that are misleading or deceptive to
+13 the public. Such acts are considered deceptive trade practices and
+14 subject to penalty under the Uniform Deceptive Trade Practices Act.
+15 (11) Upon request by a state agency with jurisdictional, regulatory,
+16 or enforcement authority over its business, an insurer or vision benefit
+17 manager shall submit all information related to a health benefit plan,
+18 vision benefit plan, or vision benefit discount plan, including, but not
+19 limited to, proposals, responses to requests for proposals, benefit plan
+20 documents, sales documents, enrollment documents, purchaser contracts,
+21 enrollee contracts, provider agreements, and marketing and advertising
+22 activities, for review.
+23 Sec. 4. (1) No agreement or contract between an insurer or vision
+24 benefit manager and an eye care provider may seek to or require that an
+25 eye care provider provide services or materials at a fee limited or set
+26 by the insurer or vision benefit manager unless the services or materials
+27 are defined and reimbursed as covered services or covered materials under
+28 the agreement or contract.
+29 (2) An insurer or vision benefit manager shall only use standardized
+30 codes, names, descriptions, and definitions published in the Healthcare
+31 Common Procedure Coding System, including Current Procedural Terminology
+-8-
+
+LB987 LB987
+2026 2026
+1 codes published by the American Medical Association and Level II codes
+2 published by the federal Centers for Medicare and Medicaid Services, to
+3 identify and describe covered services and covered materials of the
+4 vision benefit plan to purchasers, enrollees, and eye care providers of
+5 the vision benefit plan.
+6 (3) An insurer or vision benefit manager shall adhere to the
+7 standardized codes, names, descriptions, and definitions published in the
+8 Healthcare Common Procedure Coding System, including all Current
+9 Procedural Terminology codes published by the American Medical
+10 Association and all Level II codes published by the federal Centers for
+11 Medicare and Medicaid Services, to create and offer a fee schedule for
+12 covered services and covered materials in an agreement between the
+13 insurer or vision benefit manager and an eye care provider.
+14 (4) An insurer or vision benefit manager shall not attempt to alter
+15 the meaning of any of the standardized codes, names, descriptions, or
+16 definitions published in the Healthcare Common Procedure Coding System,
+17 including all Current Procedural Terminology codes published by the
+18 American Medical Association and all Level II codes published by the
+19 federal Centers for Medicare and Medicaid Services. Any such contractual
+20 language, policies, or procedures set by the insurer or vision benefit
+21 manager in violation of this subsection shall be void and unenforceable
+22 as a matter of law.
+23 (5) All fee schedules in an agreement between an insurer or vision
+24 benefit manager and an eye care provider and all reimbursements paid by
+25 an insurer or vision benefit manager to an eye care provider for all
+26 covered services and covered materials shall not be nominal or de
+27 minimis. There shall be no limitation on the ability of an individual eye
+28 care provider or a group of eye care providers who practice under a
+29 single employer identification number or tax identification number to
+30 engage in direct negotiations with the insurer or vision benefit manager
+31 regarding reimbursement fee schedules and ultimately agreeing to a
+-9-
+
+LB987 LB987
+2026 2026
+1 different fee schedule than the fee schedule provided by the insurer or
+2 vision benefit manager to other participating providers or groups.
+3 (6) All fee schedule allowed amounts and all reimbursements paid by
+4 an insurer or vision benefit manager for each covered service and covered
+5 material shall be clearly and individually listed on a fee schedule made
+6 available to the eye care provider:
+7 (a) At the time an agreement is offered to the eye care provider by
+8 an insurer or vision benefit manager;
+9 (b) Within fifteen business days from the date an application is
+10 made to become a participating eye care provider with the insurer or
+11 vision benefit manager by the eye care provider; and
+12 (c) At all times via electronic means to the participating eye care
+13 provider.
+14 (7) A contract between an insurer or vision benefit manager and an
+15 eye care provider shall include a fee schedule that includes and
+16 individually identifies each covered service and covered material and its
+17 corresponding allowed amount, reimbursement amount paid to the eye care
+18 provider, and any form of a cost-sharing amount paid by the enrollee to
+19 the eye care provider.
+20 (8) Insurers or vision benefit managers shall not advertise, claim,
+21 or represent to purchasers or enrollees that services and materials
+22 provided by a participating eye care provider are covered, included, or
+23 covered with an additional deductible, copay, or coinsurance if the
+24 insurer or vision benefit manager does not remit an actual payment to the
+25 participating eye care provider as full or partial reimbursement for the
+26 service or material.
+27 (9) A service or material provided by a participating eye care
+28 provider cannot be designated as a covered service or covered material by
+29 the insurer or vision benefit manager in the design of a health benefit
+30 plan, vision benefit plan, or vision benefit discount plan if the
+31 reimbursement amount to the participating eye care provider is only
+-10-
+
+LB987 LB987
+2026 2026
+1 comprised of an enrollee's payment to the participating eye care
+2 provider.
+3 (10) Insurers or vision benefit managers shall not condition
+4 application to or network participation in a health benefit plan, vision
+5 benefit plan, or vision benefit discount plan by an eye care provider
+6 based on the eye care provider's usual and customary pricing or discounts
+7 on usual and customary pricing for services or materials that are not
+8 covered services or not covered materials. Any such contractual language,
+9 policies, or procedures set by the insurer or vision benefit manager in
+10 violation of this subsection shall be void and unenforceable as a matter
+11 of law.
+12 (11) Insurers or vision benefit managers shall not make conditional
+13 a fee schedule proposed or made to an eye care provider of a health
+14 benefit plan, vision benefit plan, or vision benefit discount plan for
+15 covered services or covered materials based on the eye care provider's
+16 usual and customary pricing or discounts on usual and customary pricing
+17 for services or materials that are not covered services or not covered
+18 materials. Any such contractual language, policies, or procedures set by
+19 the insurer or vision benefit manager in violation of this subsection
+20 shall be void and unenforceable as a matter of law.
+21 (12) A contract between an insurer or vision benefit manager and an
+22 eye care provider shall not contain a provision, fee schedule, or
+23 reimbursement amount in which the eye care provider, with consideration
+24 of any applicable deductibles, copays, coinsurances, discounts, rebates,
+25 or chargebacks, provides covered services or covered materials to an
+26 enrollee at a financial loss. Any such contractual language, policies, or
+27 procedures set by the insurer or vision benefit manager in violation of
+28 this subsection shall be void and unenforceable as a matter of law.
+29 (13) The period of time prescribed by a contract between any insurer
+30 or vision benefit manager and an eye care provider for the insurer or
+31 vision benefit manager to recover any reimbursement amount from an eye
+-11-
+
+LB987 LB987
+2026 2026
+1 care provider shall be the same period of time allowed or required for
+2 any insurer or vision benefit manager to remit the applicable
+3 reimbursement following an eye care provider's submission of a clean
+4 claim for services rendered or materials furnished. This subsection shall
+5 not limit the ability of an insurer or vision benefit manager to conduct
+6 an audit of claims, in accordance with the insurer's or vision benefit
+7 manager's written policies and applicable law, in the event that the
+8 insurer or vision benefit manager has a reasonable belief that the eye
+9 care provider has engaged in fraud, waste, or abuse.
+10 (14) Insurers or vision benefit managers shall not falsely represent
+11 the number of participating providers in a region or the benefits that
+12 comprise a health benefit plan, vision benefit plan, or vision benefit
+13 discount plan to clients, groups, employers, purchasers, companies,
+14 enrollees, or prospective enrollees. Such acts are considered deceptive
+15 trade practices and subject to penalty under the Uniform Deceptive Trade
+16 Practices Act.
+17 (15) An insurer or vision benefit manager shall not promote or use
+18 in any marketing or advertising for a health benefit plan, vision benefit
+19 plan, or vision benefit discount plan that a covered service or covered
+20 material is free, no charge, complimentary, or any materially similar
+21 language to induce a client, group, employer, purchaser, company,
+22 enrollee, or prospective enrollee to purchase services, materials,
+23 supplies, or plans from the insurer, vision benefit manager, or an
+24 affiliate of the insurer or vision benefit manager.
+25 (16) Insurers or vision benefit managers shall not offer enrollees
+26 of a health benefit plan, vision benefit plan, or vision benefit discount
+27 plan varying deductibles, copays, coinsurances, coverage amounts,
+28 rebates, gift cards, or other monetary or nonmonetary incentives to
+29 obtain covered services, covered materials, noncovered services, or
+30 noncovered materials:
+31 (a) At any particular participating eye care provider;
+-12-
+
+LB987 LB987
+2026 2026
+1 (b) At a retail establishment owned by, partially owned by,
+2 contracted with, or otherwise affiliated with the insurer or vision
+3 benefit manager; or
+4 (c) At any Internet or virtual provider or retailer owned by,
+5 partially owned by, contracted with, or otherwise affiliated with the
+6 insurer or vision benefit manager.
+7 (17) Insurers or vision benefit managers shall remit to the
+8 participating eye care provider the contracted reimbursement amount from
+9 the fee schedule for a covered service or covered material provided to an
+10 enrollee if the enrollee is verified to be eligible by the participating
+11 eye care provider through customary verification methods of the insurer
+12 or vision benefit manager to receive the covered service or covered
+13 material on the date of service.
+14 (18) Insurers or vision benefit managers shall not retroactively
+15 reverse a reimbursement or withhold a future reimbursement to a
+16 participating eye care provider who relied in good faith on an
+17 individual's presented coverage credentials and the customary
+18 verification methods of the insurer or vision benefit manager if the
+19 vision benefit manager later determines that the enrollee was ineligible
+20 to receive covered services or covered materials on the date of service.
+21 (19) Insurers or vision benefit managers shall not require a
+22 participating eye care provider, purchaser, or enrollee of a health
+23 benefit plan, vision benefit plan, or vision benefit discount plan to
+24 obtain prior authorization, preauthorization, precertification, or any
+25 similar mechanism that restricts the enrollee from receiving a covered
+26 service or covered material recommended by the eye care provider and
+27 requested by the enrollee.
+28 (20) Participating eye care providers are allowed, but not required,
+29 to offer an enrollee the opportunity to pay the participating eye care
+30 provider directly for covered services and covered materials if such
+31 direct payment would be less costly to the enrollee than the total out-
+-13-
+
+LB987 LB987
+2026 2026
+1 of-pocket cost required under the terms of a health benefit plan or
+2 vision benefit plan. A provider may not be subject to an audit, removed
+3 from participation in the network, or otherwise penalized or
+4 discriminated against in any manner for offering an enrollee the
+5 opportunity to pay the participating provider directly under the
+6 conditions described in this subsection.
+7 (21)(a) Insurers or vision benefit managers shall not, in the course
+8 of adjudicating a claim for reimbursement by a participating eye care
+9 provider for a covered service or covered material, alter, delete,
+10 substitute, or otherwise change any code or modifier submitted by the eye
+11 care provider, including by downcoding, bundling, or reassigning to a
+12 different code, if such change would reduce payment or otherwise
+13 adversely affect the provider or enrollee.
+14 (b) For purposes of this subsection:
+15 (i) Bundling means to combine, substitute, or treat two or more
+16 distinct services, supplies, or materials reported on the same claim or
+17 date of service as included within a single code, package, or global
+18 service, and denying, reducing, or disallowing separate reimbursement for
+19 one or more of these codes; and
+20 (ii) Downcoding means to alter, delete, substitute, or assign a code
+21 that results in a lower level of service, a lower-valued code, or a
+22 reduced reimbursement amount relative to the code submitted by the eye
+23 care provider.
+24 (22) All provisions of this section shall apply to all affiliates,
+25 parent companies, third-party administrators, and subcontractors that are
+26 used by an insurer or vision benefit manager to supply covered services
+27 or covered materials to an eye care provider or enrollee, and such
+28 affiliates, parent companies, third-party administrators, and
+29 subcontractors shall be subject to all applicable penalties as provided
+30 in this section.
+31 (23) An insurer or vision benefit manager shall not require or
+-14-
+
+LB987 LB987
+2026 2026
+1 request an eye care provider to opt in or opt out of the provisions set
+2 forth in the Vision Benefit Plan Act.
+3 Sec. 5. (1) No agreement between an insurer or vision benefit
+4 manager and an eye care provider shall require that an eye care provider
+5 must participate with, be credentialed by, or enter into an agreement
+6 with any specific vision benefit plan or vision benefit discount plan as
+7 a condition for participation in the health benefit plan provider network
+8 of the insurer or vision benefit manager to provide covered services or
+9 covered materials to the enrollees of the health benefit plan.
+10 (2) No agreement between an insurer or vision benefit manager and an
+11 eye care provider shall require that an eye care provider must
+12 participate with, be credentialed by, or enter into an agreement with any
+13 specific health benefit plan as a condition for participation in the
+14 vision benefit plan or vision benefit discount plan provider network of
+15 the insurer or vision benefit manager to provide covered services or
+16 covered materials to the enrollees of the vision benefit plan or vision
+17 benefit discount plan.
+18 (3) Any insurer or vision benefit manager issuing or renewing a
+19 health benefit plan, vision benefit plan, or vision benefit discount plan
+20 which provides benefits for covered services or covered materials
+21 rendered by a physician or osteopath duly licensed under the Medicine and
+22 Surgery Practice Act that are within the scope of practice of an
+23 optometrist duly licensed under the Optometry Practice Act shall provide
+24 the same reimbursement for covered services or covered materials to
+25 optometrists as allowed for those covered services or covered materials
+26 rendered by physicians or osteopaths.
+27 (4) An insurer or vision benefit manager shall apply the same terms
+28 and conditions of participation for all eye care providers, irrespective
+29 of their educational credentials, subject to the permitted scope of
+30 practice for the provider under applicable state law.
+31 (5) An insurer or vision benefit manager shall not require an eye
+-15-
+
+LB987 LB987
+2026 2026
+1 care provider to possess, offer, procure, or sell materials or covered
+2 materials in the provider's office as a condition of participation in the
+3 provider network of the health benefit plan, vision benefit plan, or
+4 vision benefit discount plan. Any such contractual language, policies, or
+5 procedures set by the insurer or vision benefit manager in violation of
+6 this subsection shall be void and unenforceable as a matter of law.
+7 (6) If an eye care provider enters into any subcontract agreement
+8 with another provider to provide his or her licensed health care services
+9 to an enrollee or a covered dependent of an enrollee of a health benefit
+10 plan, vision benefit plan, or vision benefit discount plan where the
+11 subcontracted provider will seek reimbursement from the plan or enrollee
+12 for the subcontracted services, the subcontract agreement must meet all
+13 requirements of the Vision Benefit Plan Act.
+14 (7) The provisions of this section shall apply to any agreements an
+15 insurer or vision benefit manager enters into with another entity to
+16 provide an enrollee with covered services or covered materials.
+17 Sec. 6. (1) It is prohibited for an insurer or vision benefit
+18 manager that offers multiple health benefit plans, vision benefit plans,
+19 or vision benefit discount plans to require an eye care provider, as a
+20 condition of participation in the network for a health benefit plan,
+21 vision benefit plan, or vision benefit discount plan, to participate in
+22 the network of any of the insurer's or vision benefit manager's other
+23 health benefit plans, vision benefit plans, or vision benefit discount
+24 plans. A contract provision violating this subsection is void as a matter
+25 of law.
+26 (2) It is prohibited for an insurer or vision benefit manager that
+27 offers multiple health benefit plans, vision benefit plans, or vision
+28 benefit discount plans to withhold participation in the network of one or
+29 more of the insurer's or vision benefit manager's other health benefit
+30 plans, vision benefit plans, or vision benefit discount plans if the eye
+31 care provider, having completed the credentialing requirements of the
+-16-
+
+LB987 LB987
+2026 2026
+1 insurer or vision benefit manager for participation, is already
+2 participating in the network of one or more of the insurer's or vision
+3 benefit manager's health benefit plans, vision benefit plans, or vision
+4 benefit discount plans and seeks to participate in the network of the
+5 insurer's or vision benefit manager's other health benefit plans, vision
+6 benefit plans, or vision benefit discount plans.
+7 (3) Subsections (1) and (2) of this section apply to all plan types
+8 that a health benefit plan, vision benefit plan, or vision benefit
+9 discount plan sells, administers, or offers, including, but not limited
+10 to, individually purchased plans, employer-sponsored plans, and
+11 government-sponsored plans.
+12 Sec. 7. (1) An insurer or vision benefit manager shall include on
+13 its website:
+14 (a) A method for an eye care provider to submit an application for
+15 inclusion and credentialing as a participating provider in the health
+16 benefit plan, vision benefit plan, or vision benefit discount plan; and
+17 (b) A description of the credentialing requirements, which must be
+18 reasonable, related to the delivery of covered eye care services, and
+19 applied in an objective, uniform, and nondiscriminatory manner.
+20 (2) An insurer's or vision benefit manager's application for
+21 inclusion and credentialing as a participating eye care provider in the
+22 health benefit plan, vision benefit plan, or vision benefit discount plan
+23 must impose the same application and credentialing requirements on each
+24 eye care provider.
+25 (3) No later than the tenth business day after the date the insurer
+26 or vision benefit manager receives an application from an eye care
+27 provider for inclusion and credentialing as a participating provider in
+28 the health benefit plan, vision benefit plan, or vision benefit discount
+29 plan, the insurer or vision benefit manager shall make available
+30 electronically to the eye care provider a proposed participating provider
+31 agreement, including applicable fee schedules, provider handbooks, and
+-17-
+
+LB987 LB987
+2026 2026
+1 provider manuals.
+2 (4) No later than the thirtieth business day after the date the
+3 insurer or vision benefit manager receives an application from an eye
+4 care provider for inclusion and credentialing as a participating provider
+5 in the health benefit plan, vision benefit plan, or vision benefit
+6 discount plan, the insurer or vision benefit manager shall complete the
+7 credentialing determination of the eye care provider, approve or
+8 disapprove the application of the eye care provider, and deliver
+9 electronically a proposed participating provider agreement described in
+10 subsection (3) of this section for acceptance and signature of the
+11 approved eye care provider.
+12 (5) If the application for inclusion and credentialing as a
+13 participating provider is denied by the insurer or vision benefit
+14 manager, the insurer or vision benefit manager shall deliver to the
+15 applicant eye care provider a detailed explanation for the denial both
+16 electronically and in writing via certified mail.
+17 (6) If the application for inclusion and credentialing as a
+18 participating provider is denied by the insurer or vision benefit
+19 manager, the eye care provider must be allowed a reasonable period of
+20 time in which to appeal the decision to the insurer or vision benefit
+21 manager and provide in the appeal evidence that supports the
+22 reconsideration of the denied application. The insurer or vision benefit
+23 manager shall consider, and render a decision on, the eye care provider's
+24 appeal submission within thirty days of the date of receipt of the
+25 submission by the insurer or vision benefit manager.
+26 (7) If the appeal of the application denial for inclusion and
+27 credentialing as a participating provider is denied by the insurer or
+28 vision benefit manager, the insurer or vision benefit manager shall
+29 deliver to the applicant eye care provider a detailed explanation for the
+30 denial of the appeal both electronically and in writing via certified
+31 mail.
+-18-
+
+LB987 LB987
+2026 2026
+1 (8) An insurer or vision benefit manager, concurrent with the
+2 electronic delivery of the proposed participating provider agreement to
+3 the approved eye care provider pursuant to subsection (4) of this
+4 section, must provide the name, email address, and phone number of a
+5 representative of the insurer or vision benefit manager to allow the
+6 approved eye care provider the opportunity to:
+7 (a) Contact the representative before signing the agreement;
+8 (b) Discuss the proposed agreement with the representative before
+9 signing the agreement; and
+10 (c) Electronically send the representative modifications to the
+11 proposed agreement before signing the agreement.
+12 (9) In the event that the approved eye care provider sends the
+13 representative of the insurer or vision benefit manager modifications to
+14 the proposed participating provider agreement pursuant to subdivision (8)
+15 (c) of this section, the insurer or vision benefit manager must respond
+16 to the submission of the approved eye care provider within five business
+17 days. Each subsequent response made by the insurer, vision benefit
+18 manager, or approved eye care provider to the other party must be
+19 responded to within five business days by the receiving party.
+20 (10) Once the insurer or vision benefit manager has approved and
+21 delivered electronically a proposed participating provider agreement
+22 pursuant to subsection (4) of this section, the approved eye care
+23 provider has a total allotted timeframe of ninety business days to reach
+24 agreement with the insurer or vision benefit manager and sign a
+25 participating provider agreement. If the parties fail to reach agreement
+26 and no participating provider agreement is signed by the approved eye
+27 care provider within the allotted timeframe, the insurer or vision
+28 benefit manager may retract the participating provider agreement.
+29 (11) No later than the twentieth business day after the date the
+30 approved eye care provider signs a participating provider agreement, the
+31 insurer or vision benefit manager shall include the credentialed and
+-19-
+
+LB987 LB987
+2026 2026
+1 approved eye care provider as a participating provider in the health
+2 benefit plan, vision benefit plan, or vision benefit discount plan and
+3 list the eye care provider in all of the plan's directories that are
+4 available to enrollees and the public.
+5 (12) The earliest that an eye care provider may submit another
+6 application to an insurer or vision benefit manager after a previous
+7 approval and subsequent unsuccessful attempt to negotiate a mutually
+8 acceptable participating provider agreement is one hundred eighty
+9 calendar days from the date of submission of the previous application.
+10 (13) The earliest that an eye care provider may submit another
+11 application to an insurer or vision benefit manager after a previous
+12 disapproval of an application is one hundred eighty calendar days from
+13 the date of submission of the previous application.
+14 (14) An insurer or vision benefit manager shall allow an eye care
+15 provider to become a participating provider in the network of a health
+16 benefit plan, vision benefit plan, or vision benefit discount plan if the
+17 eye care provider (a) meets the credentialing requirements of the insurer
+18 or vision benefit manager and (b) agrees in writing to the applicable
+19 provider agreement.
+20 (15) An insurer or vision benefit manager shall not exclude an eye
+21 care provider from applying to, or becoming a participating provider in,
+22 the network of a health benefit plan, vision benefit plan, or vision
+23 benefit discount plan because of:
+24 (a) The aggregate number of eye care providers in a state, county,
+25 city, zip code, or other geographically defined service area;
+26 (b) The time, distance, or appointment availability for an enrollee
+27 to access a participating eye care provider; or
+28 (c) The provider's professional designation, independent practice
+29 affiliation, or participation status in other health benefit plans,
+30 vision benefit plans, or vision benefit discount plans.
+31 Sec. 8. (1) An insurer or vision benefit manager shall not change
+-20-
+
+LB987 LB987
+2026 2026
+1 or alter a provider agreement, including terms, reimbursements, fee
+2 schedules, policies, procedures, or provider manuals incorporated by
+3 reference into the provider agreement, entered into with a participating
+4 eye care provider unless the insurer or vision benefit manager performs
+5 the following steps at least ninety days before the date the proposed
+6 change would take effect:
+7 (a) A certified letter, or an electronic communication requiring an
+8 electronic signature proving receipt, clearly detailing the proposed
+9 changes must be sent to the eye care provider;
+10 (b) A face-to-face or virtual meeting must be held to discuss
+11 proposed changes if requested by the eye care provider;
+12 (c) The eye care provider must either agree to or protest in writing
+13 the proposed changes. If the changes are not agreed to by the eye care
+14 provider, then the current agreement shall continue and the insurer or
+15 vision benefit manager shall not remove the eye care provider from
+16 participation with a health benefit plan, vision benefit plan, or vision
+17 benefit discount plan for not accepting the proposed changes; and
+18 (d) Any proposed amendment to an existing provider agreement must be
+19 presented to the participating eye care provider in a manner conducive to
+20 the eye care provider's review. The proposed changes shall be (i)
+21 enumerated in a cover letter and (ii) clearly marked in tracked changes
+22 within the body of the applicable agreement.
+23 (2) Termination of any provider agreement shall be permissible only
+24 in the event of a material breach, wherein the eye care provider fails to
+25 remedy the alleged breach to the reasonable satisfaction of the insurer
+26 or vision benefit manager within thirty days of receipt of written notice
+27 specifying the alleged breach.
+28 (3) It shall be prohibited for an insurer or vision benefit manager
+29 to require an eye care provider to establish a security interest in all
+30 or part of the provider's property and assets, including assets
+31 pertaining to the provider's practice, in a sum equivalent to the funds
+-21-
+
+LB987 LB987
+2026 2026
+1 owed to the insurer or vision benefit manager at termination. Any such
+2 contractual language, policies, or procedures set by the insurer or
+3 vision benefit manager in violation of this subsection shall be void and
+4 unenforceable as a matter of law.
+5 (4) A provider agreement between an insurer or vision benefit
+6 manager and an eye care provider shall not contain a provision requiring
+7 the provider to accept a reimbursement payment in the form of a virtual
+8 credit card or any other payment method wherein a processing fee,
+9 administrative fee, percentage amount, or dollar amount is assessed for
+10 the provider to receive the reimbursement payment.
+11 (5) A provider agreement between an insurer or vision benefit
+12 manager and an eye care provider shall not contain a provision obligating
+13 the eye care provider to share equally the expenses of arbitration. Any
+14 such contractual language, policies, or procedures set by the insurer or
+15 vision benefit manager in violation of this subsection shall be void and
+16 unenforceable as a matter of law. Each party shall bear their own
+17 arbitration costs, contingent upon a fee-shifting provision that grants
+18 prevailing party status.
+19 (6) An insurer or vision benefit manager shall not retaliate in any
+20 manner against an eye care provider for discussing, or attempting in good
+21 faith to negotiate, the terms and provisions of a provider agreement with
+22 the insurer or vision benefit manager.
+23 (7) An insurer or vision benefit manager shall not retaliate in any
+24 manner against an eye care provider for filing a complaint against the
+25 insurer or vision benefit manager with any state agency with
+26 jurisdictional, regulatory, or enforcement authority over the business of
+27 the insurer or vision benefit manager.
+28 (8) Should retaliation by an insurer or vision benefit manager occur
+29 against an eye care provider in violation of subsection (6) or (7) of
+30 this section, a state agency that has jurisdictional, regulatory, or
+31 enforcement authority over the business of the insurer or vision benefit
+-22-
+
+LB987 LB987
+2026 2026
+1 manager may sanction the insurer or vision benefit manager, including
+2 fines and other remedies deemed appropriate, and provide an appropriate
+3 remedy for the aggrieved eye care provider.
+4 Sec. 9. (1) No agreement between an insurer or vision benefit
+5 manager and an eye care provider shall restrict or limit, either directly
+6 or indirectly, the eye care provider's choice or use of sources and
+7 suppliers of covered or uncovered services or materials, including the
+8 choice or use of optical laboratories, provided by the eye care provider
+9 to an enrollee. Any such contractual language, policies, or procedures
+10 set by the insurer or vision benefit manager in violation of this
+11 subsection shall be void and unenforceable as a matter of law.
+12 (2) An insurer or vision benefit manager shall not directly or
+13 indirectly:
+14 (a) Control or attempt to control the professional judgment, manner
+15 of practice, or practice of an eye care provider;
+16 (b) Employ an eye care provider to provide a covered service or
+17 covered material;
+18 (c) Reimburse an eye care provider a different amount for covered
+19 services or covered materials because of the eye care provider's choice
+20 of:
+21 (i) Optical laboratory;
+22 (ii) Source of supplier of:
+23 (A) Contact lenses;
+24 (B) Ophthalmic lenses;
+25 (C) Ophthalmic glasses frames; or
+26 (D) Covered or noncovered services or materials;
+27 (iii) Equipment used for patient care;
+28 (iv) Retail optical affiliation;
+29 (v) Vision support organization;
+30 (vi) Group purchasing organization;
+31 (vii) Doctor alliance;
+-23-
+
+LB987 LB987
+2026 2026
+1 (viii) Professional trade association membership;
+2 (ix) Electronic health record software, electronic medical record
+3 software, or practice management software; or
+4 (x) Third-party claim filing service, billing service, or electronic
+5 data interchange clearinghouse company;
+6 (d) Restrict, limit, or influence an eye care provider's choice of
+7 sources or suppliers of services or materials, including optical
+8 laboratories used by the eye care provider to provide services or
+9 materials to the enrollee;
+10 (e) Restrict, limit, or influence an eye care provider's choice of
+11 electronic health record software, electronic medical record software, or
+12 practice management software;
+13 (f) Restrict, limit, or influence an eye care provider's choice of
+14 third-party claim filing service, billing service, or electronic data
+15 interchange clearinghouse company;
+16 (g) Restrict or limit an eye care provider's access to an enrollee's
+17 complete plan coverage information, including in-network and out-of-
+18 network coverage details;
+19 (h) Apply a chargeback to an enrollee or eye care provider if the
+20 chargeback is for a covered product or service for which the insurer or
+21 vision benefit manager does not incur the cost to produce, deliver, or
+22 provide such product or service to the enrollee or eye care provider;
+23 (i) Require an eye care provider to disclose an enrollee's
+24 confidential or protected health information unless the disclosure is
+25 expressly authorized by the enrollee, or permitted without authorization
+26 under the Health Insurance Portability and Accountability Act of 1996;
+27 (j) Require an eye care provider to disclose or report a medical
+28 history or diagnosis as a condition to file a claim, adjudicate a claim,
+29 or receive reimbursement for a routine or wellness eye exam; or
+30 (k) Require an eye care provider to disclose or report an enrollee's
+31 glasses prescription, contact lens prescription, ophthalmic device
+-24-
+
+LB987 LB987
+2026 2026
+1 measurements, facial photograph, or unique anatomical measurements as a
+2 condition to file a claim, adjudicate a claim, or receive reimbursement
+3 for a claim, unless the information is needed for the vision benefit
+4 manager to manufacture, or cause to be manufactured, a covered product
+5 that is submitted on the applicable claim.
+6 (3) An insurer or vision benefit manager shall not solicit patients
+7 or referrals for supplies on behalf of itself or its affiliates by
+8 identifying participating eye care providers in an inaccurate or
+9 otherwise misleading manner in any list of participating providers or in
+10 any communications to purchasers or enrollees. All communications which
+11 distinguish between participating eye care providers, or which otherwise
+12 claim professional superiority or the performance of a professional
+13 service in a superior manner, based on the following characteristics
+14 shall be readily subject to verification by the Department of Insurance:
+15 (a) A discount or incentive offered by the participating eye care
+16 provider on services and materials that are not covered by the insurer or
+17 vision benefit manager;
+18 (b) The dollar amount, volume amount, or percent usage amount of any
+19 material, product, or good purchased by the participating eye care
+20 provider; or
+21 (c) The brand, source, manufacturer, or supplier of a covered
+22 service or covered material utilized by the participating eye care
+23 provider.
+24 (4) For the avoidance of doubt, this section does not prohibit
+25 advertising, provided that such advertising is (a) not false, misleading,
+26 or deceptive or (b) readily subject to verification.
+27 Sec. 10. An insurer or vision benefit manager shall not use
+28 extrapolation to complete an audit of a participating eye care provider.
+29 Any additional payment due to a participating eye care provider or any
+30 refund due to the insurer or vision benefit manager shall not be based on
+31 an extrapolation, but shall be based on the actual overpayment or
+-25-
+
+LB987 LB987
+2026 2026
+1 underpayment, as determined after an investigation by the insurer or
+2 vision benefit manager, and after the participating eye care provider has
+3 been afforded, and has exhausted, all opportunities to appeal the
+4 insurer's or vision benefit manager's findings, as set forth in the
+5 provider manual or policy document or applicable law.
+6 Sec. 11. (1) The requirements of the Vision Benefit Plan Act are in
+7 addition to, and do not limit, any other requirement applicable to an
+8 insurer under state law. In the event of a conflict between the act and
+9 another provision of state law applicable to insurers, the provision that
+10 affords greater protection to eye care providers or plan enrollees shall
+11 control.
+12 (2) Notwithstanding any other provision of state law, including any
+13 law that purports to be the sole body of law governing the insurer, an
+14 insurer shall comply with the Vision Benefit Plan Act, to the extent not
+15 preempted by federal law.
+16 Sec. 12. The director may adopt and promulgate rules and
+17 regulations to carry out the Vision Benefit Plan Act.
+18 Sec. 13. (1) Except as provided in subsection (2) of this section,
+19 the director shall enforce the Vision Benefit Plan Act, and any violation
+20 of the act or any rule and regulation adopted and promulgated pursuant to
+21 the act shall be an unfair trade practice in the business of insurance
+22 subject to the Unfair Insurance Trade Practices Act.
+23 (2) The Attorney General shall enforce any violations of the Vision
+24 Benefit Plan Act that are considered to be deceptive trade practices
+25 subject to penalty under the Uniform Deceptive Trade Practices Act.
+26 (3) The director shall provide a mechanism for aggrieved
+27 individuals, whether actively or formerly enrolled with a particular
+28 vision benefit plan, to submit complaints to the director for review,
+29 investigation, and, as appropriate, discipline under applicable law.
+30 (4) The penalties and remedies provided in this section for a
+31 violation of the Vision Benefit Plan Act shall be in addition to any
+-26-
+
+LB987 LB987
+2026 2026
+1 other penalties and remedies available under state law and shall not
+2 waive, limit, or otherwise affect the applicability of any other law
+3 providing for civil or criminal penalties or remedies for unfair,
+4 deceptive, or unlawful business practices.
+5 Sec. 14. The Vision Benefit Plan Act shall apply to insurer or
+6 vision benefit manager policies, contracts, agreements, and plans
+7 delivered, issued for delivery, continued, or renewed in this state on or
+8 after the operative date of this act.
+9 Sec. 15. This act becomes operative on July 1, 2026.
+10 Sec. 16. If any section in this act or any part of any section is
+11 declared invalid or unconstitutional, the declaration shall not affect
+12 the validity or constitutionality of the remaining portions.
+13 Sec. 17. Since an emergency exists, this act takes effect when
+14 passed and approved according to law.
+-27-

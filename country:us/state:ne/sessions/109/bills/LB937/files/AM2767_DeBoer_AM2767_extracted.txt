@@ -1,0 +1,436 @@
+Title: 
+Official Title: 
+Source: versions - DeBoer AM2767
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+AM2767 AM2767
+LB937 LB937
+TTB - 03/18/2026 TTB - 03/18/2026
+AMENDMENTS TO LB937
+(Amendments to Standing Committee amendments, AM2454)
+Introduced by DeBoer, 10.
+1 1. Insert the following new sections:
+2 Sec. 13. Section 79-1054, Revised Statutes Supplement, 2025, is
+3 amended to read:
+4 79-1054 (1)(a) The State Board of Education shall establish an
+5 improvement grant program in areas including, but not limited to, (i)
+6 teacher recruitment and retention, (ii) improvement for schools and
+7 school districts, (iii) improvement in student performance in the subject
+8 areas of reading and mathematics, (iv) cybersecurity, and (v) (iv) other
+9 improvement areas identified by the state board. Such grants shall be
+10 funded using lottery funds under section 79-3501.
+11 (b) On or before December 1 of each calendar year, the state board
+12 shall electronically submit a report to the Clerk of the Legislature on
+13 all such grant programs, including, but not limited to, the recipients of
+14 the programs and evaluations of the effectiveness of each grant program.
+15 The state board may adopt and promulgate rules and regulations to carry
+16 out this subsection.
+17 (2)(a) This subsection applies beginning January 1, 2024.
+18 (b) For purposes of this subsection, learning platform means a
+19 three-dimensional, game-based learning platform for use by middle school
+20 and high school students.
+21 (c)(i) The State Board of Education shall establish a grant program
+22 to procure or purchase an annual license for learning platforms for use
+23 in schools to engage students in coursework and careers in science,
+24 technology, engineering, and mathematics. Such grants shall be funded
+25 using lottery funds pursuant to section 79-3501.
+26 (ii) The State Board of Education shall establish standards that a
+-1-
+
+AM2767 AM2767
+LB937 LB937
+TTB - 03/18/2026 TTB - 03/18/2026
+1 learning platform shall meet in the subject areas of chemistry, physical
+2 science, and mathematics. The state board shall develop the criteria to
+3 prioritize the grant applications.
+4 (iii) A developer may apply to the Commissioner of Education in a
+5 manner prescribed by the state board for a grant under this subsection
+6 for a learning platform that:
+7 (A) Is designed to teach information related to chemistry, physical
+8 science, or mathematics;
+9 (B) Aligns with the standards established by the state board
+10 relating to chemistry, physical science, or mathematics;
+11 (C) Connects such standards with real-world technologies and
+12 applications;
+13 (D) Highlights science, technology, engineering, and mathematics
+14 career pathways in Nebraska; and
+15 (E) Meets any additional requirements set out by the State Board of
+16 Education.
+17 (iv) Any developer that receives a grant under this subsection shall
+18 provide access to and use of its learning platform to all Nebraska school
+19 districts.
+20 (v) Any grant awarded pursuant to this subsection shall be awarded
+21 by July 1 of each year.
+22 (d) On or before December 1 of each calendar year, the state board
+23 shall electronically submit a report to the Clerk of the Legislature on
+24 the grant program, including, but not limited to, the recipients of the
+25 program and evaluations of the effectiveness of the grant program. The
+26 State Board of Education may adopt and promulgate rules and regulations
+27 to carry out this subsection.
+28 (3) The State Department of Education Improvement Grant Fund is
+29 created. The fund shall be administered by the State Department of
+30 Education and shall consist of transfers pursuant to section 79-3501,
+31 repayments of grant funds, and interest payments received in the course
+-2-
+
+AM2767 AM2767
+LB937 LB937
+TTB - 03/18/2026 TTB - 03/18/2026
+1 of administering this section. The fund shall be used to carry out this
+2 section and for the centralized education records system for students
+3 under the jurisdiction of a juvenile court and the employment of
+4 registrars as provided under subsection (5) of section 79-303.01.
+5 Transfers may be made from the fund to the Education Future Fund at the
+6 direction of the Legislature. Any money in the State Department of
+7 Education Improvement Grant Fund available for investment shall be
+8 invested by the state investment officer pursuant to the Nebraska Capital
+9 Expansion Act and the Nebraska State Funds Investment Act.
+10 Sec. 14. Section 79-1248, Reissue Revised Statutes of Nebraska, is
+11 amended to read:
+12 79-1248 The powers and duties of the Educational Service Unit
+13 Coordinating Council include, but are not limited to:
+14 (1) Providing public access to lists of qualified distance education
+15 courses;
+16 (2) Collecting and providing school schedules for participating
+17 educational entities;
+18 (3) Facilitation of scheduling for qualified distance education
+19 courses;
+20 (4) Brokering of qualified distance education courses to be
+21 purchased by educational entities;
+22 (5) Assessment of distance education needs and evaluation of
+23 distance education services;
+24 (6) Compliance with technical standards as set forth by the Nebraska
+25 Information Technology Commission and academic standards as set forth by
+26 the State Department of Education related to distance education;
+27 (7) Establishment of a system for scheduling courses brokered by the
+28 council and for choosing receiving educational entities when the demand
+29 for a course exceeds the capacity as determined by either the technology
+30 available or the course provider;
+31 (8) Administration of learning management systems, either through
+-3-
+
+AM2767 AM2767
+LB937 LB937
+TTB - 03/18/2026 TTB - 03/18/2026
+1 the staff of the council or by delegation to an appropriate educational
+2 entity, with the funding for such systems provided by participating
+3 educational entities; and
+4 (9) Coordination with educational service units and postsecondary
+5 educational institutions to provide assistance for instructional design
+6 for both two-way interactive video distance education courses and the
+7 offering of graduate credit courses in distance education; and .
+8 (10) Facilitating coordination and collaboration with the State
+9 Board of Education, the department, the office of Chief Information
+10 Officer, and educational service units to support the implementation of
+11 the K-12 Education Cybersecurity Act. The council shall serve in a
+12 nonregulatory capacity, providing technical assistance, statewide
+13 alignment, and implementation support to educational service units and
+14 schools as defined in section 27 of this act.
+15 Sec. 17. Section 79-3501, Revised Statutes Supplement, 2025, is
+16 amended to read:
+17 79-3501 (1) For fiscal years through fiscal year 2023-24, the money
+18 available to be used for education pursuant to subdivision (3)(b) of
+19 section 9-812 shall be transferred to the Nebraska Education Improvement
+20 Fund.
+21 (2) For fiscal years 2024-25 through 2028-29, the money available to
+22 be used for education pursuant to subdivision (3)(b) of section 9-812
+23 shall be transferred as follows:
+24 (a) Eight percent to the Behavioral Training Cash Fund;
+25 (b) Two percent to the College Pathway Program Cash Fund;
+26 (c) Seven percent to the Community College Gap Assistance Program
+27 Fund;
+28 (d) Ten percent to the State Department of Education Improvement
+29 Grant Fund;
+30 (e) Three percent to fund distance education incentives pursuant to
+31 section 79-1337;
+-4-
+
+AM2767 AM2767
+LB937 LB937
+TTB - 03/18/2026 TTB - 03/18/2026
+1 (f) One percent to the Door to College Scholarship Fund;
+2 (g) Eight percent to the Excellence in Teaching Cash Fund;
+3 (h) One and one-half percent to the Expanded Learning Opportunity
+4 Grant Fund;
+5 (i) One and one-half percent to the Mental Health Training Cash
+6 Fund; and
+7 (j) Fifty-eight percent to the Nebraska Opportunity Grant Fund.
+8 (3) For fiscal year 2029-30 and each fiscal year thereafter, the
+9 money available to be used for education pursuant to subdivision (3)(b)
+10 of section 9-812 shall be transferred as the Legislature may direct.
+11 (4)(a) The Nebraska Education Improvement Fund is created. The fund
+12 shall consist of money transferred pursuant to subsection (1) of this
+13 section and any other funds transferred by the Legislature. Transfers may
+14 be made from the fund to the Education Future Fund at the direction of
+15 the Legislature. The Nebraska Education Improvement Fund shall be
+16 allocated, after actual and necessary administrative expenses, as
+17 provided in this subsection for fiscal years 2016-17 through 2023-24. A
+18 portion of each allocation for fiscal year 2023-24 may be retained by the
+19 agency to which the allocation is made or the agency administering the
+20 fund to which the allocation is made for actual and necessary expenses
+21 incurred by such agency for administration, evaluation, and technical
+22 assistance related to the purposes of the allocation, except that no
+23 amount of the allocation to the Nebraska Opportunity Grant Fund may be
+24 used for such purposes.
+25 (b) For fiscal years 2017-18 through 2023-24, an amount equal to ten
+26 percent of the revenue received by the Nebraska Education Improvement
+27 Fund in the prior fiscal year shall be retained in the fund at all times
+28 plus any interest earned during the current fiscal year. The balance of
+29 the fund on July 26, 2024, less three percent of the money received for
+30 the fourth quarter of fiscal year 2023-24, shall be transferred to the
+31 Behavioral Training Cash Fund.
+-5-
+
+AM2767 AM2767
+LB937 LB937
+TTB - 03/18/2026 TTB - 03/18/2026
+1 (c) For fiscal year 2023-24, the Nebraska Education Improvement Fund
+2 shall be allocated as follows:
+3 (i) One percent of the allocated funds to the Expanded Learning
+4 Opportunity Grant Fund to carry out the Expanded Learning Opportunity
+5 Grant Program Act;
+6 (ii) Seventeen percent of the allocated funds to the State
+7 Department of Education Improvement Grant Fund to be used for competitive
+8 innovation grants and cybersecurity pursuant to section 79-1054;
+9 (iii) Nine percent of the allocated funds to the Community College
+10 Gap Assistance Program Fund to carry out the community college gap
+11 assistance program;
+12 (iv) Eight percent of the allocated funds to the Excellence in
+13 Teaching Cash Fund to carry out the Excellence in Teaching Act;
+14 (v) Sixty-two percent of the allocated funds to the Nebraska
+15 Opportunity Grant Fund to carry out the Nebraska Opportunity Grant Act in
+16 conjunction with appropriations from the General Fund; and
+17 (vi) Three percent of the allocated funds to fund distance education
+18 incentives pursuant to section 79-1337.
+19 (d) For fiscal year 2029-30 and each fiscal year thereafter, the
+20 Nebraska Education Improvement Fund shall be allocated as the Legislature
+21 may direct.
+22 (e) Any money in the fund available for investment shall be invested
+23 by the state investment officer pursuant to the Nebraska Capital
+24 Expansion Act and the Nebraska State Funds Investment Act.
+25 (5) A portion of each transfer pursuant to subdivisions (2)(c), (e),
+26 (f), (g), (h), and (i) of this section may be retained by the agency
+27 administering the fund to which such transfer is made for actual and
+28 necessary expenses incurred by such agency for administration,
+29 evaluation, and technical assistance related to the purposes of the
+30 transfer.
+31 (6)(a) On or before September 20, 2022, and on or before each
+-6-
+
+AM2767 AM2767
+LB937 LB937
+TTB - 03/18/2026 TTB - 03/18/2026
+1 September 20 thereafter, (i) any department or agency receiving a
+2 transfer or acting as the administrator for a fund receiving a transfer
+3 pursuant to subsection (2) or (4) of this section, (ii) any recipient or
+4 subsequent recipient of money from any such fund, and (iii) any service
+5 contractor responsible for managing any portion of any such fund or any
+6 money disbursed from any such fund on behalf of any entity shall prepare
+7 and submit an annual report to the Auditor of Public Accounts in a manner
+8 prescribed by the auditor for the immediately preceding July 1 through
+9 June 30 fiscal year detailing information regarding the use of such fund
+10 or such money.
+11 (b) The Auditor of Public Accounts shall annually compile a summary
+12 of the annual reports received pursuant to subdivision (6)(a) of this
+13 section, any audits related to transfers pursuant to subsection (2) or
+14 (4) of this section conducted by the Auditor of Public Accounts, and any
+15 findings or recommendations related to such transfers into a consolidated
+16 annual report and shall submit such consolidated annual report
+17 electronically to the Legislature on or before January 1, 2023, and on or
+18 before each January 1 thereafter.
+19 (c) For purposes of this subsection, recipient, subsequent
+20 recipient, or service contractor means a nonprofit entity that expends
+21 funds transferred pursuant to subsection (2) or (4) of this section to
+22 carry out a state program or function, but does not include an individual
+23 who is a direct beneficiary of such a program or function.
+24 (7) On or before December 31, 2027, the Education Committee of the
+25 Legislature shall electronically submit recommendations to the Clerk of
+26 the Legislature regarding how the money used for education from the State
+27 Lottery Operation Trust Fund should be allocated to best advance the
+28 educational priorities of the state for the five-year period beginning
+29 with fiscal year 2029-30.
+30 Sec. 26. Sections 26 to 31 of this act shall be known and may be
+31 cited as the K-12 Education Cybersecurity Act.
+-7-
+
+AM2767 AM2767
+LB937 LB937
+TTB - 03/18/2026 TTB - 03/18/2026
+1 Sec. 27. For purposes of the K-12 Education Cybersecurity Act:
+2 (1) Commission means the Nebraska Information Technology Commission;
+3 (2) Consortium means a group of schools joined together for purposes
+4 of receiving funding pursuant to the K-12 Education Cybersecurity Act for
+5 use in purchasing and providing cybersecurity products and services for
+6 such schools that is facilitated by an educational service unit;
+7 (3) Coordinating council means the Educational Service Unit
+8 Coordinating Council;
+9 (4) Coordinating council director means the council director of the
+10 Educational Service Unit Coordinating Council;
+11 (5) Cybersecurity framework means a structured set of guidelines or
+12 standards that are used by a governing board to identify, assess, and
+13 manage such governing board's readiness for cybersecurity threats;
+14 (6) Department means the State Department of Education;
+15 (7) Governing board means the school board of a school district, the
+16 governing board of a private, denominational, or parochial school, or the
+17 board of directors of an educational service unit;
+18 (8) Implementation coordinator means the individual assigned by the
+19 coordinating council to assist educational service units in local
+20 implementation of cybersecurity measures;
+21 (9) Office means the office of Chief Information Officer; and
+22 (10) School means a school district or an approved or accredited
+23 private, denominational, or parochial school offering instruction in
+24 elementary or high school grades.
+25 Sec. 28. (1) The coordinating council shall serve as the statewide
+26 point of contact for implementation of the K-12 Education Cybersecurity
+27 Act. The coordinating council shall facilitate, support, and coordinate
+28 cybersecurity initiatives across educational service units and schools,
+29 with an emphasis on fostering partnerships, aligning statewide
+30 strategies, and encouraging the leveraging of multiple funding sources to
+31 sustain such initiatives.
+-8-
+
+AM2767 AM2767
+LB937 LB937
+TTB - 03/18/2026 TTB - 03/18/2026
+1 (2) The coordinating council shall assign an implementation
+2 coordinator to support educational service units for the local
+3 implementation of the K-12 Education Cybersecurity Act. The coordinator
+4 shall: (a) Serve as a liaison between the department, educational service
+5 units, the office, and other key partners; (b) facilitate statewide
+6 alignment and collaboration on cybersecurity priorities and activities,
+7 including partnerships with other governmental entities, higher education
+8 institutions, and private sector organizations; (c) support educational
+9 service units in interpreting readiness assessments and translating
+10 results into action plans; (d) provide training and support for
+11 cybersecurity tools, cybersecurity frameworks, and cybersecurity best
+12 practices tailored to the kindergarten through twelfth grade education
+13 context; (e) help organize statewide or regional training opportunities,
+14 technical assistance, and knowledge-sharing events; (f) assist in
+15 monitoring progress toward statewide cybersecurity goals in order to
+16 ensure transparency and accountability; and (g) identify and promote
+17 opportunities to braid state, federal, and private funds to maximize
+18 resources.
+19 (3) Educational service units shall be responsible for direct
+20 implementation of cybersecurity support and services for schools within
+21 their service areas, including assisting schools with readiness
+22 assessments and tool adoption.
+23 Sec. 29. (1) The department shall, in coordination with the
+24 coordinating council and subject to available funding, develop and
+25 administer a program to provide funding for the purchase of cybersecurity
+26 products and services for use in schools and educational service units.
+27 The program shall be designed to:
+28 (a) Address statewide and local cybersecurity priorities identified
+29 through readiness assessments;
+30 (b) Encourage cost-effective purchasing through shared procurement
+31 models, public-private partnerships, and the leveraging of multiple
+-9-
+
+AM2767 AM2767
+LB937 LB937
+TTB - 03/18/2026 TTB - 03/18/2026
+1 funding streams; and
+2 (c) Support both immediate cybersecurity needs and long-term
+3 cybersecurity capacity building.
+4 (2) The program shall include:
+5 (a) The process for application by and requirements for governing
+6 boards to obtain funding pursuant to the K-12 Education Cybersecurity
+7 Act, including deadlines for meeting the requirements to receive funding;
+8 (b) The process of (i) application review and scoring by the
+9 Commissioner of Education, coordinating council director, and office and
+10 (ii) approval by the department. Scoring and review of applications shall
+11 include criteria that prioritizes higher-need applications or proposals
+12 that demonstrate regional collaboration;
+13 (c) The creation of distribution methods and requirements for
+14 funding disbursement, including (i) the calculation of funding for each
+15 school and educational service unit pursuant to subdivision (3)(b)(i) of
+16 this section and (ii) how a school or educational service unit may
+17 receive or access funding, which may include via a consortium as provided
+18 in subdivision (2)(d) of this section or otherwise, as established in
+19 rules and regulations adopted and promulgated by the State Board of
+20 Education in consultation with the coordinating council and the office;
+21 (d) The creation of consortiums for access to funding under the act,
+22 including, but not limited to, the eligibility requirements and process
+23 for a governing board to join a consortium. The program created pursuant
+24 to this section shall allow for the creation of as many consortiums as
+25 are necessary to facilitate compliance with the act and to incentivize
+26 shared purchasing agreements to maximize buying power;
+27 (e) The requirement that governing boards complete an annual
+28 cybersecurity readiness assessment as provided in section 30 of this act;
+29 (f) The creation, in consultation with the office, of a list of
+30 approved cybersecurity products and services in a tiered system that (i)
+31 aligns with nationally recognized frameworks, (ii) includes cost-
+-10-
+
+AM2767 AM2767
+LB937 LB937
+TTB - 03/18/2026 TTB - 03/18/2026
+1 effective options for small or rural schools, and (iii) may be updated
+2 annually to reflect the emerging threats and technologies; and
+3 (g) Braided funding approaches, allowing schools and educational
+4 service units to combine state funding under the K-12 Education
+5 Cybersecurity Act with federal grants, local resources, and private
+6 contributions, as long as such funding is used in compliance with the
+7 approved product and service list.
+8 (3)(a) A governing board shall be eligible for funding pursuant to
+9 the K-12 Education Cybersecurity Act for use on approved cybersecurity
+10 products and services in an amount calculated by the Commissioner of
+11 Education pursuant to subdivision (b) of this subsection if such
+12 governing board (i) submits evidence that such governing board has
+13 completed the annual cybersecurity readiness assessment as provided in
+14 section 30 of this act, (ii) submits evidence that such governing board
+15 has adopted a cybersecurity policy and cybersecurity framework consistent
+16 with the model policy and framework developed by the department pursuant
+17 to section 30 of this act, and (iii) provides any other additional
+18 information required by the department to demonstrate alignment with the
+19 goals of the act.
+20 (b)(i) The Commissioner of Education, in coordination with the
+21 coordinating council director, shall annually calculate the amount of
+22 funding each governing board may receive or access pursuant to the rules
+23 and regulations adopted and promulgated by the State Board of Education
+24 in consultation with the coordinating council. Funding allocations may be
+25 adjusted based on readiness assessment results, risk level, and
+26 demonstrated financial need.
+27 (ii) The department shall use funds from the State Department of
+28 Education Improvement Grant Fund to carry out the K-12 Education
+29 Cybersecurity Act.
+30 Sec. 30. (1)(a) The department shall, in consultation with the
+31 coordinating council director and the office and subject to available
+-11-
+
+AM2767 AM2767
+LB937 LB937
+TTB - 03/18/2026 TTB - 03/18/2026
+1 funding, develop a model cybersecurity policy and cybersecurity framework
+2 based on nationally recognized best practices for kindergarten through
+3 twelfth grade education cybersecurity. Such policy and framework shall
+4 (i) define tiered levels of cybersecurity readiness, (ii) include
+5 criteria for determining risk levels and priority needs, and (iii)
+6 support alignment with both state and federal cybersecurity guidance.
+7 (b) Each governing board shall adopt a policy consistent with the
+8 model policy and framework developed pursuant to subdivision (a) of this
+9 subsection in order to be eligible to receive funding pursuant to the
+10 K-12 Education Cybersecurity Act.
+11 (2) The department shall, in consultation with the coordinating
+12 council director and the office and subject to available funding,
+13 purchase or develop a standardized cybersecurity readiness assessment for
+14 use by schools and educational service units. The assessment shall be
+15 used to (a) determine the school's readiness tier placement in the
+16 cybersecurity framework, (b) provide actionable recommendations for
+17 addressing identified vulnerabilities, (c) inform funding priorities, and
+18 (d) allow aggregation of statewide data to guide strategic planning and
+19 resource allocation.
+20 (3) Each governing board shall annually complete the cybersecurity
+21 readiness assessment to be eligible for funding under the K-12 Education
+22 Cybersecurity Act. Such assessment shall be provided at no cost to each
+23 school and educational service unit, and results shall be used by the
+24 coordinating council to measure progress over time and inform continuous
+25 improvement efforts.
+26 Sec. 31. The State Board of Education in consultation with the
+27 coordinating council may adopt and promulgate rules and regulations to
+28 carry out the K-12 Education Cybersecurity Act.
+29 2. Renumber the remaining sections, correct internal references, and
+30 correct the repealer accordingly.
+-12-

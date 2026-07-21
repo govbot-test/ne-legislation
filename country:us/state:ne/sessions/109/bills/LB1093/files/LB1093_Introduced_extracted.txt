@@ -1,0 +1,48 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LB1093 LB1093
+2026 2026
+LEGISLATURE OF NEBRASKA
+ONE HUNDRED NINTH LEGISLATURE
+SECOND SESSION
+LEGISLATIVE BILL 1093
+Introduced by Ballard, 21.
+Read first time January 15, 2026
+Committee: Transportation and Telecommunications
+1 A BILL FOR AN ACT relating to the One-Call Notification System Act; to
+2 amend section 76-2308, Reissue Revised Statutes of Nebraska; to
+3 redefine a term; and to repeal the original section.
+4 Be it enacted by the people of the State of Nebraska,
+-1-
+
+LB1093 LB1093
+2026 2026
+1 Section 1. Section 76-2308, Reissue Revised Statutes of Nebraska, is
+2 amended to read:
+3 76-2308 Excavation shall mean any activity in which earth, rock, or
+4 other material in or on the ground is moved or otherwise displaced by
+5 means of tools, equipment, or explosives and shall include grading,
+6 trenching, digging, ditching, drilling, augering, tunneling, scraping,
+7 and cable or pipe plowing or driving but shall not include (1) normal
+8 maintenance of roads if the maintenance does not change the original road
+9 grade and does not involve the road ditch, (2) tilling of soil and
+10 gardening for seeding and other agricultural purposes, (3) digging of
+11 graves or in landfills in planned locations, (4) maintenance or
+12 rebuilding of railroad track or facilities located on a railroad right-
+13 of-way by the railroad company or its contractors when such maintenance
+14 or rebuilding does not change the track grade, or (5) hand digging around
+15 the base of a pole for pole inspection as part of routine maintenance or
+16 replacement of a pole when the replacement pole is similarly sized and is
+17 installed in the existing hole, or (6) hand digging by a
+18 telecommunications service, community antenna television service, or
+19 broadband service provider to a depth not exceeding eighteen inches for
+20 the purpose of connecting a customer to the service provider's network.
+21 Sec. 2. Original section 76-2308, Reissue Revised Statutes of
+22 Nebraska, is repealed.
+-2-

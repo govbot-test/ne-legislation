@@ -1,0 +1,1423 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LB1126 LB1126
+2026 2026
+LEGISLATURE OF NEBRASKA
+ONE HUNDRED NINTH LEGISLATURE
+SECOND SESSION
+LEGISLATIVE BILL 1126
+Introduced by Moser, 22.
+Read first time January 20, 2026
+Committee: Transportation and Telecommunications
+1 A BILL FOR AN ACT relating to transportation; to amend sections 60-507,
+2 60-513, 60-695, and 60-6,299, Reissue Revised Statutes of Nebraska,
+3 sections 39-1351, 39-2802, 39-2814, 39-2825, 60-699, and 60-6,123,
+4 Revised Statutes Cumulative Supplement, 2024, and sections 60-601,
+5 60-605, and 60-6,298, Revised Statutes Supplement, 2025; to adopt
+6 the Infrastructure Development Investment Program Act; to change
+7 certain applicant qualification exemptions for transportation
+8 infrastructure construction contracts; to redefine a term, eliminate
+9 a requirement for progressive design-build contracts, change public-
+10 private partnership delivery method provisions, provide duties for
+11 the Department of Transportation, and provide for unsolicited
+12 proposals under the Transportation Innovation Act; to change
+13 provisions relating to the suspension of operator's licenses by the
+14 Department of Motor Vehicles and the security required by the Motor
+15 Vehicle Safety Responsibility Act; to define a term, change traffic
+16 accident reporting requirements, change requirements for date of
+17 birth information that is included in certain vehicle accident
+18 reports, provide for the control of bicycle traffic, and change and
+19 provide for certain permit fees under the Nebraska Rules of the
+20 Road; to harmonize provisions; and to repeal the original sections.
+21 Be it enacted by the people of the State of Nebraska,
+-1-
+
+LB1126 LB1126
+2026 2026
+1 Section 1. Sections 1 to 39 of this act shall be known and may be
+2 cited as the Infrastructure Development Investment Program Act.
+3 Sec. 2. The purpose of the Infrastructure Development Investment
+4 Program Act is to assist in financing qualified projects by providing
+5 loans and other forms of financial assistance to eligible entities for
+6 the construction, improvement, or enhancement of transportation
+7 infrastructure that is necessary for public purposes.
+8 Sec. 3. For the purposes of the Infrastructure Development
+9 Investment Program Act, unless the context otherwise requires:
+10 (1) Capitalization means the aggregate of all funds deposited in the
+11 investment program from any federal, state, local, or private source,
+12 including, but not limited to, any transfer, grant, loan, loan repayment,
+13 investment earning, and bond proceed;
+14 (2) Commission means the State Highway Commission;
+15 (3) Department means the Department of Transportation or any
+16 successor agency designated to implement and administer the
+17 Infrastructure Development Investment Program Act;
+18 (4) Eligible cost means:
+19 (a) For any project that is federally funded, any cost permitted
+20 under an applicable federal statute, regulation, or guidance document
+21 that governs state infrastructure banks, transportation credit programs,
+22 or revolving loan funds;
+23 (b) For any project that is funded by this state or a political
+24 subdivision of this state, any cost, including, but not limited to, costs
+25 for any: Preliminary engineering; traffic, revenue, or environmental
+26 study; right-of-way acquisition; legal, financial, and technical
+27 consulting service; construction or construction management; project
+28 facility; equipment; or nonoperating cost that is necessary for the
+29 completion of an eligible project; or
+30 (c) For any project that is a hybrid or multi-sector project, any
+31 cost approved by the commission, including any intermodal or utility-
+-2-
+
+LB1126 LB1126
+2026 2026
+1 related infrastructure that is necessary for project integration;
+2 (5) Eligible entity means any political subdivision of this state or
+3 a private partner engaged in a public-private partnership as defined in
+4 section 39-2802, including any combination of two or more such political
+5 subdivisions or private partners, acting jointly to finance, construct,
+6 own, or operate an eligible project;
+7 (6)(a) Eligible project means any transportation infrastructure
+8 project that provides any of the following public benefits:
+9 (i) Accelerating the delivery of transportation improvements;
+10 (ii) Enhancing the mobility or safety of people in this state;
+11 (iii) Enhancing the economy of this state;
+12 (iv) Promoting economic development in this state; or
+13 (v) Improving the quality of life of the general public; and
+14 (b) Eligible project includes, but is not limited to, any highway,
+15 street, road, bridge, transit system, rail facility, airport, port, and
+16 bicycle or pedestrian facility;
+17 (7) Financial assistance includes, but is not limited to, any loan,
+18 credit enhancement, capital or debt service reserve, interest rate
+19 subsidy, provision of letter of credit, line of credit, and guarantee,
+20 and any other lawful financing mechanism that is approved by the
+21 commission and, where applicable, is consistent with federal and state
+22 law;
+23 (8)(a) Financing agreement means any contract or instrument executed
+24 between the investment program and an eligible entity for a loan or
+25 financial assistance; and
+26 (b) Financing agreement includes, but is not limited to, any loan
+27 agreement, trust indenture, security or reimbursement agreement,
+28 guarantee agreement, and resolution, and any similar instrument that is
+29 approved by the commission that contains loan terms and repayment
+30 provisions; and
+31 (9) Investment program means the infrastructure development
+-3-
+
+LB1126 LB1126
+2026 2026
+1 investment program created under section 4 of this act.
+2 Sec. 4. (1) The infrastructure development investment program is
+3 created and shall be housed within the department for administrative
+4 purposes.
+5 (2) The commission shall administer the investment program, with
+6 administrative and operational support from the department. The
+7 department shall provide the commission with the necessary personnel to
+8 manage the day-to-day operations of the investment program.
+9 (3) The commission is the final authority for selecting projects to
+10 receive financial assistance from the investment program.
+11 Sec. 5. (1) The commission shall:
+12 (a) Adopt bylaws, policies, and operating procedures that govern the
+13 administration of the investment program;
+14 (b) Approve or deny applications for financial assistance based on
+15 established evaluation criteria;
+16 (c) Establish financial, risk management, and internal control
+17 policies consistent with generally accepted accounting principles; and
+18 (d) Approve annual budgets, audits, and reports for the investment
+19 program.
+20 (2) The commission may:
+21 (a) Enter into any cooperative agreement with any federal or state
+22 agency, local government, or private entity; and
+23 (b) Delegate any administrative or technical function to any
+24 personnel or agent of the commission as necessary to implement the
+25 Infrastructure Development Investment Program Act.
+26 Sec. 6. The commission may establish an advisory committee that is
+27 comprised of representatives from eligible entities, metropolitan
+28 planning organizations, and the private sector for the purpose of
+29 providing guidance on project prioritization, credit policy, or
+30 compliance matters.
+31 Sec. 7. (1) The Infrastructure Development Investment Program Fund
+-4-
+
+LB1126 LB1126
+2026 2026
+1 is created. The commission shall administer the fund. The fund shall
+2 consist of any:
+3 (a) Transfer authorized by the Legislature;
+4 (b) Federal money, including, but not limited to, any loan, grant,
+5 or cooperative agreement proceeds;
+6 (c) State or local grant;
+7 (d) Contribution, donation, endowment, or grant from any public or
+8 private source;
+9 (e) Repayment, interest, or fee, or other income generated by
+10 investment program assistance;
+11 (f) Bond proceeds or other financing proceeds; and
+12 (g) Lawful source that is approved by the commission.
+13 (2) Money in the fund may be used by the commission for any purpose
+14 that is described in section 8 of this act.
+15 (3) Any money in the fund available for investment shall be invested
+16 by the state investment officer pursuant to the Nebraska Capital
+17 Expansion Act and the Nebraska State Funds Investment Act.
+18 (4) All repayments of money provided from the fund and all
+19 investment earnings from money in the fund shall be credited to the fund.
+20 (5) It is the intent of the Legislature that all money in the fund
+21 shall be appropriated each fiscal year for the purposes that are
+22 described in section 8 of this act.
+23 Sec. 8. Subject to applicable federal and state law, money in the
+24 Infrastructure Development Investment Program Fund may be used to:
+25 (1) Provide any financial assistance to any eligible entity for any
+26 eligible project;
+27 (2) Establish reserves, capitalized interest, credit enhancement,
+28 and pooled financing structures that strengthen the credit capacity of
+29 the investment program;
+30 (3) Pay reasonable administrative costs of the investment program,
+31 including portfolio monitoring and collection; and
+-5-
+
+LB1126 LB1126
+2026 2026
+1 (4) Refinance or obtain interim financing used for any eligible
+2 cost.
+3 Sec. 9. (1) For administration of the investment program, the
+4 commission may establish any:
+5 (a) Federal, state, or local account or subaccount within the
+6 investment program that is necessary to meet any applicable federal or
+7 state law requirement;
+8 (b) Bond-related account or subaccount within the investment program
+9 that is necessary to meet any applicable federal or state law
+10 requirement; or
+11 (c) Account within the investment program that the commission
+12 determines is necessary or desirable to implement the Infrastructure
+13 Development Investment Program Act.
+14 (2) The investment program shall consist of the following account
+15 structure:
+16 (a) Federal accounts: Separate accounts established for federal
+17 highway, transit, rail, and rural project funds;
+18 (b) State and local accounts: Separate accounts for state and local
+19 transportation funds; and
+20 (c) Administrative accounts: Separate accounts to be used by the
+21 department for the cost of administering the investment program.
+22 (3) The investment program shall comply with all applicable federal
+23 laws and regulations prohibiting the commingling of certain federal funds
+24 deposited in the investment program.
+25 (4) Money in each account shall be tracked and used consistent with
+26 the legal requirements of the source of such money.
+27 Sec. 10. The investment program may make any contract and execute
+28 any instrument that is necessary or convenient to provide financial
+29 assistance, including any:
+30 (1) Loan agreement, trust indenture, intercept agreement, or
+31 reimbursement agreement;
+-6-
+
+LB1126 LB1126
+2026 2026
+1 (2) Acceptance of a pledge of project revenue, special assessment,
+2 user fee, tax increment, or other legally available revenue;
+3 (3) Requirement or funding of any reserve fund to secure repayment;
+4 or
+5 (4) Participation in any pooled financing or senior-subordinate
+6 structure.
+7 Sec. 11. (1) Any political subdivision may apply to the department
+8 for a loan from the investment program on a form prescribed by the
+9 department.
+10 (2) The terms of a duly executed loan or assistance contract are
+11 binding on the borrower, and the borrower shall unconditionally repay
+12 from pledged sources.
+13 Sec. 12. If a borrower of a loan from the investment program fails
+14 to comply with any contract term related to such loan or fails to make
+15 any payment when due, the investment program may:
+16 (1) Pursue any legal or equitable remedy;
+17 (2) Request that the Legislature reduce any appropriation to such
+18 borrower by the amount that is owed to the investment program and
+19 appropriate such amount to the investment program. The money for any such
+20 appropriation to the investment program shall be transferred into the
+21 Infrastructure Development Investment Program Fund and used to pay the
+22 outstanding debt of such borrower; and
+23 (3) Draw on any pledged reserve or credit facility that is securing
+24 the obligation.
+25 Sec. 13. The investment program shall maintain accounts in
+26 accordance with generally accepted accounting principles and applicable
+27 federal requirements, subject to annual independent audit.
+28 Sec. 14. An obligation of the investment program is a special,
+29 limited obligation that is payable solely from the revenue and assets of
+30 the investment program and shall not constitute a pledge of the full
+31 faith and credit of the State of Nebraska unless expressly authorized by
+-7-
+
+LB1126 LB1126
+2026 2026
+1 separate statute.
+2 Sec. 15. (1) The investment program may provide financial
+3 assistance to any eligible entity for any eligible project. Such
+4 financial assistance may be in any lawful form, including any loan, loan
+5 guarantee, line of credit, letter of credit, lease, lease-purchase
+6 agreement, interest-rate subsidy, or credit enhancement, or any other
+7 financing instrument that is approved by the commission.
+8 (2)(a) All financial assistance provided by the investment program
+9 shall be evidenced by a financing agreement that sets forth the principal
+10 amount, interest rate, repayment schedule, security provisions,
+11 covenants, and remedies upon default.
+12 (b) The commission shall establish:
+13 (i) Standardized documents for financial assistance that is provided
+14 by the investment program; and
+15 (ii) Credit criteria that will be applied when the investment
+16 program is deciding to provide financial assistance in order to ensure
+17 consistency, transparency, and fiscal integrity.
+18 (3) Interest rates shall be set by the commission, within the
+19 limitations of section 45-101.03, to reflect project risk, market
+20 conditions, term length, and creditworthiness, and may include subsidies
+21 for projects of statewide significance or in economically distressed
+22 areas.
+23 (4) The commission may charge an application fee for providing
+24 financial assistance from the investment program. Such fee shall not
+25 exceed one thousand dollars.
+26 Sec. 16. (1) The maturity for any financial assistance that is
+27 provided under the Infrastructure Development Investment Program Act
+28 shall not exceed the lesser of the useful life of the financed asset or
+29 thirty years, unless federal law allows a longer term or the commission
+30 determines a longer term pursuant to state law.
+31 (2) At the discretion of the commission, the repayment of any
+-8-
+
+LB1126 LB1126
+2026 2026
+1 financial assistance that is provided under the Infrastructure
+2 Development Investment Program Act shall begin after completion of the
+3 project or upon the generation of revenue from the project.
+4 (3) The borrower of any financial assistance that is provided under
+5 the Infrastructure Development Investment Program Act may prepay any
+6 required payment for such financial assistance. No penalty is permitted
+7 for such prepayment unless provided for by a bond covenant.
+8 Sec. 17. (1) Financial assistance that is provided under the
+9 Infrastructure Development Investment Program Act shall be secured by the
+10 pledge of revenue from the project or system, any legally available
+11 source, or any collateral required by the commission.
+12 (2) The commission may require any reserve, intercept of any state
+13 aid allocation, guarantee, or letter of credit to secure repayment.
+14 (3) A public borrower may pledge revenue or credit only to the
+15 extent permitted by state law and by ordinance or resolution of a
+16 political subdivision.
+17 Sec. 18. (1) The investment program may subordinate its lien to
+18 senior debt if the commission determines that such subordination is
+19 necessary to finance the project and is consistent with any bond
+20 covenant.
+21 (2) The investment program may extend, defer, capitalize, or
+22 restructure repayments to preserve project viability or to mitigate
+23 financial hardship, subject to federal requirements and the approval of
+24 the commission.
+25 Sec. 19. In the event of a default by a borrower under the
+26 Infrastructure Development Investment Program Act, the investment program
+27 may pursue any lawful remedy, including acceleration, set-off, intercept
+28 of state aid that is otherwise due to the borrower, or transfer of
+29 collateral, consistent with constitutional and federal limitations.
+30 Sec. 20. (1) The investment program may provide financial
+31 assistance to an eligible entity to pay for all or part of the eligible
+-9-
+
+LB1126 LB1126
+2026 2026
+1 cost of an eligible project. The investment program may require the
+2 eligible entity to enter into a financing agreement in connection with
+3 its financial assistance obligation.
+4 (2) The commission shall determine the form and content of such
+5 financing agreement and financial assistance obligations, including the
+6 term and rate or rates of interest on a financing agreement.
+7 (3) The terms and conditions of financial assistance from any
+8 federal account shall comply with applicable federal requirements.
+9 Sec. 21. The commission shall prioritize the approval of
+10 applications for financial assistance based on objective criteria,
+11 including, but not limited to:
+12 (1) Economic impact and job creation;
+13 (2) Safety and system resilience benefits;
+14 (3) Readiness and financial feasibility;
+15 (4) Public benefit;
+16 (5) Consistency with statewide transportation goals;
+17 (6) Leverage of private capital or money that is not provided by the
+18 State of Nebraska;
+19 (7) Local support of the project; and
+20 (8) The ability for the applicant to repay the financial assistance
+21 according to the established terms and conditions.
+22 Sec. 22. The investment program shall cause an annual independent
+23 audit of all financial activities, including loan portfolios, investment
+24 earnings, debt obligations, and fund transfers. The audit shall be
+25 performed by a certified public accounting firm in accordance with
+26 generally accepted government auditing standards.
+27 Sec. 23. (1) The investment program shall prepare and
+28 electronically submit a report to the Clerk of the Legislature no later
+29 than November 1 of each year. The report shall include the following
+30 information relating to the investment program:
+31 (a) A statement of financial position and changes in net assets;
+-10-
+
+LB1126 LB1126
+2026 2026
+1 (b) A summary of lending and investment activities for each account
+2 and eligible project;
+3 (c) A list of each project that is financed, including the borrower,
+4 purpose, loan terms, and repayment status; and
+5 (d) Administrative and operating costs, fees collected, and reserve
+6 balances.
+7 (2) Each such report shall be published and made publicly available
+8 on the website for the investment program.
+9 Sec. 24. The investment program shall operate in compliance with:
+10 (1) Federal law and program guidance applicable to state
+11 infrastructure banks, including capitalization, use-of-funds, and
+12 reporting requirements established under 23 U.S.C. 610, or any other
+13 applicable federal law, as such federal law existed on January 1, 2026;
+14 (2) State fiscal and procurement laws, except where specific
+15 exemptions are provided under the Infrastructure Development Investment
+16 Program Act; and
+17 (3) Any cooperative agreements entered into with the United States
+18 Department of Transportation and its operating administrations or other
+19 federal agencies.
+20 Sec. 25. The investment program is authorized to issue revenue
+21 bonds, notes, or other evidence of indebtedness for the purposes of
+22 financing, refinancing, or refunding loans and other eligible costs under
+23 the Infrastructure Development Investment Program Act. Obligations may be
+24 issued in any amount and at any time as approved by the commission to
+25 meet the funding needs of any approved project. The issuance of bonds
+26 under the Infrastructure Development Investment Program Act is separate
+27 and distinct from any authority or limitation to issue bonds under the
+28 Nebraska Highway Bond Act.
+29 Sec. 26. (1) Each obligation that is issued by the investment
+30 program shall be a special, limited obligation that is payable solely
+31 from revenue, repayments, pledged receipts, or other legally available
+-11-
+
+LB1126 LB1126
+2026 2026
+1 funds of the investment program, and shall not constitute a general
+2 obligation of the State of Nebraska or a pledge of the full faith and
+3 credit of the State of Nebraska.
+4 (2) Each obligation shall bear a clear statement on its face that
+5 such obligation is a special, limited obligation that is payable solely
+6 from revenue, repayments, pledged receipts, or other legally available
+7 funds of the investment program, and shall not constitute a general
+8 obligation of the State of Nebraska or a pledge of the full faith and
+9 credit of the State of Nebraska.
+10 (3) The holder of an obligation shall not have the right to compel
+11 the levy of any tax or compel any appropriation by the State of Nebraska
+12 for the payment of debt service.
+13 Sec. 27. (1) The investment program shall maintain a debt service
+14 coverage ratio consistent with prudent fiscal standards and bond
+15 covenants.
+16 (2) No obligation shall be issued that would cause the debt or
+17 liability of the investment program to exceed available pledged revenue.
+18 Sec. 28. (1) Prior to issuance, an obligation shall be authorized
+19 by a resolution of the commission specifying the principal amount,
+20 purpose, interest rate or rates, maturities of not to exceed forty years,
+21 redemption provisions, and all other terms of the obligation.
+22 (2) The commission may delegate execution and sale authority to any
+23 designated issuing authority.
+24 (3) Bond proceedings may include:
+25 (a) A trust indenture or similar agreement that establishes pledges
+26 of revenue, covenants, reserve requirements, and flow-of-funds
+27 structures;
+28 (b) Authorization for refunding or advance refunding;
+29 (c) Creation of special funds and reserve accounts; and
+30 (d) Appointment of trustees, paying agents, and financial advisors
+31 as needed.
+-12-
+
+LB1126 LB1126
+2026 2026
+1 Sec. 29. (1) The investment program may pledge any repayment,
+2 investment earning, or interest subsidy, or any other investment program
+3 income to the payment of any obligation or related reserve.
+4 (2) Each such pledge shall constitute a valid and binding lien upon
+5 the pledged revenue from the time of the pledge, without the need for
+6 physical delivery, filing, or recording.
+7 (3) Each such lien shall be valid and enforceable against any party
+8 having a claim of any kind against the investment program, whether or not
+9 such party has notice of the lien.
+10 Sec. 30. (1) Any obligation may be sold at public or private sale,
+11 as determined by the commission, at any price and interest rate deemed to
+12 be in the best interest of the investment program.
+13 (2) Each obligation shall be executed on behalf of the investment
+14 program by the officer authorized pursuant to rules and regulations that
+15 are adopted and promulgated by the commission.
+16 (3) Each such obligation may bear a facsimile seal and signature,
+17 which remain valid even if the officer ceases to hold office prior to
+18 delivery.
+19 Sec. 31. The investment program may issue any refunding or advance
+20 refunding obligation to retire outstanding debt, reduce debt service,
+21 restructure any maturity, or achieve savings. Any such refunding shall
+22 not extend any final maturity beyond the useful life of the financed
+23 asset.
+24 Sec. 32. (1) The investment program shall maintain a bond service
+25 account and such reserve accounts as required by bond proceedings.
+26 (2) Debt service payments from pledged revenue or other legally
+27 available money that are remitted to the State Treasurer shall be
+28 credited by the State Treasurer to the Infrastructure Development
+29 Investment Program Fund.
+30 (3) For each fiscal year, the investment program shall annually
+31 determine and set aside an amount of money that is sufficient to pay the
+-13-
+
+LB1126 LB1126
+2026 2026
+1 principal, interest, and costs related to the payment of such principal
+2 and interest that are due during such fiscal year.
+3 Sec. 33. An obligation that is issued under the Infrastructure
+4 Development Investment Program Act, the transfer of such obligation, and
+5 the income from such issuance and transfer, including the profit from the
+6 sale of such obligation, shall be exempt from state and local taxation.
+7 Sec. 34. An obligation that is issued under the Infrastructure
+8 Development Investment Program Act shall be a lawful investment for any
+9 bank, trust company, insurance company, pension fund, or other fiduciary,
+10 and may be accepted as security for the deposit of public money.
+11 Sec. 35. Each obligation shall be issued in conformity with the
+12 Infrastructure Development Investment Program Act and federal securities
+13 regulations, including continuing disclosure requirements and limitations
+14 on arbitrage earnings under 26 U.S.C. 148, as such section existed on
+15 January 1, 2026.
+16 Sec. 36. (1) In the event of default, any bondholder or trustee may
+17 enforce any covenant through any mandamus, injunction, or other equitable
+18 proceeding, consistent with the bond proceedings.
+19 (2) Any trustee may be empowered to receive and administer pledged
+20 revenue and ensure payment of debt service under the terms of a trust
+21 indenture.
+22 Sec. 37. (1) The commission may adopt and promulgate rules and
+23 regulations to carry out the Infrastructure Development Investment
+24 Program Act.
+25 (2) No later than July 1, 2027, the commission shall adopt and
+26 promulgate the following rules and regulations to provide for:
+27 (a) The transparent, equitable, and nondiscriminatory administration
+28 of financial assistance;
+29 (b) Public oversight and consistent scoring criteria for
+30 applications and project evaluations;
+31 (c) Systems to track compliance, defaults, and repayments;
+-14-
+
+LB1126 LB1126
+2026 2026
+1 (d) Prompt corrective actions to address any audit finding or
+2 material weakness;
+3 (e) Administration of the Infrastructure Development Investment
+4 Program Act and to respond to evolving best practices in infrastructure
+5 finance and management; and
+6 (f) Application procedures, loan evaluation, pricing standards,
+7 credit ratings, and ongoing monitoring to protect the integrity of the
+8 portfolio of the investment program and ensure access across
+9 jurisdictions.
+10 Sec. 38. (1) The commission shall adopt and maintain internal
+11 control policies, investment standards, and risk management frameworks to
+12 ensure prudent fiscal operations.
+13 (2) Such controls shall comply with applicable state auditing,
+14 ethics, and administrative procedures.
+15 Sec. 39. The investment program shall maintain a website for access
+16 by the public. At a minimum, such website shall contain reports published
+17 by the investment program or the commission, rules and regulations
+18 adopted and promulgated under the Infrastructure Development Investment
+19 Program Act, and information for obtaining financial assistance from the
+20 investment program.
+21 Sec. 40. Section 39-1351, Revised Statutes Cumulative Supplement,
+22 2024, is amended to read:
+23 39-1351 (1) Except as provided in subsection (2) of this section,
+24 any person desiring to submit to the department a bid for the performance
+25 of any contract for the construction, reconstruction, improvement,
+26 maintenance, or repair of roads, bridges, and their appurtenances, which
+27 the department proposes to let, shall apply to the department for
+28 prequalification. Such application shall be made not later than five days
+29 before the letting of the contract unless fewer than five days is
+30 specified by the department. The department shall determine the extent of
+31 any applicant's qualifications by a full and appropriate evaluation of
+-15-
+
+LB1126 LB1126
+2026 2026
+1 the applicant's experience, bonding capacity as determined by a bonding
+2 agency licensed to do business in the State of Nebraska or other
+3 sufficient financial showing deemed satisfactory by the department, and
+4 performance record. In determining the qualification of an applicant to
+5 bid on any particular contract, the department shall consider the
+6 resources available for the particular contract contemplated.
+7 (2) The department may, in its sole discretion, grant an exemption
+8 from all prequalification requirements for (a) any contract for:
+9 (a) The the construction, reconstruction, improvement, maintenance,
+10 or repair of roads, bridges, and their appurtenances if the estimate of
+11 the department for such work is two hundred fifty thousand dollars or
+12 less; or
+13 (b) The any contract for the construction, reconstruction,
+14 improvement, maintenance, or repair of roads, bridges, and their
+15 appurtenances if such work is of an emergency nature; .
+16 (c) Turf maintenance or vegetation control, including mowing, weed
+17 spraying, weed maintenance, tree trimming, tree removal, and tree
+18 maintenance;
+19 (d) Fence installation, repair, or maintenance;
+20 (e) Ditch cleaning or erosion control;
+21 (f) Culvert repair or maintenance, including relining, cleanout, and
+22 other structural repairs or maintenance;
+23 (g) Any device for an intelligent transportation system, any other
+24 technological device, or the repair or maintenance of any such type of
+25 device;
+26 (h) Repair or maintenance of any rest area or weigh station; or
+27 (i) Any repair or maintenance relating to any road, bridge, or
+28 appurtenance of any road or bridge, if such repair or maintenance is of a
+29 routine nature.
+30 Sec. 41. Section 39-2802, Revised Statutes Cumulative Supplement,
+31 2024, is amended to read:
+-16-
+
+LB1126 LB1126
+2026 2026
+1 39-2802 For purposes of the Transportation Innovation Act:
+2 (1) Alternative technical concept means changes suggested by a
+3 qualified, eligible, short-listed design-builder to a contracting
+4 agency's basic configurations, project scope, design, or construction
+5 criteria;
+6 (2) Best value-based selection process means a process of selecting
+7 a design-builder using price, schedule, and qualifications for evaluation
+8 factors;
+9 (3) Construction manager means the legal entity which proposes to
+10 enter into a construction manager-general contractor contract pursuant to
+11 the act;
+12 (4) Construction manager-general contractor contract means a
+13 contract which is subject to a qualification-based selection process
+14 between a contracting agency and a construction manager to furnish
+15 preconstruction services during the design development phase of the
+16 project and, if an agreement can be reached which is satisfactory to the
+17 contracting agency, construction services for the construction phase of
+18 the project;
+19 (5) Construction services means activities associated with building
+20 the project;
+21 (6) Contracting agency means the department, an eligible county, a
+22 city of the metropolitan class, or a city of the primary class using the
+23 powers provided under the Transportation Innovation Act;
+24 (7) Department means the Department of Transportation;
+25 (8) Design-build contract means a contract between a contracting
+26 agency and a design-builder which is subject to a best value-based
+27 selection process to furnish (a) architectural, engineering, and related
+28 design services and (b) labor, materials, supplies, equipment, and
+29 construction services;
+30 (9) Design-builder means the legal entity which proposes to enter
+31 into a design-build contract;
+-17-
+
+LB1126 LB1126
+2026 2026
+1 (10) Eligible county means (a) a county or (b) a joint entity
+2 created by agreement under section 13-804 if a county is a party to the
+3 agreement;
+4 (11) Multimodal transportation network means the interconnected
+5 system of highways, roads, streets, rail lines, river ports, and transit
+6 systems which facilitates the movement of people and freight to enhance
+7 Nebraska's economy;
+8 (12) Preconstruction services means all nonconstruction-related
+9 services that a construction manager performs in relation to the design
+10 of the project before execution of a contract for construction services.
+11 Preconstruction services includes, but is not limited to, cost
+12 estimating, value engineering studies, constructability reviews, delivery
+13 schedule assessments, and life-cycle analysis;
+14 (13) Private partner means any entity that is a partner in a public-
+15 private partnership other than the State of Nebraska, any agency of the
+16 State of Nebraska, the federal government, any agency of the federal
+17 government, any other state government, or any agency of any government
+18 at any level;
+19 (14) Progressive design-build means a project-delivery process in
+20 which both the design and construction of a project are procured from a
+21 single entity that is selected through a qualification-based selection
+22 process at the earliest feasible stage of the project;
+23 (15) Project performance criteria means the performance requirements
+24 of the project suitable to allow the design-builder to make a proposal.
+25 Performance requirements shall include, but are not limited to, the
+26 following, if required by the project: Capacity, durability, standards,
+27 ingress and egress requirements, description of the site, surveys, soil
+28 and environmental information concerning the site, material quality
+29 standards, design and milestone dates, site development requirements,
+30 compliance with applicable law, and other criteria for the intended use
+31 of the project;
+-18-
+
+LB1126 LB1126
+2026 2026
+1 (16) Proposal means an offer in response to a request for proposals
+2 (a) by a design-builder to enter into a design-build contract or (b) by a
+3 construction manager to enter into a construction manager-general
+4 contractor contract;
+5 (17) Public-private partnership means a project delivery method for
+6 construction or financing of capital projects or procurement of services
+7 under a written public-private partnership agreement entered into
+8 pursuant to section 39-2825 between at least one private partner and a
+9 contracting agency the State of Nebraska or any agency of the state;
+10 (18) Qualification-based selection process means a process of
+11 selecting a construction manager or progressive design-builder based on
+12 qualifications;
+13 (19) Request for proposals means the documentation by which a
+14 contracting agency solicits proposals; and
+15 (20) Request for qualifications means the documentation or
+16 publication by which a contracting agency solicits qualifications.
+17 Sec. 42. Section 39-2814, Revised Statutes Cumulative Supplement,
+18 2024, is amended to read:
+19 39-2814 A contracting agency shall prepare a request for proposals
+20 for each design-build or progressive design-build contract. The request
+21 for proposals shall contain, at a minimum, the following elements:
+22 (1) The guidelines adopted in accordance with section 39-2811. The
+23 identification of a publicly accessible location of the guidelines,
+24 either physical or electronic, shall be considered compliance with this
+25 subdivision;
+26 (2) The proposed terms and conditions of the design-build or
+27 progressive design-build contract, including any terms and conditions
+28 which are subject to further negotiation;
+29 (3) A project statement which contains information about the scope
+30 and nature of the project;
+31 (4) If applicable, a statement regarding alternative technical
+-19-
+
+LB1126 LB1126
+2026 2026
+1 concepts including the process and time period in which such concepts may
+2 be submitted, confidentiality of the concepts, and ownership of the
+3 rights to the intellectual property contained in such concepts;
+4 (5) Project performance criteria;
+5 (6) Budget parameters for the project;
+6 (7) Any bonding and insurance required by law or as may be
+7 additionally required by the contracting agency;
+8 (8) The criteria for evaluation of proposals and the relative weight
+9 of each criterion. For both design-build and progressive design-build
+10 contracts, the criteria shall include, but are not limited to,
+11 construction experience, design experience, and the financial, personnel,
+12 and equipment resources available for the project. For design-build
+13 contracts only, the criteria shall also include the cost of the work. For
+14 progressive design-build contracts only, the criteria shall also include
+15 consideration of the historic reasonableness of the progressive design-
+16 builder's costs and expenses when bidding and completing projects,
+17 whether such projects were completed using the progressive design-build
+18 process or another bidding and contracting process. The relative weight
+19 to apply to any criterion shall be at the discretion of the contracting
+20 agency based on each project, except that for all design-build contracts,
+21 the cost of the work shall be given a relative weight of at least fifty
+22 percent;
+23 (9) A requirement that the design-builder or progressive design-
+24 builder provide a written statement of the design-builder's or
+25 progressive design-builder's proposed approach to the design and
+26 construction of the project, which may include graphic materials
+27 illustrating the proposed approach to design and construction;
+28 (10) A requirement that the design-builder or progressive design-
+29 builder agree to the following conditions:
+30 (a) At the time of the design-build or progressive design-build
+31 proposal, the design-builder or progressive design-builder must furnish
+-20-
+
+LB1126 LB1126
+2026 2026
+1 to the contracting agency a written statement identifying the architect
+2 or engineer who will perform the architectural or engineering work for
+3 the project. The architect or engineer engaged by the design-builder or
+4 progressive design-builder to perform the architectural or engineering
+5 work with respect to the project must have direct supervision of such
+6 work and may not be removed by the design-builder or progressive design-
+7 builder prior to the completion of the project without the written
+8 consent of the contracting agency;
+9 (b) At the time of the design-build or progressive design-build
+10 proposal, the design-builder or progressive design-builder must furnish
+11 to the contracting agency a written statement identifying the general
+12 contractor who will provide the labor, material, supplies, equipment, and
+13 construction services. The general contractor identified by the design-
+14 builder or progressive design-builder may not be removed by the design-
+15 builder or progressive design-builder prior to completion of the project
+16 without the written consent of the contracting agency;
+17 (c) A design-builder or progressive design-builder offering design-
+18 build or progressive design-build services with its own employees who are
+19 design professionals licensed to practice in Nebraska must (i) comply
+20 with the Engineers and Architects Regulation Act by procuring a
+21 certificate of authorization to practice architecture or engineering and
+22 (ii) submit proof of sufficient professional liability insurance in the
+23 amount required by the contracting agency; and
+24 (d) The rendering of architectural or engineering services by a
+25 licensed architect or engineer employed by the design-builder or
+26 progressive design-builder must conform to the Engineers and Architects
+27 Regulation Act;
+28 (11) The amount and terms of the stipend required pursuant to
+29 section 39-2815, if any; and
+30 (12) Other information or requirements which the contracting agency,
+31 in its discretion, chooses to include in the request for proposals.
+-21-
+
+LB1126 LB1126
+2026 2026
+1 Sec. 43. Section 39-2825, Revised Statutes Cumulative Supplement,
+2 2024, is amended to read:
+3 39-2825 (1) A public-private partnership delivery method may be used
+4 for projects under the Transportation Innovation Act and other
+5 transportation projects deemed appropriate at the discretion of the
+6 Director-State Engineer in the case of the department, or the governing
+7 body of any other contracting agency as provided in this section and
+8 rules and regulations adopted and promulgated pursuant to this section
+9 only to the extent allowed under the Constitution of Nebraska. State
+10 contracts using this method shall be awarded by competitive negotiation.
+11 No such contract shall be awarded to an unsolicited proposal if the
+12 primary purpose of the proposal is the simple repair of a highway.
+13 (2) A contracting agency utilizing a public-private partnership
+14 shall continue to be responsible for oversight of any function that is
+15 delegated to or otherwise performed by a private partner.
+16 (3)(a) The (3) On or before July 1, 2023, the Director-State
+17 Engineer shall adopt and promulgate rules and regulations setting forth
+18 criteria to be used in determining when a public-private partnership is
+19 to be used by the department for a particular project. The rules and
+20 regulations shall:
+21 (i) Reflect reflect the intent of the Legislature to promote and
+22 encourage the use of public-private partnerships in the State of
+23 Nebraska; and .
+24 (ii) Include procedures for the department's receipt and evaluation
+25 of an unsolicited proposal from a private partner or private partners
+26 that is outside of a request for proposal process.
+27 (b) The Director-State Engineer shall consult with design-builders,
+28 progressive design-builders, construction managers, other contractors and
+29 design professionals, including engineers and architects, and other
+30 appropriate professionals during the development of the rules and
+31 regulations.
+-22-
+
+LB1126 LB1126
+2026 2026
+1 (c) The procedures used by the department when evaluating an
+2 unsolicited proposal shall include a requirement that, if the department
+3 determines that there is sufficient merit to pursue an unsolicited
+4 proposal, a reasonable opportunity shall be provided for other entities
+5 to submit competing proposals for consideration. The department may
+6 charge and retain an administrative fee of not more than five hundred
+7 dollars for:
+8 (i) The initial evaluation and detailed review of an unsolicited
+9 project proposal; and
+10 (ii) The review of any competing proposal to the unsolicited
+11 proposal.
+12 (d) The department may:
+13 (i) Spend money appropriated to the department for the purpose of
+14 reviewing, developing, and implementing any unsolicited proposal; and
+15 (ii) Enter into any contract for a proposal deemed by the department
+16 to be in the best interest of the State of Nebraska.
+17 (e) It is the intent of the Legislature that the department favor
+18 any creative or innovative unsolicited proposal that will provide a
+19 material benefit to the State of Nebraska beyond the traditional
+20 procurement and project delivery methods.
+21 (4) A request for proposals for a project utilizing a public-private
+22 partnership or an unsolicited proposal from any private partner that is
+23 outside of a request for proposal process shall include at a minimum:
+24 (a) The parameters of the proposed public-private partnership
+25 agreement;
+26 (b) The duties and responsibilities to be performed by the private
+27 partner or private partners;
+28 (c) The methods of oversight to be employed by the contracting
+29 agency;
+30 (d) The duties and responsibilities that are to be performed by the
+31 contracting agency and any other parties to the contract;
+-23-
+
+LB1126 LB1126
+2026 2026
+1 (e) The evaluation factors and the relative weight of each factor to
+2 be used in the scoring of awards;
+3 (f) How the private partner plans to finance and operate Plans for
+4 financing and operating the project and the project or operating revenue,
+5 service or availability payments, bond financings, and appropriations of
+6 public funds that are anticipated to be needed in the future for the
+7 qualifying project, subject to appropriation by the Legislature;
+8 (g) The private partner's proposal for the availability and
+9 performance standards that would be used to determine qualification for
+10 receiving availability payments from the contracting agency;
+11 (h) (g) Comprehensive documentation of the experience, capabilities,
+12 capitalization and financial condition, and other relevant qualifications
+13 of the private entity submitting the proposal;
+14 (i) (h) The ability of a private partner or private partners to
+15 quickly respond to the needs presented in the request for proposals and
+16 the importance of economic development opportunities represented by the
+17 project. In evaluating proposals, preference shall be given to a plan
+18 that includes the involvement of small businesses as subcontractors, to
+19 the extent that small businesses can provide services in a competitive
+20 manner, unless any preference interferes with the qualification for
+21 federal or other funds; and
+22 (j) (i) Other information required by the contracting agency to
+23 evaluate the proposals submitted and the overall proposed public-private
+24 partnership.
+25 (5) A private entity desiring to be a private partner shall
+26 demonstrate to the satisfaction of the contracting agency that it is
+27 capable of performing any duty, responsibility, or function it may be
+28 authorized or directed to perform as a term or condition of the public-
+29 private partnership agreement.
+30 (6) A request for proposals may be canceled, or all proposals may be
+31 rejected, if it is determined in writing that such action is taken in the
+-24-
+
+LB1126 LB1126
+2026 2026
+1 best interest of the State of Nebraska and approved by the purchasing
+2 officer.
+3 (7) Upon execution of a public-private partnership agreement, the
+4 contracting agency shall ensure that the contract clearly identifies that
+5 a public-private partnership is being utilized.
+6 (8) The department shall:
+7 (a) Adhere to the rules and regulations adopted and promulgated
+8 under this section when utilizing a public-private partnership for
+9 financing capital projects; and
+10 (b) Electronically report annually to the Appropriations Committee
+11 of the Legislature and the Transportation and Telecommunications
+12 Committee of the Legislature regarding private-public partnerships which
+13 have been considered or are approved pursuant to this section.
+14 Sec. 44. Section 60-507, Reissue Revised Statutes of Nebraska, is
+15 amended to read:
+16 60-507 (1)(a) Within ninety days after the receipt by the Department
+17 of Transportation of a report of a motor vehicle accident within this
+18 state which has resulted in bodily injury or death, or damage to the
+19 property of any one person, including such operator, to an apparent
+20 extent of two thousand one thousand five hundred dollars or more, the
+21 Department of Motor Vehicles shall suspend (i) the license of each
+22 operator of a motor vehicle in any manner involved in such accident and
+23 (ii) the privilege, if such operator is a nonresident, of operating a
+24 motor vehicle within this state, unless such operator deposits security
+25 in a sum which shall be sufficient, in the judgment of the Department of
+26 Motor Vehicles, to satisfy any judgment or judgments for damages
+27 resulting from such accident which may be recovered against such operator
+28 and unless such operator gives proof of financial responsibility. Notice
+29 of such suspension shall be sent by the Department of Motor Vehicles by
+30 regular United States mail to such operator not less than twenty days
+31 prior to the effective date of such suspension at his or her last-known
+-25-
+
+LB1126 LB1126
+2026 2026
+1 mailing address as shown by the records of the department and shall state
+2 the amount required as security and the requirement of proof of financial
+3 responsibility.
+4 (b) In the event a person involved in a motor vehicle accident
+5 within this state fails to make a report to the Department of Motor
+6 Vehicles indicating the extent of his or her injuries or the damage to
+7 his or her property within thirty days after the accident, and the
+8 department does not have sufficient information on which to base an
+9 evaluation of such injury or damage, the department, after reasonable
+10 notice to such person, may not require any deposit of security for the
+11 benefit or protection of such person.
+12 (c) If the operator fails to respond to the notice on or before
+13 twenty days after the date of the notice, the director shall summarily
+14 suspend the operator's license or privilege and issue an order of
+15 suspension.
+16 (2) The order of suspension provided for in subsection (1) of this
+17 section shall not be entered by the Department of Motor Vehicles if the
+18 department determines that in its judgment there is no reasonable
+19 possibility of a judgment being rendered against such operator.
+20 (3) In determining whether there is a reasonable possibility of
+21 judgment being rendered against such operator, the department shall
+22 consider all reports and information filed in connection with the
+23 accident.
+24 (4) The order of suspension provided for in subsection (1) of this
+25 section shall advise the operator that he or she has a right to appeal
+26 the order of suspension in accordance with section 60-503.
+27 (5) The order of suspension provided for in subsection (1) of this
+28 section shall be sent by regular United States mail to the operator's
+29 last-known mailing address as shown by the records of the department.
+30 Sec. 45. Section 60-513, Reissue Revised Statutes of Nebraska, is
+31 amended to read:
+-26-
+
+LB1126 LB1126
+2026 2026
+1 60-513 The security required by the Motor Vehicle Safety
+2 Responsibility Act shall be in such form and in such amount as the
+3 department may require but in no case less than two thousand one thousand
+4 five hundred dollars nor in excess of the limits specified in section
+5 60-509. The person depositing security shall specify in writing the
+6 person or persons on whose behalf the deposit is made and, at any time
+7 while such deposit is in the custody of the department or State
+8 Treasurer, the person depositing it may, in writing, amend the
+9 specification of the person or persons on whose behalf the deposit is
+10 made to include an additional person or persons, except that a single
+11 deposit of security shall be applicable only on behalf of persons
+12 required to furnish security because of the same accident. The department
+13 may increase or reduce the amount of security ordered in any case at any
+14 time after the date of the accident if, in the judgment of the director,
+15 the amount ordered is inadequate or excessive. In case the security
+16 originally ordered has been deposited, the excess deposited over the
+17 reduced amount ordered shall be returned to the depositor or his or her
+18 personal representative immediately, notwithstanding section 60-514. If
+19 any additional security ordered is not deposited within ten days, the
+20 department shall proceed under section 60-507.
+21 Sec. 46. Section 60-601, Revised Statutes Supplement, 2025, is
+22 amended to read:
+23 60-601 Sections 60-601 to 60-6,383 and section 48 of this act shall
+24 be known and may be cited as the Nebraska Rules of the Road.
+25 Sec. 47. Section 60-605, Revised Statutes Supplement, 2025, is
+26 amended to read:
+27 60-605 For purposes of the Nebraska Rules of the Road, the
+28 definitions found in sections 60-606 to 60-676.01 and section 48 of this
+29 act shall be used.
+30 Sec. 48. Superload means a vehicle, or vehicle combination that is
+31 transporting a nondivisible load, that is in excess of:
+-27-
+
+LB1126 LB1126
+2026 2026
+1 (1) Sixteen feet in width;
+2 (2) One hundred ninety-one inches in height;
+3 (3) One hundred fifty feet in length; or
+4 (4) One hundred sixty thousand pounds in gross weight.
+5 Sec. 49. Section 60-695, Reissue Revised Statutes of Nebraska, is
+6 amended to read:
+7 60-695 Any peace officer who investigates any traffic accident in
+8 the performance of his or her official duties shall, in all instances of
+9 an accident resulting in injury or death to any person or in which
+10 estimated damage equals or exceeds two thousand one thousand five hundred
+11 dollars to the property of any one person, submit an original report of
+12 such investigation to the Department of Transportation within ten days
+13 after each such accident. The department shall have authority to collect
+14 accident information it deems necessary and shall prescribe and furnish
+15 appropriate forms for reporting.
+16 Sec. 50. Section 60-699, Revised Statutes Cumulative Supplement,
+17 2024, is amended to read:
+18 60-699 (1) The operator of any vehicle involved in an accident
+19 resulting in injuries or death to any person or damage to the property of
+20 any one person, including such operator, to an apparent extent that
+21 equals or exceeds two thousand one thousand five hundred dollars shall
+22 within ten days forward a report of such accident to the Department of
+23 Transportation. Such report shall not be required if the accident is
+24 investigated by a peace officer. If the operator is physically incapable
+25 of making the report, the owner of the motor vehicle involved in the
+26 accident shall, within ten days from the time he or she learns of the
+27 accident, report the matter in writing to the Department of
+28 Transportation. The Department of Transportation or Department of Motor
+29 Vehicles may require operators involved in accidents to file supplemental
+30 reports of accidents upon forms furnished by it whenever the original
+31 report is insufficient in the opinion of either department. The operator
+-28-
+
+LB1126 LB1126
+2026 2026
+1 or the owner of the motor vehicle shall make such other and additional
+2 reports relating to the accident as either department requires. Such
+3 records shall be retained for the period of time specified by the State
+4 Records Administrator pursuant to the Records Management Act.
+5 (2) The report of accident required by this section shall be in two
+6 parts. Part I shall be in such form as the Department of Transportation
+7 may prescribe and shall disclose full information concerning the
+8 accident. Part II shall be in such form as the Department of Motor
+9 Vehicles may prescribe and shall disclose sufficient information to
+10 disclose whether or not the financial responsibility requirements of the
+11 Motor Vehicle Safety Responsibility Act are met through the carrying of
+12 liability insurance.
+13 (3) Upon receipt of a report of accident, the Department of
+14 Transportation shall determine the reportability and classification of
+15 the accident and enter all information into a computerized database. Upon
+16 completion, the Department of Transportation shall electronically send
+17 Part II of the report to the Department of Motor Vehicles for purposes of
+18 section 60-506.01.
+19 (4) Such reports shall be without prejudice. Except as provided in
+20 section 84-712.05, a report regarding an accident made by a peace
+21 officer, made to or filed with a peace officer in the peace officer's
+22 office or department, or filed with or made by or to any other law
+23 enforcement agency of the state shall be open to public inspection, but
+24 an accident report filed by the operator or owner of a motor vehicle
+25 pursuant to this section shall not be open to public inspection. Date of
+26 birth information, excluding the year of birth, and operator's license
+27 number information of an operator or owner included in any report
+28 required under this section shall be confidential and shall not be a
+29 public record under section 84-712.01. Year of birth or age information
+30 of an operator or owner included in any report required under this
+31 section shall not be confidential and shall be a public record under
+-29-
+
+LB1126 LB1126
+2026 2026
+1 section 84-712.01. Nothing in this section prohibits a peace officer or a
+2 law enforcement agency from disclosing the age of an operator or owner
+3 included in any report required under this section. The fact that a
+4 report by an operator or owner has been so made shall be admissible in
+5 evidence solely to prove compliance with this section, but no such report
+6 or any part of or statement contained in the report shall be admissible
+7 in evidence for any other purpose in any trial, civil or criminal,
+8 arising out of such accidents nor shall the report be referred to in any
+9 way or be any evidence of the negligence or due care of either party at
+10 the trial of any action at law to recover damages.
+11 (5) The failure by any person to report an accident as provided in
+12 this section or to correctly give the information required in connection
+13 with the report shall be a Class V misdemeanor.
+14 Sec. 51. Section 60-6,123, Revised Statutes Cumulative Supplement,
+15 2024, is amended to read:
+16 60-6,123 Whenever traffic is controlled by traffic control signals
+17 exhibiting different colored lights or colored lighted arrows,
+18 successively one at a time or in combination, only the colors green, red,
+19 and yellow shall be used, except for special pedestrian signals carrying
+20 a word legend, number, or symbol, and such lights shall indicate and
+21 apply to drivers of vehicles, and pedestrians, and operators of bicycles
+22 as follows:
+23 (1)(a) Vehicular traffic facing a circular green indication may
+24 proceed straight through or turn right or left unless a sign at such
+25 place prohibits either such turn, but vehicular traffic, including
+26 vehicles turning right or left, shall yield the right-of-way to other
+27 vehicles and to pedestrians lawfully within the intersection or an
+28 adjacent crosswalk at the time such indication is exhibited;
+29 (b) Vehicular traffic facing a green arrow indication, shown alone
+30 or in combination with another indication, may cautiously enter the
+31 intersection only to make the movement indicated by such arrow or such
+-30-
+
+LB1126 LB1126
+2026 2026
+1 other movement as is permitted by other indications shown at the same
+2 time, and such vehicular traffic shall yield the right-of-way to
+3 pedestrians lawfully within an adjacent crosswalk and to other traffic
+4 lawfully using the intersection; and
+5 (c) Unless otherwise directed by a pedestrian-control signal,
+6 pedestrians facing any green indication, except when the sole green
+7 indication is a turn arrow, may proceed across the roadway within any
+8 marked or unmarked crosswalk;
+9 (2)(a) Vehicular traffic facing a steady yellow indication is
+10 thereby warned that the related green movement is being terminated or
+11 that a red indication will be exhibited immediately thereafter when
+12 vehicular traffic shall not enter the intersection, and upon display of a
+13 steady yellow indication, vehicular traffic shall stop before entering
+14 the nearest crosswalk at the intersection, but if such stop cannot be
+15 made in safety, a vehicle may be driven cautiously through the
+16 intersection;
+17 (b) Vehicular traffic facing a flashing yellow arrow indication may
+18 cautiously enter the intersection only to make the movement indicated by
+19 such arrow, and such vehicular traffic shall yield the right-of-way to
+20 pedestrians lawfully within an adjacent crosswalk and to other traffic
+21 lawfully using the intersection; and
+22 (c) Pedestrians facing a steady yellow indication, unless otherwise
+23 directed by a pedestrian-control signal, are thereby advised that there
+24 is insufficient time to cross the roadway before a red indication is
+25 shown and no pedestrian shall then start to cross the roadway;
+26 (3)(a) Vehicular traffic facing a steady circular red indication
+27 alone shall stop at a clearly marked stop line or shall stop, if there is
+28 no such line, before entering the crosswalk on the near side of the
+29 intersection or, if there is no crosswalk, before entering the
+30 intersection. The traffic shall remain standing until an indication to
+31 proceed is shown except as provided in subdivisions (3)(b) and (3)(c) of
+-31-
+
+LB1126 LB1126
+2026 2026
+1 this section;
+2 (b) Except where a traffic control device is in place prohibiting a
+3 turn, vehicular traffic facing a steady circular red indication may
+4 cautiously enter the intersection to make a right turn after stopping as
+5 required by subdivision (3)(a) of this section. Such vehicular traffic
+6 shall yield the right-of-way to pedestrians lawfully within an adjacent
+7 crosswalk and to other traffic lawfully using the intersection;
+8 (c) Except where a traffic control device is in place prohibiting a
+9 turn, vehicular traffic facing a steady circular red indication at the
+10 intersection of two one-way streets may cautiously enter the intersection
+11 to make a left turn after stopping as required by subdivision (3)(a) of
+12 this section. Such vehicular traffic shall yield the right-of-way to
+13 pedestrians lawfully within an adjacent crosswalk and to other traffic
+14 lawfully using the intersection;
+15 (d) Vehicular traffic facing a steady red arrow indication alone
+16 shall stop at a clearly marked stop line or shall stop, if there is no
+17 such line, before entering the crosswalk on the near side of the
+18 intersection or, if there is no crosswalk, before entering the
+19 intersection. The traffic shall not enter the intersection to make the
+20 movement indicated by the arrow and shall remain standing until an
+21 indication to proceed is shown; and
+22 (e) Unless otherwise directed by a pedestrian-control signal,
+23 pedestrians facing a steady red indication alone shall not enter the
+24 roadway;
+25 (4) If a traffic control signal is erected and maintained at a place
+26 other than an intersection, the provisions of this section shall be
+27 applicable except as to those provisions which by their nature can have
+28 no application. Any stop required shall be made at a sign or marking on
+29 the pavement indicating where the stop shall be made, but in the absence
+30 of any such sign or marking, the stop shall be made at the signal; and
+31 (5)(a) If a traffic control signal at an intersection is not
+-32-
+
+LB1126 LB1126
+2026 2026
+1 operating because of a power failure or other cause and no peace officer,
+2 flagperson, or other traffic control device is providing direction for
+3 traffic at the intersection, the intersection shall be treated as a
+4 multi-way stop; and
+5 (b) If a traffic control signal is not in service and the signal
+6 heads are turned away from traffic or covered with opaque material,
+7 subdivision (a) of this subdivision shall not apply; and .
+8 (6)(a) Bicycle traffic facing a steady green bicycle indication may
+9 proceed straight through or turn right or left unless a sign at such
+10 place prohibits either such turn, but bicycle traffic, including bicycles
+11 turning right or left, shall yield the right-of-way to other bicycles and
+12 to pedestrians lawfully within the intersection or an adjacent crosswalk
+13 at the time such indication is exhibited;
+14 (b) Bicycle traffic facing a steady yellow bicycle indication is
+15 thereby warned that the related green movement is being terminated or
+16 that a red indication will be exhibited immediately thereafter when
+17 bicycle traffic shall not enter the intersection. Upon display of a
+18 steady yellow bicycle indication, bicycle traffic shall stop before
+19 entering the nearest crosswalk at the intersection, but if such stop
+20 cannot be made in safety, a bicycle may be driven cautiously through the
+21 intersection;
+22 (c) Bicycle traffic facing a steady red bicycle indication alone
+23 shall stop at a clearly marked stop line or shall stop, if there is no
+24 such line, before entering the crosswalk on the near side of the
+25 intersection or, if there is no crosswalk, before entering the
+26 intersection. The traffic shall remain standing until an indication to
+27 proceed is shown except as provided in subdivisions (6)(d) and (6)(e) of
+28 this section;
+29 (d) Except where a traffic control device is in place prohibiting a
+30 turn, bicycle traffic facing a steady red bicycle indication may
+31 cautiously enter the intersection to make a right turn after stopping as
+-33-
+
+LB1126 LB1126
+2026 2026
+1 required by subdivision (6)(c) of this section. Such bicycle traffic
+2 shall yield the right-of-way to pedestrians lawfully within an adjacent
+3 crosswalk and to other traffic lawfully using the intersection; and
+4 (e) Except where a traffic control device is in place prohibiting a
+5 turn, bicycle traffic facing a steady red bicycle indication at the
+6 intersection of two one-way streets may cautiously enter the intersection
+7 to make a left turn after stopping as required by subdivision (6)(c) of
+8 this section. Such bicycle traffic shall yield the right-of-way to
+9 pedestrians lawfully within an adjacent crosswalk and to other traffic
+10 lawfully using the intersection.
+11 Sec. 52. Section 60-6,298, Revised Statutes Supplement, 2025, is
+12 amended to read:
+13 60-6,298 (1)(a) The Department of Transportation or the Nebraska
+14 State Patrol, with respect to highways under its jurisdiction including
+15 the National System of Interstate and Defense Highways, and local
+16 authorities, with respect to highways under their jurisdiction, may in
+17 their discretion upon application and good cause being shown therefor
+18 issue a special, continuing, or continuous permit in writing authorizing
+19 the applicant or his or her designee:
+20 (i) To operate or move a vehicle, a combination of vehicles, or
+21 objects of a size or weight of vehicle or load exceeding the maximum
+22 specified by law when such permit is necessary:
+23 (A) To further the national defense or the general welfare;
+24 (B) To permit movement of cost-saving equipment to be used in
+25 highway or other public construction or in agricultural land treatment;
+26 or
+27 (C) Because of an emergency, an unusual circumstance, or a very
+28 special situation;
+29 (ii) To operate vehicles, for a distance up to one hundred twenty
+30 miles, loaded up to fifteen percent greater than the maximum weight
+31 specified by law, or up to ten percent greater than the maximum length
+-34-
+
+LB1126 LB1126
+2026 2026
+1 specified by law, or both, except that any combination with two or more
+2 cargo-carrying units, not including the truck-tractor, also known as a
+3 longer combination vehicle, may only operate for a distance up to seventy
+4 miles loaded up to fifteen percent greater than the maximum weight
+5 specified by law, or up to ten percent greater than the maximum length
+6 specified by law, or both, when carrying grain or other seasonally
+7 harvested products from the field where such grain or products are
+8 harvested to storage, market, or stockpile in the field or from stockpile
+9 or farm storage to market or factory when failure to move such grain or
+10 products in abundant quantities would cause an economic loss to the
+11 person or persons whose grain or products are being transported or when
+12 failure to move such grain or products in as large quantities as possible
+13 would not be in the best interests of the national defense or general
+14 welfare. The distance limitation may be waived for vehicles when carrying
+15 dry beans or dry peas and lentils from the field where harvested to
+16 storage or market when dry beans or dry peas and lentils are not normally
+17 stored, purchased, or used within the permittee's local area and must be
+18 transported more than one hundred twenty miles to an available marketing
+19 or storage destination. No permit shall authorize a weight greater than
+20 twenty thousand pounds on any single axle;
+21 (iii) To transport an implement of husbandry which does not exceed
+22 twelve and one-half feet in width during daylight hours, except that the
+23 permit shall not allow transport on holidays;
+24 (iv) To operate one or more recreational vehicles, as defined in
+25 section 71-4603, exceeding the maximum width specified by law if movement
+26 of the recreational vehicles is prior to retail sale and the recreational
+27 vehicles comply with subdivision (2)(k) of section 60-6,288;
+28 (v) To operate an emergency vehicle for purposes of sale,
+29 demonstration, exhibit, or delivery, if the applicant or his or her
+30 designee is a manufacturer or sales agent of the emergency vehicle. No
+31 permit shall be issued for an emergency vehicle which weighs over sixty
+-35-
+
+LB1126 LB1126
+2026 2026
+1 thousand pounds on the tandem axle;
+2 (vi) To transport during daylight hours divisible loads of livestock
+3 forage in bale form which do not exceed twelve feet in width, except that
+4 the permit shall not allow transport on holidays; or
+5 (vii) To operate overweight raw-milk vehicles carrying raw milk from
+6 a dairy farm to a processing facility for such raw milk in accordance
+7 with section 60-6,294.02.
+8 (b) No permit shall be issued under subdivision (a)(i) of this
+9 subsection for a vehicle carrying a load unless such vehicle is loaded
+10 with an object which exceeds the size or weight limitations, which cannot
+11 be dismantled or reduced in size or weight without great difficulty, and
+12 which of necessity must be moved over the highways to reach its intended
+13 destination. No permit shall be required for the temporary movement on
+14 highways other than dustless-surfaced state highways and for necessary
+15 access to points on such highways during daylight hours of cost-saving
+16 equipment to be used in highway or other public construction or in
+17 agricultural land treatment when such temporary movement is necessary and
+18 for a reasonable distance.
+19 (2) The application for any such permit shall specifically describe
+20 the vehicle, the load to be operated or moved, whenever possible the
+21 particular highways for which permit to operate is requested, and whether
+22 such permit is requested for a single trip or for continuous or
+23 continuing operation. The permit shall include a signed affirmation under
+24 oath that, for any load sixteen feet high or higher, the applicant has
+25 contacted any and all electric utilities that have high voltage
+26 conductors and infrastructure that cross over the roadway affected by the
+27 move and made arrangements with such electric utilities for the safe
+28 movement of the load under any high voltage conductors owned by such
+29 electric utilities.
+30 (3) The department or local authority is authorized to issue or
+31 withhold such permit at its discretion or, if such permit is issued, to
+-36-
+
+LB1126 LB1126
+2026 2026
+1 limit the number of days during which the permit is valid, to limit the
+2 number of trips, to establish seasonal or other time limitations within
+3 which the vehicles described may be operated on the highways indicated,
+4 or to issue a continuous or continuing permit for use on all highways,
+5 including the National System of Interstate and Defense Highways. The
+6 permits are subject to reasonable conditions as to periodic renewal of
+7 such permit and as to operation or movement of such vehicles. The
+8 department or local authority may otherwise limit or prescribe conditions
+9 of operation of such vehicle or vehicles, when necessary to assure
+10 against undue damage to the road foundations, surfaces, or structures or
+11 undue danger to the public safety. The department or local authority may
+12 require such undertaking or other security as may be deemed necessary to
+13 compensate for any injury to any roadway or road structure.
+14 (4) Every such permit shall be carried in the vehicle to which it
+15 refers and shall be open to inspection by any peace officer, carrier
+16 enforcement officer, or authorized agent of any authority granting such
+17 permit. Each such permit shall state the maximum weight permissible on a
+18 single axle or combination of axles and the total gross weight allowed.
+19 No person shall violate any of the terms or conditions of such special
+20 permit. In case of any violation, the permit shall be deemed
+21 automatically revoked and the penalty of the original limitations shall
+22 be applied unless:
+23 (a) The violation consists solely of exceeding the size or weight
+24 specified by the permit, in which case only the penalty of the original
+25 size or weight limitation exceeded shall be applied;
+26 (b) The total gross load is within the maximum authorized by the
+27 permit, no axle is more than ten percent in excess of the maximum load
+28 for such axle or group of axles authorized by the permit, and such load
+29 can be shifted to meet the weight limitations of wheel and axle loads
+30 authorized by such permit. Such shift may be made without penalty if it
+31 is made at the state or commercial scale designated in the permit. The
+-37-
+
+LB1126 LB1126
+2026 2026
+1 vehicle may travel from its point of origin to such designated scale
+2 without penalty, and a scale ticket from such scale, showing the vehicle
+3 to be properly loaded and within the gross and axle weights authorized by
+4 the permit, shall be reasonable evidence of compliance with the terms of
+5 the permit; or
+6 (c) Such permit is an overweight raw-milk vehicle permit and the
+7 overweight raw-milk vehicle violated subsection (3) of section
+8 60-6,294.02.
+9 (5) The department or local authority issuing a permit as provided
+10 in this section may adopt and promulgate rules and regulations with
+11 respect to the issuance of permits provided for in this section.
+12 (6) The department shall make available applications for permits
+13 authorized pursuant to subdivisions (1)(a)(ii) and (1)(a)(iii) of this
+14 section in the office of each county treasurer. The department may make
+15 available applications for all other permits authorized by this section
+16 to the office of the county treasurer and may make available applications
+17 for all permits authorized by this section to any other location chosen
+18 by the department.
+19 (7) The department or local authority issuing a permit may require a
+20 permit fee of not to exceed fifty twenty-five dollars, except that:
+21 (a) The fee for a continuous or continuing permit shall may not
+22 exceed fifty twenty-five dollars for a ninety-day period, one hundred
+23 fifty dollars for a one-hundred-eighty-day period, or two hundred one
+24 hundred dollars for a one-year period; and
+25 (b) The fee for permits issued pursuant to subdivision (1)(a)(ii) of
+26 this section shall not exceed fifty be twenty-five dollars. Permits
+27 issued pursuant to such subdivision shall be valid for thirty days and
+28 shall be renewable four times for a total number of days not to exceed
+29 one hundred fifty days per calendar year; and .
+30 (c)(i) The fee for a single trip permit for a superload shall not
+31 exceed:
+-38-
+
+LB1126 LB1126
+2026 2026
+1 (A) Two hundred fifty dollars for a superload that weighs three
+2 hundred thousand pounds or less;
+3 (B) Four hundred dollars for a superload that weighs more than three
+4 hundred thousand pounds, but not more than five hundred thousand pounds;
+5 and
+6 (C) Eight hundred dollars for a superload that weighs more than five
+7 hundred thousand pounds.
+8 (ii) In addition to the permit fee that may be required under
+9 subdivision (c)(i) of this subsection, the department may charge a fee
+10 equal to the direct costs incurred by the department for issuing the
+11 permit. Such direct costs may include compensation for the time spent by
+12 department personnel in issuing the permit, and any third-party expense
+13 related to the issuance of the permit.
+14 (8) A vehicle or combination of vehicles for which an application
+15 for a permit is requested pursuant to this section shall be registered
+16 under section 60-3,147 or 60-3,198 for the maximum gross vehicle weight
+17 that is permitted pursuant to section 60-6,294 before a permit shall be
+18 issued.
+19 Sec. 53. Section 60-6,299, Reissue Revised Statutes of Nebraska, is
+20 amended to read:
+21 60-6,299 (1) The Department of Transportation may issue permits for
+22 vehicles moving a building or objects requiring specialized moving
+23 dollies. Such permits shall allow the vehicles transporting buildings or
+24 objects requiring specialized dollies to operate on highways under the
+25 jurisdiction of the department, excluding any portion of the National
+26 System of Interstate and Defense Highways. Such permit shall specify the
+27 maximum allowable width, length, height, and weight of the building to be
+28 transported, the route to be used, and the hours during which such
+29 building or object may be transported. Such permit shall clearly state
+30 that the applicant is not authorized to manipulate overhead high voltage
+31 lines or conductors or other such components, including electric utility
+-39-
+
+LB1126 LB1126
+2026 2026
+1 poles, and that the applicant shall be guilty of a Class II misdemeanor
+2 for any violation of this section or of the notification requirements of
+3 section 60-6,288.01. Any vehicle moving a building or object requiring
+4 specialized moving dollies shall be escorted by another vehicle or
+5 vehicles in the manner determined by the department. Such vehicles shall
+6 travel at a speed which is not in excess of five miles per hour when
+7 carrying loads which are in excess of the maximum gross weight specified
+8 by law by more than twenty-five percent. The permit shall not be issued
+9 for travel on a state highway containing a bridge or structure which is
+10 structurally inadequate to carry such building or object as determined by
+11 the department. The department may prescribe conditions of operation of
+12 such vehicle when necessary to assure against damage to the road
+13 foundations, surfaces, or structures and require such security as may be
+14 deemed necessary to compensate for any injury to any roadway or road
+15 structure.
+16 (2) The application for any such permit shall (a) specifically
+17 describe the vehicle, (b) specifically describe the load to be moved, (c)
+18 include a signed affirmation under oath that, for any load sixteen feet
+19 high or higher, the applicant has contacted any and all electric
+20 utilities that have high voltage conductors and infrastructure that cross
+21 over the roadway affected by the move and made arrangements with such
+22 electric utilities for the safe movement of the load under any high
+23 voltage conductors owned by such electric utilities, and (d) whenever
+24 possible, describe the particular highways for which the permit is
+25 requested. The company or individual shall maintain a copy of the permit
+26 in each vehicle moving a building or object requiring specialized moving
+27 dollies which shall be open to inspection by any peace officer, carrier
+28 enforcement officer, or authorized agent of any authority granting such
+29 permit. The fee for such permit shall not exceed fifty be ten dollars.
+30 (3) The department shall adopt and promulgate rules and regulations
+31 governing the issuance of the permits. Such rules and regulations shall
+-40-
+
+LB1126 LB1126
+2026 2026
+1 include, but not be limited to, driver qualifications, equipment
+2 selection, hours of operation, weather conditions, road conditions,
+3 determination of any damage caused to highways or bridges, cutting or
+4 trimming of trees, removal or relocation of signs or other property of
+5 the state, raising or lowering of electric supply and communication
+6 lines, and such other safety considerations as the department deems
+7 necessary.
+8 (4) Any person who violates the terms of a permit issued pursuant to
+9 this section or otherwise violates this section shall be guilty of a
+10 Class II misdemeanor.
+11 Sec. 54. Original sections 60-507, 60-513, 60-695, and 60-6,299,
+12 Reissue Revised Statutes of Nebraska, sections 39-1351, 39-2802, 39-2814,
+13 39-2825, 60-699, and 60-6,123, Revised Statutes Cumulative Supplement,
+14 2024, and sections 60-601, 60-605, and 60-6,298, Revised Statutes
+15 Supplement, 2025, are repealed.
+-41-

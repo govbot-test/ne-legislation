@@ -1,0 +1,81 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LB1014 LB1014
+2026 2026
+LEGISLATURE OF NEBRASKA
+ONE HUNDRED NINTH LEGISLATURE
+SECOND SESSION
+LEGISLATIVE BILL 1014
+Introduced by Spivey, 13.
+Read first time January 13, 2026
+Committee: Banking, Commerce and Insurance
+1 A BILL FOR AN ACT relating to the Nebraska Uniform Limited Liability
+2 Company Act; to amend section 21-193, Reissue Revised Statutes of
+3 Nebraska; to change provisions relating to notice; to require the
+4 Secretary of State to create a web page for notices; to charge a fee
+5 for electronic publication of notices; and to repeal the original
+6 section.
+7 Be it enacted by the people of the State of Nebraska,
+-1-
+
+LB1014 LB1014
+2026 2026
+1 Section 1. Section 21-193, Reissue Revised Statutes of Nebraska, is
+2 amended to read:
+3 21-193 (1)(a) (1) Notice of organization, amendment of the
+4 certificate of organization, merger, conversion, or domestication must
+5 be:
+6 (i) Published published three successive weeks in some legal
+7 newspaper of general circulation near the designated office of the
+8 limited liability company; or .
+9 (ii) Electronically published on the web page described in
+10 subsection (2) of this section.
+11 (b) A notice of organization must show the information required by
+12 subsection (b) of section 21-117 to be stated in the certificate of
+13 organization.
+14 (c) A brief resume of any amendment of the certificate of
+15 organization or of any merger, conversion, or domestication of the
+16 limited liability company shall be published in the same manner and for
+17 the same period of time as notice of organization is required to be
+18 published.
+19 (2)(a) The Secretary of State shall establish and maintain an easy-
+20 to-use and publicly accessible web page on the Secretary of State's
+21 website for the electronic publication of notices of organization,
+22 amendment of the certificate of organization, merger, conversion, or
+23 domestication of limited liability companies.
+24 (b) The web page shall allow members of the public to view, search,
+25 and retrieve published notices at no cost.
+26 (c) The Secretary of State shall collect a fee of twenty dollars at
+27 the time a notice is published on the web page from the publisher. The
+28 Secretary of State shall retain an amount of such fees sufficient to
+29 cover the administrative costs incurred by the Secretary of State in
+30 developing, operating, and maintaining the web page described in this
+31 subsection. The Secretary of State shall remit the remaining balance of
+-2-
+
+LB1014 LB1014
+2026 2026
+1 the fees to the State Treasurer. The State Treasurer shall credit the
+2 remaining balance of the fees to the Innovation Hub Cash Fund.
+3 (d) The Secretary of State may adopt and promulgate rules and
+4 regulations necessary to carry out this subsection.
+5 (3) (2) Whenever any limited liability company is voluntarily
+6 dissolved, notice of the dissolution shall be published as required by
+7 section 21-150.
+8 (4) (3) Proof of publication of any of the notices shall be filed in
+9 the office of the Secretary of State. In the event any notice described
+10 in subsection (1) of this section and required to be given pursuant to
+11 this section is not given, but is subsequently published as described in
+12 subsection (1) of this section for the required time, and proof of the
+13 publication thereof is filed in the office of the Secretary of State, the
+14 acts of the limited liability company prior to, as well as after, such
+15 publication shall be valid.
+16 Sec. 2. Original section 21-193, Reissue Revised Statutes of
+17 Nebraska, is repealed.
+-3-

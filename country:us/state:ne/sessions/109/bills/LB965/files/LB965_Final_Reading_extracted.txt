@@ -1,0 +1,2106 @@
+Title: 
+Official Title: 
+Source: versions - Final Reading
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LB965 LB965
+2026 2026
+LEGISLATURE OF NEBRASKA
+ONE HUNDRED NINTH LEGISLATURE
+SECOND SESSION
+LEGISLATIVE BILL 965
+FINAL READING
+Introduced by Bostar, 29; Hallstrom, 1.
+Read first time January 12, 2026
+Committee: Judiciary
+1 A BILL FOR AN ACT relating to law; to amend sections 28-322.02,
+2 28-322.03, 28-323, 28-508, 28-610, 28-703, 29-3901, 29-3904,
+3 29-3905, 29-3918, 43-273, 43-2923, 71-946, 71-947, 71-948, 83-4,143,
+4 and 84-941.01, Reissue Revised Statutes of Nebraska, sections
+5 27-404, 28-115, 28-310.01, 28-322.01, 29-3903, 29-3922, and 43-272,
+6 Revised Statutes Cumulative Supplement, 2024, and sections 26-118,
+7 27-413, 28-101, 28-318, 28-322, 28-470, 28-712.01, 28-1205, 28-1701,
+8 29-4003, 29-4309, 29-4316, and 81-1850, Revised Statutes Supplement,
+9 2025; to change provisions relating to penalties for violations of
+10 domestic abuse and sexual abuse protection orders; to prohibit
+11 sexual abuse of a probationer or problem solving court participant,
+12 sexual abuse by a conservator, guardian, or guardian ad litem, and
+13 sexual abuse by a child welfare service provider; to define and
+14 redefine terms; to change provisions relating to the elements and
+15 penalties for the offense of domestic assault and the penalties for
+16 the offense of assault by strangulation or suffocation; to transfer
+17 and change provisions relating to sexual abuse of an inmate or
+18 parolee; to provide immunity to probation employees for
+19 administration of opioid overdose reversal medication; to change
+20 provisions relating to the offense of possession of burglar's tools;
+21 to change provisions related to the offense of incest; to change the
+22 penalty for impersonating a police officer; to provide requirements
+-1-
+
+LB965 LB965
+2026 2026
+1 relating to Brady-Giglio disclosures; to prohibit retaliation; to
+2 provide confidentiality for officers; to provide duties for
+3 prosecuting agencies and public safety agencies; to require
+4 registration under the Sex Offender Registration Act; to require
+5 courts to appoint county conflict counsel when the public defender
+6 is unavailable as prescribed; to change provisions relating to
+7 allowance of fees for counsel; to require courts to consider certain
+8 evidence in determining the best interest of the child; to change
+9 offenses included with certain victim notification requirements; to
+10 harmonize provisions; to provide operative dates; to provide
+11 severability; and to repeal the original sections.
+12 Be it enacted by the people of the State of Nebraska,
+-2-
+
+LB965 LB965
+2026 2026
+1 Section 1. Section 26-118, Revised Statutes Supplement, 2025, is
+2 amended to read:
+3 26-118 (1) Any person, except the petitioner, who knowingly violates
+4 a protection order issued pursuant to the Protection Orders Act, after
+5 service or notice as described in subsection (4) of section 26-114, or a
+6 valid foreign protection order recognized pursuant to section 26-123 or
+7 26-124, shall be guilty of an offense and punished as provided in this
+8 section.
+9 (2) For a violation involving a domestic abuse protection order, a
+10 sexual assault protection order, a valid foreign domestic abuse
+11 protection order recognized pursuant to section 26-123, or a valid
+12 foreign sexual assault protection order recognized pursuant to section
+13 26-124, a violation of this section is a:
+14 (a) Class I misdemeanor for a first offense; and a
+15 (b) Class IV felony for a any second or subsequent offense; .
+16 (c) Class IIIA felony for a third offense; and
+17 (d) Class IIA felony for any fourth or subsequent offense.
+18 (3) For a violation of a harassment protection order or a valid
+19 foreign harassment protection order recognized pursuant to section
+20 26-124, a violation of this section is a Class II misdemeanor for a first
+21 offense and a Class I misdemeanor for any second or subsequent offense.
+22 Sec. 2. Section 27-404, Revised Statutes Cumulative Supplement,
+23 2024, is amended to read:
+24 27-404 (1) Evidence of a person's character or a trait of his or her
+25 character is not admissible for the purpose of proving that he or she
+26 acted in conformity therewith on a particular occasion, except:
+27 (a) Evidence of a pertinent trait of his or her character offered by
+28 an accused, or by the prosecution to rebut the same;
+29 (b) Evidence of a pertinent trait of character of the victim of the
+30 crime offered by an accused or by the prosecution to rebut the same, or
+31 evidence of a character trait of peacefulness of the victim offered by
+-3-
+
+LB965 LB965
+2026 2026
+1 the prosecution in a homicide case to rebut evidence that the victim was
+2 the first aggressor. In a sexual assault case, reputation, opinion, or
+3 other evidence of past sexual behavior of the victim is governed by
+4 section 27-412; or
+5 (c) Evidence of the character of a witness as provided in sections
+6 27-607 to 27-609.
+7 (2) Evidence of other crimes, wrongs, or acts is not admissible to
+8 prove the character of a person in order to show that he or she acted in
+9 conformity therewith. It may, however, be admissible for other purposes,
+10 such as proof of motive, opportunity, intent, preparation, plan,
+11 knowledge, identity, or absence of mistake or accident.
+12 (3) When such evidence is admissible pursuant to this section, in
+13 criminal cases evidence of other crimes, wrongs, or acts of the accused
+14 may be offered in evidence by the prosecution if the prosecution proves
+15 to the court by clear and convincing evidence that the accused committed
+16 the crime, wrong, or act. Such proof shall first be made outside the
+17 presence of any jury.
+18 (4) Regarding the admissibility in a civil or criminal action of
+19 evidence of a person's commission of another offense or offenses of
+20 sexual assault under sections 28-316.01 and 28-319 to 28-322.05 and
+21 sections 12 and 13 of this act, see sections 27-413 to 27-415.
+22 Sec. 3. Section 27-413, Revised Statutes Supplement, 2025, is
+23 amended to read:
+24 27-413 For purposes of sections 27-414 and 27-415, offense of sexual
+25 assault means:
+26 (1) Sexual sexual assault under section 28-319 or 28-320; ,
+27 (2) Sexual sexual abuse by a school worker under section
+28 28-316.01; ,
+29 (3) Sexual sexual assault of a child under section 28-319.01 or
+30 28-320.01; ,
+31 (4) Sexual sexual assault by use of an electronic communication
+-4-
+
+LB965 LB965
+2026 2026
+1 device under section 28-320.02; ,
+2 (5) Sexual sexual abuse of an inmate, a or parolee, a probationer,
+3 or a problem solving court participant under sections 28-322.01 to
+4 28-322.03; ,
+5 (6) Sexual sexual abuse of a protected individual under section
+6 28-322.04; ,
+7 (7) Sexual sexual abuse of a detainee under section 28-322.05; ,
+8 (8) Sexual abuse by a conservator, guardian, or guardian ad litem
+9 under section 12 of this act;
+10 (9) Sexual abuse by a child welfare service provider under section
+11 13 of this act;
+12 (10) An an attempt or conspiracy to commit any of the crimes listed
+13 in this section; , or
+14 (11) The the commission of or conviction for a crime in another
+15 jurisdiction that is substantially similar to any crime listed in this
+16 section.
+17 Sec. 4. Section 28-101, Revised Statutes Supplement, 2025, is
+18 amended to read:
+19 28-101 Sections 28-101 to 28-1357, 28-1601 to 28-1603, and 28-1701
+20 and sections 12 and 13 of this act shall be known and may be cited as the
+21 Nebraska Criminal Code.
+22 Sec. 5. Section 28-115, Revised Statutes Cumulative Supplement,
+23 2024, is amended to read:
+24 28-115 (1) Except as provided in subsection (2) of this section, any
+25 person who commits any of the following criminal offenses against a
+26 pregnant woman shall be punished by the imposition of the next higher
+27 penalty classification than the penalty classification prescribed for the
+28 criminal offense:
+29 (a) Assault in the first degree, section 28-308;
+30 (b) Assault in the second degree, section 28-309;
+31 (c) Assault in the third degree, section 28-310;
+-5-
+
+LB965 LB965
+2026 2026
+1 (d) Assault by strangulation or suffocation, section 28-310.01;
+2 (e) Sexual assault in the first degree, section 28-319;
+3 (f) Sexual assault in the second or third degree, section 28-320;
+4 (g) Sexual assault of a child in the first degree, section
+5 28-319.01;
+6 (h) Sexual assault of a child in the second or third degree, section
+7 28-320.01;
+8 (i) Sexual abuse of an inmate, a or parolee, a probationer, or a
+9 problem solving court participant in the first degree, section 28-322.02;
+10 (j) Sexual abuse of an inmate, a or parolee, a probationer, or a
+11 problem solving court participant in the second degree, section
+12 28-322.03;
+13 (k) Sexual abuse of a protected individual in the first or second
+14 degree, section 28-322.04;
+15 (l) Sexual abuse of a detainee in the first or second degree, under
+16 section 28-322.05;
+17 (m) Sexual abuse by a conservator, guardian, or guardian ad litem in
+18 the first or second degree, section 12 of this act;
+19 (n) Sexual abuse by a child welfare service provider in the first or
+20 second degree, section 13 of this act;
+21 (o) (m) Domestic assault in the first, second, or third degree,
+22 section 28-323;
+23 (p) (n) Assault on an officer, an emergency responder, a state
+24 correctional employee, a Department of Health and Human Services
+25 employee, or a health care professional in the first degree, section
+26 28-929;
+27 (q) (o) Assault on an officer, an emergency responder, a state
+28 correctional employee, a Department of Health and Human Services
+29 employee, or a health care professional in the second degree, section
+30 28-930;
+31 (r) (p) Assault on an officer, an emergency responder, a state
+-6-
+
+LB965 LB965
+2026 2026
+1 correctional employee, a Department of Health and Human Services
+2 employee, or a health care professional in the third degree, section
+3 28-931;
+4 (s) (q) Assault on an officer, an emergency responder, a state
+5 correctional employee, a Department of Health and Human Services
+6 employee, or a health care professional using a motor vehicle, section
+7 28-931.01;
+8 (t) (r) Assault by a confined person, section 28-932;
+9 (u) (s) Confined person committing offenses against another person,
+10 section 28-933; and
+11 (v) (t) Proximately causing serious bodily injury while operating a
+12 motor vehicle, section 60-6,198.
+13 (2) The enhancement in subsection (1) of this section does not apply
+14 to any criminal offense listed in subsection (1) of this section that is
+15 already punishable as a Class I, IA, or IB felony. If any criminal
+16 offense listed in subsection (1) of this section is punishable as a Class
+17 I misdemeanor, the penalty under this section is a Class IIIA felony.
+18 (3) The prosecution shall allege and prove beyond a reasonable doubt
+19 that the victim was pregnant at the time of the offense.
+20 Sec. 6. Section 28-310.01, Revised Statutes Cumulative Supplement,
+21 2024, is amended to read:
+22 28-310.01 (1) A person commits the offense of assault by
+23 strangulation or suffocation if the person knowingly and intentionally:
+24 (a) Impedes the normal breathing or circulation of the blood of
+25 another person by applying pressure on the throat or neck of the other
+26 person; or
+27 (b) Impedes the normal breathing of another person by covering the
+28 mouth and nose of the person.
+29 (2) An offense is committed under this section regardless of whether
+30 a visible injury resulted.
+31 (3) Except as provided in subsection (4) of this section, a
+-7-
+
+LB965 LB965
+2026 2026
+1 violation of this section is a Class IIIA felony.
+2 (4) A violation of this section is a Class IIA felony if:
+3 (a) The person used or attempted to use a dangerous instrument while
+4 committing the offense;
+5 (b) The person caused serious bodily injury to the other person
+6 while committing the offense; or
+7 (c) The person has been previously convicted:
+8 (i) Of of a violation of this section; or .
+9 (ii) In any other state or federal court of a criminal offense with
+10 essentially the same elements as a violation of this section.
+11 (5) It is an affirmative defense that an act constituting
+12 strangulation or suffocation was the result of a legitimate medical
+13 procedure.
+14 Sec. 7. Section 28-318, Revised Statutes Supplement, 2025, is
+15 amended to read:
+16 28-318 As used in sections 28-317 to 28-322.05 and sections 12 and
+17 13 of this act, unless the context otherwise requires:
+18 (1) Actor means a person accused of sexual assault;
+19 (2) Intimate parts means the genital area, groin, inner thighs,
+20 buttocks, or breasts;
+21 (3) Past sexual behavior means sexual behavior other than the sexual
+22 behavior upon which the sexual assault is alleged;
+23 (4) Serious personal injury means great bodily injury or
+24 disfigurement, extreme mental anguish or mental trauma, pregnancy,
+25 disease, or loss or impairment of a sexual or reproductive organ;
+26 (5) Sexual contact means the intentional touching of the victim's
+27 sexual or intimate parts or the intentional touching of the victim's
+28 clothing covering the immediate area of the victim's sexual or intimate
+29 parts. Sexual contact also means the touching by the victim of the
+30 actor's sexual or intimate parts or the clothing covering the immediate
+31 area of the actor's sexual or intimate parts when such touching is
+-8-
+
+LB965 LB965
+2026 2026
+1 intentionally caused by the actor. Sexual contact includes only such
+2 conduct which can be reasonably construed as being for the purpose of
+3 sexual arousal or gratification of either party. Sexual contact also
+4 includes the touching of a child with the actor's sexual or intimate
+5 parts on any part of the child's body for purposes of sexual abuse by a
+6 school worker under section 28-316.01 or sexual assault of a child under
+7 sections 28-319.01 and 28-320.01;
+8 (6) Sexual penetration means sexual intercourse in its ordinary
+9 meaning, cunnilingus, fellatio, anal intercourse, or any intrusion,
+10 however slight, of any part of the actor's or victim's body or any object
+11 manipulated by the actor into the genital or anal openings of the
+12 victim's body which can be reasonably construed as being for nonmedical,
+13 nonhealth, or nonlaw enforcement purposes. Sexual penetration shall not
+14 require emission of semen;
+15 (7) Victim means the person alleging to have been sexually
+16 assaulted;
+17 (8) Without consent means:
+18 (a)(i) The victim was compelled to submit due to the use of force or
+19 threat of force or coercion, or (ii) the victim expressed a lack of
+20 consent through words, or (iii) the victim expressed a lack of consent
+21 through conduct, or (iv) the consent, if any was actually given, was the
+22 result of the actor's deception as to the identity of the actor or the
+23 nature or purpose of the act on the part of the actor;
+24 (b) The victim need only resist, either verbally or physically, so
+25 as to make the victim's refusal to consent genuine and real and so as to
+26 reasonably make known to the actor the victim's refusal to consent; and
+27 (c) A victim need not resist verbally or physically where it would
+28 be useless or futile to do so; and
+29 (9) Force or threat of force means (a) the use of physical force
+30 which overcomes the victim's resistance or (b) the threat of physical
+31 force, express or implied, against the victim or a third person that
+-9-
+
+LB965 LB965
+2026 2026
+1 places the victim in fear of death or in fear of serious personal injury
+2 to the victim or a third person where the victim reasonably believes that
+3 the actor has the present or future ability to execute the threat.
+4 Sec. 8. Section 28-322, Revised Statutes Supplement, 2025, is
+5 amended to read:
+6 28-322 For purposes of sections 28-322 to 28-322.03:
+7 (1) Department means the Department of Correctional Services;
+8 (2) (1) Inmate or parolee means any individual confined in a
+9 facility operated by the department Department of Correctional Services
+10 or a city or county correctional or jail; facility or
+11 (3) Jail means any jail or correctional facility of a city or
+12 county;
+13 (4) Office means the Office of Probation Administration;
+14 (5) Parolee means any individual under parole supervision; and
+15 (6) (2) Person means:
+16 (a) Any an individual employed by the department Department of
+17 Correctional Services , including any individual working in central
+18 administration of the department, any individual working under contract
+19 with the department, and any individual , other than an inmate's spouse,
+20 to whom the department has authorized or delegated control over an inmate
+21 or an inmate's activities; ,
+22 (b) Any an individual employed by a city or county correctional or
+23 jail facility, including any individual working in central administration
+24 of the city or county correctional or jail facility, any individual
+25 working under contract with the city or county correctional or jail
+26 facility, and any individual , other than an inmate's spouse, to whom the
+27 city or county correctional or jail facility has authorized or delegated
+28 control over an inmate or an inmate's activities; , and
+29 (c) Any an individual employed by the office, including, but not
+30 limited to:
+31 (i) Any probation officer, chief probation officer, juvenile
+-10-
+
+LB965 LB965
+2026 2026
+1 probation officer, or juvenile intake probation officer, as those terms
+2 are defined in section 29-2246; or
+3 (ii) Any individual:
+4 (A) Working in probation administration or for any probation
+5 district;
+6 (B) Working within any problem solving court under the purview of
+7 the office; or
+8 (C) To whom the office or a problem solving court has authorized or
+9 delegated control over a probationer or problem solving court
+10 participant, or such person's activities, whether by contract or
+11 otherwise; Office of Probation Administration who performs official
+12 duties within any facility operated by the Department of Correctional
+13 Services or a city or county correctional or jail facility.
+14 (7) Probationer means:
+15 (a) Any individual under probation supervision, including, but not
+16 limited to, as a result of a sentence of probation or post-release
+17 supervision, pursuant to a deferred judgment, or pursuant to the Nebraska
+18 Juvenile Code; or
+19 (b) Any individual subject to a presentence or predisposition
+20 investigation being completed by the office or subject to a probation
+21 intake; and
+22 (8) Problem solving court participant means a criminal defendant or
+23 juvenile participating in any problem solving court program.
+24 Sec. 9. Section 28-322.01, Revised Statutes Cumulative Supplement,
+25 2024, is amended to read:
+26 28-322.01 (1) A person commits the offense of sexual abuse of an
+27 inmate, a or parolee, a probationer, or a problem solving court
+28 participant if such person subjects an inmate, a or parolee, a
+29 probationer, or a problem solving court participant to sexual penetration
+30 or sexual contact as those terms are defined in section 28-318.
+31 (2) It is not a defense to a charge under this section that the
+-11-
+
+LB965 LB965
+2026 2026
+1 inmate, or parolee, probationer, or problem solving court participant
+2 consented to such sexual penetration or sexual contact.
+3 (3) (2) An otherwise lawful pat-down or body cavity search by a
+4 person is not a violation of this section.
+5 (4) Sexual contact or sexual penetration between spouses is not a
+6 violation of this section.
+7 Sec. 10. Section 28-322.02, Reissue Revised Statutes of Nebraska, is
+8 amended to read:
+9 28-322.02 Any person who subjects an inmate, a or parolee, a
+10 probationer, or a problem solving court participant to sexual penetration
+11 in violation of section 28-322.01 is guilty of sexual abuse of an inmate,
+12 a or parolee, a probationer, or a problem solving court participant in
+13 the first degree. Sexual abuse of an inmate, a or parolee, a probationer,
+14 or a problem solving court participant in the first degree is a Class IIA
+15 felony.
+16 Sec. 11. Section 28-322.03, Reissue Revised Statutes of Nebraska, is
+17 amended to read:
+18 28-322.03 Any person who subjects an inmate, a or parolee, a
+19 probationer, or a problem solving court participant to sexual contact in
+20 violation of section 28-322.01 is guilty of sexual abuse of an inmate, a
+21 or parolee, a probationer, or a problem solving court participant in the
+22 second degree. Sexual abuse of an inmate, a or parolee, a probationer, or
+23 a problem solving court participant in the second degree is a Class IIIA
+24 felony.
+25 Sec. 12. (1) A conservator, guardian, or guardian ad litem shall
+26 not subject any individual whom he or she has been appointed to serve as
+27 a conservator, guardian, or guardian ad litem to sexual penetration or
+28 sexual contact.
+29 (2) It is not a defense to a charge under this section that such
+30 individual consented to such sexual penetration or sexual contact.
+31 (3) Sexual contact or sexual penetration between spouses is not a
+-12-
+
+LB965 LB965
+2026 2026
+1 violation of this section.
+2 (4) A conservator, guardian, or guardian ad litem who subjects an
+3 individual to sexual penetration in violation of this section is guilty
+4 of sexual abuse by a conservator, guardian, or guardian ad litem in the
+5 first degree. Such offense is a Class IIA felony.
+6 (5) A conservator, guardian, or guardian ad litem who subjects an
+7 individual to sexual contact in violation of this section is guilty of
+8 sexual abuse by a conservator, guardian, or guardian ad litem in the
+9 second degree. Such offense is a Class IIIA felony.
+10 Sec. 13. (1) For purposes of this section:
+11 (a) Child welfare service provider means any:
+12 (i) Individual or entity providing child welfare services,
+13 including, but not limited to, any person with a contract or agreement
+14 with the Department of Health and Human Services to provide child welfare
+15 services; and
+16 (ii) An agent or employee of an individual or entity described in
+17 subdivision (1)(a)(i) of this section; and
+18 (b) Minor means an individual who is under nineteen years of age.
+19 (2) A child welfare service provider shall not subject any minor
+20 receiving child welfare services from such provider or who is otherwise
+21 in such provider's care, custody, or control to sexual penetration or
+22 sexual contact.
+23 (3) It is not a defense to a charge under this section that such
+24 minor consented to such sexual penetration or sexual contact.
+25 (4) A child welfare service provider who subjects a minor to sexual
+26 penetration in violation of this section is guilty of sexual abuse by a
+27 child welfare service provider in the first degree. Such offense is a
+28 Class IIA felony.
+29 (5) A child welfare service provider who subjects a minor to sexual
+30 contact in violation of this section is guilty of sexual abuse by a child
+31 welfare service provider in the second degree. Such offense is a Class
+-13-
+
+LB965 LB965
+2026 2026
+1 IIIA felony.
+2 Sec. 14. Section 28-323, Reissue Revised Statutes of Nebraska, is
+3 amended to read:
+4 28-323 (1) A person commits the offense of domestic assault in the
+5 third degree if he or she:
+6 (a) Intentionally, and knowingly, or recklessly causes bodily injury
+7 to his or her intimate partner; or
+8 (b) Threatens an intimate partner with imminent bodily injury. ; or
+9 (c) Threatens an intimate partner in a menacing manner.
+10 (2) A person commits the offense of domestic assault in the second
+11 degree if he or she:
+12 (a) Intentionally intentionally and knowingly causes bodily injury
+13 to his or her intimate partner with a dangerous instrument; or .
+14 (b) Recklessly causes serious bodily injury to his or her intimate
+15 partner with a dangerous instrument.
+16 (3) A person commits the offense of domestic assault in the first
+17 degree if he or she intentionally and knowingly causes serious bodily
+18 injury to his or her intimate partner.
+19 (4) A violation of subsection (1) of this section is a Class I
+20 misdemeanor, except that such violation shall be punished as a:
+21 (a) Class IIIA felony if the person has one previous conviction for
+22 a violation of subsection (1), (2), or (3) of this section or a
+23 substantially equivalent offense; or
+24 (b) Class IIA felony if the person has previously been convicted two
+25 or more times for any violation of subsection (1), (2), or (3) of this
+26 section or any substantially equivalent offense.
+27 (5) A violation of subsection (2) of this section is a Class IIA
+28 felony, except that such violation shall be punished as a Class II felony
+29 if such person has one or more previous convictions for a violation of
+30 subsection (2) or (3) of this section or a substantially equivalent
+31 offense.
+-14-
+
+LB965 LB965
+2026 2026
+1 (6) A violation of subsection (3) of this section is a Class ID
+2 felony, except that such violation shall be punished as a Class IB felony
+3 with a mandatory minimum sentence of fifteen years' imprisonment if such
+4 person has one or more previous convictions for a violation of subsection
+5 (3) of this section or a substantially equivalent offense.
+6 (4) Violation of subdivision (1)(a) or (b) of this section is a
+7 Class I misdemeanor, except that for any subsequent violation of
+8 subdivision (1)(a) or (b) of this section, any person so offending is
+9 guilty of a Class IIIA felony.
+10 (5) Violation of subdivision (1)(c) of this section is a Class I
+11 misdemeanor.
+12 (6) Violation of subsection (2) of this section is a Class IIIA
+13 felony, except that for any second or subsequent violation of such
+14 subsection, any person so offending is guilty of a Class IIA felony.
+15 (7) Violation of subsection (3) of this section is a Class IIA
+16 felony, except that for any second or subsequent violation under such
+17 subsection, any person so offending is guilty of a Class II felony.
+18 (7) (8) For purposes of this section: ,
+19 (a) Dating relationship means frequent, intimate associations
+20 primarily characterized by the expectation of affectional or sexual
+21 involvement, but does not include a casual relationship or an ordinary
+22 association between persons in a business or social context;
+23 (b) Intimate intimate partner means a spouse; a former spouse;
+24 persons who have a child in common whether or not they have been married
+25 or lived together at any time; and persons who are or were involved in a
+26 dating relationship; and . For purposes of this subsection, dating
+27 relationship means frequent, intimate associations primarily
+28 characterized by the expectation of affectional or sexual involvement,
+29 but does not include a casual relationship or an ordinary association
+30 between persons in a business or social context.
+31 (c) Substantially equivalent offense means a violation of law that:
+-15-
+
+LB965 LB965
+2026 2026
+1 (i) Is a criminal offense under federal law or the law of another
+2 state; and
+3 (ii) Has essentially the same elements as the violation of this
+4 section to which it is being compared.
+5 Sec. 15. Section 28-470, Revised Statutes Supplement, 2025, is
+6 amended to read:
+7 28-470 (1) A health professional who is authorized to prescribe or
+8 dispense an opioid overdose reversal medication, if acting with
+9 reasonable care, may prescribe, administer, or dispense such medication
+10 to any of the following persons without being subject to administrative
+11 action or criminal prosecution:
+12 (a) A person who is apparently experiencing or who is likely to
+13 experience an opioid-related overdose; or
+14 (b) A family member, friend, or other person in a position to assist
+15 a person who is apparently experiencing or who is likely to experience an
+16 opioid-related overdose.
+17 (2) A family member, friend, or any other person, including school
+18 personnel, who is in a position to assist a person who is apparently
+19 experiencing or who is likely to experience an opioid-related overdose,
+20 other than an emergency responder or peace officer, is not subject to
+21 actions under the Uniform Credentialing Act, administrative action, or
+22 criminal prosecution if the person, acting in good faith:
+23 (a) Obtains an opioid overdose reversal medication from a health
+24 professional, pursuant to a prescription, or over the counter; and
+25 (b) Administers such medication to a person who is apparently
+26 experiencing an opioid-related overdose.
+27 (3) An emergency responder who, acting in good faith, obtains an
+28 opioid overdose reversal medication from the emergency responder's
+29 emergency medical service organization and administers such medication to
+30 a person who is apparently experiencing an opioid-related overdose shall
+31 not be:
+-16-
+
+LB965 LB965
+2026 2026
+1 (a) Subject to administrative action or criminal prosecution; or
+2 (b) Personally liable in any civil action to respond in damages as a
+3 result of his or her acts of commission or omission arising out of and in
+4 the course of his or her rendering such care or services or arising out
+5 of his or her failure to act to provide or arrange for further medical
+6 treatment or care for the person who is apparently experiencing an
+7 opioid-related overdose, unless the emergency responder caused damage or
+8 injury by his or her willful, wanton, or grossly negligent act of
+9 commission or omission. This subdivision shall not affect the liability
+10 of such emergency medical service organization for the emergency
+11 responder's acts of commission or omission.
+12 (4) A peace officer or law enforcement employee who, acting in good
+13 faith, obtains an opioid overdose reversal medication from the peace
+14 officer's or employee's law enforcement agency and administers such
+15 medication to a person who is apparently experiencing an opioid-related
+16 overdose shall not be:
+17 (a) Subject to administrative action or criminal prosecution; or
+18 (b) Personally liable in any civil action to respond in damages as a
+19 result of his or her acts of commission or omission arising out of and in
+20 the course of his or her rendering such care or services or arising out
+21 of his or her failure to act to provide or arrange for further medical
+22 treatment or care for the person who is apparently experiencing an
+23 opioid-related overdose, unless the peace officer or employee caused
+24 damage or injury by his or her willful, wanton, or grossly negligent act
+25 of commission or omission. This subdivision shall not affect the
+26 liability of such law enforcement agency for the peace officer's or
+27 employee's acts of commission or omission.
+28 (5) A probation employee who, acting in good faith, obtains an
+29 opioid overdose reversal medication in accordance with the policies of
+30 the Office of Probation Administration and administers such medication to
+31 a person who is apparently experiencing an opioid-related overdose shall
+-17-
+
+LB965 LB965
+2026 2026
+1 not be:
+2 (a) Subject to administrative action or criminal prosecution; or
+3 (b) Personally liable in any civil action to respond in damages as a
+4 result of his or her acts of commission or omission arising out of and in
+5 the course of his or her rendering such care or services or arising out
+6 of his or her failure to act to provide or arrange for further medical
+7 treatment or care for the person who is apparently experiencing an
+8 opioid-related overdose, unless the employee caused damage or injury by
+9 his or her willful, wanton, or grossly negligent act of commission or
+10 omission. This subdivision shall not affect the liability of the office
+11 for such employee's acts of commission or omission.
+12 (6) (5) For purposes of this section:
+13 (a) Administer has the same meaning as in section 38-2806;
+14 (b) Dispense has the same meaning as in section 38-2817;
+15 (c) Emergency responder means an emergency medical responder, an
+16 emergency medical technician, an advanced emergency medical technician,
+17 or a paramedic licensed under the Emergency Medical Services Practice Act
+18 or practicing pursuant to the EMS Personnel Licensure Interstate Compact;
+19 (d) Health professional means a physician, physician assistant,
+20 nurse practitioner, or pharmacist licensed under the Uniform
+21 Credentialing Act;
+22 (e) Law enforcement agency means a police department, a town
+23 marshal, the office of sheriff, or the Nebraska State Patrol;
+24 (f) Law enforcement employee means an employee of a law enforcement
+25 agency, a contractor of a law enforcement agency, or an employee of such
+26 contractor who regularly, as part of his or her duties, handles,
+27 processes, or is likely to come into contact with any evidence or
+28 property which may include or contain opioids;
+29 (g) Opioid overdose reversal medication means any lifesaving
+30 medication approved by the United States Food and Drug Administration for
+31 reversing an opioid overdose, whether obtained by prescription, from a
+-18-
+
+LB965 LB965
+2026 2026
+1 health professional, or over the counter, and includes, but is not
+2 limited to, naloxone and nalmefene; and
+3 (h) Peace officer has the same meaning as in section 49-801; and .
+4 (i) Probation employee means a probation officer, chief probation
+5 officer, juvenile probation officer, or juvenile intake probation
+6 officer, as those terms are defined in section 29-2246.
+7 Sec. 16. Section 28-508, Reissue Revised Statutes of Nebraska, is
+8 amended to read:
+9 28-508 (1) A person commits the offense of possession of burglar's
+10 tools if such person:
+11 (a) Knowingly He knowingly possesses any explosive, tool,
+12 instrument, key or lock adopted by a postal service for any box or other
+13 authorized receptacle for the deposit or delivery of mail, or other
+14 article adapted, designed, or commonly used for committing or
+15 facilitating the commission of an offense involving forcible entry into
+16 premises or theft by a physical taking; and
+17 (b) Intends He intends to use the explosive, tool, instrument, key,
+18 lock, or article, or knows some person intends ultimately to use it, in
+19 the commission of an offense of the nature described in subdivision (1)
+20 (a) of this section.
+21 (2) Possession of burglar's tools is a Class IV felony.
+22 Sec. 17. Section 28-610, Reissue Revised Statutes of Nebraska, is
+23 amended to read:
+24 28-610 (1) A person commits the offense of impersonating a peace
+25 officer if he or she falsely pretends to be a peace officer and performs
+26 any act in that pretended capacity.
+27 (2) Impersonating a peace officer is a Class IV felony I
+28 misdemeanor.
+29 Sec. 18. Section 28-703, Reissue Revised Statutes of Nebraska, is
+30 amended to read:
+31 28-703 (1) A Any person commits the offense of incest if he or she
+-19-
+
+LB965 LB965
+2026 2026
+1 who shall knowingly:
+2 (a) Intermarries or engages intermarry or engage in sexual
+3 penetration or sexual contact with any person who falls within the
+4 degrees of consanguinity set forth in section 28-702;
+5 (b) Engages or any person who engages in sexual penetration or
+6 sexual contact with his or her stepchild who is under nineteen years of
+7 age; or commits incest.
+8 (c) Engages in sexual penetration or sexual contact with his or her
+9 adopted child or foster child.
+10 (2) Incest is a Class III felony, except that incest with a person
+11 who is under eighteen years of age is a Class IIA felony.
+12 (3) (3)(a) For purposes of this section, the definitions found in
+13 section 28-318 shall be used.
+14 (4) (b) The testimony of a victim shall be entitled to the same
+15 weight as the testimony of victims of other crimes under this code.
+16 Sec. 19. Section 28-712.01, Revised Statutes Supplement, 2025, is
+17 amended to read:
+18 28-712.01 (1)(a) The department may assign a report for alternative
+19 response consistent with the Child Protection and Family Safety Act.
+20 (b) No report involving any of the following shall be assigned to
+21 alternative response but shall be immediately forwarded to law
+22 enforcement or the county attorney:
+23 (i) Murder in the first or second degree as defined in section
+24 28-303 or 28-304 or manslaughter as defined in section 28-305;
+25 (ii) Assault in the first, second, or third degree or assault by
+26 strangulation or suffocation as defined in section 28-308, 28-309,
+27 28-310, or 28-310.01;
+28 (iii) Sexual abuse, including acts prohibited by section 28-319,
+29 28-319.01, 28-320, 28-320.01, 28-320.02, 28-322.01, 28-322.02, 28-322.03,
+30 28-322.04, 28-322.05, 28-703, or 28-707 or section 12 or 13 of this act;
+31 (iv) Labor trafficking of a minor or sex trafficking of a minor as
+-20-
+
+LB965 LB965
+2026 2026
+1 defined in section 28-830;
+2 (v) Neglect of a minor child that results in serious bodily injury
+3 as defined in section 28-109, requires hospitalization of the child, or
+4 results in an injury to the child that requires ongoing medical care,
+5 behavioral health care, or physical or occupational therapy, including a
+6 growth delay, which may be referred to as failure to thrive, that has
+7 been diagnosed by a physician and is due to parental neglect;
+8 (vi) Physical abuse to the head or torso of a child or physical
+9 abuse that results in bodily injury;
+10 (vii) An allegation that requires a forensic interview at a child
+11 advocacy center or coordination with the child abuse and neglect
+12 investigation team pursuant to section 28-728;
+13 (viii) Out-of-home child abuse or neglect;
+14 (ix) An allegation being investigated by a law enforcement agency at
+15 the time of the assignment;
+16 (x) A history of termination of parental rights;
+17 (xi) Absence of a caretaker without having given an alternate
+18 caregiver authority to make decisions and grant consents for necessary
+19 care, treatment, and education of a child or without having made
+20 provision to be contacted to make such decisions or grant such consents;
+21 (xii) Domestic violence involving a caretaker in situations in which
+22 the alleged perpetrator has access to the child or caretaker;
+23 (xiii) A household member illegally manufactures methamphetamine or
+24 opioids;
+25 (xiv) A child has had contact with methamphetamine or other
+26 nonprescribed opioids, including a positive drug screening or test; or
+27 (xv) For a report involving an infant, a household member tests
+28 positive for methamphetamine or nonprescribed opioids at the birth of
+29 such infant.
+30 (c) The department may adopt and promulgate rules and regulations to
+31 (i) provide additional ineligibility criteria for assignment to
+-21-
+
+LB965 LB965
+2026 2026
+1 alternative response and (ii) establish additional criteria requiring
+2 review by the Review, Evaluate, and Decide Team.
+3 (d) A report that includes any of the following may be eligible for
+4 alternative response but shall first be reviewed by the Review, Evaluate,
+5 and Decide Team prior to assignment to alternative response:
+6 (i) Domestic assault as defined in section 28-323 or domestic
+7 violence in the family home;
+8 (ii) Use of alcohol or controlled substances as defined in section
+9 28-401 or 28-405 by a caregiver that impairs the caregiver's ability to
+10 care and provide safety for the child; or
+11 (iii) A family member residing in the home or a caregiver that has
+12 been the subject of a report accepted for traditional response or
+13 assigned to alternative response in the past six months.
+14 (2) The Review, Evaluate, and Decide Team shall convene to review
+15 reports pursuant to the department's rules, regulations, and policies, to
+16 evaluate the information, and to determine assignment for alternative
+17 response or traditional response. The team shall utilize consistent
+18 criteria to review the severity of the allegation of child abuse or
+19 neglect, access to the perpetrator, vulnerability of the child, family
+20 history including previous reports, parental cooperation, parental or
+21 caretaker protective factors, and other information as deemed necessary.
+22 At the conclusion of the review, the report shall be assigned to either
+23 traditional response or alternative response. Decisions of the team shall
+24 be made by consensus. If the team cannot come to consensus, the report
+25 shall be assigned for a traditional response.
+26 (3) In the case of an alternative response, the department shall
+27 complete a comprehensive assessment. The department shall transfer the
+28 case being given alternative response to traditional response if the
+29 department determines that a child is unsafe or if the concern for the
+30 safety of the child is due to a temporary living arrangement. Upon
+31 completion of the comprehensive assessment, if it is determined that the
+-22-
+
+LB965 LB965
+2026 2026
+1 child is safe, participation in services offered to the family receiving
+2 an alternative response is voluntary, the case shall not be transferred
+3 to traditional response based upon the family's failure to enroll or
+4 participate in such services, and the subject of the report shall not be
+5 entered into the central registry of child protection cases maintained
+6 pursuant to section 28-718.
+7 (4) The department shall, by the next working day after receipt of a
+8 report of child abuse or neglect, enter into the tracking system of child
+9 protection cases maintained pursuant to section 28-715 all reports of
+10 child abuse or neglect received under this section that are opened for
+11 alternative response and any action taken.
+12 (5) The department shall make available to the appropriate
+13 investigating law enforcement agency, child advocacy center, and county
+14 attorney a copy of all reports relative to a case of suspected child
+15 abuse or neglect. Aggregate, nonidentifying data regarding reports of
+16 child abuse or neglect receiving an alternative response shall be made
+17 available quarterly to requesting agencies outside the department. Such
+18 alternative response data shall include, but not be limited to, the
+19 nature of the initial child abuse or neglect report, the age of the child
+20 or children, the nature of services offered, the location of the cases,
+21 the number of cases per month, and the number of alternative response
+22 cases that were transferred to traditional response. Other than the
+23 office of Inspector General of Nebraska Child Welfare, the Public
+24 Counsel, law enforcement agency personnel, child advocacy center
+25 employees, and county attorneys, no other agency or individual shall be
+26 provided specific, identifying reports of child abuse or neglect being
+27 given alternative response. The office of Inspector General of Nebraska
+28 Child Welfare shall have access to all reports relative to cases of
+29 suspected child abuse or neglect subject to traditional response and
+30 those subject to alternative response. The department and the office
+31 shall develop procedures allowing for the Inspector General's review of
+-23-
+
+LB965 LB965
+2026 2026
+1 cases subject to alternative response. The Inspector General shall
+2 include in the report pursuant to section 50-1818 a summary of all cases
+3 reviewed pursuant to this subsection.
+4 Sec. 20. Section 28-1205, Revised Statutes Supplement, 2025, is
+5 amended to read:
+6 28-1205 (1)(a) Any person who uses a firearm, a knife, brass or iron
+7 knuckles, or any other deadly weapon to commit any felony which may be
+8 prosecuted in a court of this state commits the offense of use of a
+9 deadly weapon to commit a felony.
+10 (b) Use of a deadly weapon, other than a firearm, to commit a felony
+11 is a Class II felony.
+12 (c) Use of a deadly weapon, which is a firearm, to commit a felony
+13 is a Class IC felony.
+14 (2)(a) Any person who possesses a firearm, a knife, brass or iron
+15 knuckles, or a destructive device during the commission of any felony
+16 which may be prosecuted in a court of this state commits the offense of
+17 possession of a deadly weapon during the commission of a felony.
+18 (b) Possession of a deadly weapon, other than a firearm, during the
+19 commission of a felony is a Class III felony.
+20 (c) Possession of a deadly weapon, which is a firearm, during the
+21 commission of a felony is a Class II felony.
+22 (3)(a) Any person who carries a firearm or a destructive device
+23 during the commission of a dangerous misdemeanor commits the offense of
+24 carrying a firearm or destructive device during the commission of a
+25 dangerous misdemeanor.
+26 (b) A violation of this subsection is a:
+27 (i) Class I misdemeanor for a first or second offense; and
+28 (ii) A Class IV felony for any third or subsequent offense.
+29 (4) A violation of this section shall be treated as a separate and
+30 distinct offense from the underlying crimes being committed, and a
+31 sentence imposed under this section shall be consecutive to any other
+-24-
+
+LB965 LB965
+2026 2026
+1 sentence imposed.
+2 (5) Possession of a deadly weapon may be proved through evidence
+3 demonstrating either actual or constructive possession of a firearm, a
+4 knife, brass or iron knuckles, or a destructive device during,
+5 immediately prior to, or immediately after the commission of a felony.
+6 (6) For purposes of this section:
+7 (a) Dangerous misdemeanor means a misdemeanor violation of any of
+8 the following offenses:
+9 (i) Stalking under section 28-311.03;
+10 (ii) Knowing violation of any protection order issued under the
+11 Protection Orders Act;
+12 (iii) Domestic assault under section 28-323;
+13 (iv) Assault of an unborn child in the third degree under section
+14 28-399;
+15 (v) Theft by shoplifting under section 28-511.01;
+16 (vi) Unauthorized use of a propelled vehicle under section 28-516;
+17 (vii) Criminal mischief under section 28-519 if such violation
+18 arises from an incident involving the commission of a misdemeanor crime
+19 of domestic violence;
+20 (viii) Impersonating a police officer under section 28-610;
+21 (viii) (ix) Resisting arrest under section 28-904;
+22 (ix) (x) Operating a motor vehicle or vessel to avoid arrest under
+23 section 28-905;
+24 (x) (xi) Obstructing a peace officer under section 28-906; or
+25 (xi) (xii) Any attempt under section 28-201 to commit an offense
+26 described in subdivisions (6)(a)(i) through (x) (xi) of this section;
+27 (b) Destructive device has the same meaning as in section 28-1213;
+28 (c) Misdemeanor crime of domestic violence has the same meaning as
+29 in section 28-1206; and
+30 (d) Use of a deadly weapon includes the discharge, employment, or
+31 visible display of any part of a firearm, a knife, brass or iron
+-25-
+
+LB965 LB965
+2026 2026
+1 knuckles, any other deadly weapon, or a destructive device during,
+2 immediately prior to, or immediately after the commission of a felony or
+3 communication to another indicating the presence of a firearm, a knife,
+4 brass or iron knuckles, any other deadly weapon, or a destructive device
+5 during, immediately prior to, or immediately after the commission of a
+6 felony, regardless of whether such firearm, knife, brass or iron
+7 knuckles, deadly weapon, or destructive device was discharged, actively
+8 employed, or displayed.
+9 Sec. 21. Section 28-1701, Revised Statutes Supplement, 2025, is
+10 amended to read:
+11 28-1701 (1) A person shall not be arrested or prosecuted for an
+12 eligible alcohol or drug offense if such person witnessed or was the
+13 victim of a sexual assault and such person:
+14 (a) Either:
+15 (i) In good faith, reported such sexual assault to law enforcement;
+16 or
+17 (ii) Requested emergency medical assistance for the victim of the
+18 sexual assault; and
+19 (b) Evidence supporting the arrest or prosecution of the eligible
+20 alcohol or drug offense was obtained or discovered as a result of such
+21 person reporting such sexual assault to law enforcement or requesting
+22 emergency medical assistance.
+23 (2) A person shall not be arrested or prosecuted for an eligible
+24 alcohol or drug offense if:
+25 (a) Evidence supporting the arrest or prosecution of the person for
+26 the offense was obtained or discovered as a result of the investigation
+27 or prosecution of a sexual assault; and
+28 (b) Such person cooperates with law enforcement in the investigation
+29 or prosecution of the sexual assault.
+30 (3) For purposes of this section:
+31 (a) Eligible alcohol or drug offense means:
+-26-
+
+LB965 LB965
+2026 2026
+1 (i) A violation of subsection (3) or (13) of section 28-416 or of
+2 section 28-441;
+3 (ii) A violation of section 53-180.02 committed by a person older
+4 than eighteen years of age and under the age of twenty-one years, as
+5 described in subdivision (4)(a) of section 53-180.05;
+6 (iii) A violation of a city or village ordinance similar to
+7 subdivision (3)(a)(i) or (ii) of this section; or
+8 (iv) Attempt, conspiracy, solicitation, being an accessory to,
+9 aiding and abetting, aiding the consummation of, or compounding a felony
+10 with any of the offenses in subdivision (3)(a)(i), (ii), or (iii) of this
+11 section as the underlying offense; and
+12 (b) Sexual assault means:
+13 (i) A violation of section 28-316.01, 28-319, 28-319.01, 28-320,
+14 28-320.01, 28-320.02, 28-322.01, 28-322.02, 28-322.03, 28-322.04,
+15 28-322.05, 28-703, or 28-1805 or section 12 or 13 of this act, sex
+16 trafficking or sex trafficking of a minor under section 28-831, or
+17 subdivision (1)(c) or (g) of section 28-386 or subdivision (1)(d), (e),
+18 or (f) of section 28-707; or
+19 (ii) Attempt, conspiracy, solicitation, being an accessory to,
+20 aiding and abetting, aiding the consummation of, or compounding a felony
+21 with any of the offenses listed in subdivision (3)(b)(i) of this section
+22 as the underlying offense.
+23 Sec. 22. For purposes of sections 22 to 29 of this act:
+24 (1) Brady-Giglio case law means Brady v. Maryland, 373 U.S. 83
+25 (1963), and Giglio v. United States, 405 U.S. 150 (1972), and subsequent
+26 cases of the Supreme Court of the United States and the Supreme Court of
+27 Nebraska;
+28 (2) Brady-Giglio disclosure means a disclosure made by a prosecuting
+29 agency pursuant to Brady-Giglio case law;
+30 (3) Law enforcement agency has the same meaning as in section
+31 81-1401;
+-27-
+
+LB965 LB965
+2026 2026
+1 (4) Law enforcement officer has the same meaning as in section
+2 81-1401;
+3 (5) Officer means:
+4 (a) A law enforcement officer; or
+5 (b) A correctional officer employed by a jail or by the Department
+6 of Correctional Services;
+7 (6) Prosecuting agency means the Department of Justice, the office
+8 of a county attorney or city attorney, or a special prosecutor; and
+9 (7) Public safety agency means:
+10 (a) A law enforcement agency;
+11 (b) A city or county jail;
+12 (c) The Department of Correctional Services; or
+13 (d) Any other agency of state or local government that employs
+14 officers.
+15 Sec. 23. (1) An officer shall not be discharged, disciplined, or
+16 threatened with discharge or discipline, or subject to revocation or
+17 suspension of a certificate under sections 81-1401 to 81-1414.19, solely
+18 because a prosecuting agency has:
+19 (a) Named the officer in a Brady-Giglio disclosure or determined
+20 that such officer may be subject to such disclosure; or
+21 (b) Disclosed to any person that the officer is named in a Brady-
+22 Giglio disclosure.
+23 (2) This section does not prohibit a dismissal, a suspension, a
+24 demotion, or any other disciplinary action against an officer, or against
+25 a certificate issued under sections 81-1401 to 81-1414.19, based on the
+26 underlying action that resulted in such officer being named in a Brady-
+27 Giglio disclosure or being considered for such disclosure.
+28 Sec. 24. (1)(a) This section applies to any county with a
+29 population of one hundred thousand or more inhabitants.
+30 (b) For a county which includes a city of the metropolitan or
+31 primary class, the county attorney and city attorney of such city shall
+-28-
+
+LB965 LB965
+2026 2026
+1 operate under an interlocal agreement to fulfill the requirements of this
+2 section.
+3 (2) Before a prosecuting agency names an officer in a Brady-Giglio
+4 disclosure, the prosecuting agency shall fulfill the requirements of this
+5 section.
+6 (3)(a) The prosecuting agency shall create an informal advisory
+7 committee for evaluating possible Brady-Giglio disclosures. The advisory
+8 committee shall provide recommendations to county attorneys, city
+9 attorneys, and special prosecutors within the county. Each such
+10 prosecuting agency retains ultimate discretion on whether to name an
+11 officer in a Brady-Giglio disclosure.
+12 (b)(i) For a county which includes a city of the metropolitan class
+13 or primary class, the advisory committee shall be comprised of two
+14 prosecutors appointed by the county attorney and two prosecutors
+15 appointed by the city attorney for such city.
+16 (ii) For any other county with a population of one hundred thousand
+17 or more inhabitants, the advisory committee shall be comprised of four
+18 prosecutors appointed by the county attorney, with two of such
+19 prosecutors being from jurisdictions within the county and two
+20 prosecutors from jurisdictions in any other Nebraska county or counties.
+21 (4) Each prosecuting agency shall adopt a process for reviewing and
+22 making determinations for prospective Brady-Giglio disclosures that
+23 includes the following provisions:
+24 (a) The prosecuting agency shall provide an officer with written
+25 notice, including the proposed rationale, before determining whether such
+26 officer is subject to a prospective Brady-Giglio disclosure. An officer
+27 shall have the right to be represented by counsel at every stage of
+28 determination under this subsection;
+29 (b) The prosecuting agency shall provide the officer with a
+30 reasonable opportunity to respond to the proposed determination;
+31 (c)(i) If an officer in good faith contests the proposed
+-29-
+
+LB965 LB965
+2026 2026
+1 determination, the prosecuting agency shall request the advisory
+2 committee to make a recommendation on whether to name the officer in a
+3 prospective disclosure.
+4 (ii) The prosecuting agency shall provide the advisory committee
+5 with materials that support or corroborate naming the officer in such
+6 prospective disclosure and any exculpatory materials provided by the
+7 officer.
+8 (iii) The advisory committee may request further information from
+9 the officer or prosecuting agency, including oral testimony from the
+10 officer, and may conduct an informal hearing.
+11 (iv) The advisory committee shall make a recommendation to the
+12 prosecuting agency as to whether a prospective disclosure is required
+13 under Brady-Giglio case law and shall provide written notice of such
+14 recommendation to the prosecuting agency; and
+15 (d) The prosecuting agency shall consider, but is not bound by, the
+16 recommendation of the advisory committee. Upon the prosecuting agency
+17 making a final decision on whether to name such officer in a prospective
+18 Brady-Giglio disclosure, the prosecuting agency shall provide written
+19 notice to the officer of its final decision.
+20 (5) The requirements of this section apply to any officer subject to
+21 a prospective Brady-Giglio disclosure made on or after the operative date
+22 of this section. This section applies even if an officer was named in a
+23 related or similar Brady-Giglio disclosure prior to the operative date of
+24 this section, unless such officer has already received notice and an
+25 opportunity to be heard substantially similar to that required under this
+26 section.
+27 (6) Evidence presented to an advisory committee under this section
+28 shall be kept confidential unless otherwise provided by law.
+29 Sec. 25. (1) This section applies to any county with a population
+30 of fewer than one hundred thousand inhabitants.
+31 (2) A prosecuting agency shall provide an officer with written
+-30-
+
+LB965 LB965
+2026 2026
+1 notice, including the proposed rationale, when determining whether the
+2 officer is subject to a prospective Brady-Giglio disclosure and shall
+3 also provide written notice of the prosecuting agency's final decision on
+4 such disclosure.
+5 Sec. 26. (1)(a) An officer aggrieved by a prosecuting agency's
+6 final decision to name the officer in a Brady-Giglio disclosure may file
+7 a petition in the district court seeking review of such decision.
+8 (b) For an officer in a county with one hundred thousand or more
+9 inhabitants:
+10 (i) Prior to filing the petition, the officer shall complete the
+11 informal advisory committee process under section 24 of this act; and
+12 (ii) The petition shall be filed within ten days after receiving
+13 written notice of the prosecuting agency's final decision under
+14 subdivision (4)(d) of section 24 of this act.
+15 (c) For an officer in a county with fewer than one hundred thousand
+16 inhabitants, the petition shall be filed within ten days after receiving
+17 written notice of the prosecuting agency's final decision under section
+18 25 of this act.
+19 (2) Within ten days after filing the petition, the officer shall
+20 provide a complete record to the court, including, but not limited to, a
+21 bill of exceptions, transcripts, orders, findings, statements,
+22 investigations, any records pertaining to such officer that have been
+23 sealed pursuant to section 29-3523, and any other material that led to
+24 the prosecuting agency's decision to name the officer in a Brady-Giglio
+25 disclosure. Nothing in this section shall give the officer the right to
+26 obtain records from a prosecuting agency.
+27 (3) Within ten days after the record being filed, notice of the
+28 action shall be provided to any prosecuting agency named in the petition.
+29 Any named prosecuting agency may review the record provided to the court
+30 and provide an answer to the petition within ten days after being served
+31 with the petition.
+-31-
+
+LB965 LB965
+2026 2026
+1 (4) The prosecuting agency shall provide the court with all
+2 materials that led to the decision to name the officer in a Brady-Giglio
+3 disclosure, including, if applicable, copies of all materials provided to
+4 the advisory committee under section 24 of this act. The prosecuting
+5 agency may request the court to direct the officer to provide
+6 supplemental records. Upon receipt of the request, the court may direct
+7 the officer to supplement the record as requested. If a prosecuting
+8 agency requests a supplemental record, the agency shall have ten days
+9 from the filing of the supplemental record to file an answer to the
+10 petition. If an officer fails to supplement the record as ordered by the
+11 court, the court shall dismiss the petition.
+12 (5) Any petition, answer, or record submitted as part of the review
+13 shall be sealed from public view and shall not be a public record.
+14 (6) Within sixty days after the prosecuting agency files an answer,
+15 the court shall, without written or oral arguments, conduct an in camera
+16 review of the records filed in the case. If the court determines
+17 additional evidence or testimony is necessary, the court shall conduct
+18 further hearings as necessary, including questioning witnesses in camera
+19 or directing the parties to further supplement the record.
+20 (7) The court may modify or disagree with a prosecuting agency's
+21 decision to the extent that the court finds, by clear and convincing
+22 evidence, that the information or actions of the officer that served as
+23 the rationale for the Brady-Giglio disclosure would not be exculpatory
+24 evidence in the prosecution of any criminal offense.
+25 (8) If the court determines that the officer has failed to meet his
+26 or her burden of proof, the court shall dismiss the petition.
+27 (9) This section applies even if an officer was named in a related
+28 or similar Brady-Giglio disclosure prior to the operative date of this
+29 section, unless such officer has already received notice and an
+30 opportunity to be heard before the district court within the last five
+31 years.
+-32-
+
+LB965 LB965
+2026 2026
+1 Sec. 27. (1) An officer's personal information, including, but not
+2 limited to, the officer's home address, personal telephone number,
+3 personal email address, date of birth, social security number, and
+4 operator's license number shall be confidential and shall be redacted
+5 from any record prior to the record's release to the public by the
+6 employing public safety agency.
+7 (2) Nothing in this section prohibits the release of an officer's
+8 unredacted personal information to the officer's legal counsel, union
+9 representative, or designated employee representative upon the request of
+10 the officer or his or her personal representative or legal counsel.
+11 (3) Nothing in this section shall prohibit the release of an
+12 officer's or a public safety agency's reports pursuant to subdivision (1)
+13 (g) of section 29-1912, pursuant to an order of discovery, or pursuant to
+14 any other order of a court.
+15 Sec. 28. An officer shall not be discharged, disciplined, or
+16 threatened with discharge or discipline, or subject to revocation or
+17 suspension of a certificate under sections 81-1401 to 81-1414.19, in
+18 retaliation for exercising the rights of the officer enumerated in
+19 sections 22 to 29 of this act.
+20 Sec. 29. The rights enumerated in sections 22 to 29 of this act are
+21 in addition to any other rights granted pursuant to a collective-
+22 bargaining agreement or other law.
+23 Sec. 30. Section 29-4003, Revised Statutes Supplement, 2025, is
+24 amended to read:
+25 29-4003 (1)(a) The Sex Offender Registration Act applies to any
+26 person who on or after January 1, 1997:
+27 (i) Has ever pled guilty to, pled nolo contendere to, or been found
+28 guilty of any of the following:
+29 (A) Kidnapping of a minor pursuant to section 28-313, except when
+30 the person is the parent of the minor and was not convicted of any other
+31 offense in this section;
+-33-
+
+LB965 LB965
+2026 2026
+1 (B) False imprisonment of a minor pursuant to section 28-314 or
+2 28-315;
+3 (C) Sexual assault pursuant to section 28-319 or 28-320;
+4 (D) Sexual abuse by a school worker pursuant to section 28-316.01;
+5 (E) Sexual assault of a child in the second or third degree pursuant
+6 to section 28-320.01;
+7 (F) Sexual assault of a child in the first degree pursuant to
+8 section 28-319.01;
+9 (G) Sexual abuse of a vulnerable adult or senior adult pursuant to
+10 subdivision (1)(c) of section 28-386;
+11 (H) Incest of a minor pursuant to section 28-703;
+12 (I) Pandering of a minor pursuant to section 28-802;
+13 (J) Conduct relating to child sexual abuse material under section
+14 28-1805 or subdivision (2)(b) or (c) of section 28-1804;
+15 (K) Knowingly possessing or receiving any child sexual abuse
+16 material pursuant to subsection (1) or (5) of section 28-1803;
+17 (L) Criminal child enticement pursuant to section 28-311;
+18 (M) Child enticement by means of an electronic communication device
+19 pursuant to section 28-320.02;
+20 (N) Debauching a minor pursuant to section 28-805; or
+21 (O) Attempt, solicitation, aiding or abetting, being an accessory,
+22 or conspiracy to commit an offense listed in subdivisions (1)(a)(i)(A)
+23 through (1)(a)(i)(N) of this section;
+24 (ii) Has ever pled guilty to, pled nolo contendere to, or been found
+25 guilty of any offense that is substantially equivalent to a registrable
+26 offense under subdivision (1)(a)(i) of this section by any village, town,
+27 city, state, territory, commonwealth, or other jurisdiction of the United
+28 States, by the United States Government, by court-martial or other
+29 military tribunal, or by a foreign jurisdiction, notwithstanding a
+30 procedure comparable in effect to that described under section 29-2264 or
+31 any other procedure to nullify a conviction other than by pardon;
+-34-
+
+LB965 LB965
+2026 2026
+1 (iii) Is incarcerated in a jail, a penal or correctional facility,
+2 or any other public or private institution or is under probation or
+3 parole as a result of pleading guilty to or being found guilty of a
+4 registrable offense under subdivision (1)(a)(i) or (ii) of this section
+5 prior to January 1, 1997; or
+6 (iv) Enters the state and is required to register as a sex offender
+7 under the laws of another village, town, city, state, territory,
+8 commonwealth, or other jurisdiction of the United States.
+9 (b) In addition to the registrable offenses under subdivision (1)(a)
+10 of this section, the Sex Offender Registration Act applies to any person
+11 who on or after January 1, 2010:
+12 (i)(A) Except as provided in subdivision (1)(b)(i)(B) of this
+13 section, has ever pled guilty to, pled nolo contendere to, or been found
+14 guilty of any of the following:
+15 (I) Murder in the first degree pursuant to section 28-303;
+16 (II) Murder in the second degree pursuant to section 28-304;
+17 (III) Manslaughter pursuant to section 28-305;
+18 (IV) Assault in the first degree pursuant to section 28-308;
+19 (V) Assault in the second degree pursuant to section 28-309;
+20 (VI) Assault in the third degree pursuant to section 28-310;
+21 (VII) Stalking pursuant to section 28-311.03;
+22 (VIII) Violation of section 28-311.08 requiring registration under
+23 the act pursuant to subsection (6) of section 28-311.08;
+24 (IX) Kidnapping pursuant to section 28-313;
+25 (X) False imprisonment pursuant to section 28-314 or 28-315;
+26 (XI) Sexual abuse of an inmate, a or parolee, a probationer, or a
+27 problem solving court participant in the first degree pursuant to section
+28 28-322.02;
+29 (XII) Sexual abuse of an inmate, a or parolee, a probationer, or a
+30 problem solving court participant in the second degree pursuant to
+31 section 28-322.03;
+-35-
+
+LB965 LB965
+2026 2026
+1 (XIII) Sexual abuse of a protected individual pursuant to section
+2 28-322.04;
+3 (XIV) Incest pursuant to section 28-703;
+4 (XV) Child abuse pursuant to subdivision (1)(d) or (e) of section
+5 28-707;
+6 (XVI) Enticement by electronic communication device pursuant to
+7 section 28-833; or
+8 (XVII) Attempt, solicitation, aiding or abetting, being an
+9 accessory, or conspiracy to commit an offense listed in subdivisions (1)
+10 (b)(i)(A)(I) through (1)(b)(i)(A)(XVI) of this section.
+11 (B) In order for the Sex Offender Registration Act to apply to the
+12 offenses listed in subdivisions (1)(b)(i)(A)(I), (II), (III), (IV), (V),
+13 (VI), (VII), (IX), and (X) of this section, a court shall have found that
+14 evidence of sexual penetration or sexual contact, as those terms are
+15 defined in section 28-318, was present in the record, which shall include
+16 consideration of the factual basis for a plea-based conviction and
+17 information contained in the presentence report;
+18 (ii) Has ever pled guilty to, pled nolo contendere to, or been found
+19 guilty of any offense that is substantially equivalent to a registrable
+20 offense under subdivision (1)(b)(i) of this section by any village, town,
+21 city, state, territory, commonwealth, or other jurisdiction of the United
+22 States, by the United States Government, by court-martial or other
+23 military tribunal, or by a foreign jurisdiction, notwithstanding a
+24 procedure comparable in effect to that described under section 29-2264 or
+25 any other procedure to nullify a conviction other than by pardon; or
+26 (iii) Enters the state and is required to register as a sex offender
+27 under the laws of another village, town, city, state, territory,
+28 commonwealth, or other jurisdiction of the United States.
+29 (c) In addition to the registrable offenses under subdivisions (1)
+30 (a) and (b) of this section, the Sex Offender Registration Act applies to
+31 any person who on or after January 1, 2020:
+-36-
+
+LB965 LB965
+2026 2026
+1 (i) Has ever pled guilty to, pled nolo contendere to, or been found
+2 guilty of sexual abuse of a detainee under section 28-322.05; or
+3 (ii) Has ever pled guilty to, pled nolo contendere to, or been found
+4 guilty of any offense that is substantially equivalent to a registrable
+5 offense under subdivision (1)(c)(i) of this section by any village, town,
+6 city, state, territory, commonwealth, or other jurisdiction of the United
+7 States, by the United States Government, by court-martial or other
+8 military tribunal, or by a foreign jurisdiction, notwithstanding a
+9 procedure comparable in effect to that described under section 29-2264 or
+10 any other procedure to nullify a conviction other than by pardon.
+11 (d) In addition to the registrable offenses under subdivisions (1)
+12 (a), (b), and (c) of this section, the Sex Offender Registration Act
+13 applies to any person who on or after January 1, 2023:
+14 (i) Has ever pled guilty to, pled nolo contendere to, or been found
+15 guilty of human trafficking under subsection (1) or (2) of section
+16 28-831, and the court determines either by notification of sex offender
+17 registration responsibilities or notation in the sentencing order that
+18 the human trafficking was sex trafficking or sex trafficking of a minor
+19 and not solely labor trafficking or labor trafficking of a minor; or
+20 (ii) Has ever pled guilty to, pled nolo contendere to, or been found
+21 guilty of any offense that is substantially equivalent to a registrable
+22 offense under subdivision (1)(d)(i) of this section by any village, town,
+23 city, state, territory, commonwealth, or other jurisdiction of the United
+24 States, by the United States Government, by court-martial or other
+25 military tribunal, or by a foreign jurisdiction, notwithstanding a
+26 procedure comparable in effect to that described under section 29-2264 or
+27 any other procedure to nullify a conviction other than by pardon.
+28 (e) In addition to the registrable offenses under subdivisions (1)
+29 (a), (b), (c), and (d) of this section, the Sex Offender Registration Act
+30 applies to any person who on or after the operative date of this section:
+31 (i) Has ever pled guilty to, pled nolo contendere to, or been found
+-37-
+
+LB965 LB965
+2026 2026
+1 guilty of:
+2 (A) Sexual abuse by a conservator, guardian, or guardian ad litem
+3 under section 12 of this act; or
+4 (B) Sexual abuse by a child welfare service provider under section
+5 13 of this act; or
+6 (ii) Has ever pled guilty to, pled nolo contendere to, or been found
+7 guilty of any offense that is substantially equivalent to a registrable
+8 offense under subdivision (1)(e)(i) of this section by any village, town,
+9 city, state, territory, commonwealth, or other jurisdiction of the United
+10 States, by the United States Government, by court-martial or other
+11 military tribunal, or by a foreign jurisdiction, notwithstanding a
+12 procedure comparable in effect to that described under section 29-2264 or
+13 any other procedure to nullify a conviction other than by pardon.
+14 (2) A person appealing a conviction of a registrable offense under
+15 this section shall be required to comply with the act during the appeals
+16 process.
+17 Sec. 31. (1) For purposes of this section, county conflict counsel
+18 means an attorney licensed to practice law in this state who is employed
+19 by the county or has a contract with the county to provide legal
+20 representation to clients who would normally be represented by the public
+21 defender, but for whom the public defender is unable to provide such
+22 representation due to conflicting interests or due to other good cause as
+23 determined by the court.
+24 (2)(a) In any county with a public defender and a population of one
+25 hundred thousand or more inhabitants, the county may employ one or more
+26 county conflict counsel.
+27 (b) In any county with a public defender and a population of less
+28 than one hundred thousand inhabitants, the county may employ or contract
+29 for one or more county conflict counsel.
+30 (3) When a county first employs or contracts for county conflict
+31 counsel, the county board shall immediately provide written notice of
+-38-
+
+LB965 LB965
+2026 2026
+1 such employment or contract to:
+2 (a) Each presiding judge of the county court and district court of
+3 such county;
+4 (b) Each presiding judge of any separate juvenile court of such
+5 county;
+6 (c) Each child support referee appointed in such county; and
+7 (d) The clerk of the district court on behalf of the mental health
+8 board with jurisdiction within such county.
+9 (4) It shall be the duty of county conflict counsel to provide
+10 representation to indigent individuals in the same manner as the public
+11 defender.
+12 (5) In a county with a population of more than one hundred seventy
+13 thousand inhabitants, any county conflict counsel shall devote his or her
+14 full time to the legal work of representing indigent individuals as
+15 provided in this section and shall not engage in the private practice of
+16 law.
+17 (6) No county conflict counsel shall solicit or accept any fee,
+18 other than compensation from the county, for representing an indigent
+19 individual that such counsel has been appointed to represent.
+20 Sec. 32. Section 29-3901, Reissue Revised Statutes of Nebraska, is
+21 amended to read:
+22 29-3901 For purposes of sections 29-3901 to 29-3908:
+23 (1) County conflict counsel has the same meaning as in section 31 of
+24 this act;
+25 (2) (1) Court means shall mean a district court or a county court;
+26 (3) (2) Felony defendant means shall mean a person who is charged by
+27 complaint, information, or indictment with or who is under arrest for
+28 investigation or on suspicion that he or she may have committed any
+29 criminal offense which may be punishable by imprisonment in a Department
+30 of Correctional Services adult correctional facility;
+31 (4) (3) Indigent means shall mean the inability to retain legal
+-39-
+
+LB965 LB965
+2026 2026
+1 counsel without prejudicing one's financial ability to provide economic
+2 necessities for one's self or one's family. Before a felony defendant's
+3 initial court appearance, the determination of his or her indigency shall
+4 be made by the public defender, but thereafter it shall be made by the
+5 court; and
+6 (5) (4) Judge means shall mean a judge of the district court, a
+7 judge of the county court, or a clerk magistrate.
+8 Sec. 33. Section 29-3903, Revised Statutes Cumulative Supplement,
+9 2024, is amended to read:
+10 29-3903 (1) At a felony defendant's first appearance before a judge,
+11 the judge shall advise him or her of the right to court-appointed counsel
+12 if such person is indigent. If he or she asserts indigency, the court
+13 shall make a reasonable inquiry to determine such person's financial
+14 condition and shall require him or her to execute an affidavit of
+15 indigency for filing with the clerk of the court.
+16 (2) If the court determines the defendant to be indigent, it shall
+17 formally appoint the public defender or county conflict counsel or, in
+18 counties not having a public defender, an attorney or attorneys licensed
+19 to practice law in this state, not exceeding two, to represent the
+20 indigent felony defendant at all future critical stages of the criminal
+21 proceedings against such defendant, consistent with the provisions of
+22 section 23-3402. Appointed , but appointed counsel other than the public
+23 defender or county conflict counsel must obtain leave of court before
+24 being authorized to proceed beyond an initial direct appeal to either the
+25 Court of Appeals or the Supreme Court of Nebraska to any further direct,
+26 collateral, or postconviction appeals to state or federal courts.
+27 (3) A felony defendant who is not indigent at the time of his or her
+28 first appearance before a judge may nevertheless assert his or her
+29 indigency at any subsequent stage of felony proceedings, at which time
+30 the judge shall consider appointing counsel as otherwise provided in this
+31 section.
+-40-
+
+LB965 LB965
+2026 2026
+1 (4) The judge, upon filing such order for appointment, shall note
+2 all appearances of appointed counsel upon the record. If at the time of
+3 appointment of counsel the indigent felony defendant and appointed
+4 counsel have not had a reasonable opportunity to consult concerning the
+5 prosecution, the judge shall continue the arraignment, trial, or other
+6 next stage of the felony proceedings for a reasonable period of time to
+7 allow for such consultation.
+8 Sec. 34. Section 29-3904, Reissue Revised Statutes of Nebraska, is
+9 amended to read:
+10 29-3904 (1) Nothing in sections 23-3402, 29-3902, and 29-3903 shall
+11 prevent any judge from:
+12 (a) Appointing appointing counsel other than the public defender,
+13 the Commission on Public Advocacy, county conflict counsel, or other
+14 substitute counsel when the public defender, the commission, county
+15 conflict counsel, or counsel initially appointed might otherwise be
+16 required to represent conflicting interests or for other good cause
+17 shown; ,
+18 (b) Not from not appointing any counsel for any indigent felony
+19 defendant who expressly waives his or her right to such counsel at any
+20 stage of felony proceedings; , or
+21 (c) Appointing from appointing the public defender, the Commission
+22 on Public Advocacy, county conflict counsel, or other counsel as may be
+23 required or permitted by other applicable law.
+24 (2)(a) This subsection only applies to a county that has county
+25 conflict counsel.
+26 (b) In a case in which (i) the public defender is unable to provide
+27 representation due to conflicting interests or due to other good cause as
+28 determined by the court and (ii) the Commission on Public Advocacy may be
+29 appointed, the court may appoint the commission. Otherwise, the court
+30 shall appoint county conflict counsel, unless such counsel cannot
+31 represent the defendant due to conflicting interests or for other good
+-41-
+
+LB965 LB965
+2026 2026
+1 cause as determined by the court.
+2 (3) (2) In selecting counsel to represent an indigent felony
+3 defendant, the prosecuting attorney shall not have any role whatsoever in
+4 the selection or appointment process of the counsel by the court,
+5 including, but not limited to, any individual appointment suggestions.
+6 Sec. 35. Section 29-3905, Reissue Revised Statutes of Nebraska, is
+7 amended to read:
+8 29-3905 Appointed counsel for an indigent felony defendant other
+9 than the public defender or county conflict counsel shall apply to the
+10 district court which appointed him or her for all expenses reasonably
+11 necessary to permit him or her to effectively and competently represent
+12 his or her client and for fees for services performed pursuant to such
+13 appointment, except that if the defendant was not bound over for trial in
+14 the district court, the application shall be made in the appointing
+15 court. The court, upon hearing the application, shall fix reasonable
+16 expenses and fees, and the county board shall allow payment to counsel in
+17 the full amount determined by the court.
+18 Sec. 36. Section 29-3918, Reissue Revised Statutes of Nebraska, is
+19 amended to read:
+20 29-3918 Nothing in sections 29-3910 to 29-3918 shall prevent a court
+21 from appointing counsel other than the public defender, the Commission on
+22 Public Advocacy, or county conflict counsel as defined in section 31 of
+23 this act to represent indigent defendants or other persons by law
+24 entitled to legal representation, but appointments of counsel other than
+25 the public defender, the commission, or county conflict counsel shall be
+26 limited to situations in which there are multiple defendants requiring
+27 separate representation or when other exigent circumstances are present
+28 which in the opinion of the court require appointment of counsel other
+29 than the public defender, the commission, or county conflict counsel. In
+30 all such cases of appointments of counsel other than the public defender,
+31 the commission, or county conflict counsel, the procedure shall be in
+-42-
+
+LB965 LB965
+2026 2026
+1 accordance with sections 43-272 and 43-273 and the cost of such
+2 appointments shall be paid by the county as provided in such sections.
+3 Sec. 37. Section 29-3922, Revised Statutes Cumulative Supplement,
+4 2024, is amended to read:
+5 29-3922 For purposes of the County Revenue Assistance Act:
+6 (1) Chief counsel means an attorney appointed to be the primary
+7 administrative officer of the commission pursuant to section 29-3928;
+8 (2) Commission means the Commission on Public Advocacy;
+9 (3) Commission staff means attorneys, investigators, and support
+10 staff who are performing work for the capital litigation division,
+11 appellate division, DNA testing division, and major case resource center;
+12 (4) Contracting attorney means an attorney contracting to act as a
+13 public defender pursuant to sections 23-3404 to 23-3408;
+14 (5) Court-appointed attorney means an attorney other than a
+15 contracting attorney or a public defender appointed by the court to
+16 represent an indigent person;
+17 (6) Indigent defense services means legal services provided to
+18 indigent persons by an indigent defense system in capital cases, felony
+19 cases, misdemeanor cases, juvenile cases, mental health commitment cases,
+20 child support enforcement cases, and paternity establishment cases;
+21 (7) Indigent defense system means a system of providing services,
+22 including any services necessary for litigating a case, by a contracting
+23 attorney, court-appointed attorney, or public defender;
+24 (8) Indigent person means a person who is indigent and unable to
+25 obtain legal counsel as determined pursuant to subdivision (4) (3) of
+26 section 29-3901; and
+27 (9) Public defender means an attorney appointed or elected pursuant
+28 to sections 23-3401 to 23-3403.
+29 Sec. 38. Section 29-4309, Revised Statutes Supplement, 2025, is
+30 amended to read:
+31 29-4309 For the purposes of the Sexual Assault Victims' Bill of
+-43-
+
+LB965 LB965
+2026 2026
+1 Rights Act:
+2 (1)(a) Advocate means:
+3 (i) Any employee or supervised volunteer of a domestic violence and
+4 sexual assault victim assistance program or of any other agency,
+5 business, or organization that is not affiliated with a law enforcement
+6 or prosecutor's office, whose primary purpose is assisting domestic
+7 violence and sexual assault victims. This includes employees or
+8 supervised volunteers of an Indian tribe or a postsecondary educational
+9 institution;
+10 (ii) A representative from a victim and witness assistance center as
+11 established in sections 81-1845 to 81-1847 or a similar entity affiliated
+12 with a law enforcement agency or prosecutor's office; or
+13 (iii) An advocate who is employed by a child advocacy center that
+14 meets the requirements of subsection (2) of section 28-728.
+15 (b) If reasonably possible, an advocate shall speak the victim's
+16 preferred language or use the services of a qualified interpreter;
+17 (2) Health care provider means any individual who is licensed,
+18 certified, or registered to perform specified health services consistent
+19 with state law;
+20 (3) Sexual assault means a violation of section 28-319, 28-319.01,
+21 28-320, 28-320.01, 28-320.02, 28-322.01, 28-322.02, 28-322.03, 28-322.04,
+22 28-322.05, 28-703, or 28-1805 or section 12 or 13 of this act, sex
+23 trafficking or sex trafficking of a minor under section 28-831, or
+24 subdivision (1)(c) or (g) of section 28-386 or subdivision (1)(d), (e),
+25 or (f) of section 28-707;
+26 (4) Sexual assault forensic evidence means evidence collected by a
+27 health care provider contained within any sexual assault forensic
+28 evidence collection kit, including a toxicology kit, or any forensic
+29 evidence collected by law enforcement through the course of an
+30 investigation; and
+31 (5)(a) Sexual assault victim or victim means any person who is a
+-44-
+
+LB965 LB965
+2026 2026
+1 victim of sexual assault who reports such sexual assault:
+2 (i) To a health care provider, law enforcement, or an advocate,
+3 including anonymous reporting as provided in section 28-902; and
+4 (ii) In the case of a victim who is under eighteen years of age, to
+5 the Department of Health and Human Services.
+6 (b) Sexual assault victim or victim also includes, if the victim
+7 described in subdivision (5)(a) of this section is incompetent, deceased,
+8 or a minor who is unable to consent to counseling services, such victim's
+9 parent, guardian, or spouse, unless such person is the reported
+10 assailant.
+11 Sec. 39. Section 29-4316, Revised Statutes Supplement, 2025, is
+12 amended to read:
+13 29-4316 (1) For purposes of this section:
+14 (a) Criminal justice agency has the same meaning as in section
+15 29-3509;
+16 (b) Sex trafficking means sex trafficking or sex trafficking of a
+17 minor in violation of section 28-831; and
+18 (c) Sexual assault means a violation of section 28-319, 28-319.01,
+19 28-320, 28-320.01, 28-320.02, 28-322.01, 28-322.02, 28-322.03, 28-322.04,
+20 28-322.05, 28-703, or 28-1805 or section 12 or 13 of this act or
+21 subdivision (1)(c) or (g) of section 28-386 or subdivision (1)(d), (e),
+22 or (f) of section 28-707.
+23 (2) Except as provided in subsection (3) of this section, and unless
+24 otherwise required by statute, a criminal justice agency and any attorney
+25 involved in the investigation or prosecution of an alleged sexual assault
+26 or sex trafficking violation shall maintain the confidentiality of the
+27 identity and personal identifying information of the alleged victim. Such
+28 information may be shared by such criminal justice agencies and between
+29 such criminal justice agencies and attorneys as necessary to carry out
+30 their duties.
+31 (3) The confidentiality required by subsection (2) of this section
+-45-
+
+LB965 LB965
+2026 2026
+1 does not apply:
+2 (a) To the extent waived by the alleged victim;
+3 (b) If criminal charges involving the alleged sexual assault or sex
+4 trafficking are filed;
+5 (c) If the victim has died as a result of, or in connection with,
+6 the alleged sexual assault or sex trafficking;
+7 (d) In cases where personal identifying information or the identity
+8 of the victim are released as part of a child abduction alert system used
+9 by law enforcement agencies, such as the AMBER Alert system;
+10 (e) To a person making a report of suspected child abuse or neglect
+11 as required in section 28-711;
+12 (f) To the sharing of reports and information regarding child abuse
+13 and neglect with a child abuse and neglect investigation team or child
+14 abuse and neglect treatment team provided for in section 28-728;
+15 (g) To the Department of Health and Human Services and other
+16 assisting agencies as necessary to carry out their duties in
+17 investigations of child abuse or neglect;
+18 (h) To communication with an individual that an educational entity,
+19 as defined in section 79-1201.01, has designated:
+20 (i) As a Title IX coordinator; or
+21 (ii) To receive reports related to sexual assault or sex trafficking
+22 or to provide supportive measures related to such reports; or
+23 (i) To communication with advocates and health care providers as
+24 defined in section 29-4309.
+25 Sec. 40. Section 43-272, Revised Statutes Cumulative Supplement,
+26 2024, is amended to read:
+27 43-272 (1)(a) In counties having a population of less than one
+28 hundred fifty thousand inhabitants:
+29 (i) When any juvenile court petition is filed alleging jurisdiction
+30 of a juvenile pursuant to subdivision (2) of section 43-247, counsel
+31 shall be appointed for such juvenile; and
+-46-
+
+LB965 LB965
+2026 2026
+1 (ii) In any other instance in which a juvenile is brought without
+2 counsel before a juvenile court, the court shall advise such juvenile and
+3 his or her parent or guardian of their right to retain counsel and shall
+4 inquire of such juvenile and his or her parent or guardian as to whether
+5 they desire to retain counsel.
+6 (b) In counties having a population of one hundred fifty thousand or
+7 more inhabitants, when any juvenile court petition is filed alleging
+8 jurisdiction of a juvenile pursuant to subdivision (1), (2), (3)(b), or
+9 (4) of section 43-247, counsel shall be appointed for such juvenile.
+10 (c) The court shall inform any juvenile described in this subsection
+11 and his or her parent or guardian of such juvenile's right to counsel at
+12 county expense if none of them is able to afford counsel. If the juvenile
+13 or his or her parent or guardian desires to have counsel appointed for
+14 such juvenile, or the parent or guardian of such juvenile cannot be
+15 located, and the court ascertains that none of such persons are able to
+16 afford an attorney, the court shall forthwith appoint an attorney to
+17 represent such juvenile for all proceedings before the juvenile court,
+18 except that if an attorney is appointed to represent such juvenile and
+19 the court later determines that a parent of such juvenile is able to
+20 afford an attorney, the court shall order such parent or juvenile to pay
+21 for services of the attorney to be collected in the same manner as
+22 provided by section 43-290. If the parent willfully refuses to pay any
+23 such sum, the court may commit him or her for contempt, and execution may
+24 issue at the request of the appointed attorney or the county attorney or
+25 by the court without a request.
+26 (d)(i) For purposes of this subdivision, county conflict counsel has
+27 the same meaning as in section 31 of this act.
+28 (ii) This subdivision (d) only applies to a county that has county
+29 conflict counsel.
+30 (iii) When appointing counsel other than the public defender to
+31 represent a juvenile, the court shall appoint county conflict counsel,
+-47-
+
+LB965 LB965
+2026 2026
+1 unless such counsel cannot represent the juvenile due to conflicting
+2 interests or for other good cause shown.
+3 (2) The court, on its own motion or upon application of a party to
+4 the proceedings, shall appoint a guardian ad litem for the juvenile: (a)
+5 If the juvenile has no parent or guardian of his or her person or if the
+6 parent or guardian of the juvenile cannot be located or cannot be brought
+7 before the court; (b) if the parent or guardian of the juvenile is
+8 excused from participation in all or any part of the proceedings; (c) if
+9 the parent is a juvenile or an incompetent; (d) if the parent is
+10 indifferent to the interests of the juvenile; or (e) in any proceeding
+11 pursuant to the provisions of subdivision (3)(a) of section 43-247.
+12 A guardian ad litem shall have the duty to protect the interests of
+13 the juvenile for whom he or she has been appointed guardian, and shall be
+14 deemed a parent of the juvenile as to those proceedings with respect to
+15 which his or her guardianship extends.
+16 (3) The court shall appoint an attorney as guardian ad litem. A
+17 guardian ad litem shall act as his or her own counsel and as counsel for
+18 the juvenile, unless there are special reasons in a particular case why
+19 the guardian ad litem or the juvenile or both should have separate
+20 counsel. In such cases the guardian ad litem shall have the right to
+21 counsel, except that the guardian ad litem shall be entitled to appointed
+22 counsel without regard to his or her financial ability to retain counsel.
+23 Whether such appointed counsel shall be provided at the cost of the
+24 county shall be determined as provided in subsection (1) of this section.
+25 (4) By July 1, 2015, the Supreme Court shall provide by court rule
+26 standards for guardians ad litem for juveniles in juvenile court
+27 proceedings.
+28 (5) By July 1, 2017, the Supreme Court shall provide guidelines
+29 setting forth standards for all attorneys who practice in juvenile court.
+30 Sec. 41. Section 43-273, Reissue Revised Statutes of Nebraska, is
+31 amended to read:
+-48-
+
+LB965 LB965
+2026 2026
+1 43-273 (1) Counsel and guardians ad litem appointed outside of the
+2 guardian ad litem division as provided in section 43-272 shall apply to
+3 the court before which the proceedings were had for fees for services
+4 performed. The court upon hearing the application shall fix reasonable
+5 fees. The county board of the county wherein the proceedings were had
+6 shall allow the account, bill, or claim presented by any attorney or
+7 guardian ad litem for services performed under section 43-272 in the
+8 amount determined by the court. No such account, bill, or claim shall be
+9 allowed by the county board until the amount thereof shall have been
+10 determined by the court.
+11 (2) This section does not apply to the public defender or to county
+12 conflict counsel as defined in section 31 of this act.
+13 Sec. 42. Section 43-2923, Reissue Revised Statutes of Nebraska, is
+14 amended to read:
+15 43-2923 The best interests of the child require:
+16 (1) A parenting arrangement and parenting plan or other court-
+17 ordered arrangement which provides for a child's safety, emotional
+18 growth, health, stability, and physical care and regular and continuous
+19 school attendance and progress for school-age children;
+20 (2) When a preponderance of the evidence indicates domestic intimate
+21 partner abuse, a parenting and visitation arrangement that provides for
+22 the safety of a victim parent;
+23 (3) That the child's families and those serving in parenting roles
+24 remain appropriately active and involved in parenting with safe,
+25 appropriate, continuing quality contact between children and their
+26 families when they have shown the ability to act in the best interests of
+27 the child and have shared in the responsibilities of raising the child;
+28 (4) That even when parents have voluntarily negotiated or mutually
+29 mediated and agreed upon a parenting plan, the court shall determine
+30 whether it is in the best interests of the child for parents to maintain
+31 continued communications with each other and to make joint decisions in
+-49-
+
+LB965 LB965
+2026 2026
+1 performing parenting functions as are necessary for the care and healthy
+2 development of the child. If the court rejects a parenting plan, the
+3 court shall provide written findings as to why the parenting plan is not
+4 in the best interests of the child;
+5 (5) That certain principles provide a basis upon which education of
+6 parents is delivered and upon which negotiation and mediation of
+7 parenting plans are conducted. Such principles shall include: To minimize
+8 the potentially negative impact of parental conflict on children; to
+9 provide parents the tools they need to reach parenting decisions that are
+10 in the best interests of a child; to provide alternative dispute
+11 resolution or specialized alternative dispute resolution options that are
+12 less adversarial for the child and the family; to ensure that the child's
+13 voice is heard and considered in parenting decisions; to maximize the
+14 safety of family members through the justice process; and, in cases of
+15 domestic intimate partner abuse or child abuse or neglect, to incorporate
+16 the principles of victim safety and sensitivity, offender accountability,
+17 and community safety in parenting plan decisions; and
+18 (6) In determining custody and parenting arrangements, the court
+19 shall consider the best interests of the minor child, which shall
+20 include, but not be limited to, consideration of the foregoing factors
+21 and:
+22 (a) The relationship of the minor child to each parent prior to the
+23 commencement of the action or any subsequent hearing;
+24 (b) The desires and wishes of the minor child, if of an age of
+25 comprehension but regardless of chronological age, when such desires and
+26 wishes are based on sound reasoning;
+27 (c) The general health, welfare, and social behavior of the minor
+28 child;
+29 (d) Credible evidence showing increased intellectual and social
+30 growth in children who have equal access to both parents;
+31 (e) (d) Credible evidence of abuse inflicted on any family or
+-50-
+
+LB965 LB965
+2026 2026
+1 household member. For purposes of this subdivision, abuse and family or
+2 household member shall have the meanings prescribed in section 42-903;
+3 and
+4 (f) (e) Credible evidence of child abuse or neglect or domestic
+5 intimate partner abuse. For purposes of this subdivision, the definitions
+6 in section 43-2922 shall be used.
+7 Sec. 43. Section 71-946, Reissue Revised Statutes of Nebraska, is
+8 amended to read:
+9 71-946 (1) The appointment of counsel under section 71-945 shall be
+10 in accordance with this section. the following procedures:
+11 (2) In (1) Except in counties not having a public defender, upon the
+12 receipt from the mental health board of a certificate for the appointment
+13 of counsel, the clerk of the district court shall notify the district
+14 judge or the county judge of the county in which the proceedings are
+15 pending of the receipt of such certificate. The judge to whom the
+16 certificate was issued shall appoint an attorney to represent the person
+17 concerning whom an application is filed before the mental health board,
+18 whereupon the clerk of the court shall enter upon the certificate the
+19 name of the attorney appointed and deliver the certificate of appointment
+20 of counsel to the mental health board. The clerk of the district court or
+21 the clerk of the county court shall also keep and maintain a record of
+22 all appointments which shall be conclusive evidence thereof. All
+23 appointments of counsel under the Nebraska Mental Health Commitment Act
+24 or the Sex Offender Commitment Act may be made at any time or place in
+25 the state. ; and
+26 (3) (2) In counties having a public defender, upon receipt from the
+27 mental health board of a certificate for the appointment of counsel, the
+28 clerk of the district court shall notify the public defender of his or
+29 her appointment to represent the person and shall enter upon the
+30 certificate the name of the attorney appointed and deliver the
+31 certificate of appointment of counsel to the mental health board.
+-51-
+
+LB965 LB965
+2026 2026
+1 (4)(a) For purposes of this section, county conflict counsel has the
+2 same meaning as in section 31 of this act.
+3 (b) This subsection only applies to a county that has county
+4 conflict counsel.
+5 (c) When appointing counsel other than the public defender to
+6 represent a subject, the court shall appoint county conflict counsel,
+7 unless such counsel cannot represent the subject due to conflicting
+8 interests or for other good cause shown.
+9 Sec. 44. Section 71-947, Reissue Revised Statutes of Nebraska, is
+10 amended to read:
+11 71-947 Counsel appointed as provided in subsection (2) subdivision
+12 (1) of section 71-946 shall apply to the court in which his or her
+13 appointment is recorded for fees for services performed. Such counsel may
+14 also apply to the court to secure separate professional examination of
+15 the person for whom counsel was appointed and shall be reimbursed for
+16 costs incurred in securing such separate examination or examinations or
+17 in having other professional persons as witnesses before the mental
+18 health board. The court, upon hearing the application, shall fix
+19 reasonable fees, including reimbursement of costs incurred. The county
+20 board of the county in which the application was filed shall allow the
+21 account, bill, or claim presented by the attorney for services performed
+22 under the Nebraska Mental Health Commitment Act or the Sex Offender
+23 Commitment Act in the amount determined by the court. No such account,
+24 bill, or claim shall be allowed by the county board until the amount
+25 thereof has been determined by the court.
+26 Sec. 45. Section 71-948, Reissue Revised Statutes of Nebraska, is
+27 amended to read:
+28 71-948 A subject or the subject's counsel shall have the right to
+29 employ mental health professionals of his or her choice to independently
+30 evaluate the subject's mental condition and testify for and otherwise
+31 assist the subject in proceedings under the Nebraska Mental Health
+-52-
+
+LB965 LB965
+2026 2026
+1 Commitment Act or the Sex Offender Commitment Act. If the subject is
+2 indigent, only one such person may be employed except with leave of the
+3 mental health board. Any person so employed by a subject determined by
+4 the board to be indigent, except a subject represented by the public
+5 defender or county conflict counsel as defined in section 31 of this act,
+6 shall apply to the board for expenses reasonably necessary to such
+7 person's effective assistance of the subject and for reasonable fees for
+8 services performed by such person in assisting the subject. The board
+9 shall then fix reasonable fees and expenses, and the county board shall
+10 allow payment to such person in the full amount fixed by the board.
+11 Sec. 46. Section 81-1850, Revised Statutes Supplement, 2025, is
+12 amended to read:
+13 81-1850 (1) For purposes of this section:
+14 (a) Covered offense means:
+15 (i) Murder in the first degree, section 28-303;
+16 (ii) Murder in the second degree, section 28-304;
+17 (iii) Manslaughter, section 28-305;
+18 (iv) Motor vehicle homicide, section 28-306;
+19 (v) Assault in the first degree, section 28-308;
+20 (vi) Assault in the second degree, section 28-309;
+21 (vii) Assault by strangulation or suffocation, section 28-310.01;
+22 (viii) Terroristic threats, section 28-311.01;
+23 (ix) Stalking, section 28-311.03;
+24 (x) Kidnapping, section 28-313;
+25 (xi) False imprisonment in the first degree, section 28-314;
+26 (xii) Sexual abuse by a school employee, section 28-316.01;
+27 (xiii) Sexual assault in the first degree, section 28-319;
+28 (xiv) Sexual assault of a child in the first degree, section
+29 28-319.01;
+30 (xv) Sexual assault in the second degree, section 28-320;
+31 (xvi) Sexual assault of a child in the second or third degree,
+-53-
+
+LB965 LB965
+2026 2026
+1 section 28-320.01;
+2 (xvii) Child enticement by means of an electronic communication
+3 device, section 28-320.02;
+4 (xviii) Sexual abuse of an inmate, a parolee, a probationer, or a
+5 problem solving court participant in the first degree, section 28-322.02;
+6 (xix) Sexual abuse of an inmate, a parolee, a probationer, or a
+7 problem solving court participant in the second degree, section
+8 28-322.03;
+9 (xx) (xviii) Sexual abuse of a protected individual, section
+10 28-322.04;
+11 (xxi) Sexual abuse of a detainee, section 28-322.05;
+12 (xxii) Sexual abuse by a conservator, guardian, or guardian ad
+13 litem, section 12 of this act;
+14 (xxiii) Sexual abuse by a child welfare service provider, section 13
+15 of this act;
+16 (xxiv) (xix) Domestic assault in the first or second degree, section
+17 28-323;
+18 (xxv) (xx) Sex trafficking, sex trafficking of a minor, labor
+19 trafficking, or labor trafficking of a minor, section 28-831; or
+20 (xxvi) (xxi) An attempt, solicitation, or conspiracy to commit an
+21 offense listed in subdivision (1)(a) of this section; and
+22 (b) Victim has the same meaning as in section 29-119.
+23 (2)(a) Except as provided in subdivision (2)(b) of this section,
+24 when a person is convicted of a felony, the county attorney shall forward
+25 the name and address of any victim of such convicted person to the Board
+26 of Parole, the Department of Correctional Services, the county
+27 corrections agency, the Department of Health and Human Services, and the
+28 Board of Pardons, as applicable.
+29 (b) A victim may waive the right to notification under this section
+30 by notifying the county attorney, in which case the county attorney is
+31 not required to comply with subdivision (2)(a) of this section.
+-54-
+
+LB965 LB965
+2026 2026
+1 (c) The Board of Parole, the Department of Correctional Services,
+2 the county corrections agency, the Department of Health and Human
+3 Services, and the Board of Pardons shall include the victim's name in the
+4 file of the convicted person, but the name shall not be part of the
+5 public record of any parole or pardons hearings of the convicted person.
+6 (d) Any victim, including a victim who has waived his or her right
+7 to notification, may request the notification prescribed in this section,
+8 as applicable, by sending a written request to the Board of Parole, the
+9 Department of Correctional Services, the county corrections agency, the
+10 Department of Health and Human Services, or the Board of Pardons any time
+11 after the convicted person is incarcerated and until the convicted person
+12 is no longer under the jurisdiction of the Board of Parole, the county
+13 corrections agency, the Department of Correctional Services, or the Board
+14 of Pardons or, if the convicted person is under the jurisdiction of the
+15 Department of Health and Human Services, within the three-year period
+16 after the convicted person is no longer under the jurisdiction of the
+17 Board of Parole, the county corrections agency, the Department of
+18 Correctional Services, or the Board of Pardons.
+19 (3) A victim whose name appears in the file of the convicted person
+20 shall be notified by the Board of Parole:
+21 (a) Within ninety days after conviction of an offender, of the
+22 tentative date of release and the earliest parole eligibility date of
+23 such offender;
+24 (b) Of any parole hearings or proceedings;
+25 (c) Of any decision of the Board of Parole;
+26 (d) When a convicted person who is on parole is returned to custody
+27 because of parole violations; and
+28 (e) If the convicted person has been adjudged a mentally disordered
+29 sex offender or is a convicted sex offender, when such convicted person
+30 is released from custody or treatment.
+31 Such notification shall be given in person, by telecommunication, or
+-55-
+
+LB965 LB965
+2026 2026
+1 by mail.
+2 (4) A victim whose name appears in the file of the convicted person
+3 shall be notified by the Department of Correctional Services or a county
+4 corrections agency:
+5 (a) When a convicted person is granted a furlough or release from
+6 incarceration for twenty-four hours or longer or any transfer of the
+7 convicted person to community status;
+8 (b) When a convicted person is released into community-based
+9 programs, including educational release and work release programs. Such
+10 notification shall occur at the beginning and termination of any such
+11 program;
+12 (c) When a convicted person escapes or does not return from a
+13 granted furlough or release and again when the convicted person is
+14 returned into custody;
+15 (d) When a convicted person is discharged from custody upon
+16 completion of his or her sentence. Such notice shall be given at least
+17 thirty days before discharge, when practicable;
+18 (e) Of the (i) department's calculation of the earliest parole
+19 eligibility date of the prisoner with all potential good time or
+20 disciplinary credits considered if the sentence exceeds ninety days or
+21 (ii) county corrections agency's calculation of the earliest release date
+22 of the prisoner. The victim may request one notice of the calculation
+23 described in this subdivision. Such information shall be mailed not later
+24 than thirty days after receipt of the request;
+25 (f) Of any reduction in the prisoner's minimum sentence; and
+26 (g) Of the victim's right to submit a statement as provided in
+27 section 81-1848.
+28 (5) A victim whose name appears in the file of a convicted person
+29 shall be notified by the Department of Health and Human Services:
+30 (a) When a person described in subsection (6) of this section
+31 becomes the subject of a petition pursuant to the Nebraska Mental Health
+-56-
+
+LB965 LB965
+2026 2026
+1 Commitment Act or the Sex Offender Commitment Act prior to his or her
+2 discharge from custody upon the completion of his or her sentence or
+3 within thirty days after such discharge. The county attorney who filed
+4 the petition shall notify the Department of Correctional Services of such
+5 petition. The Department of Correctional Services shall forward the names
+6 and addresses of victims appearing in the file of the convicted person to
+7 the Department of Health and Human Services; and
+8 (b) When a person under a mental health board commitment pursuant to
+9 subdivision (a) of this subsection:
+10 (i) Escapes from an inpatient facility providing board-ordered
+11 treatment and again when the person is returned to an inpatient facility;
+12 (ii) Is discharged or has a change in disposition from inpatient
+13 board-ordered treatment;
+14 (iii) Is granted a furlough or release for twenty-four hours or
+15 longer; and
+16 (iv) Is released into educational release programs or work release
+17 programs. Such notification shall occur at the beginning and termination
+18 of any such program.
+19 (6) Subsection (5) of this section applies to a person convicted of
+20 a covered offense which is also alleged to be the recent act or threat
+21 underlying the commitment of such person as mentally ill and dangerous or
+22 as a dangerous sex offender as defined in section 83-174.01.
+23 (7) A victim whose name appears in the file of a person convicted of
+24 a covered offense shall be notified, via certified mail, by the Board of
+25 Pardons:
+26 (a) Of any pardon or commutation proceedings at least thirty
+27 calendar days prior to the proceedings; and
+28 (b) If a pardon or commutation has been granted, within ten days
+29 after such granting.
+30 (8) The Board of Parole, the Department of Correctional Services,
+31 the Department of Health and Human Services, and the Board of Pardons
+-57-
+
+LB965 LB965
+2026 2026
+1 shall adopt and promulgate rules and regulations as needed to carry out
+2 this section.
+3 (9) The victim's address and telephone number maintained by the
+4 Department of Correctional Services, the Department of Health and Human
+5 Services, the county corrections agency, the Board of Parole, and the
+6 Board of Pardons pursuant to subsection (2) of this section shall be
+7 exempt from disclosure under Nebraska public records laws and federal
+8 freedom of information laws, as such federal laws existed on January 1,
+9 2004.
+10 Sec. 47. Section 83-4,143, Reissue Revised Statutes of Nebraska, is
+11 amended to read:
+12 83-4,143 (1) It is the intent of the Legislature that the Board of
+13 Parole may recommend placement of felony offenders at the incarceration
+14 work camp. The offenders recommended by the board shall be offenders
+15 currently housed at other Department of Correctional Services adult
+16 correctional facilities and shall complete the incarceration work camp
+17 programming prior to release on parole.
+18 (2) When the Board of Parole is of the opinion that a felony
+19 offender currently incarcerated in a Department of Correctional Services
+20 adult correctional facility may benefit from a brief and intensive period
+21 of regimented, structured, and disciplined programming immediately prior
+22 to release on parole, the board may direct placement of such an offender
+23 in an incarceration work camp for a period not to exceed one hundred
+24 eighty days as a condition of release on parole. The board may consider
+25 such placement if the felony offender (a) is medically and mentally fit
+26 to participate, with allowances given for reasonable accommodation as
+27 determined by medical and mental health professionals, and (b) has not
+28 previously been incarcerated for a violent felony crime. Offenders
+29 convicted of a crime under sections 28-319 to 28-322.05 and sections 12
+30 and 13 of this act or of any capital crime are not eligible to be placed
+31 in an incarceration work camp.
+-58-
+
+LB965 LB965
+2026 2026
+1 (3) The Director of Correctional Services may assign a felony
+2 offender to an incarceration work camp if he or she believes it is in the
+3 best interests of the felony offender and of society, except that
+4 offenders convicted of a crime under sections 28-319 to 28-322.05 and
+5 sections 12 and 13 of this act or of any capital crime are not eligible
+6 to be assigned to an incarceration work camp pursuant to this subsection.
+7 Sec. 48. Section 84-941.01, Reissue Revised Statutes of Nebraska, is
+8 amended to read:
+9 84-941.01 Potentially disqualifying conviction includes a conviction
+10 for:
+11 (1) Criminal attempt as provided in section 28-201, conspiracy as
+12 provided in section 28-202, or aiding and abetting as provided in section
+13 28-206, to commit an offense listed in this section;
+14 (2) Murder as provided in sections 28-303 or 28-304;
+15 (3) Manslaughter as provided in section 28-305;
+16 (4) Motor vehicle homicide as provided in section 28-306;
+17 (5) Assault in the first or second degree as provided in sections
+18 28-308 and 28-309;
+19 (6) Terroristic threats as provided in section 28-311.01;
+20 (7) Stalking as provided in section 28-311.03;
+21 (8) Kidnapping as provided in section 28-313;
+22 (9) False imprisonment as provided in sections 28-314 and 28-315;
+23 (10) A sexual act subject to criminal penalties as provided in
+24 sections 28-317 to 28-322.05 and sections 12 and 13 of this act;
+25 (11) Domestic assault as provided in section 28-323;
+26 (12) Robbery as provided in section 28-324;
+27 (13) Arson as provided in sections 28-502, 28-503, and 28-504;
+28 (14) Fraud subject to criminal penalties as provided in sections
+29 28-505, 28-631, 28-638, 28-639, 28-640, and 28-935;
+30 (15) Theft as provided in sections 28-511, 28-512, 28-513, and
+31 28-515;
+-59-
+
+LB965 LB965
+2026 2026
+1 (16) Forgery as provided in sections 28-602 and 28-603;
+2 (17) Incest as provided in section 28-703;
+3 (18) Child abuse as provided in section 28-707;
+4 (19) Human trafficking, labor trafficking, sex trafficking, labor
+5 trafficking of a minor, or sex trafficking of a minor as provided in
+6 section 28-831;
+7 (20) False reporting as provided in section 28-907;
+8 (21) Perjury as provided in section 28-915;
+9 (22) Assault on an officer, an emergency responder, certain
+10 employees, or a health care professional in the first degree as provided
+11 in section 28-929;
+12 (23) Assault on an officer, an emergency responder, certain
+13 employees, or a health care professional in the second degree as provided
+14 in section 28-930;
+15 (24) Assault on an officer, an emergency responder, certain
+16 employees, or a health care professional in the third degree as provided
+17 in section 28-931;
+18 (25) Assault on an officer, an emergency responder, certain
+19 employees, or a health care professional using a motor vehicle as
+20 provided in section 28-931.01;
+21 (26) An offense that has as an element the threat to inflict serious
+22 bodily injury as defined in section 28-109 or death on another person,
+23 the intentional infliction of serious bodily injury as defined in section
+24 28-109 on another person, or intentionally causing the death of another
+25 person;
+26 (27) An offense for which registration is required under the Sex
+27 Offender Registration Act; or
+28 (28) Any offense under the laws of another jurisdiction that is
+29 substantially equivalent to any of the offenses listed in this section.
+30 Sec. 49. Sections 17, 20, 22, 23, 24, 25, 26, 27, 28, 29, and 51 of
+31 this act become operative on October 1, 2026. The other sections of this
+-60-
+
+LB965 LB965
+2026 2026
+1 act become operative on their effective date.
+2 Sec. 50. If any section in this act or any part of any section is
+3 declared invalid or unconstitutional, the declaration shall not affect
+4 the validity or constitutionality of the remaining portions.
+5 Sec. 51. Original section 28-610, Reissue Revised Statutes of
+6 Nebraska, and section 28-1205, Revised Statutes Supplement, 2025, are
+7 repealed.
+8 Sec. 52. Original sections 28-322.02, 28-322.03, 28-323, 28-508,
+9 28-703, 29-3901, 29-3904, 29-3905, 29-3918, 43-273, 43-2923, 71-946,
+10 71-947, 71-948, 83-4,143, and 84-941.01, Reissue Revised Statutes of
+11 Nebraska, sections 27-404, 28-115, 28-310.01, 28-322.01, 29-3903,
+12 29-3922, and 43-272, Revised Statutes Cumulative Supplement, 2024, and
+13 sections 26-118, 27-413, 28-101, 28-318, 28-322, 28-470, 28-712.01,
+14 28-1701, 29-4003, 29-4309, 29-4316, and 81-1850, Revised Statutes
+15 Supplement, 2025, are repealed.
+-61-

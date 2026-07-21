@@ -1,0 +1,38 @@
+Title: 
+Official Title: 
+Source: versions - von Gillern AM2209
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+AM2209 AM2209
+LB954 LB954
+MLU - 02/19/2026 MLU - 02/19/2026
+AMENDMENTS TO LB954
+Introduced by von Gillern, 4.
+1 1. Strike section 2 and insert the following new section:
+2 Sec. 2. (1) If a taxpayer who has met the required levels of
+3 employment and investment contained in an agreement for a tier 6 project
+4 sells or transfers a portion of the business operations that were subject
+5 to such agreement, whether through a sale or other disposition pursuant
+6 to section 355 of the Internal Revenue Code of 1986, and the business
+7 operations that were sold or transferred continue to operate under an
+8 entity that is not part of the same unitary group as the taxpayer, the
+9 Department of Revenue shall recalculate the taxpayer's base-year
+10 employees by subtracting the number of equivalent employees employed at
+11 the business operations that were sold or transferred from the number of
+12 base-year employees calculated for the taxpayer on the last Form 312N
+13 filed prior to the date of the sale or transfer.
+14 (2) This section shall not apply:
+15 (a) If the business operations that were sold or transferred as
+16 described in subsection (1) of this section cease all operations within
+17 twenty-four months after the date of the sale or transfer; or
+18 (b) If the primary business purpose of the sale or transfer
+19 described in subsection (1) of this section was to close a location.
+20 (3) Any credits or other incentives generated prior to a sale or
+21 transfer described in subsection (1) of this section shall not be
+22 recalculated.
+23 (4) This section applies to agreements entered into after December
+24 31, 2016.
+-1-

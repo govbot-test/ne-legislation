@@ -1,0 +1,51 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LB1043 LB1043
+2026 2026
+LEGISLATURE OF NEBRASKA
+ONE HUNDRED NINTH LEGISLATURE
+SECOND SESSION
+LEGISLATIVE BILL 1043
+Introduced by Meyer, G., 17; Lonowski, 33.
+Read first time January 14, 2026
+Committee: Health and Human Services
+1 A BILL FOR AN ACT relating to public assistance; to amend section 68-954,
+2 Reissue Revised Statutes of Nebraska; to provide for inclusion of
+3 antidepressant, antipsychotic, and anticonvulsant prescription drugs
+4 on the preferred drug list; and to repeal the original section.
+5 Be it enacted by the people of the State of Nebraska,
+-1-
+
+LB1043 LB1043
+2026 2026
+1 Section 1. Section 68-954, Reissue Revised Statutes of Nebraska, is
+2 amended to read:
+3 68-954 (1) The department and the pharmaceutical and therapeutics
+4 committee shall consider all therapeutic classes of prescription drugs
+5 for inclusion on the preferred drug list , except that antidepressant,
+6 antipsychotic, and anticonvulsant prescription drugs shall not be subject
+7 to consideration for inclusion on the preferred drug list.
+8 (2)(a) The department shall include a prescription drug on the
+9 preferred drug list if the prescription drug is therapeutically
+10 equivalent to or superior to a prescription drug on the list and the net
+11 cost of the new prescription drug is equal to or less than the net cost
+12 of the listed drug, after consideration of applicable rebates or
+13 discounts negotiated by the department.
+14 (b) If the department finds that two or more prescription drugs
+15 under consideration for inclusion on the preferred drug list are
+16 therapeutically equivalent, the department shall include the more cost-
+17 effective prescription drug or drugs on the preferred drug list, after
+18 consideration of applicable rebates or discounts negotiated by the
+19 department.
+20 (3) The department shall maintain an updated preferred drug list in
+21 electronic format and shall make the list available to the public on the
+22 department's Internet website.
+23 Sec. 2. Original section 68-954, Reissue Revised Statutes of
+24 Nebraska, is repealed.
+-2-

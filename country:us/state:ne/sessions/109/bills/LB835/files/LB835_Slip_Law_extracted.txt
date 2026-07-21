@@ -1,0 +1,447 @@
+Title: 
+Official Title: 
+Source: versions - Slip Law
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LB835 LB835
+2026 2026
+LEGISLATIVE BILL 835
+Approved by the Governor April 14, 2026
+Introduced by Jacobson, 42.
+A BILL FOR AN ACT relating to the Secretary of State; to amend sections
+52-1001, 52-1003, 52-1312, 52-1313, and 52-1602, Reissue Revised Statutes
+of Nebraska, sections 33-101 and 77-3903, Revised Statutes Cumulative
+Supplement, 2024, and sections 9-523 and 9-525, Uniform Commercial Code,
+Reissue Revised Statutes of Nebraska; to change and eliminate provisions
+relating to fees, notices of liens under the Uniform Federal Lien
+Registration Act and the Uniform State Tax Lien Registration and
+Enforcement Act, the central filing system, effective financing
+statements, the master lien list, and filed records under the Uniform
+Commercial Code; to harmonize provisions; to repeal the original sections;
+and to outright repeal section 52-1313.01, Reissue Revised Statutes of
+Nebraska.
+Be it enacted by the people of the State of Nebraska,
+Section 1. Section 33-101, Revised Statutes Cumulative Supplement, 2024,
+is amended to read:
+33-101 There shall be paid to the Secretary of State the following fees:
+(1) For requesting a certificate or exemplification with seal, a
+nonrefundable fee of ten dollars;
+(2) For copies of records, for each page, a fee of one dollar;
+(3) For accessing business entity records by electronic means:
+(a) For batch requests of business entity information, fifteen dollars for
+up to one thousand business entities accessed and an additional fifteen dollars
+for each additional one thousand business entities accessed over one thousand;
+(b) For information in the Secretary of State's Uniform Commercial Code
+Division database, including records filed pursuant to the Uniform Commercial
+Code, Chapter 52, article 2, 5, 7, 9, 10, 11, 12, or 14, Chapter 54, article 2,
+or the Uniform State Tax Lien Registration and Enforcement Act, for batch
+requests searched by debtor location, fifteen dollars for up to one thousand
+records accessed and an additional fifteen dollars for each additional one
+thousand records accessed over one thousand;
+(b) (c) For an electronically transmitted certificate indicating whether a
+business is properly registered with the Secretary of State and authorized to
+do business in the state, six dollars and fifty cents;
+(c) (d) For the entire contents of the database regarding business
+entities corporations and the Uniform Commercial Code, but excluding electronic
+images, three hundred dollars weekly subscription rate, one thousand dollars
+monthly subscription rate for a twice-monthly service, and eight hundred
+dollars monthly subscription rate;
+(d) (e) For images of business entity records accessed over the Internet
+or by other electronic means other than facsimile machine, forty-five cents for
+each page or image of a page , not to exceed two thousand dollars per request
+for batch requests; and
+(e) (f) For the entire contents of the image database regarding business
+entities corporations and the Uniform Commercial Code, eight hundred dollars
+monthly subscription rate;
+(4)(a) For bulk data requests of Uniform Commercial Code database
+information including records filed pursuant to the Uniform Commercial Code,
+Chapter 52, article 2, 5, 7, 9, 10, 11, 12, 13, or 14, Chapter 54, article 2,
+the Uniform Federal Lien Registration Act, or the Uniform State Tax Lien
+Registration and Enforcement Act, a nonrefundable fee of:
+(i) Eight hundred dollars for an initial file;
+(ii) Eight hundred dollars for a monthly update file; and
+(iii) Three hundred dollars for a weekly update file.
+(b) Effective financing statement data accessed through bulk data requests
+shall be for informational purposes only and shall not provide the protection
+afforded a buyer registered pursuant to section 52-1312;
+(5) For images of Uniform Commercial Code database information records
+accessed over the Internet, forty-five cents for each page or image of a page;
+(4) For taking acknowledgment, ten dollars;
+(5) For administering oath, ten dollars;
+(6) For filings by for-profit corporations and associations required or
+permitted by law to file articles of incorporation or organization with the
+Secretary of State, the fees provided in section 21-205 unless otherwise
+specifically provided by law; and
+(7) For filings by nonprofit corporations and associations required or
+permitted by law to file articles of incorporation or organization with the
+Secretary of State or for such a filing by any entity declared to be a
+corporation under section 21-608, the fees provided in section 21-1905 unless
+otherwise specifically provided by law.
+The Secretary of State shall remit all fees collected pursuant to
+subdivisions (1), (2), and (4) through (7) of this section to the State
+Treasurer for credit to the Secretary of State Cash Fund. The Secretary of
+-1-
+
+LB835 LB835
+2026 2026
+State shall remit all fees collected pursuant to subdivision (3) of this
+section to the State Treasurer for credit to the Records Management Cash Fund,
+and such fees shall be distributed as provided in any agreements between the
+State Records Board and the Secretary of State.
+Sec. 2. Section 52-1001, Reissue Revised Statutes of Nebraska, is amended
+to read:
+52-1001 (1) Notices of liens upon real property for obligations payable to
+the United States and certificates and notices affecting the liens shall be
+presented in the office of the Secretary of State and may be presented by
+electronic means. Such notices of liens and certificates and notices affecting
+the liens shall be provided transmitted by the Secretary of State to and filed
+in the office of the register of deeds by the register of deeds of the county
+or counties in which the real property subject to the lien is situated as
+designated in the notice of lien or certificate or notice affecting the lien. A
+lien subject to this subsection shall be effective upon real property when
+filed by the register of deeds as provided in this subsection.
+(2) Notices of federal liens upon personal property, whether tangible or
+intangible, for obligations payable to the United States and certificates and
+notices affecting the liens shall be filed in the office of the Secretary of
+State and may be filed by electronic means.
+Sec. 3. Section 52-1003, Reissue Revised Statutes of Nebraska, is amended
+to read:
+52-1003 (1)(a) If a notice of federal lien upon real property, a refiling
+of a notice of federal lien upon real property, or a notice of revocation of
+any certificate described in subdivision (2)(a) of this section is provided
+transmitted to the register of deeds, he or she shall endorse thereon his or
+her identification and the date and time of receipt and forthwith file it
+alphabetically or enter it in an alphabetical index showing the name and
+address of the person named in the notice, the date and time of receipt, the
+serial number of the district director or title and address of the official or
+entity certifying the lien, and the total amount appearing on the notice of
+lien.
+(b) If a notice of federal lien upon personal property, a refiling of a
+notice of federal lien upon personal property, or a notice of revocation of any
+certificate described in subdivision (2)(b) of this section is filed in the
+office of the Secretary of State, he or she shall endorse thereon his or her
+identification and the date and time of receipt and forthwith file it
+alphabetically or enter it in an alphabetical index. showing the name and
+address of the person named in the notice, the date and time of receipt, the
+serial number of the district director or title and address of the official or
+entity certifying the lien, and the total amount appearing on the notice of
+lien.
+(2)(a) If a refiled notice of federal lien referred to in subdivision (1)
+(a) of this section is provided transmitted for filing to the register of deeds
+as specified in subsection (1) of section 52-1001, he or she shall file the
+refiled notice or the certificate with the original notice of lien and shall
+enter the refiled notice or the certificate with the date of filing in an
+alphabetical lien index on the line where the original notice of lien is
+entered.
+(b) If a refiled notice of federal lien referred to in subdivision (1)(b)
+of this section is filed in the office of the Secretary of State as specified
+in subsection (2) of section 52-1001, he or she shall file the refiled notice
+or the certificate and cross reference the original notice of lien on the
+state's central index system and shall enter the refiled notice or the
+certificate with the date of filing in the an alphabetical lien index.
+(3)(a) Upon request of any person, the register of deeds shall issue his
+or her certificate showing whether there is on file, on the date and hour
+stated therein, any notice of lien or certificate or notice affecting any lien,
+filed under the Uniform Federal Tax Lien Registration Act on or after January
+1, 1970, or under the Uniform Federal Lien Registration Act on or after July 9,
+1988, naming a particular person and, if a notice or certificate is on file,
+giving the date and hour of filing of each notice or certificate. The fee for a
+certificate shall be one dollar and fifty cents. Upon request the register of
+deeds shall furnish a copy of any notice of federal lien or notice or
+certificate affecting a federal lien for a fee of one dollar per page.
+(b)(i) Prior to July 1, 2001, upon the request of any person, the
+Secretary of State shall provide information as provided in section 9-411,
+Uniform Commercial Code, and charge such fees provided in such section, on any
+notice of lien or certificate or notice affecting any lien filed under the
+Uniform Federal Lien Registration Act on or after July 1, 1999.
+(b) Upon (ii) On and after July 1, 2001, upon the request of any person,
+the Secretary of State shall provide information as provided in the Uniform
+Commercial Code and charge such fees provided in section 9-525, Uniform
+Commercial Code, on any notice of lien or certificate or notice affecting any
+lien filed under the Uniform Federal Lien Registration Act on or after July 1,
+1999.
+(4) The register of deeds and his or her employees or the Secretary of
+State and his or her employees or agents shall be exempt from all personal
+liability as a result of any error or omission in providing information as
+required by this section except in cases of willful misconduct or gross
+negligence.
+Sec. 4. Section 52-1312, Reissue Revised Statutes of Nebraska, is amended
+to read:
+-2-
+
+LB835 LB835
+2026 2026
+52-1312 The Secretary of State shall design and implement a central filing
+system for effective financing statements. The Secretary of State shall be the
+system operator. The system shall provide a means for filing effective
+financing statements or notices of such financing statements on a statewide
+basis. The system shall include requirements:
+(1) That an effective financing statement or notice of such financing
+statement shall be filed in the office of the Secretary of State. A debtor's
+residence shall be presumed to be the residence shown on the filing. The
+showing of an improper residence shall not affect the validity of the filing.
+The filing officer shall mark the statement or notice with a consecutive file
+number and with the date and hour of filing and shall hold the statement or
+notice or a microfilm or other digital copy thereof for public inspection. In
+addition, the filing officer shall index the statements and notices according
+to the name of the debtor and shall note in the index the file number and the
+address of the debtor given in the statement;
+(2) That the Secretary of State compile information from all effective
+financing statements or notices filed with the Secretary of State into a master
+list (a) organized according to farm product, (b) arranged within each such
+product (i) in alphabetical order according to the last name of the individual
+debtors or, in the case of debtors doing business other than as individuals,
+the first word in the name of such debtors, (ii) in numerical order according
+to the approved unique identifier of the debtors, (iii) geographically by
+county, and (iv) by crop year, and (c) containing the information referred to
+in subdivision (4) of section 52-1307;
+(3) That the Secretary of State cause the information on the master list
+to be published in lists (a) by farm product arranged alphabetically by debtor
+and (b) by farm product arranged numerically by the debtor's approved unique
+identifier. If a registered buyer so requests, the list or lists for such buyer
+may be limited to any county or group of counties where the farm product is
+produced or located or to any crop year or years or a combination of such
+identifiers;
+(4) That all buyers of farm products, commission merchants, selling
+agents, and other persons may register with the Secretary of State to receive
+or obtain lists described in subdivision (3) of this section. Any buyer of farm
+products, commission merchant, selling agent, or other person conducting
+business from multiple locations shall be considered as one entity. Such
+registration shall be on an annual basis. The Secretary of State shall provide
+the form for registration which shall include the name and address of the
+registrant and the list or lists described in subdivision (3) of this section
+which such registrant desires to receive or obtain. A registration shall not be
+completed until the form provided is properly completed and received by the
+Secretary of State accompanied by the proper registration fee set by the
+Secretary of State. The fee for annual registration shall be thirty dollars.
+A registrant shall pay an additional annual fee to receive or obtain lists
+described in subdivision (3) of this section. For access to the master lien
+each farm product list which contains the lists described in subdivision (3) of
+this section, the registration fee shall be an amount determined by the
+Secretary of State not to exceed two hundred dollars per year.
+The Secretary of State shall maintain a record of the registrants and the
+lists and contents of the lists received or obtained by the registrants for a
+period of five years;
+(5) That the lists as identified pursuant to subdivision (4) of this
+section be distributed or published by the Secretary of State not more often
+than once every month and not less often than once every three months as
+determined by the Secretary of State. The Secretary of State may provide for
+the distribution or publication of the lists on any medium and establish
+reasonable charges for such lists, not to exceed the fee charges provided for
+in subdivision (4) of this section.
+The Secretary of State shall, by rule and regulation, establish the dates
+upon which the distributions or publications will be made, the dates after
+which a filing of an effective financing statement will not be reflected on the
+next distribution or publication of lists, and the dates by which a registrant
+must complete a registration to receive or obtain the next list; and
+(6) That the Secretary of State remove lapsed and terminated effective
+financing statements or notices of such financing statements from the master
+list prior to preparation of the lists required to be distributed or published
+by subdivision (5) of this section.
+Effective financing statements or any amendments or continuations of
+effective financing statements originally filed in the office of the county
+clerk that have been indexed and entered on the Secretary of State's central
+filing system need not be retained by the county filing office and may be
+disposed of or destroyed.
+The Secretary of State shall apply to the Secretary of the United States
+Department of Agriculture for (a) certification of the central filing system
+and (b) approval of the system or method of selecting an approved unique
+identifier.
+The Secretary of State shall remit any funds received pursuant to
+subdivision (4) or (5) of this section to the State Treasurer for credit to the
+Secretary of State Cash Fund.
+Sec. 5. Section 52-1313, Reissue Revised Statutes of Nebraska, is amended
+to read:
+52-1313 (1) Presentation for filing of an effective financing statement
+and the acceptance of the statement by the Secretary of State constitutes
+-3-
+
+LB835 LB835
+2026 2026
+filing under sections 52-1301 to 52-1322.
+(2) The nonrefundable fee for presenting an effective financing statement,
+an amendment, or a continuation statement for filing and indexing and for
+stamping a copy furnished by the secured party to show the date and place of
+filing of an effective financing statement, an amendment, or a continuation
+statement shall be fourteen dollars if the record is communicated in writing
+and eleven dollars if the record is communicated by another medium authorized
+by the Secretary of State. There shall be no fee for the filing of a
+termination statement.
+(3) The Secretary of State shall remit any fees received pursuant to this
+section to the State Treasurer for credit to the Secretary of State Cash Fund.
+Sec. 6. Section 52-1602, Reissue Revised Statutes of Nebraska, is amended
+to read:
+52-1602 (1) The master lien list prescribed in section 52-1601 shall be
+distributed or published by the Secretary of State not more often than once
+every month and not less often than once every three months on the date
+corresponding to the date on which the lists provided pursuant to sections
+52-1301 to 52-1322 are distributed or published.
+(2) Any person may register with the Secretary of State to receive or
+obtain the master lien list prescribed in section 52-1601. Such registration
+shall be on an annual basis. The Secretary of State shall provide the form for
+registration. A registration shall not be completed until the form provided is
+properly completed and received by the Secretary of State accompanied by the
+proper registration fee set by the Secretary of State. The fee for annual
+registration shall be thirty dollars, except that a registrant under sections
+52-1301 to 52-1322 shall not be required to pay the registration fee provided
+by this section in addition to the registration fee paid pursuant to sections
+52-1301 to 52-1322 for the same annual registration period. A registrant under
+sections 52-1601 to 52-1605 shall pay an additional annual fee to receive or
+obtain the master lien lists prescribed in section 52-1601. For access to the
+each master lien list, the registration fee shall be an amount determined by
+the Secretary of State not to exceed two hundred dollars per year. The
+Secretary of State may provide for the distribution or publication of master
+lien lists on any medium and may establish reasonable charges for such lists,
+not to exceed the charges provided for in this subsection.
+(3) The Secretary of State, by rule and regulation, shall establish the
+dates after which a filing of liens will not be reflected on the next
+distribution or publication of the master lien list and the date by which a
+registrant shall complete a registration in order to receive or obtain the next
+master lien list.
+(4) The Secretary of State shall remit any funds received pursuant to
+subsection (2) of this section to the State Treasurer for credit to the
+Secretary of State Cash Fund.
+Sec. 7. Section 77-3903, Revised Statutes Cumulative Supplement, 2024, is
+amended to read:
+77-3903 (1)(a) A notice of lien provided for in the Uniform State Tax Lien
+Registration and Enforcement Act upon real property shall be presented in the
+office of the Secretary of State. Such notice of lien shall be provided
+transmitted by the Secretary of State to and filed in the office of the
+register of deeds by the register of deeds of the county or counties in which
+the real property subject to the lien is situated as designated in the notice
+of lien. The register of deeds shall enter the notice in the alphabetical state
+tax lien index, showing on one line the name and residence of the person liable
+named in such notice, the last four digits of the social security number or the
+federal tax identification number of such person, the Tax Commissioner's or
+Commissioner of Labor's serial number of such notice, the date and hour of
+filing, and the amount due. Such presentments to the Secretary of State may be
+made by direct input to the Secretary of State's database or by other
+electronic means. All such notices of lien shall be retained in numerical order
+in a file designated state tax lien notices, except that in offices filing by
+the roll form of microfilm pursuant to section 23-1517.01, the original notices
+need not be retained. A lien subject to this subsection shall be effective upon
+real property when filed by the register of deeds as provided in this
+subsection.
+(b) A notice of lien provided for in the Uniform State Tax Lien
+Registration and Enforcement Act upon personal property shall be filed in the
+office of the Secretary of State. The Secretary of State shall enter the notice
+in the state's central tax lien index , showing on one line the name and
+residence of the person liable named in such notice, the last four digits of
+the social security number or the federal tax identification number of such
+person, the Tax Commissioner's or Commissioner of Labor's serial number of such
+notice, the date and hour of filing, and the amount due. Such filings with the
+Secretary of State may be filed by direct input to the Secretary of State's
+database or by other electronic means. All such notices of lien shall be
+retained in numerical order in a file designated state tax lien notices.
+(2) The uniform fee, payable to the Secretary of State, for presenting for
+filing, releasing, continuing, or subordinating or for filing, releasing,
+continuing, or subordinating each tax lien pursuant to the Uniform State Tax
+Lien Registration and Enforcement Act shall be two times the fee required for
+recording instruments with the register of deeds as provided in section 33-109.
+There shall be no fee for the filing of a termination statement. The uniform
+fee for each county more than one designated pursuant to subdivision (1)(a) of
+this section shall be the fee required for recording instruments with the
+-4-
+
+LB835 LB835
+2026 2026
+register of deeds as provided in section 33-109. The Secretary of State shall
+remit each fee received pursuant to this subsection to the State Treasurer for
+credit to the Secretary of State Cash Fund, except that of the fees received
+pursuant to this subsection, the Secretary of State shall remit the fee
+required for recording instruments with the register of deeds as provided in
+section 33-109 to the register of deeds of a county for each designation of
+such county in a filing pursuant to subdivision (1)(a) of this section.
+(3) The Secretary of State shall bill the Tax Commissioner or Commissioner
+of Labor on a monthly basis for fees for documents presented to or filed with
+the Secretary of State. No payment of any fee shall be required at the time of
+presenting or filing any such lien document.
+Sec. 8. Section 9-523, Uniform Commercial Code, Reissue Revised Statutes
+of Nebraska, is amended to read:
+9-523 Information from filing office; sale or license of records.
+(a) If a person that files a written record requests an acknowledgment of
+the filing, the filing office shall send to the person an image of the record
+showing the number assigned to the record pursuant to section 9-519(a)(1) and
+the date and time of the filing of the record. However, if the person furnishes
+a copy of the record to the filing office, the filing office may instead:
+(1) note upon the copy the number assigned to the record pursuant to
+section 9-519(a)(1) and the date and time of the filing of the record; and
+(2) send the copy to the person.
+(b) If a person files a record other than a written record, the filing
+office shall communicate to the person an acknowledgment that provides:
+(1) the information in the record;
+(2) the number assigned to the record pursuant to section 9-519(a)(1); and
+(3) the date and time of the filing of the record.
+(c) The filing office shall communicate or otherwise make available in a
+record the following information to any person that requests it:
+(1) whether there is on file on a date and time specified by the filing
+office, but not a date earlier than three business days before the filing
+office receives the request, any financing statement that:
+(A) designates a particular debtor;
+(B) has not lapsed under section 9-515 with respect to all secured parties
+of record; and
+(C) if the request so states, has lapsed under section 9-515 and a record
+of which is maintained by the filing office under section 9-522(a);
+(2) the date and time of filing of each financing statement; and
+(3) the information provided in each financing statement.
+(d) In complying with its duty under subsection (c), the filing office may
+communicate information in any medium. However, if requested, the filing office
+shall communicate information by issuing its written certificate.
+(e) The filing office shall perform the acts required by subsections (a)
+through (d) at the time and in the manner prescribed by filing-office rule, but
+not later than two business days after the filing office receives the request.
+(f) (f)(1) The Secretary of State shall offer to sell or license to the
+public on a nonexclusive basis, in bulk, copies of all records filed in the
+office of the Secretary of State under this part, in every medium from time to
+time available to the filing office.
+(2) Records filed in the office of the Secretary of State under this part
+may be made available electronically through the portal established under
+section 84-1204, Reissue Revised Statutes of Nebraska. For batch requests, the
+fee is two dollars per record accessed through the portal, except that the fee
+for a batch request for one thousand or more records is two thousand dollars.
+All fees collected pursuant to this subdivision shall be deposited in the
+Records Management Cash Fund and shall be distributed as provided in any
+agreements between the State Records Board and the Secretary of State.
+Sec. 9. Section 9-525, Uniform Commercial Code, Reissue Revised Statutes
+of Nebraska, is amended to read:
+9-525 Fees.
+(a) The nonrefundable fee for submitting a record for filing and indexing
+a record under this part is:
+(1) Except as provided in subdivision (a)(3) of this section, fourteen
+dollars if the record is communicated in writing;
+(2) Except as provided in subdivision (a)(3) of this section, eleven
+dollars if the record is communicated by another medium authorized by filing-
+office rule; and
+(3) One hundred dollars if the debtor is a transmitting utility and the
+filing so indicates.
+(b) The number of names required to be indexed does not affect the amount
+of the fee in subsection (a).
+(c) There is no fee for the filing of a termination statement.
+(d)(1) The fee for responding to a request for information from the filing
+office, including for communicating whether there is on file any financing
+statement naming a particular debtor, is five dollars if the request is
+communicated in writing.
+(2) The fee for responding to a request for information from the filing
+office, including for communicating whether there is on file any financing
+statement naming a particular debtor, is four dollars and fifty cents if the
+request is communicated by another medium authorized by filing-office rule.
+(e) The fees charged by county clerks for inquiries and other services
+regarding information in the centralized computer system shall be the same as
+set forth in this section.
+-5-
+
+LB835 LB835
+2026 2026
+(e) (f) The Secretary of State shall remit the fees received by the
+Secretary of State pursuant to this section to the State Treasurer for credit
+to the Secretary of State Cash Fund.
+Sec. 10. Original sections 52-1001, 52-1003, 52-1312, 52-1313, and
+52-1602, Reissue Revised Statutes of Nebraska, sections 33-101 and 77-3903,
+Revised Statutes Cumulative Supplement, 2024, and sections 9-523 and 9-525,
+Uniform Commercial Code, Reissue Revised Statutes of Nebraska, are repealed.
+Sec. 11. The following section is outright repealed: Section 52-1313.01,
+Reissue Revised Statutes of Nebraska.
+-6-

@@ -1,0 +1,1221 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LB1121 LB1121
+2026 2026
+LEGISLATURE OF NEBRASKA
+ONE HUNDRED NINTH LEGISLATURE
+SECOND SESSION
+LEGISLATIVE BILL 1121
+Introduced by Ballard, 21.
+Read first time January 16, 2026
+Committee: Transportation and Telecommunications
+1 A BILL FOR AN ACT relating to recreational vehicles; to amend sections
+2 60-1402 and 60-2701, Reissue Revised Statutes of Nebraska, and
+3 sections 60-1438.01 and 71-4603, Revised Statutes Cumulative
+4 Supplement, 2024; to adopt the Recreational Vehicle Industry
+5 Regulation Act; to eliminate certain provisions relating to
+6 recreational vehicles under the Motor Vehicle Industry Regulation
+7 Act; to provide for additional members on the Nebraska Motor Vehicle
+8 Industry Licensing Board and change provisions relating to such
+9 board; to redefine a term relating to manufacturer's warranties; to
+10 redefine a term under the Uniform Standard Code for Manufactured
+11 Homes and Recreational Vehicles; to provide an operative date; and
+12 to repeal the original sections.
+13 Be it enacted by the people of the State of Nebraska,
+-1-
+
+LB1121 LB1121
+2026 2026
+1 Section 1. Sections 1 to 35 of this act shall be known and may be
+2 cited as the Recreational Vehicle Industry Regulation Act.
+3 Sec. 2. The Recreational Vehicle Industry Regulation Act applies to
+4 agreements between dealers and manufacturers that are entered into on or
+5 after the operative date of this act.
+6 Sec. 3. The Legislature declares that:
+7 (1) The public health, safety, and welfare of the residents of this
+8 state can be protected by regulating the relationship between dealers and
+9 manufacturers, maintaining competition between dealers and manufacturers,
+10 and providing consumer protection and fair trade for the purchase and
+11 consumer care of recreational vehicles; and
+12 (2) The recreational vehicle industry operates differently than the
+13 motor vehicle industry in certain respects and these differences should
+14 be reflected in franchise law to serve the needs of consumers, dealers,
+15 manufacturers, distributors, and warrantors.
+16 Sec. 4. For purposes of the Recreational Vehicle Industry
+17 Regulation Act:
+18 (1) Area of sales responsibility means the geographical area agreed
+19 to by the dealer and the manufacturer in the manufacturer-dealer
+20 agreement, within which the dealer has the exclusive right to display or
+21 sell the manufacturer's new recreational vehicles of a particular line-
+22 make;
+23 (2) Board has the same meaning as in section 60-1401.06;
+24 (3)(a) Bona fide consumer means an owner of a recreational vehicle
+25 that has:
+26 (i) Acquired such recreational vehicle for use in business or for
+27 pleasure purposes;
+28 (ii) Been granted a certificate of title for such recreational
+29 vehicle; and
+30 (iii) Registered such recreational vehicle in accordance with the
+31 laws of the residence of the owner; and
+-2-
+
+LB1121 LB1121
+2026 2026
+1 (b) Bona fide consumer does not include any owner that sells more
+2 than eight registered recreational vehicles within a twelve-month period;
+3 (4) Consumer care means the performance, for the public, of
+4 necessary maintenance and repairs to recreational vehicles, including
+5 diagnostic work and warranty service;
+6 (5) Dealer means any individual who or business entity that is
+7 licensed under the Recreational Vehicle Industry Regulation Act to sell
+8 new recreational vehicles;
+9 (6) Distributor means any individual or business entity that
+10 purchases new recreational vehicles for resale to dealers;
+11 (7) Factory campaign means an effort on the part of a warrantor to
+12 contact recreational vehicle owners or dealers in order to address a part
+13 or equipment issue;
+14 (8) Family member means a spouse or, whether by blood, marriage, or
+15 adoption, a child, grandchild, parent, sibling, niece, or nephew, or the
+16 spouse of any such person;
+17 (9) Licensee means a person that holds a license issued under the
+18 Recreational Vehicle Industry Regulation Act;
+19 (10) Line-make means a specific series of recreational vehicles
+20 that:
+21 (a) Are targeted to a particular market segment, as determined by
+22 their decor, features, equipment, size, weight, and price range;
+23 (b) Have lengths and interior floor plans that distinguish the line-
+24 make from other line-makes with substantially the same decor, equipment,
+25 features, price, and weight; and
+26 (c) Belong to a single, distinct classification of recreational
+27 vehicles that have a substantial degree of commonality in the
+28 construction of the chassis, frame, and body;
+29 (11) Manufacturer means any individual or business entity that
+30 engages in the manufacturing of recreational vehicles;
+31 (12) Manufacturer-dealer agreement means a written agreement or
+-3-
+
+LB1121 LB1121
+2026 2026
+1 contract entered into between a manufacturer or distributor and a dealer
+2 that specifies the rights and responsibilities of the parties to the
+3 agreement and authorizes the dealer to sell line-makes of new
+4 recreational vehicles that are manufactured by the manufacturer;
+5 (13) Model means a series of recreational vehicles that are
+6 identified by a trade name or trademark that is a subset of a line-make;
+7 (14) Motor vehicle dealer has the same meaning as in section
+8 60-1401.26;
+9 (15) Motorcycle dealer has the same meaning as in section
+10 60-1401.29;
+11 (16) New recreational vehicle means any recreational vehicle that is
+12 not included within the definition of a used recreational vehicle;
+13 (17) Proprietary part means any part that is manufactured by or for
+14 and sold exclusively by the manufacturer;
+15 (18)(a) Recreational vehicle means a vehicle that is either self-
+16 propelled or towed by a consumer-owned tow vehicle and that is designed
+17 to provide temporary living quarters for recreational, camping, or travel
+18 use; and
+19 (b) Recreational vehicle includes motor homes, travel trailers,
+20 fifth wheel travel trailers, truck campers, and folding camping trailers;
+21 (19) Termination action means the termination of, cancellation of,
+22 or failure to renew an entire manufacturer-dealer agreement or any
+23 provision relating to any model or line-make in a manufacturer-dealer
+24 agreement;
+25 (20) Trailer dealer has the same meaning as in section 60-1401.37;
+26 (21) Transient customer means a customer who is temporarily
+27 traveling through a dealer's area of sales responsibility;
+28 (22)(a) Used recreational vehicle means every recreational vehicle
+29 that has been sold, bargained, exchanged, or given away or for which
+30 title has been transferred from the person who first acquired it from the
+31 manufacturer, distributor, or dealer.
+-4-
+
+LB1121 LB1121
+2026 2026
+1 (b) A new recreational vehicle is not considered a used recreational
+2 vehicle until it has been placed in use by a bona fide consumer or until
+3 it has been registered under the Motor Vehicle Registration Act by a bona
+4 fide consumer;
+5 (23) Warrantor means any individual or business entity that provides
+6 a warranty in connection with a new recreational vehicle or parts,
+7 accessories, or components for a new recreational vehicle. Such warranty
+8 does not include the following that are sold for separate consideration
+9 by a dealer or other person not controlled by a manufacturer: Any service
+10 contract, mechanical or other insurance, and extended warranty;
+11 (24) Warranty part means a part, accessory, or component of a
+12 recreational vehicle that is covered by a warranty that was issued by a
+13 warrantor; and
+14 (25) Warranty service means consumer care that is provided under the
+15 terms of or to comply with a warranty.
+16 Sec. 5. (1) The board may:
+17 (a) Regulate the issuance and revocation of licenses in accordance
+18 with and subject to the Recreational Vehicle Industry Regulation Act;
+19 (b) Perform all acts and duties provided for in the Recreational
+20 Vehicle Industry Regulation Act that are necessary to the administration
+21 and enforcement of the act;
+22 (c) Adopt and promulgate rules and regulations relating to the
+23 administration of but not inconsistent with the Recreational Vehicle
+24 Industry Regulation Act;
+25 (d) Enforce rules and regulations that were adopted and promulgated
+26 by the board; and
+27 (e) Employ a hearing officer who shall conduct preliminary hearings
+28 on behalf of the board and make recommendations to the board on any issue
+29 or matter that the board deems proper.
+30 (2) The seal of the board shall be used to authenticate the acts of
+31 the board. Copies of all records and papers in the office of the board
+-5-
+
+LB1121 LB1121
+2026 2026
+1 under the hand and seal of the office shall be received in evidence in
+2 all cases equally and with like effect as the original.
+3 (3) Investigators employed by the board may enter upon and inspect
+4 the facilities, the required records, and any recreational vehicles found
+5 in any licensee's established place or places of business.
+6 (4) With respect to any action taken by the board, if a controlling
+7 number of the members of the board are active participants in the
+8 recreational vehicle market in which the action is taken, the chairperson
+9 shall review the action taken and, upon completion of such review,
+10 modify, alter, approve, or reject the board's action.
+11 Sec. 6. (1) Licenses issued by the board under the Recreational
+12 Vehicle Industry Regulation Act shall be of the classes set out in this
+13 section and shall permit the business activities described in this
+14 section:
+15 (a) Recreational vehicle dealer license. This license permits:
+16 (i) The selling or exchanging of new recreational vehicles at:
+17 (A) Any established place of business designated in the license;
+18 (B) Another place or places of business located within three hundred
+19 feet of such designated place of business; and
+20 (C) Any place within the county described in the license; and
+21 (ii) Either the individual owner of the business or one stockholder
+22 in, member in, partner in, or officer of the business, to act as a
+23 recreational vehicle salesperson and the name of the one authorized
+24 person shall appear on the license;
+25 (b) Manufacturer license. This license:
+26 (i) Permits the licensee to engage in the activities of a
+27 manufacturer; and
+28 (ii) Prohibits the licensee from directly or indirectly owning an
+29 interest in, operating, controlling, or acting in the capacity of any:
+30 (A) Franchised dealer or franchised dealership for the same line-
+31 make of recreational vehicle that is manufactured by the licensee; or
+-6-
+
+LB1121 LB1121
+2026 2026
+1 (B) Nonfranchised dealer or dealership; and
+2 (c) Distributor license. This license:
+3 (i) Permits the licensee to engage in the activities of a
+4 distributor; and
+5 (ii) Prohibits the licensee from directly or indirectly owning an
+6 interest in, operating, controlling, or acting in the capacity of any:
+7 (A) Franchised dealer or franchised dealership for the same line-
+8 make of recreational vehicle that is distributed by the licensee; or
+9 (B) Nonfranchised dealer or dealership.
+10 (2) For purposes of this section, a dealer or dealership is
+11 controlled by a manufacturer or distributor if such manufacturer or
+12 distributor is directly or indirectly authorized, by law or by an
+13 agreement of the parties, to direct or influence the management or
+14 policies of the dealer or dealership.
+15 Sec. 7. Any person may apply for one or more of the classes of
+16 licenses described in section 6 of this act. Such application shall be
+17 prescribed by the board and contain the following information:
+18 (1)(a) If the applicant is an individual, the name and address of
+19 the applicant, the applicant's social security number, and the name under
+20 which the applicant intends to conduct business;
+21 (b) If the applicant is a partnership or limited liability company,
+22 the name and address of each partner or member, the social security
+23 number of each partner or member, and the name under which the applicant
+24 intends to conduct business; or
+25 (c) If the applicant is not an individual, a partnership, or a
+26 limited liability company, the applicant's name, the name and address of
+27 each of the applicant's principal officers, and the name under which the
+28 applicant intends to conduct business;
+29 (2)(a) The address of each place where the applicant intends to
+30 conduct business, (b) a statement whether the applicant owns or leases
+31 each such place, (c) for each such place that is leased, a true and
+-7-
+
+LB1121 LB1121
+2026 2026
+1 correct copy of the lease agreement, and (d) a description of the
+2 facilities for the display of recreational vehicles;
+3 (3) If the application is for a recreational vehicle dealer license,
+4 the name and address of the individual who is to act as the salesperson
+5 under such license if issued;
+6 (4) If the application is for a manufacturer license or a
+7 distributor license, a statement regarding the manufacturer's or
+8 distributor's compliance with the Recreational Vehicle Industry
+9 Regulation Act; and
+10 (5) A statement that the applicant will comply with and be subject
+11 to the Recreational Vehicle Industry Regulation Act, the rules and
+12 regulations adopted and promulgated by the board, and any amendments to
+13 such act and such rules and regulations.
+14 Sec. 8. (1) Only a dealer may sell a new recreational vehicle in
+15 this state to a bona fide consumer.
+16 (2) A manufacturer or distributor shall not sell a new recreational
+17 vehicle in this state to or through a dealer without having first entered
+18 into a manufacturer-dealer agreement with such dealer. Any such agreement
+19 shall be signed by both parties.
+20 (3) A motor vehicle dealer, motorcycle dealer, or trailer dealer
+21 shall not sell a new recreational vehicle in this state without becoming
+22 licensed as a dealer under the Recreational Vehicle Industry Regulation
+23 Act.
+24 (4) This section applies beginning on January 1, 2027.
+25 Sec. 9. (1) A manufacturer-dealer agreement shall include:
+26 (a) A designation of the area of sales responsibility assigned to
+27 the dealer;
+28 (b) The timeframe for inspection and refusal to take delivery of a
+29 recreational vehicle by the dealer pursuant to section 31 of this act.
+30 Such timeframe shall not be less than two business days after the
+31 physical delivery of the recreational vehicle;
+-8-
+
+LB1121 LB1121
+2026 2026
+1 (c) The terms of the manufacturer-dealer agreement; and
+2 (d) The duration of the manufacturer-dealer agreement.
+3 (2) A manufacturer-dealer agreement shall not:
+4 (a) Include any provision that requires a party to violate the
+5 Recreational Vehicle Industry Regulation Act. Any such provision is null
+6 and void;
+7 (b) Provide for the sale of a model or line-make that is already
+8 authorized to be sold by another dealer in the same area of sales
+9 responsibility; or
+10 (c) Be changed during the duration of the manufacturer-dealer
+11 agreement without the written mutual consent of the parties, including
+12 the area of sales responsibility.
+13 (3) A manufacturer shall not issue a policy or procedure that
+14 violates or substantially alters a provision of a manufacturer-dealer
+15 agreement during the duration of such agreement without the written
+16 mutual consent of the parties.
+17 Sec. 10. (1) When a manufacturer distributes new recreational
+18 vehicles to any dealer under the terms of a manufacturer-dealer
+19 agreement, such distribution shall be in a fair and equitable manner.
+20 (2) Any such dealer may request information on the manner of
+21 distribution from such manufacturer. Such request shall be made in
+22 writing and delivered to the headquarters of the manufacturer. Upon
+23 receipt of such request, such manufacturer shall provide such information
+24 to the headquarters of the dealer in written form within thirty business
+25 days after receipt of such request.
+26 Sec. 11. A manufacturer shall provide each dealer with which the
+27 manufacturer has executed a current manufacturer-dealer agreement with
+28 adequate technical data so that the dealer can perform consumer care and
+29 repairs on the recreational vehicles that were manufactured by the
+30 manufacturer and sold by the dealer.
+31 Sec. 12. (1) A manufacturer or distributor shall not initiate a
+-9-
+
+LB1121 LB1121
+2026 2026
+1 termination action, including directly or through any officer, agent, or
+2 employee of such manufacturer or distributor, unless at least one reason
+3 showing that good cause exists for such termination action.
+4 (2) A manufacturer or distributor that initiates a termination
+5 action has the burden of showing good cause for such termination action.
+6 For purposes of determining reasons showing that good cause exists for a
+7 manufacturer or distributor to initiate a termination action, any of the
+8 following factors may be considered:
+9 (a) The extent of the affected dealer's penetration in the relevant
+10 market area for the relevant model or line-make;
+11 (b) The nature and extent of the dealer's investment in the dealer's
+12 business;
+13 (c) The adequacy of the dealer's service facilities, equipment,
+14 parts, supplies, and personnel;
+15 (d) The effect of the termination action on the community;
+16 (e) The extent and quality of the dealer's service under
+17 recreational vehicle warranties;
+18 (f) The failure to follow agreed-upon, reasonable procedures or
+19 standards related to the overall operation of the dealership consistent
+20 with the law and the manufacturer-dealer agreement;
+21 (g) The dealer's performance under the terms of the manufacturer-
+22 dealer agreement;
+23 (h) The dealer or one of its owners being convicted of, or entering
+24 a plea of nolo contendere to, a felony;
+25 (i) The abandonment or closing of the business operations of the
+26 dealer for ten consecutive business days unless the closing is due to an
+27 act of God, strike, labor difficulty, or other cause over which the
+28 dealer has no control;
+29 (j) A significant misrepresentation by the dealer that materially
+30 affects the business relationship between the manufacturer or distributor
+31 and the dealer; and
+-10-
+
+LB1121 LB1121
+2026 2026
+1 (k) A suspension, revocation, or nonrenewal of the dealer's
+2 recreational vehicle dealer license under the Recreational Vehicle
+3 Industry Regulation Act.
+4 Sec. 13. (1)(a) Except as provided in subsection (4) of this
+5 section, a manufacturer or distributor shall provide the dealer with a
+6 written notice that states the manufacturer's or distributor's intent to
+7 initiate a termination action.
+8 (b) Such written notice shall be delivered to the headquarters of
+9 the dealer at least:
+10 (i) One hundred twenty days prior to the intended termination
+11 action; or
+12 (ii) Thirty days prior to the intended termination action if the
+13 reasons showing that good cause exists for initiating a termination
+14 action include any reason under subdivisions (2)(h) though (k) of section
+15 12 of this act.
+16 (c) Such written notice shall state:
+17 (i) Each reason showing that good cause exists for the proposed
+18 termination action;
+19 (ii) The date of the proposed termination action; and
+20 (iii) That, within thirty days after receiving the notice, the
+21 dealer may provide to the manufacturer or distributor a written notice of
+22 intent to cure each reason stated for the proposed termination action.
+23 Such notice of intent to cure shall be delivered to the headquarters of
+24 the manufacturer or distributor.
+25 (2)(a) For a dealer that provides the notice described in
+26 subdivision (1)(c)(iii) of this section, such dealer has ninety days
+27 after such notice was received by the manufacturer or distributor to cure
+28 each reason stated for the proposed termination action.
+29 (b) If each reason for the proposed termination action is cured as
+30 specified in subdivision (2)(a) of this section, the manufacturer or
+31 distributor shall not initiate the proposed termination action.
+-11-
+
+LB1121 LB1121
+2026 2026
+1 (3) For a dealer that does not provide the notice described in
+2 subdivision (1)(c)(iii) of this section, the manufacturer or distributor
+3 may initiate the proposed termination action on the date stated in the
+4 written notice provided by the manufacturer or distributor pursuant to
+5 subsection (1) of this section.
+6 (4) A manufacturer or distributor does not need to provide written
+7 notice to a dealer of a proposed termination action if the dealer is
+8 experiencing insolvency, the occurrence of an assignment for the benefit
+9 of creditors, or bankruptcy.
+10 Sec. 14. (1) A dealer may initiate a termination action with a
+11 manufacturer or distributor with or without good cause at any time by
+12 providing a written notice of the termination action to the manufacturer
+13 or distributor. Such written notice shall be delivered to the
+14 headquarters of the manufacturer or distributor at least thirty days
+15 prior to the date of the termination action.
+16 (2) A dealer that initiates a termination action for good cause has
+17 the burden of showing good cause for such termination action. For
+18 purposes of determining good cause under this section, any of the
+19 following factors may be considered:
+20 (a) The manufacturer or distributor being convicted of, or entering
+21 a plea of nolo contendere to, a felony;
+22 (b) The business operations of the manufacturer or distributor being
+23 abandoned or closed for ten consecutive business days, unless the closing
+24 is due to any act of God, strike, labor difficulty, or other cause over
+25 which the manufacturer or distributor has no control;
+26 (c) A significant misrepresentation by the manufacturer or
+27 distributor that materially affects the business relationship between the
+28 dealer and the manufacturer or distributor;
+29 (d) A material violation of the Recreational Vehicle Industry
+30 Regulation Act by the manufacturer or distributor that is not cured
+31 within thirty days after receipt of the written notice that is provided
+-12-
+
+LB1121 LB1121
+2026 2026
+1 by the dealer to the headquarters of the manufacturer or distributor;
+2 (e) A declaration by the manufacturer or distributor of bankruptcy,
+3 insolvency, or the occurrence of an assignment for the benefit of
+4 creditors;
+5 (f) A material violation of the manufacturer-dealer agreement by the
+6 manufacturer that is not cured within one hundred twenty days after
+7 written notice that is provided by the dealer to the headquarters of the
+8 manufacturer;
+9 (g) Coercion of the dealer by the manufacturer or distributor; and
+10 (h) A violation by the manufacturer or distributor of the area of
+11 sales responsibility specified in the manufacturer-dealer agreement or
+12 allowing other dealers to violate such area of sales responsibility.
+13 Sec. 15. (1) This section applies to any termination action that is
+14 initiated when a manufacturer terminates without good cause or a dealer
+15 terminates with good cause:
+16 (a) Not in accordance with section 13 of this act by a manufacturer
+17 or distributor;
+18 (b) Pursuant to subsection (3) of section 13 of this act; or
+19 (c) Pursuant to section 14 of this act.
+20 (2) At the election of the dealer and within forty-five days after
+21 the date of the termination action, the manufacturer or distributor shall
+22 repurchase:
+23 (a) All new, untitled recreational vehicles that were acquired by
+24 the dealer from the manufacturer or distributor within the eighteen-month
+25 period prior to the date of the termination action. Any such recreational
+26 vehicles shall not have not been used except for demonstration purposes
+27 and shall not have not been altered. Such recreational vehicles shall be
+28 purchased at one hundred percent of the original net invoice cost,
+29 including transportation and less applicable rebates and discounts
+30 provided to the dealer. If any such recreational vehicle that is
+31 repurchased is damaged prior to purchase, the repurchase amount due to
+-13-
+
+LB1121 LB1121
+2026 2026
+1 the dealer shall be reduced by the cost to repair such damaged
+2 recreational vehicle;
+3 (b) All undamaged accessories and proprietary parts sold to the
+4 dealer by the manufacturer or distributor for resale within the twelve-
+5 month period prior to the date of the termination action. Any such
+6 accessories and proprietary parts shall be accompanied by their original
+7 invoice. Such accessories and parts shall be repurchased at one hundred
+8 five percent of the original net invoice price; and
+9 (c) Any properly functioning diagnostic equipment, special tools,
+10 current signage, and other equipment and machinery, that (i) was
+11 originally purchased by the dealer within five years before the date of
+12 the termination action, (ii) was originally purchased upon the
+13 manufacturer's or distributor's request, and (iii) can no longer be used
+14 in the normal course of the dealer's ongoing business. The manufacturer
+15 or distributor shall pay to the dealer one hundred percent of the net
+16 cost that the dealer paid to acquire such equipment, tools, signage, and
+17 machinery. The manufacturer or distributor shall reimburse the dealer for
+18 any freight, destination, delivery, and distribution charges and sales
+19 taxes, if any, related to the original purchase and the repurchase of
+20 such equipment, tools, signage, and machinery.
+21 (3) Any repurchased recreational vehicle shall be paid for in full
+22 before such recreational vehicle is removed from the dealer's premises.
+23 After payment in full and upon the request of the manufacturer or
+24 distributor, such recreational vehicle shall be immediately surrendered
+25 to the manufacturer or distributor.
+26 Sec. 16. Notwithstanding any other provision of the Recreational
+27 Vehicle Industry Regulation Act, if any recreational vehicle of a model
+28 or line-make that is the subject of a termination agreement is not
+29 repurchased or required to be repurchased by the manufacturer or
+30 distributor, a dealer may sell the remaining inventory of such model or
+31 line-make or any accessory or part for such model or line-make that such
+-14-
+
+LB1121 LB1121
+2026 2026
+1 dealer has in stock.
+2 Sec. 17. (1) Prior to entering a new manufacturer-dealer agreement
+3 to sell a same line-make, a dealer shall provide written notice to each
+4 manufacturer and distributor with which the dealer has a manufacturer-
+5 dealer agreement.
+6 (2) Such written notice shall:
+7 (a) Be provided to the headquarters of the manufacturer or
+8 distributor at least thirty days prior to entering the new manufacturer-
+9 dealer agreement;
+10 (b) Specify that the dealer will be entering a new manufacturer-
+11 dealer agreement;
+12 (c) Specify the line-make that is the subject of the new
+13 manufacturer-dealer agreement; and
+14 (d) Specify the length of time that the new manufacturer-dealer
+15 agreement will be effective.
+16 Sec. 18. A manufacturer-dealer agreement that has been renewed
+17 shall not require additional inventory stocking requirements or increased
+18 retail sales targets in excess of the market growth in the dealer's area
+19 of sales responsibility.
+20 Sec. 19. (1) A dealer shall provide written notice to each
+21 manufacturer and distributor with which the manufacturer is currently
+22 under a manufacturer-dealer agreement that such dealer intends to change
+23 ownership by any manner, including the sale of assets of the dealer and a
+24 stock transfer. Such written notice shall be provided at least ten
+25 business days before the change of ownership to the headquarters of each
+26 such manufacturer and distributor.
+27 (2)(a) Within three business days after receiving a written notice
+28 under this section, a manufacturer or distributor may request the dealer
+29 to provide any supporting documentation that is required by the
+30 manufacturer or distributor to determine if such manufacturer or
+31 distributor will object to the change in ownership.
+-15-
+
+LB1121 LB1121
+2026 2026
+1 (b) Any such requested supporting documentation shall be provided by
+2 the dealer within three business days after receiving the request for
+3 such supporting documentation.
+4 Sec. 20. (1) A manufacturer or distributor shall not object to a
+5 change in ownership of a dealer unless:
+6 (a) The change in ownership would breach the manufacturer-dealer
+7 agreement;
+8 (b) The dealer failed to provide any requested supporting
+9 documentation under section 19 of this act;
+10 (c) The prospective transferee:
+11 (i) Has been terminated for cause in a termination action initiated
+12 by the manufacturer under a previous manufacturer-dealer agreement;
+13 (ii) Has been convicted of a felony or any crime of fraud, deceit,
+14 or moral turpitude;
+15 (iii) Lacks any license necessary to own and operate the dealership
+16 under the Recreational Vehicle Industry Regulation Act;
+17 (iv) Does not have an active line of credit that is sufficient to
+18 purchase the manufacturer's or distributor's products under the
+19 manufacturer-dealer agreement; or
+20 (v) Within the ten years prior to the date of receipt of the written
+21 notice provided under section 19 of this act, has undergone bankruptcy,
+22 insolvency, a general assignment for the benefit of creditors, or the
+23 appointment of a receiver, trustee, or conservator to take possession of
+24 the transferee's business or property; or
+25 (d) If the prospective transferee is a family member of the dealer,
+26 such family member intends to do any of the following without the consent
+27 of the manufacturer or distributor:
+28 (i) Relocate the dealership to any location; or
+29 (ii) Alter the terms or conditions of the manufacturer-dealer
+30 agreement.
+31 (2) If the manufacturer or distributor objects to a change of
+-16-
+
+LB1121 LB1121
+2026 2026
+1 ownership, the manufacturer or distributor shall provide written notice
+2 of its reasons for the objection to the dealer within seven business days
+3 after receipt of the written notification provided by the dealer under
+4 section 19 of this act. The manufacturer or distributor has the burden of
+5 proof with regard to its objection.
+6 (3) If a manufacturer or distributor does not object to the change
+7 in ownership pursuant to this section, the change in ownership shall be
+8 deemed approved by such manufacturer or distributor.
+9 Sec. 21. A warrantor shall:
+10 (1) Specify a dealer's obligations, if any, for preparation,
+11 delivery, and consumer care on products that are under warranty by the
+12 warrantor. Any such obligations shall be specified in writing;
+13 (2) Compensate a dealer for consumer care that is (i) performed by
+14 such dealer and (ii) covered by a warranty issued by the warrantor;
+15 (3) Create a schedule of compensation and provide such schedule to
+16 each dealer that is authorized by the warrantor to perform warranty
+17 service; and
+18 (4) Whenever the warrantor modifies a schedule of compensation,
+19 provide such updated schedule of compensation to each dealer that is
+20 authorized by the warrantor to perform warranty service.
+21 Sec. 22. (1) A schedule of compensation that is created or modified
+22 by a warrantor shall include the:
+23 (a) Reasonable compensation that will be paid by the warrantor to
+24 the dealer for performing consumer care. Such compensation shall not be
+25 less than the lowest retail labor rate actually charged by the dealer in
+26 the ordinary course of business for like nonwarranty consumer care; and
+27 (b) Reasonable time allowances for the performance of consumer care.
+28 (2)(a) Any particular consumer care that is performed by a dealer
+29 and that is not included in a schedule of compensation shall be paid by
+30 the warrantor at the actual time expended to complete the consumer care.
+31 (b) A warrantor may dispute a payment required by subdivision (a) of
+-17-
+
+LB1121 LB1121
+2026 2026
+1 this subsection. A warrantor that disputes any such payment shall:
+2 (i) Demonstrate that the actual time claimed by the dealer to
+3 perform the consumer care was not reasonable; and
+4 (ii) Pay the dealer a reasonable sum for the performance of the
+5 consumer care.
+6 (c) The burden of proof for any dispute under this subsection lies
+7 with the warrantor.
+8 Sec. 23. A dealer that replaces a warranty part shall be paid the
+9 following by the warrantor that issued the warranty for such warranty
+10 part:
+11 (1) The actual wholesale cost paid by the dealer for the warranty
+12 part;
+13 (2) A handling charge equal to the lesser amount of:
+14 (a) Thirty percent of the actual wholesale cost paid by the dealer
+15 for the warranty part. If a part is sent to the dealer at no cost, the
+16 warrantor shall pay to the dealer an amount equal to thirty percent of
+17 the wholesale cost of the part; or
+18 (b) Three hundred dollars; and
+19 (3) The freight cost to ship to the warrantor the part that was
+20 replaced, if the warrantor requests for such part to be shipped to the
+21 warrantor.
+22 Sec. 24. A warrantor may ship parts to the dealer so that such
+23 dealer will be able to carry out factory campaign work. If such parts are
+24 in excess of a dealer's requirements, the dealer may return the unused
+25 parts to the warrantor for credit after completion of the factory
+26 campaign.
+27 Sec. 25. A dealer shall notify the warrantor as soon as reasonably
+28 possible, verbally or in writing, if the dealer is unable or unwilling to
+29 perform material or repetitive consumer care.
+30 Sec. 26. (1) A warrantor may conduct a warranty audit of any dealer
+31 that requests warranty compensation from the warrantor.
+-18-
+
+LB1121 LB1121
+2026 2026
+1 (2) A warrantor may conduct such warranty audits for any number of
+2 such dealers, but not more often for each such dealer than three months
+3 since the last warranty audit conducted by such warrantor.
+4 Sec. 27. (1) A dealer shall submit a warranty compensation claim
+5 within forty-five days after completing consumer care relating to the
+6 compensation claim. Such claim shall be in the manner and form prescribed
+7 by the warrantor.
+8 (2) A request by a dealer for payment of warranty compensation shall
+9 not be denied except for cause, including performance of nonwarranty
+10 repairs, material noncompliance with the warrantor's published policies
+11 and procedures, lack of material documentation, fraud, and
+12 misrepresentation.
+13 (3) A warrantor shall provide written notice to the dealer for any
+14 warranty claim that the warrantor denies. Such written notice shall be
+15 provided to the headquarters of the dealer within forty-five days after
+16 the date of submission for payment of warranty compensation by the
+17 dealer.
+18 (4) Any claim that is not denied pursuant to subsection (3) of this
+19 section shall be deemed to be approved and shall be paid within sixty
+20 days after the date of submission for payment of warranty compensation by
+21 the dealer.
+22 Sec. 28. A warrantor shall not:
+23 (1) Fail to perform any of its warranty obligations;
+24 (2) Fail to include, in any written notice of a factory campaign
+25 that is provided to any recreational vehicle owner or dealer, the
+26 expected date when necessary parts and equipment, including tires,
+27 chassis, and chassis parts, will be available to dealers to perform
+28 factory campaign work;
+29 (3) Fail to compensate a dealer for authorized consumer care that
+30 was completed by the dealer relating to merchandise that was damaged:
+31 (a) During the manufacturing process; or
+-19-
+
+LB1121 LB1121
+2026 2026
+1 (b) During transit to the dealer, if the carrier that provided
+2 transit was designated by the warrantor, factory branch, distributor, or
+3 distributor branch;
+4 (4) Fail to compensate a dealer for authorized warranty service in
+5 accordance with the time allowances set forth in the schedule of
+6 compensation, if such warranty service was performed in a timely and
+7 competent manner;
+8 (5) Intentionally misrepresent in any way to any purchaser of a
+9 recreational vehicle that any warranty with respect to the manufacture,
+10 performance, or design of the recreational vehicle is made by the dealer
+11 as a warrantor or co-warrantor; or
+12 (6) Require the dealer to make any warranty to any customer in any
+13 manner related to the manufacture of a recreational vehicle.
+14 Sec. 29. A dealer shall not:
+15 (1) Fail to perform predelivery inspection functions, as specified
+16 by the warrantor, in a competent and timely manner;
+17 (2) Fail to perform warranty service that is authorized by a
+18 warrantor in a reasonably competent and timely manner on any transient
+19 customer's recreational vehicle if such recreational vehicle is the same
+20 line-make sold by the dealer. This subdivision does not apply if the
+21 dealer determines that the transient customer is acting in a manner
+22 detrimental to the dealer's business;
+23 (3) Fail to track actual time expended to perform warranty service
+24 that is not governed by time allowances in the schedule of compensation;
+25 (4) Claim an agency relationship with a warrantor or a manufacturer;
+26 or
+27 (5) Misrepresent the terms of any warranty.
+28 Sec. 30. (1)(a) Except as provided in subdivision (d) of this
+29 subsection, a warrantor shall not fail to indemnify, defend, and hold
+30 harmless a dealer that performed warranty service on behalf of such
+31 warrantor against any loss or damage to the extent such loss or damage
+-20-
+
+LB1121 LB1121
+2026 2026
+1 was caused by the negligence or willful misconduct of such warrantor.
+2 (b) Except as provided in subdivision (d) of this subsection, such
+3 dealer shall not be denied indemnification by such warrantor or a defense
+4 against such warrantor for failing to discover, disclose, or remedy a
+5 defect in the design or manufacturing of a recreational vehicle.
+6 (c) Such dealer shall provide to such warrantor a copy of the
+7 complaint in any legal proceeding in which any allegation is made that
+8 relates to warranty service described in this subsection. Such copy shall
+9 be provided to the headquarters of such warrantor within ten calendar
+10 days after such dealer receives such complaint.
+11 (d) Subdivisions (a) and (b) of this subsection do not apply for a
+12 legal proceeding if a dealer does not comply with subdivision (c) of this
+13 subsection.
+14 (2)(a) Except as provided in subdivision (c) of this subsection, a
+15 dealer shall not fail to indemnify, defend, and hold harmless a warrantor
+16 for which the dealer performed warranty service against any loss or
+17 damage to the extent such loss or damage was caused by the negligence or
+18 willful misconduct of such dealer.
+19 (b) Except as provided in subdivision (c) of this subsection, such
+20 warrantor shall provide to such dealer a copy of the complaint in any
+21 legal proceeding in which any allegation is made that relates to warranty
+22 service described in this subsection. Such copy shall be provided to the
+23 headquarters of such dealer within ten calendar days after such warrantor
+24 receives such complaint.
+25 (c) Subdivision (a) of this subsection does not apply for a legal
+26 proceeding if a warrantor does not comply with subdivision (b) of this
+27 subsection.
+28 (3) Indemnification under this section includes court costs,
+29 reasonable attorney's fees, and expert witness fees.
+30 Sec. 31. (1) If a new recreational vehicle is damaged prior to
+31 transit to a dealer or is damaged in transit to a dealer and the carrier
+-21-
+
+LB1121 LB1121
+2026 2026
+1 or means of transportation was selected by the manufacturer or
+2 distributor, the dealer shall notify the manufacturer or distributor of
+3 the damage within the timeframe specified in the manufacturer-dealer
+4 agreement and:
+5 (a) Request authorization from the manufacturer or distributor to
+6 replace or correct any component, part, or accessory that was damaged; or
+7 (b) Not take delivery of the recreational vehicle.
+8 (2) The ownership of a new recreational vehicle described in
+9 subsection (1) of this section reverts to the manufacturer or distributor
+10 if:
+11 (a) A dealer requests authorization under subdivision (1)(a) of this
+12 section and the manufacturer or distributor refuses or fails to make such
+13 authorization within ten business days after receiving the notification
+14 described in subsection (1) of this section; or
+15 (b) The dealer does not take delivery of the recreational vehicle.
+16 (3) A dealer that takes custody of a recreational vehicle described
+17 in subsection (1) of this section shall exercise due care with such
+18 recreational vehicle, but such dealer shall have no other obligations,
+19 financial or otherwise, with respect to such recreational vehicle.
+20 (4)(a) For purposes of this subsection, unreasonable amount of miles
+21 means any amount determined by the dealer that is not less than the sum
+22 of:
+23 (i) For recreational vehicles delivered from a manufacturer, one
+24 hundred miles plus the shortest distance over paved roads beginning at
+25 the location where the recreational vehicle was manufactured and ending
+26 at the dealership location; or
+27 (ii) For recreational vehicles delivered from a distributor, one
+28 hundred miles plus the shortest distance over paved roads beginning from
+29 the location where the recreational vehicle was manufactured, through the
+30 location of the distributor, and ending at the dealership location.
+31 (b) A dealer may choose to not take delivery of any new recreational
+-22-
+
+LB1121 LB1121
+2026 2026
+1 vehicle if the odometer for such recreational vehicle indicates an
+2 unreasonable amount of miles. The ownership of such recreational vehicle
+3 shall revert to the manufacturer or distributor.
+4 Sec. 32. (1) For purposes of this section, coerce includes, but is
+5 not limited to:
+6 (a) Threatening to initiate a termination action or not renew a
+7 manufacturer-dealer agreement without good cause;
+8 (b) Threatening to withhold any product as an inducement to amending
+9 the manufacturer-dealer agreement; and
+10 (c) Delaying the delivery of any product as an inducement to
+11 amending the manufacturer-dealer agreement.
+12 (2) A manufacturer or distributor shall not coerce or attempt to
+13 coerce any dealer to:
+14 (a) Purchase any product that the dealer did not order;
+15 (b) Enter into any agreement with the manufacturer or distributor;
+16 (c) Take any action that is unfair or unreasonable to the dealer;
+17 (d) Enter into any agreement that requires the dealer to submit to
+18 binding arbitration or otherwise waive any right or responsibility
+19 provided under the Recreational Vehicle Industry Regulation Act; or
+20 (e) Forego exercising a right authorized by a manufacturer-dealer
+21 agreement or any law governing the manufacturer, distributor, or dealer.
+22 (3) The dealer bears the burden of proof regarding any coercive
+23 action by a manufacturer or distributor that is prohibited under this
+24 section.
+25 Sec. 33. (1)(a) A dealer, manufacturer, distributor, or warrantor
+26 that is injured by a violation of the Recreational Vehicle Industry
+27 Regulation Act may bring a civil action to recover actual damages.
+28 (b) Venue for any civil action under this section shall be brought:
+29 (i) If only one dealer is a party to the civil action, in the county
+30 court of the county where the dealership is located;
+31 (ii) If more than one dealer is a party to the civil action, in any
+-23-
+
+LB1121 LB1121
+2026 2026
+1 county court of a county where a dealer that is a party to the action is
+2 located; or
+3 (iii) If no party to the civil action is a dealer, in any county
+4 court with relevant jurisdiction.
+5 (c) The court shall award attorney's fees and costs to the
+6 prevailing party in such action.
+7 (2)(a) Before bringing a civil action under this section, the party
+8 that is bringing the civil action for an alleged violation shall serve a
+9 written demand for mediation upon the offending party.
+10 (b) The demand for mediation shall be served upon the offending
+11 party via certified mail at the address:
+12 (i) Stated within the manufacturer-dealer agreement between the
+13 parties;
+14 (ii) If there is no manufacturer-dealer agreement between the
+15 parties or if the address described in subdivision (b)(i) of this
+16 subsection does not exist or is no longer valid, the address specified by
+17 the offending party in such party's license application under the
+18 Recreational Vehicle Industry Regulation Act.
+19 (c) The demand for mediation shall contain a brief statement of the
+20 dispute and the relief sought by the party serving the demand.
+21 (d) Within twenty days after the date a demand for mediation is
+22 served upon the offending party, the parties shall mutually select an
+23 independent mediator and meet with the mediator for the purpose of
+24 attempting to resolve the dispute. The meeting place shall be in this
+25 state in a location selected by the mediator. The mediator may extend the
+26 date of the mediation for good cause shown by either party or upon
+27 stipulation of both parties.
+28 (e) The service of a demand for mediation under this subsection
+29 stays any statute of limitations or statute of repose for the filing of
+30 any complaint, petition, protest, or action under the Recreational
+31 Vehicle Industry Regulation Act until representatives of all parties have
+-24-
+
+LB1121 LB1121
+2026 2026
+1 met with a mutually selected mediator for the purpose of attempting to
+2 mediate the dispute. If a complaint, petition, protest, or action is
+3 filed before such mediation, the court shall enter an order suspending
+4 the proceeding or action until the mediation has occurred and may, upon
+5 written stipulation of all parties to the proceeding or action that the
+6 parties wish to continue to mediate under this subsection, enter an order
+7 suspending the proceeding or action until a date that the court considers
+8 appropriate. A suspension order issued under this subdivision may be
+9 revoked by the court.
+10 (f) The parties to the mediation shall bear their own costs for
+11 attorney's fees and divide equally the cost of the mediator.
+12 Sec. 34. (1)(a) A dealer, manufacturer, distributor, or warrantor
+13 may bring a civil action in county court to seek injunctive relief
+14 relating to a violation or a potential violation of the Recreational
+15 Vehicle Industry Regulation Act or a manufacturer-dealer agreement.
+16 (b) Venue for any civil action under this section shall be brought:
+17 (i) If only one dealer is a party to the civil action, in the county
+18 court of the county where the dealership is located;
+19 (ii) If more than one dealer is a party to the civil action, in any
+20 county court of a county where a dealer that is a party to the action is
+21 located; or
+22 (iii) If no party to the civil action is a dealer, in any county
+23 court with relevant jurisdiction.
+24 (2) After a hearing and if cause has been shown, the court may issue
+25 a temporary or permanent injunction, or both, that restrains any person
+26 from violating the Recreational Vehicle Industry Regulation Act or a
+27 manufacturer-dealer agreement.
+28 (3) Such injunction shall be issued without bond.
+29 (4) A single act in violation of the Recreational Vehicle Industry
+30 Regulation Act is sufficient to authorize the issuance of an injunction
+31 under this section.
+-25-
+
+LB1121 LB1121
+2026 2026
+1 Sec. 35. (1) The board may suspend or revoke the license of any
+2 licensee under the Recreational Vehicle Industry Regulation Act upon a
+3 finding that any such licensee has violated the Recreational Vehicle
+4 Industry Regulation Act.
+5 (2) The board may impose and collect a civil penalty against any
+6 licensee if the board finds that such licensee has violated the
+7 Recreational Vehicle Industry Regulation Act. Such civil penalty shall
+8 not exceed one thousand dollars for each violation of the Recreational
+9 Vehicle Industry Regulation Act. All civil penalties received by the
+10 board shall be remitted to the State Treasurer for distribution in
+11 accordance with Article VII, section 5, of the Constitution of Nebraska.
+12 (3) Any suspension, revocation, or imposition under this section may
+13 be appealed by the licensee pursuant to the Administrative Procedure Act.
+14 Sec. 36. Section 60-1402, Reissue Revised Statutes of Nebraska, is
+15 amended to read:
+16 60-1402 (1) The There is hereby established the Nebraska Motor
+17 Vehicle Industry Licensing Board is created.
+18 (2) The Board which shall consist of the Director of Motor Vehicles,
+19 who shall be the chairperson of the board, and the following eleven nine
+20 members appointed by the Governor as follows:
+21 (a) One factory representative; ,
+22 (b) One one member of the general public; ,
+23 (c) One and one motorcycle dealer; , all of whom shall be appointed
+24 from the state at large,
+25 (d) One one new motor vehicle dealer from each of the three
+26 congressional districts of the state as the districts existed are
+27 constituted on October 19, 1963; ,
+28 (e) Two and two used motor vehicle dealers. Not and one trailer
+29 dealer or combination motor vehicle or trailer dealer, not more than one
+30 used motor vehicle dealer shall be being appointed from the same
+31 congressional district as such districts existed they are constituted on
+-26-
+
+LB1121 LB1121
+2026 2026
+1 October 19, 1963; ,
+2 (f) One and the trailer dealer or combination motor vehicle or
+3 trailer dealer; being appointed from the state at large.
+4 (g) One recreational vehicle dealer that is licensed under the
+5 Recreational Vehicle Industry Regulation Act; and
+6 (h) One recreational vehicle manufacturer that is licensed under the
+7 Recreational Vehicle Industry Regulation Act.
+8 (3) No member of the board shall participate in any manner in a
+9 proceeding before the board involving his or her licensed business.
+10 (4)(a) (2) On October 19, 1963, the Governor shall appoint a new
+11 motor vehicle dealer and a trailer dealer or combination motor vehicle or
+12 trailer dealer to the board. In making the appointments, the Governor
+13 shall appoint one of the new members for one year and one for two years
+14 as designated by the Governor in making the appointments.
+15 (b) On January 1, 1972, the Governor shall appoint one factory
+16 representative and one member of the general public to the board,
+17 designating one to serve for a term of one year and one for a term of two
+18 years.
+19 (c) On January 1, 1974, the Governor shall appoint one motorcycle
+20 dealer to serve for a term of three years.
+21 (d) No later than January 1, 2027, the Governor shall appoint the
+22 members described in subdivisions (2)(g) and (h) of this section. Such
+23 members shall be appointed for terms of three years. Such three-year
+24 terms shall begin on January 1, 2027.
+25 (5)(a) At the expiration of the term of any appointed member of the
+26 board, the Governor shall appoint a successor for a term of three years.
+27 (b) In the event of a vacancy on the board, the Governor shall fill
+28 such vacancy by appointing a member to serve during the unexpired term of
+29 the member whose office has become vacant.
+30 (c) No member appointed shall serve more than two consecutive terms.
+31 (6) The action of the majority of the members of the board shall be
+-27-
+
+LB1121 LB1121
+2026 2026
+1 deemed the action of the board.
+2 (7) All appointments made to the board, except the Director of Motor
+3 Vehicles, shall be confirmed by the Legislature if in session. In the
+4 event the Legislature is not in session all appointments including
+5 appointments to fill a vacancy shall be temporary appointments until the
+6 next meeting of the Legislature when the Governor shall nominate some
+7 person to fill the office. Any person so nominated who is confirmed by
+8 the Legislature shall hold office during the remainder of the term.
+9 (8) No appointed person may act as a member of the board while
+10 holding any other elective or appointive state or federal office except
+11 the Director of Motor Vehicles.
+12 (9) All appointed members of the board shall be paid fifty dollars
+13 for each day actually engaged in the performance of their duties and be
+14 entitled to their reasonable traveling expenses in the performance of
+15 their duties.
+16 Sec. 37. Section 60-1438.01, Revised Statutes Cumulative Supplement,
+17 2024, is amended to read:
+18 60-1438.01 (1) For purposes of this section, manufacturer or
+19 distributor includes (a) a factory representative or a distributor
+20 representative or (b) a person who is affiliated with a manufacturer or
+21 distributor or who, directly or indirectly through an intermediary, is
+22 controlled by, or is under common control with, the manufacturer or
+23 distributor. A person is controlled by a manufacturer or distributor if
+24 the manufacturer or distributor has the authority directly or indirectly,
+25 by law or by agreement of the parties, to direct or influence the
+26 management and policies of the person. A franchise agreement with a
+27 Nebraska-licensed dealer which conforms to and is subject to the Motor
+28 Vehicle Industry Regulation Act is not control for purposes of this
+29 section.
+30 (2) Except as provided in this section, a manufacturer or
+31 distributor shall not directly or indirectly:
+-28-
+
+LB1121 LB1121
+2026 2026
+1 (a) Own an interest in a franchise, franchisee, or consumer care or
+2 service facility, except that a manufacturer or distributor may hold
+3 stock in a publicly held franchise, franchisee, or consumer care or
+4 service facility so long as the manufacturer or distributor does not by
+5 virtue of holding such stock operate or control the franchise,
+6 franchisee, or consumer care or service facility;
+7 (b) Operate or control a franchise, franchisee, or consumer care or
+8 service facility;
+9 (c) Act in the capacity of a franchisee or motor vehicle dealer; or
+10 (d) Own, operate, or control any consumer care or service facility
+11 or perform warranty or nonwarranty work on any vehicle manufactured by
+12 such manufacturer or distributor, unless such manufacturer or
+13 distributor:
+14 (i) Manufactures and distributes electric vehicles; and
+15 (ii) Is not nor has ever been a franchisor in this state.
+16 (3) A manufacturer or distributor may own an interest in a
+17 franchisee or otherwise control a franchise for a period not to exceed
+18 twelve months after the date the manufacturer or distributor acquires the
+19 franchise if:
+20 (a) The person from whom the manufacturer or distributor acquired
+21 the franchise was a franchisee; and
+22 (b) The franchise is for sale by the manufacturer or distributor.
+23 (4) For purposes of broadening the diversity of its franchisees and
+24 enhancing opportunities for qualified persons who lack the resources to
+25 purchase a franchise outright, but for no other purpose, a manufacturer
+26 or distributor may temporarily own an interest in a franchise if the
+27 manufacturer's or distributor's participation in the franchise is in a
+28 bona fide relationship with a franchisee and the franchisee:
+29 (a) Has made a significant investment in the franchise, which
+30 investment is subject to loss;
+31 (b) Has an ownership interest in the franchise; and
+-29-
+
+LB1121 LB1121
+2026 2026
+1 (c) Operates the franchise under a plan to acquire full ownership of
+2 the franchise within a reasonable time and under reasonable terms and
+3 conditions.
+4 (5) On a showing of good cause by a manufacturer or distributor, the
+5 board may extend the time limit set forth in subsection (3) of this
+6 section. An extension may not exceed twelve months. An application for an
+7 extension after the first extension is granted is subject to protest by a
+8 franchisee of the same line-make whose franchise is located in the same
+9 community as the franchise owned or controlled by the manufacturer or
+10 distributor.
+11 (6) The prohibition in subdivision (2)(b) of this section shall not
+12 apply to any manufacturer of manufactured housing , recreational
+13 vehicles, or trailers.
+14 (7) The prohibitions set forth in subsection (2) of this section
+15 shall not apply to a manufacturer that:
+16 (a) Does not own or operate more than two such dealers or dealership
+17 locations in this state;
+18 (b) Owned, operated, or controlled a warranty repair or service
+19 facility in this state as of January 1, 2016;
+20 (c) Manufactures engines for installation in a motor-driven vehicle
+21 with a gross vehicle weight rating of more than sixteen thousand pounds
+22 for which motor-driven vehicle evidence of title is required as a
+23 condition precedent to registration under the laws of this state, if the
+24 manufacturer is not otherwise a manufacturer of motor vehicles; and
+25 (d) Provides to dealers on substantially equal terms access to all
+26 support for completing repairs, including, but not limited to, parts and
+27 assemblies, training and technical service bulletins, and other
+28 information concerning repairs that the manufacturer provides to
+29 facilities owned, operated, or controlled by the manufacturer.
+30 Sec. 38. Section 60-2701, Reissue Revised Statutes of Nebraska, is
+31 amended to read:
+-30-
+
+LB1121 LB1121
+2026 2026
+1 60-2701 As used in sections 60-2701 to 60-2709, unless the context
+2 otherwise requires:
+3 (1) Consumer means shall mean the purchaser, other than for purposes
+4 of resale, of a motor vehicle normally used for personal, family,
+5 household, or business purposes, any person to whom such motor vehicle is
+6 transferred for the same purposes during the duration of an express
+7 warranty applicable to such motor vehicle, and any other person entitled
+8 by the terms of such warranty to enforce the obligations of the warranty;
+9 (2) Motor vehicle means shall mean a new motor vehicle as defined in
+10 section 60-1401.30 that which is sold in this state, excluding
+11 recreational vehicles as defined in section 4 of this act section 60-347;
+12 and
+13 (3) Manufacturer's express warranty means shall mean the written
+14 warranty, so labeled, of the manufacturer of a new motor vehicle.
+15 Sec. 39. Section 71-4603, Revised Statutes Cumulative Supplement,
+16 2024, is amended to read:
+17 71-4603 For purposes of the Uniform Standard Code for Manufactured
+18 Homes and Recreational Vehicles, unless the context otherwise requires:
+19 (1) Camping trailer means a vehicular portable unit mounted on
+20 wheels and constructed with collapsible partial side walls which fold for
+21 towing by another vehicle and unfold at the campsite to provide temporary
+22 living quarters for recreational, camping, or travel use;
+23 (2) Commission means the Public Service Commission;
+24 (3) Dealer means any of the following a person licensed by the state
+25 pursuant to the Motor Vehicle Industry Regulation Act as a dealer in
+26 manufactured homes or recreational vehicles or any other person, other
+27 than a manufacturer, who sells, offers to sell, distributes, or leases
+28 manufactured homes or recreational vehicles primarily to persons who in
+29 good faith purchase or lease a manufactured home or recreational vehicle
+30 for purposes other than resale: ;
+31 (a) A person licensed by the state pursuant to the Motor Vehicle
+-31-
+
+LB1121 LB1121
+2026 2026
+1 Industry Regulation Act as a dealer in manufactured homes;
+2 (b) A person licensed by the state pursuant to the Recreational
+3 Vehicle Industry Regulation Act as a dealer in recreational vehicles; or
+4 (c) Any other person, other than a manufacturer;
+5 (4) Defect means a failure to conform to an applicable construction
+6 standard that renders the manufactured home or recreational vehicle or
+7 any component of the manufactured home or recreational vehicle not fit
+8 for the ordinary use for which it was intended but does not result in an
+9 unreasonable risk of injury or death to occupants;
+10 (5) Distributor means any person engaged in the sale and
+11 distribution of manufactured homes or recreational vehicles for resale;
+12 (6) Failure to conform means a defect, a serious defect,
+13 noncompliance, or an imminent safety hazard related to the code;
+14 (7) Fifth-wheel trailer means a unit mounted on wheels, designed to
+15 provide temporary living quarters for recreational, camping, or travel
+16 use, of such size or weight as not to require a special highway movement
+17 permit, and designed to be towed by a motorized vehicle that contains a
+18 towing mechanism that is mounted above or forward of the tow vehicle's
+19 rear axle;
+20 (8) Gross trailer area means the total plan area measured on the
+21 exterior to the maximum horizontal projections of exterior wall in the
+22 setup mode and includes all siding, corner trims, moldings, storage
+23 spaces, expandable room sections regardless of height, and areas enclosed
+24 by windows but does not include roof overhangs. Storage lofts contained
+25 within the basic unit shall have ceiling heights less than five feet and
+26 shall not constitute additional square footage. Appurtenances, as defined
+27 in subdivision (2)(k) of section 60-6,288, shall not be considered in
+28 calculating the gross trailer area as provided in such subdivision;
+29 (9) Imminent safety hazard means a hazard that presents an imminent
+30 and unreasonable risk of death or severe personal injury;
+31 (10) Manufactured home means a structure, transportable in one or
+-32-
+
+LB1121 LB1121
+2026 2026
+1 more sections, which in the traveling mode is eight body feet or more in
+2 width or forty body feet or more in length or when erected on site is
+3 three hundred twenty or more square feet and which is built on a
+4 permanent chassis and designed to be used as a dwelling with or without a
+5 permanent foundation when connected to the required utilities and
+6 includes the plumbing, heating, air conditioning, and electrical systems
+7 contained in the structure, except that manufactured home includes any
+8 structure that meets all of the requirements of this subdivision other
+9 than the size requirements and with respect to which the manufacturer
+10 voluntarily files a certification required by the United States Secretary
+11 of Housing and Urban Development and complies with the standards
+12 established under the National Manufactured Housing Construction and
+13 Safety Standards Act of 1974, as such act existed on September 1, 2001,
+14 42 U.S.C. 5401 et seq.;
+15 (11) Manufactured-home construction means all activities relating to
+16 the assembly and manufacture of a manufactured home, including, but not
+17 limited to, activities relating to durability, quality, and safety;
+18 (12) Manufactured-home safety means the performance of a
+19 manufactured home in such a manner that the public is protected against
+20 any unreasonable risk of the occurrence of accidents due to the design or
+21 construction of such manufactured home or any unreasonable risk of death
+22 or injury to the user or to the public if such accidents do occur;
+23 (13) Manufacturer means any person engaged in manufacturing,
+24 assembling, or completing manufactured homes or recreational vehicles;
+25 (14) Motor home means a vehicular unit primarily designed to provide
+26 temporary living quarters which are built into an integral part of, or
+27 permanently attached to, a self-propelled motor vehicle chassis or van,
+28 containing permanently installed independent life-support systems that
+29 meet the state standard for recreational vehicles and providing at least
+30 four of the following facilities: Cooking; refrigeration or ice box;
+31 self-contained toilet; heating, air conditioning, or both; a potable
+-33-
+
+LB1121 LB1121
+2026 2026
+1 water supply system including a faucet and sink; separate one-hundred-
+2 twenty-nominal-volt electrical power supply; or LP gas supply;
+3 (15) Noncompliance means a failure to comply with an applicable
+4 construction standard that does not constitute a defect, a serious
+5 defect, or an imminent safety hazard;
+6 (16) Park model recreational vehicle means a vehicular unit which
+7 meets the following criteria:
+8 (a) Is designed and marketed as temporary living quarters for
+9 recreational, camping, travel, or seasonal use;
+10 (b) Is not permanently affixed to real property for use as a
+11 permanent dwelling;
+12 (c) Is built on a single chassis mounted on wheels with a gross
+13 trailer area not exceeding four hundred square feet in the set up mode;
+14 and
+15 (d) Is certified by the manufacturer as complying with the ANSI
+16 A119.5 Park Model Recreational Vehicle Standard of the American National
+17 Standards Institute, 2020 edition;
+18 (17) Person means any individual, partnership, limited liability
+19 company, company, corporation, or association engaged in manufacturing,
+20 selling, offering to sell, or leasing manufactured homes or recreational
+21 vehicles;
+22 (18) Purchaser means the first person purchasing a manufactured home
+23 or recreational vehicle in good faith for purposes other than resale;
+24 (19) Recreational vehicle means a vehicular type unit primarily
+25 designed as temporary living quarters for recreational, camping, or
+26 travel use, which unit either has its own motive power or is mounted on
+27 or towed by another vehicle. Recreational vehicle includes, but is not
+28 limited to, travel trailer, park model recreational vehicle, camping
+29 trailer, truck camper, motor home, and van conversion;
+30 (20) Seal means a device or insignia issued by the Department of
+31 Health and Human Services Regulation and Licensure prior to May 1, 1998,
+-34-
+
+LB1121 LB1121
+2026 2026
+1 or by the Public Service Commission on or after May 1, 1998, to be
+2 displayed on the exterior of a manufactured home or recreational vehicle
+3 to evidence compliance with state standards. The federal manufactured-
+4 home label shall be recognized as a seal;
+5 (21) Serious defect means a failure to conform to an applicable
+6 construction standard that renders the manufactured home or recreational
+7 vehicle or any component of the manufactured home or recreational vehicle
+8 not fit for the ordinary use for which it was intended and which results
+9 in an unreasonable risk of injury or death to the occupants;
+10 (22) Travel trailer means a vehicular unit mounted on wheels,
+11 designed to provide temporary living quarters for recreational, camping,
+12 or travel use of such size or weight as not to require special highway
+13 movement permits when towed by a motorized vehicle;
+14 (23) Truck camper means a portable unit constructed to provide
+15 temporary living quarters for recreational, travel, or camping use,
+16 consisting of a roof, floor, and sides and designed to be loaded onto and
+17 unloaded from the bed of a pickup truck; and
+18 (24) Van conversion means a completed vehicle permanently altered
+19 cosmetically, structurally, or both which has been recertified by the
+20 state as a multipurpose passenger vehicle but which does not conform to
+21 or otherwise meet the definition of a motor home in this section and
+22 which contains at least one plumbing, heating, or one-hundred-twenty-
+23 nominal-volt electrical component subject to the provisions of the state
+24 standard for recreational vehicles. Van conversion does not include any
+25 such vehicle that lacks any plumbing, heating, or one-hundred-twenty-
+26 nominal-volt electrical system but contains an extension of the low-
+27 voltage automotive circuitry.
+28 Sec. 40. This act becomes operative on October 1, 2026.
+29 Sec. 41. Original sections 60-1402 and 60-2701, Reissue Revised
+30 Statutes of Nebraska, and sections 60-1438.01 and 71-4603, Revised
+31 Statutes Cumulative Supplement, 2024, are repealed.
+-35-

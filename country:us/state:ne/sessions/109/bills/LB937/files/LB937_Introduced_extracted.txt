@@ -1,0 +1,413 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LB937 LB937
+2026 2026
+LEGISLATURE OF NEBRASKA
+ONE HUNDRED NINTH LEGISLATURE
+SECOND SESSION
+LEGISLATIVE BILL 937
+Introduced by Education Committee: Murman, 38, Chairperson; Conrad, 46;
+Juarez, 5; Lonowski, 33; Meyer, G., 17; Sanders, 45.
+Read first time January 09, 2026
+Committee: Education
+1 A BILL FOR AN ACT relating to education; to amend sections 79-239,
+2 79-308, 79-528, 79-816, 79-8,113, 79-8,114, 79-1035, 79-11,157.01,
+3 79-3407, 79-3703, and 79-3704, Reissue Revised Statutes of Nebraska;
+4 to change provisions relating to option enrollment, reading
+5 deficiency, and dyslexia reporting; to repeal obsolete provisions
+6 relating to grants for an evaluation model and funding from solar or
+7 wind agreements on school lands; to change reporting deadlines; to
+8 repeal obsolete provisions relating to learning community levies; to
+9 change provisions relating to the Nebraska Teacher Apprenticeship
+10 Program; to change provisions relating to the Teacher Recruitment
+11 and Retention Act; to define terms; to change provisions relating to
+12 the College Pathway Program Act; to harmonize provisions; to repeal
+13 the original sections; and to outright repeal sections 79-309.01 and
+14 79-718, Reissue Revised Statutes of Nebraska.
+15 Be it enacted by the people of the State of Nebraska,
+-1-
+
+LB937 LB937
+2026 2026
+1 Section 1. Section 79-239, Reissue Revised Statutes of Nebraska, is
+2 amended to read:
+3 79-239 (1) If an application is rejected by the option school
+4 district or if the resident school district rejects a request for release
+5 under subsection (1) of section 79-237, the rejecting school district
+6 shall provide written notification to the parent or guardian stating (a)
+7 the specific reasons for the rejection including, for students with an
+8 individualized education program under the federal Individuals with
+9 Disabilities Education Act, 20 U.S.C. 1400 et seq., or with a diagnosed
+10 disability as defined in section 79-1118.01, a description of services
+11 and accommodations required that the school district does not have the
+12 capacity to provide, and (b) the process for appealing such rejection to
+13 the State Board of Education. Such notification shall be sent by
+14 certified mail.
+15 (2) The parent or legal guardian may appeal a rejection to the State
+16 Board of Education by filing a written request, together with a copy of
+17 the rejection notice, with the State Board of Education. Such request and
+18 copy of the notice must be received by the board within thirty days after
+19 the date the notification of the rejection was received by the parent or
+20 legal guardian. Such hearing shall be held in accordance with the
+21 Administrative Procedure Act and shall determine whether the procedures
+22 of sections 79-234 to 79-241 have been followed. Any rejection based upon
+23 capacity limitations established under section 79-238 shall be the
+24 responsibility of the school district to prove in any appeal filed with
+25 the state board.
+26 (3)(a) As part of the end-of-the-school-year annual statistical
+27 summary required pursuant to section 79-528, Beginning July 1, 2024, and
+28 on or before July 1 of each year thereafter, each school district shall
+29 provide to the State Department of Education information prescribed by
+30 the Commissioner of Education relating to all applications received
+31 pursuant to section 79-237 rejected by the option school district. Such
+-2-
+
+LB937 LB937
+2026 2026
+1 information shall include, but not be limited to, (a) the number of
+2 applications approved and the number of applications rejected by in each
+3 public school in such school district, (b) an explanation why each
+4 rejected application was rejected, (c) whether each application for
+5 option enrollment indicated that the student had an individualized
+6 education program under the federal Individuals with Disabilities
+7 Education Act, 20 U.S.C. 1400 et seq., or had been identified as a
+8 student with a disability as defined in section 79-1118.01, and (d) if
+9 the school district is in a learning community, whether information
+10 regarding the requirements of subsection (4) of section 79-238 was
+11 provided to the applicant.
+12 (b) The Commissioner of Education shall annually compile the
+13 information received pursuant to this subsection and provide a report on
+14 such information electronically to the Legislature beginning on September
+15 1, 2024, and on or before September 1 of each year thereafter. The State
+16 Board of Education may adopt and promulgate rules and regulations to
+17 carry out this subsection.
+18 Sec. 2. Section 79-308, Reissue Revised Statutes of Nebraska, is
+19 amended to read:
+20 79-308 (1) The Commissioner of Education shall organize institutes
+21 and conferences at such times and places as he or she deems practicable.
+22 He or she shall, as far as practicable, attend such institutes and
+23 conferences, provide proper instructors for the same, and in other ways
+24 seek to improve the efficiency of teachers and advance the cause of
+25 education in the state.
+26 (2) The Legislature finds that (a) an educator-effectiveness system
+27 includes a quality evaluation system with the primary goal of improving
+28 instruction and learning in every school district and (b) school
+29 districts have an opportunity to receive training on the quality
+30 evaluation models.
+31 (3) Beginning with the 2016-17 school year through the 2020-21
+-3-
+
+LB937 LB937
+2026 2026
+1 school year, school districts may apply to the State Department of
+2 Education for grant funding for a period of up to two years to implement
+3 an evaluation model for effective educators and to obtain the necessary
+4 training for administrators and teachers for such model.
+5 Sec. 3. Section 79-528, Reissue Revised Statutes of Nebraska, is
+6 amended to read:
+7 79-528 (1)(a) On or before October 15 July 20 in all school
+8 districts, the superintendent shall file with the State Department of
+9 Education a report showing the number of children from five through
+10 eighteen years of age belonging to the school district according to the
+11 census taken as provided in sections 79-524 and 79-578.
+12 (b) The board of any district neglecting to take and report the
+13 enumeration shall be liable to the school district for all school money
+14 which such district may lose by such neglect.
+15 (2) On or before June 30 the superintendent of each school district
+16 shall file with the Commissioner of Education a report described as an
+17 end-of-the-school-year annual statistical summary showing (a) the number
+18 of children attending school during the year under five years of age, (b)
+19 the length of time the school has been taught during the year by a
+20 qualified teacher, (c) the length of time taught by each substitute
+21 teacher, (d) information regarding option enrollment applications as
+22 required under subdivision (3)(a) of section 79-239, (e) information
+23 regarding children who display deficiencies in reading as required under
+24 subsection (1) of section 79-11,157.01, and (f) (d) such other
+25 information as the Commissioner of Education directs.
+26 (3) On or before November 1 the superintendent of each school
+27 district shall submit to the Commissioner of Education a report described
+28 as the annual financial report showing (a) (i) the amount of money
+29 received from all sources during the year and the amount of money
+30 expended by the school district during the year, (b) (ii) the amount of
+31 bonded indebtedness, (c) (iii) such other information as shall be
+-4-
+
+LB937 LB937
+2026 2026
+1 necessary to fulfill the requirements of the Tax Equity and Educational
+2 Opportunities Support Act and section 79-1114, and (d) (iv) such other
+3 information as the Commissioner of Education directs.
+4 (4)(a) On or before October 15 of each year, the superintendent of
+5 each school district shall file with the commissioner the fall school
+6 district membership report, which report shall include the number of
+7 children from birth through twenty years of age enrolled in the district
+8 on October 1 of a given school year. The report shall enumerate (i)
+9 students by grade level, (ii) school district levies and total assessed
+10 valuation for the current fiscal year, (iii) students enrolled in the
+11 district as option students, resident students enrolled in another
+12 district as option students, students enrolled in the district as open
+13 enrollment students, and resident students enrolled in another district
+14 as open enrollment students, and (iv) such other information as the
+15 Commissioner of Education directs.
+16 (b) On or before October 15 of each year prior to 2017, each
+17 learning community coordinating council shall issue to the department a
+18 report which enumerates the learning community levies pursuant to
+19 subdivision (2)(b) of section 77-3442 and total assessed valuation for
+20 the current fiscal year.
+21 (b) (c) When any school district fails to submit its fall membership
+22 report by November 1, the commissioner shall, after notice to the
+23 district and an opportunity to be heard, direct that any state aid
+24 granted pursuant to the Tax Equity and Educational Opportunities Support
+25 Act be withheld until such time as the report is received by the
+26 department. In addition, the commissioner shall direct the county
+27 treasurer to withhold all school money belonging to the school district
+28 until such time as the commissioner notifies the county treasurer of
+29 receipt of such report. The county treasurer shall withhold such money.
+30 Sec. 4. Section 79-816, Reissue Revised Statutes of Nebraska, is
+31 amended to read:
+-5-
+
+LB937 LB937
+2026 2026
+1 79-816 (1) The State Department of Education shall create and
+2 administer the Nebraska Teacher Apprenticeship Program. The purpose of
+3 the program is to help recruit and increase the number of teachers
+4 throughout the state by utilizing an apprenticeship model for training.
+5 The program shall provide for an applicant who successfully completes the
+6 program to obtain a certificate or permit issued by the Commissioner of
+7 Education. The department may work with standard institutions of higher
+8 education as defined in section 79-807, the Department of Labor, and
+9 other entities the State Department of Education deems necessary to
+10 develop and implement the program.
+11 (2) An individual may apply for participation in the program if the
+12 individual (a) is an employee of a school approved or accredited by the
+13 State Department of Education or (b) has a contract to begin working for
+14 a school approved or accredited by the State Department of Education at
+15 the start of the school year for which the individual is applying for
+16 participation in the program.
+17 (3) The department shall determine requirements for completion of
+18 the program by an applicant. The requirements shall include, but need not
+19 be limited to:
+20 (a) The completion of a one-year apprenticeship in a classroom;
+21 (b) A baccalaureate degree from a standard institution of higher
+22 education; and
+23 (c) Successful completion of a subject area examination as
+24 determined by the Commissioner of Education and pedagogy examination
+25 created by the department as part of the program.
+26 (4) The Commissioner of Education shall issue a certificate to teach
+27 as set forth pursuant to the rules and regulations adopted and
+28 promulgated pursuant to sections 79-806 to 79-815 to an applicant who
+29 successfully completes the program.
+30 (5) It is the intent of the Legislature to appropriate one million
+31 dollars for fiscal year 2023-24 and each fiscal year thereafter from the
+-6-
+
+LB937 LB937
+2026 2026
+1 Education Future Fund to the State Department of Education for the
+2 program.
+3 Sec. 5. Section 79-8,113, Reissue Revised Statutes of Nebraska, is
+4 amended to read:
+5 79-8,113 For purposes of the Nebraska Teacher Recruitment and
+6 Retention Act:
+7 (1) Department means the State Department of Education;
+8 (2) Dual enrollment means a course taught to students for credit at
+9 both a high school and a postsecondary institution;
+10 (3) (2) Grant means a grant for teacher recruitment and retention
+11 payments under the Nebraska Teacher Recruitment and Retention Act; and
+12 (4) (3) Teacher means a person who holds a valid certificate to
+13 teach in Nebraska issued by the Commissioner of Education and is employed
+14 in Nebraska for the instruction of students in elementary or high school
+15 grades.
+16 Sec. 6. Section 79-8,114, Reissue Revised Statutes of Nebraska, is
+17 amended to read:
+18 79-8,114 (1) A teacher may apply to the department for a grant. The
+19 department shall not prioritize a grant based upon the school where the
+20 applicant teaches.
+21 (2) A teacher is eligible to apply for:
+22 (a) A retention one grant of two thousand five hundred dollars if
+23 the teacher has signed a contract to complete such teacher's second
+24 complete school year of full-time employment as a teacher at a Nebraska
+25 school in school year 2023-24, 2024-25, 2025-26, or 2026-27;
+26 (b) A retention two grant of two thousand five hundred dollars if
+27 the teacher has signed a contract to complete such teacher's fourth
+28 complete school year of full-time employment as a teacher at a Nebraska
+29 school in school year 2023-24, 2024-25, 2025-26, or 2026-27;
+30 (c) A retention three grant of two thousand five hundred dollars if
+31 the teacher has signed a contract to complete such teacher's sixth
+-7-
+
+LB937 LB937
+2026 2026
+1 complete school year of full-time employment as a teacher at a Nebraska
+2 school in school year 2023-24, 2024-25, 2025-26, or 2026-27; and
+3 (d)(i) A high-need retention grant of five thousand dollars if on or
+4 after June 2, 2023, a teacher:
+5 (A) Obtains an endorsement in special education, mathematics,
+6 science, or technology , or dual credit; and (B)(I) For an application
+7 submitted prior to April 17, 2024, signs a contract to complete a school
+8 year of full-time employment as a teacher at a Nebraska school in school
+9 year 2024-25, 2025-26, or 2026-27; or (II) For an application submitted
+10 on or after April 17, 2024, signs a contract to complete a school year of
+11 full-time employment as a teacher to teach in such endorsement area at a
+12 Nebraska school in school year 2024-25, 2025-26, or 2026-27; or .
+13 (B) Signs a contract to complete a school year of full-time
+14 employment as a teacher at a Nebraska school in school year 2026-27 and
+15 teaches at least one dual enrollment course during such school year.
+16 (ii) A teacher shall only be eligible to receive one high-need
+17 retention grant.
+18 Sec. 7. Section 79-1035, Reissue Revised Statutes of Nebraska, is
+19 amended to read:
+20 79-1035 (1) (1)(a) The State Treasurer shall, on or before January
+21 25 of each year, make a complete exhibit of all money belonging to the
+22 permanent school fund and the temporary school fund as returned to him or
+23 her from the several counties, together with the amount derived from
+24 other sources, and deliver such exhibit duly certified to the
+25 Commissioner of Education and the chairperson of the Education Committee
+26 of the Legislature.
+27 (b) Through 2021, the exhibit required in subdivision (1)(a) of this
+28 section shall include a separate accounting, not to exceed an amount of
+29 ten million dollars, of the income from solar and wind agreements on
+30 school lands. The amount of income from solar and wind agreements on
+31 school lands shall be used to fund the grants described in section
+-8-
+
+LB937 LB937
+2026 2026
+1 79-308. The Board of Educational Lands and Funds shall provide the State
+2 Treasurer with the information necessary to make the exhibit required by
+3 this subsection. Separate accounting shall not be made for income from
+4 solar or wind agreements on school lands that exceeds the sum of ten
+5 million dollars.
+6 (2) On or before February 25 following receipt of the exhibit from
+7 the State Treasurer pursuant to subsection (1) of this section, the
+8 Commissioner of Education shall make the apportionment of the temporary
+9 school fund to each school district as follows: From the whole amount,
+10 there shall be paid to those districts in which there are school or
+11 saline lands, which lands are used for a public purpose, an amount in
+12 lieu of tax money that would be raised if such lands were taxable, to be
+13 fixed in the manner prescribed in section 79-1036; and the remainder
+14 shall be apportioned to the districts according to the pro rata
+15 enumeration of children who are five through eighteen years of age in
+16 each district last returned from the school district. The calculation of
+17 apportionment for each school fiscal year shall include any corrections
+18 to the prior school fiscal year's apportionment.
+19 (3) The Commissioner of Education shall certify the amount of the
+20 apportionment of the temporary school fund as provided in subsection (2)
+21 of this section to the Director of Administrative Services. The Director
+22 of Administrative Services shall issue payments to the various districts
+23 for the respective amounts so certified by the Commissioner of Education.
+24 (4) For purposes of this section, agreement means any lease,
+25 easement, covenant, or other such contractual arrangement.
+26 Sec. 8. Section 79-11,157.01, Reissue Revised Statutes of Nebraska,
+27 is amended to read:
+28 79-11,157.01 (1) As part of the end-of-the-school-year annual
+29 statistical summary required pursuant to section 79-528 On or before July
+30 1 of each year, each school district shall provide information in the
+31 manner to the State Department of Education, on forms prescribed by the
+-9-
+
+LB937 LB937
+2026 2026
+1 Commissioner of Education department, information relating to children in
+2 kindergarten through grade three who display deficiencies in reading,
+3 including, but not limited to, characteristics of dyslexia. Such
+4 information shall include, but not be limited to, the number of students
+5 in each public school in such district:
+6 (a) Tested for a specific learning disability in the area of
+7 reading, including tests that identify characteristics of dyslexia and
+8 the results of such tests;
+9 (b) Identified as having a reading issue, including dyslexia,
+10 pursuant to the assessment administered under the Nebraska Reading
+11 Improvement Act; and
+12 (c) Identified as described in subdivision (b) of this subsection
+13 that have shown growth on the measure used to identify the reading issue.
+14 (2) The Commissioner State Department of Education shall annually
+15 compile the information received pursuant to subsection (1) of this
+16 section and provide a report on such information electronically to the
+17 Legislature on or before September 1 of each year. Such report shall
+18 include, but not be limited to, the number of students who display
+19 deficiencies in reading, including, but not limited to, characteristics
+20 of dyslexia, by grade level in each school of the school district unless
+21 such information can be withheld under subsection (1) of section
+22 84-712.05.
+23 (3) The State Board of Education may adopt and promulgate rules and
+24 regulations to carry out this section.
+25 Sec. 9. Section 79-3407, Reissue Revised Statutes of Nebraska, is
+26 amended to read:
+27 79-3407 The department shall prepare documents to be submitted by
+28 school districts to aid the department in calculating each school
+29 district's property tax request authority and unused property tax request
+30 authority. Each school district shall submit such documents to the
+31 department on or before October 15 September 30 of each year. If a school
+-10-
+
+LB937 LB937
+2026 2026
+1 district fails to submit such documents to the department or if the
+2 department determines from such documents that a school district is not
+3 complying with the limits provided in the School District Property Tax
+4 Limitation Act, the department shall notify the school district of its
+5 determination. The Commissioner of Education shall then direct that any
+6 state aid granted pursuant to the Tax Equity and Educational
+7 Opportunities Support Act be withheld until such time as the school
+8 district submits the required documents or complies with the School
+9 District Property Tax Limitation Act. The state aid shall be held for six
+10 months. If the school district complies within the six-month period, it
+11 shall receive the suspended state aid. If the school district fails to
+12 comply within the six-month period, the suspended state aid shall revert
+13 to the General Fund.
+14 Sec. 10. Section 79-3703, Reissue Revised Statutes of Nebraska, is
+15 amended to read:
+16 79-3703 (1) The State Department of Education shall develop and
+17 administer the College Pathway Program to provide funds grants on or
+18 after July 1, 2024, to eligible providers to provide services in
+19 accordance with subsection (2) of this section to underrepresented and
+20 low-income students in high school and postsecondary education.
+21 (2) A provider is eligible for funding a grant pursuant to the
+22 College Pathway Program Act if the provider offers, exclusively to
+23 underrepresented and low-income students, educational services that
+24 provide materials, services, and supports to help a student graduate from
+25 high school, apply for admission to a postsecondary institution, and
+26 complete the requirements to receive an associate degree or a
+27 baccalaureate degree. Such educational services may include:
+28 (a) Assistance and tutorials which help students in completing
+29 applications for a college or university, including applying for aid
+30 through the Free Application for Federal Student Aid or other
+31 scholarships;
+-11-
+
+LB937 LB937
+2026 2026
+1 (b) Assistance and materials which help students take the
+2 appropriate high school classes in an area or field of study a student is
+3 interested in and any classes necessary for a student to gain acceptance
+4 at a postsecondary institution or complete the requirements and take the
+5 appropriate postsecondary education classes to receive an associate
+6 degree or a baccalaureate degree; and
+7 (c) Any other services specified pursuant to rules and regulations
+8 adopted and promulgated by the State Board of Education.
+9 (3) Eligible providers may apply to the State Department of
+10 Education for funding a grant in a manner prescribed by the Commissioner
+11 of Education.
+12 Sec. 11. Section 79-3704, Reissue Revised Statutes of Nebraska, is
+13 amended to read:
+14 79-3704 (1) On or before December 1, 2024, and each December 1
+15 thereafter, the State Department of Education shall electronically submit
+16 a report to the Clerk of the Legislature regarding the College Pathway
+17 Program Act, including, but not limited to, the recipients of funding
+18 grants and evaluations of the effectiveness of the grant program.
+19 (2) The State Board of Education may adopt and promulgate rules and
+20 regulations to carry out the College Pathway Program Act.
+21 Sec. 12. Original sections 79-239, 79-308, 79-528, 79-816,
+22 79-8,113, 79-8,114, 79-1035, 79-11,157.01, 79-3407, 79-3703, and 79-3704,
+23 Reissue Revised Statutes of Nebraska, are repealed.
+24 Sec. 13. The following sections are outright repealed: Sections
+25 79-309.01 and 79-718, Reissue Revised Statutes of Nebraska.
+-12-

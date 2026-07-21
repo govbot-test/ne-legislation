@@ -1,0 +1,37 @@
+Title: 
+Official Title: 
+Source: versions - Slip Law
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LB207 LB207
+2026 2026
+LEGISLATIVE BILL 207
+Approved by the Governor February 9, 2026
+Introduced by von Gillern, 4.
+A BILL FOR AN ACT relating to motor vehicles; to amend section 60-3,191,
+Revised Statutes Cumulative Supplement, 2024; to provide a fee for certain
+commercially registered alternative fuel vehicles; and to repeal the
+original section.
+Be it enacted by the people of the State of Nebraska,
+Section 1. Section 60-3,191, Revised Statutes Cumulative Supplement, 2024,
+is amended to read:
+60-3,191 (1) In addition to any other fee required under the Motor Vehicle
+Registration Act, a fee for registration of each motor vehicle powered by an
+alternative fuel shall be charged. The fee shall be:
+(a) For one hundred fifty dollars, except that for a motorcycle or plug-in
+hybrid electric vehicle, the fee shall be seventy-five dollars; .
+(b) For any commercially registered alternative fuel vehicle that is not
+registered pursuant to section 60-3,198 and that has a gross weight of more
+than seven thousand five hundred pounds, three times the applicable fee for
+other motor vehicles powered by an alternative fuel as described in subdivision
+(1)(c) of this section; or
+(c) For any other motor vehicle powered by an alternative fuel, one
+hundred fifty dollars.
+(2) The fee shall be collected by the county treasurer and remitted to the
+State Treasurer for credit to the Highway Trust Fund.
+Sec. 2. Original section 60-3,191, Revised Statutes Cumulative
+Supplement, 2024, is repealed.
+-1-

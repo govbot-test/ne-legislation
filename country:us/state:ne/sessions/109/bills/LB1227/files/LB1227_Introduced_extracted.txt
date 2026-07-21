@@ -1,0 +1,193 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LB1227 LB1227
+2026 2026
+LEGISLATURE OF NEBRASKA
+ONE HUNDRED NINTH LEGISLATURE
+SECOND SESSION
+LEGISLATIVE BILL 1227
+Introduced by Andersen, 49; Clouse, 37; Kauth, 31; Lonowski, 33;
+Sorrentino, 39.
+Read first time January 21, 2026
+Committee: Urban Affairs
+1 A BILL FOR AN ACT relating to energy; to amend sections 81-1618 and
+2 81-2125, Reissue Revised Statutes of Nebraska, and section 71-6406,
+3 Revised Statutes Supplement, 2025; to change requirements for a
+4 county, city, or village to adopt local energy codes or to adopt or
+5 enforce local electrical codes; to define a term; to harmonize
+6 provisions; and to repeal the original sections.
+7 Be it enacted by the people of the State of Nebraska,
+-1-
+
+LB1227 LB1227
+2026 2026
+1 Section 1. Section 71-6406, Revised Statutes Supplement, 2025, is
+2 amended to read:
+3 71-6406 (1)(a) Any county, city, or village may enact, administer,
+4 or enforce a local building or construction code if or as long as such
+5 county, city, or village:
+6 (i) Adopts the state building code; or
+7 (ii) Adopts a building or construction code that conforms generally
+8 with the state building code.
+9 (b) If a county, city, or village does not adopt a code as
+10 authorized under subdivision (a) of this subsection within two years
+11 after an update to the state building code, the state building code shall
+12 apply in the county, city, or village, except that such code shall not
+13 apply to construction on a farm or for farm purposes.
+14 (2) A local building or construction code shall be deemed to conform
+15 generally with the state building code if it:
+16 (a) Adopts a special or differing building standard by amending,
+17 modifying, or deleting any portion of the state building code in order to
+18 reduce unnecessary costs of construction, increase safety, durability, or
+19 efficiency, establish best building or construction practices within the
+20 county, city, or village, or address special local conditions within the
+21 county, city, or village;
+22 (b) Adopts any supplement, new edition, appendix, or component or
+23 combination of components of the state building code;
+24 (c) Adopts any of the following:
+25 (i) Section 305 or 310 of the 2018 edition of the International
+26 Building Code without the exceptions described in subdivision (1)(a) of
+27 section 71-6403;
+28 (ii) Section 101.4.3 or any portion of chapter 29 of the 2018
+29 edition of the International Building Code;
+30 (iii) Section R313 or any portion of chapters 25 through 33 of the
+31 2018 edition of the International Residential Code; or
+-2-
+
+LB1227 LB1227
+2026 2026
+1 (iv) Section 809 of the 2018 edition of the International Existing
+2 Building Code;
+3 (d) Adopts a plumbing code, an electrical code, a fire prevention
+4 code, or any other standard code as authorized under section 14-419,
+5 15-905, 18-132, or 23-172;
+6 (e) Adopts a local energy code as authorized under section 81-1618;
+7 or
+8 (f) Adopts minimum standards for radon resistant new construction
+9 which meet the minimum standards adopted under section 76-3504.
+10 (3) A local building or construction code shall not be deemed to
+11 conform generally with the state building code if it:
+12 (a) Includes a prior edition of any component or combination of
+13 components of the state building code; or
+14 (b) Does not include minimum standards for radon resistant new
+15 construction that meet the minimum standards adopted under section
+16 76-3504.
+17 (4) A county, city, or village shall notify the Department of Water,
+18 Energy, and Environment if it amends or modifies its local building or
+19 construction code in such a way as to delete any portion of (a) chapter
+20 13 of the 2018 edition of the International Building Code or (b) chapter
+21 11 of the 2018 edition of the International Residential Code. The
+22 notification shall be made within thirty days after the adoption of such
+23 amendment or modification.
+24 (5) A county, city, or village shall not adopt or enforce a local
+25 electrical code that provides standards that are different than those
+26 prescribed by the State Electrical Board pursuant to the State Electrical
+27 Act, except that a county, city, or village may provide for the
+28 inspection of electrical installations by a certified electrical
+29 inspector.
+30 (6) (5) A county, city, or village shall not adopt or enforce a
+31 local building or construction code other than as provided by this
+-3-
+
+LB1227 LB1227
+2026 2026
+1 section.
+2 (7) (6) A county, city, or village which adopts or enforces a local
+3 building or construction code under this section shall regularly update
+4 its code. For purposes of this section, a code shall be deemed to be
+5 regularly updated if the most recently enacted state building code or a
+6 code that conforms generally with the state building code is adopted by
+7 the county, city, or village within two years after an update to the
+8 state building code.
+9 (8) (7) A county, city, or village may adopt amendments for the
+10 proper administration and enforcement of its local building or
+11 construction code including organization of enforcement, qualifications
+12 of staff members, examination of plans, inspections, appeals, permits,
+13 and fees. Any amendment adopted pursuant to this section shall be
+14 published separately from the local building or construction code. Any
+15 local building or construction code adopted under subdivision (1)(a) of
+16 this section or the state building code if applicable under subdivision
+17 (1)(b) of this section shall be the legally applicable code regardless of
+18 whether the county, city, or village has provided for the administration
+19 or enforcement of its local building or construction code under this
+20 subsection.
+21 (9) (8) A county, city, or village which adopts one or more standard
+22 codes as part of its local building or construction code under this
+23 section shall keep at least one copy of each adopted code, or portion
+24 thereof, for use and examination by the public in the office of the clerk
+25 of the county, city, or village prior to the adoption of the code and as
+26 long as such code is in effect.
+27 (10) (9) Notwithstanding the provisions of the Building Construction
+28 Act, a public building of any political subdivision shall be built in
+29 accordance with the applicable local building or construction code. Fees,
+30 if any, for services which monitor a builder's application of codes shall
+31 be negotiable between the political subdivisions involved, but such fees
+-4-
+
+LB1227 LB1227
+2026 2026
+1 shall not exceed the actual expenses incurred by the county, city, or
+2 village doing the monitoring.
+3 Sec. 2. Section 81-1618, Reissue Revised Statutes of Nebraska, is
+4 amended to read:
+5 81-1618 (1) Any county, city, or village may adopt and enforce a
+6 local energy code. Prior to adopting any new local energy codes a county,
+7 city, or village shall determine whether the new local energy code is
+8 cost efficient. A county, city, or village shall not adopt a new local
+9 energy code such county, city, or village determines is not cost-
+10 efficient. Such local energy code shall be deemed equivalent to the
+11 Nebraska Energy Code if it does not result in energy consumption greater
+12 than would result from the strict application of the Nebraska Energy Code
+13 and is reasonably consistent with the intent of sections 81-1608 to
+14 81-1626. Any building or portion thereof subject to the jurisdiction of
+15 and inspected by such county, city, or village shall be deemed to comply
+16 with sections 81-1608 to 81-1626 if it meets the standards of such local
+17 energy code. Such county, city, or village may by ordinance or resolution
+18 prescribe a schedule of fees sufficient to pay the costs incurred
+19 pursuant to sections 81-1608 to 81-1626.
+20 (2) Any county, city, or village which adopts and enforces a local
+21 energy code may waive a specific requirement of the Nebraska Energy Code
+22 when meeting such requirement is not economically justified. The local
+23 code authority shall submit to the department its analysis for
+24 determining that a specific requirement is not justified. The department
+25 shall review such analysis and transmit its findings and conclusions to
+26 the local code authority within a reasonable time. The local code
+27 authority shall submit to the department its explanation as to how the
+28 original code or any revised code addresses the issues raised by the
+29 department. After a local code authority has submitted such explanation,
+30 the authority may proceed to enforce its local energy code.
+31 (3) For purposes of this section, cost efficient means that the
+-5-
+
+LB1227 LB1227
+2026 2026
+1 expected increase in costs to implement the local energy code for new
+2 buildings is less than the expected energy cost savings in such buildings
+3 over five years. Expected costs shall be based on the energy impact
+4 studies published by the Department of Water, Energy, and Environment.
+5 Sec. 3. Section 81-2125, Reissue Revised Statutes of Nebraska, is
+6 amended to read:
+7 81-2125 (1) State inspection shall not apply within the jurisdiction
+8 of any county, city, or village which provides by resolution or ordinance
+9 standards of electrical wiring and its installation that are not less
+10 than those prescribed by the board or by the State Electrical Act and
+11 which further provides by resolution or ordinance for the inspection of
+12 electrical installations within the limits of such subdivision by a
+13 certified electrical inspector. No person other than the holder of an
+14 electrical inspector's certificate of qualification shall be appointed to
+15 act as electrical inspector and to enforce the act as electrical
+16 inspector and to enforce the act or any applicable resolution or
+17 ordinance within his or her jurisdiction. A copy of the certificate of
+18 each electrical inspector shall be provided to the board by the political
+19 subdivision issuing the certificate.
+20 (2) State inspection shall not apply to routine maintenance.
+21 Sec. 4. Original sections 81-1618 and 81-2125, Reissue Revised
+22 Statutes of Nebraska, and section 71-6406, Revised Statutes Supplement,
+23 2025, are repealed.
+-6-

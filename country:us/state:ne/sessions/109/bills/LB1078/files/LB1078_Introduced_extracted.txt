@@ -1,0 +1,103 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LB1078 LB1078
+2026 2026
+LEGISLATURE OF NEBRASKA
+ONE HUNDRED NINTH LEGISLATURE
+SECOND SESSION
+LEGISLATIVE BILL 1078
+Introduced by Dungan, 26.
+Read first time January 15, 2026
+Committee: Banking, Commerce and Insurance
+1 A BILL FOR AN ACT relating to data; to adopt the Fair Online Pricing Act.
+2 Be it enacted by the people of the State of Nebraska,
+-1-
+
+LB1078 LB1078
+2026 2026
+1 Section 1. Sections 1 to 5 of this act shall be known and may be
+2 cited as the Fair Online Pricing Act.
+3 Sec. 2. For purposes of the Fair Online Pricing Act:
+4 (1) Coupon means any method by which a consumer receives a discount
+5 on the purchase of any item that is funded, produced, sponsored,
+6 promoted, or furnished, either directly or indirectly, by a business,
+7 including any paper coupon, digital coupon, or instant redeemable coupon;
+8 (2) Discount means any reduction from the regular or advertised
+9 price offered to consumers on a temporary or conditional basis;
+10 (3) Hardware state means a condition or mode of existence of a
+11 system, component, or simulation, including the battery life of, number
+12 of wireless connections detected by, hardware performance characteristics
+13 of, and age of the device, and data that is erased or retained when an
+14 online device is restarted or powered down; and
+15 (4) Online device means a physical object that has built-in
+16 resources that allow it to communicate through the Internet or a short-
+17 range wireless technology and react to interface conditions, including
+18 any laptop computer, desktop computer, tablet, smartphone, or other smart
+19 hardware.
+20 Sec. 3. (1) A price offered to a consumer through the consumer's
+21 online device shall not be generated in whole, or in part, based on any
+22 of the following input data:
+23 (a) The hardware or hardware state of the online device. This
+24 subdivision (a) does not prohibit the generation of a price offered to a
+25 consumer based on the hardware or hardware state of the online device for
+26 the following purposes:
+27 (i) Any repair or maintenance of the online device; or
+28 (ii) Calculating a trade-in value of the online device;
+29 (b) The presence or absence of any software on the online device; or
+30 (c) Geolocation data of the online device, when used to set a price
+31 based on inferences about the consumer made from such data. This
+-2-
+
+LB1078 LB1078
+2026 2026
+1 subdivision (c) does not prohibit the use of geolocation data of the
+2 online device and the consumer's location to generate a price for any
+3 reason that is not specified in this subdivision (c), including:
+4 (i) To determine pricing based on the real-time demand for the
+5 product or service in the consumer's vicinity, if the product or service
+6 is provided immediately upon request; or
+7 (ii) To provide accurate pricing information based on price
+8 variances at different physical locations, due to legitimate cost
+9 differentials associated with providing a good or service to different
+10 consumers or state or local government taxes, duties, or other fees
+11 imposed by any state or local government on the transaction.
+12 (2) The Fair Online Pricing Act does not prohibit any coupon;
+13 discount; or other bona fide rebate, sale, or promotion that:
+14 (a) Is separate from the price of any good or service;
+15 (b) Reduces the price of any good or service;
+16 (c) Is issued or offered to the general public on the same terms;
+17 and
+18 (d) Does not incorporate input data as specified in subsection (1)
+19 of this section.
+20 Sec. 4. (1) A person who violates the Fair Online Pricing Act is
+21 liable for a civil penalty in an amount not to exceed ten thousand
+22 dollars for each violation.
+23 (2) The Attorney General may bring an action in the name of the
+24 State of Nebraska to:
+25 (a) Recover a civil penalty under this section;
+26 (b) Restrain or enjoin the person from violating the Fair Online
+27 Pricing Act; or
+28 (c) Recover the civil penalty and seek injunctive relief.
+29 (3) The Attorney General may recover reasonable attorney's fees and
+30 other reasonable expenses incurred in investigating and bringing an
+31 action under this section.
+-3-
+
+LB1078 LB1078
+2026 2026
+1 (4) All money collected under this section shall be remitted to the
+2 State Treasurer for distribution in accordance with Article VII, section
+3 5, of the Constitution of Nebraska.
+4 Sec. 5. The duties and obligations imposed by the Fair Online
+5 Pricing Act are cumulative with any other duties or obligations imposed
+6 under other law and shall not be construed to relieve any party from any
+7 duty or obligation that is imposed under other law, including any duty or
+8 obligation that is related to the accurate advertising, displaying, or
+9 offering of prices.
+-4-

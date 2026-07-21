@@ -1,0 +1,46 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LB1219 LB1219
+2026 2026
+LEGISLATURE OF NEBRASKA
+ONE HUNDRED NINTH LEGISLATURE
+SECOND SESSION
+LEGISLATIVE BILL 1219
+Introduced by Brandt, 32.
+Read first time January 21, 2026
+Committee: Revenue
+1 A BILL FOR AN ACT relating to revenue and taxation; to limit the amount
+2 of property taxes that may be levied by a political subdivision as
+3 prescribed; and to define terms.
+4 Be it enacted by the people of the State of Nebraska,
+-1-
+
+LB1219 LB1219
+2026 2026
+1 Section 1. (1) Beginning January 1, 2027, and notwithstanding the
+2 Property Tax Growth Limitation Act and the School District Property Tax
+3 Limitation Act, the total amount of property taxes that may be levied by
+4 a political subdivision in any year shall not exceed the total amount
+5 levied in the prior year by more than the allowable growth percentage.
+6 (2) For purposes of this section:
+7 (a) Allowable growth percentage means a percentage equal to the sum
+8 of (i) two percent plus (ii) the political subdivision's real growth
+9 percentage;
+10 (b) Real growth percentage means the percentage obtained by dividing
+11 (i) the political subdivision's real growth value by (ii) the political
+12 subdivision's total property valuation from the prior year; and
+13 (c) Real growth value means the increase in a political
+14 subdivision's total property valuation from the prior year to the current
+15 year due to (i) improvements to real property as a result of new
+16 construction and additions to existing buildings, (ii) any other
+17 improvements to real property which increase the value of such property,
+18 (iii) annexation of real property by the political subdivision, (iv) a
+19 change in the use of real property, and (v) any increase in personal
+20 property valuation over the prior year.
+-2-
