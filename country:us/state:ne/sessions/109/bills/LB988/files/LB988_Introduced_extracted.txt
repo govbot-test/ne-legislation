@@ -1,0 +1,569 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LB988 LB988
+2026 2026
+LEGISLATURE OF NEBRASKA
+ONE HUNDRED NINTH LEGISLATURE
+SECOND SESSION
+LEGISLATIVE BILL 988
+Introduced by Meyer, G., 17; DeKay, 40; Hardin, 48; Lippincott, 34.
+Read first time January 12, 2026
+Committee: Urban Affairs
+1 A BILL FOR AN ACT relating to the Community Development Law; to amend
+2 sections 18-2143, 18-2148, 18-2150, and 18-2153, Reissue Revised
+3 Statutes of Nebraska, section 18-2117.01, Revised Statutes
+4 Cumulative Supplement, 2024, and sections 18-2101, 18-2103, and
+5 18-2147, Revised Statutes Supplement, 2025; to define and redefine
+6 terms; to change provisions related to redevelopment plans,
+7 interpretation of the law, and limitations on the division of ad
+8 valorem taxes; to provide for limitations on the declaration of
+9 blighted areas and the use of tax-increment financing; to harmonize
+10 provisions; and to repeal the original sections.
+11 Be it enacted by the people of the State of Nebraska,
+-1-
+
+LB988 LB988
+2026 2026
+1 Section 1. Section 18-2101, Revised Statutes Supplement, 2025, is
+2 amended to read:
+3 18-2101 Sections 18-2101 to 18-2158 and sections 9 to 12 of this act
+4 shall be known and may be cited as the Community Development Law.
+5 Sec. 2. Section 18-2103, Revised Statutes Supplement, 2025, is
+6 amended to read:
+7 18-2103 For purposes of the Community Development Law, unless the
+8 context otherwise requires:
+9 (1) Affordable housing means (a) workforce housing, (b) housing
+10 targeted for households earning less than one hundred fifty percent of
+11 the median income for the county in which such housing is located, or (c)
+12 housing under section 42 of the Internal Revenue Code;
+13 (2) Area of operation means and includes the area within the
+14 corporate limits of the city and such land outside the city as may come
+15 within the purview of sections 18-2123 and 18-2123.01;
+16 (3) Authority means any community redevelopment authority created
+17 pursuant to section 18-2102.01 and any community development agency
+18 created pursuant to section 18-2101.01 and does not include a limited
+19 community redevelopment authority;
+20 (4) Blighted area means an area (a) which, by reason of the presence
+21 of a substantial number of deteriorated or deteriorating structures,
+22 existence of defective or inadequate street layout, faulty lot layout in
+23 relation to size, adequacy, accessibility, or usefulness, insanitary or
+24 unsafe conditions, deterioration of site or other improvements, diversity
+25 of ownership, tax or special assessment delinquency exceeding the fair
+26 value of the land, defective or unusual conditions of title, improper
+27 subdivision, obsolete or no platting, or the existence of conditions
+28 which endanger life or property by fire and other causes, or any
+29 combination of such factors, substantially impairs or arrests the sound
+30 growth of the community, retards the provision of housing accommodations,
+31 or constitutes an economic or social liability and is detrimental to the
+-2-
+
+LB988 LB988
+2026 2026
+1 public health, safety, morals, or welfare in its present condition and
+2 use, and (b) in which there is at least one of the following conditions:
+3 (i) Unemployment in the designated area is at least one hundred twenty
+4 percent of the state or national average; (ii) the average age of the
+5 residential or commercial units in the area is at least forty years;
+6 (iii) more than half of the plotted and subdivided property in an area is
+7 unimproved land that has been within the city for forty years and has
+8 remained unimproved during that time; (iv) the per capita income of the
+9 area is lower than the average per capita income of the city or village
+10 in which the area is designated; (v) the area has had either stable or
+11 decreasing population based on the last two decennial censuses; or (vi)
+12 less than twenty percent of the housing in the area is affordable
+13 housing, and (c) which contains no less than one uninhabitable structure
+14 as determined by an inspector designated by the governing body or at
+15 least one recently demolished structure. An inspector may declare a
+16 structure permanently uninhabitable once the structure has been found to
+17 be (a) unstable and subject to collapse, in whole or in part, (b)
+18 allowing elemental intrusion, or (c) containing an unresolved safety
+19 hazard. In no event shall a city of the metropolitan, primary, or first
+20 class designate more than thirty-five percent of the city as blighted, a
+21 city of the second class shall not designate an area larger than fifty
+22 percent of the city as blighted, and a village shall not designate an
+23 area larger than one hundred percent of the village as blighted. A
+24 redevelopment project involving a formerly used defense site as
+25 authorized under section 18-2123.01, any area which is located within a
+26 good life district established under the Good Life Transformational
+27 Projects Act, and any area declared to be an extremely blighted area
+28 under section 18-2101.02 shall not count towards the percentage
+29 limitations contained in this subdivision;
+30 (5) Bonds means any bonds, including refunding bonds, notes, interim
+31 certificates, debentures, or other obligations issued pursuant to the
+-3-
+
+LB988 LB988
+2026 2026
+1 Community Development Law except for bonds issued pursuant to section
+2 18-2142.04;
+3 (6) Business means any private business located in an enhanced
+4 employment area;
+5 (7) City means any city or incorporated village in the state;
+6 (8) Clerk means the clerk of the city or village;
+7 (9) Community redevelopment area means a substandard and blighted
+8 area which the community redevelopment authority designates as
+9 appropriate for a redevelopment project;
+10 (10) Effective date of the redevelopment project means the date that
+11 a redevelopment project is approved by a majority vote of the governing
+12 body;
+13 (11) (10) Employee means a person employed at a business as a result
+14 of a redevelopment project;
+15 (12) (11) Employer-provided health benefit means any item paid for
+16 by the employer in total or in part that aids in the cost of health care
+17 services, including, but not limited to, health insurance, health savings
+18 accounts, and employer reimbursement of health care costs;
+19 (13) (12) Enhanced employment area means an area not exceeding six
+20 hundred acres (a) within a community redevelopment area which is
+21 designated by an authority as eligible for the imposition of an
+22 occupation tax or (b) not within a community redevelopment area as may be
+23 designated under section 18-2142.04;
+24 (14) (13) Equivalent employees means the number of employees
+25 computed by (a) dividing the total hours to be paid in a year by (b) the
+26 product of forty times the number of weeks in a year;
+27 (15) (14) Extremely blighted area means a substandard and blighted
+28 area in which: (a) The average rate of unemployment in the area during
+29 the period covered by the most recent American Community Survey 5-Year
+30 Estimate is at least two hundred percent of the average rate of
+31 unemployment in the state during the same period; and (b) the average
+-4-
+
+LB988 LB988
+2026 2026
+1 poverty rate in the area exceeds twenty percent for the total federal
+2 census tract or tracts or federal census block group or block groups in
+3 the area;
+4 (16) (15) Federal government means the United States of America, or
+5 any agency or instrumentality, corporate or otherwise, of the United
+6 States of America;
+7 (17) (16) Governing body or local governing body means the city
+8 council, board of trustees, or other legislative body charged with
+9 governing the municipality;
+10 (18) (17) Limited community redevelopment authority means a
+11 community redevelopment authority created pursuant to section 18-2102.01
+12 having only one single specific limited pilot project authorized;
+13 (19) (18) Mayor means the mayor of the city or chairperson of the
+14 board of trustees of the village;
+15 (20) (19) New investment means the value of improvements to real
+16 estate made in an enhanced employment area by a developer or a business;
+17 (21) (20) Number of new employees means the number of equivalent
+18 employees that are employed at a business as a result of the
+19 redevelopment project during a year that are in excess of the number of
+20 equivalent employees during the year immediately prior to the year that a
+21 redevelopment plan is adopted;
+22 (22) (21) Obligee means any bondholder, agent, or trustee for any
+23 bondholder, or lessor demising to any authority, established pursuant to
+24 section 18-2102.01, property used in connection with a redevelopment
+25 project, or any assignee or assignees of such lessor's interest or any
+26 part thereof, and the federal government when it is a party to any
+27 contract with such authority;
+28 (23) (22) Occupation tax means a tax imposed under section
+29 18-2142.02;
+30 (24) (23) Person means any individual, firm, partnership, limited
+31 liability company, corporation, company, association, joint-stock
+-5-
+
+LB988 LB988
+2026 2026
+1 association, or body politic and includes any trustee, receiver,
+2 assignee, or other similar representative thereof;
+3 (25) (24) Public body means the state or any municipality, county,
+4 township, board, commission, authority, district, or other political
+5 subdivision or public body of the state;
+6 (26) (25) Real property means all lands, including improvements and
+7 fixtures thereon, and property of any nature appurtenant thereto, or used
+8 in connection therewith, and every estate, interest and right, legal or
+9 equitable, therein, including terms for years and liens by way of
+10 judgment, mortgage, or otherwise, and the indebtedness secured by such
+11 liens;
+12 (27) (26) Redeveloper means any person, partnership, or public or
+13 private corporation or agency which enters or proposes to enter into a
+14 redevelopment contract;
+15 (28) (27) Redevelopment contract means a contract entered into
+16 between an authority and a redeveloper for the redevelopment of an area
+17 in conformity with a redevelopment plan;
+18 (29) (28) Redevelopment plan means a plan, as it exists from time to
+19 time for one or more community redevelopment areas, or for a
+20 redevelopment project, which (a) conforms to the general plan for the
+21 municipality as a whole and (b) is sufficiently complete to indicate such
+22 land acquisition, demolition and removal of structures, redevelopment,
+23 improvements, and rehabilitation as may be proposed to be carried out in
+24 the community redevelopment area, zoning and planning changes, if any,
+25 land uses, maximum densities, and building requirements;
+26 (30) (29) Redevelopment project means any work or undertaking in one
+27 or more community redevelopment areas: (a) To acquire substandard and
+28 blighted areas or portions thereof, including lands, structures, or
+29 improvements the acquisition of which is necessary or incidental to the
+30 proper clearance, development, or redevelopment of such substandard and
+31 blighted areas; (b) to clear any such areas by demolition or removal of
+-6-
+
+LB988 LB988
+2026 2026
+1 existing buildings, structures, streets, utilities, or other improvements
+2 thereon and to install, construct, or reconstruct streets, utilities,
+3 parks, playgrounds, public spaces, public parking facilities, sidewalks
+4 or moving sidewalks, convention and civic centers, bus stop shelters,
+5 lighting, benches or other similar furniture, trash receptacles,
+6 shelters, skywalks and pedestrian and vehicular overpasses and
+7 underpasses, enhancements to structures in the redevelopment plan area
+8 which exceed minimum building and design standards in the community and
+9 prevent the recurrence of substandard and blighted conditions, and any
+10 other necessary public improvements essential to the preparation of sites
+11 for uses in accordance with a redevelopment plan; (c) to sell, lease, or
+12 otherwise make available land in such areas for residential,
+13 recreational, commercial, industrial, or other uses, including parking or
+14 other facilities functionally related or subordinate to such uses, or for
+15 public use or to retain such land for public use, in accordance with a
+16 redevelopment plan; and may also include the preparation of the
+17 redevelopment plan, the planning, survey, and other work incident to a
+18 redevelopment project and the preparation of all plans and arrangements
+19 for carrying out a redevelopment project; (d) to dispose of all real and
+20 personal property or any interest in such property, or assets, cash, or
+21 other funds held or used in connection with residential, recreational,
+22 commercial, industrial, or other uses, including parking or other
+23 facilities functionally related or subordinate to such uses, or any
+24 public use specified in a redevelopment plan or project, except that such
+25 disposition shall be at its fair value for uses in accordance with the
+26 redevelopment plan; (e) to acquire real property in a community
+27 redevelopment area which, under the redevelopment plan, is to be repaired
+28 or rehabilitated for dwelling use or related facilities, repair or
+29 rehabilitate the structures, and resell the property; (f) to carry out
+30 plans for a program of voluntary or compulsory repair, rehabilitation, or
+31 demolition of buildings in accordance with the redevelopment plan; and
+-7-
+
+LB988 LB988
+2026 2026
+1 (g) to carry out construction of affordable housing;
+2 (31) (30) Redevelopment project valuation means the valuation for
+3 assessment of the taxable real property in a redevelopment project last
+4 certified for the year prior to the effective date of the redevelopment
+5 project provision authorized in section 18-2147;
+6 (32) (31) Rural community means any municipality in a county with a
+7 population of fewer than one hundred thousand inhabitants as determined
+8 by the most recent federal decennial census;
+9 (33) (32) Substandard area means an area in which less than twenty
+10 percent of the housing is affordable housing or in which there is a
+11 predominance of buildings or improvements, whether nonresidential or
+12 residential in character, which, by reason of dilapidation,
+13 deterioration, age or obsolescence, inadequate provision for ventilation,
+14 light, air, sanitation, or open spaces, high density of population and
+15 overcrowding, or the existence of conditions which endanger life or
+16 property by fire and other causes, or any combination of such factors, is
+17 conducive to ill health, transmission of disease, infant mortality,
+18 juvenile delinquency, and crime, (which cannot be remedied through
+19 construction of prisons), and is detrimental to the public health,
+20 safety, morals, or welfare. A substandard area shall not include any real
+21 property classified as agricultural or horticultural land as defined in
+22 section 77-1343 or any real property containing no permanent structure or
+23 recently demolished structure; and
+24 (34) (33) Workforce housing means:
+25 (a) Housing that meets the needs of today's working families;
+26 (b) Housing that is attractive to new residents considering
+27 relocation to a rural community;
+28 (c) Owner-occupied housing units that cost not more than two hundred
+29 seventy-five thousand dollars to construct or rental housing units that
+30 cost not more than two hundred thousand dollars per unit to construct.
+31 For purposes of this subdivision (c), housing unit costs shall be updated
+-8-
+
+LB988 LB988
+2026 2026
+1 annually by the Department of Economic Development based upon the most
+2 recent increase or decrease in the Producer Price Index for all
+3 commodities, published by the United States Department of Labor, Bureau
+4 of Labor Statistics;
+5 (d) Owner-occupied and rental housing units for which the cost to
+6 substantially rehabilitate exceeds fifty percent of a unit's assessed
+7 value; and
+8 (e) Upper-story housing.
+9 Sec. 3. Section 18-2117.01, Revised Statutes Cumulative Supplement,
+10 2024, is amended to read:
+11 18-2117.01 (1)(a) On or before December 1 each year, each city which
+12 has approved one or more redevelopment plans which are financed in whole
+13 or in part through the division of taxes as provided in section 18-2147
+14 shall provide a report to the Property Tax Administrator on each such
+15 redevelopment plan which includes the following information:
+16 (i) A copy of the redevelopment plan and any amendments thereto,
+17 including the date upon which the redevelopment plan was approved, the
+18 effective date of the redevelopment project for dividing the ad valorem
+19 tax as provided to the county assessor pursuant to subsection (6) of
+20 section 18-2147, and the location and boundaries of the property in the
+21 redevelopment project; and
+22 (ii) A short narrative description of the type of development
+23 undertaken by the city or village with the financing and the type of
+24 business or commercial activity locating within the redevelopment project
+25 area as a result of the redevelopment project.
+26 (b) If a city has approved one or more redevelopment plans using an
+27 expedited review under section 18-2155, the city may file a single report
+28 under this subsection for all such redevelopment plans.
+29 (2) The report required under subsection (1) of this section must be
+30 filed each year, regardless of whether the information in the report has
+31 changed, except that a city is not required to refile a copy of the
+-9-
+
+LB988 LB988
+2026 2026
+1 redevelopment plan or an amendment thereto if such copy or amendment has
+2 previously been filed.
+3 (3) The Property Tax Administrator shall compile a report for each
+4 active redevelopment project, based upon information provided by the
+5 cities pursuant to subsection (1) of this section and information
+6 reported by the county assessor or county clerk on the certificate of
+7 taxes levied pursuant to section 77-1613.01. Each report shall be
+8 electronically transmitted to the Clerk of the Legislature not later than
+9 March 1 each year. The report may include any recommendations of the
+10 Property Tax Administrator as to what other information should be
+11 included in the report from the cities so as to facilitate analysis of
+12 the uses, purposes, and effectiveness of tax-increment financing and the
+13 process for its implementation or to streamline the reporting process
+14 provided for in this section to eliminate unnecessary paperwork.
+15 Sec. 4. Section 18-2143, Reissue Revised Statutes of Nebraska, is
+16 amended to read:
+17 18-2143 The powers conferred by the Community Development Law shall
+18 be in addition and supplemental to the powers conferred by any other law
+19 and shall be independent of and in addition to any other provision of the
+20 laws of the State of Nebraska with reference to the matters covered in
+21 the Community Development Law and shall be considered as a complete and
+22 independent act and not as amendatory of or limited by any other
+23 provision of the laws of the State of Nebraska. Notwithstanding any other
+24 evidence of legislative intent, it is hereby declared to be the
+25 controlling legislative intent that if any provision of the Community
+26 Development Law, or the application thereof to any person or
+27 circumstances is held unconstitutional or invalid, it shall not affect
+28 the other provisions of the Community Development Law or the application
+29 of such provision to other persons or circumstances. All The Community
+30 Development Law and all grants of power, authority, rights, or discretion
+31 made to a city and to an authority created under the Community
+-10-
+
+LB988 LB988
+2026 2026
+1 Development Law shall be liberally construed, and all incidental powers
+2 necessary to carry into effect the Community Development Law are hereby
+3 expressly granted to and conferred upon a city or an authority created
+4 pursuant thereto.
+5 Sec. 5. Section 18-2147, Revised Statutes Supplement, 2025, is
+6 amended to read:
+7 18-2147 (1) Any redevelopment plan as originally approved or as
+8 later modified pursuant to section 18-2117 may contain a provision that
+9 any ad valorem tax levied upon real property, or any portion thereof, in
+10 a redevelopment project for the benefit of any public body shall be
+11 divided, for the applicable period described in subsection (4) of this
+12 section, as follows:
+13 (a) That portion of the ad valorem tax which is produced by the levy
+14 at the rate fixed each year by or for each such public body upon the
+15 redevelopment project valuation shall be paid into the funds of each such
+16 public body in the same proportion as are all other taxes collected by or
+17 for the body. When there is not a redevelopment project valuation on a
+18 parcel or parcels, the county assessor shall determine the redevelopment
+19 project valuation based upon the fair market valuation of the parcel or
+20 parcels as of January 1 of the year prior to the year that the ad valorem
+21 taxes are to be divided. The county assessor shall provide written notice
+22 of the redevelopment project valuation to the authority as defined in
+23 section 18-2103 and the owner. The authority or owner may protest the
+24 valuation to the county board of equalization within thirty days after
+25 the date of the valuation notice. All provisions of section 77-1502
+26 except dates for filing of a protest, the period for hearing protests,
+27 and the date for mailing notice of the county board of equalization's
+28 decision are applicable to any protest filed pursuant to this section.
+29 The county board of equalization shall decide any protest filed pursuant
+30 to this section within thirty days after the filing of the protest. The
+31 county clerk shall mail a copy of the decision made by the county board
+-11-
+
+LB988 LB988
+2026 2026
+1 of equalization on protests pursuant to this section to the authority or
+2 owner within seven days after the board's decision. Any decision of the
+3 county board of equalization may be appealed to the Tax Equalization and
+4 Review Commission, in accordance with section 77-5013, within thirty days
+5 after the date of the decision;
+6 (b) That portion of the ad valorem tax on real property, as provided
+7 in the redevelopment contract, bond resolution, or redevelopment plan, as
+8 applicable, in the redevelopment project in excess of such amount, if
+9 any, shall be allocated to and, when collected, paid into a special fund
+10 of the authority to be used solely to pay the principal of, the interest
+11 on, and any premiums due in connection with the bonds of, loans, or
+12 notes, or advances of money to, or indebtedness incurred by, whether
+13 funded, refunded, assumed, or otherwise, such authority for financing or
+14 refinancing, in whole or in part, the specific redevelopment project for
+15 which the tax was collected and pledged. Funds and excess funds generated
+16 from a redevelopment project and funds repayable to a government entity
+17 shall not be shared with other redevelopment projects nor shall any such
+18 excess funds be pooled into any other fund to be allocated to other
+19 development or infrastructure projects and shall not be retained to pay
+20 for future expenses not covered or specified in the original
+21 redevelopment plan. When such bonds, loans, notes, advances of money, or
+22 indebtedness, including interest and premiums due, have been paid, the
+23 authority shall so notify the county assessor and county treasurer and
+24 all ad valorem taxes upon taxable real property in such a redevelopment
+25 project shall be paid into the funds of the respective public bodies. An
+26 authority may use a single fund for purposes of this subdivision for all
+27 redevelopment projects or may use a separate fund for each redevelopment
+28 project; and
+29 (c) Any interest and penalties due for delinquent taxes shall be
+30 paid into the funds of each public body in the same proportion as are all
+31 other taxes collected by or for the public body.
+-12-
+
+LB988 LB988
+2026 2026
+1 (2) To the extent that a redevelopment plan authorizes the division
+2 of ad valorem taxes levied upon only a portion of the real property
+3 included in such redevelopment plan, any improvements funded by such
+4 division of taxes shall be related to the redevelopment plan that
+5 authorized such division of taxes.
+6 (3)(a) For any redevelopment plan located in a city of the
+7 metropolitan class that includes a division of taxes, as provided in this
+8 section, that produces, in whole or in part, funds to be used directly or
+9 indirectly for (i) new construction, rehabilitation, or acquisition of
+10 housing for households with annual incomes below the area median income
+11 for households and located within six hundred yards of a public passenger
+12 streetcar or (ii) new construction, rehabilitation, or acquisition of
+13 single-family housing or condominium housing used as primary residences
+14 for individuals with annual incomes below the area median income for
+15 individuals, such housing shall be deemed related to the redevelopment
+16 plan that authorized such division of taxes regardless of whether such
+17 housing is or will be located on real property within such redevelopment
+18 plan, as long as such housing supports activities occurring on or
+19 identified in such redevelopment plan.
+20 (b) During each fiscal year in which the funds described in
+21 subdivision (a) of this subsection are available, the authority and city
+22 shall make best efforts to allocate not less than thirty percent of such
+23 funds to single-family housing deemed related to the redevelopment plan
+24 described under such subdivision.
+25 (c) In selecting projects to receive funding, the authority and city
+26 shall develop a qualified allocation plan and give first priority to
+27 financially viable projects that serve the lowest income occupants for
+28 the longest period of time.
+29 (4)(a) For any redevelopment plan for which more than fifty percent
+30 of the property in the redevelopment project area has been declared an
+31 extremely blighted area in accordance with section 18-2101.02, ad valorem
+-13-
+
+LB988 LB988
+2026 2026
+1 taxes shall be divided for a period not to exceed twenty years after the
+2 effective date of the redevelopment project as identified in the project
+3 redevelopment contract or in the resolution of the authority authorizing
+4 the issuance of bonds pursuant to section 18-2124.
+5 (b) For all other redevelopment plans, ad valorem taxes shall be
+6 divided for a period not to exceed fifteen years after the effective date
+7 of the redevelopment project as identified in the project redevelopment
+8 contract, in the resolution of the authority authorizing the issuance of
+9 bonds pursuant to section 18-2124, or in the redevelopment plan,
+10 whichever is applicable.
+11 (5) The effective date of the redevelopment project under a
+12 provision dividing ad valorem taxes as provided in subsection (4) of this
+13 section shall not occur until such time as the real property in the
+14 redevelopment project is within the corporate boundaries of the city.
+15 This subsection shall not apply to a redevelopment project involving a
+16 formerly used defense site as authorized in section 18-2123.01.
+17 (6) All notices of the redevelopment project provision for dividing
+18 ad valorem taxes shall be sent by the authority to the county assessor on
+19 forms prescribed by the Property Tax Administrator. The notice shall be
+20 sent to the county assessor on or before July 1 of the year of the
+21 effective date of the redevelopment project provision. Failure to satisfy
+22 the notice requirement of this section shall result in the taxes, for all
+23 taxable years affected by the failure to give notice of the effective
+24 date of the redevelopment project provision, remaining undivided and
+25 being paid into the funds for each public body receiving property taxes
+26 generated by the property in the redevelopment project. However, the
+27 redevelopment project valuation for the remaining division of ad valorem
+28 taxes in accordance with subdivisions (1)(a) and (b) of this section
+29 shall be the last certified valuation for the taxable year prior to the
+30 effective date of the redevelopment project provision to divide the taxes
+31 for the remaining portion of the twenty-year or fifteen-year period
+-14-
+
+LB988 LB988
+2026 2026
+1 pursuant to subsection (4) of this section.
+2 (7) Once a redevelopment project has been paid off, the treasurer of
+3 the governing body shall redirect any excess revenue related to such
+4 redevelopment project to the taxing entity.
+5 Sec. 6. Section 18-2148, Reissue Revised Statutes of Nebraska, is
+6 amended to read:
+7 18-2148 Commencing on the effective date of the redevelopment
+8 project provision outlined in section 18-2147, the county assessor, or
+9 county clerk where he or she is ex officio county assessor, of the county
+10 in which the redevelopment project is located, shall transmit to an
+11 authority and the county treasurer, upon request of the authority, the
+12 redevelopment project valuation and shall annually certify, on or before
+13 August 20, to the authority and the county treasurer the current
+14 valuation for assessment of taxable real property in the redevelopment
+15 project. The county assessor shall undertake, upon request of an
+16 authority, an investigation, examination, and inspection of the taxable
+17 real property in the redevelopment project and shall reaffirm or revalue
+18 the current value for assessment of such property in accordance with the
+19 findings of such investigation, examination, and inspection.
+20 Sec. 7. Section 18-2150, Reissue Revised Statutes of Nebraska, is
+21 amended to read:
+22 18-2150 In the proceedings for the issuance of bonds, the making of
+23 loans or advances of money, or the incurring of any indebtedness, whether
+24 funded, refunded, assumed, or otherwise, by an authority to finance or
+25 refinance, in whole or in part, a redevelopment project, the portion of
+26 taxes mentioned in subdivision (1)(b) of section 18-2147 shall be pledged
+27 for the payment of the principal of, premium, if any, and interest on
+28 such bonds, loans, notes, advances, or indebtedness.
+29 Sec. 8. Section 18-2153, Reissue Revised Statutes of Nebraska, is
+30 amended to read:
+31 18-2153 The powers conferred by sections 18-2147 to 18-2153 shall be
+-15-
+
+LB988 LB988
+2026 2026
+1 in addition and supplemental to the powers conferred by any other law and
+2 shall be independent of and in addition to any other provision of the
+3 laws of the State of Nebraska with reference to the matters covered in
+4 such sections. All The provisions of such sections and all grants of
+5 power, authority, rights, or discretion to a city or village and to an
+6 authority created under the Community Development Law shall be liberally
+7 construed, and all incidental powers necessary to carry into effect such
+8 sections are hereby expressly granted to and conferred upon a city or
+9 village or an authority created pursuant to the Community Development
+10 Law.
+11 Sec. 9. For purposes of a redevelopment plan, an area, other than a
+12 site with a Highway Historical Marker as determined pursuant to section
+13 82-120 or a property of historical value or significance as determined by
+14 the governing body, which contains a structure shall not be declared
+15 substandard and blighted or extremely blighted unless the structure has
+16 been declared permanently uninhabitable by an inspector designated by the
+17 governing body. Such inspector may declare a structure permanently
+18 uninhabitable once the structure has been found to be:
+19 (1) Unstable and subject to collapse, in whole or in part;
+20 (2) Allowing elemental intrusion; or
+21 (3) Containing an unresolved safety hazard.
+22 Sec. 10. The division of taxes as provided in section 18-2147 shall
+23 not be used for a public transportation project unless first approved by
+24 a majority vote of the people in the voting precincts where such public
+25 transportation project is located.
+26 Sec. 11. To prevent abuses of the Community Development Law, no
+27 part of a redevelopment project area may be declared substandard and
+28 blighted or extremely blighted twice during the twenty-year period after
+29 the effective date of the redevelopment project for such area unless such
+30 declaration has been approved by the Governor due to emergency.
+31 Sec. 12. For purposes of a redevelopment project or redevelopment
+-16-
+
+LB988 LB988
+2026 2026
+1 plan, the terms debt and indebtedness shall refer solely to the principal
+2 of a loan or mortgage, the interest on a loan or mortgage, any premiums
+3 due in connection with the bonds, loans, mortgages, or notes or any other
+4 financial liabilities incurred by, whether funded, refunded, assumed, or
+5 otherwise, such authority for financing or refinancing, in whole or in
+6 part, the specific redevelopment project or redevelopment plan for which
+7 taxes were collected and pledged.
+8 Sec. 13. Original sections 18-2143, 18-2148, 18-2150, and 18-2153,
+9 Reissue Revised Statutes of Nebraska, section 18-2117.01, Revised
+10 Statutes Cumulative Supplement, 2024, and sections 18-2101, 18-2103, and
+11 18-2147, Revised Statutes Supplement, 2025, are repealed.
+-17-

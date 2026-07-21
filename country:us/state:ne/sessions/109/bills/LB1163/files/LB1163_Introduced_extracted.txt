@@ -1,0 +1,140 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LB1163 LB1163
+2026 2026
+LEGISLATURE OF NEBRASKA
+ONE HUNDRED NINTH LEGISLATURE
+SECOND SESSION
+LEGISLATIVE BILL 1163
+Introduced by Fredrickson, 20.
+Read first time January 20, 2026
+Committee: Urban Affairs
+1 A BILL FOR AN ACT relating to the Property Assessed Clean Energy Act; to
+2 amend section 13-3206, Reissue Revised Statutes of Nebraska; to
+3 change provisions relating to delinquent annual assessments and PACE
+4 liens; to repeal the original section; and to declare an emergency.
+5 Be it enacted by the people of the State of Nebraska,
+-1-
+
+LB1163 LB1163
+2026 2026
+1 Section 1. Section 13-3206, Reissue Revised Statutes of Nebraska, is
+2 amended to read:
+3 13-3206 (1)(a) For qualifying property other than single-family
+4 residential property, any annual assessment imposed on such qualifying
+5 property that becomes delinquent, including any interest on the annual
+6 assessment and any penalty, shall constitute a PACE lien against the
+7 qualifying property on which the annual assessment is imposed until the
+8 annual assessment, including any interest and penalty, is paid in full.
+9 Any annual assessment that is not paid within the time period set forth
+10 in the assessment contract shall be considered delinquent. The
+11 municipality shall, within fourteen days after an annual assessment
+12 becomes delinquent or, if there is a third-party lender financing the
+13 energy project, within fourteen days after receiving notice from such
+14 third-party lender that an annual assessment has become delinquent,
+15 record a notice of such lien in the office of the register of deeds of
+16 the county in which the qualifying property is located. The municipality
+17 shall certify the amount of any such delinquency and lien to the county
+18 treasurer, and the lien shall be treated as a special assessment in the
+19 same manner as special assessments are treated under section 77-1858 and
+20 shall be subject to the same collection processes for real estate taxes
+21 and special assessments as set forth in Chapter 77, including, without
+22 limitation, sections 77-1801 to 77-1863.
+23 (b) For qualifying property that is single-family residential
+24 property, all annual assessments imposed on such qualifying property,
+25 including any interest on the annual assessments and any penalty, shall,
+26 upon the initial annual assessment, constitute a PACE lien against the
+27 qualifying property on which the annual assessments are imposed until all
+28 annual assessments, including any interest and penalty, are paid in full.
+29 Any annual assessment that is not paid within the time period set forth
+30 in the assessment contract shall be considered delinquent. The
+31 municipality shall, upon imposition of the initial annual assessment,
+-2-
+
+LB1163 LB1163
+2026 2026
+1 record a notice of such lien in the office of the register of deeds of
+2 the county in which the qualifying property is located.
+3 (2) A notice of lien filed under this section shall, at a minimum,
+4 include:
+5 (a) The amount of funds disbursed or to be disbursed pursuant to the
+6 assessment contract;
+7 (b) The names and addresses of the current owners of the qualifying
+8 property subject to the annual assessment;
+9 (c) The legal description of the qualifying property subject to the
+10 annual assessment;
+11 (d) The duration of the assessment contract; and
+12 (e) The name and address of the municipality filing the notice of
+13 lien.
+14 (3) The PACE lien created under this section shall:
+15 (a) For qualifying property that is single-family residential
+16 property, (i) be subordinate to all liens on the qualifying property
+17 recorded prior to the time the notice of the PACE lien is recorded, (ii)
+18 be subordinate to a first mortgage or trust deed on the qualifying
+19 property recorded after the notice of the PACE lien is recorded, and
+20 (iii) have priority over any other lien on the qualifying property
+21 recorded after the notice of the PACE lien is recorded; and
+22 (b) For qualifying property other than single-family residential
+23 property and subject to the requirement in subdivision (2)(a) of section
+24 13-3205 to obtain and record an executed consent and subordination
+25 agreement, have the same priority and status as real property tax liens.
+26 (4)(a) Notwithstanding any other provision of law, in the event of a
+27 sale pursuant to a foreclosure or a sale pursuant to the exercise of a
+28 power of sale under a trust deed relating to qualifying property that is
+29 single-family residential property, the holders of any mortgages, trust
+30 deeds, or other liens, including delinquent annual assessments secured by
+31 PACE liens, shall receive proceeds in accordance with the priorities
+-3-
+
+LB1163 LB1163
+2026 2026
+1 established under subdivision (3)(a) of this section. In the event there
+2 are insufficient proceeds from such a sale, from the loss reserve fund
+3 established pursuant to section 13-3208, or from any other means to
+4 satisfy the delinquent annual assessments, such delinquent annual
+5 assessments shall be extinguished. Any annual assessment that has not yet
+6 become delinquent shall not be accelerated or extinguished in the event
+7 of a sale pursuant to a foreclosure or a sale pursuant to the exercise of
+8 a power of sale under a trust deed relating to qualifying property that
+9 is single-family residential property. Upon the transfer of ownership of
+10 qualifying property that is single-family residential property, including
+11 a sale pursuant to a foreclosure or a sale pursuant to the exercise of a
+12 power of sale under a trust deed, the nondelinquent annual assessments
+13 shall continue as a lien on the qualifying property, subject to the
+14 priorities established under subdivision (3)(a) of this section.
+15 (b) Upon the transfer of ownership of qualifying property other than
+16 single-family residential property, including a sale pursuant to a
+17 foreclosure or a sale pursuant to the exercise of a power of sale under a
+18 trust deed, the obligation to pay annual assessments shall run with the
+19 qualifying property.
+20 (5)(a) For qualifying property other than single-family residential
+21 property, when the delinquent annual assessment, including any interest
+22 and penalty, is paid in full, a release of the PACE lien shall be
+23 recorded in the office of the register of deeds of the county in which
+24 the notice of the PACE lien was recorded.
+25 (b) For qualifying property that is single-family residential
+26 property, when all annual assessments, including any interest and
+27 penalty, are paid in full, a release of the PACE lien shall be recorded
+28 in the office of the register of deeds of the county in which the notice
+29 of the PACE lien was recorded.
+30 (6) If the holder or loan servicer of any existing mortgage or trust
+31 deed that encumbers or that is otherwise secured by the qualifying
+-4-
+
+LB1163 LB1163
+2026 2026
+1 property has established a payment schedule or escrow account to accrue
+2 property taxes or insurance, such holder or loan servicer may increase
+3 the required monthly payment, if any, by an amount necessary to pay the
+4 annual assessment imposed under the Property Assessed Clean Energy Act.
+5 Sec. 2. Original section 13-3206, Reissue Revised Statutes of
+6 Nebraska, is repealed.
+7 Sec. 3. Since an emergency exists, this act takes effect when
+8 passed and approved according to law.
+-5-

@@ -1,0 +1,666 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LB949 LB949
+2026 2026
+LEGISLATURE OF NEBRASKA
+ONE HUNDRED NINTH LEGISLATURE
+SECOND SESSION
+LEGISLATIVE BILL 949
+Introduced by Ballard, 21.
+Read first time January 09, 2026
+Committee: Health and Human Services
+1 A BILL FOR AN ACT relating to health information; to amend sections
+2 81-6,124, 81-6,125, 81-6,127, and 81-6,128, Reissue Revised Statutes
+3 of Nebraska, and sections 68-2106, 71-2454, and 71-2455, Revised
+4 Statutes Cumulative Supplement, 2024; to change provisions relating
+5 to the prescription drug monitoring program, the statewide health
+6 information exchange, and the Health Information Technology Board;
+7 to harmonize provisions; and to repeal the original sections.
+8 Be it enacted by the people of the State of Nebraska,
+-1-
+
+LB949 LB949
+2026 2026
+1 Section 1. Section 68-2106, Revised Statutes Cumulative Supplement,
+2 2024, is amended to read:
+3 68-2106 (1) The Hospital Quality Assurance and Access Assessment
+4 Fund is created. Interest earned on the fund shall be credited to the
+5 fund. Any money in the fund available for investment shall be invested by
+6 the state investment officer pursuant to the Nebraska Capital Expansion
+7 Act and the Nebraska State Funds Investment Act.
+8 (2) The department shall use the Hospital Quality Assurance and
+9 Access Assessment Fund, including the matching federal financial
+10 participation, for the purpose of enhancing rates paid to hospitals under
+11 the medical assistance program except as allowed by subsection (3) of
+12 this section. Money in the fund shall not be used to replace or offset
+13 existing state funds paid to hospitals for providing services under the
+14 medical assistance program.
+15 (3) The Hospital Quality Assurance and Access Assessment Fund shall
+16 also be used to:
+17 (a) Reimburse the General Fund the amount of the first quarterly
+18 payment on or before June 30 of each fiscal year;
+19 (b) Reimburse the department an administrative fee of three percent
+20 of the assessment, not to exceed fifteen million dollars per year, to
+21 collect assessments and administer directed-payment programs established
+22 by the Hospital Quality Assurance and Access Assessment Act;
+23 (c) Provide the Nebraska Center for Nursing Board one-half of one
+24 percent of the assessment, not to exceed two million five hundred
+25 thousand dollars per year, for the expansion of clinical nursing training
+26 sites as authorized in subsection (3) of section 71-1798; and
+27 (d) Provide funding of three and one-half percent of the assessment,
+28 not to exceed seventeen million five hundred thousand dollars per year,
+29 for rates for nonhospital providers in the medical assistance program,
+30 continuous eligibility for children, or the designated health information
+31 exchange as defined authorized in section 81-6,124 81-6,125.
+-2-
+
+LB949 LB949
+2026 2026
+1 (4) In calculating rates, the proceeds from assessments and federal
+2 match not utilized under subsection (3) of this section shall be used to
+3 enhance rates for hospital inpatient and outpatient services in addition
+4 to any funds appropriated by the Legislature.
+5 (5) The department shall collect data for revenue, discharge, and
+6 inpatient days from a hospital that does not file an annual medicare cost
+7 report. At the request of the department, a hospital that does not file
+8 an annual medicare cost report shall submit such requested data to the
+9 department.
+10 (6) The department shall prohibit a medicaid managed care
+11 organization from (a) setting, establishing, or negotiating reimbursement
+12 rates with a hospital in a manner that takes into account, directly or
+13 indirectly, a directed payment that a hospital receives under the
+14 Hospital Quality Assurance and Access Assessment Act, (b) unnecessarily
+15 delaying a directed payment to a hospital, or (c) recouping or offsetting
+16 a directed payment for any reason.
+17 (7)(a) A hospital shall not:
+18 (i) Set, establish, or negotiate reimbursement rates with a managed
+19 care organization in a manner that directly or indirectly takes into
+20 account a directed payment that a hospital receives under the Hospital
+21 Quality Assurance and Access Assessment Act; or
+22 (ii) Directly pass on the cost of an assessment to patients or
+23 nonmedicaid payors, including as a fee or rate increase.
+24 (b) A hospital that violates this subsection shall not receive a
+25 directed payment for the remainder of the rate year. This subsection
+26 shall not be construed to prohibit a hospital from negotiating with a
+27 payor for a rate increase.
+28 Sec. 2. Section 71-2454, Revised Statutes Cumulative Supplement,
+29 2024, is amended to read:
+30 71-2454 (1) A vendor An entity described in section 71-2455 shall
+31 establish a system of prescription drug monitoring for the purposes of
+-3-
+
+LB949 LB949
+2026 2026
+1 (a) preventing the misuse of controlled substances that are prescribed,
+2 (b) allowing prescribers and dispensers to monitor the care and treatment
+3 of patients for whom such a prescription drug is prescribed to ensure
+4 that such prescription drugs are used for medically appropriate purposes,
+5 (c) providing information to improve the health and safety of patients,
+6 and (d) ensuring that the State of Nebraska remains on the cutting edge
+7 of medical information technology.
+8 (2) Such system of prescription drug monitoring shall be implemented
+9 as follows: Except as provided in subsection (4) of this section, all
+10 prescription drug information shall be reported to the prescription drug
+11 monitoring system. The prescription drug monitoring system shall include,
+12 but not be limited to, provisions that:
+13 (a) Prohibit any patient from opting out of the prescription drug
+14 monitoring system;
+15 (b) Require any prescription drug that is dispensed in this state or
+16 to an address in this state to be entered into the system by the
+17 dispenser or his or her delegate no less frequently than daily after such
+18 prescription drug is sold, including prescription drugs for patients
+19 paying cash or otherwise not relying on a third-party payor for payment,
+20 except that prescriptions labeled "for emergency use" or "for use in
+21 immunizations" are not required to be reported;
+22 (c) Allow all prescribers or dispensers of prescription drugs to
+23 access the system at no cost to such prescriber or dispenser;
+24 (d) Ensure that such system includes information relating to all
+25 payors, including, but not limited to, the medical assistance program
+26 established pursuant to the Medical Assistance Act; and
+27 (e) Make the prescription drug information available to the vendor
+28 statewide health information exchange described in section 71-2455 for
+29 access by its participants if such access is in compliance with the
+30 privacy and security protections set forth in the provisions of the
+31 federal Health Insurance Portability and Accountability Act of 1996,
+-4-
+
+LB949 LB949
+2026 2026
+1 Public Law 104-191, and regulations promulgated thereunder, except that
+2 if a patient opts out of the statewide health information exchange
+3 provided by the vendor, the prescription drug information regarding that
+4 patient shall not be accessible by the participants in the statewide
+5 health information exchange provided by the vendor.
+6 (3) Except as provided in subsection (4) of this section,
+7 prescription drug information that shall be submitted electronically to
+8 the prescription drug monitoring system shall be determined by the vendor
+9 entity described in section 71-2455 and shall include, but not be limited
+10 to:
+11 (a) The patient's name, address, telephone number, if a telephone
+12 number is available, gender, and date of birth;
+13 (b) A patient identifier such as a military identification number,
+14 driver's license number, state identification card number, or other valid
+15 government-issued identification number, insurance identification number,
+16 pharmacy software-generated patient-specific identifier, or other
+17 identifier associated specifically with the patient;
+18 (c) The name and address of the pharmacy dispensing the prescription
+19 drug;
+20 (d) The date the prescription is issued;
+21 (e) The date the prescription is filled;
+22 (f) The date the prescription is sold to the patient;
+23 (g) The number of refills authorized;
+24 (h) The prescription number of the prescription drug;
+25 (i) The National Drug Code number as published by the federal Food
+26 and Drug Administration of the prescription drug;
+27 (j) The strength of the prescription drug prescribed;
+28 (k) The quantity of the prescription drug prescribed and the number
+29 of days' supply;
+30 (l) The prescriber's name and National Provider Identifier number or
+31 Drug Enforcement Administration number when reporting a controlled
+-5-
+
+LB949 LB949
+2026 2026
+1 substance; and
+2 (m) Additional information as determined by the Health Information
+3 Technology Board and as published in the submitter guide for the
+4 prescription drug monitoring system.
+5 (4) Beginning July 1, 2018, a veterinarian licensed under the
+6 Veterinary Medicine and Surgery Practice Act shall be required to report
+7 the dispensing of prescription drugs which are controlled substances
+8 listed on Schedule II, Schedule III, Schedule IV, or Schedule V pursuant
+9 to section 28-405. Each such veterinarian shall indicate that the
+10 prescription is an animal prescription and shall include the following
+11 information in such report:
+12 (a) The first and last name and address, including city, state, and
+13 zip code, of the individual to whom the prescription drug is dispensed in
+14 accordance with a valid veterinarian-client-patient relationship;
+15 (b) Reporting status;
+16 (c) The first and last name of the prescribing veterinarian and his
+17 or her federal Drug Enforcement Administration number;
+18 (d) The National Drug Code number as published by the federal Food
+19 and Drug Administration of the prescription drug and the prescription
+20 number;
+21 (e) The date the prescription is written and the date the
+22 prescription is filled;
+23 (f) The number of refills authorized, if any; and
+24 (g) The quantity of the prescription drug and the number of days'
+25 supply.
+26 (5)(a) All prescription drug information submitted pursuant to this
+27 section, all data contained in the prescription drug monitoring system,
+28 and any report obtained from data contained in the prescription drug
+29 monitoring system are confidential, are privileged, are not public
+30 records, and may be withheld pursuant to section 84-712.05 except for
+31 information released as provided in subsection (9) or (10) of this
+-6-
+
+LB949 LB949
+2026 2026
+1 section.
+2 (b) No patient-identifying data as defined in section 81-664,
+3 including the data collected under subsection (3) of this section, shall
+4 be disclosed, made public, or released to any public or private person or
+5 entity except to the vendor statewide health information exchange
+6 described in section 71-2455 and its participants, to prescribers and
+7 dispensers as provided in subsection (2) of this section, or as provided
+8 in subsection (7), (9), or (10) of this section.
+9 (c) All other data is for the confidential use of the department and
+10 the vendor statewide health information exchange described in section
+11 71-2455 and its participants. The department, or the vendor statewide
+12 health information exchange in accordance with policies adopted by the
+13 Health Information Technology Board and in collaboration with the
+14 department, may release such information in accordance with the privacy
+15 and security provisions set forth in the federal Health Insurance
+16 Portability and Accountability Act of 1996, Public Law 104-191, and
+17 regulations promulgated thereunder, as Class I, Class II, or Class IV
+18 data in accordance with section 81-667, except for purposes in accordance
+19 with subsection (9) or (10) of this section, to the private or public
+20 persons or entities that the department or the vendor statewide health
+21 information exchange, in accordance with policies adopted by the Health
+22 Information Technology Board, determines may view such records as
+23 provided in sections 81-663 to 81-675. In addition, the department, or
+24 the vendor statewide health information exchange in accordance with
+25 policies adopted by the Health Information Technology Board and in
+26 collaboration with the department, may release such information as
+27 provided in subsection (9) or (10) of this section.
+28 (6) The vendor statewide health information exchange described in
+29 section 71-2455, in accordance with policies adopted by the Health
+30 Information Technology Board and in collaboration with the department,
+31 shall establish the minimum administrative, physical, and technical
+-7-
+
+LB949 LB949
+2026 2026
+1 safeguards necessary to protect the confidentiality, integrity, and
+2 availability of prescription drug information.
+3 (7) If the entity receiving the prescription drug information has
+4 privacy protections at least as restrictive as those set forth in this
+5 section and has implemented and maintains the minimum safeguards required
+6 by subsection (6) of this section, the vendor statewide health
+7 information exchange described in section 71-2455, in accordance with
+8 policies adopted by the Health Information Technology Board and in
+9 collaboration with the department, may release the prescription drug
+10 information and any other data collected pursuant to this section to:
+11 (a) Other state prescription drug monitoring programs;
+12 (b) State and regional health information exchanges;
+13 (c) The medical director and pharmacy director of the Division of
+14 Medicaid and Long-Term Care of the department, or their designees;
+15 (d) The medical directors and pharmacy directors of medicaid-managed
+16 care entities, the state's medicaid drug utilization review board, and
+17 any other state-administered health insurance program or its designee if
+18 any such entities have a current data-sharing agreement with the vendor
+19 statewide health information exchange described in section 71-2455, and
+20 if such release is in accordance with the privacy and security provisions
+21 of the federal Health Insurance Portability and Accountability Act of
+22 1996, Public Law 104-191, and all regulations promulgated thereunder;
+23 (e) Organizations which facilitate the interoperability and mutual
+24 exchange of information among state prescription drug monitoring programs
+25 or state or regional health information exchanges; or
+26 (f) Electronic health record systems or pharmacy-dispensing software
+27 systems for the purpose of integrating prescription drug information into
+28 a patient's medical record.
+29 (8) The department, or the vendor statewide health information
+30 exchange described in section 71-2455, in accordance with policies
+31 adopted by the Health Information Technology Board and in collaboration
+-8-
+
+LB949 LB949
+2026 2026
+1 with the department, may release to patients their prescription drug
+2 information collected pursuant to this section. Upon request of the
+3 patient, such information may be released directly to the patient or a
+4 personal health record system designated by the patient which has privacy
+5 protections at least as restrictive as those set forth in this section
+6 and that has implemented and maintains the minimum safeguards required by
+7 subsection (6) of this section.
+8 (9) In accordance with the privacy and security provisions set forth
+9 in the federal Health Insurance Portability and Accountability Act of
+10 1996, Public Law 104-191, and regulations promulgated thereunder, the
+11 department, or the vendor statewide health information exchange described
+12 in section 71-2455 under policies adopted by the Health Information
+13 Technology Board, may release data collected pursuant to this section for
+14 statistical, public policy, or educational purposes after removing
+15 information which identifies or could reasonably be used to identify the
+16 patient, prescriber, dispenser, or other person who is the subject of the
+17 information, except as otherwise provided in subsection (10) of this
+18 section.
+19 (10) In accordance with the privacy and security provisions set
+20 forth in the federal Health Insurance Portability and Accountability Act
+21 of 1996, Public Law 104-191, and regulations promulgated thereunder, the
+22 department, or vendor statewide health information exchange described in
+23 section 71-2455 under policies adopted by the Health Information
+24 Technology Board, may release data collected pursuant to this section for
+25 quality measures as approved or regulated by state or federal agencies or
+26 for patient quality improvement or research initiatives approved by the
+27 Health Information Technology Board.
+28 (11) The vendor statewide health information exchange described in
+29 section 71-2455, entities described in subsection (7) of this section, or
+30 the department may request and receive program information from other
+31 prescription drug monitoring programs for use in the prescription drug
+-9-
+
+LB949 LB949
+2026 2026
+1 monitoring system in this state in accordance with the privacy and
+2 security provisions set forth in the federal Health Insurance Portability
+3 and Accountability Act of 1996, Public Law 104-191, and regulations
+4 promulgated thereunder.
+5 (12) The vendor statewide health information exchange described in
+6 section 71-2455, in collaboration with the department, shall implement
+7 technological improvements to facilitate the secure collection of, and
+8 access to, prescription drug information in accordance with this section.
+9 (13) Before accessing the prescription drug monitoring system, any
+10 user shall undergo training on the purpose of the system, access to and
+11 proper usage of the system, and the law relating to the system, including
+12 confidentiality and security of the prescription drug monitoring system.
+13 Such training shall be administered by the vendor statewide health
+14 information exchange described in section 71-2455 or the department. The
+15 vendor statewide health information exchange described in section 71-2455
+16 shall have access to the prescription drug monitoring system for training
+17 operations, maintenance, and administrative purposes. Users who have been
+18 trained prior to May 10, 2017, or who are granted access by an entity
+19 receiving prescription drug information pursuant to subsection (7) of
+20 this section, are deemed to be in compliance with the training
+21 requirement of this subsection.
+22 (14) For purposes of this section:
+23 (a) Deliver or delivery means to actually, constructively, or
+24 attempt to transfer a drug or device from one person to another, whether
+25 or not for consideration;
+26 (b) Department means the Department of Health and Human Services;
+27 (c) Delegate means any licensed or registered health care
+28 professional credentialed under the Uniform Credentialing Act designated
+29 by a prescriber or dispenser to act as an agent of the prescriber or
+30 dispenser for purposes of submitting or accessing data in the
+31 prescription drug monitoring system and who is supervised by such
+-10-
+
+LB949 LB949
+2026 2026
+1 prescriber or dispenser;
+2 (d) Prescription drug or drugs means a prescription drug or drugs
+3 dispensed by delivery to the ultimate user or caregiver by or pursuant to
+4 the lawful order of a prescriber but does not include (i) the delivery of
+5 such prescription drug for immediate use for purposes of inpatient
+6 hospital care or emergency department care, (ii) the administration of a
+7 prescription drug by an authorized person upon the lawful order of a
+8 prescriber, (iii) a wholesale distributor of a prescription drug
+9 monitored by the prescription drug monitoring system, or (iv) the
+10 dispensing to a nonhuman patient of a prescription drug which is not a
+11 controlled substance listed in Schedule II, Schedule III, Schedule IV, or
+12 Schedule V of section 28-405;
+13 (e) Dispenser means a person authorized in the jurisdiction in which
+14 he or she is practicing to deliver a prescription drug to the ultimate
+15 user or caregiver by or pursuant to the lawful order of a prescriber;
+16 (f) Participant means an individual or entity that has entered into
+17 a participation agreement with the vendor statewide health information
+18 exchange described in section 71-2455 which requires the individual or
+19 entity to comply with the privacy and security protections set forth in
+20 the provisions of the federal Health Insurance Portability and
+21 Accountability Act of 1996, Public Law 104-191, and regulations
+22 promulgated thereunder; and
+23 (g) Prescriber means a health care professional authorized to
+24 prescribe in the profession which he or she practices.
+25 Sec. 3. Section 71-2455, Revised Statutes Cumulative Supplement,
+26 2024, is amended to read:
+27 71-2455 Subject to sections 81-6,127 and 81-6,128, the Department of
+28 Health and Human Services shall contract with a vendor pursuant to the
+29 State Procurement Act to , in collaboration with the Nebraska Health
+30 Information Initiative or any successor public-private statewide health
+31 information exchange, shall enhance or establish technology for
+-11-
+
+LB949 LB949
+2026 2026
+1 prescription drug monitoring to carry out the purposes of section
+2 71-2454. The department may use state funds and accept grants, gifts, or
+3 other funds in order to implement and operate the technology. The
+4 department may adopt and promulgate rules and regulations to authorize
+5 use of electronic health information, if necessary to carry out the
+6 purposes of sections 71-2454 and 71-2455. The department shall contract
+7 with a vendor pursuant to the State Procurement Act the statewide health
+8 information exchange for the administration of the Health Information
+9 Technology Board, and such contract shall specify that the vendor health
+10 information exchange is responsible for the administration of the Health
+11 Information Technology Board, including, but not limited to, providing
+12 meeting notices, recording and distributing meeting minutes,
+13 administrative tasks related to the same, and funding such activities.
+14 The contract shall also include provisions for the vendor statewide
+15 health information exchange to reimburse the expenses of the members of
+16 the board pursuant to subsection (5) of section 81-6,127. Such
+17 reimbursement shall be paid using a process essentially similar to
+18 sections 81-1174 to 81-1177. No state funds, including General Funds,
+19 cash funds, and federal funds, shall be used to carry out the
+20 administrative duties of the Health Information Technology Board nor for
+21 reimbursement of the expenses of the board members.
+22 Sec. 4. Section 81-6,124, Reissue Revised Statutes of Nebraska, is
+23 amended to read:
+24 81-6,124 For purposes of the Population Health Information Act:
+25 (1) Clinical information means information related to the diagnosis
+26 and treatment of health conditions or services provided for health
+27 conditions;
+28 (2) Department means the Department of Health and Human Services;
+29 (3) Designated health information exchange means the vendor
+30 statewide health information exchange described in section 71-2455;
+31 (4) Health care entity means a health care facility as defined in
+-12-
+
+LB949 LB949
+2026 2026
+1 section 71-413, a home health agency as defined in section 71-417, an
+2 urgent care treatment center, a laboratory, a medicaid managed care
+3 organization, a federally qualified health center, a health care
+4 practitioner facility as defined in section 71-414, a dental facility, a
+5 local public health department, a health insurance carrier, or any other
+6 organization or entity providing health care services in Nebraska;
+7 (5) Health care provider means a person practicing as a health care
+8 professional under the Uniform Credentialing Act; and
+9 (6) Prescription drug monitoring program means the program created
+10 under section 71-2454.
+11 Sec. 5. Section 81-6,125, Reissue Revised Statutes of Nebraska, is
+12 amended to read:
+13 81-6,125 (1) The purpose of the Population Health Information Act is
+14 to designate a vendor health information exchange to provide the data
+15 infrastructure needed to assist in creating a healthier Nebraska and
+16 operating the electronic health records initiative.
+17 (2) The designated health information exchange shall:
+18 (a) Aggregate clinical information from health care entities needed
+19 to support the operation of the medical assistance program under the
+20 Medical Assistance Act;
+21 (b) Act as the designated entity for purposes of access to and
+22 analysis of health data;
+23 (c) Collect and analyze data for purposes of informing the
+24 Legislature, the department, health care providers, and health care
+25 entities as to the cost of, access to, and quality of health care in
+26 Nebraska;
+27 (d) Act as a collector and reporter of public health data for
+28 registry submissions, electronic laboratory reporting, immunization
+29 reporting, and syndromic surveillance from an electronic health record,
+30 which does not include claims data; and
+31 (e) Enable any health care provider or health care entity to access
+-13-
+
+LB949 LB949
+2026 2026
+1 information available within the designated health information exchange
+2 to evaluate and monitor care and treatment of a patient in accordance
+3 with the privacy and security provisions set forth in the federal Health
+4 Insurance Portability and Accountability Act of 1996, Public Law 104-191.
+5 (3)(a) On or before September 30, 2021, each health care facility
+6 listed in subdivision (b) of this subsection shall participate in the
+7 designated health information exchange through sharing of clinical
+8 information. Such clinical information shall include the clinical data
+9 that the health care facility captured in its existing electronic health
+10 record as permitted by state and federal laws, rules, and regulations.
+11 Any patient health information shared with the designated health
+12 information exchange as determined by policies adopted by the Health
+13 Information Technology Board shall be provided in accordance with the
+14 privacy and security provisions set forth in the federal Health Insurance
+15 Portability and Accountability Act of 1996 and regulations adopted under
+16 the act.
+17 (b) This subsection applies to an ambulatory surgical center, a
+18 critical access hospital, a general acute hospital, a health clinic, a
+19 hospital, an intermediate care facility, a long-term care hospital, a
+20 mental health substance use treatment center, a PACE center, a pharmacy,
+21 a psychiatric or mental hospital, a public health clinic, or a
+22 rehabilitation hospital, as such terms are defined in the Health Care
+23 Facility Licensure Act, or a diagnostic, laboratory, or imaging center.
+24 (c) This subsection does not apply to (i) a state-owned or state-
+25 operated facility or (ii) an assisted-living facility, a nursing
+26 facility, or a skilled nursing facility, as such terms are defined in the
+27 Health Care Facility Licensure Act.
+28 (d) Any connection established by July 1, 2021, between a health
+29 care facility and the designated health information exchange to
+30 facilitate such participation shall be at no cost to the participating
+31 health care facility.
+-14-
+
+LB949 LB949
+2026 2026
+1 (e) A health care facility may apply to the board for a waiver from
+2 the requirement to participate under this subsection due to a
+3 technological burden. The board shall review the application and
+4 determine whether to waive the requirement. If the board waives the
+5 requirement for a health care facility, the board shall review the waiver
+6 annually to determine if the health care facility continues to qualify
+7 for the waiver.
+8 (f) The board shall not require a health care facility to purchase
+9 or contract for an electronic records management system or service.
+10 (4)(a) On or before January 1, 2022, each health insurance plan
+11 shall participate in the designated health information exchange through
+12 sharing of information. Subject to subsection (5) of this section, such
+13 information shall be determined by policies adopted by the Health
+14 Information Technology Board.
+15 (b) For purposes of this subsection:
+16 (i) Health insurance plan includes any group or individual sickness
+17 and accident insurance policy, health maintenance organization contract,
+18 subscriber contract, employee medical, surgical, or hospital care benefit
+19 plan, or self-funded employee benefit plan to the extent not preempted by
+20 federal law; and
+21 (ii) Health insurance plan does not include (A) accident-only,
+22 disability-income, hospital confinement indemnity, dental, hearing,
+23 vision, or credit insurance, (B) coverage issued as a supplement to
+24 liability insurance, (C) insurance provided as a supplement to medicare,
+25 (D) insurance arising from workers' compensation provisions, (E)
+26 automobile medical payment insurance, (F) insurance policies that provide
+27 coverage for a specified disease or any other limited benefit coverage,
+28 or (G) insurance under which benefits are payable with or without regard
+29 to fault and which is statutorily required to be contained in any
+30 liability insurance policy.
+31 (5) The designated health information exchange and the department
+-15-
+
+LB949 LB949
+2026 2026
+1 shall enter into an agreement to allow the designated health information
+2 exchange to collect, aggregate, analyze, report, and release de-
+3 identified data, as defined by the federal Health Insurance Portability
+4 and Accountability Act of 1996, that is derived from the administration
+5 of the medical assistance program. Such written agreement shall be
+6 executed no later than September 30, 2021.
+7 (6) In addition to the right to opt out as provided in section
+8 71-2454, an individual shall have the right to opt out of the designated
+9 health information exchange or the sharing of information required under
+10 subsections (3) and (4) of this section. The designated health
+11 information exchange shall adopt a patient opt-out policy consistent with
+12 the federal Health Insurance Portability and Accountability Act of 1996
+13 and other applicable federal requirements. Such policy shall not apply to
+14 mandatory public health reporting requirements.
+15 Sec. 6. Section 81-6,127, Reissue Revised Statutes of Nebraska, is
+16 amended to read:
+17 81-6,127 (1) The Health Information Technology Board is created. The
+18 board shall have seventeen members. Except for members designated in
+19 subdivision (2)(o) of this section, the members shall be appointed by the
+20 Governor with the approval of a majority of the members of the
+21 Legislature. The members may begin to serve immediately following
+22 appointment and prior to approval by the Legislature. The members shall
+23 be appointed by February 1, 2021, and the board shall begin meeting on or
+24 before April 1, 2021.
+25 (2) Members designated under subdivisions (b), (c), (d), (e), (g),
+26 (h), and (i) of this subsection shall hold a credential under the Uniform
+27 Credentialing Act. Except as otherwise provided in subsection (4) of this
+28 section, the board shall consist of:
+29 (a) One individual who has experience in operating the prescription
+30 drug monitoring program created under section 71-2454;
+31 (b) Two physicians, one of whom shall be a family practice
+-16-
+
+LB949 LB949
+2026 2026
+1 physician, who are in active practice and in good standing with the
+2 Department of Health and Human Services appointed from a list of
+3 physicians provided by a statewide organization representing physicians;
+4 (c) One pharmacist who is in active practice and in good standing
+5 with the department appointed from a list of pharmacists provided by a
+6 statewide organization representing pharmacists;
+7 (d) One alcohol and drug counselor providing services for a state-
+8 licensed alcohol and drug abuse addiction treatment program;
+9 (e) One health care provider who is board-certified in pain
+10 management;
+11 (f) One hospital administrator appointed from a list of hospital
+12 administrators provided by a statewide organization representing hospital
+13 administrators;
+14 (g) One dentist who is in active practice and in good standing with
+15 the department appointed from a list of dentists provided by a statewide
+16 organization representing dentists;
+17 (h) One nurse practitioner who is in active practice and in good
+18 standing with the department authorized to prescribe medication appointed
+19 from a list of nurse practitioners authorized to prescribe medication
+20 provided by a statewide organization representing such nurse
+21 practitioners;
+22 (i) One veterinarian who is in active practice and in good standing
+23 with the department appointed from a list of veterinarians provided by a
+24 statewide organization representing veterinarians;
+25 (j) One representative of the Department of Health and Human
+26 Services;
+27 (k) One representative of a delegate as defined in section 71-2454;
+28 (l) One health care payor as defined in section 25-21,247 or an
+29 employee of a health care payor;
+30 (m) One credentialed health information management professional
+31 appointed from a list of such professionals provided by a statewide
+-17-
+
+LB949 LB949
+2026 2026
+1 organization representing such professionals;
+2 (n) One representative of the vendor statewide health information
+3 exchange described in section 71-2455; and
+4 (o) The chairperson of the Health and Human Services Committee of
+5 the Legislature and the chairperson of the Appropriations Committee of
+6 the Legislature, both of whom are nonvoting, ex officio members.
+7 (3) Except for members designated in subdivisions (2)(a) and (o) of
+8 this section:
+9 (a) A minimum of three members shall be appointed from each
+10 congressional district;
+11 (b) Each member shall be appointed for a five-year term beginning on
+12 April 1, 2021, and may serve for any number of such terms;
+13 (c) Any member appointed prior to April 1, 2021, shall begin to
+14 serve immediately upon appointment and continue serving for the term
+15 beginning on April 1, 2021; and
+16 (d) Any vacancy in membership, other than by expiration of a term,
+17 shall be filled within ninety days by the Governor by appointment for the
+18 vacant position as provided in subsection (2) of this section.
+19 (4) If, after appointment, the classification of a member's
+20 credential changes or a member's credential classification is terminated
+21 and if such credential was a qualification for appointment, the member
+22 shall be permitted to continue to serve as a member of the board until
+23 the expiration of the term for which appointed unless the member loses
+24 the credential due to disciplinary action.
+25 (5) The members shall be reimbursed for their actual and necessary
+26 expenses incurred in serving on the board as provided in section 71-2455.
+27 (6) A simple majority of members shall constitute a quorum for the
+28 transaction of all business.
+29 Sec. 7. Section 81-6,128, Reissue Revised Statutes of Nebraska, is
+30 amended to read:
+31 81-6,128 (1) The Health Information Technology Board shall:
+-18-
+
+LB949 LB949
+2026 2026
+1 (a) Establish criteria for data collection and disbursement by the
+2 vendor statewide health information exchange described in section 71-2455
+3 and the prescription drug monitoring program created under section
+4 71-2454 to improve the quality of information provided to clinicians;
+5 (b) Evaluate and ensure that the statewide health information
+6 exchange is meeting technological standards for reporting of data for the
+7 prescription drug monitoring program, including the data to be collected
+8 and reported and the frequency of data collection and disbursement;
+9 (c) Provide the governance oversight necessary to ensure that any
+10 health information in the statewide health information exchange and the
+11 prescription drug monitoring program may be accessed, used, or disclosed
+12 only in accordance with the privacy and security protections set forth in
+13 the federal Health Insurance Portability and Accountability Act of 1996,
+14 Public Law 104-191, and regulations promulgated thereunder. All protected
+15 health information is privileged, is not a public record, and may be
+16 withheld from the public pursuant to section 84-712.05; and
+17 (d) Provide recommendations to the statewide health information
+18 exchange on any other matters referred to the board.
+19 (2) The board shall adopt policies and procedures necessary to carry
+20 out its duties.
+21 (3) The authority of the board to direct the use or release of data
+22 under this section or section 71-2454 shall apply only to requests
+23 submitted to the board after September 1, 2021.
+24 (4) The board may hold meetings by telecommunication or electronic
+25 communication subject to the Open Meetings Act. Any official action or
+26 vote of the members of the board shall be preserved in the records of the
+27 board.
+28 (5) By November 15, 2021, and November 15 of each year thereafter,
+29 the board shall develop and submit an annual report to the Governor and
+30 the Health and Human Services Committee of the Legislature regarding
+31 considerations undertaken, decisions made, accomplishments, and other
+-19-
+
+LB949 LB949
+2026 2026
+1 relevant information. The report submitted to the Legislature shall be
+2 submitted electronically.
+3 Sec. 8. Original sections 81-6,124, 81-6,125, 81-6,127, and
+4 81-6,128, Reissue Revised Statutes of Nebraska, and sections 68-2106,
+5 71-2454, and 71-2455, Revised Statutes Cumulative Supplement, 2024, are
+6 repealed.
+-20-

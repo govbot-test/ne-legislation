@@ -1,0 +1,40 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LB880 LB880
+2026 2026
+LEGISLATURE OF NEBRASKA
+ONE HUNDRED NINTH LEGISLATURE
+SECOND SESSION
+LEGISLATIVE BILL 880
+Introduced by Guereca, 7.
+Read first time January 08, 2026
+Committee: Judiciary
+1 A BILL FOR AN ACT relating to the Uniform Residential Landlord and Tenant
+2 Act; to amend section 76-1401, Revised Statutes Supplement, 2025; to
+3 prohibit landlords from prohibiting or charging extra fees for
+4 payments made by automated clearinghouse transfer; to harmonize
+5 provisions; and to repeal the original section.
+6 Be it enacted by the people of the State of Nebraska,
+-1-
+
+LB880 LB880
+2026 2026
+1 Section 1. Section 76-1401, Revised Statutes Supplement, 2025, is
+2 amended to read:
+3 76-1401 Sections 76-1401 to 76-1449 and section 2 of this act shall
+4 be known and may be cited as the Uniform Residential Landlord and Tenant
+5 Act.
+6 Sec. 2. A landlord shall not:
+7 (1) Prohibit a tenant from making any payment by means of an
+8 automated clearinghouse transfer; or
+9 (2) Charge a tenant any extra fee for a payment made by means of an
+10 automated clearinghouse transfer.
+11 Sec. 3. Original section 76-1401, Revised Statutes Supplement,
+12 2025, is repealed.
+-2-

@@ -1,0 +1,17 @@
+Title: 
+Official Title: 
+Source: versions - Health and Human Services AM1786
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+AM1786 AM1786
+LB721 LB721
+DLM - 01/23/2026 DLM - 01/23/2026
+AMENDMENTS TO LB721
+Introduced by Health and Human Services.
+1 1. On page 2, line 30, after the period, insert "A facility may not
+2 apply for a grant if it has previously received a grant under this
+3 section.".
+-1-

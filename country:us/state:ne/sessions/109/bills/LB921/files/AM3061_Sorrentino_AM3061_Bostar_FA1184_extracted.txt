@@ -1,0 +1,453 @@
+Title: 
+Official Title: 
+Source: versions - Sorrentino AM3061 Bostar FA1184
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+AM3061 AM3061
+LB921 LB921
+MLU - 04/01/2026 MLU - 04/01/2026
+AMENDMENTS TO LB921
+(Amendments to E&R amendments, ER164)
+Introduced by Sorrentino, 39.
+1 1. Insert the following new section:
+2 Sec. 16. Section 48-604, Revised Statutes Supplement, 2025, is
+3 amended to read:
+4 48-604 As used in the Employment Security Law, unless the context
+5 otherwise requires, employment shall mean:
+6 (1) Any service performed, including service in interstate commerce,
+7 for wages under a contract of hire, written or oral, express or implied;
+8 (2) The term employment shall include an individual's entire
+9 service, performed within or both within and without this state if (a)
+10 the service is localized in this state, (b) the service is not localized
+11 in any state but some of the service is performed in this state and the
+12 base of operations or, if there is no base of operations, then the place
+13 from which such service is directed or controlled is in this state or the
+14 base of operations or place from which such service is directed or
+15 controlled is not in any state in which some part of the service is
+16 performed but the individual's residence is in this state, (c) the
+17 service shall be deemed to be localized within a state if (i) the service
+18 is performed entirely within such state or (ii) the service is performed
+19 both within and without such state, but the service performed without
+20 such state is incidental to the individual's service within the state,
+21 for example, is temporary or transitory in nature or consists of isolated
+22 transactions;
+23 (3) Services performed outside the state and services performed
+24 outside the United States as follows:
+25 (a) Services not covered under subdivision (2) of this section and
+26 performed entirely without this state, with respect to no part of which
+-1-
+
+AM3061 AM3061
+LB921 LB921
+MLU - 04/01/2026 MLU - 04/01/2026
+1 contributions are required under an unemployment compensation law of any
+2 other state or of the federal government, shall be deemed to be
+3 employment subject to the Employment Security Law if the commissioner
+4 approves the election of the employer, for whom such services are
+5 performed, that the entire service of such individual shall be deemed to
+6 be employment subject to such law;
+7 (b) Services of an individual wherever performed within the United
+8 States or Canada if (i) such service is not covered under the employment
+9 compensation law of any other state or Canada and (ii) the place from
+10 which the service is directed or controlled is in this state; and
+11 (c)(i) Services of an individual who is a citizen of the United
+12 States, performed outside the United States except in Canada in the
+13 employ of an American employer, other than service which is deemed
+14 employment under subdivisions (2) and (3)(a) and (b) of this section or
+15 the parallel provisions of another state's law, if:
+16 (A) The employer's principal place of business in the United States
+17 is located in this state;
+18 (B) The employer has no place of business in the United States, but
+19 the employer is an individual who is a resident of this state; the
+20 employer is a corporation or limited liability company which is organized
+21 under the laws of this state; or the employer is a partnership or a trust
+22 and the number of the partners or trustees who are residents of this
+23 state is greater than the number who are residents of any other state; or
+24 (C) None of the criteria of subdivisions (A) and (B) of this
+25 subdivision are met, but the employer has elected coverage in this state
+26 or, the employer having failed to elect coverage in any state, the
+27 individual has filed a claim for benefits based on such service under the
+28 laws of this state.
+29 (ii) American employer, for the purposes of this subdivision, shall
+30 mean: (A) An individual who is a resident of the United States; (B) a
+31 partnership if two-thirds or more of the partners are residents of the
+-2-
+
+AM3061 AM3061
+LB921 LB921
+MLU - 04/01/2026 MLU - 04/01/2026
+1 United States; (C) a trust if all the trustees are residents of the
+2 United States; or (D) a corporation or limited liability company
+3 organized under the laws of the United States or of any state.
+4 (iii) The term United States for the purpose of this section
+5 includes the states, the District of Columbia, the Virgin Islands, and
+6 the Commonwealth of Puerto Rico;
+7 (4)(a) Service performed in the employ of this state or any
+8 political subdivision thereof or any instrumentality of any one or more
+9 of the foregoing or any instrumentality which is wholly owned by this
+10 state and one or more other states or political subdivisions, or any
+11 service performed in the employ of any instrumentality of this state or
+12 of any political subdivision thereof and one or more other states or
+13 political subdivisions if such service is excluded from employment as
+14 defined in the Federal Unemployment Tax Act, as amended, solely by reason
+15 of 26 U.S.C. 3306(c)(7), and is not otherwise excluded under this
+16 section;
+17 (b) Service performed by an individual in the employ of a religious,
+18 charitable, educational, or other organization, but only if the following
+19 conditions are met: (i) The service is excluded from employment as
+20 defined in the Federal Unemployment Tax Act, as amended, solely by reason
+21 of 26 U.S.C. 3306(c)(8), and is not otherwise excluded under this
+22 section; and (ii) the organization had four or more individuals in
+23 employment for some portion of a day in each of twenty different weeks,
+24 whether or not such weeks were consecutive, within either the current or
+25 preceding calendar year, regardless of whether they were employed at the
+26 same moment of time;
+27 (c)(i) Service performed by an individual in agricultural labor if
+28 such service is performed for a person who during any calendar quarter in
+29 either the current or preceding calendar year paid remuneration in cash
+30 of twenty thousand dollars or more to individuals employed in
+31 agricultural labor, or for some portion of a day in each of twenty
+-3-
+
+AM3061 AM3061
+LB921 LB921
+MLU - 04/01/2026 MLU - 04/01/2026
+1 different calendar weeks, whether or not such weeks were consecutive, in
+2 either the current or the preceding calendar year, employed in
+3 agricultural labor ten or more individuals, regardless of whether they
+4 were employed at the same moment of time.
+5 (ii) For purposes of this subdivision:
+6 (A) Any individual who is a member of a crew furnished by a crew
+7 leader to perform services in agricultural labor for any other person
+8 shall be treated as an employee of such crew leader if such crew leader
+9 holds a valid certificate of registration under the Migrant and Seasonal
+10 Agricultural Worker Protection Act, as amended, 29 U.S.C. 1801 et seq.;
+11 substantially all the members of such crew operate or maintain tractors,
+12 mechanized harvesting or cropdusting equipment, or any other mechanized
+13 equipment, which is provided by such crew leader; and such individual is
+14 not an employee of such other person within the meaning of any other
+15 provisions of this section; and
+16 (B) In case any individual who is furnished by a crew leader to
+17 perform service in agricultural labor for any other person and who is not
+18 treated as an employee of such crew leader under subdivision (A) of this
+19 subdivision, such other person and not the crew leader shall be treated
+20 as the employer of such individual and such other person shall be treated
+21 as having paid cash remuneration to such individual in an amount equal to
+22 the amount of cash remuneration paid to such individual by the crew
+23 leader, either on his or her own behalf or on behalf of such other
+24 person, for the service in agricultural labor performed for such other
+25 person; and
+26 (d) Service performed by an individual in domestic service in a
+27 private home, local college club, or local chapter of a college
+28 fraternity or sorority if performed for a person who paid cash
+29 remuneration of one thousand dollars or more in the current calendar year
+30 or the preceding calendar year to individuals employed in such domestic
+31 service in any calendar quarter;
+-4-
+
+AM3061 AM3061
+LB921 LB921
+MLU - 04/01/2026 MLU - 04/01/2026
+1 (5) Services performed by an individual for wages, including wages
+2 received under a contract of hire, shall be deemed to be employment
+3 unless it is shown to the satisfaction of the commissioner that (a) such
+4 individual has been and will continue to be free from control or
+5 direction over the performance of such services, both under his or her
+6 contract of service and in fact, (b) such service is either outside the
+7 usual course of the business for which such service is performed or such
+8 service is performed outside of all the places of business of the
+9 enterprise for which such service is performed, and (c) such individual
+10 is customarily engaged in an independently established trade, occupation,
+11 profession, or business. The provisions of this subdivision are not
+12 intended to be a codification of the common law and shall be considered
+13 complete as written;
+14 (6) The term employment shall not include:
+15 (a) Agricultural labor, except as provided in subdivision (4)(c) of
+16 this section;
+17 (b) Domestic service, except as provided in subdivision (4)(d) of
+18 this section, in a private home, local college club, or local chapter of
+19 a college fraternity or sorority;
+20 (c) Service not in the course of the employer's trade or business
+21 performed in any calendar quarter by an employee, unless the cash
+22 remuneration paid for such service is fifty dollars or more and such
+23 service is performed by an individual who is regularly employed by such
+24 employer to perform such service and, for the purposes of this
+25 subdivision, an individual shall be deemed to be regularly employed by an
+26 employer during a calendar quarter only if (i) on each of some twenty-
+27 four days during such quarter such individual performs for such employer
+28 for some portion of the day service not in the course of the employer's
+29 trade or business, or (ii) such individual was regularly employed, as
+30 determined under subdivision (c)(i) of this subdivision, by such employer
+31 in the performance of such service during the preceding calendar quarter;
+-5-
+
+AM3061 AM3061
+LB921 LB921
+MLU - 04/01/2026 MLU - 04/01/2026
+1 (d) Service performed by an individual in the employ of his or her
+2 son, daughter, or spouse and service performed by a child under the age
+3 of twenty-one in the employ of his or her father or mother;
+4 (e) Service performed in the employ of the United States Government
+5 or an instrumentality of the United States immune under the Constitution
+6 of the United States from the contributions imposed by sections 48-648
+7 and 48-649 to 48-649.04, except that, to the extent that the Congress of
+8 the United States shall permit states to require any instrumentalities of
+9 the United States to make payments into an unemployment fund under a
+10 state unemployment compensation act, all of the Employment Security Law
+11 shall be applicable to such instrumentalities and to services performed
+12 for such instrumentalities in the same manner, to the same extent, and on
+13 the same terms as to all other employers, individuals, and services,
+14 except that if this state is not certified for any year by the Secretary
+15 of Labor of the United States under section 3304 of the Internal Revenue
+16 Code as defined in section 49-801.01, the payments required of such
+17 instrumentalities with respect to such year shall be refunded by the
+18 commissioner from the fund in the same manner and within the same period
+19 as is provided in section 48-660, with respect to contributions
+20 erroneously collected;
+21 (f) Service performed in the employ of this state or any political
+22 subdivision thereof or any instrumentality of any one or more of the
+23 foregoing if such services are performed by an individual in the exercise
+24 of his or her duties: (i) As an elected official; (ii) as a member of the
+25 legislative body or a member of the judiciary of a state or political
+26 subdivision thereof; (iii) as a member of the Army National Guard or Air
+27 National Guard; (iv) as an employee serving on a temporary basis in case
+28 of fire, storm, snow, earthquake, flood, or similar emergency; or (v) as
+29 an election official or election worker if the amount of remuneration
+30 received by the individual during the calendar year for services as an
+31 election official or election worker is less than one thousand dollars;
+-6-
+
+AM3061 AM3061
+LB921 LB921
+MLU - 04/01/2026 MLU - 04/01/2026
+1 (g) For the purposes of subdivisions (4)(a) and (4)(b) of this
+2 section, service performed:
+3 (i) In the employ of (A) a church or convention or association of
+4 churches or (B) an organization which is operated primarily for religious
+5 purposes and which is operated, supervised, controlled, or principally
+6 supported by a church or convention or association of churches;
+7 (ii) By a duly ordained, commissioned, or licensed minister of a
+8 church in the exercise of his or her ministry or by a member of a
+9 religious order in the exercise of the duties required by such order;
+10 (iii) In a facility conducted for the purpose of carrying out a
+11 program of rehabilitation for an individual whose earning capacity is
+12 impaired by age or physical or mental deficiency or injury, or providing
+13 remunerative work for the individuals who because of their impaired
+14 physical or mental capacity cannot be readily absorbed in the competitive
+15 labor market, by an individual receiving such rehabilitation or
+16 remunerative work;
+17 (iv) As part of an unemployment work relief or work-training program
+18 assisted or financed in whole or in part by any federal agency or an
+19 agency of a state or political subdivision thereof, by an individual
+20 receiving such work relief or work training; or
+21 (v) By an inmate of a custodial or penal institution;
+22 (h) Service with respect to which unemployment compensation is
+23 payable under an unemployment compensation system established by an act
+24 of Congress;
+25 (i) Service performed in any calendar quarter in the employ of any
+26 organization exempt from income tax under section 501(a) of the Internal
+27 Revenue Code as defined in section 49-801.01, other than an organization
+28 described in section 401(a) of the Internal Revenue Code as defined in
+29 section 49-801.01, or under section 521 thereof, if the remuneration for
+30 such service is less than fifty dollars;
+31 (j) Service performed in the employ of a school, college, or
+-7-
+
+AM3061 AM3061
+LB921 LB921
+MLU - 04/01/2026 MLU - 04/01/2026
+1 university, if such service is performed (i) by a student who is
+2 enrolled, regularly attending classes at, and working for such school,
+3 college, or university pursuant to a financial assistance arrangement
+4 with such school, college, or university or (ii) by the spouse of such
+5 student, if such spouse is advised, at the time such spouse commences to
+6 perform such service, that (A) the employment of such spouse to perform
+7 such service is provided under a program to provide financial assistance
+8 to such student by such school, college, or university and (B) such
+9 employment will not be covered by any program of unemployment insurance;
+10 (k) Service performed as a student nurse in the employ of a hospital
+11 or nurses training school by an individual who is enrolled and is
+12 regularly attending classes in a nurses training school chartered or
+13 approved pursuant to state law; and service performed as an intern in the
+14 employ of a hospital by an individual who has completed a four-year
+15 course in a medical school chartered or approved pursuant to state law;
+16 (l) Service performed by an individual as a real estate salesperson,
+17 as an insurance agent, or as an insurance solicitor, if all such service
+18 performed by such individual is performed for remuneration solely by way
+19 of commission;
+20 (m) Service performed by an individual under the age of eighteen in
+21 the delivery or distribution of newspapers or shopping news, not
+22 including delivery or distribution to any point for subsequent delivery
+23 or distribution;
+24 (n) Service performed by an individual in the sale, delivery, or
+25 distribution of newspapers or magazines under a written contract in which
+26 (i) the individual acknowledges that the individual performing the
+27 service and the service are not covered and (ii) the newspapers and
+28 magazines are sold by him or her at a fixed price with his or her
+29 compensation being based on the retention of the excess of such price
+30 over the amount at which the newspapers or magazines are charged to him
+31 or her, whether or not he or she is guaranteed a minimum amount of
+-8-
+
+AM3061 AM3061
+LB921 LB921
+MLU - 04/01/2026 MLU - 04/01/2026
+1 compensation for such service, or is entitled to be credited with the
+2 unsold newspapers or magazines turned back;
+3 (o) Service performed by an individual who is enrolled at a
+4 nonprofit or public educational institution which normally maintains a
+5 regular faculty and curriculum and normally has a regularly organized
+6 body of students in attendance at the place where its educational
+7 activities are carried on, as a student in a full-time program, taken for
+8 credit at such institution, which combines academic instruction with work
+9 experience, if such service is an integral part of such program, and such
+10 institution has so certified to the employer, except that this
+11 subdivision shall not apply to service performed in a program established
+12 for or on behalf of an employer or a group of employers;
+13 (p) Service performed in the employ of a hospital, if such service
+14 is performed by a patient of the hospital;
+15 (q) Service performed for a motor carrier, as defined in 49 U.S.C.
+16 13102 or section 75-302, as amended, by a lessor leasing one or more
+17 motor vehicles driven by the lessor or one or more drivers provided by
+18 the lessor under a lease, with the motor carrier as lessee, executed
+19 pursuant to 49 C.F.R. part 376, Title 291, Chapter 3, as amended, of the
+20 rules and regulations of the Public Service Commission, or the rules and
+21 regulations of the Division of Motor Carrier Services. This shall not
+22 preclude the determination of an employment relationship between the
+23 lessor and any personnel provided by the lessor in the conduct of the
+24 service performed for the lessee;
+25 (r) Service performed by an individual for a business engaged in
+26 compilation of marketing databases if such service consists only of the
+27 processing of data and is performed in the residence of the individual;
+28 (s) Service performed by an individual as a volunteer research
+29 subject who is paid on a per study basis for scientific, medical, or
+30 drug-related testing for any organization other than one described in
+31 section 501(c)(3) of the Internal Revenue Code as defined in section
+-9-
+
+AM3061 AM3061
+LB921 LB921
+MLU - 04/01/2026 MLU - 04/01/2026
+1 49-801.01 or any governmental entity;
+2 (t) Service performed by a direct seller if:
+3 (i) Such person is engaged in sales primarily in person and is:
+4 (A) Engaged in the trade or business of selling or soliciting the
+5 sale of consumer products or services to any buyer on a buy-sell basis or
+6 a deposit-commission basis for resale, by the buyer or any other person,
+7 in the home or otherwise than in a permanent retail establishment;
+8 (B) Engaged in the trade or business of selling or soliciting the
+9 sale of consumer products or services in the home or otherwise than in a
+10 permanent retail establishment; or
+11 (C) Engaged in the trade or business of the delivering or
+12 distribution of newspapers or shopping news, including any services
+13 directly related to such trade or business;
+14 (ii) Substantially all the remuneration, whether or not paid in
+15 cash, for the performance of the services described in subdivision (t)(i)
+16 of this subdivision is directly related to sales or other output,
+17 including the performance of services, rather than to the number of hours
+18 worked; and
+19 (iii) The services performed by the person are performed pursuant to
+20 a written contract between such person and the person for whom the
+21 services are performed and the contract provides that the person will not
+22 be treated as an employee for federal and state tax purposes. Sales by a
+23 person whose business is conducted primarily by telephone or any other
+24 form of electronic sales or solicitation is not service performed by a
+25 direct seller under this subdivision;
+26 (u) Service performed by an individual who is a participant in the
+27 National and Community Service State Grant Program, also known as
+28 AmeriCorps, because a participant is not considered an employee of the
+29 organization receiving assistance under the national service laws through
+30 which the participant is engaging in service pursuant to 42 U.S.C.
+31 12511(30)(B);
+-10-
+
+AM3061 AM3061
+LB921 LB921
+MLU - 04/01/2026 MLU - 04/01/2026
+1 (v) Service performed at a penal or custodial institution by a
+2 person committed to a penal or custodial institution; and
+3 (w)(i) Service by a marketplace network contractor if:
+4 (A) The marketplace network contractor and marketplace network
+5 platform agree in writing that the marketplace network contractor is an
+6 independent contractor and not an employee of the marketplace network
+7 platform;
+8 (B) The marketplace network platform does not unilaterally prescribe
+9 specific hours during which the marketplace network contractor must be
+10 available to accept service requests submitted through the marketplace
+11 network platform's digital network;
+12 (C) The marketplace network platform does not prohibit the
+13 marketplace network contractor from engaging in outside employment or
+14 performing services through other marketplace network platforms except
+15 while the marketplace network contractor is performing services through
+16 the marketplace network platform's digital network; and
+17 (D) The marketplace network platform is not allowed to terminate the
+18 contract of the marketplace network contractor for not accepting a
+19 specific service request.
+20 (ii) For purposes of subdivision (6)(w) of this section:
+21 (A) Marketplace network contractor means a person to which all of
+22 the following apply: Such person enters a written agreement with a
+23 marketplace network platform to use the marketplace network platform's
+24 digital network to connect with individuals or entities seeking services
+25 offered by the marketplace network contractor; such person performs
+26 services for individuals or entities through a marketplace network
+27 platform's digital network in exchange for compensation or payment; and
+28 such person does not perform services at a physical business location
+29 operated by the marketplace network platform in this state, except when
+30 such physical business is located in a city of the metropolitan or
+31 primary class; and
+-11-
+
+AM3061 AM3061
+LB921 LB921
+MLU - 04/01/2026 MLU - 04/01/2026
+1 (B) Marketplace network platform means a person that maintains a
+2 digital network to facilitate services by marketplace network contractors
+3 to individuals or entities seeking those services, and accepts requests
+4 from the public only through the platform's digital network or mobile
+5 application, and not by telephone, facsimile, or in-person at a retail
+6 location.
+7 (iii) Subdivision (6)(w) of this section shall not apply to services
+8 performed by a marketplace network contractor:
+9 (A) For any employer described in subdivision (4)(a) or (4)(b) of
+10 this section or in section 48-603.01; or
+11 (B) If with respect to such services a tax is required to be paid
+12 under any federal law imposing a tax against which credit may be taken
+13 for contributions required to be paid into a state unemployment
+14 compensation fund or which as a condition for full tax credit against the
+15 tax imposed by the Federal Unemployment Tax Act, as amended, is required
+16 to be covered under the Employment Security Law;
+17 (7) If the services performed during one-half or more of any pay
+18 period by an individual for the person employing him or her constitute
+19 employment, all the services of such individual for such period shall be
+20 deemed to be employment, but if the services performed during more than
+21 one-half of any such pay period by an individual for the person employing
+22 him or her do not constitute employment, then none of the services of
+23 such individual for such period shall be deemed to be employment. As used
+24 in this subdivision, the term pay period means a period, of not more than
+25 thirty-one consecutive days, for which a payment of remuneration is
+26 ordinarily made to such individual by the person employing him or her.
+27 This subdivision shall not be applicable with respect to services
+28 performed in a pay period by an individual for the person employing him
+29 or her when any of such service is excepted by subdivision (6)(h) of this
+30 section; and
+31 (8) Notwithstanding the foregoing exclusions from the definition of
+-12-
+
+AM3061 AM3061
+LB921 LB921
+MLU - 04/01/2026 MLU - 04/01/2026
+1 employment, services shall be deemed to be in employment if with respect
+2 to such services a tax is required to be paid under any federal law
+3 imposing a tax against which credit may be taken for contributions
+4 required to be paid into a state unemployment compensation fund or which
+5 as a condition for full tax credit against the tax imposed by the Federal
+6 Unemployment Tax Act, as amended, is required to be covered under the
+7 Employment Security Law.
+8 2. Renumber the remaining sections and correct internal references
+9 accordingly.
+10 3. Correct the operative date and repealer sections so that the
+11 section added by this amendment becomes operative on its effective date.
+-13-

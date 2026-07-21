@@ -1,0 +1,1167 @@
+Title: 
+Official Title: 
+Source: versions - Slip Law
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LB921 LB921
+2026 2026
+LEGISLATIVE BILL 921
+Approved by the Governor April 14, 2026
+Introduced by Ibach, 44.
+A BILL FOR AN ACT relating to law; to amend sections 48-628, 48-2209, 81-401,
+81-406, 81-8,236, 81-8,300, 81-8,316, and 81-8,318, Reissue Revised
+Statutes of Nebraska, and section 48-604, Revised Statutes Supplement,
+2025; to adopt the Nebraska Worker Adjustment and Retraining Notification
+Act and the Health Care Staffing Agency Registration Act; to change
+provisions relating to employment and to disqualify certain individuals
+from receiving benefits under the Employment Security Law; to change
+certain employer duties under the Non-English-Speaking Workers Protection
+Act; to grant authority to the Governor; to change provisions relating to
+a cash fund; to allow counties to file multiple claims relating to
+correctional institution incidents; to redefine terms and change
+provisions relating to the investigation and appeal of claims under the In
+the Line of Duty Compensation Act; to harmonize provisions; to provide
+operative dates; and to repeal the original sections.
+Be it enacted by the people of the State of Nebraska,
+Section 1. Sections 1 to 6 of this act shall be known and may be cited as
+the Nebraska Worker Adjustment and Retraining Notification Act.
+Sec. 2. For purposes of the Nebraska Worker Adjustment and Retraining
+Notification Act:
+(1) Business closing means the permanent or temporary shutdown of a single
+site of employment of one or more facilities or operating units that will
+result in an employment loss for one hundred or more employees, other than
+part-time employees;
+(2) Department means the Department of Labor;
+(3) Employee means a worker who may reasonably expect to experience an
+employment loss as a consequence of a proposed business closing or mass layoff
+by an employer;
+(4) Employer means a person who employs one hundred or more employees,
+excluding part-time employees;
+(5) Employment loss means an employment termination, other than a
+discharge for cause, voluntary separation, or retirement; a layoff exceeding
+six months; or a reduction in hours of more than fifty percent of work of
+individual employees during each month of a six-month period. Employment loss
+does not include instances when a business closing or mass layoff is the result
+of the relocation or consolidation of part or all of the employer's business
+and, before the business closing or mass layoff, the employer offers to
+transfer the employee to a different site of employment within a reasonable
+commuting distance with no more than a six-month break in employment;
+(6) Mass layoff means a reduction in employment force that is not the
+result of a business closing and results in an employment loss at a single site
+of employment during any thirty-day period of one hundred or more employees,
+other than part-time employees;
+(7) Part-time employee means an employee who is employed for an average of
+fewer than twenty hours per week or an employee, including a full-time
+employee, who has been employed for fewer than six of the twelve months
+preceding the date on which notice is required. However, if an applicable
+collective bargaining agreement defines a part-time employee, such definition
+shall supersede the definition in this subdivision;
+(8) Representative means an exclusive representative of employees within
+the meaning of section 9(a) of the federal National Labor Relations Act, 29
+U.S.C. 151 et seq., and the federal Railway Labor Act, 45 U.S.C. 151 et seq.;
+and
+(9) Single site of employment means a single location or a group of
+contiguous locations, such as a group of structures that form a campus or
+business park or separate facilities across the street from each other.
+Sec. 3. (1)(a) An employer who plans a business closing or a mass layoff
+shall not order such action until the end of a ninety-day period which begins
+after the employer serves written notice of such action to the affected
+employees or their representatives and to the department. However, if an
+applicable collective bargaining agreement designates a different notice
+period, the notice period in the collective bargaining agreement shall govern.
+The employer shall provide notice to the department if the worker is covered by
+a collective bargaining agreement.
+(b) An employer who has previously announced and carried out a short-term
+mass layoff of six months or less which is extended beyond six months due to
+business circumstances not reasonably foreseeable at the time of the initial
+mass layoff is required to give notice when it becomes reasonably foreseeable
+that the extension is required. A mass layoff extending beyond six months from
+the date the mass layoff commenced for any other reason shall be treated as an
+employment loss from the date of commencement of the mass layoff.
+(c) In the case of the sale of part or all of a business, the seller is
+responsible for providing notice of any business closing or mass layoff which
+-1-
+
+LB921 LB921
+2026 2026
+will take place up to and on the effective date of the sale. The buyer is
+responsible for providing notice of any business closing or mass layoff that
+will take place thereafter.
+(2)(a) Notice from the employer to the affected employees or their
+representatives and to the department shall be in written form and shall
+contain the following:
+(i) The name and address of the employment site where the business closing
+or mass layoff will occur, and the name and telephone number of a company
+official to contact for further information;
+(ii) A statement as to whether the planned action is expected to be
+permanent or temporary and, if the entire business is to be closed, a statement
+to that effect;
+(iii) The expected date of the first employment loss and the anticipated
+schedule for employment losses;
+(iv) The job titles of positions to be affected and the names of the
+employees currently holding the affected jobs. The notice to the department
+shall also include the addresses of the affected employees. The department
+shall maintain the confidentiality of the names and addresses of employees
+received by the department; and
+(v) Copies of all employee handbooks, personnel policies, and employment-
+related policies applicable to the affected employees, or a written statement
+identifying the specific online location or locations where such handbooks or
+policies may be accessed without restriction up until the expected date of the
+first employment loss.
+(b) The notice may include additional information useful to the employees,
+such as information about available dislocated worker assistance and, if the
+planned action is expected to be temporary, the estimated duration, if known.
+(3) Any reasonable method of delivery to the affected employees or their
+representatives and the department which is designed to ensure receipt of
+notice of at least ninety days before the planned action is acceptable. In the
+case of notification directly to affected employees, insertion of notice into
+pay envelopes is a viable option. The employer must also post the notice in a
+conspicuous location in the languages spoken by at least five percent of the
+employer's workforce.
+Sec. 4. (1) If a business closing or mass layoff constitutes a strike or
+constitutes a lockout not intended to evade the requirements of the Nebraska
+Worker Adjustment and Retraining Notification Act, notice is not required to be
+given by the employer. The Nebraska Worker Adjustment and Retraining
+Notification Act does not require an employer to serve written notice when
+permanently replacing an employee who is deemed to be an economic striker under
+the federal National Labor Relations Act. The Nebraska Worker Adjustment and
+Retraining Notification Act shall not be deemed to validate or invalidate any
+judicial or administrative ruling relating to the hiring of permanent
+replacements for economic strikers under the federal National Labor Relations
+Act. If an employer hires temporary workers to replace employees during the
+course of a strike or lockout and later terminates these temporary workers at
+the conclusion of the strike or lockout, the Nebraska Worker Adjustment and
+Retraining Notification Act does not require an employer to serve written
+notice on the terminated temporary workers.
+(2)(a) When affected employees will not be terminated on the same date,
+the date of the first individual employment loss within the ninety-day notice
+period triggers the notice requirement. An employee's last day of employment is
+considered the date of that employee's layoff. The first and subsequent groups
+of terminated employees are entitled to a full ninety days' notice.
+(b) An employer shall give notice if the number of employment losses of
+two or more actions in any ninety-day period triggers the notice requirements
+in section 3 of this act for a business closing or a mass layoff. An employer
+is not required to give notice if the number of employment losses from one
+action in a thirty-day period does not meet the requirements of section 3 of
+this act. All employment losses in any ninety-day period shall be aggregated to
+trigger the notice requirement unless the employer demonstrates to the
+department that the employment losses during the ninety-day period are the
+result of separate and distinct actions and causes.
+(3)(a) Additional notice is required if the date or schedule of dates of a
+planned business closing or mass layoff is extended beyond the date or the
+ending date of any period announced in the original notice.
+(b) If the postponement is for less than thirty days, the additional
+notice shall be given as soon as possible to the affected employees or their
+representatives and the department and shall include reference to the earlier
+notice, the date to which the planned action is postponed, and the reasons for
+the postponement. The notice shall be given in a manner which will provide the
+information to all affected employees.
+(c) If the postponement is for more than thirty days, the additional
+notice shall be treated as new notice subject to the provisions of section 3 of
+this act.
+(4)(a) An exception to the ninety-day notice applies to business closings,
+but not to mass layoffs, if the following requirements are met:
+(i) An employer must have been actively seeking capital or business at the
+time that the ninety-day notice would have been required by seeking financing
+or refinancing through the arrangement of loans or the issuance of stocks,
+bonds, or other methods of internally generated financing, or by seeking
+additional money, credit, or business through any other commercially reasonable
+method. The employer must identify specific actions taken to obtain capital or
+-2-
+
+LB921 LB921
+2026 2026
+business;
+(ii) The employer must, at the time notice is actually given, provide a
+statement of explanation for reducing the notice period in addition to the
+other notice requirements in section 3 of this act;
+(iii) There must have been a realistic opportunity to obtain the financing
+or business sought;
+(iv) The financing or business sought must have been sufficient, if
+obtained, to have enabled the employer to avoid or postpone the shutdown. The
+employer must be able to objectively demonstrate that the amount of capital or
+the volume of new business sought would have enabled the company to keep the
+facility, operating unit, or site open for a reasonable period of time; and
+(v) The employer reasonably and in good faith must have believed that
+giving the required notice would have precluded the employer from obtaining the
+needed capital or business. The employer must be able to objectively
+demonstrate that the employer reasonably thought that a potential customer or
+source of financing would have been unwilling to provide the new business or
+capital if notice had been given. This condition may be satisfied if the
+employer can show that the financing or business source would not choose to do
+business with a troubled company or with a company whose workforce would be
+looking for other jobs.
+(b) The exception provided in subdivision (4)(a) of this section shall be
+narrowly construed.
+(5) An exception to the ninety-day notice applies to business closings and
+to mass layoffs if the following requirements are met:
+(a) Business circumstances occurred that were not reasonably foreseeable
+at the time that the ninety-day notice would have been required. An important
+indicator of a reasonably unforeseeable business circumstance is that the
+circumstance is caused by some sudden, dramatic, and unexpected action or
+condition outside the employer's control;
+(b) The employer must, at the time notice is actually given, provide a
+statement of explanation for reducing the notice period in addition to the
+other notice requirements in section 3 of this act; and
+(c) The employer must exercise commercially reasonable business judgment
+as would a similarly situated employer in predicting the demands of the
+employer's particular market. The employer is not required to accurately
+predict general economic conditions that also may affect demand for products or
+services.
+(6)(a) An exception to the ninety-day notice applies to business closings
+and to mass layoffs if the following requirements are met:
+(i) A natural disaster occurred at the time that the ninety-day notice
+would have been required. Floods, earthquakes, droughts, storms, tornadoes, and
+similar effects of nature shall be considered natural disasters for purposes of
+this subsection;
+(ii) The employer must, at the time notice is actually given, provide a
+statement of explanation for reducing the notice period in addition to the
+other notice requirements in section 3 of this act; and
+(iii) An employer must be able to demonstrate that the business closing or
+mass layoff is a direct result of the natural disaster.
+(b) If a business closing or mass layoff occurs as an indirect result of a
+natural disaster, the exception provided in this subsection does not apply but
+the unforeseeable business circumstance exception provided in subsection (5) of
+this section may be applicable.
+(7) The ninety-day notice requirement in section 3 of this act may be
+reduced by the number of days for which severance payments or wages in lieu of
+notice are paid by the employer to the employee for work days occurring during
+the notice period. A severance payment or wages in lieu of notice shall be at
+least an amount equivalent to the regular pay the employee would earn for the
+work days occurring during the notice period.
+Sec. 5. (1) The department shall enforce the Nebraska Worker Adjustment
+and Retraining Notification Act.
+(2) An employer who violates section 3 of this act shall be subject to a
+civil penalty of not more than one hundred dollars for each day of the
+violation.
+(3) The civil penalty provided for in this section shall be the exclusive
+remedy for any violation of the Nebraska Worker Adjustment and Retraining
+Notification Act. Under the act, a court shall not have authority to enjoin a
+business closing or mass layoff.
+Sec. 6. The department may adopt and promulgate rules and regulations to
+carry out the Nebraska Worker Adjustment and Retraining Notification Act.
+Sec. 7. Sections 7 to 15 of this act shall be known and may be cited as
+the Health Care Staffing Agency Registration Act.
+Sec. 8. For purposes of the Health Care Staffing Agency Registration Act:
+(1) Commissioner means the Commissioner of Labor;
+(2) Department means the Department of Labor;
+(3)(a) Direct services means nursing services or other services provided
+to consumers through person-to-person contact; and
+(b) Direct services does not mean:
+(i) Services performed by an individual in a health care entity that do
+not involve the provision of any direct service to a consumer of a health care
+entity;
+(ii) The practice of medicine and surgery or osteopathic medicine and
+surgery by an individual licensed under the Medicine and Surgery Practice Act;
+or
+-3-
+
+LB921 LB921
+2026 2026
+(iii) The practice of nursing by a nurse practitioner licensed under the
+Nurse Practitioner Practice Act;
+(4) Health care entity means a health care facility or a health care
+service;
+(5) Health care facility has the same meaning as in section 71-413;
+(6) Health care service has the same meaning as in section 71-415;
+(7) Health care staffing agency means an individual, a trust, a
+partnership, a corporation, a limited liability partnership, a limited
+liability company, or any other business entity that provides one or more
+temporary workers to provide direct services in a separate, third-party health
+care entity. Health care staffing agency includes a health care technology
+platform;
+(8) Health care technology platform means an individual, a trust, a
+partnership, a corporation, a limited liability partnership, a limited
+liability company, or any other business entity that developed and operates,
+offers, or maintains a system or technology that provides a marketplace, by
+means of the Internet or a software application, which allows (a) a worker, in
+the sole discretion of such worker, to choose when and how often to utilize the
+platform to bid on or select an open shift posted by a health care entity and
+(b) a health care entity to set rates with the platform that can only be
+changed by a contractual amendment between the parties;
+(9)(a) Nursing services means services that may be provided only by or
+under the supervision of a nurse; and
+(b) Nursing services does not mean the practice of nursing by a nurse
+practitioner licensed under the Nurse Practitioner Practice Act; and
+(10) Worker means an individual who contracts with or is employed by a
+health care staffing agency to provide direct services for a health care
+entity.
+Sec. 9. (1) A health care staffing agency operating in the state shall
+register annually with the department. As a condition of eligibility for
+registration, the applicant shall certify that the health care staffing agency
+is in compliance with section 11 of this act.
+(2) An applicant for registration and renewal of registration shall, for
+each separate physical location at which the applicant intends to operate as a
+health care staffing agency in Nebraska, file an application in a form
+prescribed by the department and pay an annual registration fee of one thousand
+five hundred dollars to the department, except that if the applicant is a
+health care staffing agency operating in Nebraska that does not maintain a
+physical location in Nebraska, the application shall be for the state generally
+and the annual registration fee shall be one thousand five hundred dollars for
+such application. An application for the renewal of a registration shall be
+made at least sixty days prior to the expiration of the then-current
+registration period. The department shall issue the applicant a separate
+certification of registration for each physical location at which the applicant
+intends to operate as a health care staffing agency in Nebraska upon approval
+of registration and payment of the fee, except that if the applicant is a
+health care staffing agency operating in Nebraska that does not maintain a
+physical location in Nebraska, the department shall issue one certificate of
+registration to the applicant for the state generally. The application shall
+include appropriate evidence of ability to comply with the requirements of
+section 10 of this act. The department shall remit the fees to the State
+Treasurer for credit to the Contractor and Professional Employer Organization
+Registration Cash Fund.
+(3) If the commissioner denies an application for registration or renewal
+of registration of a health care staffing agency, the commissioner shall issue
+a notice of denial. The health care staffing agency may file an appeal with the
+commissioner within twenty days after the date of mailing of the notice of
+denial. Except as otherwise provided in the Health Care Staffing Agency
+Registration Act, an appeal under this section shall be governed by the
+Administrative Procedure Act.
+Sec. 10. (1) A health care staffing agency shall:
+(a) Ensure that each worker complies with all applicable requirements
+relating to the federal and state licensing, certification, registration, and
+health care requirements and qualifications for personnel providing direct
+services in a health care entity. Unless the contract between the health care
+entity and the health care staffing agency provides otherwise, the health care
+staffing agency shall not be responsible for each worker's compliance with the
+health care entity's organization-specific requirements;
+(b) Document that each worker meets the minimum federal and state
+licensing, certification, registration, and health care requirements as
+applicable for the worker's position in the health care entity;
+(c) Maintain a record for each worker and report, file, or otherwise
+provide any required documentation to any external party or regulator if such
+duties would otherwise be the responsibility of the health care entity if the
+worker was an employee of the health care entity. A health care technology
+platform shall make available records stored on the platform for all workers,
+including documents required pursuant to subdivisions (1)(b) and (d) and
+subsection (2) of this section; and
+(d) Maintain or require each worker to maintain professional and general
+liability insurance coverage with minimum per occurrence coverage of one
+million dollars and aggregate coverage of three million dollars to insure
+against loss, damage, or expense incident to a claim arising out of the death
+or injury of any individual as the result of negligence or malpractice in the
+-4-
+
+LB921 LB921
+2026 2026
+provision of services by the health care staffing agency or a worker of the
+agency.
+(2) A health care staffing agency shall provide the department with (a)
+proof of a certificate or policy of insurance written by an insurance carrier
+duly authorized to do business in this state which gives the effective dates of
+workers' compensation insurance coverage indicating that it is in force, (b)
+proof of a certificate evidencing approval of self-insurance privileges as
+provided by the Nebraska Workers' Compensation Court pursuant to section
+48-145, (c) a signed statement indicating that the health care staffing agency
+is not required to carry workers' compensation insurance pursuant to the
+Nebraska Workers' Compensation Act, or (d) proof of a certificate evidencing
+occupational accident coverage for all workers employed by the health care
+staffing agency in the state.
+(3) A health care staffing agency that ceases to engage in the business of
+or act as a health care staffing agency shall notify the department of such
+fact and maintain all files and other records relating to its business as a
+health care staffing agency in Nebraska for a period of two years. Such files
+and records shall be made available to the department within fourteen calendar
+days after such files and records are requested by the department.
+Sec. 11. (1) A health care staffing agency shall not:
+(a) Include in any contract with a worker or a health care entity a
+noncompete clause restricting in any manner the employment opportunities of a
+worker; or
+(b) In any contract with a worker or a health care entity, require payment
+of liquidated damages, employment fees, or other compensation if the worker is
+subsequently hired as a permanent employee of the health care entity, except
+that this subdivision (b) shall not apply to (i) payments made solely by a
+health care entity pursuant to a contract with a health care staffing agency
+which provides that the payment amount will be reduced pro rata for each hour
+of service the worker performs for the entity while on the payroll of such
+agency and that such amount will be reduced to zero upon completion of no more
+than seven hundred twenty hours of service for the entity or (ii) payments made
+by a foreign worker whom the staffing agency assisted in obtaining
+authorization to work in the United States and the worker was assigned to a
+single health care entity for an initial term of not less than twenty-four
+months.
+(2) Any clause of a contract that violates this section is void.
+Sec. 12. (1) If the commissioner determines that a health care staffing
+agency (a) failed to register as required by the Health Care Staffing Agency
+Registration Act, (b) violated section 10 or 11 of this act, (c) failed to
+provide documentation pursuant to section 13 of this act, or (d) knowingly
+provided to a health care entity a worker who has an illegally or fraudulently
+obtained or issued diploma, registration, license, certification, or background
+check, the commissioner may take one or more of the following actions:
+(i) Assess a civil penalty of not more than five hundred dollars for a
+first offense and five thousand dollars for each offense thereafter; or
+(ii) Revoke the registration for a period of no more than one calendar
+year. This revocation shall apply to all locations of the health care staffing
+agency.
+(2) If the commissioner determines that a civil penalty or revocation is
+warranted under this section, the commissioner shall issue a notice of citation
+that notifies the health care staffing agency of the proposed civil penalty or
+revocation. The notice of citation shall be sent by certified mail or any other
+manner of delivery by which the United States Postal Service can verify
+delivery.
+(3) A health care staffing agency may appeal any notice of citation by
+filing an appeal with the commissioner within twenty days after the date of
+mailing of the notice of citation. Except as otherwise provided in the Health
+Care Staffing Agency Registration Act, an appeal under this subsection shall be
+governed by the Administrative Procedure Act.
+(4) No penalty or revocation shall become effective until the later of the
+day following expiration of the appeal period or thirty days after a decision
+on appeal has become final. Once a revocation becomes effective, it is
+effective for one calendar year and applies to revoke any then-current
+registration for all locations of the health care staffing agency and to
+preclude the health care staffing agency from applying for a new registration
+for any location during the revocation period. A health care staffing agency
+that has substantially common ownership or management as a health care staffing
+agency whose registration has been revoked under this section shall not be
+eligible for registration during the revocation period.
+(5) In any civil action to enforce the Health Care Staffing Agency
+Registration Act, the commissioner and the state may be represented by any
+qualified attorney who is employed by the commissioner and is designated by the
+commissioner for this purpose or, at the commissioner's request, by the
+Attorney General.
+Sec. 13. (1) The commissioner shall establish a system for the public to
+report complaints against a health care staffing agency or worker regarding
+compliance with the Health Care Staffing Agency Registration Act. The
+commissioner shall investigate any complaint received.
+(2) The commissioner may investigate to determine if a health care
+staffing agency is in compliance with the Health Care Staffing Agency
+Registration Act and shall conduct random audits of health care staffing
+agencies with workers in Nebraska. Any investigation or audit shall take place
+-5-
+
+LB921 LB921
+2026 2026
+at such times and places as the commissioner directs, with no fewer than three
+business days' prior notice.
+(3) For purposes of any investigation or audit under this section, the
+commissioner or any officer designated by the commissioner may administer oaths
+and affirmations, subpoena witnesses, compel their attendance, take evidence,
+and require the production of any books, papers, correspondence, memoranda,
+agreements, or other documents or records that the commissioner deems relevant
+or material to the investigation.
+(4) In case of contumacy by or refusal to obey a subpoena issued to any
+person, any court of competent jurisdiction, upon application by the
+commissioner and determination that such refusal was not based on a reasonable
+interpretation of applicable law, may issue to such person an order requiring
+such person to appear before the commissioner or the officer designated by the
+commissioner and produce documentary evidence, if so ordered, or give evidence
+affecting the matter under investigation or in question. Such person shall be
+afforded an opportunity to provide the commissioner and, if an application is
+made to a court of competent jurisdiction by the commissioner to enforce the
+subpoena, the court with an analysis or argument as to why such contumacy or
+refusal is based on a reasonable interpretation of applicable law. Any failure
+to obey the order of the court may be punished by the court as contempt.
+Sec. 14. (1) The department shall create a database of health care
+staffing agencies registered under the Health Care Staffing Agency Registration
+Act. The department shall make the database accessible to the public on its
+website.
+(2) The database shall include, but not be limited to, the following
+information:
+(a) The date of registration approval for the health care staffing agency;
+and
+(b) The date of expiration or revocation of the registration of the health
+care staffing agency.
+Sec. 15. The department may adopt and promulgate rules and regulations to
+carry out the Health Care Staffing Agency Registration Act.
+Sec. 16. Section 48-604, Revised Statutes Supplement, 2025, is amended to
+read:
+48-604 As used in the Employment Security Law, unless the context
+otherwise requires, employment shall mean:
+(1) Any service performed, including service in interstate commerce, for
+wages under a contract of hire, written or oral, express or implied;
+(2) The term employment shall include an individual's entire service,
+performed within or both within and without this state if (a) the service is
+localized in this state, (b) the service is not localized in any state but some
+of the service is performed in this state and the base of operations or, if
+there is no base of operations, then the place from which such service is
+directed or controlled is in this state or the base of operations or place from
+which such service is directed or controlled is not in any state in which some
+part of the service is performed but the individual's residence is in this
+state, (c) the service shall be deemed to be localized within a state if (i)
+the service is performed entirely within such state or (ii) the service is
+performed both within and without such state, but the service performed without
+such state is incidental to the individual's service within the state, for
+example, is temporary or transitory in nature or consists of isolated
+transactions;
+(3) Services performed outside the state and services performed outside
+the United States as follows:
+(a) Services not covered under subdivision (2) of this section and
+performed entirely without this state, with respect to no part of which
+contributions are required under an unemployment compensation law of any other
+state or of the federal government, shall be deemed to be employment subject to
+the Employment Security Law if the commissioner approves the election of the
+employer, for whom such services are performed, that the entire service of such
+individual shall be deemed to be employment subject to such law;
+(b) Services of an individual wherever performed within the United States
+or Canada if (i) such service is not covered under the employment compensation
+law of any other state or Canada and (ii) the place from which the service is
+directed or controlled is in this state; and
+(c)(i) Services of an individual who is a citizen of the United States,
+performed outside the United States except in Canada in the employ of an
+American employer, other than service which is deemed employment under
+subdivisions (2) and (3)(a) and (b) of this section or the parallel provisions
+of another state's law, if:
+(A) The employer's principal place of business in the United States is
+located in this state;
+(B) The employer has no place of business in the United States, but the
+employer is an individual who is a resident of this state; the employer is a
+corporation or limited liability company which is organized under the laws of
+this state; or the employer is a partnership or a trust and the number of the
+partners or trustees who are residents of this state is greater than the number
+who are residents of any other state; or
+(C) None of the criteria of subdivisions (A) and (B) of this subdivision
+are met, but the employer has elected coverage in this state or, the employer
+having failed to elect coverage in any state, the individual has filed a claim
+for benefits based on such service under the laws of this state.
+(ii) American employer, for the purposes of this subdivision, shall mean:
+-6-
+
+LB921 LB921
+2026 2026
+(A) An individual who is a resident of the United States; (B) a partnership if
+two-thirds or more of the partners are residents of the United States; (C) a
+trust if all the trustees are residents of the United States; or (D) a
+corporation or limited liability company organized under the laws of the United
+States or of any state.
+(iii) The term United States for the purpose of this section includes the
+states, the District of Columbia, the Virgin Islands, and the Commonwealth of
+Puerto Rico;
+(4)(a) Service performed in the employ of this state or any political
+subdivision thereof or any instrumentality of any one or more of the foregoing
+or any instrumentality which is wholly owned by this state and one or more
+other states or political subdivisions, or any service performed in the employ
+of any instrumentality of this state or of any political subdivision thereof
+and one or more other states or political subdivisions if such service is
+excluded from employment as defined in the Federal Unemployment Tax Act, as
+amended, solely by reason of 26 U.S.C. 3306(c)(7), and is not otherwise
+excluded under this section;
+(b) Service performed by an individual in the employ of a religious,
+charitable, educational, or other organization, but only if the following
+conditions are met: (i) The service is excluded from employment as defined in
+the Federal Unemployment Tax Act, as amended, solely by reason of 26 U.S.C.
+3306(c)(8), and is not otherwise excluded under this section; and (ii) the
+organization had four or more individuals in employment for some portion of a
+day in each of twenty different weeks, whether or not such weeks were
+consecutive, within either the current or preceding calendar year, regardless
+of whether they were employed at the same moment of time;
+(c)(i) Service performed by an individual in agricultural labor if such
+service is performed for a person who during any calendar quarter in either the
+current or preceding calendar year paid remuneration in cash of twenty thousand
+dollars or more to individuals employed in agricultural labor, or for some
+portion of a day in each of twenty different calendar weeks, whether or not
+such weeks were consecutive, in either the current or the preceding calendar
+year, employed in agricultural labor ten or more individuals, regardless of
+whether they were employed at the same moment of time.
+(ii) For purposes of this subdivision:
+(A) Any individual who is a member of a crew furnished by a crew leader to
+perform services in agricultural labor for any other person shall be treated as
+an employee of such crew leader if such crew leader holds a valid certificate
+of registration under the Migrant and Seasonal Agricultural Worker Protection
+Act, as amended, 29 U.S.C. 1801 et seq.; substantially all the members of such
+crew operate or maintain tractors, mechanized harvesting or cropdusting
+equipment, or any other mechanized equipment, which is provided by such crew
+leader; and such individual is not an employee of such other person within the
+meaning of any other provisions of this section; and
+(B) In case any individual who is furnished by a crew leader to perform
+service in agricultural labor for any other person and who is not treated as an
+employee of such crew leader under subdivision (A) of this subdivision, such
+other person and not the crew leader shall be treated as the employer of such
+individual and such other person shall be treated as having paid cash
+remuneration to such individual in an amount equal to the amount of cash
+remuneration paid to such individual by the crew leader, either on his or her
+own behalf or on behalf of such other person, for the service in agricultural
+labor performed for such other person; and
+(d) Service performed by an individual in domestic service in a private
+home, local college club, or local chapter of a college fraternity or sorority
+if performed for a person who paid cash remuneration of one thousand dollars or
+more in the current calendar year or the preceding calendar year to individuals
+employed in such domestic service in any calendar quarter;
+(5) Services performed by an individual for wages, including wages
+received under a contract of hire, shall be deemed to be employment unless it
+is shown to the satisfaction of the commissioner that (a) such individual has
+been and will continue to be free from control or direction over the
+performance of such services, both under his or her contract of service and in
+fact, (b) such service is either outside the usual course of the business for
+which such service is performed or such service is performed outside of all the
+places of business of the enterprise for which such service is performed, and
+(c) such individual is customarily engaged in an independently established
+trade, occupation, profession, or business. The provisions of this subdivision
+are not intended to be a codification of the common law and shall be considered
+complete as written;
+(6) The term employment shall not include:
+(a) Agricultural labor, except as provided in subdivision (4)(c) of this
+section;
+(b) Domestic service, except as provided in subdivision (4)(d) of this
+section, in a private home, local college club, or local chapter of a college
+fraternity or sorority;
+(c) Service not in the course of the employer's trade or business
+performed in any calendar quarter by an employee, unless the cash remuneration
+paid for such service is fifty dollars or more and such service is performed by
+an individual who is regularly employed by such employer to perform such
+service and, for the purposes of this subdivision, an individual shall be
+deemed to be regularly employed by an employer during a calendar quarter only
+if (i) on each of some twenty-four days during such quarter such individual
+-7-
+
+LB921 LB921
+2026 2026
+performs for such employer for some portion of the day service not in the
+course of the employer's trade or business, or (ii) such individual was
+regularly employed, as determined under subdivision (c)(i) of this subdivision,
+by such employer in the performance of such service during the preceding
+calendar quarter;
+(d) Service performed by an individual in the employ of his or her son,
+daughter, or spouse and service performed by a child under the age of twenty-
+one in the employ of his or her father or mother;
+(e) Service performed in the employ of the United States Government or an
+instrumentality of the United States immune under the Constitution of the
+United States from the contributions imposed by sections 48-648 and 48-649 to
+48-649.04, except that, to the extent that the Congress of the United States
+shall permit states to require any instrumentalities of the United States to
+make payments into an unemployment fund under a state unemployment compensation
+act, all of the Employment Security Law shall be applicable to such
+instrumentalities and to services performed for such instrumentalities in the
+same manner, to the same extent, and on the same terms as to all other
+employers, individuals, and services, except that if this state is not
+certified for any year by the Secretary of Labor of the United States under
+section 3304 of the Internal Revenue Code as defined in section 49-801.01, the
+payments required of such instrumentalities with respect to such year shall be
+refunded by the commissioner from the fund in the same manner and within the
+same period as is provided in section 48-660, with respect to contributions
+erroneously collected;
+(f) Service performed in the employ of this state or any political
+subdivision thereof or any instrumentality of any one or more of the foregoing
+if such services are performed by an individual in the exercise of his or her
+duties: (i) As an elected official; (ii) as a member of the legislative body or
+a member of the judiciary of a state or political subdivision thereof; (iii) as
+a member of the Army National Guard or Air National Guard; (iv) as an employee
+serving on a temporary basis in case of fire, storm, snow, earthquake, flood,
+or similar emergency; or (v) as an election official or election worker if the
+amount of remuneration received by the individual during the calendar year for
+services as an election official or election worker is less than one thousand
+dollars;
+(g) For the purposes of subdivisions (4)(a) and (4)(b) of this section,
+service performed:
+(i) In the employ of (A) a church or convention or association of churches
+or (B) an organization which is operated primarily for religious purposes and
+which is operated, supervised, controlled, or principally supported by a church
+or convention or association of churches;
+(ii) By a duly ordained, commissioned, or licensed minister of a church in
+the exercise of his or her ministry or by a member of a religious order in the
+exercise of the duties required by such order;
+(iii) In a facility conducted for the purpose of carrying out a program of
+rehabilitation for an individual whose earning capacity is impaired by age or
+physical or mental deficiency or injury, or providing remunerative work for the
+individuals who because of their impaired physical or mental capacity cannot be
+readily absorbed in the competitive labor market, by an individual receiving
+such rehabilitation or remunerative work;
+(iv) As part of an unemployment work relief or work-training program
+assisted or financed in whole or in part by any federal agency or an agency of
+a state or political subdivision thereof, by an individual receiving such work
+relief or work training; or
+(v) By an inmate of a custodial or penal institution;
+(h) Service with respect to which unemployment compensation is payable
+under an unemployment compensation system established by an act of Congress;
+(i) Service performed in any calendar quarter in the employ of any
+organization exempt from income tax under section 501(a) of the Internal
+Revenue Code as defined in section 49-801.01, other than an organization
+described in section 401(a) of the Internal Revenue Code as defined in section
+49-801.01, or under section 521 thereof, if the remuneration for such service
+is less than fifty dollars;
+(j) Service performed in the employ of a school, college, or university,
+if such service is performed (i) by a student who is enrolled, regularly
+attending classes at, and working for such school, college, or university
+pursuant to a financial assistance arrangement with such school, college, or
+university or (ii) by the spouse of such student, if such spouse is advised, at
+the time such spouse commences to perform such service, that (A) the employment
+of such spouse to perform such service is provided under a program to provide
+financial assistance to such student by such school, college, or university and
+(B) such employment will not be covered by any program of unemployment
+insurance;
+(k) Service performed as a student nurse in the employ of a hospital or
+nurses training school by an individual who is enrolled and is regularly
+attending classes in a nurses training school chartered or approved pursuant to
+state law; and service performed as an intern in the employ of a hospital by an
+individual who has completed a four-year course in a medical school chartered
+or approved pursuant to state law;
+(l) Service performed by an individual as a real estate salesperson, as an
+insurance agent, or as an insurance solicitor, if all such service performed by
+such individual is performed for remuneration solely by way of commission;
+(m) Service performed by an individual under the age of eighteen in the
+-8-
+
+LB921 LB921
+2026 2026
+delivery or distribution of newspapers or shopping news, not including delivery
+or distribution to any point for subsequent delivery or distribution;
+(n) Service performed by an individual in the sale, delivery, or
+distribution of newspapers or magazines under a written contract in which (i)
+the individual acknowledges that the individual performing the service and the
+service are not covered and (ii) the newspapers and magazines are sold by him
+or her at a fixed price with his or her compensation being based on the
+retention of the excess of such price over the amount at which the newspapers
+or magazines are charged to him or her, whether or not he or she is guaranteed
+a minimum amount of compensation for such service, or is entitled to be
+credited with the unsold newspapers or magazines turned back;
+(o) Service performed by an individual who is enrolled at a nonprofit or
+public educational institution which normally maintains a regular faculty and
+curriculum and normally has a regularly organized body of students in
+attendance at the place where its educational activities are carried on, as a
+student in a full-time program, taken for credit at such institution, which
+combines academic instruction with work experience, if such service is an
+integral part of such program, and such institution has so certified to the
+employer, except that this subdivision shall not apply to service performed in
+a program established for or on behalf of an employer or a group of employers;
+(p) Service performed in the employ of a hospital, if such service is
+performed by a patient of the hospital;
+(q) Service performed for a motor carrier, as defined in 49 U.S.C. 13102
+or section 75-302, as amended, by a lessor leasing one or more motor vehicles
+driven by the lessor or one or more drivers provided by the lessor under a
+lease, with the motor carrier as lessee, executed pursuant to 49 C.F.R. part
+376, Title 291, Chapter 3, as amended, of the rules and regulations of the
+Public Service Commission, or the rules and regulations of the Division of
+Motor Carrier Services. This shall not preclude the determination of an
+employment relationship between the lessor and any personnel provided by the
+lessor in the conduct of the service performed for the lessee;
+(r) Service performed by an individual for a business engaged in
+compilation of marketing databases if such service consists only of the
+processing of data and is performed in the residence of the individual;
+(s) Service performed by an individual as a volunteer research subject who
+is paid on a per study basis for scientific, medical, or drug-related testing
+for any organization other than one described in section 501(c)(3) of the
+Internal Revenue Code as defined in section 49-801.01 or any governmental
+entity;
+(t) Service performed by a direct seller if:
+(i) Such person is engaged in sales primarily in person and is:
+(A) Engaged in the trade or business of selling or soliciting the sale of
+consumer products or services to any buyer on a buy-sell basis or a deposit-
+commission basis for resale, by the buyer or any other person, in the home or
+otherwise than in a permanent retail establishment;
+(B) Engaged in the trade or business of selling or soliciting the sale of
+consumer products or services in the home or otherwise than in a permanent
+retail establishment; or
+(C) Engaged in the trade or business of the delivering or distribution of
+newspapers or shopping news, including any services directly related to such
+trade or business;
+(ii) Substantially all the remuneration, whether or not paid in cash, for
+the performance of the services described in subdivision (t)(i) of this
+subdivision is directly related to sales or other output, including the
+performance of services, rather than to the number of hours worked; and
+(iii) The services performed by the person are performed pursuant to a
+written contract between such person and the person for whom the services are
+performed and the contract provides that the person will not be treated as an
+employee for federal and state tax purposes. Sales by a person whose business
+is conducted primarily by telephone or any other form of electronic sales or
+solicitation is not service performed by a direct seller under this
+subdivision;
+(u) Service performed by an individual who is a participant in the
+National and Community Service State Grant Program, also known as AmeriCorps,
+because a participant is not considered an employee of the organization
+receiving assistance under the national service laws through which the
+participant is engaging in service pursuant to 42 U.S.C. 12511(30)(B);
+(v) Service performed at a penal or custodial institution by a person
+committed to a penal or custodial institution; and
+(w)(i) Service by a marketplace network contractor if:
+(A) The marketplace network contractor and marketplace network platform
+agree in writing that the marketplace network contractor is an independent
+contractor and not an employee of the marketplace network platform;
+(B) The marketplace network platform does not unilaterally prescribe
+specific hours during which the marketplace network contractor must be
+available to accept service requests submitted through the marketplace network
+platform's digital network;
+(C) The marketplace network platform does not prohibit the marketplace
+network contractor from engaging in outside employment or performing services
+through other marketplace network platforms except while the marketplace
+network contractor is performing services through the marketplace network
+platform's digital network; and
+(D) The marketplace network platform is not allowed to terminate the
+-9-
+
+LB921 LB921
+2026 2026
+contract of the marketplace network contractor for not accepting a specific
+service request.
+(ii) For purposes of subdivision (6)(w) of this section:
+(A) Marketplace network contractor means a person to which all of the
+following apply: Such person enters a written agreement with a marketplace
+network platform to use the marketplace network platform's digital network to
+connect with individuals or entities seeking services offered by the
+marketplace network contractor; such person performs services for individuals
+or entities through a marketplace network platform's digital network in
+exchange for compensation or payment; and such person does not perform services
+at a physical business location operated by the marketplace network platform in
+this state, except when such physical business is located in a city of the
+metropolitan or primary class. Nothing in this section shall apply to an
+individual classified under subdivision (7) of this section; and
+(B) Marketplace network platform means a person that maintains a digital
+network to facilitate services by marketplace network contractors to
+individuals or entities seeking those services, and accepts requests from the
+public only through the platform's digital network or mobile application, and
+not by telephone, facsimile, or in-person at a retail location.
+(iii) Subdivision (6)(w) of this section shall not apply to services
+performed by a marketplace network contractor:
+(A) For any employer described in subdivision (4)(a) or (4)(b) of this
+section or in section 48-603.01; or
+(B) If with respect to such services a tax is required to be paid under
+any federal law imposing a tax against which credit may be taken for
+contributions required to be paid into a state unemployment compensation fund
+or which as a condition for full tax credit against the tax imposed by the
+Federal Unemployment Tax Act, as amended, is required to be covered under the
+Employment Security Law;
+(7) If the services performed during one-half or more of any pay period by
+an individual for the person employing him or her constitute employment, all
+the services of such individual for such period shall be deemed to be
+employment, but if the services performed during more than one-half of any such
+pay period by an individual for the person employing him or her do not
+constitute employment, then none of the services of such individual for such
+period shall be deemed to be employment. As used in this subdivision, the term
+pay period means a period, of not more than thirty-one consecutive days, for
+which a payment of remuneration is ordinarily made to such individual by the
+person employing him or her. This subdivision shall not be applicable with
+respect to services performed in a pay period by an individual for the person
+employing him or her when any of such service is excepted by subdivision (6)(h)
+of this section; and
+(8) Notwithstanding the foregoing exclusions from the definition of
+employment, services shall be deemed to be in employment if with respect to
+such services a tax is required to be paid under any federal law imposing a tax
+against which credit may be taken for contributions required to be paid into a
+state unemployment compensation fund or which as a condition for full tax
+credit against the tax imposed by the Federal Unemployment Tax Act, as amended,
+is required to be covered under the Employment Security Law.
+Sec. 17. Section 48-628, Reissue Revised Statutes of Nebraska, is amended
+to read:
+48-628 (1) An individual shall be disqualified for benefits for any week
+of unemployment in which the commissioner finds he or she has failed, without
+good cause, to apply for available, suitable work when so directed by the
+employment office or the commissioner, to respond to an offer for a job
+interview for suitable work within one week, to respond to an offer for a job
+for suitable work within one week, to appear for a previously scheduled job
+interview for suitable work without notifying the prospective employer of the
+need to cancel or reschedule the interview, to accept suitable work offered him
+or her, or to return to his or her customary self-employment, if any, and for
+the twelve weeks immediately thereafter. The total benefit amount to which he
+or she is then entitled shall be reduced by an amount equal to the number of
+weeks for which he or she has been disqualified by the commissioner. The
+commissioner may consider the manner of communication established between the
+individual and the prospective employer about how the interview will be
+conducted or a job offer will be extended in determining if an individual
+failed to appear for a previously scheduled job interview without notifying the
+prospective employer of the need to cancel or reschedule the interview or
+failed to respond to an offer for a job.
+(2) In determining whether or not any work is suitable for an individual,
+the commissioner shall consider the following:
+(a) The degree of risk involved to the individual's health, safety, and
+morals;
+(b) His or her physical fitness and prior training;
+(c) His or her experience and prior earnings;
+(d) His or her length of unemployment and prospects for securing local
+work in his or her customary occupation; and
+(e) The distance of the available work from his or her residence.
+(3) Notwithstanding any other provisions of the Employment Security Law,
+no work shall be deemed suitable and benefits shall not be denied under such
+law to any otherwise eligible individual for refusing to accept new work under
+any of the following conditions:
+(a) If the position offered is vacant due directly to a strike, lockout,
+-10-
+
+LB921 LB921
+2026 2026
+or other labor dispute;
+(b) If the wages, hours, or other conditions of the work offered are
+substantially less favorable to the individual than those prevailing for
+similar work in the locality; or
+(c) If, as a condition of being employed, the individual would be required
+to join a company union or to resign from or refrain from joining any bona fide
+labor organization.
+(4) Notwithstanding any other provisions in this section relating to
+failure to apply for or a refusal to accept suitable work, no otherwise
+eligible individual shall be denied benefits with respect to any week in which
+he or she is in training with the approval of the commissioner.
+(5) No individual shall be disqualified for refusing to apply for
+available, full-time work or accept full-time work under subsection (1) of this
+section solely because such individual is seeking part-time work if the
+majority of the weeks of work in an individual's base period include part-time
+work. For purposes of this subsection, seeking only part-time work shall mean
+seeking less than full-time work having comparable hours to the individual's
+part-time work in the base period, except that the individual must be available
+for work at least twenty hours per week.
+Sec. 18. Section 48-2209, Reissue Revised Statutes of Nebraska, is amended
+to read:
+48-2209 If an employer or a representative of an employer actively
+recruits any non-English-speaking persons for employment in this state and if
+more than five ten percent of the employees of an employer are non-English-
+speaking employees who and speak the same non-English language, the employer
+shall:
+(1) Make an interpreter provide a bilingual employee who is conversant in
+the identified non-English language and available at the worksite for each
+shift during which a non-English-speaking employee is employed. If a Spanish-
+speaking interpreter is needed, the employer shall select an interpreter from a
+list of interpreters developed by the commissioner. If an interpreter is needed
+for a language other than Spanish, the employer shall select an interpreter
+capable of explaining and responding to (1) explain and respond to questions
+regarding the terms, conditions, and daily responsibilities of employment; and
+(2) Employ an individual who shall serve as a referral agent to community
+services for the non-English-speaking employees. The name of the individual
+serving as the referral agent shall be provided at each worksite. Such
+information shall be provided in the language of the non-English-speaking
+employees. The primary responsibility of the referral agent shall be to develop
+and maintain a list of contact persons and agencies, telephone numbers, and
+addresses of the community services provided within the community where the
+relevant worksite is located. The referral agent shall assist non-English-
+speaking employees in working with and through those services.
+Sec. 19. Section 81-401, Reissue Revised Statutes of Nebraska, is amended
+to read:
+81-401 The Governor, through the agency of the Department of Labor created
+by section 81-101, shall have power:
+(1) To foster, promote, and develop the welfare of wage earners;
+(2) To improve working conditions;
+(3) To advance opportunities for profitable employment;
+(4) To collect, collate, assort, systematize, and report statistical
+details relating to all departments of labor, especially in its relation to
+commercial, industrial, social, economic, and educational conditions and to the
+permanent prosperity of the manufacturing and productive industries;
+(5) To acquire and distribute useful information on subjects connected
+with labor in the most general and comprehensive sense of the word;
+(6) To acquire and distribute useful information concerning the means of
+promoting the material, social, intellectual, and moral prosperity of laboring
+men and women;
+(7) To acquire and distribute information as to the conditions of
+employment and such other facts as may be deemed of value to the industrial
+interests of the state;
+(8) To acquire and distribute information in relation to the prevention of
+accidents, occupational diseases, and other related subjects;
+(9) To acquire and distribute useful information regarding the role of the
+part-time labor force and the manner in which such labor force affects the
+economy and citizens of the state; and
+(10) To administer and enforce all of the provisions of the Employment
+Security Law, the Farm Labor Contractors Act, the Health Care Staffing Agency
+Registration Act, and the Wage and Hour Act and Chapter 48, articles 2, 3, 4,
+and 5, and for that purpose there is imposed upon the Commissioner of Labor the
+duty of executing all of the provisions of such acts, law, and articles.
+Sec. 20. Section 81-406, Reissue Revised Statutes of Nebraska, is amended
+to read:
+81-406 The Contractor and Professional Employer Organization Registration
+Cash Fund is created. The fund shall be administered by the Department of Labor
+and shall consist of fees collected by the department pursuant to the Farm
+Labor Contractors Act, the Contractor Registration Act, the Health Care
+Staffing Agency Registration Act, and the Professional Employer Organization
+Registration Act and such sums as are appropriated to the fund by the
+Legislature. The fund shall be used for enforcing and administering the Farm
+Labor Contractors Act, the Contractor Registration Act, the Employee
+Classification Act, the Health Care Staffing Agency Registration Act, and the
+-11-
+
+LB921 LB921
+2026 2026
+Professional Employer Organization Registration Act. Any money in the fund
+available for investment shall be invested by the state investment officer
+pursuant to the Nebraska Capital Expansion Act and the Nebraska State Funds
+Investment Act. Money in the Contractor and Professional Employer Organization
+Registration Cash Fund may be transferred to the General Fund at the direction
+of the Legislature.
+The State Treasurer shall transfer one million seven hundred thousand
+dollars from the Contractor and Professional Employer Organization Registration
+Cash Fund to the General Fund on or before June 15, 2018, on such dates and in
+such amounts as directed by the budget administrator of the budget division of
+the Department of Administrative Services.
+Sec. 21. Section 81-8,236, Reissue Revised Statutes of Nebraska, is
+amended to read:
+81-8,236 (1) For purposes of this section:
+(a) Correctional institution incident means an incident in which a crime
+or crimes are allegedly committed by one or more inmates confined in a state
+correctional institution;
+(b) Costs of prosecution includes, but is not limited to, the costs of
+defense for indigent defendants, including attorney's fees and expert witness
+fees;
+(c) Division means the risk management and state claims division of the
+Department of Administrative Services; and
+(d) Threshold amount means the amount of property tax revenue raised by a
+county from a levy of two and one-half cents per one hundred dollars of taxable
+valuation of property subject to the levy. The threshold amount shall be
+determined using valuations for the year in which the correctional institution
+incident occurred.
+(2) A county may file a claim with the division to recover the costs of
+prosecution relating to a correctional institution incident that occurs within
+the county. The county may recover only those costs that exceed the threshold
+amount for such county. A county may file additional claims for a single
+correctional institution incident if the initial claim exceeds the threshold
+amount. Such additional claims shall not be filed more than once per calendar
+year unless the prosecution has resolved. No claim shall include prosecution
+costs for which the Risk Manager has issued a decision pursuant to section
+81-8,300. Claims filed under this section that arise from the same correctional
+institution incident need not be aggregated unless directed to do so by the
+State Claims Board.
+(3) The Risk Manager shall have the power and authority to receive claims,
+investigate claims, and otherwise carry out the responsibilities of this
+section. The division shall develop a claim form, publish claim procedures, and
+determine the supporting information required to perfect a claim.
+(4) The Risk Manager shall submit claims received under this section to
+the Legislature in the same manner as provided in the State Miscellaneous
+Claims Act. The Legislature shall review the claim and make an appropriation
+for the claim if appropriate.
+(5) This section shall apply to any correctional institution incident
+occurring on or after May 1, 2015. Claims described in this section shall have
+no time bar to recovery.
+Sec. 22. Section 81-8,300, Reissue Revised Statutes of Nebraska, is
+amended to read:
+81-8,300 (1) After investigation, the Risk Manager or State Claims Board
+shall either approve, approve with conditions or limitations, or disapprove of
+each claim or request and append to the claim or request a concise statement of
+the facts brought out in such investigation upon which its approval or
+disapproval is based. If any claim is approved in an amount of more than five
+thousand dollars, the approval of the board is required. Such claim or request,
+together with the original papers supporting it and the appended statement,
+shall be filed with the Risk Manager in the manner prescribed by the State
+Claims Board. The Risk Manager shall promptly notify each claimant of the
+decision by the Risk Manager or State Claims Board on his or her claim by
+regular mail. The notification shall include (a) the decision of the Risk
+Manager or State Claims Board, (b) a statement that a claimant dissatisfied
+with the decision of the Risk Manager may have his or her claim reviewed by the
+board or a statement that a claimant dissatisfied with the decision of the
+board may have his or her claim reviewed by the Legislature upon application,
+(c) the procedure for making an application for review, and (d) the time limit
+for making such application.
+(2) If the claimant is dissatisfied with the decision of the Risk Manager,
+he or she may file an application for review by the board. If the claimant is
+dissatisfied with the decision of the board, he or she may file an application
+for review by the Legislature. The application for review shall be filed with
+the Risk Manager in the manner prescribed by the board. The application for
+review shall be filed within sixty days after the date of the decision which is
+being reviewed.
+(3) Each claim which has been approved or for which an application for
+review with the Legislature has been filed and each request referred to in
+section 81-8,297 shall be delivered electronically by the Risk Manager to the
+chairperson of the Business and Labor Committee of the Legislature at the next
+regular session of the Legislature convening after the date of the decision of
+the board. The Risk Manager may direct the payment by the state agency involved
+of any claim not in excess of five thousand dollars if such payment is agreed
+to by the head of the agency involved. The State Claims Board may direct
+-12-
+
+LB921 LB921
+2026 2026
+payment by the state agency involved of any claim not in excess of fifty
+thousand dollars if such payment is agreed to by the head of the agency
+involved and the agency has sufficient funds to pay the claim. If claims
+approved by the Risk Manager or State Claims Board arise out of the same facts
+and circumstances, they shall be aggregated except when more than one claim has
+been filed pursuant to subsection (2) of section 81-8,236. If the Risk Manager
+or State Claims Board does not direct the payment of a claim as set forth in
+this section or the claim exceeds the dollar limitations set forth in this
+section, the claim shall be reviewed by the Legislature and an appropriation
+made therefor if appropriate. The Risk Manager shall report electronically all
+claims and judgments paid under the State Miscellaneous Claims Act to the Clerk
+of the Legislature and the chairperson of the Business and Labor Committee of
+the Legislature. The report shall include the name of the claimant, a statement
+of the amount claimed and paid, and a brief description of the claim including
+the agency and program or activity under which the claim arose. Any member of
+the Legislature may receive an electronic copy of the report by making a
+request to the Risk Manager.
+Sec. 23. Section 81-8,316, Reissue Revised Statutes of Nebraska, is
+amended to read:
+81-8,316 For purposes of the In the Line of Duty Compensation Act:
+(1) Firefighter means a member of a paid or volunteer fire department in
+Nebraska, including a member of a rescue squad associated with a paid or
+volunteer fire department in Nebraska;
+(2)(a) Killed in the line of duty means losing one's life as a result of
+an injury or illness arising on or after January 1, 2022, in connection with
+the active performance of duties as a public safety officer if the death occurs
+within three years from the date the injury was received or illness was
+diagnosed and if that injury or illness arose from violence or other accidental
+cause.
+(b) An injury or illness shall be presumed to have arisen in connection
+with the active performance of duties as a public safety officer if:
+(i) The injury or illness is a heart attack, stroke, or vascular rupture
+that occurred or the symptoms of such injury or illness manifested while the
+public safety officer was engaged in, or within twenty-four hours after,
+nonroutine stressful or strenuous activity in the line of duty;
+(ii) The public safety officer was exposed to any toxin or carcinogen
+while on duty and the public safety officer began service no fewer than five
+years prior to the date of a diagnosis of an exposure-related cancer; or
+(iii) The public safety officer was exposed to cumulative traumatic events
+while on duty, such exposure was a substantial contributing factor in the death
+of the public safety officer, and either:
+(A) The public safety officer was diagnosed by a licensed medical or
+mental health professional with an injury or illness related to such exposure;
+or
+(B) There is evidence that the public safety officer attempted to receive
+help, treatment, or diagnosis for an injury or illness related to such
+exposure.
+(c)(i) The presumption in subdivision (2)(b)(i) of this section may be
+overcome by competent medical evidence that establishes the death was:
+(A) Unrelated to the engagement or participation in activities in the line
+of duty; or
+(B) Caused by something other than such engagement or participation or the
+mere presence of cardiovascular disease risk factors.
+(ii) The presumption in subdivision (2)(b)(ii) of this section may be
+overcome by competent medical evidence that establishes the exposure to the
+toxin or carcinogen was not a substantial contributing factor in the death of
+the public safety officer.
+(d) (b) Killed in the line of duty excludes death resulting from the
+willful misconduct or intoxication of the public safety officer;
+(3) Law enforcement officer has the same meaning as in section 81-1401;
+(4) Public safety officer means:
+(a) A firefighter;
+(b) A law enforcement officer;
+(c) A member of an emergency medical services ambulance squad operated by
+a political subdivision or by a private, nonprofit ambulance service, but
+excluding any employee of a private, for-profit ambulance service; or
+(d) A correctional officer employed by a jail or by the Department of
+Correctional Services;
+(5) Risk Manager means the Risk Manager appointed under section
+81-8,239.01; and
+(6) State Claims Board means the board created under section 81-8,220.
+Sec. 24. Section 81-8,318, Reissue Revised Statutes of Nebraska, is
+amended to read:
+81-8,318 (1) To receive compensation under the In the Line of Duty
+Compensation Act, a claim for the compensation shall be filed with the Risk
+Manager within three years after the date of death of the public safety officer
+who was killed in the line of duty. Such claim shall be on a form prescribed by
+the Risk Manager and shall include:
+(a) The name, address, and title or position of the public safety officer
+who was killed in the line of duty;
+(b) A copy of the form filed in accordance with subsection (4) of section
+81-8,317, if any. If no such form has been filed, the claim shall include the
+name and address of the person or persons to whom compensation is payable under
+-13-
+
+LB921 LB921
+2026 2026
+subdivision (3)(b) of section 81-8,317;
+(c) A sworn statement providing a full factual account of the
+circumstances resulting in or the course of events causing the death of the
+public safety officer; and
+(d) Such other information as the Risk Manager reasonably requires.
+(2) The Risk Manager shall send written notice to all claimants within two
+weeks after the initiation of a claim indicating whether or not the claim is
+complete. For purposes of this subsection, a claim is complete if a claimant
+has submitted to the Risk Manager all documents and information required under
+subsection (1) of this section. If a claim is incomplete, the Risk Manager
+shall include in the written notice a list of the documents or information
+which the claimant must submit in order for the claim to be complete. If a
+claim is complete, an investigation of the claim shall be made in the manner
+provided in the State Miscellaneous Tort Claims Act in accordance with section
+81-8,212. Upon completion of such investigation, and no later than one hundred
+eighty days after receipt of a complete claim, the State Claims Board shall
+approve or deny such claim and the Risk Manager shall send written notice to
+the claimant stating whether the claim has been approved or denied. If a claim
+is denied, the notice shall include the reason or reasons for the denial. If a
+claimant is dissatisfied with a denial, he or she may file an application for
+review with the Risk Manager in accordance with subsection (2) of section
+81-8,300 district court for Lancaster County in accordance with sections
+81-8,213 and 81-8,214. If a claim is approved, compensation shall be paid to
+the claimants entitled to such compensation in accordance with section 81-8,300
+81-8,211.
+(3) This section shall apply to any claim arising on or after January 1,
+2022.
+Sec. 25. Sections 7, 8, 9, 10, 11, 12, 13, 14, and 15 of this act become
+operative on July 1, 2027. The other sections of this act become operative on
+their effective date.
+Sec. 26. Original sections 48-628, 48-2209, 81-401, 81-406, 81-8,236,
+81-8,300, 81-8,316, and 81-8,318, Reissue Revised Statutes of Nebraska, and
+section 48-604, Revised Statutes Supplement, 2025, are repealed.
+-14-

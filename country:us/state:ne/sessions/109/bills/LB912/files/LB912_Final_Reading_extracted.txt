@@ -1,0 +1,3143 @@
+Title: 
+Official Title: 
+Source: versions - Final Reading
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LB912 LB912
+2026 2026
+LEGISLATURE OF NEBRASKA
+ONE HUNDRED NINTH LEGISLATURE
+SECOND SESSION
+LEGISLATIVE BILL 912
+FINAL READING
+Introduced by Hardin, 48.
+Read first time January 09, 2026
+Committee: Health and Human Services
+1 A BILL FOR AN ACT relating to public health and welfare; to amend
+2 sections 38-1915, 38-2315, 38-2850, 38-2871, 71-1918, 71-2444,
+3 71-2445, and 71-2447, Reissue Revised Statutes of Nebraska, sections
+4 38-404, 38-409, 38-1716, 38-2101, 38-2123, 38-2801, 38-2852,
+5 38-3208, and 52-401, Revised Statutes Cumulative Supplement, 2024,
+6 and sections 38-131, 38-2866.01, 71-1908, and 71-1912, Revised
+7 Statutes Supplement, 2025; to adopt the Community Health Worker
+8 Training Endorsement Act, the Athletic Trainer Compact, and the
+9 Respiratory Care Interstate Compact; to change provisions relating
+10 to the practice of athletic training, respiratory care, massage
+11 therapy, medical radiography, mental health practitioners, nurse
+12 practitioners, pharmacy, and pharmacists; to change provisions
+13 relating to child care licensing; to provide for liens for physical
+14 therapy services; to provide for automated pickup kiosks for certain
+15 prescription medication; to eliminate provisions relating to
+16 physician liability for a physician assistant; to harmonize
+17 provisions; to provide operative dates; to repeal the original
+18 sections; to outright repeal section 38-2053, Revised Statutes
+19 Cumulative Supplement, 2024; and to declare an emergency.
+20 Be it enacted by the people of the State of Nebraska,
+-1-
+
+LB912 LB912
+2026 2026
+1 Section 1. Sections 1 to 5 of this act shall be known and may be
+2 cited as the Community Health Worker Training Endorsement Act.
+3 Sec. 2. (1) The Legislature finds that establishing certification
+4 of training programs for community health workers will strengthen
+5 Nebraska's public health and health care workforce, promote consistent
+6 standards of practice, and support improved access to preventive and
+7 primary care services.
+8 (2) The purpose of the Community Health Worker Training Endorsement
+9 Act is to establish a consistent statewide process for recognizing
+10 community health worker training programs that meet minimum standards of
+11 quality and content and ensure that community health worker services are
+12 eligible for reimbursement by medicaid and private insurers.
+13 Sec. 3. For purposes of the Community Health Worker Training
+14 Endorsement Act:
+15 (1) Community health worker means an individual who has successfully
+16 completed an endorsed community health worker training program and has a
+17 close understanding of the community served and who acts as a liaison
+18 between health, behavioral health, and social service systems and the
+19 community to facilitate access, promote understanding, and improve health
+20 outcomes;
+21 (2) Community health worker services means preventive, outreach,
+22 education, navigation, advocacy, and social support services provided by
+23 a community health worker;
+24 (3) Core competencies means the knowledge, skills, and abilities a
+25 certified community health worker is required to demonstrate as
+26 determined by the department;
+27 (4) Department means the Department of Health and Human Services;
+28 and
+29 (5) Endorsed community health worker training program means an
+30 education or training program that the department has determined meets
+31 minimum standards, including core competencies as defined by the
+-2-
+
+LB912 LB912
+2026 2026
+1 department, for the purpose of qualifying for reimbursement by medicaid
+2 and private insurers.
+3 Sec. 4. On or before July 1, 2027, the department may adopt and
+4 promulgate rules and regulations that:
+5 (1) Identify and maintain the core competencies required for
+6 community health worker training programs using the department's
+7 expertise in public health, behavioral health, workforce development, and
+8 medical assistance program alignment. The department shall periodically
+9 review and update the core competencies to ensure they reflect national
+10 best practices and community health needs;
+11 (2) Define the application, approval, and renewal process for
+12 training endorsement;
+13 (3) Set reasonable application and renewal fees;
+14 (4) Establish procedures for denial, suspension, and revocation of a
+15 training endorsement;
+16 (5) Approve training programs and training providers that meet
+17 established core competencies; and
+18 (6) Provide that an individual who is aggrieved by a denial,
+19 suspension, or revocation of approval of a training endorsement may
+20 request a hearing in accordance with the Administrative Procedure Act.
+21 Sec. 5. (1) Nothing in the Community Health Worker Training
+22 Endorsement Act shall be construed to: (a) Create a licensure or
+23 certification requirement for a community health worker; (b) authorize a
+24 community health worker to perform tasks that require professional
+25 licensure; or (c) limit the scope of practice of a licensed health care
+26 professional.
+27 (2) Completion of a recognized community health worker training
+28 program shall not constitute licensure, certification, or credentialing
+29 under the Uniform Credentialing Act.
+30 Sec. 6. The State of Nebraska adopts the Respiratory Care
+31 Interstate Compact in the form provided in this section.
+-3-
+
+LB912 LB912
+2026 2026
+1 SECTION 1. TITLE AND PURPOSE
+2 A. The purpose of this Compact is to facilitate the interstate
+3 Practice of Respiratory Therapy with the goal of improving public access
+4 to Respiratory Therapy services by providing Respiratory Therapists
+5 licensed in a Member State the ability to practice in other Member
+6 States. The Compact preserves the regulatory authority of states to
+7 protect public health and safety through the current system of State
+8 licensure.
+9 B. This Compact is designed to achieve the following objectives:
+10 1. Increase public access to Respiratory Therapy services by
+11 creating a responsible, streamlined pathway for Licensees to practice in
+12 Member States with the goal of improving outcomes for patients;
+13 2. Enhance States' ability to protect the public's health and
+14 safety;
+15 3. Promote the cooperation of Member States in regulating the
+16 Practice of Respiratory Therapy within those Member States;
+17 4. Ease administrative burdens on States by encouraging the
+18 cooperation of Member States in regulating multistate Respiratory Therapy
+19 practice;
+20 5. Support relocating Active Military Members and their spouses; and
+21 6. Promote mobility and address workforce shortages.
+22 SECTION 2. DEFINITIONS
+23 As used in this Compact, unless the context requires otherwise, the
+24 following definitions shall apply:
+25 A. Active Military Member means any person with a full-time duty
+26 status in the armed forces of the United States, including members of the
+27 National Guard and Reserve.
+28 B. Adverse Action means any administrative, civil, equitable, or
+29 criminal action permitted by a State's laws which is imposed by any State
+30 authority with regulatory authority over Respiratory Therapists, such as
+31 license denial, censure, revocation, suspension, probation, monitoring of
+-4-
+
+LB912 LB912
+2026 2026
+1 the Licensee, or restriction on the Licensee's practice, not including
+2 participation in an Alternative Program.
+3 C. Alternative Program means a nondisciplinary monitoring or
+4 practice remediation process applicable to a Respiratory Therapist
+5 approved by any State authority with regulatory authority over
+6 Respiratory Therapists. This includes, but is not limited to, programs to
+7 which Licensees with substance abuse or addiction issues are referred in
+8 lieu of Adverse Action.
+9 D. Charter Member States means those Member States who were the
+10 first seven states to enact the Compact into the laws of their State.
+11 E. Commission or Respiratory Care Interstate Compact Commission
+12 means the government instrumentality and body politic whose membership
+13 consists of all Member States that have enacted the Compact.
+14 F. Commissioner means the individual appointed by a Member State to
+15 serve as the member of the Commission for that Member State.
+16 G. Compact means the Respiratory Care Interstate Compact.
+17 H. Compact Privilege means the authorization granted by a Remote
+18 State to allow a Licensee from another Member State to practice as a
+19 Respiratory Therapist in the Remote State under the Remote State's laws
+20 and Rules. The Practice of Respiratory Therapy occurs in the Member State
+21 where the patient is located at the time of the patient encounter.
+22 I. Criminal Background Check means the submission by the Member
+23 State of fingerprints or other biometric-based information on license
+24 applicants at the time of initial licensing for the purpose of obtaining
+25 that applicant's criminal history record information, as defined in 28
+26 C.F.R. 20.3(d) or successor provision, from the Federal Bureau of
+27 Investigation and the State's criminal history record repository, as
+28 defined in 28 C.F.R. 20.3(f) or successor provision.
+29 J. Data System means the Commission's repository of information
+30 about Licensees as further set forth in Section 8.
+31 K. Domicile means the jurisdiction which is the Licensee's principal
+-5-
+
+LB912 LB912
+2026 2026
+1 home for legal purposes.
+2 L. Encumbered License means a license that a State's Respiratory
+3 Therapy Licensing Authority has limited in any way.
+4 M. Executive Committee means a group of directors elected or
+5 appointed to act on behalf of, and within the powers granted to them by
+6 the Commission.
+7 N. Home State except as set forth in Section 5, means the Member
+8 State that is the Licensee's primary Domicile.
+9 O. Home State License means an active license to practice
+10 Respiratory Therapy in a Home State that is not an Encumbered License.
+11 P. Jurisprudence Requirement means an assessment of an individual's
+12 knowledge of the State laws and regulations governing the Practice of
+13 Respiratory Therapy in such State.
+14 Q. Licensee means an individual who currently holds an authorization
+15 from the State to practice as a Respiratory Therapist.
+16 R. Member State means a State that has enacted the Compact and been
+17 admitted to the Commission in accordance with the provisions herein and
+18 Commission Rules.
+19 S. Model Compact means the model for the Respiratory Care Interstate
+20 Compact on file with The Council of State Governments or other entity as
+21 designated by the Commission.
+22 T. Remote State means a Member State where a Licensee is exercising
+23 or seeking to exercise the Compact Privilege.
+24 U. Respiratory Therapist or Respiratory Care Practitioner means an
+25 individual who holds a credential issued by the National Board for
+26 Respiratory Care (or its successor) and holds a license in a State to
+27 practice Respiratory Therapy. For purposes of this Compact, any other
+28 title or status adopted by a State to replace the term Respiratory
+29 Therapist or Respiratory Care Practitioner shall be deemed synonymous
+30 with Respiratory Therapist and shall confer the same rights and
+31 responsibilities to the Licensee under the provisions of this Compact at
+-6-
+
+LB912 LB912
+2026 2026
+1 the time of its enactment.
+2 V. Respiratory Therapy, Respiratory Therapy Practice, Respiratory
+3 Care, the Practice of Respiratory Care, and the Practice of Respiratory
+4 Therapy means the care and services provided by or under the direction
+5 and supervision of a Respiratory Therapist or Respiratory Care
+6 Practitioner.
+7 W. Respiratory Therapy Licensing Authority means the agency, board,
+8 or other body of a State that is responsible for licensing and regulation
+9 of Respiratory Therapists.
+10 X. Rule means a regulation promulgated by an entity that has the
+11 force and effect of law.
+12 Y. Scope of Practice means the procedures, actions, and processes a
+13 Respiratory Therapist licensed in a State or practicing under a Compact
+14 Privilege in a State is permitted to undertake in that State and the
+15 circumstances under which the Respiratory Therapist is permitted to
+16 undertake those procedures, actions, and processes. Such procedures,
+17 actions, and processes, and the circumstances under which they may be
+18 undertaken may be established through means, including, but not limited
+19 to, statute, regulations, case law, and other processes available to the
+20 State Respiratory Therapy Licensing Authority or other government agency.
+21 Z. Significant Investigative Information means information, records,
+22 and documents received or generated by a State Respiratory Therapy
+23 Licensing Authority pursuant to an investigation for which a
+24 determination has been made that there is probable cause to believe that
+25 the Licensee has violated a statute or regulation that is considered more
+26 than a minor infraction for which the State Respiratory Therapy Licensing
+27 Authority could pursue Adverse Action against the Licensee.
+28 AA. State means any state, commonwealth, district, or territory of
+29 the United States.
+30 SECTION 3. STATE PARTICIPATION IN THIS COMPACT
+31 A. In order to participate in this Compact and thereafter continue
+-7-
+
+LB912 LB912
+2026 2026
+1 as a Member State, a Member State shall:
+2 1. Enact a Compact that is not materially different from the Model
+3 Compact;
+4 2. License Respiratory Therapists;
+5 3. Participate in the Commission's Data System;
+6 4. Have a mechanism in place for receiving and investigating
+7 complaints against Licensees and Compact Privilege holders;
+8 5. Notify the Commission, in compliance with the terms of this
+9 Compact and Commission Rules, of any Adverse Action against a Licensee, a
+10 Compact Privilege holder, or a license applicant;
+11 6. Notify the Commission, in compliance with the terms of this
+12 Compact and Commission Rules, of the existence of Significant
+13 Investigative Information;
+14 7. Comply with the Rules of the Commission;
+15 8. Grant the Compact Privilege to a holder of an active Home State
+16 License who otherwise meets the applicable requirements of Section 4 in a
+17 Member State; and
+18 9. Complete a Criminal Background Check for each new Licensee at the
+19 time of initial licensure.
+20 a. Where expressly authorized or permitted by federal law, whether
+21 such federal law is in effect prior to, at, or after the time of a Member
+22 State's enactment of this Compact, a Member State's enactment of this
+23 Compact shall hereby authorize the Member State's Respiratory Therapy
+24 Licensing Authority to perform Criminal Background Checks as defined
+25 herein. The absence of such a federal law as described in this subsection
+26 shall not prevent or preclude such authorization where it may be derived
+27 or granted through means other than the enactment of this Compact.
+28 B. Nothing in this Compact prohibits a Member State from charging a
+29 fee for granting and renewing the Compact Privilege.
+30 SECTION 4. COMPACT PRIVILEGE
+31 A. To exercise the Compact Privilege under the terms and provisions
+-8-
+
+LB912 LB912
+2026 2026
+1 of the Compact, the Licensee shall:
+2 1. Hold and maintain an active Home State License as a Respiratory
+3 Therapist;
+4 2. Hold and maintain an active credential from the National Board
+5 for Respiratory Care (or its successor) that would qualify them for
+6 licensure in the Remote State in which they are seeking the privilege;
+7 3. Have not had any Adverse Action against a license within the
+8 previous two years;
+9 4. Notify the Commission that the Licensee is seeking the Compact
+10 Privilege within a Remote State;
+11 5. Pay any applicable fees, including any State and Commission fees
+12 and renewal fees, for the Compact Privilege;
+13 6. Meet any Jurisprudence Requirements established by the Remote
+14 State in which the Licensee is seeking a Compact Privilege;
+15 7. Report to the Commission Adverse Action taken by any non-Member
+16 State within thirty days from the date the Adverse Action is taken;
+17 8. Report to the Commission, when applying for a Compact Privilege,
+18 the address of the Licensee's Domicile and thereafter promptly report to
+19 the Commission any change in the address of the Licensee's Domicile
+20 within thirty days of the effective date of the change in address; and
+21 9. Consent to accept service of process by mail at the Licensee's
+22 Domicile on record with the Commission with respect to any action brought
+23 against the Licensee by the Commission or a Member State, and consent to
+24 accept service of a subpoena by mail at the Licensee's Domicile on record
+25 with the Commission with respect to any action brought or investigation
+26 conducted by the Commission or a Member State.
+27 B. The Compact Privilege is valid until the expiration date or
+28 revocation of the Home State License unless terminated pursuant to
+29 Adverse Action. The Licensee must comply with all of the requirements of
+30 Subsection A, above, to maintain the Compact Privilege in a Remote State.
+31 If those requirements are met, no Adverse Actions are taken, and the
+-9-
+
+LB912 LB912
+2026 2026
+1 Licensee has paid any applicable Compact Privilege renewal fees, then the
+2 Licensee will maintain the Licensee's Compact Privilege.
+3 C. A Licensee providing Respiratory Therapy in a Remote State under
+4 the Compact Privilege shall function within the Scope of Practice
+5 authorized by the Remote State for the type of Respiratory Therapist
+6 license the Licensee holds. Such procedures, actions, processes, and the
+7 circumstances under which they may be undertaken may be established
+8 through means, including, but not limited to, statute, regulations, case
+9 law, and other processes available to the State Respiratory Therapy
+10 Licensing Authority or other government agency.
+11 D. If a Licensee's Compact Privilege in a Remote State is removed by
+12 the Remote State, the individual shall lose or be ineligible for the
+13 Compact privilege in that Remote State until the Compact Privilege is no
+14 longer limited or restricted by that State.
+15 E. If a Home State License is encumbered, the Licensee shall lose
+16 the Compact Privilege in all Remote States until the following occur:
+17 1. The Home State License is no longer encumbered; and
+18 2. Two years have elapsed from the date on which the license is no
+19 longer encumbered due to the Adverse Action.
+20 F. Once a Licensee with a restricted or limited license meets the
+21 requirements of Subsection E.1 and 2, the Licensee must also meet the
+22 requirements of Subsection A to obtain a Compact Privilege in a Remote
+23 State.
+24 SECTION 5. ACTIVE MILITARY MEMBER OR THEIR SPOUSE
+25 A. An Active Military Member, or their spouse, shall designate a
+26 Home State where the individual has a current license in good standing.
+27 The individual may retain the Home State designation during the period
+28 the service member is on active duty.
+29 B. An Active Military Member and their spouse shall not be required
+30 to pay to the Commission for a Compact Privilege any fee that may
+31 otherwise be charged by the Commission. If a Remote State chooses to
+-10-
+
+LB912 LB912
+2026 2026
+1 charge a fee for a Compact Privilege, it may choose to charge a reduced
+2 fee or no fee to an Active Military Member and their spouse for a Compact
+3 Privilege.
+4 SECTION 6. ADVERSE ACTIONS
+5 A. A Member State in which a Licensee is licensed shall have
+6 authority to impose Adverse Action against the license issued by that
+7 Member State.
+8 B. A Member State may take Adverse Action based on Significant
+9 Investigative Information of a Remote State or the Home State, so long as
+10 the Member State follows its own procedures for imposing Adverse Action.
+11 C. Nothing in this Compact shall override a Member State's decision
+12 that participation in an Alternative Program may be used in lieu of
+13 Adverse Action and that such participation shall remain nonpublic if
+14 required by the Member State's laws.
+15 D. A Remote State shall have the authority to:
+16 1. Take Adverse Actions as set forth herein against a Licensee's
+17 Compact Privilege in that State;
+18 2. Issue subpoenas for both hearings and investigations that require
+19 the attendance and testimony of witnesses, and the production of
+20 evidence.
+21 a. Subpoenas may be issued by a Respiratory Therapy Licensing
+22 Authority in a Member State for the attendance and testimony of witnesses
+23 and the production of evidence.
+24 b. Subpoenas issued by a Respiratory Therapy Licensing Authority in
+25 a Member State for the attendance and testimony of witnesses shall be
+26 enforced in the latter State by any court of competent jurisdiction in
+27 the latter State, according to the practice and procedure of that court
+28 applicable to subpoenas issued in proceedings pending before it.
+29 c. Subpoenas issued by a Respiratory Therapy Licensing Authority in
+30 a Member State for production of evidence from another Member State shall
+31 be enforced in the latter State, according to the practice and procedure
+-11-
+
+LB912 LB912
+2026 2026
+1 of that court applicable to subpoenas issued in the proceedings pending
+2 before it.
+3 d. The issuing authority shall pay any witness fees, travel
+4 expenses, mileage, and other fees required by the service statutes of the
+5 State where the witnesses or evidence are located;
+6 3. Unless otherwise prohibited by State law, recover from the
+7 Licensee the costs of investigations and disposition of cases resulting
+8 from any Adverse Action taken against that Licensee;
+9 4. Notwithstanding subsection D.2., a Member State may not issue a
+10 subpoena to gather evidence of conduct in another Member State that is
+11 lawful in such other Member State for the purpose of taking Adverse
+12 Action against a Licensee's Compact Privilege or application for a
+13 Compact Privilege in that Member State; and
+14 5. Nothing in this Compact authorizes a Member State to impose
+15 discipline against a Respiratory Therapist's Compact Privilege in that
+16 Member State for the individual's otherwise lawful practice in another
+17 State.
+18 E. Joint Investigations
+19 1. In addition to the authority granted to a Member State by its
+20 respective Respiratory Therapy Practice act or other applicable state
+21 law, a Member State may participate with other Member States in joint
+22 investigations of Licensees, provided, however, that a Member State
+23 receiving such a request has no obligation to respond to any subpoena
+24 issued regarding an investigation of conduct or practice that was lawful
+25 in a Member State at the time it was undertaken.
+26 2. Member States shall share any Significant Investigative
+27 Information, litigation, or compliance materials in furtherance of any
+28 joint or individual investigation initiated under the Compact. In sharing
+29 such information between Member State Respiratory Therapy Licensing
+30 Authorities, all information obtained shall be kept confidential, except
+31 as otherwise mutually agreed upon by the sharing and receiving Member
+-12-
+
+LB912 LB912
+2026 2026
+1 States.
+2 F. Nothing in this Compact may permit a Member State to take any
+3 Adverse Action against a Licensee or holder of a Compact Privilege for
+4 conduct or practice that was legal in the Member State at the time it was
+5 undertaken.
+6 G. Nothing in this Compact may permit a Member State to take
+7 disciplinary action against a Licensee or holder of a Compact Privilege
+8 for conduct or practice that was legal in the Member State at the time it
+9 was undertaken.
+10 SECTION 7. ESTABLISHMENT OF THE RESPIRATORY CARE INTERSTATE COMPACT
+11 COMMISSION
+12 A. The Compact Member States hereby create and establish a joint
+13 government agency whose membership consists of all Member States that
+14 have enacted the Compact known as the Respiratory Care Interstate Compact
+15 Commission. The Commission is an instrumentality of the Compact Member
+16 States acting jointly and not an instrumentality of any one State. The
+17 Commission shall come into existence on or after the effective date of
+18 the Compact, as set forth in Section 11.
+19 B. Membership, Voting, and Meetings
+20 1. Each Member State shall have and be limited to one Commissioner
+21 selected by that Member State's Respiratory Therapy Licensing Authority.
+22 2. The Commissioner shall be an administrator or their designated
+23 staff member of the Member State's Respiratory Therapy Licensing
+24 Authority.
+25 3. The Commission shall by Rule or bylaw establish a term of office
+26 for Commissioners and may by Rule or bylaw establish term limits.
+27 4. The Commission may recommend to a Member State the removal or
+28 suspension of any Commissioner from office.
+29 5. A Member State's Respiratory Therapy Licensing Authority shall
+30 fill any vacancy of its Commissioner occurring on the Commission within
+31 sixty days of the vacancy.
+-13-
+
+LB912 LB912
+2026 2026
+1 6. Each Commissioner shall be entitled to one vote on all matters
+2 before the Commission requiring a vote by Commissioners.
+3 7. A Commissioner shall vote in person or by such other means as
+4 provided in the bylaws. The bylaws may provide for Commissioners to meet
+5 by telecommunication, videoconference, or other means of communication.
+6 8. The Commission shall meet at least once during each calendar
+7 year. Additional meetings may be held as set forth in the bylaws.
+8 C. The Commission shall have the following powers:
+9 1. Establish and amend the fiscal year of the Commission;
+10 2. Establish and amend bylaws and policies, including, but not
+11 limited to, a code of conduct and conflict of interest;
+12 3. Establish and amend Rules, which shall be binding in all Member
+13 States;
+14 4. Maintain its financial records in accordance with the bylaws;
+15 5. Meet and take such actions as are consistent with the provisions
+16 of this Compact, the Commission's Rules, and the bylaws;
+17 6. Initiate and conduct legal proceedings or actions in the name of
+18 the Commission, provided that the standing of any Respiratory Therapy
+19 Licensing Authority to sue or be sued under applicable law shall not be
+20 affected;
+21 7. Maintain and certify records and information provided to a Member
+22 State as the authenticated business records of the Commission, and
+23 designate an agent to do so on the Commission's behalf;
+24 8. Purchase and maintain insurance and bonds;
+25 9. Accept or contract for services of personnel, including, but not
+26 limited to, employees of a Member State;
+27 10. Conduct an annual financial review;
+28 11. Hire employees, elect or appoint officers, fix compensation,
+29 define duties, grant such individuals appropriate authority to carry out
+30 the purposes of the Compact, and establish the Commission's personnel
+31 policies and programs relating to conflicts of interest, qualifications
+-14-
+
+LB912 LB912
+2026 2026
+1 of personnel, and other related personnel matters;
+2 12. Assess and collect fees;
+3 13. Accept any and all appropriate gifts, donations, grants of
+4 money, other sources of revenue, equipment, supplies, materials, and
+5 services, and receive, utilize, and dispose of the same, provided that at
+6 all times:
+7 a. The Commission shall avoid any appearance of impropriety; and
+8 b. The Commission shall avoid any appearance of conflict of
+9 interest;
+10 14. Lease, purchase, retain, own, hold, improve, or use any
+11 property, real, personal, or mixed, or any undivided interest therein;
+12 15. Sell, convey, mortgage, pledge, lease, exchange, abandon, or
+13 otherwise dispose of any property real, personal, or mixed;
+14 16. Establish a budget and make expenditures;
+15 17. Borrow money in a fiscally responsible manner;
+16 18. Appoint committees, including standing committees, composed of
+17 Commissioners, State regulators, State legislators or their
+18 representatives, and consumer representatives, and such other interested
+19 persons as may be designated in this Compact and the bylaws;
+20 19. Provide and receive information from, and cooperate with, law
+21 enforcement agencies;
+22 20. Establish and elect an Executive Committee, including a chair,
+23 vice-chair, secretary, treasurer, and such other offices as the
+24 Commission shall establish by Rule or bylaw;
+25 21. Enter into contracts or arrangements for the management of the
+26 affairs of the Commission;
+27 22. Determine whether a State's adopted language is materially
+28 different from the Model Compact language such that the State would not
+29 qualify for participation in the Compact; and
+30 23. Perform such other functions as may be necessary or appropriate
+31 to achieve the purposes of this Compact.
+-15-
+
+LB912 LB912
+2026 2026
+1 D. The Executive Committee
+2 1. The Executive Committee shall have the power to act on behalf of
+3 the Commission according to the terms of this Compact. The powers,
+4 duties, and responsibilities of the Executive Committee shall include:
+5 a. Overseeing the day-to-day activities of the administration of the
+6 Compact, including enforcement and compliance with the provisions of the
+7 Compact, its Rules and bylaws, and other such duties as deemed necessary;
+8 b. Recommending to the Commission changes to the Rules or bylaws,
+9 changes to this Compact legislation, fees charged to Compact Member
+10 States, fees charged to Licensees, and other fees;
+11 c. Ensuring Compact administration services are appropriately
+12 provided, including by contract;
+13 d. Preparing and recommending the budget;
+14 e. Maintaining financial records on behalf of the Commission;
+15 f. Monitoring Compact compliance of Member States and providing
+16 compliance reports to the Commission;
+17 g. Establishing additional committees as necessary;
+18 h. Exercising the powers and duties of the Commission during the
+19 interim between Commission meetings, except for adopting or amending
+20 Rules, adopting or amending bylaws, and exercising any other powers and
+21 duties expressly reserved to the Commission by Rule or bylaw; and
+22 i. Performing other duties as provided in the Rules or bylaws of the
+23 Commission.
+24 2. The Executive Committee shall be composed of up to nine members,
+25 as further set forth in the bylaws of the Commission:
+26 a. Seven voting members who are elected by the Commission from the
+27 current membership of the Commission; and
+28 b. Two ex officio, nonvoting members.
+29 3. The Commission may remove any member of the Executive Committee
+30 as provided in the Commission's bylaws.
+31 4. The Executive Committee shall meet at least annually.
+-16-
+
+LB912 LB912
+2026 2026
+1 a. Executive Committee meetings shall be open to the public, except
+2 that the Executive Committee may meet in a closed, nonpublic meeting as
+3 provided in subsection F.4 below;
+4 b. The Executive Committee shall give advance notice of its
+5 meetings, posted on its website and as determined to provide notice to
+6 persons with an interest in the business of the Commission; and
+7 c. The Executive Committee may hold a special meeting in accordance
+8 with subsection F.2 below.
+9 E. The Commission shall adopt and provide to the Member States an
+10 annual report.
+11 F. Meetings of the Commission
+12 1. All meetings of the Commission that are not closed pursuant to
+13 subsection 7.F.4 shall be open to the public. Notice of public meetings
+14 shall be posted on the Commission's website at least thirty days prior to
+15 the public meeting.
+16 2. Notwithstanding subsection 7.F.1, the Commission may convene an
+17 emergency public meeting by providing at least twenty-four hours prior
+18 notice on the Commission's website, and any other means as provided in
+19 the Commission's Rules, for any of the reasons it may dispense with
+20 notice of proposed rulemaking under subsection 9.G. The Commission's
+21 legal counsel shall certify that one of the reasons justifying an
+22 emergency public meeting has been met.
+23 3. Notice of all Commission meetings shall provide the time, date,
+24 and location of the meeting, and if the meeting is to be held or
+25 accessible via telecommunication, videoconference, or other electronic
+26 means, the notice shall include the mechanism for access to the meeting.
+27 4. The Commission or the Executive Committee may convene in a
+28 closed, nonpublic meeting for the Commission or Executive Committee to
+29 receive or solicit legal advice or to discuss:
+30 a. Noncompliance of a Member State with its obligations under the
+31 Compact;
+-17-
+
+LB912 LB912
+2026 2026
+1 b. The employment, compensation, discipline or other matters,
+2 practices or procedures related to specific employees;
+3 c. Current or threatened discipline of a Licensee or Compact
+4 Privilege holder by the Commission or by a Member State's Respiratory
+5 Therapy Licensing Authority;
+6 d. Current, threatened, or reasonably anticipated litigation;
+7 e. Negotiation of contracts for the purchase, lease, or sale of
+8 goods, services, or real estate;
+9 f. Accusing any person of a crime or formally censuring any person;
+10 g. Trade secrets or commercial or financial information that is
+11 privileged or confidential;
+12 h. Information of a personal nature where disclosure would
+13 constitute a clearly unwarranted invasion of personal privacy;
+14 i. Investigative records compiled for law enforcement purposes;
+15 j. Information related to any investigative reports prepared by or
+16 on behalf of or for use of the Commission or other committee charged with
+17 responsibility of investigation or determination of compliance issues
+18 pursuant to the Compact;
+19 k. Legal advice;
+20 l. Matters specifically exempted from disclosure by federal or
+21 Member State law; or
+22 m. Other matters as promulgated by the Commission by Rule.
+23 5. If a meeting, or portion of a meeting, is closed, the presiding
+24 officer shall state that the meeting will be closed and reference each
+25 relevant exempting provision, and such reference shall be recorded in the
+26 minutes.
+27 6. The Commission shall keep minutes in accordance with Commission
+28 Rules and bylaws. All documents considered in connection with an action
+29 shall be identified in such minutes. All minutes and documents of a
+30 closed meeting shall remain under seal, subject to release only by a
+31 majority vote of the Commission or order of a court of competent
+-18-
+
+LB912 LB912
+2026 2026
+1 jurisdiction.
+2 G. Financing of the Commission
+3 1. The Commission shall pay, or provide for the payment of, the
+4 reasonable expenses of its establishment, organization, and ongoing
+5 activities.
+6 2. The Commission may accept any and all appropriate revenue sources
+7 as provided herein.
+8 3. The Commission may levy on and collect an annual assessment from
+9 each Member State and impose fees on Licensees of Member States to whom
+10 it grants a Compact Privilege to cover the cost of the operations and
+11 activities of the Commission and its staff. The aggregate annual
+12 assessment amount for Member States, if any, shall be allocated based
+13 upon a formula that the Commission shall promulgate by Rule.
+14 4. The Commission shall not incur obligations of any kind prior to
+15 securing the funds or a loan adequate to meet the same; nor shall the
+16 Commission pledge the credit of any of the Member States, except by and
+17 with the authority of the Member State.
+18 5. The Commission shall keep accurate accounts of all receipts and
+19 disbursements. The receipts and disbursements of the Commission shall be
+20 subject to the financial review and accounting procedures established
+21 under its bylaws. However, all receipts and disbursements of funds
+22 handled by the Commission shall be subject to an annual financial review
+23 by a certified or licensed public accountant, and the report of the
+24 financial review shall be included in and become part of the annual
+25 report of the Commission.
+26 H. Qualified Immunity, Defense, and Indemnification
+27 1. Nothing herein shall be construed as a limitation on the
+28 liability of any Licensee for professional malpractice or misconduct,
+29 which shall be governed solely by any other applicable state laws.
+30 2. The members, officers, executive director, employees, and agents
+31 of the Commission shall have no greater liability than a state employee
+-19-
+
+LB912 LB912
+2026 2026
+1 would have under the same or similar circumstances, either personally or
+2 in their official capacity, for any claim for damage to or loss of
+3 property, personal injury, or other civil liability caused by or arising
+4 out of any actual or alleged act, error, or omission that occurred, or
+5 that the person against whom the claim is made had a reasonable basis for
+6 believing occurred, within the scope of Commission employment, duties, or
+7 responsibilities; provided that nothing in this subsection shall be
+8 construed to protect any such person from suit or liability for any
+9 damage, loss, injury, or liability caused by the intentional or willful
+10 or wanton misconduct of that person. The procurement of insurance of any
+11 type by the Commission shall not in any way compromise or limit the
+12 immunity granted hereunder.
+13 3. The Commission shall defend any Commissioner, officer, executive
+14 director, employee, and agent of the Commission in any civil action
+15 seeking to impose liability arising out of any actual or alleged act,
+16 error, or omission that occurred within the scope of Commission
+17 employment, duties, or responsibilities, or as determined by the
+18 Commission that the person against whom the claim is made had a
+19 reasonable basis for believing occurred within the scope of Commission
+20 employment, duties, or responsibilities; provided that nothing herein
+21 shall be construed to prohibit that person from retaining their own
+22 counsel at their own expense; and provided further, that the actual or
+23 alleged act, error, or omission did not result from that person's
+24 intentional or willful or wanton misconduct.
+25 4. The Commission shall indemnify and hold harmless any
+26 Commissioner, member, officer, executive director, employee, and agent of
+27 the Commission for the amount of any settlement or judgment obtained
+28 against that person arising out of any actual or alleged act, error, or
+29 omission that occurred within the scope of Commission employment, duties,
+30 or responsibilities, or that such person had a reasonable basis for
+31 believing occurred within the scope of Commission employment, duties, or
+-20-
+
+LB912 LB912
+2026 2026
+1 responsibilities; provided that the actual or alleged act, error, or
+2 omission did not result from the intentional or willful or wanton
+3 misconduct of that person.
+4 5. Nothing in this Compact shall be interpreted to waive or
+5 otherwise abrogate a Member State's state action immunity or state action
+6 affirmative defense with respect to antitrust claims under the Sherman
+7 Act, Clayton Act, or any other State or federal antitrust or
+8 anticompetitive law or regulation.
+9 6. Nothing in this Compact shall be construed to be a waiver of
+10 sovereign immunity by the Member States or by the Commission.
+11 SECTION 8. DATA SYSTEM
+12 A. The Commission shall provide for the development, maintenance,
+13 operation, and utilization of a coordinated database and reporting system
+14 containing licensure, Adverse Action, and the presence of Significant
+15 Investigative Information.
+16 B. Notwithstanding any other provision of State law to the contrary,
+17 a Member State shall submit a uniform data set to the Data System as
+18 required by the Rules of the Commission, including, but not limited to:
+19 1. Identifying information;
+20 2. Licensure data;
+21 3. Adverse Actions against a Licensee, license applicant, or Compact
+22 Privilege holder and information related thereto;
+23 4. Nonconfidential information related to Alternative Program
+24 participation, the beginning and ending dates of such participation, and
+25 other information related to such participation not made confidential
+26 under Member State law;
+27 5. Any denial of application for licensure, and the reasons for such
+28 denial;
+29 6. The presence of current Significant Investigative Information;
+30 and
+31 7. Other information that may facilitate the administration of this
+-21-
+
+LB912 LB912
+2026 2026
+1 Compact or the protection of the public, as determined by the Rules of
+2 the Commission.
+3 C. No Member State shall submit any information which constitutes
+4 criminal history record information, as defined by applicable federal
+5 law, to the Data System established hereunder.
+6 D. The records and information provided to a Member State pursuant
+7 to this Compact or through the Data System, when certified by the
+8 Commission or an agent thereof, shall constitute the authenticated
+9 business records of the Commission, and shall be entitled to any
+10 associated hearsay exception in any relevant judicial, quasi-judicial, or
+11 administrative proceedings in a Member State.
+12 E. Significant Investigative Information pertaining to a Licensee in
+13 any Member State will only be available to other Member States.
+14 F. It is the responsibility of the Member States to report any
+15 Adverse Action against a Licensee and to monitor the database to
+16 determine whether Adverse Action has been taken against a Licensee.
+17 Adverse Action information pertaining to a Licensee in any Member State
+18 will be available to any other Member State.
+19 G. Member States contributing information to the Data System may
+20 designate information that may not be shared with the public without the
+21 express permission of the contributing State.
+22 H. Any information submitted to the Data System that is subsequently
+23 expunged pursuant to federal law or the laws of the Member State
+24 contributing the information shall be removed from the Data System.
+25 SECTION 9. RULEMAKING
+26 A. The Commission shall promulgate reasonable Rules in order to
+27 effectively and efficiently implement and administer the purposes and
+28 provisions of the Compact. A Rule shall be invalid and have no force or
+29 effect only if a court of competent jurisdiction holds that the Rule is
+30 invalid because the Commission exercised its rulemaking authority in a
+31 manner that is beyond the scope and purposes of the Compact, or the
+-22-
+
+LB912 LB912
+2026 2026
+1 powers granted hereunder, or based upon another applicable standard of
+2 review.
+3 B. For purposes of the Compact, the Rules of the Commission shall
+4 have the force of law in each Member State.
+5 C. The Commission shall exercise its rulemaking powers pursuant to
+6 the criteria set forth in this section and the Rules adopted thereunder.
+7 Rules shall become binding as of the date specified in each Rule.
+8 D. If a majority of the legislatures of the Member States rejects a
+9 Rule or portion of a Rule, by enactment of a statute or resolution in the
+10 same manner used to adopt the Compact within four years of the date of
+11 adoption of the Rule, then such Rule shall have no further force and
+12 effect in any Member State.
+13 E. Rules shall be adopted at a regular or special meeting of the
+14 Commission.
+15 F. Prior to adoption of a proposed Rule, the Commission shall hold a
+16 public hearing and allow persons to provide oral and written comments,
+17 data, facts, opinions, and arguments.
+18 G. Prior to adoption of a proposed Rule by the Commission, and at
+19 least thirty days in advance of the meeting at which the Commission will
+20 hold a public hearing on the proposed Rule, the Commission shall provide
+21 a notice of proposed rulemaking:
+22 1. On the website of the Commission or other publicly accessible
+23 platform;
+24 2. To persons who have requested notice of the Commission's notices
+25 of proposed rulemaking; and
+26 3. In such other ways as the Commission may by Rule specify.
+27 H. The notice of proposed rulemaking shall include:
+28 1. The time, date, and location of the public hearing at which the
+29 Commission will hear public comments on the proposed Rule and, if
+30 different, the time, date, and location of the meeting where the
+31 Commission will consider and vote on the proposed Rule;
+-23-
+
+LB912 LB912
+2026 2026
+1 2. If the hearing is held via telecommunication, videoconference, or
+2 other electronic means, the Commission shall include the mechanism for
+3 access to the hearing in the notice of proposed rulemaking;
+4 3. The text of the proposed Rule and the reason therefor;
+5 4. A request for comments on the proposed Rule from any interested
+6 person; and
+7 5. The manner in which interested persons may submit written
+8 comments.
+9 I. All hearings will be recorded. A copy of the recording and all
+10 written comments and documents received by the Commission in response to
+11 the proposed Rule shall be available to the public.
+12 J. Nothing in this section shall be construed as requiring a
+13 separate hearing on each Rule. Rules may be grouped for the convenience
+14 of the Commission at hearings required by this section.
+15 K. The Commission shall, by majority vote of all Commissioners, take
+16 final action on the proposed Rule based on the rulemaking record and the
+17 full text of the Rule.
+18 1. The Commission may adopt changes to the proposed Rule provided
+19 the changes are consistent with the original purpose of the proposed
+20 Rule.
+21 2. The Commission shall provide an explanation of the reasons for
+22 substantive changes made to the proposed Rule as well as reasons for
+23 substantive changes not made that were recommended by commenters.
+24 3. The Commission shall determine a reasonable effective date for
+25 the Rule. Except for an emergency as provided in Section 9.L, the
+26 effective date of the Rule shall be no sooner than thirty days after
+27 issuing the notice that it adopted or amended the Rule.
+28 L. Upon determination that an emergency exists, the Commission may
+29 consider and adopt an emergency Rule with twenty-four hours' notice, and
+30 with opportunity to comment, provided that the usual rulemaking
+31 procedures provided in the Compact and in this section shall be
+-24-
+
+LB912 LB912
+2026 2026
+1 retroactively applied to the Rule as soon as reasonably possible, in no
+2 event later than ninety days after the effective date of the Rule. For
+3 the purposes of this provision, an emergency Rule is one that must be
+4 adopted immediately in order to:
+5 1. Meet an imminent threat to public health, safety, or welfare;
+6 2. Prevent a loss of Commission or Member State funds;
+7 3. Meet a deadline for the promulgation of a Rule that is
+8 established by federal law or Rule; or
+9 4. Protect public health and safety.
+10 M. The Commission or an authorized committee of the Commission may
+11 direct revisions to a previously adopted Rule for purposes of correcting
+12 typographical errors, errors in format, errors in consistency, or
+13 grammatical errors. Public notice of any revisions shall be posted on the
+14 website of the Commission. The revision shall be subject to challenge by
+15 any person for a period of thirty days after posting. The revision may be
+16 challenged only on grounds that the revision results in a material change
+17 to a Rule. A challenge shall be made in writing and delivered to the
+18 Commission prior to the end of the notice period. If no challenge is
+19 made, the revision will take effect without further action. If the
+20 revision is challenged, the revision may not take effect without the
+21 approval of the Commission.
+22 N. No Member State's rulemaking process or procedural requirements
+23 shall apply to the Commission.
+24 1. The Commission shall have no authority over any Member State's
+25 rulemaking process or procedural requirements that do not pertain to the
+26 Compact.
+27 O. Nothing in this Compact, nor any Rule or regulation of the
+28 Commission, shall be construed to limit, restrict, or in any way reduce
+29 the ability of a Member State to enact and enforce laws, regulations, or
+30 other Rules related to the Practice of Respiratory Therapy in that State,
+31 where those laws, regulations, or other Rules are not inconsistent with
+-25-
+
+LB912 LB912
+2026 2026
+1 the provisions of this Compact.
+2 SECTION 10. OVERSIGHT, DISPUTE RESOLUTION, AND ENFORCEMENT
+3 A. Oversight
+4 1. The executive and judicial branches of State government in each
+5 Member State shall enforce this Compact and take all actions necessary
+6 and appropriate to implement the Compact.
+7 2. Venue is proper and judicial proceedings by or against the
+8 Commission shall be brought solely and exclusively in a court of
+9 competent jurisdiction where the principal office of the Commission is
+10 located. The Commission may waive venue and jurisdictional defenses to
+11 the extent it adopts or consents to participate in alternative dispute
+12 resolution proceedings. Nothing herein shall affect or limit the
+13 selection or propriety of venue in any action against a Licensee for
+14 professional malpractice, misconduct, or any such similar matter.
+15 3. The Commission shall be entitled to receive service of process in
+16 any proceeding regarding the enforcement or interpretation of the Compact
+17 and shall have standing to intervene in such a proceeding for all
+18 purposes. Failure to provide the Commission service of process shall
+19 render a judgment or order void as to the Commission, this Compact, or
+20 promulgated Rules.
+21 B. Default, Technical Assistance, and Termination
+22 1. If the Commission determines that a Member State has defaulted in
+23 the performance of its obligations or responsibilities under this Compact
+24 or the promulgated Rules, the Commission shall provide written notice to
+25 the defaulting State. The notice of default shall describe the default,
+26 the proposed means of curing the default, and any other action that the
+27 Commission may take, and shall offer training and specific technical
+28 assistance regarding the default.
+29 2. The Commission shall provide a copy of the notice of default to
+30 the other Member States.
+31 C. If a State in default fails to cure the default, the defaulting
+-26-
+
+LB912 LB912
+2026 2026
+1 State may be terminated from the Compact upon an affirmative vote of a
+2 majority of the Commissioners of the Member States, and all rights,
+3 privileges and benefits conferred on that State by this Compact may be
+4 terminated on the effective date of termination. A cure of the default
+5 does not relieve the offending State of obligations or liabilities
+6 incurred during the period of default.
+7 D. Termination of membership in the Compact shall be imposed only
+8 after all other means of securing compliance have been exhausted. Notice
+9 of intent to suspend or terminate shall be given by the Commission to the
+10 Governor, the majority and minority leaders of the defaulting State's
+11 legislature, the defaulting State's Respiratory Therapy Licensing
+12 Authority and each of the Member States' Respiratory Therapy Licensing
+13 Authorities.
+14 E. A State that has been terminated is responsible for all
+15 assessments, obligations, and liabilities incurred through the effective
+16 date of termination, including obligations that extend beyond the
+17 effective date of termination, if necessary.
+18 F. Upon the termination of a State's membership from this Compact,
+19 that State shall immediately provide notice to all Licensees and Compact
+20 Privilege holders (of which the Commission has a record) within that
+21 State of such termination. The terminated State shall continue to
+22 recognize all licenses granted pursuant to this Compact for a minimum of
+23 one hundred eighty days after the date of said notice of termination.
+24 G. The Commission shall not bear any costs related to a State that
+25 is found to be in default or that has been terminated from the Compact,
+26 unless agreed upon in writing between the Commission and the defaulting
+27 State.
+28 H. The defaulting State may appeal the action of the Commission by
+29 petitioning the United States District Court for the District of Columbia
+30 or the federal district where the Commission has its principal offices.
+31 The prevailing party shall be awarded all costs of such litigation,
+-27-
+
+LB912 LB912
+2026 2026
+1 including reasonable attorney's fees.
+2 I. Dispute Resolution
+3 1. Upon request by a Member State, the Commission shall attempt to
+4 resolve disputes related to the Compact that arise among Member States
+5 and between Member and non-Member States.
+6 2. The Commission shall promulgate a Rule providing for both
+7 mediation and binding dispute resolution for disputes, as appropriate.
+8 J. Enforcement
+9 1. By majority vote, as may be further provided by Rule, the
+10 Commission may initiate legal action against a Member State in default in
+11 the United States District Court for the District of Columbia or the
+12 federal district where the Commission has its principal offices to
+13 enforce compliance with the provisions of the Compact and its promulgated
+14 Rules. A Member State by enactment of this Compact consents to venue and
+15 jurisdiction in such court for the purposes set forth herein. The relief
+16 sought may include both injunctive relief and damages. In the event
+17 judicial enforcement is necessary, the prevailing party shall be awarded
+18 all costs of such litigation, including reasonable attorney's fees. The
+19 remedies herein shall not be the exclusive remedies of the Commission.
+20 The Commission may pursue any other remedies available under federal or
+21 the defaulting Member State's law.
+22 2. A Member State may initiate legal action against the Commission
+23 in the United States District Court for the District of Columbia or the
+24 federal district where the Commission has its principal offices to
+25 enforce compliance with the provisions of the Compact and its promulgated
+26 Rules. The relief sought may include both injunctive relief and damages.
+27 In the event judicial enforcement is necessary, the prevailing party
+28 shall be awarded all costs of such litigation, including reasonable
+29 attorney's fees.
+30 3. No person other than a Member State shall enforce this Compact
+31 against the Commission.
+-28-
+
+LB912 LB912
+2026 2026
+1 SECTION 11. EFFECTIVE DATE, WITHDRAWAL, AND AMENDMENT
+2 A. The Compact shall come into effect on the date on which the
+3 Compact statute is enacted into law in the seventh Member State
+4 ("Effective Date").
+5 1. On or after the Effective Date of the Compact, the Commission
+6 shall convene and review the enactment of each of the first seven Member
+7 States ("Charter Member States") to determine if the statute enacted by
+8 each such Charter Member State is materially different than the Model
+9 Compact.
+10 a. A Charter Member State whose enactment is found to be materially
+11 different from the Model Compact shall be entitled to the default process
+12 set forth in Section 10.
+13 b. If any Member State is later found to be in default, or is
+14 terminated or withdraws from the Compact, the Commission shall remain in
+15 existence and the Compact shall remain in effect even if the number of
+16 Member States should be less than seven.
+17 2. Member States enacting the Compact subsequent to the seven
+18 initial Charter Member States shall be subject to the process set forth
+19 herein and Commission Rule to determine if their enactments are
+20 materially different from the Model Compact and whether they qualify for
+21 participation in the Compact.
+22 3. All actions taken for the benefit of the Commission or in
+23 furtherance of the purposes of the administration of the Compact prior to
+24 the effective date of the Compact or the Commission coming into existence
+25 shall be considered to be actions of the Commission unless specifically
+26 repudiated by the Commission. The Commission shall own and have all
+27 rights to any intellectual property developed on behalf or in furtherance
+28 of the Commission by individuals or entities involved in organizing or
+29 establishing the Commission, as may be further set forth in Rules of the
+30 Commission.
+31 4. Any State that joins the Compact subsequent to the Commission's
+-29-
+
+LB912 LB912
+2026 2026
+1 initial adoption of the Rules and bylaws shall be subject to the Rules
+2 and bylaws as they exist on the date on which the Compact becomes law in
+3 that State. Any Rule that has been previously adopted by the Commission
+4 shall have the full force and effect of law on the date the Compact
+5 becomes law in that State.
+6 B. Any Member State may withdraw from this Compact by enacting a
+7 statute repealing the same.
+8 1. A Member State's withdrawal shall not take effect until one
+9 hundred eighty days after enactment of the repealing statute.
+10 2. Withdrawal shall not affect the continuing requirement of the
+11 withdrawing State's Respiratory Therapy Licensing Authority to comply
+12 with the investigative and Adverse Action reporting requirements of this
+13 Compact prior to the effective date of withdrawal.
+14 3. Upon the enactment of a statute withdrawing from this Compact, a
+15 State shall immediately provide notice of such withdrawal to all
+16 Licensees and Compact Privilege holders (of which the Commission has a
+17 record) within that State. Notwithstanding any subsequent statutory
+18 enactment to the contrary, such withdrawing State shall continue to
+19 recognize all licenses granted pursuant to this Compact for a minimum of
+20 one hundred eighty days after the date of such notice of withdrawal.
+21 C. Nothing contained in this Compact shall be construed to
+22 invalidate or prevent any licensure agreement or other cooperative
+23 arrangement between a Member State and a non-Member State that does not
+24 conflict with the provisions of this Compact.
+25 D. This Compact may be amended by the Member States. No amendment to
+26 this Compact shall become effective and binding upon any Member State
+27 until it is enacted into the laws of all Member States.
+28 SECTION 12. CONSTRUCTION AND SEVERABILITY
+29 A. This Compact and the Commission's rulemaking authority shall be
+30 liberally construed so as to effectuate the purposes and the
+31 implementation and administration of the Compact. Provisions of the
+-30-
+
+LB912 LB912
+2026 2026
+1 Compact expressly authorizing or requiring the promulgation of Rules
+2 shall not be construed to limit the Commission's rulemaking authority
+3 solely for those purposes.
+4 B. The provisions of this Compact shall be severable, and if any
+5 phrase, clause, sentence, or provision of this Compact is held by a court
+6 of competent jurisdiction to be contrary to the constitution of any
+7 Member State, a State seeking participation in the Compact, or of the
+8 United States, or the applicability thereof to any government, agency,
+9 person, or circumstance is held to be unconstitutional by a court of
+10 competent jurisdiction, the validity of the remainder of this Compact and
+11 the applicability thereof to any other government, agency, person, or
+12 circumstance shall not be affected thereby.
+13 C. Notwithstanding subsection B of this section, the Commission may
+14 deny a State's participation in the Compact or, in accordance with the
+15 requirements of Section 10, terminate a Member State's participation in
+16 the Compact, if it determines that a constitutional requirement of a
+17 Member State is a material departure from the Compact. Otherwise, if this
+18 Compact shall be held to be contrary to the constitution of any Member
+19 State, the Compact shall remain in full force and effect as to the
+20 remaining Member States and in full force and effect as to the Member
+21 State affected as to all severable matters.
+22 SECTION 13. CONSISTENT EFFECT AND CONFLICT WITH OTHER STATE LAWS
+23 A. Nothing herein shall prevent or inhibit the enforcement of any
+24 other law of a Member State that is not inconsistent with the Compact.
+25 B. Any laws, statutes, regulations, or other legal requirements in a
+26 Member State in conflict with the Compact are superseded to the extent of
+27 the conflict, including any subsequently enacted State laws.
+28 C. All permissible agreements between the Commission and the Member
+29 States are binding in accordance with their terms.
+30 D. Other than as expressly set forth herein, nothing in this Compact
+31 will impact initial licensure.
+-31-
+
+LB912 LB912
+2026 2026
+1 Sec. 7. The State of Nebraska adopts the Athletic Trainer Compact
+2 in the form substantially as follows:
+3 SECTION 1. TITLE AND PURPOSE
+4 This statute shall be known and cited as the Athletic Trainer
+5 Compact. The purposes of this compact are to expand mobility of Athletic
+6 Training practice and improve public access to services by providing
+7 qualified Licensed Athletic Trainers the ability to practice in other
+8 Member States. This compact preserves the regulatory authority of States
+9 to protect public health and safety through the current system of State
+10 licensure.
+11 This compact is designed to achieve the following objectives:
+12 A. Increase public access to Athletic Training and enhance
+13 continuity of care by providing for the mutual recognition of other
+14 Licenses issued by Member States;
+15 B. Provide an additional streamlined opportunity for interstate
+16 practice by Licensed Athletic Trainers who meet compact uniform
+17 requirements;
+18 C. Promote mobility and workforce development by eliminating the
+19 necessity for Licenses in multiple States by providing for the mutual
+20 recognition of other Licenses issued by Member States;
+21 D. Reduce administrative burdens on Licensed Athletic Trainers and
+22 Member States;
+23 E. Enhance the States' ability to protect the public's health and
+24 safety;
+25 F. Encourage the cooperation of Member States in regulating
+26 interstate practice of Licensed Athletic Trainers;
+27 G. Support relocating Active Military Members and their spouses;
+28 H. Enhance the exchange of licensure, investigative, and
+29 disciplinary information among Member States;
+30 I. Allow for the use of telehealth to facilitate increased access to
+31 Athletic Training services;
+-32-
+
+LB912 LB912
+2026 2026
+1 J. Support the uniformity of Licensed Athletic Trainer licensure
+2 requirements throughout the States;
+3 K. Affirm the authority of all Member States to hold a Licensed
+4 Athletic Trainer accountable for abiding by the Scope of Practice in the
+5 State in which the patient is located at the time of care; and
+6 L. Require adherence to the Model Compact Language in order to
+7 promote uniformity and ensure that all Member States have accepted and
+8 are mutually obligated to the same terms.
+9 SECTION 2. DEFINITIONS
+10 As used in this compact, unless the context requires otherwise, the
+11 following definitions shall apply:
+12 A. "Active Military Member" means any individual with full-time duty
+13 status in the active armed forces of the United States, including members
+14 of the National Guard and Reserve;
+15 B. "Adverse Action" means any administrative, civil, equitable, or
+16 criminal action permitted by a State's laws which is imposed by a
+17 Licensing Authority or other authority against a Licensee, including
+18 actions against an individual's License or Compact Privilege such as
+19 revocation, suspension, probation, monitoring of the Licensee, limitation
+20 on the Licensee's practice, or any other Encumbrance on licensure
+21 affecting a Licensee's authorization to practice;
+22 C. "Alternative Program" means a nondisciplinary monitoring or
+23 practice remediation process applicable to an Athletic Trainer approved
+24 by a State Licensing Authority of a Member State in which the Athletic
+25 Trainer is licensed. This includes, but is not limited to, programs to
+26 which Licensees with substance use, addiction, or mental health
+27 conditions are referred in lieu of Adverse Action;
+28 D. "Athletic Training" means the prevention, examination,
+29 assessment, treatment, and rehabilitation of emergent, acute, or chronic
+30 injuries and medical conditions as defined by applicable Member State
+31 laws and regulations;
+-33-
+
+LB912 LB912
+2026 2026
+1 E. "Athletic Trainer Compact Commission" or "Compact Commission"
+2 means the government agency whose membership consists of all States that
+3 have enacted this compact, as described herein and which shall operate as
+4 an instrumentality of the Member States to administer and implement the
+5 compact according to its terms;
+6 F. "BOC" means the Board of Certification, Inc. or any successor
+7 organization thereto;
+8 G. "CAATE" means the Commission on Accreditation of Athletic
+9 Training Education or any successor organization thereto;
+10 H. "Charter Member State" means any Member State which enacted and
+11 made effective this compact by law before the compact effective date
+12 specified herein;
+13 I. "Commissioner" means the individual appointed by a Member State
+14 to serve as the member of the Commission for that Member State;
+15 J. "Compact Privilege" means the legal authorization granted by a
+16 Remote State, equivalent to a License, allowing a Licensee from another
+17 Member State to provide Athletic Training services in a Remote State;
+18 K. "Compact Qualifying License" means a License that is not an
+19 Encumbered License issued by a Member State to practice Athletic Training
+20 which qualifies the Licensee to exercise a Compact Privilege pursuant to
+21 Section 4 of this compact;
+22 L. "Continuing Competence" means a requirement, as a condition of
+23 License renewal, to provide evidence of successful participation, and
+24 completion of, educational and professional activities relevant to
+25 practice or area of work. For purposes of this compact, evidence of
+26 active BOC certification may satisfy the meaning of Continuing Competence
+27 as set forth herein;
+28 M. "Current Significant Investigative Information" means the
+29 existence of:
+30 1. Investigative Information that a Licensing Authority, after a
+31 preliminary inquiry that includes notification and an opportunity for the
+-34-
+
+LB912 LB912
+2026 2026
+1 subject Licensee to respond, if required by State law, has reason to
+2 believe is not groundless and, if proven true, would indicate more than a
+3 minor infraction; or
+4 2. Investigative Information that indicates that the subject
+5 Licensee represents an immediate threat to public health and safety
+6 regardless of whether the subject Licensee has been notified and had an
+7 opportunity to respond;
+8 N. "Criminal Background Check" means the submission of fingerprints
+9 or other biometric-based information for a License applicant for the
+10 purpose of obtaining that applicant's criminal history record
+11 information, as defined in 28 C.F.R. 20.3(d) from the Federal Bureau of
+12 Investigation and the State's criminal history record repository as
+13 defined in 28 C.F.R. 20.3(f);
+14 O. "Data System" means the Commission's repository of information
+15 about Licensees, including, but not limited to, examination, licensure,
+16 investigative, Compact Privilege, Adverse Action, and Alternative
+17 Program;
+18 P. "Encumbrance" or "Encumbered" means a revocation or suspension
+19 of, or any limitation or condition on, the full and unrestricted practice
+20 of Athletic Training;
+21 Q. "Executive Committee" means a group of Commissioners elected or
+22 appointed to act on behalf of, and within the powers granted to them by,
+23 the compact and Commission;
+24 R. "Investigative Information" means information, records, and
+25 documents received or generated by a Licensing Authority pursuant to an
+26 investigation;
+27 S. "Jurisprudence Requirement" means the assessment of an
+28 individual's knowledge of the laws and Rules governing the practice of
+29 Athletic Training, as applicable, in a State;
+30 T. "License" means current authorization by a Member State to engage
+31 in the practice of Athletic Training;
+-35-
+
+LB912 LB912
+2026 2026
+1 U. "Licensee" or "Licensed Athletic Trainer" means an individual who
+2 currently holds an active, unrestricted License and who meets all of the
+3 requirements outlined in Section 4 of this compact;
+4 V. "Licensing Authority" means the board or agency of a State, or
+5 equivalent, that is responsible for the licensing and regulation of
+6 Athletic Trainers;
+7 W. "Model Compact Language" means the model language for the
+8 Athletic Trainer Compact on file with The Council of State Governments or
+9 other entity as designated by the Commission to which all Member States
+10 must substantively adhere and adopt;
+11 X. "Member State" means a State that has enacted the compact;
+12 Y. "Remote State" means a Member State other than the State of
+13 Qualifying Licensure;
+14 Z. "Rule" means a regulation promulgated by an authorized entity
+15 that has the force of law;
+16 AA. "Scope of Practice" means the procedures, actions, and processes
+17 an Athletic Trainer licensed in a State is permitted to undertake in that
+18 State and the circumstances under which the Licensee is permitted to
+19 undertake those procedures, actions, and processes. Such procedures,
+20 actions, and processes and the circumstances under which they may be
+21 undertaken may be established through means, including, but not limited
+22 to, statute, regulations, case law, and other processes available to the
+23 State Licensing Authority or other government agency. Scope of Practice
+24 shall include any State requirements regarding supervision or direction,
+25 if required by such State and as further defined by such State's statutes
+26 and regulations;
+27 BB. "Single-State License" means a License issued by any State that
+28 authorizes practice only within the issuing State;
+29 CC. "State" means any state, commonwealth, district, or territory of
+30 the United States of America;
+31 DD. "State of Qualifying Licensure" means the Member State that has
+-36-
+
+LB912 LB912
+2026 2026
+1 issued a Compact Qualifying License to a Licensee pursuant to this
+2 compact; and
+3 EE. "Unencumbered License" means a License that authorizes a
+4 Licensee to engage in the full and unrestricted practice of Athletic
+5 Training.
+6 SECTION 3. STATE PARTICIPATION IN THE COMPACT
+7 A. To be eligible to join this compact and to maintain eligibility
+8 as a Member State, a State must:
+9 1. Enact and maintain a statute that is not materially different
+10 from the Model Compact Language;
+11 2. License and regulate the practice of Athletic Training;
+12 3. Require that Licensees in that State maintain Continuing
+13 Competence standards as part of their State practice act or Rules;
+14 4. Have a mechanism in place for receiving and investigating
+15 complaints about Licensees;
+16 5. Grant the Compact Privilege to a Licensee who meets all the
+17 requirements outlined in Section 4 of this compact in accordance with the
+18 terms of the compact and any Rules promulgated thereunder;
+19 6. Participate fully in the Compact Commission's Data System,
+20 including using the unique identifier as defined in Rules;
+21 7. Notify the Compact Commission, in compliance with the terms of
+22 the compact and Rules, of any Adverse Action or the availability of
+23 Current Significant Investigative Information regarding a Licensee;
+24 8. Within a timeframe established by Rule, implement or utilize
+25 procedures for considering the criminal history records of applicants for
+26 a Compact Qualifying License which includes receiving the results of the
+27 Federal Bureau of Investigation record search and shall use those results
+28 in making licensure decisions. These procedures shall include the
+29 submission of fingerprints or other biometric-based information by
+30 applicants for the purpose of obtaining an applicant's criminal history
+31 record information from the Federal Bureau of Investigation and the
+-37-
+
+LB912 LB912
+2026 2026
+1 agency responsible for retaining that State's criminal records;
+2 a. A Member State must fully implement a Criminal Background Check
+3 requirement in order to participate in the issuance and acceptance of
+4 Compact Privileges; and
+5 b. Communication between a Member State and the Compact Commission
+6 or among Member States regarding the verification of eligibility for
+7 licensure through the compact shall not include any information received
+8 from the Federal Bureau of Investigation relating to a federal criminal
+9 records check performed by a Member State; and
+10 9. Comply with and enforce the Rules of the Compact Commission.
+11 B. Member States may set and collect a fee for issuance and renewal
+12 of a Compact Privilege to applicants.
+13 C. Individuals without a Compact Qualifying License shall continue
+14 to be able to apply for a Member State's Single-State License as provided
+15 under the laws of each Member State.
+16 D. Nothing in this compact shall affect the requirements established
+17 by a Member State for the issuance of a Single-State License.
+18 E. A Compact Qualifying License shall be recognized by each Remote
+19 State as authorizing that Licensee to engage in the practice of Athletic
+20 Training, under a Compact Privilege, in another Member State in
+21 accordance with the requirements in Section 4 of this compact.
+22 SECTION 4. COMPACT PRIVILEGE
+23 A. To be eligible for a Compact Privilege under the terms and
+24 provisions of the compact, the Licensee shall complete a Criminal
+25 Background Check performed by the Licensing Authority in the State of
+26 Qualifying Licensure prior to entry in the compact and shall:
+27 1. Satisfy one of the following two pathways:
+28 a. Hold a valid current active certification through the BOC, or its
+29 successor organization; or
+30 b. If a Licensee does not meet the requirements of subsection
+31 4.A.1.a., the following must be completed:
+-38-
+
+LB912 LB912
+2026 2026
+1 i. An education program which is one of the following:
+2 1. At least a bachelor's degree with a major course of study in
+3 Athletic Training, or an equivalent course of study from a college or
+4 university accredited at the time of graduation by CAATE, or its
+5 successor organization;
+6 2. An academic degree from a college or university in a foreign
+7 country equivalent to the degree described in subparagraph 1 of this
+8 subsection with a major course of study as described in subparagraph 1 of
+9 this subsection that is accredited by CAATE, or its successor
+10 organization; or
+11 3. The substantial equivalent of the foregoing which the Commission
+12 may determine by Rule; and
+13 ii. Successful completion of the exam administered by the BOC, or
+14 its successor organization, preceding the date of the Licensee's
+15 application for licensure in their State of Qualifying Licensure or the
+16 substantial equivalent of the foregoing requirement which the Commission
+17 may determine by Rule.
+18 2. Hold a Compact Qualifying License;
+19 3. Have not had any Encumbrance against any License or Compact
+20 Privilege to practice Athletic Training within the previous two years;
+21 4. Be eligible for a Compact Privilege in any Member State in
+22 accordance with Section 4 of this compact;
+23 5. Notify the Compact Commission that the Licensee is seeking the
+24 Compact Privilege within a Remote State;
+25 6. Pay any applicable fees, including any State fee, for the Compact
+26 Privilege;
+27 7. Meet only the Continuing Competence requirements established by
+28 the State of Qualifying Licensure;
+29 8. Comply with any requirements of the State of Qualifying Licensure
+30 as set forth in Section 3 of this compact;
+31 9. Meet any Jurisprudence Requirements established by the Remote
+-39-
+
+LB912 LB912
+2026 2026
+1 State in which the Licensee is seeking a Compact Privilege; and
+2 10. Report to the Compact Commission any Adverse Action,
+3 Encumbrance, or restriction on a License taken by any non-Member State
+4 within thirty days from the date the action is taken.
+5 B. The Compact Privilege is valid until the expiration date of the
+6 Compact Qualifying License. To maintain a Compact Privilege, renewal of
+7 the Compact Privilege shall be congruent with the renewal of the Compact
+8 Qualifying License as the Compact Commission may define by Rule. The
+9 Licensee must comply with the requirements of this section to maintain
+10 the Compact Privilege in the Remote State. A Licensee may apply for and
+11 hold Compact Privileges in multiple Member States.
+12 C. A Licensed Athletic Trainer must follow the Scope of Practice of
+13 the Member State where the patient is located. A Licensee engaging in the
+14 practice of Athletic Training in a Remote State under the Compact
+15 Privilege shall adhere to the Scope of Practice laws and regulations of
+16 the Remote State. Licensees shall be responsible for educating themselves
+17 on, and complying with, any and all Scope of Practice laws and
+18 regulations and State laws relating to the remote practice of Athletic
+19 Training, as applicable.
+20 D. A Licensee engaging in the practice of Athletic Training in a
+21 Remote State is subject to that State's regulatory authority. A Remote
+22 State may, in accordance with due process and that State's laws, remove a
+23 Licensee's Compact Privilege in the Remote State for a specific period of
+24 time, impose fines, or take any other necessary actions to protect the
+25 health and safety of its citizens. Any Member State which undertakes such
+26 an action shall promptly notify the Member State and the Commission as
+27 specified in the Rules. The Licensee may be deemed to be ineligible to
+28 exercise the Compact Privilege by any Member State until the specific
+29 time for removal has passed and all fines are paid.
+30 E. All Member State disciplinary orders that impose Adverse Action
+31 against a Compact Qualifying License shall result in deactivation of the
+-40-
+
+LB912 LB912
+2026 2026
+1 Licensee's Compact Privilege in all Member States during the pendency of
+2 the order. If a Compact Qualifying License is Encumbered, the Licensee
+3 shall lose the Compact Privilege in any Remote State until the following
+4 occur:
+5 1. The Compact Qualifying License is no longer Encumbered; and
+6 2. The Licensee has not had any Encumbrance or restriction against
+7 any License, Compact Qualifying License, or Compact Privilege within the
+8 previous two years.
+9 F. Once an Encumbered License is restored to good standing as a
+10 Compact Qualifying License (as certified by the Licensing Authority) the
+11 Licensee must meet the requirements of this section to obtain a Compact
+12 Privilege in any Remote State.
+13 G. If a Licensee's Compact Privilege in any Remote State is removed,
+14 that Licensee may also lose the Compact Privilege in other Remote States,
+15 as each Member State shall determine in its sole authority, until the
+16 following occur:
+17 1. The specific period of time for which the Compact Privilege was
+18 removed has ended;
+19 2. All fines have been paid; and
+20 3. Have not had any Encumbrance or restriction against any License
+21 or Compact Privilege within the previous two years.
+22 H. Once the requirements of Section 4.G have been met, the Licensee
+23 must meet the requirements in Section 4.A to obtain a Compact Privilege
+24 in a Remote State.
+25 SECTION 5. COMPACT QUALIFYING LICENSE
+26 A. A Licensee may only designate one License as their Compact
+27 Qualifying License at a time. The procedures for such designation may be
+28 further defined by Compact Commission Rule.
+29 B. Nothing in this Section shall require that the State of
+30 Qualifying Licensure be the State of primary residence or State of
+31 primary practice for the Licensee.
+-41-
+
+LB912 LB912
+2026 2026
+1 C. Nothing in this compact shall interfere with a Licensee's ability
+2 to hold a Single-State License in multiple States.
+3 D. Nothing in this compact shall affect the requirements established
+4 by a Member State for the issuance of a Single-State License.
+5 SECTION 6. ACTIVE MILITARY MEMBER OR THEIR SPOUSES
+6 An Active Military Member or their spouse shall not be required to
+7 pay a fee to the Commission for a Compact Privilege. If a Member State
+8 chooses to charge a Member State fee, it may choose to charge a reduced
+9 fee or no fee to an Active Military Member or their spouse for a Compact
+10 Privilege.
+11 SECTION 7. ADVERSE ACTIONS
+12 A. A Member State in which a Licensee is issued a Compact Qualifying
+13 License shall have the exclusive authority to impose Adverse Action
+14 against the Compact Qualifying License issued by that Member State.
+15 B. A Member State may take Adverse Action based on Current
+16 Significant Investigative Information of a Remote State, so long as the
+17 Member State follows its own procedures for imposing Adverse Action.
+18 C. Nothing in this compact shall override a Member State's decision
+19 that participation in an Alternative Program may be used in lieu of
+20 Adverse Action and that such participation shall remain nonpublic if
+21 required by the Member State's laws or Rules.
+22 D. A Remote State shall have the authority to:
+23 1. Take Adverse Actions as set forth herein against a Licensee's
+24 Compact Privilege in that State; and
+25 2. Issue subpoenas for both hearings and investigations that require
+26 the attendance and testimony of witnesses as well as the production of
+27 evidence.
+28 a. Subpoenas may be issued by a Member State Athletic Training
+29 Licensing Authority for the attendance and testimony of witnesses and the
+30 production of evidence.
+31 b. A Member State which issues a subpoena may request service of
+-42-
+
+LB912 LB912
+2026 2026
+1 that subpoena by another Member State. The Member State receiving the
+2 request to serve a subpoena shall serve the subpoena if it is deemed
+3 enforceable by a court of competent jurisdiction according to the
+4 practice and procedure in the receiving Member State.
+5 c. The issuing authority shall pay any witness fees, travel
+6 expenses, mileage, and other fees required by the service statutes of the
+7 State where the witnesses or evidence are located.
+8 E. For purposes of taking Adverse Action, a Member State shall give
+9 the same priority and effect to reported conduct received from another
+10 Member State as it would if the conduct had occurred within that State.
+11 In so doing, the investigating Member State shall apply its own State
+12 laws to determine appropriate action.
+13 F. A Member State, if otherwise permitted by State law, may recover
+14 from the affected Licensee the costs of investigations and dispositions
+15 of cases resulting from any Adverse Action taken against that Licensee.
+16 G. Joint Investigations:
+17 1. In addition to the authority granted to a Member State by its
+18 respective State law, any Member State may participate with other Member
+19 States in joint investigations of Licensees.
+20 2. Member States shall share any Current Significant Investigative
+21 Information, litigation, or compliance materials in furtherance of any
+22 joint or individual investigation initiated under the compact. In sharing
+23 such information between Member State Athletic Trainer Licensing
+24 Authorities, all information obtained shall be kept confidential, except
+25 as otherwise mutually agreed upon by the sharing and receiving Member
+26 States.
+27 3. A Remote State may issue subpoenas on behalf of a Member State
+28 for both hearings and investigations that require the attendance and
+29 testimony of witnesses as well as the production of evidence.
+30 H. If a Member State takes Adverse Action, it shall promptly notify
+31 the administrator of the Data System. The administrator of the Data
+-43-
+
+LB912 LB912
+2026 2026
+1 System shall promptly notify all Member States of any Adverse Actions by
+2 Remote States.
+3 I. Nothing in this compact may permit a Member State to take any
+4 Adverse Action against a Licensee or holder of a Compact Privilege for
+5 conduct or practice occurring in another Member State that was legal in
+6 the Member State at the time it was undertaken.
+7 SECTION 8. ESTABLISHMENT AND OPERATION OF THE COMMISSION
+8 A. The compact Member States hereby create and establish a joint
+9 government agency whose membership consists of all Member States that
+10 have enacted the compact known as the Athletic Trainer Licensure Compact
+11 Commission. The Compact Commission is an instrumentality of the Member
+12 States acting jointly and not an instrumentality of any one State. The
+13 Compact Commission shall come into existence on or after the effective
+14 date of the compact as set forth in Section 12 of this compact.
+15 B. Membership, Voting, and Meetings
+16 1. Each Member State shall have and be limited to one Commissioner
+17 selected by that Member State's Licensing Authority within sixty days of
+18 the Member State's effective date.
+19 2. The Commissioner shall be an administrator or their designated
+20 staff or current board member of the Licensing Authority.
+21 3. The Compact Commission may recommend removal or suspension of any
+22 Commissioner from office.
+23 4. A Member State's Licensing Authority shall fill any vacancy of
+24 its Commissioner occurring on the Compact Commission within sixty days of
+25 the vacancy.
+26 5. Each Commissioner shall be entitled to one vote on all matters
+27 before the Compact Commission requiring a vote by the Commissioners.
+28 6. The Compact Commission shall meet at least once during each
+29 calendar year. Additional meetings may be held as set forth in the
+30 Commission bylaws. A Commissioner shall vote in person or by such other
+31 means as provided in the bylaws. The bylaws may provide for Commissioners
+-44-
+
+LB912 LB912
+2026 2026
+1 to meet by telecommunication, videoconference, or other means of
+2 communication.
+3 C. The Compact Commission shall have the following powers:
+4 1. Promulgate, adopt, and amend Rules and bylaws;
+5 2. Establish code of conduct, confidentiality, and conflict of
+6 interest policies for Commissioners;
+7 3. Establish the fiscal year of the Compact Commission;
+8 4. Maintain its financial records in accordance with the bylaws;
+9 5. Purchase and maintain insurance and insurance bonds;
+10 6. Accept, or contract for services of personnel, including, but not
+11 limited to, employees of a Member State;
+12 7. Conduct a financial review or audit;
+13 8. Hire employees, elect or appoint officers, fix compensation,
+14 define duties, grant such individuals appropriate authority to carry out
+15 the purposes of the compact, and establish the Compact Commission's
+16 personnel policies and programs relating to conflicts of interest,
+17 qualifications of personnel, and other related personnel matters;
+18 9. Enter into contracts or arrangements for the management of the
+19 affairs of the Commission;
+20 10. Assess and collect fees;
+21 11. Accept any and all appropriate gifts, donations, grants of
+22 money, other sources of revenue, equipment, supplies, materials, and
+23 services, and receive, utilize, and dispose of the same; provided that at
+24 all times the Compact Commission shall avoid any appearance of
+25 impropriety or conflict of interest;
+26 12. Lease, purchase, retain, own, hold, improve, invest, or use any
+27 property, real, personal, or mixed, or any undivided interest therein;
+28 13. Sell, convey, mortgage, pledge, lease, exchange, abandon, or
+29 otherwise dispose of any property real, personal, or mixed;
+30 14. Establish a budget and make expenditures;
+31 15. Borrow and invest money;
+-45-
+
+LB912 LB912
+2026 2026
+1 16. Meet and take such actions as are consistent with the provisions
+2 of this compact, the Compact Commission's Rules, and the bylaws;
+3 17. Initiate and conclude legal proceedings or actions in the name
+4 of the Compact Commission, provided that the standing of any Licensing
+5 Authority to sue or be sued under applicable law shall not be affected;
+6 18. Maintain and certify records and information provided to a
+7 Member State as the authenticated business records of the Compact
+8 Commission, and designate an agent to do so on the Compact Commission's
+9 behalf;
+10 19. Provide and receive information from, and cooperate with, law
+11 enforcement agencies;
+12 20. Determine whether a State's adopted language is materially
+13 different from the Model Compact Language such that the State would not
+14 qualify for participation in the compact;
+15 21. Establish and elect an Executive Committee, including a chair
+16 and a vice-chair, secretary, treasurer, and such other offices as the
+17 Commission shall establish by Rule or bylaw;
+18 22. Appoint committees, including standing committees, composed of
+19 Member State Commissioners, State regulators, State legislators or their
+20 representatives, and consumer representatives, and such other interested
+21 persons as may be designated in this compact and the bylaws; and
+22 23. Perform such other functions as may be necessary or appropriate
+23 to achieve the purposes of this compact.
+24 D. The Executive Committee
+25 1. The Executive Committee shall have the power to act on behalf of
+26 the Compact Commission according to the terms of this compact. The
+27 powers, duties, and responsibilities of the Executive Committee shall
+28 include:
+29 a. Exercise the powers and duties of the Compact Commission during
+30 the interim between Compact Commission meetings, except for adopting or
+31 amending Rules, adopting or amending bylaws, and exercising any other
+-46-
+
+LB912 LB912
+2026 2026
+1 powers and duties expressly reserved to the Compact Commission by Rule or
+2 bylaw;
+3 b. Oversee the day-to-day activities of the administration of the
+4 compact including enforcement and compliance with the provisions of the
+5 compact, its Rules and bylaws, and other such duties as deemed necessary;
+6 c. Recommend to the Compact Commission changes to the Rules or
+7 bylaws, changes to this compact legislation, fees charged to compact
+8 Member States, fees charged to Licensees, and other fees;
+9 d. Ensure compact administration services are appropriately
+10 provided, including by contract;
+11 e. Prepare and recommend the budget;
+12 f. Maintain financial records on behalf of the Compact Commission;
+13 g. Monitor compact compliance of Member States and provide
+14 compliance reports to the Compact Commission;
+15 h. Establish additional committees as necessary; and
+16 i. Other duties as provided in the Rules or bylaws of the Compact
+17 Commission.
+18 2. The Executive Committee shall be composed of five voting members,
+19 elected by the Compact Commission:
+20 a. The chair and vice-chair of the Compact Commission shall be
+21 voting members of the Executive Committee;
+22 b. The Compact Commission shall elect up to three additional voting
+23 members from the current membership of the Compact Commission to include
+24 the offices of treasurer, secretary, and one member-at-large; and
+25 c. Up to four ex officio, nonvoting members from recognized national
+26 athletic trainer organizations.
+27 3. The Compact Commission may remove any member of the Executive
+28 Committee as provided in the Compact Commission's bylaws.
+29 4. The Executive Committee shall meet at least annually:
+30 a. Executive Committee meetings shall be open to the public, except
+31 that the Executive Committee may meet in a closed, nonpublic meeting as
+-47-
+
+LB912 LB912
+2026 2026
+1 provided in this Section.
+2 b. The Executive Committee shall give advance notice of its
+3 meetings, posted on its website and as determined by Rule or bylaw to
+4 provide notice to persons with an interest in the business of the Compact
+5 Commission.
+6 c. The Executive Committee may hold a special meeting in accordance
+7 with this section.
+8 E. The Compact Commission shall adopt and provide to the Member
+9 States an annual report.
+10 F. Meetings of the Compact Commission:
+11 1. All meetings shall be open to the public, except that the Compact
+12 Commission may meet in a closed, nonpublic meeting as provided in this
+13 section.
+14 2. Public notice for all meetings of the full Compact Commission
+15 shall be given in the same manner as required under the rulemaking
+16 provisions in this compact, except that the Compact Commission may hold a
+17 special meeting as provided in this section.
+18 3. The Compact Commission may hold a special meeting when it must
+19 meet to conduct emergency business by giving twenty-four hours' notice to
+20 all Commissioners, on the Compact Commission's website, and by other
+21 means as provided in the Compact Commission's Rules. The Compact
+22 Commission's legal counsel shall certify that the Compact Commission's
+23 need to meet qualifies as an emergency.
+24 4. The Compact Commission or the Executive Committee or other
+25 committees of the Compact Commission may convene in a closed, nonpublic
+26 meeting for the Compact Commission or Executive Committee or other
+27 committees of the Compact Commission to receive legal advice or to
+28 discuss:
+29 a. Noncompliance of a Member State with its obligations under the
+30 compact;
+31 b. The employment, compensation, discipline, or other matters,
+-48-
+
+LB912 LB912
+2026 2026
+1 practices, or procedures related to specific employees;
+2 c. Current or threatened discipline of a Licensee by a Member
+3 State's Licensing Authority;
+4 d. Current, threatened, or reasonably anticipated litigation;
+5 e. Negotiation of contracts for the purchase, lease, or sale of
+6 goods, services, or real estate;
+7 f. Accusing any person of a crime or formally censuring any person;
+8 g. Trade secrets or commercial or financial information that is
+9 privileged or confidential;
+10 h. Information of a personal nature where disclosure would
+11 constitute a clearly unwarranted invasion of personal privacy;
+12 i. Investigative records compiled for law enforcement purposes;
+13 j. Information related to any investigative reports prepared by or
+14 on behalf of or for use of the Compact Commission or other committee
+15 charged with responsibility of investigation or determination of
+16 compliance issues pursuant to the compact;
+17 k. Matters specifically exempted from disclosure by federal or
+18 Member State law; or
+19 l. Other matters as specified in Rules of the Compact Commission.
+20 5. If a meeting, or portion of a meeting, is closed, the Compact
+21 Commission's legal counsel or designee shall certify that the meeting
+22 will be closed and reference each relevant exempting provision, and such
+23 reference shall be recorded in the minutes. All minutes and documents of
+24 a closed meeting shall remain under seal, subject to release only by a
+25 majority vote of the Compact Commission or order of a court of competent
+26 jurisdiction.
+27 G. Financing of the Compact Commission:
+28 1. The Compact Commission shall pay, or provide for the payment of,
+29 the reasonable expenses of its establishment, organization, and ongoing
+30 activities.
+31 2. The Compact Commission may accept any and all appropriate revenue
+-49-
+
+LB912 LB912
+2026 2026
+1 sources as provided in this section.
+2 3. The Compact Commission may levy on and collect an annual
+3 assessment from each Member State and impose fees on Licensees of Member
+4 States to whom it grants a Compact Privilege to cover the cost of the
+5 operations and activities of the Compact Commission and its staff, which
+6 must be in a total amount sufficient to cover its annual budget as
+7 approved each year for which revenue is not provided by other sources.
+8 The aggregate annual assessment amount for Member States shall be
+9 allocated based upon a formula that the Compact Commission shall
+10 promulgate by Rule.
+11 4. The Compact Commission shall not incur obligations of any kind
+12 prior to securing the funds or a loan adequate to meet the same; nor
+13 shall the Compact Commission pledge the credit of any of the Member
+14 States, except by and with the authority of the Member State.
+15 5. The Compact Commission shall keep accurate accounts of all
+16 receipts and disbursements. The receipts and disbursements of the Compact
+17 Commission shall be subject to the financial review or audit and
+18 accounting procedures established under its bylaws. However, all receipts
+19 and disbursements of funds handled by the Compact Commission shall be
+20 subject to an annual financial review or audit by a certified or licensed
+21 public accountant, and the report of the financial review or audit shall
+22 be included in and become part of the annual report of the Compact
+23 Commission.
+24 H. Qualified Immunity, Defense, and Indemnification:
+25 1. The members, officers, executive director, employees, and
+26 representatives of the Compact Commission shall have no greater liability
+27 than a state employee would have under the same or similar circumstances,
+28 both personally and in their official capacity, for any claim for damage
+29 to or loss of property or personal injury or other civil liability caused
+30 by or arising out of any actual or alleged act, error, or omission that
+31 occurred, or that the person against whom the claim is made had a
+-50-
+
+LB912 LB912
+2026 2026
+1 reasonable basis for believing occurred within the scope of Compact
+2 Commission employment, duties, or responsibilities; provided that nothing
+3 in this paragraph shall be construed to protect any such person from suit
+4 or liability for any damage, loss, injury, or liability caused by the
+5 intentional or willful or wanton misconduct of that person. The
+6 procurement of insurance of any type by the Compact Commission shall not
+7 in any way compromise or limit the immunity granted hereunder.
+8 2. The Compact Commission shall defend any member, officer,
+9 executive director, employee, and representative of the Compact
+10 Commission in any civil action seeking to impose liability arising out of
+11 any actual or alleged act, error, or omission that occurred within the
+12 scope of Compact Commission employment, duties, or responsibilities, or
+13 as determined by the Compact Commission that the person against whom the
+14 claim is made had a reasonable basis for believing occurred within the
+15 scope of Compact Commission employment, duties, or responsibilities;
+16 provided that nothing herein shall be construed to prohibit that person
+17 from retaining their own counsel at their own expense; and provided
+18 further, that the actual or alleged act, error, or omission did not
+19 result from that person's intentional or willful or wanton misconduct.
+20 3. The Compact Commission shall indemnify and hold harmless any
+21 member, officer, executive director, employee, and representative of the
+22 Compact Commission for the amount of any settlement or judgment obtained
+23 against that person arising out of any actual or alleged act, error, or
+24 omission that occurred within the scope of Compact Commission employment,
+25 duties, or responsibilities, or that such person had a reasonable basis
+26 for believing occurred within the scope of Compact Commission employment,
+27 duties, or responsibilities, provided that the actual or alleged act,
+28 error, or omission did not result from the intentional or willful or
+29 wanton misconduct of that person.
+30 4. Nothing herein shall be construed as a limitation on the
+31 liability of any Licensee for professional malpractice or misconduct,
+-51-
+
+LB912 LB912
+2026 2026
+1 which shall be governed solely by any other applicable State laws.
+2 5. Nothing in this compact shall be interpreted to waive or
+3 otherwise abrogate a Member State's state action immunity or state action
+4 affirmative defense with respect to antitrust claims under the Sherman
+5 Act, Clayton Act, or any other State or federal antitrust or
+6 anticompetitive law or regulation.
+7 6. Nothing in this compact shall be construed to be a waiver of
+8 sovereign immunity by the Member States or by the Compact Commission.
+9 SECTION 9. DATA SYSTEM
+10 A. The Commission shall provide for the development, maintenance,
+11 operation, and utilization of a coordinated Data System and reporting
+12 system containing licensure, Compact Privileges, Adverse Action, and the
+13 presence of Current Significant Investigative Information on all
+14 Licensees and applicants for a License in Member States.
+15 B. Notwithstanding any other provision of State law to the contrary,
+16 a Member State shall submit a uniform data set to the Data System on all
+17 Licensees, applicants, and others to whom this compact is applicable as
+18 required by the Rules of the Compact Commission, including:
+19 1. Personally identifying information;
+20 2. Licensure data;
+21 3. Adverse Actions against a Licensee, License applicant, or Compact
+22 Privilege and information related thereto;
+23 4. Nonconfidential information related to Alternative Program
+24 participation, the beginning and ending dates of such participation, and
+25 other information related to such participation;
+26 5. Any denial of an application for licensure, and the reason for
+27 such denial, excluding the reporting of any criminal history record
+28 information where prohibited by law;
+29 6. A binary determination regarding the presence of Current
+30 Significant Investigative Information; and
+31 7. Other information that may facilitate the administration of this
+-52-
+
+LB912 LB912
+2026 2026
+1 compact or the protection of the public, as determined by the Rules of
+2 the Commission.
+3 C. The records and information provided to a Member State pursuant
+4 to this compact or through the Data System, when certified by the
+5 Commission or an agent thereof, shall constitute the authenticated
+6 business records of the Commission, and shall be entitled to any
+7 associated hearsay exception in any relevant judicial, quasi-judicial, or
+8 administrative proceedings in a Member State.
+9 D. Current Significant Investigative Information pertaining to a
+10 Licensee in any Member State will only be available to other Member
+11 States.
+12 E. It is the responsibility of the Member States to monitor the Data
+13 System to determine whether Adverse Action has been taken against a
+14 Licensee or License applicant. Adverse Action information pertaining to a
+15 Licensee or License applicant in any Member State will be available to
+16 any other Member State.
+17 F. Member States contributing information to the Data System may
+18 designate information that may not be shared with the public without the
+19 express permission of the contributing State.
+20 G. Any information submitted to the Data System that is subsequently
+21 expunged pursuant to federal law or the laws of the Member State
+22 contributing the information shall be removed from the Data System.
+23 SECTION 10. RULEMAKING
+24 A. The Compact Commission shall promulgate reasonable Rules in order
+25 to effectively and efficiently implement and administer the purposes and
+26 provisions of the compact. A Rule shall be invalid and have no force or
+27 effect only if a court of competent jurisdiction holds that the Rule is
+28 invalid because the Compact Commission exercised its rulemaking authority
+29 in a manner that is beyond the scope and purposes of the compact, or the
+30 powers granted hereunder, or based upon another applicable standard of
+31 review.
+-53-
+
+LB912 LB912
+2026 2026
+1 B. The Rules of the Compact Commission shall have the force of law
+2 in each Member State, provided however that where the Rules conflict with
+3 the laws or regulations of a Member State that relate to the Scope of
+4 Practice a Licensed Athletic Trainer is permitted to undertake in that
+5 State and the circumstances under which they may do so, as held by a
+6 court of competent jurisdiction, the Rules of the Compact Commission
+7 shall be ineffective in that State to the extent of the conflict.
+8 C. The Compact Commission shall exercise its rulemaking powers
+9 pursuant to the criteria set forth in this section and the Rules adopted
+10 thereunder. Rules of this compact shall become binding on the day
+11 following adoption or as of the date specified in the Rule or amendment,
+12 whichever is later.
+13 D. If a majority of the legislatures of the Member States rejects a
+14 Rule or portion of a Rule, by enactment of a statute or resolution in the
+15 same manner used to adopt the compact within four years of the date of
+16 adoption of the Rule, then such Rule shall have no further force and
+17 effect in any Member State.
+18 E. Rules shall be adopted at a regular or special meeting of the
+19 Compact Commission.
+20 F. Prior to adoption of a proposed Rule, the Compact Commission
+21 shall hold a public hearing and allow persons to provide oral and written
+22 comments, data, facts, opinions, and arguments. At least thirty days in
+23 advance of the public hearing on the proposed Rule, the Compact
+24 Commission shall provide a notice of proposed rulemaking:
+25 1. On the website of the Compact Commission or other publicly
+26 accessible platform;
+27 2. To persons who have requested notice of the Compact Commission's
+28 notices of proposed rulemaking; and
+29 3. In such other ways as the Compact Commission may by Rule specify.
+30 G. The notice of proposed rulemaking shall include:
+31 1. The time, date, and location of the public hearing at which the
+-54-
+
+LB912 LB912
+2026 2026
+1 Compact Commission will hear public comments on the proposed Rule and, if
+2 different, the time, date, and location of the meeting where the Compact
+3 Commission will consider and vote on the proposed Rule;
+4 2. If the hearing is held via telecommunication, videoconference, or
+5 other electronic means, the Compact Commission shall include the
+6 mechanism for access to the hearing in the notice of proposed rulemaking;
+7 3. The text of the proposed Rule and the reason therefor;
+8 4. A request for comments on the proposed Rule from any interested
+9 person; and
+10 5. The manner in which interested persons may submit written
+11 comments.
+12 H. All hearings will be recorded. A copy of the recording and all
+13 written comments and documents received by the Compact Commission in
+14 response to the proposed Rule shall be available to the public.
+15 I. Nothing in this section shall be construed as requiring a
+16 separate hearing on each Rule. Rules may be grouped for the convenience
+17 of the Compact Commission at hearings required by this section.
+18 J. The Compact Commission shall, by majority vote of all members,
+19 take final action on the proposed Rule based on the rulemaking record and
+20 the full text of the Rule.
+21 1. The Compact Commission may adopt changes to the proposed Rule
+22 provided the changes do not enlarge the original purpose of the proposed
+23 Rule.
+24 2. The Compact Commission shall provide an explanation of the
+25 reasons for substantive changes made to the proposed Rule as well as
+26 reasons for substantive changes not made that were recommended by
+27 commenters.
+28 3. The Compact Commission shall determine a reasonable effective
+29 date for the Rule. Except for an emergency as provided in this section,
+30 the effective date of the Rule shall be no sooner than thirty days after
+31 issuing the notice that it adopted or amended the Rule.
+-55-
+
+LB912 LB912
+2026 2026
+1 K. Upon determination that an emergency exists, the Compact
+2 Commission may consider and adopt an emergency Rule with twenty-four
+3 hours' notice, with opportunity to comment, provided that the usual
+4 rulemaking procedures provided in the compact and in this section shall
+5 be retroactively applied to the Rule as soon as reasonably possible, in
+6 no event later than ninety days after the effective date of the Rule. For
+7 the purposes of this provision, an emergency Rule is one that must be
+8 adopted immediately in order to:
+9 1. Meet an imminent threat to public health, safety, or welfare;
+10 2. Prevent a loss of Compact Commission or Member State funds;
+11 3. Meet a deadline for the promulgation of a Rule that is
+12 established by federal law or rule; or
+13 4. Protect public health and safety.
+14 L. The Compact Commission or an authorized committee of the Compact
+15 Commission may direct revisions to a previously adopted Rule for purposes
+16 of correcting typographical errors, errors in format, errors in
+17 consistency, or grammatical errors. Public notice of any revisions shall
+18 be posted on the website of the Compact Commission. The revisions shall
+19 be subject to challenge by any person for a period of thirty days after
+20 posting. A revision may be challenged only on grounds that the revision
+21 results in a material change to a Rule. A challenge shall be made in
+22 writing and delivered to the Compact Commission prior to the end of the
+23 notice period. If no challenge is made, the revision will take effect
+24 without further action. If the revision is challenged, the revision may
+25 not take effect without the approval of the Compact Commission.
+26 M. No Member State's rulemaking requirements shall apply under this
+27 compact.
+28 SECTION 11. OVERSIGHT, DISPUTE RESOLUTION, AND ENFORCEMENT
+29 A. Oversight:
+30 1. The executive and judicial branches of State government in each
+31 Member State shall enforce this compact and take all actions necessary
+-56-
+
+LB912 LB912
+2026 2026
+1 and appropriate to implement the compact.
+2 2. Except as otherwise provided in this compact, venue is proper and
+3 judicial proceedings by or against the Compact Commission shall be
+4 brought solely and exclusively in a court of competent jurisdiction where
+5 the principal office of the Compact Commission is located. The Compact
+6 Commission may waive venue and jurisdictional defenses to the extent it
+7 adopts or consents to participate in alternative dispute resolution
+8 proceedings. Nothing herein shall affect or limit the selection or
+9 propriety of venue in any action against a Licensee for professional
+10 malpractice, misconduct or any such similar matter.
+11 3. The Compact Commission shall be entitled to receive service of
+12 process in any proceeding regarding the enforcement or interpretation of
+13 the compact and shall have standing to intervene in such a proceeding for
+14 all purposes. Failure to provide the Compact Commission service of
+15 process shall render a judgment or order void as to the Compact
+16 Commission, this compact, or promulgated Rules.
+17 B. Default, Technical Assistance, and Termination:
+18 1. If the Compact Commission determines that a Member State has
+19 defaulted in the performance of its obligations or responsibilities under
+20 this compact or the promulgated Rules, the Commission shall provide
+21 written notice to the defaulting State. The notice of default shall
+22 describe the default, the proposed means of curing the default, and any
+23 other action that the Compact Commission may take, and shall offer
+24 training and specific technical assistance regarding the default.
+25 2. The Compact Commission shall provide a copy of the notice of
+26 default to the other Member States.
+27 C. If a State in default fails to cure the default, the defaulting
+28 State may be terminated from the compact upon an affirmative vote of a
+29 majority of the Commissioners of the Member States, and all rights,
+30 privileges and benefits conferred on that State by this compact may be
+31 terminated on the effective date of termination. A cure of the default
+-57-
+
+LB912 LB912
+2026 2026
+1 does not relieve the offending State of obligations or liabilities
+2 incurred during the period of default.
+3 D. Termination of membership in the compact shall be imposed only
+4 after all other means of securing compliance have been exhausted. Notice
+5 of intent to suspend or terminate shall be given by the Compact
+6 Commission to the Governor, the majority and minority leaders of the
+7 defaulting State's legislature, the defaulting State's Licensing
+8 Authority and each of the Member States' Licensing Authority.
+9 E. A State that has been terminated is responsible for all
+10 assessments, obligations, and liabilities incurred through the effective
+11 date of termination, including obligations that extend beyond the
+12 effective date of termination.
+13 F. Upon the termination of a State's membership from this compact,
+14 that State shall immediately provide notice to all Licensees within that
+15 State of such termination. The terminated State shall continue to
+16 recognize all Licenses and Compact Privileges granted pursuant to this
+17 compact for a minimum of one hundred eighty days after the date of said
+18 notice of termination.
+19 G. The Compact Commission shall not bear any costs related to a
+20 State that is found to be in default or that has been terminated from the
+21 compact, unless agreed upon in writing between the Compact Commission and
+22 the defaulting State.
+23 H. The defaulting State may appeal the action of the Compact
+24 Commission by petitioning the United States District Court for the
+25 District of Columbia or the federal district where the Compact Commission
+26 has its principal offices. The prevailing party shall be awarded all
+27 costs of such litigation, including reasonable attorney's fees.
+28 I. Dispute Resolution:
+29 1. Upon request by a Member State, the Compact Commission shall
+30 attempt to resolve disputes related to the compact that arise among
+31 Member States and between Member and non-Member States.
+-58-
+
+LB912 LB912
+2026 2026
+1 2. The Compact Commission shall promulgate a Rule providing for both
+2 mediation and binding dispute resolution for disputes as appropriate.
+3 J. Enforcement:
+4 1. By two-thirds majority vote, the Compact Commission may initiate
+5 legal action against a Member State in default in the United States
+6 District Court for the District of Columbia or the federal district where
+7 the Compact Commission has its principal offices to enforce compliance
+8 with the provisions of the compact and its promulgated Rules. The relief
+9 sought may include both injunctive relief and damages. In the event
+10 judicial enforcement is necessary, the prevailing party shall be awarded
+11 all costs of such litigation, including reasonable attorney's fees. The
+12 remedies herein shall not be the exclusive remedies of the Compact
+13 Commission. The Compact Commission may pursue any other remedies
+14 available under federal or the defaulting Member State's law.
+15 2. A Member State may initiate legal action against the Compact
+16 Commission in the United States District Court for the District of
+17 Columbia or the federal district where the Compact Commission has its
+18 principal offices to enforce compliance with the provisions of the
+19 compact and its promulgated Rules. The relief sought may include both
+20 injunctive relief and damages. In the event judicial enforcement is
+21 necessary, the prevailing party shall be awarded all costs of such
+22 litigation, including reasonable attorney's fees.
+23 3. No person other than a Member State shall enforce this compact
+24 against the Compact Commission.
+25 SECTION 12. EFFECTIVE DATE, WITHDRAWAL, AND AMENDMENT
+26 A. The compact shall come into effect on the date on which the
+27 compact statute is enacted into law in the seventh Member State.
+28 1. On or after the effective date of the compact, the Compact
+29 Commission shall convene and review the enactment of each of the first
+30 seven Member States (Charter Member States) to determine if the statute
+31 enacted and made effective by each such Charter Member State is
+-59-
+
+LB912 LB912
+2026 2026
+1 materially different than the Model Compact Language.
+2 a. A Charter Member State whose enactment is found to be materially
+3 different from the Model Compact Language shall be entitled to the
+4 default process set forth in Section 11 of this compact.
+5 b. If any Member State is later found to be in default, or is
+6 terminated or withdraws from the compact, the Compact Commission shall
+7 remain in existence and the compact shall remain in effect even if the
+8 number of Member States should be less than seven.
+9 2. Member States enacting the compact subsequent to the seven
+10 initial Charter Member States shall be subject to the process set forth
+11 in this section to determine if their enactments are materially different
+12 from the Model Compact Language and whether they qualify for
+13 participation in the compact.
+14 3. All actions taken for the benefit of the Compact Commission or in
+15 furtherance of the purposes of the administration of the compact prior to
+16 the effective date of the compact or the Compact Commission coming into
+17 existence shall be considered to be actions of the Compact Commission
+18 unless specifically repudiated by the Compact Commission.
+19 4. Any State that joins the compact subsequent to the Compact
+20 Commission's initial adoption of the Rules and bylaws shall be subject to
+21 the Rules and bylaws as they exist on the date on which the compact
+22 becomes law in that State. Any Rule that has been previously adopted by
+23 the Compact Commission shall have the full force and effect of law on the
+24 day the compact becomes law in that State.
+25 B. Any Member State may withdraw from this compact by enacting a
+26 statute repealing the same.
+27 1. A Member State's withdrawal shall not take effect until one
+28 hundred eighty days after enactment of the repealing statute.
+29 2. Withdrawal shall not affect the continuing requirement of the
+30 withdrawing State's Licensing Authority to comply with the investigative
+31 and Adverse Action reporting requirements of this compact prior to the
+-60-
+
+LB912 LB912
+2026 2026
+1 effective date of withdrawal.
+2 3. Upon the enactment of a statute withdrawing from this compact, a
+3 State shall immediately provide notice of such withdrawal to all
+4 Licensees and privilege holders within that State. Notwithstanding any
+5 subsequent statutory enactment to the contrary, such withdrawing State
+6 shall continue to recognize all Compact Privileges granted pursuant to
+7 this compact for a minimum of one hundred eighty days after the date of
+8 such notice of withdrawal.
+9 4. Nothing contained in this compact shall be construed to
+10 invalidate or prevent any licensure agreement or other cooperative
+11 arrangement between a Member State and a non-Member State that does not
+12 conflict with the provisions of this compact.
+13 5. This compact may be amended by the Member States. No amendment to
+14 this compact shall become effective and binding upon any Member State
+15 until it is enacted into the laws of all Member States.
+16 SECTION 13. CONSTRUCTION AND SEVERABILITY
+17 A. This compact and the Compact Commission's rulemaking authority
+18 shall be liberally construed so as to effectuate the purposes, and the
+19 implementation and administration of the compact. Provisions of the
+20 compact expressly authorizing or requiring the promulgation of Rules
+21 shall not be construed to limit the Compact Commission's rulemaking
+22 authority solely for those purposes.
+23 B. The provisions of this compact shall be severable and if any
+24 phrase, clause, sentence, or provision of this compact is held by a court
+25 of competent jurisdiction to be contrary to the constitution of any
+26 Member State, a State seeking participation in the compact, or of the
+27 United States, or the applicability thereof to any government, agency,
+28 person, or circumstance is held to be unconstitutional by a court of
+29 competent jurisdiction, the validity of the remainder of this compact and
+30 the applicability thereof to any other government, agency, person, or
+31 circumstance shall not be affected thereby.
+-61-
+
+LB912 LB912
+2026 2026
+1 C. Notwithstanding the foregoing, the Compact Commission may deny a
+2 State's participation in the compact or terminate a Member State's
+3 participation in the compact if it determines that a constitutional
+4 requirement of a Member State is a material departure from the compact.
+5 Otherwise, if this compact shall be held to be contrary to the
+6 constitution of any Member State, the compact shall remain in full force
+7 and effect as to the remaining Member States and in full force and effect
+8 as to the Member State affected as to all severable matters.
+9 SECTION 14. CONSISTENT EFFECT AND CONFLICT WITH OTHER STATE LAWS
+10 A. Nothing herein shall prevent or inhibit the enforcement of any
+11 other law of a Member State that is not inconsistent with the compact.
+12 B. Any laws, statutes, regulations, or other legal requirements in a
+13 Member State in conflict with the compact are superseded to the extent of
+14 the conflict.
+15 C. All permissible agreements between the Compact Commission and the
+16 Member States are binding in accordance with their terms.
+17 Sec. 8. Section 38-131, Revised Statutes Supplement, 2025, is
+18 amended to read:
+19 38-131 (1) An applicant for an initial license to practice as a
+20 registered nurse, a licensed practical nurse, a physical therapist, a
+21 physical therapy assistant, an athletic trainer, a psychologist, a
+22 respiratory care practitioner, an advanced emergency medical technician,
+23 an emergency medical technician, an audiologist, a speech-language
+24 pathologist, a licensed independent mental health practitioner, an
+25 occupational therapist, an occupational therapy assistant, a dietitian, a
+26 certified social worker, a certified master social worker, a licensed
+27 clinical social worker, a paramedic, a physician, an osteopathic
+28 physician, a physician or osteopathic physician who is an applicant for a
+29 temporary educational permit, a physician or osteopathic physician who is
+30 an applicant for a temporary visiting faculty permit, a physician
+31 assistant, a dentist, a dental hygienist, an optometrist, a podiatrist, a
+-62-
+
+LB912 LB912
+2026 2026
+1 veterinarian, an advanced practice registered nurse-nurse practitioner,
+2 an advanced practice registered nurse-certified nurse midwife, or an
+3 advanced practice registered nurse-certified registered nurse anesthetist
+4 shall be subject to a criminal background check. Except as provided in
+5 subsection (4) of this section, such an applicant for an initial license
+6 shall submit a full set of fingerprints to the Nebraska State Patrol for
+7 a criminal history record information check. The applicant shall
+8 authorize release of the results of the national criminal history record
+9 information check by the Federal Bureau of Investigation to the
+10 department. The applicant shall pay the actual cost of the fingerprinting
+11 and criminal background check.
+12 (2) The Nebraska State Patrol is authorized to submit the
+13 fingerprints of such applicants to the Federal Bureau of Investigation
+14 and to issue a report to the department that includes the criminal
+15 history record information concerning the applicant. The Nebraska State
+16 Patrol shall forward submitted fingerprints to the Federal Bureau of
+17 Investigation for a national criminal history record information check.
+18 The Nebraska State Patrol shall issue a report to the department that
+19 includes the criminal history record information concerning the
+20 applicant.
+21 (3) This section shall not apply to a dentist who is an applicant
+22 for a dental locum tenens under section 38-1122, to a physician or
+23 osteopathic physician who is an applicant for a physician locum tenens
+24 under section 38-2036, or to a veterinarian who is an applicant for a
+25 veterinarian locum tenens under section 38-3335.
+26 (4) A physician or osteopathic physician who is an applicant for a
+27 temporary educational permit shall have ninety days from the issuance of
+28 the permit to comply with subsection (1) of this section and shall have
+29 such permit suspended after such ninety-day period if the criminal
+30 background check is not complete or revoked if the criminal background
+31 check reveals that the applicant was not qualified for the permit.
+-63-
+
+LB912 LB912
+2026 2026
+1 (5) The department and the Nebraska State Patrol may adopt and
+2 promulgate rules and regulations concerning costs associated with the
+3 fingerprinting and the national criminal history record information
+4 check.
+5 (6) For purposes of interpretation by the Federal Bureau of
+6 Investigation, the term department in this section means the Division of
+7 Public Health of the Department of Health and Human Services.
+8 Sec. 9. Section 38-404, Revised Statutes Cumulative Supplement,
+9 2024, is amended to read:
+10 38-404 Athletic trainer means a health care professional who is
+11 licensed to practice athletic training under the Athletic Training
+12 Practice Act or the Athletic Trainer Compact and who, under guidelines
+13 established with a licensed physician, performs the functions outlined in
+14 section 38-408 except as otherwise provided in subsection (5) of section
+15 38-408.
+16 Sec. 10. Section 38-409, Revised Statutes Cumulative Supplement,
+17 2024, is amended to read:
+18 38-409 No person shall be authorized to perform the functions
+19 outlined in section 38-408 unless the person first obtains a license as
+20 an athletic trainer or unless such person is licensed as a physician,
+21 osteopathic physician, chiropractor, nurse, physical therapist, or
+22 podiatrist. No person shall hold himself or herself out as an athletic
+23 trainer in this state unless such person is licensed under the Athletic
+24 Training Practice Act or the Athletic Trainer Compact.
+25 Sec. 11. Section 38-1716, Revised Statutes Cumulative Supplement,
+26 2024, is amended to read:
+27 38-1716 No person shall operate or profess or attempt to operate a
+28 massage therapy establishment unless such establishment is licensed by
+29 the department under the Massage Therapy Practice Act. The department
+30 shall not issue or renew a license for a massage therapy establishment
+31 until all requirements of the act have been complied with. No person
+-64-
+
+LB912 LB912
+2026 2026
+1 shall engage in any of the practices of massage therapy in any location
+2 or premises other than a licensed massage therapy establishment except as
+3 specifically permitted in the act or in the rules and regulations adopted
+4 and promulgated by the department.
+5 Sec. 12. Section 38-1915, Reissue Revised Statutes of Nebraska, is
+6 amended to read:
+7 38-1915 (1)(a) (1) A person licensed by the department, with the
+8 recommendation of the board, as a medical radiographer may practice
+9 medical radiography on any part of the human anatomy for interpretation
+10 by, and under the direction of, a licensed practitioner, including
+11 computed tomography but excluding interpretative fluoroscopic procedures,
+12 and may use fluoroscopy in collaboration conjunction with a certified
+13 registered nurse anesthetist as authorized in section 38-711.
+14 (b) A medical radiographer may also utilize fluoroscopy under the
+15 direction of, or in collaboration with, a nurse practitioner pursuant to
+16 section 38-2315.
+17 (2) An applicant for a license as a medical radiographer shall:
+18 (a) Complete an educational program in radiography approved by the
+19 board pursuant to subsection (1) of section 38-1918;
+20 (b) Complete an application in accordance with the Uniform
+21 Credentialing Act; and
+22 (c) Successfully complete an examination approved by the board.
+23 (3) Presentation of proof of registration in radiography with the
+24 American Registry of Radiologic Technologists is proof of meeting the
+25 requirements of subdivisions (2)(a) and (c) of this section.
+26 Sec. 13. Section 38-2101, Revised Statutes Cumulative Supplement,
+27 2024, is amended to read:
+28 38-2101 Sections 38-2101 to 38-2147 and section 14 of this act shall
+29 be known and may be cited as the Mental Health Practice Act.
+30 Sec. 14. (1) Every two years, a minimum of two hours of continuing
+31 education in domestic abuse counseling shall be required for all licensed
+-65-
+
+LB912 LB912
+2026 2026
+1 mental health practitioners and licensed independent mental health
+2 practitioners under the Mental Health Practice Act.
+3 (2) Such training shall be conducted by an individual who has (a)
+4 received the domestic abuse training required in section 38-2123, (b) a
+5 minimum of three years' experience working with victims of domestic abuse
+6 or offenders, and (c) completed an additional forty hours in domestic
+7 abuse-related training.
+8 (3) For purposes of the section, domestic abuse means abuse as
+9 defined in section 42-903.
+10 Sec. 15. Section 38-2123, Revised Statutes Cumulative Supplement,
+11 2024, is amended to read:
+12 38-2123 (1) A person who needs to obtain the required three thousand
+13 hours of supervised experience in mental health practice as specified in
+14 section 38-2122 to qualify for a mental health practitioner license shall
+15 obtain a provisional mental health practitioner license. To qualify for a
+16 provisional mental health practitioner license, such person shall:
+17 (a) Have a master's degree, a doctoral degree, or the equivalent of
+18 a master's degree, as determined by the board, that consists of course
+19 work and training which was primarily therapeutic mental health in
+20 content and included a practicum or internship and was from a mental
+21 health program as specified in section 38-2122;
+22 (b) Apply prior to earning the three thousand hours of supervised
+23 experience; and
+24 (c) Pay the provisional mental health practitioner license fee;
+25 and .
+26 (d) Beginning September 1, 2027, obtain three hours of training
+27 relating to domestic abuse, which shall include: (i) Appropriate
+28 screening tools for victims of domestic abuse; (ii) indicators of high
+29 lethality or risk; (iii) documentation standards; (iv) appropriate
+30 referrals to domestic abuse specific services, advocacy, and systems
+31 navigation professionals; (v) impact on children; (vi) ethical practice
+-66-
+
+LB912 LB912
+2026 2026
+1 and boundaries; and (vii) trauma-informed, victim-centered care and
+2 safety planning. For purposes of this subdivision (1)(d), domestic abuse
+3 means abuse as defined in section 42-903.
+4 (2) An individual or organization providing the training described
+5 in subdivision (1)(d) of this section shall submit all training materials
+6 to the board for approval.
+7 (3) (2) The rules and regulations approved by the board and adopted
+8 and promulgated by the department shall not require that the applicant
+9 have a supervisor in place at the time of application for a provisional
+10 mental health practitioner license.
+11 (4) (3) A provisional mental health practitioner license shall
+12 expire upon receipt of licensure as a mental health practitioner or five
+13 years after the date of issuance, whichever comes first.
+14 (5) (4) A person who holds a provisional mental health practitioner
+15 license shall inform all clients that he or she holds a provisional
+16 license and is practicing mental health under supervision and shall
+17 identify the supervisor. Failure to make such disclosure is a ground for
+18 discipline as set forth in section 38-2139.
+19 Sec. 16. Section 38-2315, Reissue Revised Statutes of Nebraska, is
+20 amended to read:
+21 38-2315 (1) A nurse practitioner may provide health care services
+22 within specialty areas. A nurse practitioner shall function by
+23 establishing collaborative, consultative, and referral networks as
+24 appropriate with other health care professionals. Patients who require
+25 care beyond the scope of practice of a nurse practitioner shall be
+26 referred to an appropriate health care provider.
+27 (2) Nurse practitioner practice means health promotion, health
+28 supervision, illness prevention and diagnosis, treatment, and management
+29 of common health problems and acute and chronic conditions, including:
+30 (a) Assessing patients, ordering diagnostic tests and therapeutic
+31 treatments, synthesizing and analyzing data, and applying advanced
+-67-
+
+LB912 LB912
+2026 2026
+1 nursing principles;
+2 (b) Dispensing, incident to practice only, sample medications which
+3 are provided by the manufacturer and are provided at no charge to the
+4 patient; and
+5 (c) Prescribing therapeutic measures and medications relating to
+6 health conditions within the scope of practice.
+7 (3) A nurse practitioner who has proof of a current certification
+8 from an approved certification program in a psychiatric or mental health
+9 specialty may manage the care of patients committed under the Nebraska
+10 Mental Health Commitment Act. Patients who require care beyond the scope
+11 of practice of a nurse practitioner, who has proof of a current
+12 certification from an approved certification program in a psychiatric or
+13 mental health specialty, shall be referred to an appropriate health care
+14 provider.
+15 (4) A nurse practitioner may pronounce death and may complete and
+16 sign death certificates and any other forms if such acts are within the
+17 scope of practice of the nurse practitioner and are not otherwise
+18 prohibited by law.
+19 (5) A nurse practitioner may perform and utilize fluoroscopy for
+20 procedural guidance and for the performance of authorized duties upon the
+21 nurse practitioner's successful completion of appropriate education and
+22 training as approved jointly by the department and the board. Such
+23 education and training shall be in accordance with rules and regulations
+24 adopted and promulgated pursuant to section 71-3508. A nurse practitioner
+25 may also direct fluoroscopy in collaboration with a licensed medical
+26 radiographer.
+27 Sec. 17. Section 38-2801, Revised Statutes Cumulative Supplement,
+28 2024, is amended to read:
+29 38-2801 Sections 38-2801 to 38-28,117 and section 18 of this act and
+30 the Nebraska Drug Product Selection Act shall be known and may be cited
+31 as the Pharmacy Practice Act.
+-68-
+
+LB912 LB912
+2026 2026
+1 Sec. 18. (1) Individuals employed by a facility where dispensed
+2 drugs and devices are delivered from a pharmacy to be picked up by a
+3 patient or caregiver, as requested by the patient, shall not be
+4 considered to be engaging in the practice of pharmacy if:
+5 (a) The drug or device has been prepaid by the patient or caregiver;
+6 (b) The dispensing pharmacist has offered patient counseling either
+7 prior to, or at the time of, dispensing;
+8 (c) The drug or device is (i) maintained in the packaging as
+9 received from the dispensing pharmacy and stored in accordance with the
+10 manufacturer's recommendations and (ii) kept in a separate area from
+11 other drugs or devices held by the facility;
+12 (d) The drug or device being delivered is not a controlled
+13 substance;
+14 (e) A drug or device that is not picked up within thirty days after
+15 delivery is donated or destroyed by the facility or returned to the
+16 pharmacy and is not eligible for a refund of any amount paid;
+17 (f) The facility has implemented a written policy relating to the
+18 donation or destruction of a drug or device that is not picked up by a
+19 patient or caregiver within thirty days after delivery to the facility;
+20 and
+21 (g) The facility maintains documentation of the delivery of a drug
+22 or device under this subsection, including the date received, the name of
+23 the pharmacy, the name of the patient, the signature and printed name of
+24 the individual picking up the drug or device, the date it was picked up,
+25 and the date of donation, destruction, or return to a pharmacy.
+26 (2) A facility other than a pharmacy, acting in accordance with
+27 subsection (1) of this section, shall not be liable for the contents of a
+28 drug or device delivered to a patient.
+29 (3) The decision to accept a drug or device for delivery to a
+30 patient rests solely with the receiving facility.
+31 (4) The department, with the recommendation of the board, may adopt
+-69-
+
+LB912 LB912
+2026 2026
+1 and promulgate rules and regulations for the administration of this
+2 section.
+3 Sec. 19. Section 38-2850, Reissue Revised Statutes of Nebraska, is
+4 amended to read:
+5 38-2850 As authorized by the Uniform Credentialing Act, the practice
+6 of pharmacy may be engaged in by a pharmacist, a pharmacist intern, or a
+7 practitioner with a pharmacy license. The practice of pharmacy shall not
+8 be construed to include:
+9 (1) Practitioners, other than veterinarians, certified nurse
+10 midwives, certified registered nurse anesthetists, nurse practitioners,
+11 and physician assistants, who dispense drugs or devices as an incident to
+12 the practice of their profession, except that if such practitioner
+13 engages in dispensing such drugs or devices to his or her patients for
+14 which such patients are charged, such practitioner shall obtain a
+15 pharmacy license;
+16 (2) Persons who sell, offer, or expose for sale nonprescription
+17 drugs or proprietary medicines, the sale of which is not in itself a
+18 violation of the Nebraska Liquor Control Act;
+19 (3) Medical representatives, detail persons, or persons known by
+20 some name of like import, but only to the extent of permitting the
+21 relating of pharmaceutical information to health care professionals;
+22 (4) Licensed veterinarians practicing within the scope of their
+23 profession;
+24 (5) Certified nurse midwives, certified registered nurse
+25 anesthetists, nurse practitioners, and physician assistants who dispense
+26 sample medications which are provided by the manufacturer and are
+27 dispensed at no charge to the patient;
+28 (6) Optometrists who prescribe or dispense eyeglasses or contact
+29 lenses to their own patients, including contact lenses that contain and
+30 deliver ocular pharmaceutical agents as authorized under the Optometry
+31 Practice Act, and ophthalmologists who prescribe or dispense eyeglasses
+-70-
+
+LB912 LB912
+2026 2026
+1 or contact lenses to their own patients, including contact lenses that
+2 contain and deliver ocular pharmaceutical agents;
+3 (7) Registered nurses or licensed practical nurses employed by a
+4 hospital who administer pursuant to a chart order, or procure for such
+5 purpose, single doses of drugs or devices from original drug or device
+6 containers or properly labeled repackaged or prepackaged drug or device
+7 containers to persons registered as patients and within the confines of
+8 the hospital;
+9 (8) Persons employed by a facility where dispensed drugs and devices
+10 are delivered from a pharmacy for pickup by a patient or caregiver and no
+11 dispensing or storage of drugs or devices occurs;
+12 (9) Persons who sell or purchase medical products, compounds,
+13 vaccines, or serums used in the prevention or cure of animal diseases and
+14 maintenance of animal health if such medical products, compounds,
+15 vaccines, or serums are not sold or purchased under a direct, specific,
+16 written medical order of a licensed veterinarian;
+17 (10) A person accredited by an accrediting body who, pursuant to a
+18 medical order, (a) administers, dispenses, or distributes medical gas or
+19 medical gas devices to patients or ultimate users or (b) purchases or
+20 receives medical gas or medical gas devices for administration,
+21 dispensing, or distribution to patients or ultimate users; and
+22 (11) A person accredited by an accrediting body who, pursuant to a
+23 medical order, (a) sells, delivers, or distributes devices described in
+24 subsection (2) of section 38-2841 to patients or ultimate users or (b)
+25 purchases or receives such devices with intent to sell, deliver, or
+26 distribute to patients or ultimate users; and .
+27 (12) Individuals described in section 18 of this act.
+28 Sec. 20. Section 38-2852, Revised Statutes Cumulative Supplement,
+29 2024, is amended to read:
+30 38-2852 Every applicant for licensure as a pharmacist shall be
+31 required to attain a passing grade to be determined by the board in an
+-71-
+
+LB912 LB912
+2026 2026
+1 examination in pharmacy and in an examination in jurisprudence of
+2 pharmacy. The jurisprudence examination may occur at a time, before or
+3 after graduation, as determined by the accredited pharmacy program
+4 attended by the applicant.
+5 Sec. 21. Section 38-2866.01, Revised Statutes Supplement, 2025, is
+6 amended to read:
+7 38-2866.01 (1) A pharmacist may supervise any combination of
+8 pharmacy technicians and pharmacist interns at any time up to a total of
+9 four people.
+10 (2) A pharmacist intern shall be supervised at all times while
+11 performing the functions of a pharmacist intern which may include all
+12 aspects of the practice of pharmacy unless otherwise restricted. This
+13 subsection does not apply to a pharmacist intern who is receiving
+14 experiential training directed by the accredited pharmacy program in
+15 which he or she is enrolled.
+16 (3) For any pharmacist supervising four pharmacy technicians or
+17 pharmacist interns, at least one individual person shall be a certified
+18 pharmacy technician pursuant to section 38-2890.
+19 Sec. 22. Section 38-2871, Reissue Revised Statutes of Nebraska, is
+20 amended to read:
+21 38-2871 (1) Original prescription information for any controlled
+22 substances listed in Schedule III, IV, or V of section 28-405 and other
+23 prescription drugs or devices not listed in section 28-405 may be
+24 transferred between pharmacies for the purpose of refill dispensing as
+25 set forth in this section on a one-time basis, except that pharmacies
+26 electronically sharing a real-time, online database may transfer up to
+27 the maximum refills permitted by law and as authorized by the prescribing
+28 practitioner on the prescription. Transfers are subject to the following:
+29 (a) The transfer is communicated directly between two pharmacists or
+30 pharmacist interns except when the pharmacies can use a real-time, online
+31 database;
+-72-
+
+LB912 LB912
+2026 2026
+1 (b) The transferring pharmacist or pharmacist intern indicates void
+2 on the record of the prescription;
+3 (c) The transferring pharmacist or pharmacist intern indicates on
+4 the record of the prescription the name, the address, and, if a
+5 controlled substance, the Drug Enforcement Administration number of the
+6 pharmacy to which the information was transferred, the name of the
+7 pharmacist or pharmacist intern receiving the information, the date of
+8 transfer, and the name of the transferring pharmacist or pharmacist
+9 intern;
+10 (d) The receiving pharmacist or pharmacist intern indicates on the
+11 record of the transferred prescription that the prescription is
+12 transferred;
+13 (e) The transferred prescription includes the following information:
+14 (i) The date of issuance of the original prescription;
+15 (ii) The original number of refills authorized;
+16 (iii) The date of original dispensing;
+17 (iv) The number of valid refills remaining;
+18 (v) The date and location of last refill; and
+19 (vi) The name, the address, and, if a controlled substance, the Drug
+20 Enforcement Administration number of the pharmacy from which the transfer
+21 was made, the name of the pharmacist or pharmacist intern transferring
+22 the information, the original prescription number, and the date of
+23 transfer; and
+24 (f) Both the original and transferred prescriptions must be
+25 maintained by the transferring and receiving pharmacy for a period of
+26 five years from the date of transfer.
+27 (2) Prescriptions for drugs or devices not listed in section 28-405
+28 may be transferred between pharmacies for the purpose of refill
+29 dispensing if (a) the number of transfers does not exceed the number of
+30 originally authorized refills and (b) the original prescription is still
+31 valid.
+-73-
+
+LB912 LB912
+2026 2026
+1 (3) (2) Nothing in this section shall prevent a pharmacist from
+2 forwarding an original prescription for a noncontrolled substance to
+3 another pharmacy at the request of the patient or the patient’s
+4 caregiver. An original prescription for a controlled substance shall not
+5 be forwarded to another pharmacy unless permitted under 21 C.F.R.
+6 1306.25.
+7 (4) A prescription for a controlled substance may be transferred or
+8 forwarded as permitted by federal law.
+9 Sec. 23. Section 38-3208, Revised Statutes Cumulative Supplement,
+10 2024, is amended to read:
+11 38-3208 (1) Except as provided in subsection (2) of this section, a
+12 person shall not engage in the practice of respiratory care unless such
+13 person is licensed pursuant to the Respiratory Care Practice Act or holds
+14 a compact privilege under the Respiratory Care Interstate Compact.
+15 (2) Subsection (1) of this section The Respiratory Care Practice Act
+16 shall not prohibit:
+17 (a) (1) The practice of respiratory care which is an integral part
+18 of the program of study by students enrolled in approved respiratory care
+19 education programs;
+20 (b) (2) The gratuitous care, including the practice of respiratory
+21 care, of the ill by a friend or member of the family or by a person who
+22 is not licensed to practice respiratory care if such person does not
+23 represent himself or herself as a respiratory care practitioner;
+24 (c) (3) The practice of respiratory care by nurses, physicians,
+25 physician assistants, physical therapists, or any other professional
+26 required to be licensed under the Uniform Credentialing Act when such
+27 practice is within the scope of practice for which that person is
+28 licensed to practice in this state;
+29 (d) (4) The practice of any respiratory care practitioner of this
+30 state or any other state or territory while employed by the federal
+31 government or any bureau or division thereof while in the discharge of
+-74-
+
+LB912 LB912
+2026 2026
+1 his or her official duties;
+2 (e) (5) Techniques defined as pulmonary function testing and the
+3 administration of aerosol and inhalant medications to the
+4 cardiorespiratory system as it relates to pulmonary function technology
+5 administered by a registered pulmonary function technologist credentialed
+6 by the National Board for Respiratory Care or a certified pulmonary
+7 function technologist credentialed by the National Board for Respiratory
+8 Care; or
+9 (f) (6) The performance of oxygen therapy or the initiation of
+10 noninvasive positive pressure ventilation by a registered
+11 polysomnographic technologist relating to the study of sleep disorders if
+12 such procedures are performed or initiated under the supervision of a
+13 licensed physician at a facility accredited by the American Academy of
+14 Sleep Medicine.
+15 Sec. 24. Section 52-401, Revised Statutes Cumulative Supplement,
+16 2024, is amended to read:
+17 52-401 (1) Whenever any person employs a physician, nurse,
+18 chiropractor, physical therapist, hospital, or provider of emergency
+19 medical service to perform professional services of any nature, in the
+20 treatment of or in connection with an injury, and such injured person
+21 claims damages from the party causing the injury, such physician, nurse,
+22 chiropractor, physical therapist, hospital, or provider of emergency
+23 medical service , shall have a lien upon any sum awarded the injured
+24 person in judgment or obtained by settlement or compromise on the amount
+25 due for the usual and customary charges of such physician, nurse,
+26 chiropractor, physical therapist, hospital, or provider of emergency
+27 medical service applicable at the time services are performed, except
+28 that no such lien shall be valid against anyone covered under the
+29 Nebraska Workers' Compensation Act. For persons covered under private
+30 medical insurance or another private health benefit plan, the amount of
+31 the lien shall be reduced by the contracted discount or other limitation
+-75-
+
+LB912 LB912
+2026 2026
+1 which would have been applied had the claim been submitted for
+2 reimbursement to the medical insurer or administrator of such other
+3 health benefit plan. The measure of damages for medical expenses in
+4 personal injury claims shall be the private party rate, not the
+5 discounted amount.
+6 (2) In order to prosecute such lien, it shall be necessary for such
+7 physician, nurse, chiropractor, physical therapist, hospital, or provider
+8 of emergency medical service to serve a written notice upon the person or
+9 corporation from whom damages are claimed that such physician, nurse,
+10 chiropractor, physical therapist, hospital, or provider of emergency
+11 medical service claims a lien for such services and stating the amount
+12 due and the nature of such services, except that whenever an action is
+13 pending in court for the recovery of such damages, it shall be sufficient
+14 to file the notice of such lien in the pending action.
+15 (3) A physician, nurse, chiropractor, physical therapist, hospital,
+16 or provider of emergency medical service claiming a lien under this
+17 section shall not be liable for attorney's fees and costs incurred by the
+18 injured person in securing the judgment, settlement, or compromise, but
+19 the lien of the injured person's attorney shall have precedence over the
+20 lien created by this section.
+21 (4) Upon a written request and with the injured person's consent, a
+22 lienholder shall provide medical records, answers to interrogatories,
+23 depositions, or any expert medical testimony related to the recovery of
+24 damages within its custody and control at a reasonable charge to the
+25 injured person.
+26 (5) For purposes of this section, provider of emergency medical
+27 service means a public entity that provides emergency medical service as
+28 defined in section 38-1207.
+29 Sec. 25. Section 71-1908, Revised Statutes Supplement, 2025, is
+30 amended to read:
+31 71-1908 (1) Sections 71-1908 to 71-1923.03 and sections 28 and 29 of
+-76-
+
+LB912 LB912
+2026 2026
+1 this act shall be known and may be cited as the Child Care Licensing Act.
+2 (2) The Legislature finds that there is a present and growing need
+3 for quality child care programs and facilities. There is a need to
+4 establish and maintain licensure of persons providing such programs to
+5 ensure that such persons are competent and are using safe and adequate
+6 facilities. The Legislature further finds and declares that the
+7 development and supervision of programs are a matter of statewide concern
+8 and should be dealt with uniformly on the state and local levels. There
+9 is a need for cooperation among the various state and local agencies
+10 which impose standards on licensees, and there should be one agency which
+11 coordinates the enforcement of such standards and informs the Legislature
+12 about cooperation among the various agencies.
+13 Sec. 26. Section 71-1912, Revised Statutes Supplement, 2025, is
+14 amended to read:
+15 71-1912 (1) Before issuance of a license, the department shall
+16 investigate or cause an investigation to be made, when it deems
+17 necessary, to determine if the applicant or person in charge of the
+18 program meets or is capable of meeting the physical well-being, safety,
+19 and protection standards and the other rules and regulations of the
+20 department adopted and promulgated under the Child Care Licensing Act.
+21 The department may investigate the character of applicants and licensees,
+22 any member of the applicant's or licensee's household, and the staff and
+23 employees of programs. The department may at any time inspect or cause an
+24 inspection to be made of any place where a program is operating to
+25 determine if such program is being properly conducted.
+26 (2) All inspections by the department shall be unannounced except
+27 for initial licensure visits and consultation visits. Initial licensure
+28 visits are announced visits necessary for a provisional license to be
+29 issued to a family child care home I, family child care home II, child
+30 care center, or school-age-only or preschool program. Consultation visits
+31 are announced visits made at the request of a licensee for the purpose of
+-77-
+
+LB912 LB912
+2026 2026
+1 consulting with a department specialist on ways of improving the program.
+2 (3) An unannounced inspection of any place where a program is
+3 operating shall be conducted by the department or the city, village, or
+4 county pursuant to subsection (2) of section 71-1914 at least annually
+5 for a program licensed to provide child care for fewer than thirty
+6 children and at least twice every year for a program licensed to provide
+7 child care for thirty or more children. At each unannounced inspection,
+8 the inspector shall request from the licensee, and verify, current proof
+9 of required liability insurance. If the licensee is unable to provide
+10 current proof of liability insurance or has let the required coverage
+11 lapse, the department shall notify the licensee that proof of insurance
+12 shall be provided to the department within three business days. If such
+13 proof of insurance is not provided to the department within three
+14 business days, the licensee's license shall be suspended. Licensure shall
+15 be restored upon the department's receipt and verification of current
+16 proof of the required liability insurance as provided in section
+17 71-1911.03.
+18 (4) Whenever an inspection is made, the findings shall be recorded
+19 in a report designated by the department. The public shall have access to
+20 the results of these inspections upon a written or oral request to the
+21 department. The request must include the name and address of the program.
+22 Additional unannounced inspections shall be performed as often as is
+23 necessary for the efficient and effective enforcement of the Child Care
+24 Licensing Act.
+25 (5)(a) A person applying for a license as a child care provider or a
+26 licensed child care provider under the Child Care Licensing Act shall
+27 submit a request for a national criminal history record information check
+28 for each child care staff member, including a prospective child care
+29 staff member of the child care provider, at the applicant's or licensee's
+30 expense, as set forth in this section.
+31 (b)(i) (b) A prospective child care staff member shall submit to a
+-78-
+
+LB912 LB912
+2026 2026
+1 national criminal history record information check (A) (i) prior to
+2 employment, except as otherwise permitted under 45 C.F.R. 98.43, as such
+3 regulation existed on January 1, 2019, or (B) (ii) prior to residing in a
+4 family child care home.
+5 (ii) Pursuant to 45 C.F.R. 98.43(d)(4), the department shall
+6 authorize a prospective child care staff member to begin work for a child
+7 care provider for purposes of employment in child care, or for a staffing
+8 agency or substitute child care staff pool operator, for the purposes of
+9 employment in child care as a substitute child care staff member, after
+10 receiving qualifying results for either (A) a Federal Bureau of
+11 Investigation fingerprint check or (B) a state criminal registry or
+12 repository check with the use of fingerprints, for the state where the
+13 staff member resides. Pending completion of all background check
+14 components, the staff member shall be supervised at all times by an
+15 individual who received a qualifying result on a background check
+16 described in this subsection (5) within the past five years.
+17 (c)(i) (c) The department shall provide documentation of national
+18 criminal history record information checks which proves eligibility for
+19 employment. Such documentation shall be made available to each child care
+20 staff member or prospective child care staff member by the applicant or
+21 licensee for at least one hundred eighty days after the last day of
+22 employment or date the documentation was provided by the department,
+23 whichever is later.
+24 (ii) Pursuant to 45 C.F.R. 98.43(d)(3), a child care provider,
+25 staffing agency, or substitute child care staff pool operator shall not
+26 be required to submit a request for a national criminal history record
+27 information check for a child care staff member or prospective child care
+28 staff member if:
+29 (A) The child care staff member or prospective child care staff
+30 member received qualifying results from a background check described in
+31 subdivisions (5)(d) and (5)(e) of this section:
+-79-
+
+LB912 LB912
+2026 2026
+1 (I) Within five years before the latest date on which such a
+2 submission may be made; and
+3 (II) While employed, or seeking employment, in child care within the
+4 state;
+5 (B) The department provided to the first child care provider,
+6 staffing agency, or substitute child care staffing pool operator a
+7 qualifying background check result for the child care staff member or
+8 prospective child care staff member; and
+9 (C) The child care staff member or prospective child care staff
+10 member is employed in child care within the state, or has been separated
+11 from employment in child care within the state, for a period of not more
+12 than one hundred eighty consecutive days.
+13 (d) A child care staff member shall be required to undergo a
+14 national criminal history record information check not less than once
+15 during each five-year period. A child care staff member shall submit a
+16 complete set of his or her fingerprints to the Nebraska State Patrol. The
+17 Nebraska State Patrol shall transmit a copy of the child care staff
+18 member's fingerprints to the Federal Bureau of Investigation for a
+19 national criminal history record information check. The national criminal
+20 history record information check shall include information concerning
+21 child care staff members from federal repositories of such information
+22 and repositories of such information in other states, if authorized by
+23 federal law for use by the Nebraska State Patrol. The Nebraska State
+24 Patrol shall issue a report to the department that includes the
+25 information collected from the national criminal history record
+26 information check concerning child care staff members. The department
+27 shall seek federal funds, if available, to assist child care providers
+28 and child care staff members with the costs of the fingerprinting and
+29 national criminal history record information check. If the department
+30 does not receive sufficient federal funds to assist child care providers
+31 and staff members with such costs, then the child care staff member being
+-80-
+
+LB912 LB912
+2026 2026
+1 screened, applicant for a license, or licensee shall pay the actual cost
+2 of the fingerprinting and national criminal history record information
+3 check, except that the department may pay all or part of the cost if
+4 funding becomes available. The department and the Nebraska State Patrol
+5 may adopt and promulgate rules and regulations concerning the costs
+6 associated with the fingerprinting and the national criminal history
+7 record information check. The department may adopt and promulgate rules
+8 and regulations implementing national criminal history record information
+9 check requirements for child care providers and child care staff members.
+10 (e) A child care staff member shall also submit to the following
+11 background checks at his or her expense not less than once during each
+12 five-year period:
+13 (i) A search of the National Crime Information Center's National Sex
+14 Offender Registry; and
+15 (ii) A search of the following registries, repositories, or
+16 databases in the state where the child care provider is located or where
+17 the child care staff member resides and each state where the child care
+18 provider was located or where the child care staff member resided during
+19 the preceding five years:
+20 (A) State criminal registries or repositories;
+21 (B) State sex offender registries or repositories; and
+22 (C) State-based child abuse and neglect registries and databases.
+23 (f) Documentation of eligibility for employment in child care from a
+24 national criminal history record information check Background checks
+25 shall be portable between child care providers, child care staff members,
+26 prospective child care staff members, staffing agencies, and substitute
+27 child care staff pool operators.
+28 (g) Any individual shall be ineligible for employment by a child
+29 care provider if such individual:
+30 (i) Refuses to consent to the national criminal history record
+31 information check or a background check described in this subsection;
+-81-
+
+LB912 LB912
+2026 2026
+1 (ii) Knowingly makes a materially false statement in connection with
+2 the national criminal history record information check or a background
+3 check described in this subsection;
+4 (iii) Is registered, or required to be registered, on a state sex
+5 offender registry or repository or the National Sex Offender Registry; or
+6 (iv) Has been convicted of a crime of violence, a crime of moral
+7 turpitude, or a crime of dishonesty.
+8 (h) The department may adopt and promulgate rules and regulations
+9 for purposes of this section.
+10 (i) A child care provider shall be ineligible for a license under
+11 the Child Care Licensing Act and shall be ineligible to participate in
+12 the child care subsidy program if the provider employs a child care staff
+13 member who is ineligible for employment under subdivisions (g) or (h) of
+14 this subsection.
+15 (j) National criminal history record information and information
+16 from background checks described in this subsection subject to state or
+17 federal confidentiality requirements may only be used for purposes of
+18 granting a child care license or approving a child care provider for
+19 participation in the child care subsidy program.
+20 (k) For purposes of this subsection:
+21 (i) Child care provider means a child care program required to be
+22 licensed under the Child Care Licensing Act; and
+23 (ii) Child care staff member means an individual who is not related
+24 to all of the children for whom child care services are provided and:
+25 (A) Who is employed by a child care provider for compensation,
+26 including contract employees or self-employed individuals;
+27 (B) Whose activities involve the care or supervision of children for
+28 a child care provider or unsupervised access to children who are cared
+29 for or supervised by a child care provider; or
+30 (C) Who is residing in a family child care home and who is eighteen
+31 years of age or older.
+-82-
+
+LB912 LB912
+2026 2026
+1 Sec. 27. Section 71-1918, Reissue Revised Statutes of Nebraska, is
+2 amended to read:
+3 71-1918 The department shall maintain a complaint tracking system
+4 which shall identify licensing violations discovered from a complaint
+5 investigation, an unannounced inspection, or a self-report investigation
+6 for licensees under the Child Care Licensing Act.
+7 Sec. 28. (1) No child care program licensed under the Child Care
+8 Licensing Act shall be prohibited from including a volunteer in the
+9 supervised staff-to-child ratio if the volunteer (a) receives qualifying
+10 results for either (i) a Federal Bureau of Investigation fingerprint
+11 check or (ii) a state criminal registry or repository check with the use
+12 of fingerprints, for the state where the staff member resides, and
+13 submits to all other background checks as required in section 71-1912 and
+14 (b) is supervised at all times by an individual who received a qualifying
+15 result on a background check.
+16 (2) No child care program licensed under the Child Care Licensing
+17 Act shall be prohibited from including a volunteer in the unsupervised
+18 staff-to-child ratio if the volunteer (a) receives qualifying results for
+19 either (i) a Federal Bureau of Investigation fingerprint check or (ii) a
+20 state criminal registry or repository check with the use of fingerprints,
+21 for the state where the staff member resides, (b) submits to all other
+22 background checks as required by section 71-1912, and (c) meets staff
+23 qualifications and training requirements.
+24 (3) No volunteer shall be included in the staff-to-child ratio for
+25 more than ten hours per week.
+26 (4) The department shall adopt and promulgate rules and regulations
+27 to include volunteer staff who provide direct care to children and any
+28 other individual who counts in the staff-to-child ratio in the definition
+29 of staff in all licensed settings under the Child Care Licensing Act.
+30 (5) This section terminates on December 31, 2028.
+31 Sec. 29. No political subdivision shall institute residency
+-83-
+
+LB912 LB912
+2026 2026
+1 requirements for a family child care home II. This section shall not be
+2 construed to prohibit a political subdivision from regulating business
+3 use relating to outside appearance, nuisances, or public health and
+4 safety.
+5 Sec. 30. Section 71-2444, Reissue Revised Statutes of Nebraska, is
+6 amended to read:
+7 71-2444 Sections 71-2444 to 71-2452 and section 33 of this act shall
+8 be known and may be cited as the Automated Medication Systems Act.
+9 Sec. 31. Section 71-2445, Reissue Revised Statutes of Nebraska, is
+10 amended to read:
+11 71-2445 For purposes of the Automated Medication Systems Act:
+12 (1) Automated medication distribution machine means a type of
+13 automated medication system that stores medication to be administered to
+14 a patient by a person credentialed under the Uniform Credentialing Act;
+15 (2) Automated medication system means a mechanical system that
+16 performs operations or activities, other than compounding,
+17 administration, or other technologies, relative to storage and packaging
+18 for dispensing or distribution of medications and that collects,
+19 controls, and maintains all transaction information and includes, but is
+20 not limited to, a prescription medication distribution machine or an
+21 automated medication distribution machine. An automated medication system
+22 may only be used in conjunction with the provision of pharmacist care.
+23 Automated medication system does not include an automated pickup kiosk;
+24 (3) Automated pickup kiosk means a secure, automated storage and
+25 retrieval device operated by a licensed pharmacy for the purpose of
+26 releasing prescription medication, other than controlled substances, to a
+27 patient or a caregiver and does not include an automated medication
+28 system;
+29 (4) (3) Chart order means an order for a drug or device issued by a
+30 practitioner for a patient who is in the hospital where the chart is
+31 stored, for a patient receiving detoxification treatment or maintenance
+-84-
+
+LB912 LB912
+2026 2026
+1 treatment pursuant to section 28-412, or for a resident in a long-term
+2 care facility in which a long-term care automated pharmacy is located
+3 from which drugs will be dispensed. Chart order does not include a
+4 prescription;
+5 (5) (4) Hospital has the definition found in section 71-419;
+6 (6) (5) Long-term care automated pharmacy means a designated area in
+7 a long-term care facility where an automated medication system is
+8 located, that stores medications for dispensing pursuant to a medical
+9 order to residents in such long-term care facility, that is installed and
+10 operated by a pharmacy licensed under the Health Care Facility Licensure
+11 Act, and that is licensed under section 71-2451;
+12 (7) (6) Long-term care facility means an intermediate care facility,
+13 an intermediate care facility for persons with developmental
+14 disabilities, a long-term care hospital, a mental health substance use
+15 treatment center, a nursing facility, or a skilled nursing facility, as
+16 such terms are defined in the Health Care Facility Licensure Act;
+17 (8) (7) Medical order means a prescription, a chart order, or an
+18 order for pharmaceutical care issued by a practitioner;
+19 (9) (8) Pharmacist means any person who is licensed by the State of
+20 Nebraska to practice pharmacy;
+21 (10) (9) Pharmacist care means the provision by a pharmacist of
+22 medication therapy management, with or without the dispensing of drugs or
+23 devices, intended to achieve outcomes related to the cure or prevention
+24 of a disease, elimination or reduction of a patient's symptoms, or
+25 arresting or slowing of a disease process;
+26 (11) (10) Pharmacist remote order entry means entering an order into
+27 a computer system or drug utilization review by a pharmacist licensed to
+28 practice pharmacy in the State of Nebraska and located within the United
+29 States, pursuant to medical orders in a hospital, long-term care
+30 facility, or pharmacy licensed under the Health Care Facility Licensure
+31 Act;
+-85-
+
+LB912 LB912
+2026 2026
+1 (12) Pharmacy has the same meaning as defined in section 71-425;
+2 (13) (11) Practice of pharmacy has the definition found in section
+3 38-2837;
+4 (14) (12) Practitioner means a certified registered nurse
+5 anesthetist, a certified nurse midwife, a dentist, an optometrist, a
+6 nurse practitioner, a physician assistant, a physician, a podiatrist, or
+7 a veterinarian;
+8 (15) (13) Prescription means an order for a drug or device issued by
+9 a practitioner for a specific patient, for emergency use, or for use in
+10 immunizations. Prescription does not include a chart order;
+11 (16) (14) Prescription medication distribution machine means a type
+12 of automated medication system that packages, labels, or counts
+13 medication in preparation for dispensing of medications by a pharmacist
+14 pursuant to a prescription; and
+15 (17) (15) Telepharmacy means the provision of pharmacist care, by a
+16 pharmacist located within the United States, using telecommunications,
+17 remote order entry, or other automations and technologies to deliver care
+18 to patients or their agents who are located at sites other than where the
+19 pharmacist is located.
+20 Sec. 32. Section 71-2447, Reissue Revised Statutes of Nebraska, is
+21 amended to read:
+22 71-2447 Any health care facility authorized to use hospital, long-
+23 term care facility, or pharmacy that uses an automated medication system
+24 or an automated pickup kiosk shall develop, maintain, and comply with
+25 policies and procedures developed in consultation with the pharmacist
+26 responsible for pharmacist care for that hospital, long-term care
+27 facility , or pharmacy. At a minimum, the policies and procedures shall
+28 address the following:
+29 (1) The description and location within or at the hospital, long-
+30 term care facility , or pharmacy of the automated medication system or
+31 automated pickup kiosk or the equipment being used;
+-86-
+
+LB912 LB912
+2026 2026
+1 (2) The name of the pharmacist responsible for implementation of,
+2 and compliance with, the policies and procedures;
+3 (3) Medication access and information access procedures;
+4 (4) Security of inventory and confidentiality of records in
+5 compliance with state and federal laws, rules, and regulations;
+6 (5) A description of the process used by a pharmacist or pharmacy
+7 technician for filling an automated medication system or an automated
+8 pickup kiosk;
+9 (6) A description of how, and by whom, the automated medication
+10 system or automated pickup kiosk is being utilized, including processes
+11 for verifying, dispensing, and distributing medications;
+12 (7) Staff education and training;
+13 (8) Quality assurance and quality improvement programs and
+14 processes;
+15 (9) Inoperability or emergency downtime procedures;
+16 (10) Periodic system maintenance; and
+17 (11) Medication security and controls.
+18 Sec. 33. (1) In order for an automated pickup kiosk to be operated
+19 by, or under the authority of, a pharmacy located in Nebraska and
+20 licensed under the Health Care Facility Licensure Act, the pharmacist in
+21 charge of the licensed pharmacy shall annually license the automated
+22 pickup kiosk. An automated pickup kiosk may be operated in connection
+23 with a licensed pharmacy if it is located on property owned or leased by
+24 the pharmacy or a hospital, a facility operated by a hospital, a health
+25 clinic as defined in section 71-416, a health care practitioner facility
+26 as defined in section 71-414, or a rural emergency hospital as defined in
+27 section 71-428.01 within which the licensed pharmacy operates, whether
+28 placed within the interior of the building or affixed to, or situated on,
+29 the exterior of the building or property.
+30 (2) The pharmacist in charge of a licensed pharmacy shall submit an
+31 application for licensure or renewal of licensure to the Division of
+-87-
+
+LB912 LB912
+2026 2026
+1 Public Health of the Department of Health and Human Services with a fee
+2 in an amount determined by the Board of Pharmacy, not to exceed two
+3 hundred dollars for initial licensure or fifty dollars for a renewal of
+4 licensure. The application shall include:
+5 (a) The name and location of the licensed pharmacy;
+6 (b) The physical location of the automated pickup kiosk; and
+7 (c) The name of the pharmacist in charge of the licensed pharmacy.
+8 (3) As part of the application process, the division shall conduct
+9 an inspection of the automated pickup kiosk by a pharmacy inspector as
+10 provided in section 38-28,101. The division shall also conduct
+11 inspections of the operation of the automated pickup kiosk as necessary.
+12 (4) The division shall license an automated pickup kiosk which meets
+13 the licensure requirements of this section.
+14 (5) A pharmacist in charge of a licensed pharmacy shall apply for a
+15 separate license for each location at which it operates one or more
+16 automated pickup kiosks. The licensed pharmacy shall be the provider
+17 pharmacy for the automated pickup kiosk.
+18 (6) The pharmacist in charge of the licensed pharmacy operating an
+19 automated pickup kiosk shall:
+20 (a) Identify a pharmacist responsible for the operation,
+21 supervision, and development of policies and procedures for the automated
+22 pickup kiosk. Compliance with this subdivision shall be sufficient if the
+23 pharmacist monitors the automated pickup kiosk electronically and keeps
+24 records of compliance with this requirement for a period of five years;
+25 (b) Implement the policies and procedures developed to comply with
+26 section 71-2447;
+27 (c) Assure compliance with the prescription drug storage and record-
+28 keeping requirements of the Pharmacy Practice Act;
+29 (d) Assure compliance with the labeling requirements described in
+30 subsection (7) of this section;
+31 (e) Develop and implement policies for the verification of a
+-88-
+
+LB912 LB912
+2026 2026
+1 prescription drug by a pharmacist prior to being loaded into an automated
+2 pickup kiosk or for the verification of a prescription drug by a
+3 pharmacist prior to being released to a patient or caregiver; and
+4 (f) Assure that each prescription drug is reviewed by a pharmacist
+5 prior to the release of a drug by an automated pickup kiosk.
+6 (7) Each prescription drug dispensed from an automated pickup kiosk
+7 shall meet the labeling requirements applicable to prescription drugs
+8 dispensed by a licensed pharmacist pursuant to section 71-2479.
+9 (8) An automated pickup kiosk shall not dispense or make available
+10 prescription medication to a patient or caregiver unless pharmacist care
+11 has been offered and made available in a manner consistent with section
+12 38-2869.
+13 (9) An automated pickup kiosk that is located outside a fully
+14 enclosed building shall not be placed in a manner that exposes
+15 medications to adverse environmental conditions or to security risks,
+16 unless the Board of Pharmacy determines, through rule or case-specific
+17 approval, that the automated pickup kiosk employs environmental controls
+18 and physical security measures sufficient to protect medication integrity
+19 and prevent diversion.
+20 (10) An automated pickup kiosk operated in accordance with this
+21 section shall not store, dispense, or otherwise make available a
+22 controlled substance as defined in section 28-401 or federal law except
+23 an automated pickup kiosk operated by, or under the authority of, a
+24 hospital pharmacy as defined in section 71-419.01 and that is located in
+25 the hospital or facility operated by a hospital.
+26 (11) This section does not apply to a long-term care automated
+27 pharmacy or an automated medication system operated in a long-term care
+28 facility under section 71-2451.
+29 Sec. 34. Sections 6, 7, 8, 9, 10, 13, 14, 15, 23, and 35 of this
+30 act become operative on January 1, 2027. Sections 30, 31, 32, 33, and 36
+31 of this act become operative on May 1, 2027. Sections 1, 2, 3, 4, 5, 11,
+-89-
+
+LB912 LB912
+2026 2026
+1 12, 16, 17, 18, 19, 24, 25, 26, 27, 28, 29, 37, and 39 of this act become
+2 operative three calendar months after the adjournment of this legislative
+3 session. The other sections of this act become operative on their
+4 effective date.
+5 Sec. 35. Original sections 38-404, 38-409, 38-2101, 38-2123, and
+6 38-3208, Revised Statutes Cumulative Supplement, 2024, and section
+7 38-131, Revised Statutes Supplement, 2025, are repealed.
+8 Sec. 36. Original sections 71-2444, 71-2445, and 71-2447, Reissue
+9 Revised Statutes of Nebraska, are repealed.
+10 Sec. 37. Original sections 38-1915, 38-2315, 38-2850, and 71-1918,
+11 Reissue Revised Statutes of Nebraska, sections 38-1716, 38-2801, and
+12 52-401, Revised Statutes Cumulative Supplement, 2024, and sections
+13 71-1908 and 71-1912, Revised Statutes Supplement, 2025, are repealed.
+14 Sec. 38. Original section 38-2871, Reissue Revised Statutes of
+15 Nebraska, section 38-2852, Revised Statutes Cumulative Supplement, 2024,
+16 and section 38-2866.01, Revised Statutes Supplement, 2025, are repealed.
+17 Sec. 39. The following section is outright repealed: Section
+18 38-2053, Revised Statutes Cumulative Supplement, 2024.
+19 Sec. 40. Since an emergency exists, this act takes effect when
+20 passed and approved according to law.
+-90-

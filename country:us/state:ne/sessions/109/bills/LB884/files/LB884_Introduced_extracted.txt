@@ -1,0 +1,261 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LB884 LB884
+2026 2026
+LEGISLATURE OF NEBRASKA
+ONE HUNDRED NINTH LEGISLATURE
+SECOND SESSION
+LEGISLATIVE BILL 884
+Introduced by Andersen, 49; Kauth, 31.
+Read first time January 08, 2026
+Committee: Government, Military and Veterans Affairs
+1 A BILL FOR AN ACT relating to elections; to amend section 32-806, Reissue
+2 Revised Statutes of Nebraska, sections 32-202.01, 32-1010, and
+3 32-1027, Revised Statutes Cumulative Supplement, 2024, and section
+4 32-1013, Revised Statutes Supplement, 2025; to change provisions
+5 relating to verification of citizenship, ballots and ballot
+6 envelopes, delivery and handling of ballots, and observation by poll
+7 watchers and observers; and to repeal the original sections.
+8 Be it enacted by the people of the State of Nebraska,
+-1-
+
+LB884 LB884
+2026 2026
+1 Section 1. Section 32-202.01, Revised Statutes Cumulative
+2 Supplement, 2024, is amended to read:
+3 32-202.01 The Secretary of State shall develop a process to use the
+4 information in possession of or available to his or her office including
+5 the federal Systematic Alien Verification for Entitlements Program, to
+6 match and verify the citizenship of the corresponding registered voter.
+7 The process developed shall ensure that no registered voter is removed
+8 from the voter registration register in violation of state or federal
+9 law. The Attorney General and the Department of Motor Vehicles shall
+10 cooperate with the Secretary of State for such purpose. The Secretary of
+11 State may adopt and promulgate rules and regulations to carry out this
+12 section.
+13 Sec. 2. Section 32-806, Reissue Revised Statutes of Nebraska, is
+14 amended to read:
+15 32-806 All official ballots prepared pursuant to the Election Act
+16 shall be white in color, except that the election commissioner, county
+17 clerk, or city or village clerk may designate a distinctive color of
+18 ballot or ink for city, village, or school elections or, when authorized
+19 by the Secretary of State, for elections of any other political
+20 subdivision. If a distinctive color is designated, the color of the
+21 ballot shall not be the same as the sample ballots as provided in section
+22 32-804. The style and size of type on official ballots shall be as close
+23 as possible to the style used on the ballots furnished by the Secretary
+24 of State. No ballot or envelope for a ballot shall display any indication
+25 of the voter's political party affiliation on its exterior.
+26 Sec. 3. Section 32-1010, Revised Statutes Cumulative Supplement,
+27 2024, is amended to read:
+28 32-1010 Ballots shall be counted at a centralized location or at
+29 polling places as provided in sections 32-1012 to 32-1018. If counting
+30 takes place at a centralized location:
+31 (1) The , the receiving board shall deliver the ballot box and other
+-2-
+
+LB884 LB884
+2026 2026
+1 election materials to the centralized location as directed by the
+2 election commissioner or county clerk; .
+3 (2) The deliverer of the ballots shall deliver the ballots directly
+4 to such centralized location and shall make no stops other than at the
+5 centralized location; and
+6 (3) Ballots shall not be removed from the ballot box at a polling
+7 location but shall be transported to the centralized location in the
+8 ballot box in which they were originally deposited except where the poll
+9 watchers of two different political parties appointed in accordance with
+10 section 32-1013 observe such removal.
+11 Sec. 4. Section 32-1013, Revised Statutes Supplement, 2025, is
+12 amended to read:
+13 32-1013 (1) In each counting location, watchers may be appointed to
+14 be present and observe the counting of ballots. Each political party
+15 shall be entitled to one watcher at each location appointed and supplied
+16 with credentials by the county central committee of such political party.
+17 The district court having jurisdiction over any such county may appoint
+18 additional watchers for any location.
+19 (2) The watchers and the members of the counting board shall take
+20 the following oath administered by the election commissioner or county
+21 clerk or an election official designated by the election commissioner or
+22 county clerk: I do solemnly swear that I will not in any manner make
+23 known to anyone other than duly authorized election officials the results
+24 of the votes as they are being counted until the polls have officially
+25 closed and the summary of votes cast is delivered to the election
+26 commissioner or county clerk.
+27 (3) Except for polling places using precinct-based optical scanners,
+28 all other persons shall be excluded from the place where the counting is
+29 being conducted except for observers authorized by the election
+30 commissioner or county clerk. No such observer shall be connected with
+31 any candidate, political party, or measure on the ballot.
+-3-
+
+LB884 LB884
+2026 2026
+1 (4) No such watcher or observer shall be excluded from the counting
+2 location unless the election commissioner or county clerk provides an
+3 unobstructed view of the counting of ballots by use of closed-circuit
+4 television or similar device that provides the ability to plainly see and
+5 hear all actions taken during the counting of the ballots. This includes
+6 the verification of signatures and the opening of envelopes relating to
+7 early voting described in section 32-1027.
+8 Sec. 5. Section 32-1027, Revised Statutes Cumulative Supplement,
+9 2024, is amended to read:
+10 32-1027 (1) The election commissioner or county clerk shall appoint
+11 two or more registered voters to the counting board for early voting. One
+12 registered voter shall be appointed from the political party casting the
+13 highest number of votes for Governor or for President of the United
+14 States in the county in the immediately preceding general election, and
+15 one registered voter shall be appointed from the political party casting
+16 the next highest vote for such office. The election commissioner or
+17 county clerk may appoint additional registered voters to serve on the
+18 counting board and may appoint registered voters to serve in case of a
+19 vacancy among any of the members of the counting board. Such appointees
+20 shall be balanced between the political parties and may include
+21 registered voters unaffiliated with any political party. The counting
+22 board may begin carrying out its duties not earlier than the second
+23 Friday before the election and shall meet as directed by the election
+24 commissioner or county clerk. Watchers appointed in accordance with
+25 section 32-1013 shall be permitted the opportunity to observe the
+26 counting process for early voting.
+27 (2) The counting board shall place all identification envelopes in
+28 order and shall review each returned identification envelope pursuant to
+29 verification procedures prescribed in subsections (3) and (4) of this
+30 section.
+31 (3) In its review, the counting board shall determine if:
+-4-
+
+LB884 LB884
+2026 2026
+1 (a) The voter has provided his or her name, residence address, and
+2 signature on the voter identification envelope;
+3 (b) The ballot has been received from the voter who requested it and
+4 the residence address is the same address provided on the voter's request
+5 for a ballot for early voting, by comparing the information provided on
+6 the identification envelope with information recorded in the record of
+7 early voters or the voter's request;
+8 (c) A completed and signed registration application has been
+9 received from the voter by the deadline in section 32-302, 32-321, or
+10 32-325 or by the close of the polls pursuant to section 32-945;
+11 (d) An identification document has been received from the voter not
+12 later than the close of the polls on election day if required pursuant to
+13 section 32-318.01; and
+14 (e) A completed and signed registration application and oath has
+15 been received from the voter by the close of the polls on election day if
+16 required pursuant to section 32-946.
+17 (4) On the basis of its review, the counting board shall determine
+18 whether the ballot shall be counted or rejected as follows:
+19 (a) A ballot received from a voter who was properly registered on or
+20 prior to the deadline for registration pursuant to section 32-302 or
+21 32-321 shall be accepted for counting without further review if:
+22 (i) The name on the identification envelope appears to be that of a
+23 registered voter to whom a ballot for early voting has been issued or
+24 sent;
+25 (ii) The residence address provided on the identification envelope
+26 is the same residence address at which the voter is registered or is in
+27 the same precinct and subdivision of a precinct, if any; and
+28 (iii) The identification envelope has been signed by the voter;
+29 (b) In the case of a ballot received from a voter who was not
+30 properly registered prior to the deadline for registration pursuant to
+31 section 32-302 or 32-321, the ballot shall be accepted for counting if:
+-5-
+
+LB884 LB884
+2026 2026
+1 (i) A valid registration application completed and signed by the
+2 voter has been received by the election commissioner or county clerk
+3 prior to the close of the polls on election day;
+4 (ii) The name on the identification envelope appears to be that of
+5 the person who requested the ballot;
+6 (iii) The residence address provided on the identification envelope
+7 and on the registration application is the same as the residence address
+8 as provided on the voter's request for a ballot for early voting; and
+9 (iv) The identification envelope has been signed by the voter;
+10 (c) In the case of a ballot received from a voter without a
+11 residence address who requested a ballot pursuant to section 32-946, the
+12 ballot shall be accepted for counting if:
+13 (i) The name on the identification envelope appears to be that of a
+14 registered voter to whom a ballot has been sent;
+15 (ii) A valid registration application completed and signed by the
+16 voter, for whom the residence address is deemed to be the address of the
+17 office of the election commissioner or county clerk pursuant to section
+18 32-946, has been received by the election commissioner or county clerk
+19 prior to the close of the polls on election day;
+20 (iii) The oath required pursuant to section 32-946 has been
+21 completed and signed by the voter and received by the election
+22 commissioner or county clerk by the close of the polls on election day;
+23 and
+24 (iv) The identification envelope has been signed by the voter;
+25 (d) In the case of a ballot received from a registered voter
+26 required to present identification before voting pursuant to section
+27 32-318.01, the ballot shall be accepted for counting if:
+28 (i) The name on the identification envelope appears to be that of a
+29 registered voter to whom a ballot has been issued or sent;
+30 (ii) The residence address provided on the identification envelope
+31 is the same address at which the voter is registered or is in the same
+-6-
+
+LB884 LB884
+2026 2026
+1 precinct and subdivision of a precinct, if any;
+2 (iii) A copy of an identification document authorized in section
+3 32-318.01 has been received by the election commissioner or county clerk
+4 prior to the close of the polls on election day; and
+5 (iv) The identification envelope has been signed by the voter; and
+6 (e) In the case of a ballot received from a registered voter who
+7 filled out a reasonable impediment certification pursuant to section
+8 32-912.02, the ballot shall be accepted for counting if:
+9 (i) The signature on the certification matches the signature on file
+10 with the election commissioner or county clerk;
+11 (ii) The election commissioner or county clerk verifies that the
+12 voter does not have a current, unexpired driver's license or state
+13 identification card issued by the State of Nebraska;
+14 (iii) The name on the identification envelope appears to be that of
+15 a registered voter to whom a ballot has been issued or sent;
+16 (iv) The residence address provided on the identification envelope
+17 is the same address at which the voter is registered or is in the same
+18 precinct and subdivision of a precinct, if any; and
+19 (v) The identification envelope has been signed by the voter.
+20 (5) In opening the identification envelope or the return envelope to
+21 determine if registration applications, oaths, or identification
+22 documents have been enclosed by the voters from whom they are required,
+23 the counting board shall make a good faith effort to ensure that the
+24 ballot remains folded and that the secrecy of the vote is preserved.
+25 (6) The counting board may, on the second Friday before the
+26 election, open all identification envelopes which are approved, and if
+27 the signature of the election commissioner or county clerk or his or her
+28 employee is on the ballot, the ballot shall be unfolded, flattened for
+29 purposes of using the optical scanner, and placed in a sealed container
+30 for counting as directed by the election commissioner or county clerk. At
+31 the discretion of the election commissioner or county clerk, the counting
+-7-
+
+LB884 LB884
+2026 2026
+1 board may begin counting early ballots no earlier than twenty-four hours
+2 prior to the opening of the polls on the day of the election.
+3 (7) If an identification envelope is rejected, the counting board
+4 shall not open the identification envelope. The counting board shall
+5 write Rejected on the identification envelope and the reason for the
+6 rejection. If the ballot is rejected after opening the identification
+7 envelope because of the absence of the official signature on the ballot,
+8 the ballot shall be reinserted in the identification envelope which shall
+9 be resealed and marked Rejected, no official signature. The counting
+10 board shall place the rejected identification envelopes and ballots in a
+11 container labeled Rejected Ballots and seal it.
+12 (8) As soon as all ballots have been placed in the sealed container
+13 and rejected identification envelopes or ballots have been sealed in the
+14 Rejected Ballots container, the counting board shall count the ballots
+15 the same as all other ballots and an unofficial count shall be reported
+16 to the election commissioner or county clerk. No results shall be
+17 released prior to the closing of the polls on election day.
+18 Sec. 6. Original section 32-806, Reissue Revised Statutes of
+19 Nebraska, sections 32-202.01, 32-1010, and 32-1027, Revised Statutes
+20 Cumulative Supplement, 2024, and section 32-1013, Revised Statutes
+21 Supplement, 2025, are repealed.
+-8-

@@ -1,0 +1,1658 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LB1048 LB1048
+2026 2026
+LEGISLATURE OF NEBRASKA
+ONE HUNDRED NINTH LEGISLATURE
+SECOND SESSION
+LEGISLATIVE BILL 1048
+Introduced by Arch, 14; at the request of the Governor.
+Read first time January 14, 2026
+Committee: Government, Military and Veterans Affairs
+1 A BILL FOR AN ACT relating to government; to amend sections 44-1412,
+2 48-683, 54-2428, 77-383, 77-385, 77-27,238, 77-6307, 81-125,
+3 81-1354.01, 81-1378, 81-1504.01, 81-1505.04, 81-1505.05, 81-1607.01,
+4 83-184.01, 83-1,100.03, 83-918, 83-963, and 86-1301, Reissue Revised
+5 Statutes of Nebraska, sections 77-6521, 77-6604, 77-6610, 77-6837,
+6 and 77-6928, Revised Statutes Cumulative Supplement, 2024, and
+7 sections 61-218, 70-1003, 81-1113, 81-1139.02, 81-1430, 81-15,175,
+8 and 81-1606, Revised Statutes Supplement, 2025; to change and
+9 eliminate certain reporting requirements for the Department of
+10 Agriculture, the Department of Labor, the Department of Water,
+11 Energy, and Environment, the Department of Revenue, the Department
+12 of Administrative Services, a task force under the Nebraska
+13 Commission on Law Enforcement and Criminal Justice, the Department
+14 of Correctional Services, the Board of Parole, the Department of
+15 Economic Development, the Department of Insurance, the Department of
+16 Transportation, and broadband Internet providers under the Nebraska
+17 Broadband Bridge Act as prescribed; to change reporting procedures
+18 for preparation of the state executive budget; to eliminate reports
+19 regarding labor negotiations; to eliminate the Suggestion Award
+20 Board and the state employee suggestion system; to harmonize
+21 provisions; to repeal the original sections; and to outright repeal
+22 sections 48-2909, 54-642, 77-6309, 81-1205, 81-1346, 81-1347,
+23 81-1347.01, 81-1350, 81-1351, 81-1352, 81-1353, 81-1354, 81-1384,
+-1-
+
+LB1048 LB1048
+2026 2026
+1 and 86-1313, Reissue Revised Statutes of Nebraska, section 39-1392,
+2 Revised Statutes Cumulative Supplement, 2024, and sections 81-1348
+3 and 81-1607, Revised Statutes Supplement, 2025.
+4 Be it enacted by the people of the State of Nebraska,
+-2-
+
+LB1048 LB1048
+2026 2026
+1 Section 1. Section 44-1412, Reissue Revised Statutes of Nebraska, is
+2 amended to read:
+3 44-1412 (1) On or before March 31 each year, each insurance carrier
+4 shall file with the department the following information for the most
+5 recent calendar year:
+6 (a) The total number of incentive payments made pursuant to the
+7 insurance carrier’s shared savings incentive payment program;
+8 (b) The use of shoppable health care services by category of service
+9 for which incentive payments are made;
+10 (c) The total amount of incentive payments made to enrollees;
+11 (d) The average amount of incentive payments made by category of
+12 shoppable health care service;
+13 (e) The total savings achieved below the average prices by category
+14 of shoppable health care service; and
+15 (f) The total number and percentage of an insurance carrier's
+16 enrollees that participated in the shared savings incentive payment
+17 program.
+18 (2) On or before July 1, 2027 2019, and on or before July 1 every
+19 two years of each year thereafter, the department shall electronically
+20 submit an aggregate report for all insurance carriers filing the
+21 information required by subsection (1) of this section to the
+22 Legislature.
+23 Sec. 2. Section 48-683, Reissue Revised Statutes of Nebraska, is
+24 amended to read:
+25 48-683 (1) The department shall not use General Funds to implement
+26 the short-time compensation program. The department shall use any and all
+27 available federal funds to implement the short-time compensation program,
+28 including, but not limited to, federal funds distributed to the state
+29 under sections 903(c), 903(d), 903(f), and 903(g) of the federal Social
+30 Security Act, as amended.
+31 (2) The department shall submit an annual report to the Governor and
+-3-
+
+LB1048 LB1048
+2026 2026
+1 electronically to the Legislature on the short-time compensation program
+2 trends, including the number of employers filing short-time compensation
+3 program plans, the number of layoffs averted through the use of the
+4 short-time compensation program, the amount of short-time compensation
+5 program benefits paid, and other information pertinent to the short-time
+6 compensation program.
+7 Sec. 3. Section 54-2428, Reissue Revised Statutes of Nebraska, is
+8 amended to read:
+9 54-2428 (1) Any person required to obtain a National Pollutant
+10 Discharge Elimination System permit for an animal feeding operation or a
+11 construction and operating permit for a livestock waste control facility
+12 shall file an application with the department accompanied by the
+13 appropriate fees in the manner established by the department. The
+14 application fee shall be established by the council with a maximum fee of
+15 two hundred dollars. For major modifications to an application or a
+16 permit, the fee shall equal the amount of the application fee.
+17 (2) On or before March 1, 2006, and each year thereafter, each
+18 person who has a National Pollutant Discharge Elimination System permit
+19 or who has a large concentrated animal feeding operation, as defined in
+20 40 C.F.R. 122 and 123, as such regulations existed on January 1, 2004,
+21 and a state operating permit, a construction and operating permit, or a
+22 construction approval issued pursuant to the Environmental Protection Act
+23 or the Livestock Waste Management Act shall pay a per head annual fee
+24 based on the permitted capacity identified in the permit for that
+25 facility. The department shall invoice each permittee by February 1,
+26 2006, and February 1 of each year thereafter.
+27 (3) The initial annual fee shall be: Beef cattle, ten cents per
+28 head; veal calves, ten cents per head; dairy cows, fifteen cents per
+29 head; swine larger than fifty-five pounds, four dollars per one hundred
+30 head or fraction thereof; swine less than fifty pounds, one dollar per
+31 one hundred head or fraction thereof; horses, twenty cents per head;
+-4-
+
+LB1048 LB1048
+2026 2026
+1 sheep or lambs, one dollar per one hundred head or fraction thereof;
+2 turkeys, two dollars per one thousand head or fraction thereof; chickens
+3 or ducks with liquid manure facility, three dollars per one thousand head
+4 or fraction thereof; and chickens or ducks with other than liquid manure
+5 facility, one dollar per one thousand head or fraction thereof. This fee
+6 structure may be reviewed in fiscal year 2007-08.
+7 (4) Beginning in fiscal year 2007-08, the department shall annually
+8 review and adjust the fee structure in this section and section 54-2423
+9 to ensure that fees are adequate to meet twenty percent of the program
+10 costs from the previous fiscal year. All fees collected under this
+11 section and sections 54-2423, 54-2435, and 54-2436 shall be remitted to
+12 the State Treasurer for credit to the Livestock Waste Management Cash
+13 Fund which is created for the purposes described in the Livestock Waste
+14 Management Act. Transfers may be made from the fund to the General Fund
+15 at the direction of the Legislature. Any money in the Livestock Waste
+16 Management Cash Fund available for investment shall be invested by the
+17 state investment officer pursuant to the Nebraska Capital Expansion Act
+18 and the Nebraska State Funds Investment Act.
+19 (5) On or before January 1 of each year, the department shall submit
+20 electronically a report to the Legislature in sufficient detail to
+21 document all direct and indirect costs incurred in the previous fiscal
+22 year in carrying out the Livestock Waste Management Act, including the
+23 number of inspections conducted, the number of animal feeding operations
+24 with livestock waste control facilities, the number of animal feeding
+25 operations inspected, the size of the livestock waste control facilities,
+26 the results of water quality monitoring programs, and other elements
+27 relating to carrying out the act. The Appropriations Committee of the
+28 Legislature shall review the report in its analysis of executive programs
+29 in order to verify that the revenue generated from fees was used solely
+30 to offset appropriate and reasonable costs associated with carrying out
+31 the act.
+-5-
+
+LB1048 LB1048
+2026 2026
+1 Sec. 4. Section 61-218, Revised Statutes Supplement, 2025, is
+2 amended to read:
+3 61-218 (1) The Water Resources Cash Fund is created. The fund shall
+4 be administered by the Department of Water, Energy, and Environment. Any
+5 money in the fund available for investment shall be invested by the state
+6 investment officer pursuant to the Nebraska Capital Expansion Act and the
+7 Nebraska State Funds Investment Act.
+8 (2) The State Treasurer shall credit to the fund such money as is
+9 (a) transferred to the fund by the Legislature, (b) paid to the state as
+10 fees, deposits, payments, and repayments relating to the fund, both
+11 principal and interest, (c) donated as gifts, bequests, or other
+12 contributions to such fund from public or private entities, (d) made
+13 available by any department or agency of the United States if so directed
+14 by such department or agency, (e) transferred pursuant to section
+15 81-15,175, and (f) received by the state for settlement of claims
+16 relating to interstate river compacts or decrees.
+17 (3)(a) The fund shall be expended by the department in any area that
+18 has adopted an integrated management plan as provided in section 46-715.
+19 (b) The fund shall be used in any such area:
+20 (i) To aid management actions taken to reduce consumptive uses of
+21 water;
+22 (ii) To enhance streamflows or ground water recharge;
+23 (iii) For any other activity deemed necessary by the department in
+24 the development and implementation of an integrated management plan;
+25 (iv) For purposes of the Resilient Soils and Water Quality Act; or
+26 (v) For purposes of projects or proposals described in the grant
+27 application as set forth in subdivision (2)(h) of section 81-15,175.
+28 (c) To the extent funds are not expended pursuant to subdivision (b)
+29 of this subsection, the department may conduct a statewide assessment of
+30 short-term and long-term water management activities and funding needs to
+31 meet statutory requirements in sections 46-713 to 46-718 and 46-739 and
+-6-
+
+LB1048 LB1048
+2026 2026
+1 any requirements of an interstate compact or decree or formal state
+2 contract or agreement.
+3 (d) The fund shall not be used to pay for administrative expenses or
+4 any salaries for any political subdivision.
+5 (4) It is the intent of the Legislature that three million three
+6 hundred thousand dollars be transferred each fiscal year from the General
+7 Fund to the Water Resources Cash Fund for FY2011-12 through FY2022-23,
+8 except that for FY2012-13 it is the intent of the Legislature that four
+9 million seven hundred thousand dollars be transferred from the General
+10 Fund to the Water Resources Cash Fund. It is the intent of the
+11 Legislature that the State Treasurer credit any money received from any
+12 Republican River Compact settlement to the Water Resources Cash Fund in
+13 the fiscal year in which it is received.
+14 (5)(a) Expenditures from the Water Resources Cash Fund may be made
+15 to natural resources districts eligible under subsection (3) of this
+16 section for activities to either achieve a sustainable balance of
+17 consumptive water uses or assure compliance with an interstate compact or
+18 decree or a formal state contract or agreement and shall require a match
+19 of local funding in an amount equal to or greater than forty percent of
+20 the total cost of carrying out the eligible activity. The department
+21 shall, no later than August 1 of each year, beginning in 2007, determine
+22 the amount of funding that will be made available to natural resources
+23 districts from the Water Resources Cash Fund and notify natural resources
+24 districts of this determination. The department shall adopt and
+25 promulgate rules and regulations governing application for and use of the
+26 Water Resources Cash Fund by natural resources districts. Such rules and
+27 regulations shall, at a minimum, include the following components:
+28 (i) Require an explanation of how the planned activity will achieve
+29 a sustainable balance of consumptive water uses or will assure compliance
+30 with an interstate compact or decree or a formal state contract or
+31 agreement as required by section 46-715 and the controls, rules, and
+-7-
+
+LB1048 LB1048
+2026 2026
+1 regulations designed to carry out the activity; and
+2 (ii) A schedule of implementation of the activity or its components,
+3 including the local match as set forth in subdivision (5)(a) of this
+4 section.
+5 (b) Any natural resources district that fails to implement and
+6 enforce its controls, rules, and regulations as required by section
+7 46-715 shall not be eligible for funding from the Water Resources Cash
+8 Fund until it is determined by the department that compliance with the
+9 provisions required by section 46-715 has been established.
+10 (6) The Department of Water, Energy, and Environment shall submit
+11 electronically an annual report to the Legislature no later than October
+12 1 of each year that shall detail the use of the Water Resources Cash Fund
+13 in the previous year. The report shall provide:
+14 (a) Details regarding the use and cost of activities carried out by
+15 the department; and
+16 (b) Details regarding the use and cost of activities carried out by
+17 each natural resources district that received funds from the Water
+18 Resources Cash Fund.
+19 (6)(a) (7)(a) Prior to the application deadline for fiscal year
+20 2011-12, the Department of Natural Resources shall apply for a grant of
+21 nine million nine hundred thousand dollars from the Nebraska
+22 Environmental Trust Fund, to be paid out in three annual installments of
+23 three million three hundred thousand dollars. The purposes listed in the
+24 grant application shall be consistent with the uses of the Water
+25 Resources Cash Fund provided in this section and shall be used to aid
+26 management actions taken to reduce consumptive uses of water, to enhance
+27 streamflows, to recharge ground water, or to support wildlife habitat in
+28 any river basin determined to be fully appropriated pursuant to section
+29 46-714 or designated as overappropriated pursuant to section 46-713.
+30 (b) If the application is granted, funds received from such grant
+31 shall be remitted to the State Treasurer for credit to the Water
+-8-
+
+LB1048 LB1048
+2026 2026
+1 Resources Cash Fund for the purpose of supporting the projects set forth
+2 in the grant application. The department shall include in its grant
+3 application documentation that the Legislature has authorized a transfer
+4 of three million three hundred thousand dollars from the General Fund
+5 into the Water Resources Cash Fund for each of fiscal years 2011-12 and
+6 2012-13 and has stated its intent to transfer three million three hundred
+7 thousand dollars to the Water Resources Cash Fund for fiscal year
+8 2013-14.
+9 (c) It is the intent of the Legislature that the department apply
+10 for an additional three-year grant that would begin in fiscal year
+11 2014-15, an additional three-year grant from the Nebraska Environmental
+12 Trust Fund that would begin in fiscal year 2017-18, and an additional
+13 three-year grant from the Nebraska Environmental Trust Fund that would
+14 begin in fiscal year 2020-21 if the criteria established in subsection
+15 (4) of section 81-15,175 are achieved.
+16 (7) (8) The department shall establish a subaccount within the Water
+17 Resources Cash Fund for the accounting of all money received as a grant
+18 from the Nebraska Environmental Trust Fund as the result of an
+19 application made pursuant to subsection (6) (7) of this section.
+20 (8) (9) Any funds transferred from the Nebraska Environmental Trust
+21 Fund to the Water Resources Cash Fund shall be placed within the
+22 subaccount created under subsection (7) (8) of this section and expended
+23 in accordance with section 81-15,168.
+24 (9) (10) The State Treasurer shall transfer one million dollars from
+25 the Water Resources Cash Fund to the Nitrogen Reduction Incentive Cash
+26 Fund as soon as administratively possible after July 19, 2024, but before
+27 June 30, 2025, on such dates and in such amounts as directed by the
+28 budget administrator of the budget division of the Department of
+29 Administrative Services.
+30 Sec. 5. Section 70-1003, Revised Statutes Supplement, 2025, is
+31 amended to read:
+-9-
+
+LB1048 LB1048
+2026 2026
+1 70-1003 (1)(a) There is hereby established an independent board to
+2 be known as the Nebraska Power Review Board. The board shall consist of
+3 five members, including at least one engineer, at least one attorney, and
+4 three additional persons. No more than one person who is or who has
+5 within four years preceding such person's appointment been either a
+6 director, an officer, or an employee of any electric utility or an
+7 elective state officer shall serve on the board at the same time. Any
+8 board member who previously was either a director, an officer, or an
+9 employee of any electric utility within four years preceding such board
+10 member's appointment shall refrain from taking any action or making any
+11 decision in any proceeding before the board that involves such electric
+12 utility for a period of four years after the date such board member
+13 ceased being a director, an officer, or an employee of such electric
+14 utility.
+15 (b) Members of the board shall be appointed by the Governor subject
+16 to the approval of the Legislature. Upon expiration of the terms of the
+17 members first appointed, the successors shall be appointed for terms of
+18 four years. No member of the board shall serve more than three
+19 consecutive terms. Any vacancy on the board arising other than from the
+20 expiration of a term shall be filled by appointment for the unexpired
+21 portion of the term, and any person appointed to fill a vacancy on the
+22 board shall be eligible for reappointment for two more consecutive terms.
+23 No more than three members of the board shall be registered members of
+24 that political party represented by the Governor.
+25 (2) Each member of the board shall receive one hundred dollars per
+26 day for each day actually and necessarily engaged in the performance of
+27 his or her duties, but not to exceed seven thousand dollars in any one
+28 year, except for the member designated to represent the board on the
+29 Southwest Power Pool Regional State Committee or its equivalent
+30 successor, who shall receive two hundred fifty dollars for each day
+31 actually and necessarily engaged in the performance of his or her duties,
+-10-
+
+LB1048 LB1048
+2026 2026
+1 not to exceed thirty-five thousand dollars in any one year. If the member
+2 designated to represent the board on the Southwest Power Pool Regional
+3 State Committee should for any reason no longer serve in that capacity
+4 during a year, the pay received while serving in such capacity shall not
+5 be used for purposes of calculating the seven-thousand-dollar limitation
+6 for board members not serving in that capacity. When another board member
+7 acts as the proxy for the designated Southwest Power Pool Regional State
+8 Committee member, he or she shall receive the same pay as the designated
+9 member would have for that activity. Pay received while serving as proxy
+10 for such designated member shall not be used for purposes of determining
+11 whether the seven-thousand-dollar limitation has been met for board
+12 members not serving as such designated member. Total pay to board members
+13 for activities related to the Southwest Power Pool shall not exceed an
+14 aggregate total of forty thousand dollars in any one year. Each member
+15 shall be reimbursed for expenses while so engaged as provided in sections
+16 81-1174 to 81-1177. The board shall have jurisdiction as provided in
+17 Chapter 70, article 10.
+18 (3) The board shall elect from their members a chairperson and a
+19 vice-chairperson. Decisions of the board shall require the approval of a
+20 majority of the members of the board.
+21 (4) The board shall employ an executive director and may employ such
+22 other staff necessary to carry out the duties pursuant to Chapter 70,
+23 article 10. The executive director shall serve at the pleasure of the
+24 board and shall be solely responsible to the board. The executive
+25 director shall be responsible for the administrative operations of the
+26 board and shall perform such other duties as may be delegated or assigned
+27 to him or her by the board. The board may obtain the services of experts
+28 and consultants necessary to carry out the board's duties pursuant to
+29 Chapter 70, article 10.
+30 (5) The board shall publish and submit a biennial report with annual
+31 data to the Governor, with copies to be filed with the Clerk of the
+-11-
+
+LB1048 LB1048
+2026 2026
+1 Legislature and with the Department of Water, Energy, and Environment.
+2 The report submitted to the Clerk of the Legislature shall be submitted
+3 electronically. The department shall consider the information in the
+4 Nebraska Power Review Board's report when the department prepares its own
+5 report reports pursuant to section sections 81-1606 and 81-1607. The
+6 report of the board shall include:
+7 (a) The assessments for the fiscal year imposed pursuant to section
+8 70-1020;
+9 (b) The gross income totals for each category of the industry and
+10 the industry total;
+11 (c) The number of suppliers against whom the assessment is levied,
+12 by category and in total;
+13 (d) The projected dollar costs of generation, transmission, and
+14 microwave applications, approved and denied;
+15 (e) The actual dollar costs of approved applications upon
+16 completion, and a summary of an informational hearing concerning any
+17 significant divergence between the projected and actual costs;
+18 (f) A description of Nebraska's current electric system and
+19 information on additions to and retirements from the system during the
+20 fiscal year, including microwave facilities;
+21 (g) A statistical summary of board activities and an expenditure
+22 summary;
+23 (h) A roster of power suppliers in Nebraska and the assessment each
+24 paid; and
+25 (i) Appropriately detailed historical and projected electric supply
+26 and demand statistics, including information on the total generating
+27 capacity owned by Nebraska suppliers and the total peak load demand of
+28 the previous year, along with an indication of how the industry will
+29 respond to the projected situation.
+30 (6) The board may, in its discretion, hold public hearings
+31 concerning the conditions that may indicate that retail competition in
+-12-
+
+LB1048 LB1048
+2026 2026
+1 the electric industry would benefit Nebraska's citizens and what steps,
+2 if any, should be taken to prepare for retail competition in Nebraska's
+3 electricity market. In determining whether to hold such hearings, the
+4 board shall consider the sufficiency of public interest.
+5 (7) The board may, at any time deemed beneficial by the board,
+6 submit a report to the Governor with copies to be filed with the Clerk of
+7 the Legislature and the Natural Resources Committee of the Legislature.
+8 The report filed with the Clerk of the Legislature and the committee
+9 shall be filed electronically. The report may include:
+10 (a) Whether or not a viable regional transmission organization and
+11 adequate transmission exist in Nebraska or in a region which includes
+12 Nebraska;
+13 (b) Whether or not a viable wholesale electricity market exists in a
+14 region which includes Nebraska;
+15 (c) To what extent retail rates have been unbundled in Nebraska;
+16 (d) A comparison of Nebraska's wholesale electricity prices to the
+17 prices in the region; and
+18 (e) Any other information the board believes to be beneficial to the
+19 Governor, the Legislature, and Nebraska's citizens when considering
+20 whether retail electric competition would be beneficial, such as, but not
+21 limited to, an update on deregulation activities in other states and an
+22 update on federal deregulation legislation.
+23 (8) The board may establish working groups of interested parties to
+24 assist the board in carrying out the powers set forth in subsections (6)
+25 and (7) of this section.
+26 Sec. 6. Section 77-383, Reissue Revised Statutes of Nebraska, is
+27 amended to read:
+28 77-383 The department may request from any state or local official
+29 or agency any information necessary to complete the report reports
+30 required under section 77-382 and subsection (2) of section 77-385. All
+31 state and local officials or agencies shall cooperate with the department
+-13-
+
+LB1048 LB1048
+2026 2026
+1 with respect to any such request.
+2 Sec. 7. Section 77-385, Reissue Revised Statutes of Nebraska, is
+3 amended to read:
+4 77-385 (1) The report required under section 77-382 and a summary
+5 of the report shall be submitted to the Governor, the Executive Board of
+6 the Legislative Council, and the chairpersons of the Legislature's
+7 Revenue and Appropriations Committees on or before October 15, 1991, and
+8 October 15 of every even-numbered year thereafter. The report submitted
+9 to the executive board and the committees shall be submitted
+10 electronically. The department shall, on or before December 1 of each
+11 even-numbered year, appear at a joint hearing of the Appropriations
+12 Committee of the Legislature and the Revenue Committee of the Legislature
+13 and present the report. Any supplemental information requested by three
+14 or more committee members shall be presented within thirty days after the
+15 request. The summary shall be included with or appended to the Governor's
+16 budget presented to the Legislature in odd-numbered years.
+17 (2)(a) In addition to the tax expenditure report required under
+18 section 77-382, the department shall prepare an annual report that
+19 focuses specifically on the tax expenditures relating to sales and use
+20 tax as follows:
+21 (i) For 2014 and every fourth year thereafter, the report shall
+22 analyze the actual or estimated revenue loss caused by the tax
+23 expenditures described in subdivisions (2)(a) through (c) of section
+24 77-382;
+25 (ii) For 2015 and every fourth year thereafter, the report shall
+26 analyze the actual or estimated revenue loss caused by the tax
+27 expenditures described in subdivisions (2)(d) through (f) of section
+28 77-382;
+29 (iii) For 2016 and every fourth year thereafter, the report shall
+30 analyze the actual or estimated revenue loss caused by the tax
+31 expenditures described in subdivisions (2)(g) through (j) of section
+-14-
+
+LB1048 LB1048
+2026 2026
+1 77-382; and
+2 (iv) For 2017 and every fourth year thereafter, the report shall
+3 analyze the actual or estimated revenue loss caused by the tax
+4 expenditures described in subdivisions (2)(k) through (m) of section
+5 77-382.
+6 (b) The report required under this subsection shall be submitted to
+7 the Governor, the Executive Board of the Legislative Council, and the
+8 chairpersons of the Revenue Committee of the Legislature and the
+9 Appropriations Committee of the Legislature on or before October 15 of
+10 each year. The report submitted to the executive board and the committees
+11 shall be submitted electronically. The department shall, on or before
+12 December 1 of each year, appear at a joint hearing of the Appropriations
+13 Committee of the Legislature and the Revenue Committee of the Legislature
+14 and present the report. Any supplemental information requested by three
+15 or more committee members shall be presented within thirty days after the
+16 request.
+17 Sec. 8. Section 77-27,238, Reissue Revised Statutes of Nebraska, is
+18 amended to read:
+19 77-27,238 (1) For taxable years beginning or deemed to begin on or
+20 after January 1, 2017, there shall be allowed to an employer of any
+21 eligible employee a nonrefundable credit, for not more than two years,
+22 against the income tax imposed by the Nebraska Revenue Act of 1967 in the
+23 amount of twenty percent of the employer's annual expenditures for any of
+24 the following services that are provided to eligible employees and that
+25 are incidental to the employer's business:
+26 (a) The payment of tuition at a Nebraska public institution of
+27 postsecondary education or the payment of the costs associated with a
+28 high school equivalency program for eligible employees; and
+29 (b) The provision of transportation of eligible employees to and
+30 from work.
+31 (2) The credit allowed under this section for any taxable year shall
+-15-
+
+LB1048 LB1048
+2026 2026
+1 not exceed the employer's actual tax liability for such taxable year.
+2 (3) The Department of Revenue shall submit a report electronically
+3 to the Clerk of the Legislature on or before July 1 of each year on (a)
+4 the number of employers claiming a credit under this section and (b) the
+5 number of eligible employees receiving the services for which credits are
+6 claimed.
+7 (3) (4) The Department of Revenue, in consultation with the
+8 Department of Health and Human Services, shall develop a process to
+9 verify that any employer claiming credits under this section qualifies
+10 for such credits.
+11 (4) (5) The Department of Revenue may adopt and promulgate rules and
+12 regulations necessary to carry out this section.
+13 (5) (6) For purposes of this section, eligible employee means a
+14 parent or caretaker relative (a) who is a member of a unit that received
+15 benefits under the state or federally funded Temporary Assistance for
+16 Needy Families program established in 42 U.S.C. 601 et seq., for any nine
+17 months of the eighteen-month period immediately prior to the employee's
+18 hiring date and (b) whose hiring date is on or after the first day of the
+19 taxable year for which the credit is claimed.
+20 Sec. 9. Section 77-6307, Reissue Revised Statutes of Nebraska, is
+21 amended to read:
+22 77-6307 (1) Each qualified small business, qualified investor, and
+23 qualified fund shall submit an annual report to the director by July 1 of
+24 each year. The report shall certify that the business, investor, or fund
+25 satisfies the requirements of the Angel Investment Tax Credit Act and
+26 shall include all information which will enable the Department of
+27 Economic Development to fulfill its reporting requirements under section
+28 77-6309.
+29 (2) A qualified small business that ceases all operations and
+30 becomes insolvent shall file a final report with the director in the form
+31 required by the director documenting its insolvency.
+-16-
+
+LB1048 LB1048
+2026 2026
+1 (3) To maintain the confidentiality of the qualified investor, the
+2 Department of Economic Development shall use a designated number to
+3 identify such persons or entities.
+4 (4) A qualified small business, qualified investor, or qualified
+5 fund that fails to file a complete annual report by July 1 shall, at the
+6 discretion of the director, be subject to a fine of two hundred dollars,
+7 revocation of its certification, or both.
+8 Sec. 10. Section 77-6521, Revised Statutes Cumulative Supplement,
+9 2024, is amended to read:
+10 77-6521 (1) The Department of Economic Development and the
+11 Department of Revenue shall jointly submit electronically an annual
+12 report to the Legislature no later than October 31 of each year. The
+13 report shall be on a fiscal year, accrual basis that satisfies the
+14 requirements set by the Governmental Accounting Standards Board. The
+15 Department of Economic Development and the Department of Revenue shall
+16 together, on or before December 15 of each even-numbered year, appear at
+17 a joint hearing of the Appropriations Committee of the Legislature and
+18 the Revenue Committee of the Legislature and present the report. Any
+19 supplemental information requested by three or more committee members
+20 must be provided within thirty days after the request.
+21 (2) The report shall list (a) the agreements which have been signed
+22 during the previous calendar year, (b) the agreements which are still in
+23 effect, and (c) the identity of each taxpayer that is a party to an
+24 agreement.
+25 (3) The report shall provide information on agreement-specific total
+26 credits used every two years for each agreement. The report shall
+27 disclose the identity of the taxpayer and the total credits used during
+28 the immediately preceding two years, expressed as a single, aggregated
+29 total. The information required to be reported under this subsection
+30 shall not be reported for the first year the taxpayer maintains the
+31 required employment threshold. The information on first-year credits used
+-17-
+
+LB1048 LB1048
+2026 2026
+1 shall be combined with and reported as part of the second year.
+2 Thereafter, the information on credits used for succeeding years shall be
+3 reported for each agreement every two years containing information on two
+4 years of credits used.
+5 (4) No information shall be provided in the report that is protected
+6 by state or federal confidentiality laws.
+7 Sec. 11. Section 77-6604, Revised Statutes Cumulative Supplement,
+8 2024, is amended to read:
+9 77-6604 (1) A business may apply to the director for certification
+10 as an eligible business. The program certification application shall be
+11 in the form and be made under the procedures specified by the director.
+12 (2) Within thirty days after receiving a program certification
+13 application under this section, the director shall certify the business
+14 as satisfying the conditions required of an eligible business, request
+15 additional information, or deny the program certification application. If
+16 the director requests additional information, the director shall certify
+17 the business or deny the program certification application within thirty
+18 days after receiving the additional information. If the director neither
+19 certifies the business nor denies the program certification application
+20 within thirty days after receiving the original program certification
+21 application or within thirty days after receiving the additional
+22 information requested, whichever is later, then the program certification
+23 application is deemed approved if the business meets the requirements in
+24 subsection (3) of this section. A business that applies for program
+25 certification and is denied may reapply.
+26 (3) To be certified as an eligible business under the Renewable
+27 Chemical Production Tax Credit Act, a business shall meet all of the
+28 following requirements:
+29 (a) The business produced at least one million pounds of renewable
+30 chemicals in this state during the calendar year for which tax credits
+31 are sought;
+-18-
+
+LB1048 LB1048
+2026 2026
+1 (b) The business is physically located in this state;
+2 (c) The business organized, expanded, or located in this state on or
+3 after January 1, 2021; and
+4 (d) The business is in compliance with all agreements entered into
+5 under the act and pursuant to any other tax credits or programs
+6 administered by the Department of Economic Development or the Department
+7 of Revenue.
+8 (4)(a) An eligible business shall enter into an agreement with the
+9 director for the successful completion of all requirements of the act.
+10 The agreement may certify the business to receive tax credits under the
+11 act for up to four years.
+12 (b) As part of the agreement, the eligible business shall agree to
+13 collect and provide any information reasonably required by the Department
+14 of Economic Development and director or the Department of Revenue in
+15 order to allow the director and department to fulfill the their reporting
+16 obligations under section 77-6610.
+17 Sec. 12. Section 77-6610, Revised Statutes Cumulative Supplement,
+18 2024, is amended to read:
+19 77-6610 (1) On or before October 31 of each year, the Department of
+20 Economic Development January 31, 2024, and on or before each January 31
+21 thereafter, the director and the Department of Revenue shall
+22 electronically submit an annual report to the Legislature a report on the
+23 Renewable Chemical Production Tax Credit Act to the Revenue Committee of
+24 the Legislature. At a minimum, the report shall include the following
+25 information regarding tax credits and the recipients of such credits:
+26 (a) The aggregate number of pounds, and a list of each type, of
+27 renewable chemicals produced in Nebraska by all recipients (i) during the
+28 calendar year prior to the calendar year for which each recipient first
+29 received tax credits and (ii) for each calendar year thereafter;
+30 (b) The aggregate sales of all renewable chemicals produced by all
+31 recipients in each calendar year for which there are at least five
+-19-
+
+LB1048 LB1048
+2026 2026
+1 recipients;
+2 (c) The aggregate number of pounds, and a list of each type, of
+3 biomass feedstock used in the production of renewable chemicals in
+4 Nebraska by all recipients (i) during the calendar year prior to the
+5 calendar year for which each recipient first received tax credits and
+6 (ii) for each calendar year thereafter;
+7 (d) The number of employees located in Nebraska of all recipients
+8 (i) during the calendar year prior to the calendar year for which each
+9 recipient first received tax credits and (ii) for each calendar year
+10 thereafter;
+11 (e) The number and aggregate amount of tax credits issued for each
+12 calendar year;
+13 (f) The number of eligible businesses placed on the wait list for
+14 each calendar year and the total number of eligible businesses remaining
+15 on the wait list at the end of that calendar year;
+16 (g) The dollar amount of tax credit claims placed on the wait list
+17 for each calendar year and the total dollar amount of tax credit claims
+18 remaining on the wait list at the end of that calendar year;
+19 (h) For each eligible business which received tax credits during
+20 each calendar year: (i) The identity of the eligible business; (ii) the
+21 amount of the tax credits; and (iii) the manner in which the eligible
+22 business first qualified as an eligible business, whether by organizing,
+23 expanding, or locating in the state; and
+24 (i) The total amount of all tax credits claimed during each calendar
+25 year, and the portion issued as refunds.
+26 (2) In order to protect the presumption of confidentiality provided
+27 for in section 77-6609, the Department of Economic Development director
+28 and the Department of Revenue shall report all information in an
+29 aggregate form to prevent, to the extent reasonably possible, information
+30 being attributable to any particular eligible business, except as
+31 provided in subdivision (1)(h) of this section.
+-20-
+
+LB1048 LB1048
+2026 2026
+1 Sec. 13. Section 77-6837, Revised Statutes Cumulative Supplement,
+2 2024, is amended to read:
+3 77-6837 (1) Beginning in 2021, the director and the Tax Commissioner
+4 shall jointly submit electronically an annual report for the previous
+5 fiscal year to the Legislature no later than October 31 of each year. The
+6 report shall be on a fiscal year, accrual basis that satisfies the
+7 requirements set by the Governmental Accounting Standards Board. The
+8 Department of Economic Development and the Department of Revenue shall
+9 together, on or before December 15 of each even-numbered year, appear at
+10 a joint hearing of the Appropriations Committee of the Legislature and
+11 the Revenue Committee of the Legislature and present the report. Any
+12 supplemental information requested by three or more committee members
+13 shall be presented within thirty days after the request.
+14 (2) The report shall list (a) the agreements which have been signed
+15 during the previous year, (b) the agreements which are still in effect,
+16 (c) the identity of each taxpayer who is party to an agreement, and (d)
+17 the qualified location or locations.
+18 (3) The report shall also state, for taxpayers who are parties to
+19 agreements, by industry group (a) the specific incentive options applied
+20 for under the ImagiNE Nebraska Act, (b) the refunds and reductions in tax
+21 allowed on the investment, (c) the credits earned, (d) the credits used
+22 to reduce the corporate income tax and the credits used to reduce the
+23 individual income tax, (e) the credits used to obtain sales and use tax
+24 refunds, (f) the credits used against withholding liability, (g) the
+25 credits used for job training, (h) the credits used for infrastructure
+26 development, (i) the number of jobs created under the act, (j) the
+27 expansion of capital investment, (k) the estimated wage levels of jobs
+28 created under the act subsequent to the application date, (l) the total
+29 number of qualified applicants, (m) the projected future state revenue
+30 gains and losses, (n) the sales tax refunds owed, (o) the credits
+31 outstanding under the act, (p) the value of personal property exempted by
+-21-
+
+LB1048 LB1048
+2026 2026
+1 class in each county under the act, (q) the total amount of the payments,
+2 (r) the amount of workforce training and infrastructure development loans
+3 issued, outstanding, repaid, and delinquent, and (r) (s) the value of
+4 health coverage provided to employees at qualified locations during the
+5 year who are not base-year employees and who are paid the required
+6 compensation. The report shall include the estimate of the amount of
+7 sales and use tax refunds to be paid and tax credits to be used as were
+8 required for the October forecast under section 77-6839.
+9 (4) In estimating the projected future state revenue gains and
+10 losses, the report shall detail the methodology utilized, state the
+11 economic multipliers and industry multipliers used to determine the
+12 amount of economic growth and positive tax revenue, describe the analysis
+13 used to determine the percentage of new jobs attributable to the ImagiNE
+14 Nebraska Act, and identify limitations that are inherent in the analysis
+15 method.
+16 (5) The report shall provide an explanation of the audit and review
+17 processes of the Department of Economic Development and the Department of
+18 Revenue, as applicable, in approving and rejecting applications or the
+19 grant of incentives and in enforcing incentive recapture. The report
+20 shall also specify the median period of time between the date of
+21 application and the date the agreement is executed for all agreements
+22 executed by June 30 of the current year.
+23 (6) The report shall provide information on agreement-specific total
+24 incentives used every two years for each agreement. The report shall
+25 disclose (a) the identity of the taxpayer, (b) the qualified location or
+26 locations, and (c) the total credits used and refunds approved during the
+27 immediately preceding two years expressed as a single, aggregated total.
+28 The incentive information required to be reported under this subsection
+29 shall not be reported for the first year the taxpayer attains the
+30 required employment and investment thresholds. The information on first-
+31 year incentives used shall be combined with and reported as part of the
+-22-
+
+LB1048 LB1048
+2026 2026
+1 second year. Thereafter, the information on incentives used for
+2 succeeding years shall be reported for each agreement every two years
+3 containing information on two years of credits used and refunds approved.
+4 The incentives used shall include incentives which have been approved by
+5 the director or Tax Commissioner, as applicable, but not necessarily
+6 received, during the previous two years.
+7 (7) The report shall include an executive summary which shows
+8 aggregate information for all agreements for which the information on
+9 incentives used in subsection (6) of this section is reported as follows:
+10 (a) The total incentives used by all taxpayers for agreements detailed in
+11 subsection (6) of this section during the previous two years; (b) the
+12 number of agreements; (c) the new jobs at the qualified location or
+13 locations for which credits have been granted; (d) the average
+14 compensation paid to employees in the state in the year of application
+15 and for the new jobs at the qualified location or locations; and (e) the
+16 total investment for which incentives were granted. The executive summary
+17 shall summarize the number of states which grant investment tax credits,
+18 job tax credits, sales and use tax refunds for qualified investment, and
+19 personal property tax exemptions and the investment and employment
+20 requirements under which they may be granted.
+21 (8) No information shall be provided in the report or in
+22 supplemental information that is protected by state or federal
+23 confidentiality laws.
+24 Sec. 14. Section 77-6928, Revised Statutes Cumulative Supplement,
+25 2024, is amended to read:
+26 77-6928 (1) On or before October 31 July 15, 2024, and on or before
+27 July 15 of each year, the Department of Economic Development and the
+28 Department of Revenue shall electronically submit a joint annual report
+29 to the Legislature thereafter, the Director of Economic Development shall
+30 prepare a report that includes:
+31 (a) The total amount of investment at qualified locations in the
+-23-
+
+LB1048 LB1048
+2026 2026
+1 previous calendar year by taxpayers who are receiving incentives pursuant
+2 to the Urban Redevelopment Act;
+3 (b) The total number of equivalent employees added in the previous
+4 calendar year by taxpayers who are receiving incentives pursuant to the
+5 act; and
+6 (c) The total amount of credits claimed and refunds approved in the
+7 previous calendar year under the act.
+8 (2) The report shall also provide information on project-specific
+9 total incentives used every two years for each approved project,
+10 including (a) the identity of the taxpayer, (b) the qualified location of
+11 the project, and (c) the total credits used and refunds approved during
+12 the immediately preceding two years expressed as a single, aggregated
+13 total. The incentive information required to be reported under this
+14 subsection shall not be reported for the first year the taxpayer attains
+15 the required employment and investment thresholds. The information on
+16 first-year incentives used shall be combined with and reported as part of
+17 the second year. Thereafter, the information on incentives used for
+18 succeeding years shall be reported for each project every two years and
+19 shall include information on two years of credits used and refunds
+20 approved. The incentives used shall include incentives that have been
+21 approved by the Director of Economic Development, but not necessarily
+22 received, during the previous two calendar years.
+23 (3) On or before September 1, 2024, and on or before September 1 of
+24 each year thereafter, the Department of Economic Development shall
+25 present the report electronically to the Appropriations Committee of the
+26 Legislature. Any supplemental information requested by three or more
+27 committee members shall be presented within thirty days after the
+28 request.
+29 (4) No information shall be provided in the report that is protected
+30 by state or federal confidentiality laws.
+31 Sec. 15. Section 81-125, Reissue Revised Statutes of Nebraska, is
+-24-
+
+LB1048 LB1048
+2026 2026
+1 amended to read:
+2 81-125 The Governor shall on or before January 15 of each odd-
+3 numbered year present to the Legislature a complete budget for all the
+4 activities of the state receiving appropriations or requesting
+5 appropriations, except that the Governor during his or her first year in
+6 office shall present such budget to the Legislature on or before February
+7 1. Such budget shall be a tentative work program for the coming biennium,
+8 shall contain a full and itemized report of the expenditures from
+9 appropriations made by the previous Legislature and the items which the
+10 Governor deems worthy of consideration for the coming biennium, for the
+11 respective departments, offices, and institutions, and for all other
+12 purposes, and shall contain the estimated revenue from taxation, the
+13 estimated revenue from sources other than taxation, an estimate of the
+14 amount required to be raised by taxation and the sales and income tax
+15 rates necessary to raise such amount, the revenue foregone by operation
+16 of laws in effect at the time of such report granting tax expenditures
+17 and reduced tax liabilities as identified in the reports required by
+18 sections 77-5731 and 77-6837, and recommendations as to deficiency
+19 funding requirements pursuant to section 81-126. The summary of the tax
+20 expenditure report prepared pursuant to subsection (1) of section 77-385
+21 and a summary of the reports required by sections 77-5731 and 77-6837
+22 shall be included with or appended to the budget presented to the
+23 Legislature. The Governor may make recommendations whether to continue or
+24 eliminate, in whole or in part, each tax expenditure and incentive
+25 program or to limit the duration of particular tax expenditures and
+26 incentives to a fixed number of years and shall include his or her
+27 reasoning for each recommendation, if any. The recommendations shall be
+28 transmitted to the Revenue Committee of the Legislature at the same time
+29 the Governor submits a budget as required in this section. The budget as
+30 transmitted to the Legislature shall show the estimated requirements for
+31 each activity of the state as prepared by the Department of
+-25-
+
+LB1048 LB1048
+2026 2026
+1 Administrative Services and the final recommendation of the Governor. The
+2 budget shall comprise the complete report to the Legislature of all
+3 appropriations made for the current biennium and expenditures therefrom
+4 by all agencies receiving appropriations, and the report of expenditures
+5 contained in the budget shall be in lieu of all other biennial or other
+6 financial reports required by statute to the Legislature by expending
+7 agencies of appropriations and expenditures for their own activities
+8 except the biennial report of the State Treasurer and Director of
+9 Administrative Services.
+10 Sec. 16. Section 81-1113, Revised Statutes Supplement, 2025, is
+11 amended to read:
+12 81-1113 The budget division shall prepare the executive budget in
+13 accordance with the wishes and policies of the Governor. The budget
+14 division shall have the following duties, powers, and responsibilities:
+15 (1) Shall prescribe the forms and procedures to be employed by all
+16 departments and agencies of the state in compiling and submitting their
+17 individual budget requests and shall set up a budget calendar which shall
+18 provide for (a) the date, not later than July 15 of each even-numbered
+19 year, for distribution of instructions, (b) the date by which time
+20 requests for appropriations by each agency shall be submitted, and (c)
+21 the period during which such public hearings as the Governor may elect
+22 shall be held for each department and agency. The budget request shall be
+23 submitted each even-numbered year no later than the date provided in
+24 subsection (1) of section 81-132, shall include the intended receipts and
+25 expenditures by programs , subprograms, and activities and such
+26 additional information as the administrator may deem appropriate for each
+27 fiscal year, including the certification described in subdivision (4) of
+28 this section, shall be made upon a biennial basis, and shall include
+29 actual receipts and actual expenditures for each fiscal year of the most
+30 recently completed biennium and the first year of the current biennium
+31 and estimates for the second year of the current biennium and each year
+-26-
+
+LB1048 LB1048
+2026 2026
+1 of the next ensuing biennium;
+2 (2) Shall prescribe the forms and procedures to be employed by all
+3 departments and agencies of the state in compiling and submitting their
+4 proposed changes to existing appropriations for the biennium in progress.
+5 The budget division shall distribute instructions and forms to all
+6 departments and agencies no later than September 15 of each odd-numbered
+7 year. Departments and agencies shall submit their proposed changes no
+8 later than the date provided in subsection (2) of section 81-132;
+9 (3) Shall work with each governmental department and agency in
+10 developing performance standards for each program , subprogram, and
+11 activity to measure and evaluate present as well as projected levels of
+12 expenditures. The budget division shall also work with the Department of
+13 Health and Human Services to develop key goals, benchmarks, and methods
+14 of quantification of progress required pursuant to sections 81-3133.01 to
+15 81-3133.03;
+16 (4)(a) Shall develop a certification form and procedure to be
+17 included in each budget request under subdivision (1) of this section
+18 through which each department and agency shall certify, for each program
+19 or practice it administers, whether such program or practice is an
+20 evidence-based program or practice, or, if not, whether such program or
+21 practice is reasonably capable of becoming an evidence-based program or
+22 practice;
+23 (b) For purposes of this subdivision (4):
+24 (i) Evidence-based means that a program or practice (A) offers a
+25 high level of research on effectiveness, determined as a result of
+26 multiple rigorous evaluations, such as randomized controlled trials and
+27 evaluations that incorporate strong comparison group designs or a single
+28 large multisite randomized study and (B) to the extent practicable, has
+29 specified procedures that allow for successful replication;
+30 (ii) Program or practice means a function or activity that is
+31 sufficiently identifiable as a discrete unit of service; and
+-27-
+
+LB1048 LB1048
+2026 2026
+1 (iii) Reasonably capable of becoming an evidence-based program or
+2 practice means the program or practice is susceptible to quantifiable
+3 benchmarks that measure service delivery, client or customer
+4 satisfaction, or efficiency;
+5 (4) (5) Shall, following passage of legislative appropriations, be
+6 responsible for the administration of the approved budget through
+7 budgetary allotments;
+8 (5) (6) Shall be responsible for a monthly budgetary report for each
+9 department and agency showing comparisons between actual expenditures and
+10 allotments, which report shall be subject to review by the director and
+11 budget administrator; and
+12 (6) (7) Shall be responsible for the authorization of employee
+13 positions. Such authorizations shall be based on the following:
+14 (a) A requirement that a sufficient budget program appropriation and
+15 salary limitation exist to fully fund all authorized positions;
+16 (b) A requirement that permanent full-time positions which have been
+17 vacant for ninety days or more be reviewed and reauthorized prior to
+18 being filled. If requested by the budget division, the personnel division
+19 of the Department of Administrative Services shall review such vacant
+20 position to determine the proper classification for the position;
+21 (c) A requirement that authorized positions accurately reflect
+22 legislative intent contained in legislative appropriation and intent
+23 bills; and
+24 (d) Other relevant criteria as determined by the budget
+25 administrator.
+26 Sec. 17. Section 81-1139.02, Revised Statutes Supplement, 2025, is
+27 amended to read:
+28 81-1139.02 Beginning July 1, 2026, the Department of Administrative
+29 Services shall assume the duties of the Vacant Building and Excess Land
+30 Committee. :
+31 (1) The Suggestion Award Board; and
+-28-
+
+LB1048 LB1048
+2026 2026
+1 (2) The Vacant Building and Excess Land Committee.
+2 Sec. 18. Section 81-1354.01, Reissue Revised Statutes of Nebraska,
+3 is amended to read:
+4 81-1354.01 Nothing in sections 81-1301 to 81-1329 81-1354 shall
+5 prohibit state employees from exercising their rights granted in Chapter
+6 48, article 8, or any other applicable sections of law.
+7 Sec. 19. Section 81-1378, Reissue Revised Statutes of Nebraska, is
+8 amended to read:
+9 81-1378 (1) The dates indicated in sections 81-1379 to 81-1383
+10 81-1384 shall refer to those dates immediately preceding the beginning of
+11 the contract period for which negotiations are being conducted.
+12 (2) When any date provided in sections 81-1379 to 81-1383 81-1384
+13 falls on a Saturday, a Sunday, or any day declared by statutory enactment
+14 or proclamations of the Governor to be a holiday, the next following day
+15 which is not a Saturday, a Sunday, or a day declared by the enactment or
+16 proclamation to be a holiday shall be deemed to be the day indicated by
+17 such date.
+18 (3) The dates indicated in sections 81-1382 and 81-1383 are
+19 jurisdictional. Failure of either party to act in a timely manner shall
+20 result in a jurisdictional bar for either the commission or Supreme
+21 Court.
+22 Sec. 20. Section 81-1430, Revised Statutes Supplement, 2025, is
+23 amended to read:
+24 81-1430 (1) A task force is hereby established within the Nebraska
+25 Commission on Law Enforcement and Criminal Justice for the purposes of
+26 investigating and studying human trafficking, the methods for advertising
+27 human trafficking services, and the victimization of individuals coerced
+28 to participate in human trafficking. The task force terminates July 1,
+29 2026.
+30 (2) The task force shall examine the extent to which human
+31 trafficking is prevalent in this state, the scope of efforts being taken
+-29-
+
+LB1048 LB1048
+2026 2026
+1 to prevent human trafficking from occurring, and the services available
+2 to victims of human trafficking in this state. The task force shall
+3 utilize information and research available from the Innocence Lost
+4 National Initiative. The task force shall research and recommend a model
+5 of rehabilitative services for victims of human trafficking that includes
+6 input from the areas of law enforcement, social services, the legal
+7 profession, the judiciary, mental health, and immigration. The task force
+8 shall also investigate the limitations upon victims who wish to come
+9 forward and seek medical attention; investigate the potential to stop
+10 human trafficking; and investigate the potential to promote recovery, to
+11 protect families and children who may be profoundly impacted by such
+12 abuse, and to save lives.
+13 (3)(a) The Department of Labor shall develop or select informational
+14 posters for placement around the state. The posters shall be in English,
+15 Spanish, and any other language deemed appropriate by the department. The
+16 posters shall include a toll-free telephone number a person may call for
+17 assistance, preferably the National Human Trafficking Resource Center
+18 Hotline (888)373-7888.
+19 (b) Posters shall be placed in rest stops, strip clubs, and casinos.
+20 The department shall work with local businesses and nonprofit entities
+21 associated with the prevention of human trafficking to voluntarily place
+22 additional signs in high schools, postsecondary educational institutions,
+23 gas stations, hotels, hospitals, health care clinics, urgent care
+24 centers, airports, train stations, bus stations, and other locations
+25 around the state deemed appropriate by the department.
+26 (c) Prior to July 1, 2026, the department shall work with the task
+27 force to carry out this subsection.
+28 (4) The task force shall consist of the following members:
+29 (a) The Attorney General or his or her designee;
+30 (b) The executive director of the Nebraska Commission on Law
+31 Enforcement and Criminal Justice;
+-30-
+
+LB1048 LB1048
+2026 2026
+1 (c) The Superintendent of Law Enforcement and Public Safety or his
+2 or her designee;
+3 (d) The Director of Correctional Services or his or her designee;
+4 (e) The chief of police or director of public safety of a city of
+5 two hundred thousand inhabitants or more as determined by the most recent
+6 federal decennial census or the most recent revised certified count by
+7 the United States Bureau of the Census;
+8 (f) The chief of police or director of public safety of a city of
+9 less than two hundred thousand inhabitants as determined by the most
+10 recent federal decennial census or the most recent revised certified
+11 count by the United States Bureau of the Census;
+12 (g) A county sheriff;
+13 (h) A county attorney;
+14 (i) A county commissioner;
+15 (j) A mayor or city manager;
+16 (k) A person involved with the control or prevention of juvenile
+17 delinquency;
+18 (l) A person involved with the control or prevention of child abuse;
+19 (m) The Commissioner of Education or his or her designee;
+20 (n) The director of the Commission on Latino-Americans or his or her
+21 designee; and
+22 (o) Six members, at least three of whom shall be women, from the
+23 public at large.
+24 (5) The Governor shall appoint the members of the task force listed
+25 in subdivisions (4)(e) through (l) and (o) of this section for terms as
+26 provided in subsection (6) of this section. The membership of the task
+27 force shall represent varying geographic areas and large and small
+28 political subdivisions. One member from the public at large shall be a
+29 professional representing child welfare, and one member of the public at
+30 large shall represent juvenile pretrial diversion programs.
+31 (6) The members of the task force appointed by the Governor shall
+-31-
+
+LB1048 LB1048
+2026 2026
+1 serve six-year terms, except that of the members first appointed, four
+2 shall serve initial two-year terms, four shall serve initial four-year
+3 terms, and six shall serve initial six-year terms from January 1 next
+4 succeeding their appointments. Thereafter, all members shall serve six-
+5 year terms. A member may be reappointed at the expiration of his or her
+6 term. Any vacancy occurring otherwise than by expiration of a term shall
+7 be filled for the balance of the unexpired term in the same manner as the
+8 original appointment.
+9 (7) No member shall serve beyond the time when he or she holds the
+10 office, employment, or status by reason of which he or she was initially
+11 eligible for appointment. Any member of the task force appointed by the
+12 Governor may be removed from the task force for cause upon notice and an
+13 opportunity to be heard at a public hearing. One of the causes for
+14 removal shall be absence from three regularly scheduled meetings of the
+15 task force during any six-month period when the member has failed to
+16 advise the task force in advance of such meeting that he or she will be
+17 absent and stating a reason therefor.
+18 (8) The chairperson of the task force shall be designated by the
+19 Governor to serve at the pleasure of the Governor. The chairperson shall
+20 be the chief executive officer of the task force but may delegate such of
+21 his or her duties to other members of the task force as may be authorized
+22 by the task force.
+23 (9) Notwithstanding any provision of law, ordinance, or charter
+24 provision to the contrary, membership on the task force shall not
+25 disqualify any member from holding any other public office or employment
+26 or cause the forfeiture thereof.
+27 (10) The members of the task force shall serve on the task force
+28 without compensation, but they shall be entitled to receive reimbursement
+29 for expenses incurred incident to such service as provided in sections
+30 81-1174 to 81-1177.
+31 (11) Eleven members of the task force shall constitute a quorum for
+-32-
+
+LB1048 LB1048
+2026 2026
+1 the transaction of any business or the exercise of any power of the task
+2 force. The task force shall have the power to act by a majority of the
+3 members present at any meeting at which a quorum is in attendance.
+4 (12) Every July 1 and December 1 until July 1, 2026, the task force
+5 shall report electronically to the Clerk of the Legislature the results
+6 of its investigation and study and its recommendations, if any, together
+7 with drafts of legislation necessary to carry its recommendations into
+8 effect by filing the report with the clerk.
+9 Sec. 21. Section 81-1504.01, Reissue Revised Statutes of Nebraska,
+10 is amended to read:
+11 81-1504.01 The department shall provide the following information
+12 electronically to the Governor and to the Clerk of the Legislature by
+13 December 1 of each year:
+14 (1) A report by type of service or aid provided by the use and
+15 distribution of federal funds received by the department. The report
+16 shall also include user fees, permit fees, license fees, and application
+17 fees authorized by the federal Environmental Protection Agency as
+18 follows:
+19 (a) Actual expenditure of each budget program grant or authorized
+20 fees for the most recently completed state fiscal year, including a list
+21 of expenditures by funding source state matching funds;
+22 (b) Current budget and planned use and distribution of each budget
+23 program grant and authorized fees for the current state fiscal year,
+24 including a list of expenditures by funding source state matching funds;
+25 (c) A summary of the projected funding level of each budget program
+26 grant and authorized fees and the impact of federal mandates and
+27 regulations upon the future use of federal funding each grant and
+28 authorized fees; and
+29 (d) Program summaries including statistical summaries when
+30 applicable for the most recently completed state fiscal year and program
+31 activity goals for the current state fiscal year;
+-33-
+
+LB1048 LB1048
+2026 2026
+1 (2) A summary of regulations of the federal Environmental Protection
+2 Agency which the department is required to implement and which do not
+3 include federal funding assistance and the possible financial impact to
+4 the state and political subdivisions;
+5 (3) A report by type of service or aid provided by the use and
+6 distribution of state general and cash funds, including user fees, permit
+7 fees, license fees, and application fees, to carry out activities that
+8 are not funded by federal grants as follows:
+9 (a) Actual expenditure of state funds, by agency sections, for the
+10 most recently completed state fiscal year, including a breakdown of
+11 expenditures by personal services, operations, travel, capital outlay,
+12 and consulting and contractual services;
+13 (b) Current budget and planned use and distribution of state funds,
+14 by budget program agency sections, for the current state fiscal year,
+15 including a breakdown of expenditures for aid and operations personal
+16 services, operations, travel, capital outlay, and consulting and
+17 contractual services;
+18 (c) A summary of projected program funding needs based upon the
+19 statutory requirements and public demand for services and the
+20 department's assessment of anticipated needs statewide; and
+21 (d) Program summaries including statistical summaries when
+22 applicable for the most recently completed state fiscal year and program
+23 activity goals for the current state fiscal year;
+24 (4) A report regarding staff turnover by job class and the
+25 department's assessment of its ability to hire and retain qualified staff
+26 considering the state's personnel pay plan;
+27 (5) A report listing the method used by each new or existing
+28 licensee, permittee, or other person who is required by the department to
+29 establish proof of financial responsibility; and
+30 (6) A report for the previous state fiscal year relating to the
+31 purpose of the Nebraska Litter Reduction and Recycling Act and of funds
+-34-
+
+LB1048 LB1048
+2026 2026
+1 credited to the Nebraska Litter Reduction and Recycling Fund; .
+2 The reports and summaries submitted to the Clerk of the Legislature
+3 shall be submitted electronically.
+4 (7) A report for the previous state fiscal year relating to the use
+5 of the Water Resources Cash Fund including details regarding the use and
+6 cost of activities carried out by the department and details regarding
+7 the use and cost of activities carried out by each natural resources
+8 district that received funds from the Water Resources Cash Fund;
+9 (8) A report designed to identify emerging trends related to energy
+10 supply, demand, and conservation and to specify the level of statewide
+11 energy need within the following sectors: (a) Agricultural; (b)
+12 commercial; (c) residential; (d) industrial; (e) transportation; (f)
+13 utilities; (g) government; and (h) any other sector that the director
+14 determines to be useful, that shall include, but not be limited to:
+15 (i) An assessment of the state's energy resources, including
+16 examination of the current energy supplies and any feasible alternative
+17 sources;
+18 (ii) The estimated reduction in annual energy consumption resulting
+19 from various energy conservation measures;
+20 (iii) The status of the ongoing studies of the department pursuant
+21 to subdivisions (35) through (58) of section 81-1504;
+22 (iv) Recommendations to the Governor and the Legislature for
+23 administrative and legislative actions to accomplish the purposes of this
+24 section and section 81-1606; and
+25 (v) The use of funds disbursed during the previous state fiscal year
+26 under sections 81-1635 to 81-1641. The use of such funds shall be
+27 reported each year until the funds are completely disbursed and all
+28 contractual obligations have expired or otherwise terminated;
+29 (9) A report that documents all direct and indirect costs incurred
+30 in the previous fiscal year in carrying out the Livestock Waste
+31 Management Act, including (a) the number of inspections conducted, (b)
+-35-
+
+LB1048 LB1048
+2026 2026
+1 the number of animal feeding operations with livestock waste control
+2 facilities, (c) the number of animal feeding operations inspected, (d)
+3 the size of the livestock waste control facilities, (e) the results of
+4 water quality monitoring programs, and (f) any other elements relating to
+5 carrying out the act. The Appropriations Committee of the Legislature
+6 shall review the report in its analysis of executive programs in order to
+7 verify that the revenue generated from fees was used solely to offset
+8 appropriate and reasonable costs associated with the Livestock Waste
+9 Management Act; and
+10 (10) A report that documents all direct and indirect program costs
+11 incurred in the previous fiscal year in carrying out the air quality
+12 permit program as provided in section 81-1505.04. The Appropriations
+13 Committee of the Legislature shall review such report in its analysis of
+14 executive programs in order to verify that revenue generated from
+15 emission fees was used solely to offset appropriate and reasonable costs
+16 associated with the air quality permit program. The report shall identify
+17 costs incurred by the department to administer the permit program for
+18 each major source. In addition, the department shall identify costs
+19 incurred by primary activity and not specific to a major source.
+20 Sec. 22. Section 81-1505.04, Reissue Revised Statutes of Nebraska,
+21 is amended to read:
+22 81-1505.04 (1)(a) The department shall collect an annual emission
+23 fee from major sources of air pollution. Each major source shall pay the
+24 emission fee for regulated pollutants in the amount of twenty-five
+25 dollars per ton per pollutant or as adjusted pursuant to this section.
+26 The fee shall be based upon the amount of emissions of each regulated
+27 pollutant as reported or estimated by the source in the previous calendar
+28 year, but fees shall not be paid on amounts in excess of four thousand
+29 tons per year for any regulated pollutant.
+30 (b) Beginning with calendar year 2001 emissions, fees shall not be
+31 paid for a mid-sized electric generation facility on amounts in excess of
+-36-
+
+LB1048 LB1048
+2026 2026
+1 four hundred tons per year for any regulated pollutant.
+2 (c) A mid-sized electric generation facility owned by a municipality
+3 shall continue to be considered a separate mid-sized electric generation
+4 facility for purposes of this section even if the facility is
+5 subsequently permitted with another general unit larger than one hundred
+6 fifteen megawatts under separate ownership. Each facility under separate
+7 ownership shall be considered a separate major source for purposes of
+8 this section.
+9 (d) For purposes of this section, mid-sized electric generation
+10 facility means a facility that:
+11 (i) Uses coal as the primary source of fuel in the facility's
+12 largest generation unit;
+13 (ii) Has a name plate generating capacity of between seventy and one
+14 hundred fifteen megawatts in the facility's largest generation unit; and
+15 (iii) Is not operating in a political subdivision which has been
+16 delegated the authority to enforce the air quality permit program within
+17 its jurisdiction.
+18 (2)(a) The emission fee may be increased or decreased annually by
+19 the department by the percentage difference between the Consumer Price
+20 Index for the most recent year ending before the beginning of such year
+21 and the Consumer Price Index for the year 1989 or as required to pay all
+22 reasonable direct and indirect costs of developing and administering the
+23 air quality permit program. For purposes of this section, Consumer Price
+24 Index means the change in the price of goods and services for all urban
+25 consumers published by the United States Department of Labor at the close
+26 of the twelve-month period ending on August 31 of each year.
+27 (b) For purposes of this section, reasonable direct and indirect
+28 costs of developing and administering the air quality permit program, as
+29 required under the federal Clean Air Act, as the act existed on May 31,
+30 2001, 42 U.S.C. 7661a through f, include:
+31 (i) Consideration of any associated overhead charges for personnel,
+-37-
+
+LB1048 LB1048
+2026 2026
+1 equipment, buildings, and vehicles;
+2 (ii) Reviewing and acting on any application for a permit or permit
+3 revision;
+4 (iii) Implementing and enforcing the terms of any permit, not
+5 including any court costs or other costs associated with any formal
+6 enforcement action;
+7 (iv) Emissions and ambient monitoring, including adequate resources
+8 to audit and inspect source-operated monitoring programs;
+9 (v) Preparing generally applicable regulations or guidance;
+10 (vi) Modeling, analyses, or demonstrations;
+11 (vii) Preparing inventories and tracking emissions; and
+12 (viii) Developing and implementing any emissions trading programs as
+13 defined by the department. ; and
+14 (ix) Providing support to sources under the Small Business
+15 Compliance Advisory Panel.
+16 (c) The council shall establish procedures for the method of
+17 calculation and payment of the emission fee in a manner consistent with
+18 this section and shall establish the definition of or a table listing the
+19 pollutants which are regulated pollutants and a definition of major
+20 source. Such definitions or listing shall comply with and not be more
+21 stringent than the requirements of the federal Clean Air Act, as the act
+22 existed on May 31, 2001, 42 U.S.C. 7401 et seq.
+23 (3) On or before January 1 of each year, the department shall submit
+24 electronically a report to the Legislature in sufficient detail to
+25 document all direct and indirect program costs incurred in the previous
+26 fiscal year in carrying out the air quality permit program. The
+27 Appropriations Committee of the Legislature shall review such report in
+28 its analysis of executive programs in order to verify that revenue
+29 generated from emission fees was used solely to offset appropriate and
+30 reasonable costs associated with the air quality permit program. The
+31 report shall identify costs incurred by the department to administer the
+-38-
+
+LB1048 LB1048
+2026 2026
+1 permit program for each major source. In addition, the department shall
+2 identify costs incurred by primary activity not specific to a major
+3 source.
+4 (3) (4) The department shall administer a cost tracking system which
+5 shall show costs for each major source and costs for each primary
+6 activity that is not specific to a major source. The department shall
+7 consult with interested parties regarding identification of primary
+8 activities to be tracked by the cost tracking system.
+9 Sec. 23. Section 81-1505.05, Reissue Revised Statutes of Nebraska,
+10 is amended to read:
+11 81-1505.05 The Clean Air Title V Cash Fund is created. The
+12 department shall remit all fees collected pursuant to section 81-1505.04
+13 to the State Treasurer for credit to the fund. Any fee collected pursuant
+14 to section 81-1505.04 shall be used solely to pay the reasonable direct
+15 and indirect costs required to develop and administer the air quality
+16 permit program , including expenses of the Small Business Compliance
+17 Advisory Panel. Any money in the fund available for investment shall be
+18 invested by the state investment officer pursuant to the Nebraska Capital
+19 Expansion Act and the Nebraska State Funds Investment Act.
+20 Sec. 24. Section 81-15,175, Revised Statutes Supplement, 2025, is
+21 amended to read:
+22 81-15,175 (1) The board may make an annual allocation each fiscal
+23 year from the Nebraska Environmental Trust Fund to the Nebraska
+24 Environmental Endowment Fund as provided in section 81-15,174.01. The
+25 board shall make annual allocations from the Nebraska Environmental Trust
+26 Fund and may make annual allocations each fiscal year from the Nebraska
+27 Environmental Endowment Fund for projects which conform to the
+28 environmental categories of the board established pursuant to section
+29 81-15,176 and to the extent the board determines those projects to have
+30 merit. The board shall establish a calendar annually for receiving and
+31 evaluating proposals and awarding grants. To evaluate the economic,
+-39-
+
+LB1048 LB1048
+2026 2026
+1 financial, and technical feasibility of proposals, the board may
+2 establish subcommittees, request or contract for assistance, or establish
+3 advisory groups. Private citizens serving on advisory groups shall be
+4 reimbursed for expenses pursuant to sections 81-1174 to 81-1177.
+5 (2) The board shall establish rating systems for ranking proposals
+6 which meet the board's environmental categories and other criteria. The
+7 rating systems shall include, but not be limited to, the following
+8 considerations:
+9 (a) Conformance with categories established pursuant to section
+10 81-15,176;
+11 (b) Amount of funds committed from other funding sources;
+12 (c) Encouragement of public-private partnerships;
+13 (d) Geographic mix of projects over time;
+14 (e) Cost-effectiveness and economic impact;
+15 (f) Direct environmental impact;
+16 (g) Environmental benefit to the general public and the long-term
+17 nature of such public benefit; and
+18 (h) Applications submitted by the Department of Water, Energy, and
+19 Environment pursuant to subsection (6) (7) of section 61-218 shall be
+20 awarded fifty priority points in the ranking process for the 2011 grant
+21 application if the Legislature has authorized annual transfers of three
+22 million three hundred thousand dollars to the Water Resources Cash Fund
+23 for each of fiscal years 2011-12 and 2012-13 and has stated its intent to
+24 transfer three million three hundred thousand dollars to the Water
+25 Resources Cash Fund in fiscal year 2013-14. Priority points shall be
+26 awarded if the proposed programs set forth in the grant application are
+27 consistent with the purposes of reducing consumptive uses of water,
+28 enhancing streamflows, recharging ground water, or supporting wildlife
+29 habitat in any river basin determined to be fully appropriated pursuant
+30 to section 46-714 or designated as overappropriated pursuant to section
+31 46-713.
+-40-
+
+LB1048 LB1048
+2026 2026
+1 (3) A grant awarded under this section pursuant to an application
+2 made under subsection (6) (7) of section 61-218 shall be paid out in the
+3 following manner:
+4 (a) The initial three million three hundred thousand dollar
+5 installment shall be remitted to the State Treasurer for credit to the
+6 Water Resources Cash Fund no later than fifteen business days after the
+7 date that the grant is approved by the board;
+8 (b) The second three million three hundred thousand dollar
+9 installment shall be remitted to the State Treasurer for credit to the
+10 Water Resources Cash Fund no later than May 15, 2013; and
+11 (c) The third three million three hundred thousand dollar
+12 installment shall be remitted to the State Treasurer for credit to the
+13 Water Resources Cash Fund no later than May 15, 2014, if the Legislature
+14 has authorized a transfer of three million three hundred thousand dollars
+15 from the General Fund to the Water Resources Cash Fund for fiscal year
+16 2013-14.
+17 (4) It is the intent of the Legislature that the Department of
+18 Water, Energy, and Environment apply for an additional three-year grant
+19 from the Nebraska Environmental Trust Fund that would begin in fiscal
+20 year 2014-15, a three-year grant that would begin in fiscal year 2017-18,
+21 and a three-year grant that would begin in fiscal year 2020-21 and such
+22 application shall be awarded fifty priority points in the ranking process
+23 as set forth in subdivision (2)(h) of this section if the following
+24 criteria are met:
+25 (a) The Natural Resources Committee of the Legislature has examined
+26 options for water funding and has submitted a report electronically to
+27 the Clerk of the Legislature and the Governor by December 1, 2012,
+28 setting forth:
+29 (i) An outline and priority listing of water management and funding
+30 needs in Nebraska, including instream flows, residential, agricultural,
+31 recreational, and municipal needs, interstate obligations, water quality
+-41-
+
+LB1048 LB1048
+2026 2026
+1 issues, and natural habitats preservation;
+2 (ii) An outline of statewide funding options which create a
+3 dedicated, sustainable funding source to meet the needs set forth in the
+4 report; and
+5 (iii) Recommendations for legislation;
+6 (b) The projects and activities funded by the department through
+7 grants from the Nebraska Environmental Trust Fund under this section have
+8 resulted in enhanced streamflows, reduced consumptive uses of water,
+9 recharged ground water, supported wildlife habitat, or otherwise
+10 contributed towards conserving, enhancing, and restoring Nebraska's
+11 ground water and surface water resources. On or before July 1, 2014, the
+12 department shall submit electronically a report to the Natural Resources
+13 Committee of the Legislature providing demonstrable evidence of the
+14 benefits accrued from such projects and activities; and
+15 (c) In addition to the grant reporting requirements of the trust, on
+16 or before July 1, 2014, the department provides to the board a report
+17 which includes documentation that:
+18 (i) Expenditures from the Water Resources Cash Fund made to natural
+19 resources districts have met the matching fund requirements provided in
+20 subdivision (5)(a) of section 61-218;
+21 (ii) Ten percent or less of the matching fund requirements has been
+22 provided by in-kind contributions for expenses incurred for projects
+23 enumerated in the grant application. In-kind contributions shall not
+24 include land or land rights; and
+25 (iii) All other projects and activities funded by the department
+26 through grants from the Nebraska Environmental Trust Fund under this
+27 section were matched not less than forty percent of the project or
+28 activity cost by other funding sources.
+29 (5) The board may establish a subcommittee to rate grant
+30 applications. If the board uses a subcommittee, the meetings of such
+31 subcommittee shall be subject to the Open Meetings Act. The subcommittee
+-42-
+
+LB1048 LB1048
+2026 2026
+1 shall (a) use the rating systems established by the board under
+2 subsection (2) of this section, (b) assign a numeric value to each rating
+3 criterion, combine these values into a total score for each application,
+4 and rank the applications by the total scores, (c) recommend an amount of
+5 funding for each application, which amount may be more or less than the
+6 requested amount, and (d) submit the ranked list and recommended funding
+7 to the board for its approval or disapproval.
+8 (6) The board may commit funds to multiyear projects, subject to
+9 available funds and appropriations. No commitment shall exceed three
+10 years without formal action by the board to renew the grant or contract.
+11 Multiyear commitments may be exempt from the rating process except for
+12 the initial application and requests to renew the commitment.
+13 (7) The board shall adopt and promulgate rules and regulations and
+14 publish guidelines governing allocations from the fund. The board shall
+15 conduct annual reviews of existing projects for compliance with project
+16 goals and grant requirements.
+17 (8) Every five years the board may evaluate the long-term effects of
+18 the projects it funds. The evaluation may assess a sample of such
+19 projects. The board may hire an independent consultant to conduct the
+20 evaluation and may report the evaluation findings to the Legislature and
+21 the Governor. The report submitted to the Legislature shall be submitted
+22 electronically.
+23 Sec. 25. Section 81-1606, Revised Statutes Supplement, 2025, is
+24 amended to read:
+25 81-1606 The Department of Water, Energy, and Environment shall
+26 develop and maintain a program of collection, compilation, and analysis
+27 of energy statistics and information. Existing information reporting
+28 requests, maintained at the state and federal levels, shall be utilized
+29 whenever possible in any data collection required regarding state energy
+30 policy pursuant to this section, subdivisions (35) through (58) of
+31 section 81-1504, or section 81-1604 or 81-1607. A central state
+-43-
+
+LB1048 LB1048
+2026 2026
+1 repository of energy data shall be developed and coordinated with other
+2 governmental data-collection and record-keeping programs. The department
+3 shall, on at least an annual basis, with monthly compilations, submit to
+4 the Governor and the Clerk of the Legislature a report identifying state
+5 energy consumption by fuel type and by use to the extent that such
+6 information is available. The report submitted to the Clerk of the
+7 Legislature shall be submitted electronically. Nothing in this section
+8 shall be construed as permitting or authorizing the revealing of
+9 confidential information. For purposes of this section confidential
+10 information shall mean any process, formula, pattern, decision, or
+11 compilation of information which is used, directly or indirectly, in the
+12 business of the producer, refiner, distributor, transporter, or vendor,
+13 and which gives such producer, refiner, distributor, transporter, or
+14 vendor an advantage or an opportunity to obtain an advantage over
+15 competitors who do not know or use it.
+16 Sec. 26. Section 81-1607.01, Reissue Revised Statutes of Nebraska,
+17 is amended to read:
+18 81-1607.01 The State Energy Cash Fund is hereby created. The fund
+19 shall consist of funds received pursuant to section 57-705. The fund
+20 shall be used for the administration of subdivisions (35) through (58) of
+21 section 81-1504 and sections 81-1604 to 81-1606 81-1607, for energy
+22 conservation activities, and for providing technical assistance to
+23 communities in the area of natural gas other than assistance regarding
+24 ownership of regulated utilities, except that transfers may be made from
+25 the fund to the General Fund at the direction of the Legislature. Any
+26 money in the State Energy Cash Fund available for investment shall be
+27 invested by the state investment officer pursuant to the Nebraska Capital
+28 Expansion Act and the Nebraska State Funds Investment Act. The State
+29 Treasurer shall transfer any money in the State Energy Office Cash Fund
+30 to the State Energy Cash Fund on July 1, 2019.
+31 Sec. 27. Section 83-184.01, Reissue Revised Statutes of Nebraska, is
+-44-
+
+LB1048 LB1048
+2026 2026
+1 amended to read:
+2 83-184.01 (1) The department, in consultation with the State Court
+3 Administrator, shall adopt and promulgate rules and regulations to
+4 provide an effective process for the transfer of funds for the purpose of
+5 satisfying restitution orders.
+6 (2) A sentencing order requiring an inmate to pay restitution shall
+7 be treated as a court order authorizing the department to withhold and
+8 transfer funds for the purpose of satisfying a restitution order.
+9 (3) This section applies to funds in the wage fund of any inmate
+10 confined in a correctional facility on or after August 30, 2015.
+11 (4) The department shall report annually to the Legislature on the
+12 collection of restitution from wage funds. The report shall include the
+13 total number of inmates with restitution judgments, the total number of
+14 inmates with wage funds, the total number of inmates with both, the
+15 number of payments made to either victims or clerks of the court, the
+16 average amount of payments, and the total amount of restitution
+17 collected. The report shall be submitted electronically.
+18 Sec. 28. Section 83-1,100.03, Reissue Revised Statutes of Nebraska,
+19 is amended to read:
+20 83-1,100.03 (1) The board, in consultation with the department,
+21 shall adopt and promulgate rules and regulations to reduce the number of
+22 inmates under the custody of the department who serve their entire
+23 sentence in a correctional facility and are released without supervision.
+24 The rules and regulations shall establish clear guidelines and procedures
+25 to ensure that each parolee is subject to a minimum of nine months of
+26 supervision and shall place priority on providing supervision lengths
+27 that enable meaningful transition periods for all offenders. The rules
+28 and regulations shall ensure that each inmate eligible for parole is
+29 assessed for risk of reoffending using a validated risk and needs
+30 assessment provided by the department and shall incorporate into the
+31 release decision an inmate's assessed risk of reoffending, past criminal
+-45-
+
+LB1048 LB1048
+2026 2026
+1 history, program completion, institutional conduct, and other individual
+2 characteristics related to the likelihood of reoffending into parole
+3 release decisions.
+4 (2) By February 1 of each year, the board and the department shall
+5 submit a report to the Legislature, the Supreme Court, and the Governor
+6 that describes the percentage of offenders sentenced to the custody of
+7 the department who complete their entire sentence and are released with
+8 no supervision. The report shall document characteristics of the
+9 individuals released without supervision, including the highest felony
+10 class of conviction, offense type of conviction, most recent risk
+11 assessment, status of the individualized release or reentry plan, and
+12 reasons for the release without supervision. The report also shall
+13 provide recommendations from the department and board for changes to
+14 policy and practice to meet the goal of achieving a reduction in the
+15 number of inmates under the custody of the department who serve their
+16 entire sentence in a correctional facility and are released without
+17 supervision. The report to the Legislature shall be submitted
+18 electronically.
+19 (2) (3) The department, in consultation with the board, shall
+20 maintain a list of individuals who are eligible for parole but are
+21 expected to complete their entire sentence in the custody of the
+22 department and be released with no supervision. This list shall be used
+23 to facilitate the placement of committed offenders in community work
+24 release and reentry centers under the Community Work Release and Reentry
+25 Centers Act.
+26 Sec. 29. Section 83-918, Reissue Revised Statutes of Nebraska, is
+27 amended to read:
+28 83-918 (1) For each biennium, the Department of Correctional
+29 Services shall, as part of the appropriations request process pursuant to
+30 subsection (1) of section 81-132, include a strategic plan that
+31 identifies the main purpose or purposes of each program, verifiable and
+-46-
+
+LB1048 LB1048
+2026 2026
+1 auditable key goals that the department believes are fair measures of its
+2 progress in meeting each program's main purpose or purposes, and
+3 benchmarks for improving performance on the key goals. The department
+4 shall also report whether the benchmarks are being met and, if not, the
+5 expected timeframes for meeting them.
+6 (2) On or before July 1 September 15 of each year, the Department of
+7 Correctional Services shall report electronically to the Judiciary
+8 Committee of the Legislature and the Appropriations Committee of the
+9 Legislature on the progress towards the key goals identified pursuant to
+10 this section that occurred in the previous twelve months. Upon request,
+11 the department shall appear at a joint hearing of the Judiciary Committee
+12 and Appropriations Committee and present the report.
+13 Sec. 30. Section 83-963, Reissue Revised Statutes of Nebraska, is
+14 amended to read:
+15 83-963 (1) The department shall prepare an annual report on
+16 committed offenders who are paroled or granted controlled release
+17 pursuant to the Correctional System Overcrowding Emergency Act for each
+18 year the department is operating under an overcrowding emergency as
+19 defined in section 83-962. The report shall summarize each such former
+20 committed offender's behavior since parole and generally evaluate his or
+21 her success or lack of success in becoming a law-abiding member of
+22 society. The annual report shall be filed electronically with the
+23 Executive Board of the Legislative Council on or before February 1
+24 December 31, with the first such report submitted by February 1 December
+25 31 of the first year that committed offenders are paroled pursuant to the
+26 act. A notice of the filing of the report shall be submitted
+27 electronically to each member of the Legislature when the annual report
+28 is filed with the Executive Board.
+29 (2) On or before February 1 of each year, the board and the
+30 department shall submit a report to the Legislature, the Supreme Court,
+31 and the Governor that describes the percentage of offenders sentenced to
+-47-
+
+LB1048 LB1048
+2026 2026
+1 the custody of the department who complete their entire sentence and are
+2 released with no supervision. The report shall document characteristics
+3 of the individuals released without supervision, including the highest
+4 felony class of conviction, offense type of conviction, most recent risk
+5 assessment, status of the individualized release or reentry plan, and
+6 reasons for the release without supervision. The report also shall
+7 provide recommendations from the department and board for changes to
+8 policy and practice to meet the goal of achieving a reduction in the
+9 number of inmates under the custody of the department who serve their
+10 entire sentence in a correctional facility and are released without
+11 supervision. The report to the Legislature shall be submitted
+12 electronically.
+13 Sec. 31. Section 86-1301, Reissue Revised Statutes of Nebraska, is
+14 amended to read:
+15 86-1301 Sections 86-1301 to 86-1312 86-1313 shall be known and may
+16 be cited as the Nebraska Broadband Bridge Act.
+17 Sec. 32. Original sections 44-1412, 48-683, 54-2428, 77-383,
+18 77-385, 77-27,238, 77-6307, 81-125, 81-1354.01, 81-1378, 81-1504.01,
+19 81-1505.04, 81-1505.05, 81-1607.01, 83-184.01, 83-1,100.03, 83-918,
+20 83-963, and 86-1301, Reissue Revised Statutes of Nebraska, sections
+21 77-6521, 77-6604, 77-6610, 77-6837, and 77-6928, Revised Statutes
+22 Cumulative Supplement, 2024, and sections 61-218, 70-1003, 81-1113,
+23 81-1139.02, 81-1430, 81-15,175, and 81-1606, Revised Statutes Supplement,
+24 2025, are repealed.
+25 Sec. 33. The following sections are outright repealed: Sections
+26 48-2909, 54-642, 77-6309, 81-1205, 81-1346, 81-1347, 81-1347.01, 81-1350,
+27 81-1351, 81-1352, 81-1353, 81-1354, 81-1384, and 86-1313, Reissue Revised
+28 Statutes of Nebraska, section 39-1392, Revised Statutes Cumulative
+29 Supplement, 2024, and sections 81-1348 and 81-1607, Revised Statutes
+30 Supplement, 2025.
+-48-

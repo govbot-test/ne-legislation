@@ -1,0 +1,42 @@
+Title: 
+Official Title: 
+Source: versions - Slip Law
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LB1253 LB1253
+2026 2026
+LEGISLATIVE BILL 1253
+Approved by the Governor April 7, 2026
+Introduced by Bostar, 29.
+A BILL FOR AN ACT relating to tax sale certificates; to amend section
+77-1837.01, Revised Statutes Cumulative Supplement, 2024; to change
+provisions relating to applicability of laws; to repeal the original
+section; and to declare an emergency.
+Be it enacted by the people of the State of Nebraska,
+Section 1. Section 77-1837.01, Revised Statutes Cumulative Supplement,
+2024, is amended to read:
+77-1837.01 (1) Except as otherwise provided in subsections (2) through (4)
+and (3) of this section, the laws in effect on the date of the issuance of a
+tax sale certificate govern all matters related to tax deed proceedings,
+including noticing and application, and foreclosure proceedings. Changes in law
+shall not apply retroactively with regard to the tax sale certificates
+previously issued.
+(2) Tax sale certificates sold and issued between January 1, 2010, and
+December 31, 2016, shall be governed by the laws and statutes that were in
+effect on December 31, 2009, with regard to all matters relating to tax deed
+proceedings, including noticing and application, and foreclosure proceedings.
+(3) Tax sale certificates sold and issued between January 1, 2017, and
+September 7, 2019, shall be governed by the laws and statutes that are in
+effect on September 7, 2019, with regard to all matters relating to tax deed
+proceedings, including noticing and application, and foreclosure proceedings.
+(4) Tax sale certificates that are foreclosed upon, regardless of date of
+issuance, shall be governed by section 77-1909, as such section was in effect
+on May 7, 2025, with regard to the matters addressed in such section.
+Sec. 2. Original section 77-1837.01, Revised Statutes Cumulative
+Supplement, 2024, is repealed.
+Sec. 3. Since an emergency exists, this act takes effect when passed and
+approved according to law.
+-1-

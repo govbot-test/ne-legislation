@@ -1,0 +1,344 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LB733 LB733
+2026 2026
+LEGISLATURE OF NEBRASKA
+ONE HUNDRED NINTH LEGISLATURE
+SECOND SESSION
+LEGISLATIVE BILL 733
+Introduced by Riepe, 12.
+Read first time January 07, 2026
+Committee: Health and Human Services
+1 A BILL FOR AN ACT relating to the Department of Health and Human
+2 Services; to amend sections 81-3113, 81-3116, 83-1201, 83-1204, and
+3 83-1206, Reissue Revised Statutes of Nebraska, section 43-4413,
+4 Revised Statutes Cumulative Supplement, 2024, and sections 68-1530
+5 and 81-1316, Revised Statutes Supplement, 2025; to change the name
+6 of the Division of Developmental Disabilities of the Department of
+7 Health and Human Services to the Division of Disability and Aging of
+8 the Department of Health and Human Services; to eliminate obsolete
+9 provisions; to repeal the original sections; and to outright repeal
+10 sections 81-3133.02, 81-3134, 83-1216.02, 83-1227, and 83-1228,
+11 Reissue Revised Statutes of Nebraska.
+12 Be it enacted by the people of the State of Nebraska,
+-1-
+
+LB733 LB733
+2026 2026
+1 Section 1. Section 43-4413, Revised Statutes Cumulative Supplement,
+2 2024, is amended to read:
+3 43-4413 (1) There is hereby established a child welfare practice
+4 model work group. The work group may include, but is not limited to:
+5 (a) The Director of Behavioral Health of the Division of Behavioral
+6 Health or the director's designee;
+7 (b) The Director of Children and Family Services of the Division of
+8 Children and Family Services or the director's designee;
+9 (c) The Director of Disability and Aging Developmental Disabilities
+10 of the Division of Disability and Aging Developmental Disabilities or the
+11 director's designee;
+12 (d) The Director of Medicaid and Long-Term Care of the Division of
+13 Medicaid and Long-Term Care or the director's designee;
+14 (e) The Director of Public Health of the Division of Public Health
+15 or the director's designee;
+16 (f) The Commissioner of Education or the commissioner's designee;
+17 (g) The State Court Administrator;
+18 (h) A representative of the state judicial branch to be appointed by
+19 the Chief Justice; and
+20 (i) Representatives from each federally recognized Indian tribe
+21 within the State of Nebraska, appointed by each tribe's Tribal Council or
+22 Executive Committee.
+23 (2) The work group shall develop a practice and finance model for
+24 child welfare system transformation in Nebraska, with consultation from
+25 key stakeholders, judges from separate juvenile courts and judges of
+26 county courts sitting as juvenile courts, private child welfare
+27 providers, individuals with lived experience in the child welfare system,
+28 the Nebraska Children's Commission, the Inspector General of Nebraska
+29 Child Welfare, the Foster Care Review Office, child advocacy centers, law
+30 enforcement, and county attorneys. The practice and finance model shall
+31 include, but not be limited to:
+-2-
+
+LB733 LB733
+2026 2026
+1 (a) Development of a statewide mission and vision for the child
+2 welfare system in Nebraska;
+3 (b) Development of values and practice priorities for the child
+4 welfare system in Nebraska;
+5 (c) Development of statewide program goals and a practice and
+6 finance model for child welfare system case management and service
+7 delivery;
+8 (d) Development of engagement strategies to support community
+9 involvement in child welfare system transformation;
+10 (e) Development of strategies that strengthen relationships across
+11 the court system, probation, executive branch agencies, the State
+12 Department of Education, and community partners;
+13 (f) Development of strategies that support integration across
+14 agencies;
+15 (g) Development of accountabilities across the entire child welfare
+16 system;
+17 (h) Evaluation of the state's Title IV-E claiming practices and
+18 identification of appropriate steps to optimize federal reimbursement for
+19 child welfare system expenditures;
+20 (i) Opportunities and financial mechanisms for providers to pilot
+21 innovative solutions to meet program goals; and
+22 (j) Development of a strategy for data collection and outcome
+23 monitoring.
+24 (3) The work group shall provide monthly updates to the strategic
+25 leadership group.
+26 Sec. 2. Section 68-1530, Revised Statutes Supplement, 2025, is
+27 amended to read:
+28 68-1530 (1) The Department of Health and Human Services shall apply
+29 for a three-year medicaid waiver under section 1915(c) of the federal
+30 Social Security Act to administer a family support program which is a
+31 home and community-based services program as provided in this section.
+-3-
+
+LB733 LB733
+2026 2026
+1 (2)(a) The Advisory Committee on Developmental Disabilities created
+2 in section 83-1212.01 shall assist in the development and guide the
+3 implementation of the family support program. The family support program
+4 shall be administered by the Division of Disability and Aging
+5 Developmental Disabilities of the Department of Health and Human
+6 Services.
+7 (b) It is the intent of the Legislature that any funds distributed
+8 to Nebraska pursuant to section 9817 of the federal American Rescue Plan
+9 Act of 2021, Public Law 117-2, be used to eliminate unmet needs relating
+10 to home and community-based services for persons with developmental
+11 disabilities as much as is possible.
+12 (c) If funds are distributed to Nebraska pursuant to section 9817 of
+13 the federal American Rescue Plan Act of 2021, it is the intent of the
+14 Legislature that such funds distributed to Nebraska should at least
+15 partially fund the family support program if doing so is in accordance
+16 with federal law, rules, regulations, or guidance.
+17 (3) The family support program shall:
+18 (a) Offer an annual capped budget for long-term services and
+19 supports of ten thousand dollars for each eligible applicant;
+20 (b) Offer a pathway for medicaid eligibility for disabled children
+21 by disregarding parental income and establishing eligibility based on a
+22 child's income and assets;
+23 (c) Allow a family to self-direct services, including contracting
+24 for services and supports approved by the division; and
+25 (d) Not exceed eight hundred fifty participants.
+26 (4) The department, in consultation with the advisory committee,
+27 shall adopt and promulgate rules and regulations for the implementation
+28 of the family support program to be set at an intermediate care facility
+29 institutional level of care to support children with intellectual and
+30 developmental disabilities and their families. Such rules and regulations
+31 shall include, but not be limited to:
+-4-
+
+LB733 LB733
+2026 2026
+1 (a) Criteria for and types of long-term services and supports to be
+2 provided by the family support program;
+3 (b) The method, as provided in section 68-1532, for allocating
+4 resources to family units participating in the family support program;
+5 (c) Eligibility determination, including, but not limited to, a
+6 child's maximum income and assets;
+7 (d) The enrollment process;
+8 (e) Limits on benefits; and
+9 (f) Processes to establish quality assurance, including, but not
+10 limited to, measures of family satisfaction.
+11 (5) The division shall administer the family support program within
+12 the limits of the appropriations by the Legislature for such program.
+13 (6) Until December 31, 2027, the division shall submit an annual
+14 report electronically to the Legislature on the family support program.
+15 The report shall include:
+16 (a) The distribution of available funds, the total number of
+17 children and families served, and the status of the waiting list for the
+18 comprehensive waiver and other applicable waivers;
+19 (b) A summary of any grievances filed by family units pertaining to
+20 the family support program, including any appeals and a description of
+21 how such grievances were resolved;
+22 (c) The number and demographics of children with disabilities and
+23 their families who applied under the family support program but who were
+24 not found eligible and the reason such children and their families were
+25 not found eligible;
+26 (d) Quality assurance activities and the results of annual measures
+27 of family satisfaction; and
+28 (e) Recommendations to innovate the family support program, improve
+29 current programming, and maximize limited funding, including, but not
+30 limited to, the potential utilization of other medicaid pathways or
+31 medicaid waivers that could help increase access to medicaid and long-
+-5-
+
+LB733 LB733
+2026 2026
+1 term services and supports for children with disabilities or special
+2 health care needs.
+3 Sec. 3. Section 81-1316, Revised Statutes Supplement, 2025, is
+4 amended to read:
+5 81-1316 (1) All agencies and personnel of state government shall be
+6 covered by sections 81-1301 to 81-1319 and shall be considered subject to
+7 the State Personnel System, except the following:
+8 (a) All personnel of the office of the Governor;
+9 (b) All personnel of the office of the Lieutenant Governor;
+10 (c) All personnel of the office of the Secretary of State;
+11 (d) All personnel of the office of the State Treasurer;
+12 (e) All personnel of the office of the Attorney General;
+13 (f) All personnel of the office of the Auditor of Public Accounts;
+14 (g) All personnel of the Legislature;
+15 (h) All personnel of the court systems;
+16 (i) All personnel of the Board of Educational Lands and Funds;
+17 (j) All personnel of the Public Service Commission;
+18 (k) All personnel of the Nebraska Brand Committee;
+19 (l) All personnel of the Commission of Industrial Relations;
+20 (m) All personnel of the State Department of Education;
+21 (n) All personnel of the Nebraska state colleges and the Board of
+22 Trustees of the Nebraska State Colleges;
+23 (o) All personnel of the University of Nebraska;
+24 (p) All personnel of the Coordinating Commission for Postsecondary
+25 Education;
+26 (q) All personnel of the Governor's Policy Research Office;
+27 (r) All personnel of the Commission on Public Advocacy;
+28 (s) All agency heads;
+29 (t)(i) The Director of Behavioral Health of the Division of
+30 Behavioral Health; (ii) the Director of Children and Family Services of
+31 the Division of Children and Family Services; (iii) the Director of
+-6-
+
+LB733 LB733
+2026 2026
+1 Disability and Aging Developmental Disabilities of the Division of
+2 Disability and Aging Developmental Disabilities; (iv) the Director of
+3 Medicaid and Long-Term Care of the Division of Medicaid and Long-Term
+4 Care; and (v) the Director of Public Health of the Division of Public
+5 Health;
+6 (u) The chief medical officer established under section 81-3115, the
+7 Administrator of the Office of Juvenile Services, and the chief executive
+8 officers of the Beatrice State Developmental Center, Lincoln Regional
+9 Center, Norfolk Regional Center, Hastings Regional Center, Central
+10 Nebraska Veterans' Home, Norfolk Veterans' Home, Eastern Nebraska
+11 Veterans' Home, Western Nebraska Veterans' Home, and each youth
+12 rehabilitation and treatment center;
+13 (v) The chief executive officers of all facilities operated by the
+14 Department of Correctional Services and the medical director for the
+15 department appointed pursuant to section 83-4,156;
+16 (w) All personnel employed as pharmacists, physicians,
+17 psychiatrists, or psychologists by the Department of Correctional
+18 Services;
+19 (x) All personnel employed as pharmacists, physicians,
+20 psychiatrists, psychologists, service area administrators, or facility
+21 operating officers of the Department of Health and Human Services or the
+22 Department of Veterans' Affairs;
+23 (y) Deputies and examiners of the Department of Banking and Finance
+24 and the Department of Insurance as set forth in sections 8-105 and
+25 44-119, except for those deputies and examiners who remain in the State
+26 Personnel System;
+27 (z) All personnel of the Tax Equalization and Review Commission;
+28 (aa) The associate director of the Conservation Division of the
+29 Nebraska State Historical Society and all personnel employed as a
+30 Conservator I or Conservator II of the Conservation Division of the
+31 Nebraska State Historical Society;
+-7-
+
+LB733 LB733
+2026 2026
+1 (bb) Assistant directors and deputies of the Nebraska Public
+2 Employees Retirement Systems; and
+3 (cc) The Chief Water Officer, assistant directors, and deputies of
+4 the Department of Water, Energy, and Environment.
+5 (2) At each agency head's discretion, up to the following number of
+6 additional positions may be exempted from the State Personnel System,
+7 based on the following agency size categories:
+8 Number of Agency Number of Noncovered
+9 Employees Positions
+10 less than 25 0
+11 25 to 100 1
+12 101 to 250 2
+13 251 to 500 3
+14 501 to 1000 4
+15 1001 to 2000 5
+16 2001 to 3000 8
+17 3001 to 4000 11
+18 4001 to 5000 40
+19 over 5000 50
+20 The purpose of having such noncovered positions shall be to allow
+21 agency heads the opportunity to recruit, hire, and supervise critical,
+22 confidential, or policymaking personnel without restrictions from
+23 selection procedures, compensation rules, career protections, and
+24 grievance privileges. Persons holding the noncovered positions shall
+25 serve at the pleasure of the agency head and shall be paid salaries set
+26 by the agency head. An agency with over five thousand employees shall
+27 provide notice in writing to the Health and Human Services Committee of
+28 the Legislature when forty noncovered positions have been filled by the
+29 agency head pursuant to this subsection.
+30 (3) No changes to this section or to the number of noncovered
+31 positions within an agency shall affect the status of personnel employed
+-8-
+
+LB733 LB733
+2026 2026
+1 on the date the changes become operative without their prior written
+2 agreement. A state employee's career protections or coverage by personnel
+3 rules and regulations shall not be revoked by redesignation of the
+4 employee's position as a noncovered position without the prior written
+5 agreement of such employee.
+6 Sec. 4. Section 81-3113, Reissue Revised Statutes of Nebraska, is
+7 amended to read:
+8 81-3113 The Department of Health and Human Services is created. The
+9 department shall have five divisions to be known as (1) the Division of
+10 Behavioral Health, (2) the Division of Children and Family Services, (3)
+11 the Division of Disability and Aging Developmental Disabilities, (4) the
+12 Division of Medicaid and Long-Term Care, and (5) the Division of Public
+13 Health.
+14 Sec. 5. Section 81-3116, Reissue Revised Statutes of Nebraska, is
+15 amended to read:
+16 81-3116 The responsibilities of the divisions created in section
+17 81-3113 include, but are not limited to, the following:
+18 (1) The Division of Behavioral Health shall administer (a) the state
+19 hospitals for the mentally ill designated in section 83-305 and (b)
+20 publicly funded community-based behavioral health services;
+21 (2) The Division of Children and Family Services shall administer
+22 (a) protection and safety programs and services, including child welfare
+23 programs and services and the Office of Juvenile Services, (b) economic
+24 and family support programs and services, and (c) service areas as may be
+25 designated by the chief executive officer or by the Director of Children
+26 and Family Services under authority of the chief executive officer,
+27 except that on and after September 1, 2012, the western, central, and
+28 northern service areas shall be aligned to be coterminous with the
+29 district court judicial districts described in section 24-301.02;
+30 (3) The Division of Disability and Aging Developmental Disabilities
+31 shall administer (a) the Beatrice State Developmental Center and (b)
+-9-
+
+LB733 LB733
+2026 2026
+1 publicly funded community-based developmental disabilities services;
+2 (4) The Division of Medicaid and Long-Term Care shall administer (a)
+3 the medical assistance program also known as medicaid, (b) aging
+4 services, and (c) other related programs and services; and
+5 (5) The Division of Public Health shall administer (a) preventive
+6 and community health programs and services, (b) the regulation and
+7 licensure of health-related professions and occupations, and (c) the
+8 regulation and licensure of health care facilities and health care
+9 services.
+10 Sec. 6. Section 83-1201, Reissue Revised Statutes of Nebraska, is
+11 amended to read:
+12 83-1201 Sections 83-1201 to 83-1226 83-1228 shall be known and may
+13 be cited as the Developmental Disabilities Services Act.
+14 Sec. 7. Section 83-1204, Reissue Revised Statutes of Nebraska, is
+15 amended to read:
+16 83-1204 Department shall mean the Division of Disability and Aging
+17 Developmental Disabilities of the Department of Health and Human
+18 Services.
+19 Sec. 8. Section 83-1206, Reissue Revised Statutes of Nebraska, is
+20 amended to read:
+21 83-1206 Director shall mean the Director of Disability and Aging
+22 Developmental Disabilities of the Division of Disability and Aging
+23 Developmental Disabilities.
+24 Sec. 9. Original sections 81-3113, 81-3116, 83-1201, 83-1204, and
+25 83-1206, Reissue Revised Statutes of Nebraska, section 43-4413, Revised
+26 Statutes Cumulative Supplement, 2024, and sections 68-1530 and 81-1316,
+27 Revised Statutes Supplement, 2025, are repealed.
+28 Sec. 10. The following sections are outright repealed: Sections
+29 81-3133.02, 81-3134, 83-1216.02, 83-1227, and 83-1228, Reissue Revised
+30 Statutes of Nebraska.
+-10-

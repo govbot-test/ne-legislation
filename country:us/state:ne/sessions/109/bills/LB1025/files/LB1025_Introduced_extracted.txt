@@ -1,0 +1,177 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LB1025 LB1025
+2026 2026
+LEGISLATURE OF NEBRASKA
+ONE HUNDRED NINTH LEGISLATURE
+SECOND SESSION
+LEGISLATIVE BILL 1025
+Introduced by Bosn, 25; Bostar, 29; Brandt, 32; Cavanaugh, M., 6; Clouse,
+37; DeKay, 40; Dorn, 30; Guereca, 7; Hallstrom, 1; Hardin,
+48; Holdcroft, 36; Ibach, 44; Juarez, 5; Kauth, 31;
+Lonowski, 33; McKinney, 11; Meyer, G., 17; Murman, 38;
+Prokop, 27; Raybould, 28; Sanders, 45; Sorrentino, 39;
+Spivey, 13; Wordekemper, 15.
+Read first time January 13, 2026
+Committee: Revenue
+1 A BILL FOR AN ACT relating to taxation; to adopt the Social Media
+2 Collection of Consumer Data Tax Act; to establish an excise tax on
+3 certain social media platform businesses; and to create a fund.
+4 Be it enacted by the people of the State of Nebraska,
+-1-
+
+LB1025 LB1025
+2026 2026
+1 Section 1. Sections 1 to 8 of this act shall be known and may be
+2 cited as the Social Media Collection of Consumer Data Tax Act.
+3 Sec. 2. For purposes of the Social Media Collection of Consumer
+4 Data Tax Act:
+5 (1) Any term shall have the same meaning as used in Chapter 77,
+6 article 27, except as otherwise defined in the Social Media Collection of
+7 Consumer Data Tax Act;
+8 (2) Consumer means an individual who establishes an account on an
+9 app or website owned by a social media platform business whose consumer
+10 data is collected by the social media platform business regardless of
+11 whether the individual is charged for establishing the account;
+12 (3) Consumer data means any information that identifies, relates to,
+13 describes, is capable of being associated with, or could reasonably be
+14 linked with a consumer, whether directly submitted to the social media
+15 platform business by the consumer or derived from other sources;
+16 (4) Internet protocol address means a unique string of characters or
+17 other identifier assigned to each device connected to a network for
+18 communication;
+19 (5) Nebraska consumer means a consumer who is a resident individual
+20 as defined in section 77-2714.01;
+21 (6) Social media platform means an electronic medium, including a
+22 browser-based or application-based interactive computer service, Internet
+23 website, telephone network, or data network, that allows an account
+24 holder to create, share, and view user-generated content for a
+25 substantial purpose of social interaction, sharing user-generated
+26 content, or personal networking. Social media platform does not include:
+27 (a) An Internet search provider;
+28 (b) An Internet service provider;
+29 (c) An email service;
+30 (d) A streaming service, online video game, e-commerce, or other
+31 Internet website where the content is not user generated but where
+-2-
+
+LB1025 LB1025
+2026 2026
+1 interactive functions enable chat, comments, reviews, or other
+2 interactive functionality that is incidental to, directly related to, or
+3 dependent upon providing the content;
+4 (e) A communication service, including text, audio, or video
+5 communication technology, provided by a business to the business's
+6 employees and clients for use in the course of business activities and
+7 not for public distribution, except that social media platform includes a
+8 communication service provided by a social media platform;
+9 (f) An advertising network with the sole function of delivering
+10 commercial content;
+11 (g) A telecommunications carrier as defined in 47 U.S.C. 153;
+12 (h) A broadband Internet access service as defined in 47 C.F.R.
+13 8.1(b);
+14 (i) Single-purpose community groups for education or public safety;
+15 (j) Teleconferencing or video-conferencing services that allow
+16 reception and transmission of audio and video signals for real-time
+17 communication, except that social media platform includes
+18 teleconferencing or video-conferencing services provided by a social
+19 media platform;
+20 (k) Cloud computing services, which may include cloud storage and
+21 shared document collaboration;
+22 (l) Providing or obtaining technical support for a platform,
+23 product, or service; or
+24 (m) A platform designed primarily and specifically for creative
+25 professional users, as distinct from the general public, to share their
+26 portfolio and creative content, engage in professional networking,
+27 acquire clients, and market the creative professional user's creative
+28 content and creative services through facilitated transactions; and
+29 (7) Social media platform business means a for-profit entity that
+30 operates a social media platform that engages, collects, maintains, uses,
+31 processes, sells, or shares consumer data in support of the entity's
+-3-
+
+LB1025 LB1025
+2026 2026
+1 business activities.
+2 Sec. 3. (1) Beginning January 1, 2027, an excise tax is imposed on
+3 the collection of consumer data by a social media platform business as
+4 provided in this section.
+5 (2) The tax is imposed on social media platform businesses based on
+6 the number of Nebraska consumers from whom a social media platform
+7 business collects consumer data within a month as follows:
+8 Nebraska Consumers Tax
+9 Fewer than or equal to 50,000 Zero
+10 Over 50,000 but not more than $0.10 per month on the number of
+11 250,000 Nebraska consumers over 50,000 but
+12 not more than 250,000;
+13 Over 250,000 but not more than $40,000 plus $0.25 per month on the
+14 500,000 number of Nebraska consumers over
+15 250,000 but not more than 500,000;
+16 and
+17 Over 500,000 $165,000 plus $0.50
+18 per month on the number of Nebraska
+19 consumers over 500,000.
+20 (3) All taxes collected under this section shall be remitted to the
+21 State Treasurer for credit to the Juvenile Mental Health Support Fund.
+22 Sec. 4. (1) Until the contrary is established, it is presumed that
+23 a consumer whose information on record with or available to a social
+24 media platform business indicates a Nebraska home address, a Nebraska
+25 mailing address, or an Internet protocol address connected with a
+26 Nebraska location is a Nebraska consumer for purposes of the Social Media
+27 Collection of Consumer Data Tax Act. The burden of proving that a
+28 consumer is not a Nebraska consumer is on the social media platform
+29 business.
+30 (2) A Nebraska consumer must be counted only once per social media
+31 platform in the calculation of the monthly tax imposed on a social media
+-4-
+
+LB1025 LB1025
+2026 2026
+1 platform business.
+2 (3) A social media platform business that has paid tax under the
+3 Social Media Collection of Consumer Data Tax Act may claim a credit
+4 against the tax paid with respect to a Nebraska consumer if another state
+5 imposes an excise tax identical to the tax imposed under the act with
+6 respect to the same consumer.
+7 (4) Business entities that are part of a controlled group of
+8 corporations as defined in section 1563(a) of the Internal Revenue Code
+9 shall be treated as a single entity for purposes of meeting the
+10 definition of a social media platform business under the Social Media
+11 Collection of Consumer Data Tax Act.
+12 (5) The single member of a single member limited liability company
+13 shall be treated as a consumer under this section.
+14 Sec. 5. A social media platform business must report the tax on a
+15 return prescribed by the Tax Commissioner and must remit the tax in a
+16 form and manner prescribed by the Tax Commissioner. The return and the
+17 tax must be filed and paid using the filing cycle and due dates provided
+18 for sales and use taxes imposed under the Nebraska Revenue Act of 1967.
+19 Sec. 6. (1) The provisions of sections 77-2714 to 77-27,135
+20 relating to deficiencies, penalties, interest, the collection of
+21 delinquent amounts, confidentiality, refunds, and appeal procedures for
+22 the tax imposed by section 77-2734.02 shall also apply to the tax imposed
+23 by section 3 of this act.
+24 (2) A social media platform business shall maintain records as
+25 required by the Tax Commissioner.
+26 Sec. 7. The Juvenile Mental Health Support Fund is hereby created.
+27 The fund shall be administered by the Department of Health and Human
+28 Services and shall consist of money transferred pursuant to subsection
+29 (3) of section 3 of this act. Any money in the Juvenile Mental Health
+30 Support Fund available for investment shall be invested by the state
+31 investment officer pursuant to the Nebraska Capital Expansion Act and the
+-5-
+
+LB1025 LB1025
+2026 2026
+1 Nebraska State Funds Investment Act. The fund shall be used by the
+2 department for the programming and facilities associated with providing
+3 juvenile mental health services.
+4 Sec. 8. The Tax Commissioner may adopt and promulgate rules and
+5 regulations necessary to carry out the Social Media Collection of
+6 Consumer Data Tax Act.
+-6-

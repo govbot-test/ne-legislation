@@ -1,0 +1,1457 @@
+Title: 
+Official Title: 
+Source: versions - Business and Labor AM2141 Cavanaugh, J. AM2455 Kauth AM2450 Kauth AM2161
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+AM2141 AM2141
+LB847 LB847
+MLU - 02/13/2026 MLU - 02/13/2026
+AMENDMENTS TO LB847
+Introduced by Business and Labor.
+1 1. Strike the original sections and insert the following new
+2 sections:
+3 Section 1. Sections 1 to 6 of this act shall be known and may be
+4 cited as the Nebraska Registered Apprenticeship Act.
+5 Sec. 2. For purposes of the Nebraska Registered Apprenticeship Act,
+6 unless the context otherwise requires:
+7 (1) Apprentice means a worker who is at least sixteen years of age
+8 and who is employed to learn an apprenticeable occupation under standards
+9 of apprenticeship fulfilling the requirements of 29 C.F.R. 29.5, as such
+10 regulation existed on January 1, 2026;
+11 (2) Apprenticeable occupation means an occupation that is specified
+12 by industry and to which all of the following apply:
+13 (a) The occupation involves skills that are customarily learned in a
+14 practical way through a structured, systematic program of on-the-job
+15 supervised learning;
+16 (b) The occupation is clearly identified and commonly recognized
+17 throughout an industry;
+18 (c) The occupation involves the progressive attainment of manual,
+19 mechanical, or technical skills and knowledge which, in accordance with
+20 the industry standard for the occupation, would require the completion of
+21 at least two thousand hours of on-the-job learning to attain; and
+22 (d) The occupation requires related instruction to supplement the
+23 on-the-job learning;
+24 (3) Apprenticeship agreement means a written agreement, accepted and
+25 recorded by the Nebraska Office of Registered Apprenticeship, between an
+26 apprentice and an apprenticeship sponsor that contains the terms and
+27 conditions of the apprentice's employment and training consistent with 29
+-1-
+
+AM2141 AM2141
+LB847 LB847
+MLU - 02/13/2026 MLU - 02/13/2026
+1 C.F.R. part 29 and the Nebraska Registered Apprenticeship Act;
+2 (4) Apprenticeship program means a program registered with the
+3 United States Department of Labor, Office of Apprenticeship, or the
+4 Nebraska Office of Registered Apprenticeship that includes terms and
+5 conditions for the qualification, recruitment, selection, employment, and
+6 training of apprentices, including the requirement for a written
+7 apprenticeship agreement;
+8 (5) Apprenticeship sponsor means an entity operating an
+9 apprenticeship program or an entity in whose name an apprenticeship
+10 program is being operated, which entity is registered with or approved by
+11 the United States Department of Labor, Office of Apprenticeship, or the
+12 Nebraska Office of Registered Apprenticeship. Apprenticeship sponsor
+13 includes a lead apprenticeship sponsor and an employer that provides
+14 training through a lead apprenticeship sponsor;
+15 (6) Cancellation means the termination of the registration of a
+16 quality pre-apprenticeship program or apprenticeship program at the
+17 request of the apprenticeship sponsor or the termination of an
+18 apprenticeship agreement at the request of the apprentice;
+19 (7) Commissioner means the Commissioner of Labor;
+20 (8) Department means the Department of Labor;
+21 (9) Employee organization means (a) any labor union, (b) any
+22 organization of any kind, or any agency or employee representation
+23 committee, association, group, or plan, in which employees participate
+24 and which exists for the purpose, in whole or in part, of dealing with
+25 employers concerning an employee benefit plan or other matters incidental
+26 to employment relationships, and (c) any employees' beneficiary
+27 association organized for the purpose, in whole or in part, of
+28 establishing an employee benefit plan;
+29 (10) Employer means a person or organization employing an
+30 apprentice, whether or not such person or organization is a party to an
+31 apprenticeship agreement with the apprentice;
+-2-
+
+AM2141 AM2141
+LB847 LB847
+MLU - 02/13/2026 MLU - 02/13/2026
+1 (11) Employer organization means a collective organization of
+2 manufacturers, retailers, or other employers of wage labor which seeks to
+3 coordinate the behavior of its member companies in matters of mutual
+4 interest;
+5 (12) Large apprenticeship program means an apprenticeship program
+6 with more than three hundred fifty active apprentices;
+7 (13) Lead apprenticeship sponsor means a trade organization, labor
+8 organization, employer association, or other incorporated entity
+9 representing a group of apprenticeship sponsors;
+10 (14) On-the-job training means training provided by an employer to
+11 which all of the following apply:
+12 (a) The training is provided to a paid apprentice who is engaged in
+13 productive work in an occupation, and the work provides knowledge or
+14 skills essential to the full and adequate performance of the occupation;
+15 and
+16 (b) The training is limited in duration as appropriate to the
+17 occupation for which the apprentice is being trained, based on the
+18 content of the training, the apprentice's prior work experience, and the
+19 apprentice's service strategy, as appropriate;
+20 (15) Public member means a member of the Nebraska Apprenticeship
+21 Council who is not representing an employer organization or employee
+22 organization and who is familiar with apprenticeable occupations;
+23 (16) Quality pre-apprenticeship program means a program or set of
+24 strategies, registered by the Nebraska Office of Registered
+25 Apprenticeship, including basic skills training, academic skills
+26 remediation, or introduction to the industry, that is designed to prepare
+27 individuals for entry into an apprenticeship program;
+28 (17)(a) Registered apprenticeship program means a program to which
+29 all of the following apply:
+30 (i) The program has been accepted and recorded by the Nebraska
+31 Office of Registered Apprenticeship;
+-3-
+
+AM2141 AM2141
+LB847 LB847
+MLU - 02/13/2026 MLU - 02/13/2026
+1 (ii) The program includes all of the following:
+2 (A) Employer involvement;
+3 (B) On-the-job training;
+4 (C) Related training instruction from a lead apprenticeship sponsor;
+5 (D) Paid work experience; and
+6 (E) Receipt of a portable state or nationally recognized credential;
+7 and
+8 (iii) The program is for the recruitment, selection, employment, and
+9 training of apprentices and is developed pursuant to 29 C.F.R part 29 and
+10 any rules and regulations adopted and promulgated pursuant to the
+11 Nebraska Registered Apprenticeship Act.
+12 (b) Registered apprenticeship program includes a youth
+13 apprenticeship that otherwise qualifies as a registered apprenticeship
+14 program;
+15 (18) Registration agency means the state agency that is responsible
+16 for registering apprenticeship programs and apprentices, providing
+17 technical assistance, and conducting reviews for compliance with federal
+18 law;
+19 (19) Related training instruction means an organized and systematic
+20 form of instruction, other than on-the-job training, to which all of the
+21 following apply:
+22 (a) The instruction is designed to provide an apprentice with
+23 knowledge of the subjects related to the apprentice's occupation; and
+24 (b) The instruction is given in a classroom, through occupational or
+25 industrial courses, through correspondence or online courses, or through
+26 other forms of self-study;
+27 (20) Small apprenticeship program means an apprenticeship program
+28 with three hundred fifty or fewer active apprentices; and
+29 (21) Youth apprenticeship means an apprenticeship program that is
+30 designed specifically for an apprentice twenty-four years of age or
+31 under.
+-4-
+
+AM2141 AM2141
+LB847 LB847
+MLU - 02/13/2026 MLU - 02/13/2026
+1 Sec. 3. (1) The Nebraska Office of Registered Apprenticeship is
+2 established within the department in accordance with 29 U.S.C. 50 and 29
+3 C.F.R. part 29. The office shall be operated and managed by the
+4 commissioner or the commissioner's designee.
+5 (2) The office is established for all of the following purposes:
+6 (a) To serve as the state apprenticeship agency as defined in 29
+7 C.F.R. 29.2, as such regulation existed on January 1, 2026;
+8 (b) To serve as the registration agency for this state;
+9 (c) To establish standards of apprenticeship for quality pre-
+10 apprenticeships, youth apprenticeships, registered apprenticeships, and
+11 other apprenticeships;
+12 (d) To establish requirements regarding the registration of quality
+13 pre-apprenticeship programs, registered youth apprenticeship programs,
+14 registered apprenticeship programs, and other apprenticeship programs in
+15 the state when the sponsor of such programs chooses to certify or
+16 register the programs with the office; and
+17 (e) To resolve disputes between parties to an apprenticeship
+18 agreement.
+19 Sec. 4. (1) The Nebraska Office of Registered Apprenticeship shall
+20 develop standards to create a nationally recognized state apprenticeship
+21 completion credential in compliance with, but not exceeding, standards
+22 established in 29 C.F.R. 29.5 for completing a registered apprenticeship
+23 program.
+24 (2)(a) The office shall approve or deny the registration of a
+25 registered apprenticeship program, whether for a new program or expansion
+26 of an existing program. The office shall provide an entity whose
+27 registration is not approved with specific reasons for the disapproval
+28 and an option for modifying the application for registration.
+29 (b) The office shall approve or deny the registration of a new
+30 apprenticeship sponsor who is providing related training instruction. The
+31 applying sponsor's apprentices may enroll in an apprenticeship program
+-5-
+
+AM2141 AM2141
+LB847 LB847
+MLU - 02/13/2026 MLU - 02/13/2026
+1 while approval is pending; however, training shall not begin until the
+2 registration is approved. The office shall provide an apprenticeship
+3 sponsor whose registration is not approved with specific reasons for the
+4 disapproval and an option for modifying the application for registration.
+5 (3) The office shall establish competency-based apprenticeship
+6 frameworks based on the regional and statewide collection of valuable
+7 credentials.
+8 (4) The office shall establish a plan to provide reciprocal
+9 approval, for federal purposes, to apprentices, apprenticeship programs,
+10 and standards that are registered in other states by the United States
+11 Department of Labor, Office of Apprenticeship, or a registration agency,
+12 if such reciprocity is requested by the apprenticeship sponsor.
+13 Apprenticeship sponsors seeking reciprocal approval shall meet wage and
+14 hour provisions and apprentice ratio standards of this state.
+15 (5) The office may consider advice provided by the Nebraska
+16 Apprenticeship Council when completing the office's duties as set forth
+17 in this section.
+18 (6) The office shall serve as the registration agency for quality
+19 pre-apprenticeships, youth apprenticeships, registered apprenticeships,
+20 and other apprenticeships.
+21 (7) The office shall develop a plan providing a procedure for the
+22 cancellation or deregistration of programs and for temporary suspension,
+23 cancellation, or deregistration of apprenticeship agreements.
+24 (8) The office shall not require affiliation with a labor
+25 organization, employer organization, or other limited-membership
+26 organization as a criterion of an apprenticeship program. This subsection
+27 does not prohibit labor organizations, employer organizations, and
+28 limited-membership organizations from requiring membership to participate
+29 in the apprenticeship training provided by the organization.
+30 Sec. 5. (1) The Nebraska Apprenticeship Council is established as
+31 an advisory council within the department pursuant to 29 C.F.R. 29.13(a)
+-6-
+
+AM2141 AM2141
+LB847 LB847
+MLU - 02/13/2026 MLU - 02/13/2026
+1 (2), as such regulation existed on January 1, 2026.
+2 (2) Members of the council shall be appointed by the Governor for
+3 terms of three years.
+4 (3)(a) The council shall include at least five voting members
+5 appointed by the Governor. The members must be primarily based in
+6 Nebraska and familiar with apprenticeable occupations. Familiarity with
+7 apprenticeable occupations shall be determined by actual experience with
+8 a Nebraska apprenticeship program.
+9 (b) The council shall have an equal number of representatives of
+10 employer organizations and employee organizations and include public
+11 members who shall not number in excess of the number named to represent
+12 either employer organizations or employee organizations. The council
+13 shall be comprised of representatives with experience in both large
+14 apprenticeship programs and small apprenticeship programs in Nebraska.
+15 (c) The Governor shall appoint a chairperson of the council from
+16 among the voting members.
+17 (d) The commissioner, or the commissioner's designee, shall serve as
+18 an ex officio, nonvoting member.
+19 (4) The council shall do all of the following:
+20 (a) Advise the Nebraska Office of Registered Apprenticeship
+21 regarding the duties set forth in the Nebraska Registered Apprenticeship
+22 Act; and
+23 (b) Provide community outreach and education regarding the benefits
+24 of apprenticeship.
+25 Sec. 6. The department shall be responsible for implementation and
+26 enforcement of the Nebraska Registered Apprenticeship Act. The department
+27 may adopt and promulgate rules and regulations as necessary to carry out
+28 the act.
+29 Sec. 7. Section 29-431, Revised Statutes Cumulative Supplement,
+30 2024, is amended to read:
+31 29-431 As used in sections 28-416, 29-422, 29-424, 29-425, 29-431 to
+-7-
+
+AM2141 AM2141
+LB847 LB847
+MLU - 02/13/2026 MLU - 02/13/2026
+1 29-434, 48-1231, and 53-173, unless the context otherwise requires,
+2 infraction means the violation of any law, ordinance, order, rule, or
+3 regulation, not including those related to traffic, which is not
+4 otherwise declared to be a misdemeanor or a felony. Infraction includes
+5 violations of section 60-6,267 and beginning January 1, 2024, section
+6 60-6,279.
+7 Sec. 8. Section 48-302, Revised Statutes Cumulative Supplement,
+8 2024, is amended to read:
+9 48-302 (1) No child under sixteen years of age shall be employed or
+10 permitted or suffered to work in any employment as defined in section
+11 48-301 within this state unless the person or corporation employing the
+12 child procures and keeps on file, accessible to the attendance officers
+13 and to the Department of Labor and its assistants and employees, an
+14 employment certificate as prescribed in section 48-304 and keeps one
+15 complete list of all such children employed in the building on file in
+16 the building in which such children are employed.
+17 (2) Upon the termination of the employment of a child or when a
+18 child reaches the age of sixteen so registered whose certificate is so
+19 filed, such certificate shall be retained by the employer for at least
+20 twelve months transmitted by the employer to the person authorizing the
+21 certificate pursuant to section 48-303 and shall be accessible to the
+22 attendance officers and to the Department of Labor and its assistants and
+23 employees upon request turned over to such child upon demand.
+24 (3) Any attendance officer or the Department of Labor or its
+25 assistants and employees may demand that any employer in whose place of
+26 business a child apparently under the age of sixteen years is employed or
+27 permitted or suffered to work, and whose employment certificate is not
+28 then filed as required by this section, either furnish within ten days
+29 satisfactory evidence that such child is in fact over sixteen years of
+30 age or cease to employ or permit or suffer such child to work in such
+31 place of business. The same evidence of the age of such child may be
+-8-
+
+AM2141 AM2141
+LB847 LB847
+MLU - 02/13/2026 MLU - 02/13/2026
+1 required from such employer as is required on the issuance of an
+2 employment certificate as provided in section 48-304, and the employer
+3 furnishing such evidence shall not be required to furnish any further
+4 evidence of the age of the child.
+5 (4) In case such employer fails to produce and deliver to the
+6 attendance officer or the Commissioner of Labor within ten days after
+7 demand such evidence of the age of any child as may be required under the
+8 provisions of section 48-304 and continues to employ such child or permit
+9 or suffer such child to work in such place of business, proof of the
+10 giving of such notice and of such failure to produce and file such
+11 evidence shall be prima facie evidence in any prosecution brought for a
+12 violation of this section that such child is under sixteen years of age
+13 and is unlawfully employed.
+14 Sec. 9. Section 48-303, Revised Statutes Cumulative Supplement,
+15 2024, is amended to read:
+16 48-303 Except as otherwise provided in this section, an employment
+17 certificate shall be approved only by the principal of the school the
+18 child attends or by a person authorized by him or her in writing or, when
+19 there is no principal, by a person authorized by the chief administrative
+20 officer of the school or the superintendent of the school district in
+21 which the child resides, except that no person authorized by this section
+22 may approve such certificate for any child then in or about to enter his
+23 or her own employment or the employment of a firm or corporation of which
+24 he or she is a member, officer, or employee or in whose business he or
+25 she is interested. If a child who resides outside of Nebraska in an
+26 adjoining state seeks to work in Nebraska, the Department of Labor may
+27 approve the employment certificate. The officer or person approving such
+28 certificate may administer the oath provided for therein or in any
+29 investigation or examination necessary for the approval thereof. No fee
+30 shall be charged for approving any such certificate or for administering
+31 any oath or rendering any services related thereto. The school approving
+-9-
+
+AM2141 AM2141
+LB847 LB847
+MLU - 02/13/2026 MLU - 02/13/2026
+1 the employment certificate, or the department if the department has
+2 approved the employment certificate, shall establish and maintain proper
+3 records where copies of all such certificates and all documents connected
+4 therewith shall be filed and preserved and shall provide the necessary
+5 clerical services for carrying out sections 48-302 to 48-313. The person
+6 who issued the employment certificate shall report to the department any
+7 complaint concerning the conditions of employment of a child for whom a
+8 certificate is in force. Upon receipt of the report, the department shall
+9 make such investigation as it deems advisable to protect an individual
+10 child or to promote the youth-work program.
+11 Sec. 10. Section 48-309, Reissue Revised Statutes of Nebraska, is
+12 amended to read:
+13 48-309 The age and schooling certificate provided for herein shall
+14 be made out upon blank forms prescribed and furnished in triplicate by
+15 the Department of Labor.
+16 Sec. 11. Section 48-602, Revised Statutes Supplement, 2025, is
+17 amended to read:
+18 48-602 For purposes of the Employment Security Law, unless the
+19 context otherwise requires:
+20 (1) Agricultural labor means services performed:
+21 (a) On a farm, in the employ of any employer, in connection with
+22 cultivating the soil or in connection with raising or harvesting any
+23 agricultural or horticultural commodity, including the raising, shearing,
+24 feeding, caring for, training, and management of livestock, bees,
+25 poultry, fur-bearing animals, and wildlife;
+26 (b) In the employ of the owner, tenant, or other operator of a farm,
+27 in connection with the operation, management, conservation, improvement,
+28 or maintenance of such farm and its tools and equipment or in salvaging
+29 timber or clearing land of brush and other debris left by a windstorm, if
+30 the major part of such service is performed on a farm;
+31 (c) In connection with the production or harvesting of any commodity
+-10-
+
+AM2141 AM2141
+LB847 LB847
+MLU - 02/13/2026 MLU - 02/13/2026
+1 in connection with the operation or maintenance of ditches, canals,
+2 reservoirs, or waterways, not owned or operated for profit, used
+3 exclusively for supplying and storing water for farming purposes;
+4 (d)(i) In the employ of the operator of a farm in handling,
+5 planting, drying, packing, packaging, processing, freezing, grading,
+6 storing, or delivering to storage or to market or to a carrier for
+7 transportation to market, in its unmanufactured state, any agricultural
+8 or horticultural commodity, but only if such operator produced more than
+9 one-half of the commodity with respect to which such service is
+10 performed, or (ii) in the employ of a group of operators of farms, or a
+11 cooperative organization of which such operators are members, in the
+12 performance of service described in subdivision (1)(d)(i) of this
+13 section, but only if such operators produced more than one-half of the
+14 commodity with respect to which such service is performed. Subdivisions
+15 (1)(d)(i) and (ii) of this section shall not be deemed to be applicable
+16 with respect to service performed in connection with commercial canning
+17 or commercial freezing or in connection with any agricultural or
+18 horticultural commodity after its delivery to a terminal market for
+19 distribution for consumption; or
+20 (e) On a farm operated for profit if such service is not in the
+21 course of the employer's trade or business;
+22 (2) Base period means the first four of the last five completed
+23 calendar quarters immediately preceding the first day of an individual's
+24 benefit year, except that if the individual is not monetarily eligible
+25 for unemployment benefits as determined pursuant to section 48-627.01
+26 based upon wages paid during the first four of the five most recently
+27 completed calendar quarters, the department shall make a redetermination
+28 of monetary eligibility based upon an alternative base period which
+29 consists of the last four completed calendar quarters immediately
+30 preceding the first day of the claimant's benefit year;
+31 (3) Benefits means the money payments payable to an individual with
+-11-
+
+AM2141 AM2141
+LB847 LB847
+MLU - 02/13/2026 MLU - 02/13/2026
+1 respect to his or her unemployment;
+2 (4) Benefit year, with respect to any individual, means the one-year
+3 period beginning with the first day of the first week with respect to
+4 which the individual first files a valid claim for benefits, and
+5 thereafter the one-year period beginning with the first day of the first
+6 week with respect to which the individual next files a valid claim for
+7 benefits after the termination of his or her last preceding benefit year.
+8 Any claim for benefits made in accordance with section 48-629 shall be
+9 deemed to be a valid claim for the purpose of this subdivision if the
+10 individual has been paid the wages for insured work required under
+11 section 48-627.01. For the purposes of this subdivision a week with
+12 respect to which an individual files a valid claim shall be deemed to be
+13 in, within, or during that benefit year which includes the greater part
+14 of such week;
+15 (5) Calendar quarter means the period of three consecutive calendar
+16 months ending on March 31, June 30, September 30, or December 31, or the
+17 equivalent thereof as the Commissioner of Labor may by rule and
+18 regulation prescribe;
+19 (6) Client means any individual, partnership, limited liability
+20 company, corporation, or other legally recognized entity that contracts
+21 with a professional employer organization to obtain professional employer
+22 services relating to worksite employees through a professional employer
+23 agreement;
+24 (7) Combined tax means the employer liability consisting of
+25 contributions and the state unemployment insurance tax;
+26 (8) Combined tax rate means the rate which is applied to wages to
+27 determine the combined taxes due;
+28 (9) Commissioner means the Commissioner of Labor;
+29 (10) Commodity means an agricultural commodity as defined in section
+30 15(g) of the federal Agricultural Marketing Act, as amended, 12 U.S.C.
+31 1141j;
+-12-
+
+AM2141 AM2141
+LB847 LB847
+MLU - 02/13/2026 MLU - 02/13/2026
+1 (11) Contribution rate means the percentage of the combined tax rate
+2 used to determine the contribution portion of the combined tax;
+3 (12) Contributions means that portion of the combined tax based upon
+4 the contribution rate portion of the combined tax rate which is deposited
+5 in the state Unemployment Compensation Fund as required by sections
+6 48-648 and 48-649 to 48-649.04;
+7 (13) Crew leader means an individual who furnishes individuals to
+8 perform service in agricultural labor for any other person, pays, either
+9 on his or her own behalf or on behalf of such other person, the
+10 individuals so furnished by him or her for the service in agricultural
+11 labor performed by them, and has not entered into a written agreement
+12 with such other person under which such individual is designated as an
+13 employee of such other person;
+14 (14) Department means the Department of Labor;
+15 (15) Employers engaged in the construction industry means all
+16 employers primarily engaged in business activities classified as sector
+17 23 business activities under the North American Industry Classification
+18 System;
+19 (16) Employment office means a free public employment office or
+20 branch thereof, operated by this state or maintained as a part of a
+21 state-controlled system of public employment offices, including public
+22 employment offices operated by an agency of a foreign government;
+23 (17) Farm means stock, dairy, poultry, fruit, fur-bearing animal,
+24 and truck farms, plantations, ranches, nurseries, ranges, greenhouses, or
+25 other similar structures used primarily for the raising of agricultural
+26 or horticultural commodities, and orchards;
+27 (18) Fund means the Unemployment Compensation Fund established by
+28 section 48-617 to which all contributions and payments in lieu of
+29 contributions required and from which all benefits provided shall be
+30 paid;
+31 (19) Hearing officer means a person employed by the Department of
+-13-
+
+AM2141 AM2141
+LB847 LB847
+MLU - 02/13/2026 MLU - 02/13/2026
+1 Labor who conducts hearings, contested cases, or other proceedings
+2 pursuant to the Employment Security Law;
+3 (20) Hospital means an institution which has been licensed,
+4 certified, or approved by the Department of Health and Human Services as
+5 a hospital;
+6 (21) Insured work means employment for employers;
+7 (22) Leave of absence means any absence from work: (a) Mutually and
+8 voluntarily agreed to by the employer and the employee; (b) mutually and
+9 voluntarily agreed to between the employer and the employee's bargaining
+10 agent; or (c) to which the employee is entitled as a matter of state or
+11 federal law;
+12 (23) Paid vacation leave means a period of time while employed or
+13 following separation from employment in which the individual renders no
+14 services to the employer but is entitled to receive vacation pay equal to
+15 or exceeding his or her base weekly wage;
+16 (24) Payments in lieu of contributions means the money payments to
+17 the Unemployment Compensation Fund required by sections 48-649.04,
+18 48-652, 48-660.01, and 48-661;
+19 (25) Professional employer agreement means a written professional
+20 employer services contract whereby:
+21 (a) A professional employer organization agrees to provide payroll
+22 services, employee benefit administration, or personnel services for a
+23 majority of the employees providing services to the client at a client
+24 worksite;
+25 (b) The agreement is intended to be ongoing rather than temporary in
+26 nature; and
+27 (c) Employer responsibilities for worksite employees, including
+28 those of hiring, firing, and disciplining, are shared between the
+29 professional employer organization and the client by contract. The term
+30 professional employer agreement shall not include a contract between a
+31 parent corporation, company, or other entity and a wholly owned
+-14-
+
+AM2141 AM2141
+LB847 LB847
+MLU - 02/13/2026 MLU - 02/13/2026
+1 subsidiary;
+2 (26) Professional employer organization means any individual,
+3 partnership, limited liability company, corporation, or other legally
+4 recognized entity that enters into a professional employer agreement with
+5 a client or clients for a majority of a client's workforce at a client
+6 worksite. The term professional employer organization does not include an
+7 insurer as defined in section 44-103 or a temporary help firm;
+8 (27) Standard rate means the rate assigned to category twenty for
+9 that year under section 48-649.03. The standard rate shall be not less
+10 than five and four-tenths percent of the employer's annual taxable
+11 payroll;
+12 (28) State includes, in addition to the states of the United States
+13 of America, any dependency of the United States, the Commonwealth of
+14 Puerto Rico, the Virgin Islands, and the District of Columbia;
+15 (29) State unemployment insurance tax means that portion of the
+16 combined tax which is based upon the state unemployment insurance tax
+17 rate portion of the combined tax rate and which is deposited in the
+18 Workforce Development Program Cash Fund and the Business Innovation Cash
+19 Fund as required by sections 48-648 and 48-649 to 48-649.04;
+20 (30) State unemployment insurance tax rate means the percentage of
+21 the combined tax rate used to determine the state unemployment insurance
+22 tax portion of the combined tax;
+23 (31) Temporary employee means an employee of a temporary help firm
+24 assigned to work for the clients of such temporary help firm;
+25 (32) Temporary help firm means a firm that hires its own employees
+26 and assigns them to clients to support or supplement the client's
+27 workforce in work situations such as employee absences, temporary skill
+28 shortages, seasonal workloads, and special assignments and projects;
+29 (33) Unemployed means an individual during any week in which the
+30 individual performs no service and with respect to which no wages are
+31 payable to the individual or any week of less than full-time work if the
+-15-
+
+AM2141 AM2141
+LB847 LB847
+MLU - 02/13/2026 MLU - 02/13/2026
+1 wages payable with respect to such week are less than the individual's
+2 weekly benefit amount, but does not include any individual on a leave of
+3 absence or on paid vacation leave. When an agreement between the employer
+4 and a bargaining unit representative does not allocate vacation pay
+5 allowance or pay in lieu of vacation to a specified period of time during
+6 a period of temporary layoff or plant shutdown, the payment by the
+7 employer or his or her designated representative will be deemed to be
+8 wages as defined in this section in the week or weeks the vacation is
+9 actually taken;
+10 (34) Unemployment Trust Fund means the trust fund in the Treasury of
+11 the United States of America established under section 904 of the federal
+12 Social Security Act, 42 U.S.C. 1104, as such section existed on January
+13 1, 2015, which receives credit from the state Unemployment Compensation
+14 Fund;
+15 (35) Wages, except with respect to services performed in employment
+16 as provided in subdivisions (4)(c) and (d) of section 48-604, means all
+17 remuneration for personal services, including commissions and bonuses,
+18 remuneration for personal services paid under a contract of hire, and the
+19 cash value of all remunerations in any medium other than cash. The
+20 reasonable cash value of remuneration in any medium other than cash shall
+21 be estimated and determined in accordance with rules and regulations
+22 adopted and promulgated by the commissioner. Wages includes tips which
+23 are received while performing services which constitute employment and
+24 which are included in a written statement furnished to the employer
+25 pursuant to section 6053(a) of the Internal Revenue Code as defined in
+26 section 49-801.01.
+27 With respect to services performed in employment in agricultural
+28 labor as is provided in subdivision (4)(c) of section 48-604, wages means
+29 cash remuneration and the cash value of commodities not intended for
+30 personal consumption by the worker and his or her immediate family for
+31 such services. With respect to services performed in employment in
+-16-
+
+AM2141 AM2141
+LB847 LB847
+MLU - 02/13/2026 MLU - 02/13/2026
+1 domestic service as is provided in subdivision (4)(d) of section 48-604,
+2 wages means cash remuneration for such services.
+3 The term wages does not include:
+4 (a) The amount of any payment, including any amount paid by an
+5 employer for insurance or annuities or into a fund to provide for such
+6 payment, made to, or on behalf of, an individual in employment or any of
+7 his or her dependents under a plan or system established by an employer
+8 which makes provision for such individuals generally or for a class or
+9 classes of such individuals, including any amount paid by an employer for
+10 insurance or annuities or into a fund to provide for any such payment, on
+11 account of (i) sickness or accident disability, except, in the case of
+12 payments made to an employee or any of his or her dependents, this
+13 subdivision (i) shall exclude from wages only payments which are received
+14 under a workers' compensation law, (ii) medical and hospitalization
+15 expenses in connection with sickness or accident disability, or (iii)
+16 death;
+17 (b) The payment by an employer, without deduction from the
+18 remuneration of the employee, of the tax imposed upon an employee under
+19 section 3101 of the Internal Revenue Code as defined in section
+20 49-801.01;
+21 (c) Any payment on account of sickness or accident disability, or
+22 medical or hospitalization expenses in connection with sickness or
+23 accident disability, made by an employer to, or on behalf of, an
+24 individual after the expiration of six calendar months following the last
+25 calendar month in which such individual worked for such employer;
+26 (d) Any payment made to, or on behalf of, an individual or his or
+27 her beneficiary (i) from or to a trust described in section 401(a) of the
+28 Internal Revenue Code as defined in section 49-801.01 which is exempt
+29 from tax under section 501(a) of the Internal Revenue Code as defined in
+30 section 49-801.01 at the time of such payment unless such payment is made
+31 to an employee of the trust as remuneration for services rendered as such
+-17-
+
+AM2141 AM2141
+LB847 LB847
+MLU - 02/13/2026 MLU - 02/13/2026
+1 employee and not as a beneficiary of the trust or (ii) under or to an
+2 annuity plan which, at the time of such payment, meets the requirements
+3 of section 401 of the Internal Revenue Code as defined in section
+4 49-801.01;
+5 (e) Any payment made to, or on behalf of, an employee or his or her
+6 beneficiary (i) under a simplified employee pension as defined by the
+7 commissioner, (ii) under or to an annuity contract as defined by the
+8 commissioner, other than a payment for the purchase of such contract
+9 which is made by reason of a salary reduction agreement, whether
+10 evidenced by a written instrument or otherwise, (iii) under or to an
+11 exempt governmental deferred compensation plan as defined by the
+12 commissioner, (iv) to supplement pension benefits under a plan or trust,
+13 as defined by the commissioner, to take into account some portion or all
+14 of the increase in the cost of living since retirement, but only if such
+15 supplemental payments are under a plan which is treated as a welfare
+16 plan, or (v) under a cafeteria benefits plan;
+17 (f) Remuneration paid in any medium other than cash to an individual
+18 for service not in the course of the employer's trade or business;
+19 (g) Benefits paid under a supplemental unemployment benefit plan
+20 which satisfies the eight points set forth in Internal Revenue Service
+21 Revenue Ruling 56-249 as the ruling existed on January 1, 2015, and is in
+22 compliance with the standards set forth in Internal Revenue Service
+23 Revenue Rulings 58-128 and 60-330 as the rulings existed on January 1,
+24 2015; and
+25 (h) Remuneration for service performed in the employ of any state in
+26 the exercise of his or her duties as a member of the Army National Guard
+27 or Air National Guard or in the employ of the United States of America as
+28 a member of any military reserve unit;
+29 (36) Week means such period of seven consecutive days as the
+30 commissioner may by rule and regulation prescribe;
+31 (37) Week of unemployment with respect to any individual means any
+-18-
+
+AM2141 AM2141
+LB847 LB847
+MLU - 02/13/2026 MLU - 02/13/2026
+1 week during which he or she performs less than full-time work and the
+2 wages payable to him or her with respect to such week are less than his
+3 or her weekly benefit amount;
+4 (38) Wholly owned subsidiary means a corporation, company, or other
+5 entity which has eighty percent or more of its outstanding voting stock
+6 or membership owned or controlled, directly or indirectly, by the parent
+7 entity; and
+8 (39) Worksite employee has the same meaning as the term covered
+9 employee in section 48-2702.
+10 Sec. 12. Section 48-622.01, Revised Statutes Supplement, 2025, is
+11 amended to read:
+12 48-622.01 There is hereby created in the state treasury a special
+13 fund to be known as the State Unemployment Insurance Trust Fund. The fund
+14 terminates on July 1, 2025, and the State Treasurer shall transfer any
+15 money in the fund on such date to the Workforce Development Program Cash
+16 Fund. Beginning July 1, 2025, all state unemployment insurance tax
+17 collected under sections 48-648 to 48-661, less refunds, shall be paid
+18 into the Workforce Development Program Cash Fund and the Business
+19 Innovation Cash Fund.
+20 Sec. 13. Section 48-648, Revised Statutes Supplement, 2025, is
+21 amended to read:
+22 48-648 (1) With respect to wages for employment, combined tax shall
+23 accrue and become payable by each employer not otherwise entitled to make
+24 payments in lieu of contributions for each calendar year in which he or
+25 she is subject to the Employment Security Law. Such combined tax shall
+26 become due and be paid by each employer to the commissioner for the
+27 Workforce Development Program Cash Fund, the Business Innovation Cash
+28 Fund, and the Unemployment Trust Fund in such manner and at such times as
+29 the commissioner may, by rule and regulation, prescribe. Such combined
+30 tax shall not be deducted, in whole or in part, from the wages of
+31 individuals in such employer's employ.
+-19-
+
+AM2141 AM2141
+LB847 LB847
+MLU - 02/13/2026 MLU - 02/13/2026
+1 (2) The commissioner may require any employer whose annual payroll
+2 for either of the two preceding calendar years has equaled or exceeded
+3 one hundred thousand dollars to file combined tax returns and pay
+4 combined taxes owed by an electronic method approved by the commissioner,
+5 except when the employer establishes to the satisfaction of the
+6 commissioner that filing the combined tax return or payment of the tax by
+7 an electronic method would create a hardship for the employer.
+8 (3) In the payment of any combined tax, a fractional part of a cent
+9 shall be disregarded unless it amounts to one-half cent or more, in which
+10 case it shall be increased to one cent. If the combined tax due for any
+11 reporting period is less than five dollars, the employer need not remit
+12 the combined tax.
+13 (4) If two or more related corporations or limited liability
+14 companies concurrently employ the same individual and compensate such
+15 individual through a common paymaster which is one of such corporations
+16 or limited liability companies, each such corporation or limited
+17 liability company shall be considered to have paid as remuneration to
+18 such individual only the amounts actually disbursed by it to such
+19 individual and shall not be considered to have paid as remuneration to
+20 such individual amounts actually disbursed to such individual by another
+21 of such corporations or limited liability companies. An employee of a
+22 wholly owned subsidiary shall be considered to be concurrently employed
+23 by the parent corporation, company, or other entity and the wholly owned
+24 subsidiary whether or not both companies separately provide remuneration.
+25 (5) The professional employer organization shall report and pay
+26 combined tax, penalties, and interest owed for wages earned by worksite
+27 employees under the client's employer account number using the client's
+28 combined tax rate. The client is liable for the payment of unpaid
+29 combined tax, penalties, and interest owed for wages paid to worksite
+30 employees, and the worksite employees shall be considered employees of
+31 the client for purposes of the Employment Security Law.
+-20-
+
+AM2141 AM2141
+LB847 LB847
+MLU - 02/13/2026 MLU - 02/13/2026
+1 (6) The Commissioner of Labor may require by rule and regulation
+2 that each employer subject to the Employment Security Law shall submit to
+3 the commissioner quarterly wage reports on such forms and in such manner
+4 as the commissioner may prescribe. The commissioner may require by rule
+5 and regulation an annual administrative and operational support fee for
+6 such reports for employers eligible for experience rating under section
+7 48-649.03 regardless of their election to be contributory or
+8 reimbursable. The annual administrative and operational support fee shall
+9 be a graduated fee based upon gross wages paid for the prior calendar
+10 year. Each employer shall be assigned a fee category pursuant to the
+11 table below.
+12 Gross Wages Paid – Previous Calendar
+Category
+13 Year
+14 $0 1
+15 $0.01 to $49,999.99 2
+16 $50,000 to $99,999.99 3
+17 $100,000 to $249,999.99 4
+18 $250,000 to $499,999.99 5
+19 $500,000 to $999,999.99 6
+20 $1,000,000 to $1,999,999.99 7
+21 $2,000,000 to $2,999,999.99 8
+22 $3,000,000 to $3,999,999.99 9
+23 $4,000,000 to $4,999,999.99 10
+24 $5,000,000 to $5,999,999.99 11
+25 $6,000,000 to $6,999,999.99 12
+26 $7,000,000 to $7,999,999.99 13
+27 $8,000,000 to $8,999,999.99 14
+28 $9,000,000 to $9,999,999.99 15
+29 $10,000,000 or more 16
+30 The commissioner shall remit the annual administrative and
+-21-
+
+AM2141 AM2141
+LB847 LB847
+MLU - 02/13/2026 MLU - 02/13/2026
+1 operational support fee to the State Treasurer for credit to the
+2 Contractor, Business, and Professional Employer Organization Registration
+3 Cash Fund. If the balance of the Contractor, Business, and Professional
+4 Employer Organization Registration Cash Fund reaches or exceeds fifteen
+5 million dollars at the close of any fiscal year, the commissioner shall,
+6 by rule and regulation, ratably reduce the annual administrative and
+7 operational support fee for the subsequent year in an amount sufficient
+8 to maintain the fund balance at or below such amount. The commissioner
+9 may require any employer whose annual payroll for either of the two
+10 preceding calendar years has equaled or exceeded one hundred thousand
+11 dollars to file wage reports by an electronic method approved by the
+12 commissioner, except when the employer establishes to the satisfaction of
+13 the commissioner that filing by an electronic method would create a
+14 hardship for the employer. The quarterly wage reports shall be used by
+15 the commissioner to make monetary determinations of claims for benefits.
+16 Sec. 14. Section 48-649.01, Revised Statutes Supplement, 2025, is
+17 amended to read:
+18 48-649.01 (1) By December 1 of each calendar year, the commissioner
+19 shall determine the state unemployment insurance tax rate for the
+20 following year based on information available through the department.
+21 (2) If the state unemployment insurance tax rate is determined to be
+22 zero percent pursuant to subsection (1) of this section, the contribution
+23 rate for all employers shall equal one hundred percent of the combined
+24 tax rate.
+25 (3) If the state unemployment insurance tax rate is not zero percent
+26 as determined in this section, the combined tax rate shall be divided so
+27 that not less than fifty eighty percent of the combined tax rate equals
+28 the contribution rate and not more than fifty twenty percent of the
+29 combined tax rate equals the state unemployment insurance tax rate except
+30 for employers who are assigned a combined tax rate of five and four-
+31 tenths percent or more. For those employers, the state unemployment
+-22-
+
+AM2141 AM2141
+LB847 LB847
+MLU - 02/13/2026 MLU - 02/13/2026
+1 insurance tax rate shall equal zero and their combined tax rate shall
+2 equal their contribution rate.
+3 (4) On or before December 31 of each calendar year, the commissioner
+4 shall designate the percentage and proportion of the state unemployment
+5 insurance tax rate that shall be remitted to the Workforce Development
+6 Program Cash Fund for the support of workforce development programs and
+7 to the Business Innovation Cash Fund for the support of workforce
+8 innovation programs. The department shall execute a memorandum of
+9 understanding with the Department of Economic Development before
+10 September 30 of each calendar year to ensure the commissioner receives
+11 sufficient information regarding the current status of programs
+12 administered under the Business Innovation Act, including any data
+13 necessary for the commissioner to make an informed determination pursuant
+14 to this section.
+15 Sec. 15. Section 48-657, Revised Statutes Supplement, 2025, is
+16 amended to read:
+17 48-657 (1)(a) If any employer defaults in any payment of combined
+18 tax or interest, the commissioner may make in any manner feasible and
+19 cause to be filed as a secured transaction as provided in article 9,
+20 Uniform Commercial Code, and in the real estate mortgage records of any
+21 county in which such employer is engaged in business or owns real or
+22 personal property, a statement, under oath, showing the amount of
+23 combined tax and interest in default, which statement, when filed for
+24 record, shall operate as a lien and mortgage on all of the real and
+25 personal property of the employer, subject only to the liens of prior
+26 record, and the property of such employer shall be subject to seizure and
+27 sale for the payment of such combined taxes and interest. Such lien on
+28 personal property may be enforced or dissolved in the manner provided by
+29 article 9, Uniform Commercial Code, and such liens on real estate may be
+30 enforced or dissolved in the manner provided by Chapter 25, article 21,
+31 in the enforcing and dissolving of real estate mortgages. This
+-23-
+
+AM2141 AM2141
+LB847 LB847
+MLU - 02/13/2026 MLU - 02/13/2026
+1 subdivision shall only apply to liens filed prior to May 1, 1999.
+2 (b) A lien for unpaid combined taxes filed or recorded pursuant to
+3 subdivision (a) of this subsection shall lapse at the earlier of its
+4 expiration date or the fifth anniversary of the filing or recording date,
+5 unless the commissioner files a notice of continuation in the place of
+6 the original filing or recording and with the appropriate filing officer
+7 in the manner provided for in the Uniform State Tax Lien Registration and
+8 Enforcement Act before such lien lapses. A notice of continuation shall
+9 include all of the information required by the act, the date of the
+10 filing or recording of the original lien, and a statement that the
+11 original lien is to be continued for ten years. Thereafter, such lien
+12 shall be enforced and notices of continuation filed in accordance with
+13 the act.
+14 (c) On and after May 1, 1999, if any employer defaults in any
+15 payment of combined tax or interest, the commissioner may file a lien
+16 against such employer in accordance with the Uniform State Tax Lien
+17 Registration and Enforcement Act. Such liens shall set forth the amount
+18 of combined tax and interest in default and shall be continued and
+19 enforced as provided in the Uniform State Tax Lien Registration and
+20 Enforcement Act.
+21 (2) It shall be the duty of the State of Nebraska, or any department
+22 or agency thereof, county boards, the contracting board of all cities,
+23 villages, and school districts, all public boards empowered by law to
+24 enter into a contract by public bidding for the erecting and finishing or
+25 the repairing of any public building, bridge, highway, or other public
+26 structure or improvement, and any officer or officers so empowered by law
+27 to enter into such contract to provide in such contract that the person,
+28 persons, firm, or corporation to whom the contract is awarded will pay to
+29 the Unemployment Compensation Fund of the State of Nebraska, the Business
+30 Innovation Cash Fund, and the Workforce Development Program Cash Fund
+31 unemployment combined tax and interest due under the Employment Security
+-24-
+
+AM2141 AM2141
+LB847 LB847
+MLU - 02/13/2026 MLU - 02/13/2026
+1 Law on wages paid to individuals employed in the performance of such
+2 contract.
+3 (3) No contract referred to in subsection (2) of this section shall
+4 be entered into by the State of Nebraska, a department or agency thereof,
+5 an officer or officers, or a board referred to in such subsection unless
+6 the contract contains the proviso mentioned in such subsection.
+7 (4) Before final payment may be made on the final three percent of
+8 any such contract awarded on or after June 1, 1957, the State of
+9 Nebraska, department or agency thereof, officer or officers, or board
+10 awarding the contract must have received from the contractor a written
+11 clearance from the commissioner certifying that all payments then due of
+12 combined tax or interest which may have arisen under such contract have
+13 been made by the contractor or his or her subcontractor to the
+14 Unemployment Compensation Fund.
+15 (5) The final three percent of any such contract referred to in
+16 subsection (4) of this section may be paid if the contractor has supplied
+17 a bond with a satisfactory surety company guaranteeing full payment to
+18 the Unemployment Compensation Fund, the Business Innovation Cash Fund,
+19 and the Workforce Development Program Cash Fund of all combined tax and
+20 interest due under the Employment Security Law.
+21 Sec. 16. Section 48-1231, Reissue Revised Statutes of Nebraska, is
+22 amended to read:
+23 48-1231 (1) An employee having a claim for wages which are not paid
+24 within thirty days of the regular payday designated or agreed upon may
+25 institute suit for such unpaid wages in the proper court. If an employee
+26 establishes a claim and secures judgment on the claim, such employee
+27 shall be entitled to recover the full amount of the judgment and all
+28 costs of such suit, including reasonable attorney's fees. If the cause is
+29 taken to an appellate court and the employee recovers a judgment, the
+30 appellate court shall award reasonable attorney's fees to the employee.
+31 If the employee fails to recover a judgment in excess of the amount that
+-25-
+
+AM2141 AM2141
+LB847 LB847
+MLU - 02/13/2026 MLU - 02/13/2026
+1 may have been tendered within thirty days of the regular payday by an
+2 employer, such employee shall not recover the attorney's fees provided by
+3 this subsection. If the court finds that no reasonable dispute existed as
+4 to the fact that wages were owed or as to the amount of such wages, the
+5 court may order the employee to pay the employer's attorney's fees and
+6 costs of the action as assessed by the court.
+7 (2) If an employee works for an employer that is not subject to the
+8 Nebraska Fair Employment Practice Act and such employee is aggrieved by a
+9 violation of section 48-1235, the employee may bring a suit against such
+10 employer in the proper court to recover the damages sustained by reason
+11 of such violation. If an employee prevails in a suit brought pursuant to
+12 this subsection, such employee shall be entitled to recover the full
+13 amount of the judgment and all costs of such suit, including reasonable
+14 attorney's fees. If the cause is taken to an appellate court and the
+15 employee recovers a judgment, the appellate court shall award reasonable
+16 attorney's fees to the employee.
+17 (3) An employer who fails to furnish a wage statement under
+18 subsection (2) of section 48-1230 shall be guilty of an infraction as
+19 defined in section 29-431 and shall be subject to a fine pursuant to
+20 section 29-436.
+21 (3) (4) If an employee institutes suit against an employer under
+22 subsection (1) or (2) of this section, any citation that is issued
+23 against such employer under section 48-1234 and that relates directly to
+24 the facts in dispute shall be admitted into evidence unless specifically
+25 excluded by the court. If a citation has been contested as described in
+26 subsection (3) of section 48-1234, it shall not be admitted into evidence
+27 under this subsection until after such contest has been resolved.
+28 Sec. 17. Section 48-1233, Reissue Revised Statutes of Nebraska, is
+29 amended to read:
+30 48-1233 (1) The Commissioner of Labor shall have the authority to
+31 subpoena records and witnesses related to the enforcement of the Nebraska
+-26-
+
+AM2141 AM2141
+LB847 LB847
+MLU - 02/13/2026 MLU - 02/13/2026
+1 Wage Payment and Collection Act. The commissioner or his or her agent may
+2 inspect all related records and gather testimony on any matter relative
+3 to the enforcement of the act when the information sought is relevant to
+4 a lawful investigative purpose and is reasonable in scope.
+5 (2) In case of contumacy by or refusal to obey a subpoena issued to
+6 any person, any court of competent jurisdiction, upon application by the
+7 commissioner, may issue to that person an order requiring such person to
+8 appear before the commissioner or the officer designated by the
+9 commissioner to produce documentary evidence if so ordered or to give
+10 evidence touching on the matter under investigation or in question. Any
+11 failure to obey the order of the court may be punished by the court as a
+12 contempt of the court.
+13 Sec. 18. Section 48-1234, Reissue Revised Statutes of Nebraska, is
+14 amended to read:
+15 48-1234 (1) The Commissioner of Labor shall issue a citation to an
+16 employer when an investigation reveals that the employer may have
+17 violated the Nebraska Wage Payment and Collection Act , other than a
+18 violation of subsection (2) of section 48-1230.
+19 (2) When a citation is issued, the commissioner shall notify the
+20 employer of the proposed administrative penalty, if any, by certified
+21 mail or any other manner of delivery by which the United States Postal
+22 Service can verify delivery or by any method of service recognized under
+23 Chapter 25, article 5. The administrative penalty shall be not more than
+24 five hundred dollars in the case of a first violation and not more than
+25 five thousand dollars in the case of a second or subsequent violation.
+26 (3) The employer has fifteen working days after the date of the
+27 citation or penalty to contest such citation or penalty. Notice of
+28 contest shall be sent to the commissioner who shall provide a hearing in
+29 accordance with the Administrative Procedure Act.
+30 (4) Any employer who has an unpaid citation for a violation of the
+31 Nebraska Wage Payment and Collection Act shall be barred from contracting
+-27-
+
+AM2141 AM2141
+LB847 LB847
+MLU - 02/13/2026 MLU - 02/13/2026
+1 with the state or any political subdivision until such citation is paid.
+2 If a citation has been contested as described in subsection (3) of this
+3 section, it shall not be considered an unpaid citation under this
+4 subsection until after such contest has been resolved.
+5 (5) Citations issued under this section and the names of employers
+6 who have been issued a citation shall be made available to the public
+7 upon request, except that this subsection shall not apply to any
+8 citations that are being contested as described in subsection (3) of this
+9 section.
+10 Sec. 19. Section 48-1706, Reissue Revised Statutes of Nebraska, is
+11 amended to read:
+12 48-1706 Each application shall be accompanied by a fee. The
+13 Commissioner of Labor shall establish the amount of the fee, which shall
+14 not exceed seven hundred fifty dollars, by rule and regulation. The fee
+15 shall be established with due regard for the costs of administering the
+16 Farm Labor Contractors Act. All fees so collected shall be deposited in
+17 the Contractor, Business, and Professional Employer Organization
+18 Registration Cash Fund.
+19 Sec. 20. Section 48-2107, Revised Statutes Cumulative Supplement,
+20 2024, is amended to read:
+21 48-2107 (1) Each application or renewal under section 48-2105 shall
+22 be signed by the applicant and accompanied by a fee not to exceed forty
+23 dollars. The commissioner may adopt and promulgate rules and regulations
+24 to establish the criteria for acceptability of filing documents and
+25 making payments electronically. The criteria may include requirements for
+26 electronic signatures. The commissioner may refuse to accept any
+27 electronic filings or payments that do not meet the criteria established.
+28 The fee shall not be required when an amendment to an application is
+29 submitted. The commissioner shall remit the fees collected under this
+30 subsection to the State Treasurer for credit to the Contractor, Business,
+31 and Professional Employer Organization Registration Cash Fund.
+-28-
+
+AM2141 AM2141
+LB847 LB847
+MLU - 02/13/2026 MLU - 02/13/2026
+1 (2) A contractor shall not be required to pay the fee under
+2 subsection (1) of this section if (a) the contractor is self-employed and
+3 does not pay more than three thousand dollars annually to employ other
+4 persons in the business and the application contains a statement made
+5 under oath or equivalent affirmation setting forth such information or
+6 (b) the contractor only engages in the construction of water wells or
+7 installation of septic systems. At any time that a contractor no longer
+8 qualifies for exemption from the fee, the fee shall be paid to the
+9 department. Any false statement made under subdivision (2)(a) of this
+10 section shall be a violation of section 28-915.01.
+11 Sec. 21. Section 48-2710, Reissue Revised Statutes of Nebraska, is
+12 amended to read:
+13 48-2710 (1) The department shall adopt a schedule of fees for
+14 initial registration, annual registration renewal, and limited
+15 registration, not to exceed two thousand five hundred dollars for initial
+16 registration, one thousand five hundred dollars for annual registration
+17 renewal, and one thousand dollars for limited registration. Such fees
+18 shall not exceed those reasonably necessary for the administration of the
+19 Professional Employer Organization Registration Act.
+20 (2) Fees imposed pursuant to this section shall be remitted to the
+21 State Treasurer for credit to the Contractor, Business, and Professional
+22 Employer Organization Registration Cash Fund.
+23 Sec. 22. Section 48-2905, Reissue Revised Statutes of Nebraska, is
+24 amended to read:
+25 48-2905 (1) The commissioner may make such investigations as he or
+26 she finds necessary or appropriate to determine whether there is
+27 compliance with the Employee Classification Act. Investigations shall
+28 take place at the times and places as the commissioner directs. For
+29 purposes of any investigation under this section, the commissioner or any
+30 person designated by him or her may interview persons at the worksite,
+31 take photographs, and utilize other reasonable investigatory techniques.
+-29-
+
+AM2141 AM2141
+LB847 LB847
+MLU - 02/13/2026 MLU - 02/13/2026
+1 The conduct of the investigation shall be such as to preclude
+2 unreasonable disruption of the operations of the worksite. Investigations
+3 may be conducted, without prior notice, by correspondence, telephone
+4 conversations, or review of materials submitted to the department.
+5 (2) The commissioner or any officer designated by him or her shall
+6 have the power to administer oaths and affirmations, issue subpoenas,
+7 compel the attendance of witnesses, take evidence, and require the
+8 production of any books, papers, correspondence, memoranda, agreements,
+9 or other documents or records which the commissioner deems relevant or
+10 material to the inquiry.
+11 (3) In case of contumacy by or refusal to obey a subpoena issued to
+12 any person, any court of competent jurisdiction, upon application by the
+13 commissioner, may issue to that person an order requiring such person to
+14 appear before the commissioner or the officer designated by the
+15 commissioner to produce documentary evidence if so ordered or to give
+16 evidence touching on the matter under investigation or in question. Any
+17 failure to obey the order of the court may be punished by the court as a
+18 contempt of the court.
+19 (4) The department shall establish and operate a hotline and website
+20 for individuals to report suspected violations of the Employee
+21 Classification Act. The hotline and website may be operated in
+22 conjunction with the requirements of the Contractor Registration Act. At
+23 a minimum, the department shall require the reporting individual to
+24 provide contact information and a description of the suspected violation
+25 including the name of the business and job site location. Except to the
+26 extent needed in any administrative hearing, civil action, or criminal
+27 proceeding brought to enforce the Employment Security Law, Nebraska
+28 Revenue Act of 1967, or Nebraska Workers' Compensation Act, information
+29 obtained by the department under this section or obtained from any
+30 individual pursuant to the administration of the Employee Classification
+31 Act shall be held confidential.
+-30-
+
+AM2141 AM2141
+LB847 LB847
+MLU - 02/13/2026 MLU - 02/13/2026
+1 Sec. 23. Section 81-406, Reissue Revised Statutes of Nebraska, is
+2 amended to read:
+3 81-406 (1) The Contractor, Business, and Professional Employer
+4 Organization Registration Cash Fund is created. The fund shall be
+5 administered by the Department of Labor and shall consist of fees
+6 collected by the department pursuant to the Farm Labor Contractors Act,
+7 the Contractor Registration Act, and the Professional Employer
+8 Organization Registration Act, the annual administrative and operational
+9 support fee described in section 48-648, and such sums as are
+10 appropriated to the fund by the Legislature.
+11 (2) The fund shall be used for:
+12 (a) Enforcing enforcing and administering:
+13 (i) The Employment Security Law;
+14 (ii) The the Farm Labor Contractors Act;
+15 (iii) The , the Contractor Registration Act;
+16 (iv) The , the Employee Classification Act;
+17 (v) The , and the Professional Employer Organization Registration
+18 Act; .
+19 (vi) The Non-English-Speaking Workers Protection Act;
+20 (vii) The Wage and Hour Act;
+21 (viii) The Nebraska Wage Payment and Collection Act;
+22 (ix) The Nebraska Healthy Families and Workplaces Act;
+23 (x) The child labor provisions found in sections 48-302 to 48-313;
+24 (xi) The veterans preference provisions found in sections 48-225 to
+25 48-231 and section 48-238;
+26 (xii) The military employment provisions found in sections 55-160 to
+27 55-166; and
+28 (xiii) The onsite safety and health consultation program provided to
+29 private sector employers under 29 C.F.R. part 1908;
+30 (b) Any other purposes related to the proper administration of
+31 programs under the Department of Labor, as determined by the Commissioner
+-31-
+
+AM2141 AM2141
+LB847 LB847
+MLU - 02/13/2026 MLU - 02/13/2026
+1 of Labor; and
+2 (c) Workforce development grants to be used in accordance with
+3 subsection (2) of section 81-407. No transfer from the Contractor,
+4 Business, and Professional Employer Organization Registration Cash Fund
+5 shall be made to the Workforce Development Program Cash Fund for this
+6 purpose except on written authorization by the Governor at the request of
+7 the Commissioner of Labor.
+8 (3) Any money in the fund available for investment shall be invested
+9 by the state investment officer pursuant to the Nebraska Capital
+10 Expansion Act and the Nebraska State Funds Investment Act. Money in the
+11 Contractor and Professional Employer Organization Registration Cash Fund
+12 may be transferred to the General Fund at the direction of the
+13 Legislature.
+14 The State Treasurer shall transfer one million seven hundred
+15 thousand dollars from the Contractor and Professional Employer
+16 Organization Registration Cash Fund to the General Fund on or before June
+17 15, 2018, on such dates and in such amounts as directed by the budget
+18 administrator of the budget division of the Department of Administrative
+19 Services.
+20 Sec. 24. Section 81-1201.21, Revised Statutes Supplement, 2025, is
+21 amended to read:
+22 81-1201.21 (1) There is hereby created the Job Training Cash Fund.
+23 The fund shall be under the direction of the Department of Economic
+24 Development. Money may be transferred to the fund pursuant to subdivision
+25 (1)(b)(iii) of section 48-621 and from the Cash Reserve Fund at the
+26 direction of the Legislature. The department shall establish a subaccount
+27 for all money transferred from the Cash Reserve Fund to the Job Training
+28 Cash Fund on or after July 1, 2005.
+29 (2) The money in the Job Training Cash Fund or the subaccount
+30 established in subsection (1) of this section shall be used (a) to
+31 provide reimbursements for job training activities, including employee
+-32-
+
+AM2141 AM2141
+LB847 LB847
+MLU - 02/13/2026 MLU - 02/13/2026
+1 assessment, preemployment training, on-the-job training, training
+2 equipment costs, and other reasonable costs related to helping industry
+3 and business locate or expand in Nebraska, (b) to provide upgrade skills
+4 training of the existing labor force necessary to adapt to new technology
+5 or the introduction of new product lines, or (c) as provided in section
+6 79-2308. The department shall give a preference to job training
+7 activities carried out in whole or in part within an enterprise zone
+8 designated pursuant to the Enterprise Zone Act or an opportunity zone
+9 designated pursuant to the federal Tax Cuts and Jobs Act, Public Law
+10 115-97.
+11 (3) The department shall establish a subaccount within the fund to
+12 provide training grants for training employees and potential employees of
+13 businesses that (a) employ twenty-five or fewer employees on the
+14 application date, (b) employ, or train for potential employment,
+15 residents of rural areas of Nebraska, or (c) are located in or employ, or
+16 train for potential employment, residents of high-poverty areas as
+17 defined in section 81-1203. The department shall calculate the amount of
+18 prior year investment income earnings accruing to the fund and allocate
+19 such amount to the subaccount for training grants under this subsection.
+20 The subaccount shall also be used as provided in the Teleworker Job
+21 Creation Act. The department shall give a preference to training grants
+22 for businesses located in whole or in part within an enterprise zone
+23 designated pursuant to the Enterprise Zone Act.
+24 (4) On April 5, 2018, any funds that were dedicated to carrying out
+25 sections 25 to 27 of this act 81-1210.01 to 81-1210.03 but were not yet
+26 expended shall be transferred to the Intern Nebraska Cash Fund.
+27 (5) Transfers may be made from the Job Training Cash Fund to the
+28 General Fund at the direction of the Legislature. Any money in the Job
+29 Training Cash Fund available for investment shall be invested by the
+30 state investment officer pursuant to the Nebraska Capital Expansion Act
+31 and the Nebraska State Funds Investment Act.
+-33-
+
+AM2141 AM2141
+LB847 LB847
+MLU - 02/13/2026 MLU - 02/13/2026
+1 Sec. 25. Section 81-1210.01, Reissue Revised Statutes of Nebraska,
+2 is amended to read:
+3 81-1210.01 For purposes of sections 25 to 27 of this act 81-1210.01
+4 to 81-1210.03:
+5 (1) Department means the Department of Labor Economic Development;
+6 (2) Internship means employment of a student in a professional or
+7 technical position for a limited period of time, by a business in
+8 Nebraska, in which the student:
+9 (a) Gains valuable applied work experiences;
+10 (b) Increases knowledge and develops connections that assist with
+11 career decisionmaking;
+12 (c) Has the opportunity to match with an employer seeking talent to
+13 evaluate, develop, and retain; or
+14 (d) Receives credited or certified training for skilled positions
+15 that will help resolve skilled workforce shortages and create talent
+16 pipelines for Nebraska industries; and
+17 (3) Student means any person who:
+18 (a) Is in eleventh or twelfth grade in a public or private high
+19 school or a school which elects pursuant to section 79-1601 not to meet
+20 accreditation or approval requirements in Nebraska;
+21 (b) Is enrolled in a college, a university, a certified training
+22 institution, or some other institution of higher education; or
+23 (c) Applies for an internship within twelve months following
+24 graduation from a public or private secondary school, a school that
+25 elects pursuant to section 79-1601 not to meet accreditation or approval
+26 requirements in Nebraska, or a college, a university, a certified
+27 training institution, or some other institution of higher education.
+28 Sec. 26. Section 81-1210.02, Reissue Revised Statutes of Nebraska,
+29 is amended to read:
+30 81-1210.02 (1) The intent of sections 25 to 27 of this act
+31 81-1210.01 to 81-1210.03 is to provide students with valuable internship
+-34-
+
+AM2141 AM2141
+LB847 LB847
+MLU - 02/13/2026 MLU - 02/13/2026
+1 opportunities in order to retain such students in the State of Nebraska
+2 at institutions of higher education, convert students to full-time
+3 employment in Nebraska, and attract workers to Nebraska by assisting
+4 Nebraska businesses willing to provide paid internships.
+5 (2) A business may apply to the department for a grant to assist in
+6 providing a student an internship if:
+7 (a) The business certifies that the internship meets the definition
+8 of internship in section 25 of this act 81-1210.01;
+9 (b) The business will pay the student at least the state minimum
+10 hourly wage for the internship;
+11 (c) The internship will be completed within the State of Nebraska;
+12 (d) The internship will be completed within a period of no more than
+13 twenty-four months; and
+14 (e) The internship will be for a duration sufficient to allow the
+15 student to gain significant valuable work experience and knowledge.
+16 (3)(a) The department may provide grants for internships to
+17 reimburse the cost of wages paid to businesses with less than one hundred
+18 fifty full-time-equivalent employees.
+19 (b) The department may also provide grants for internships to any
+20 business to reimburse the costs for any of the following:
+21 (i) Tuition reimbursement for courses at institutions of higher
+22 education;
+23 (ii) Internship housing;
+24 (iii) Transportation expenses relating to internships; and
+25 (iv) Internship administrative or recruitment costs.
+26 (c) The maximum grant award per internship is seven thousand five
+27 hundred dollars.
+28 (4) A business may apply for no more than two grants for the same
+29 student and shall not be awarded more than one hundred grants total in
+30 any twelve-month period.
+31 (5) A business may allow a student to telecommute if the business is
+-35-
+
+AM2141 AM2141
+LB847 LB847
+MLU - 02/13/2026 MLU - 02/13/2026
+1 located in Nebraska and the college, university, or other institution of
+2 higher education in which the student is enrolled is in Nebraska.
+3 (6) The department shall, to the extent possible, assure that the
+4 distribution of grants under sections 25 to 27 of this act 81-1210.01 to
+5 81-1210.03 provides equitable access to the grants by all geographic
+6 areas of the state.
+7 (7) The department shall, to the extent possible, assure that the
+8 grants awarded pursuant to sections 25 to 27 of this act 81-1210.01 to
+9 81-1210.03 are for internships which provide valuable learning
+10 opportunities for students who will be seeking employment in a
+11 professional or technical field.
+12 (8) The department shall not allocate more than one million five
+13 hundred thousand dollars in any one fiscal year from the Job Training
+14 Cash Fund or its subaccounts for purposes of this section. The department
+15 may receive funds from public, private, or other sources for purposes of
+16 this section.
+17 (9) The department shall develop a qualified action plan by January
+18 1 of each even-numbered year. The plan shall, at a minimum, set forth the
+19 department's priorities and selection criteria for awarding grants for
+20 internships. In order to encourage students from across Nebraska to
+21 pursue internships, the plan shall also include strategies for
+22 affirmatively marketing internships to Nebraska students in high schools,
+23 colleges, universities, and other institutions of higher education in
+24 Nebraska. Such strategies shall place an emphasis on marketing to
+25 underserved student populations as defined by the department in the plan.
+26 The department shall submit the plan to the Governor for approval.
+27 (10) The department shall execute a memorandum of understanding with
+28 the Department of Labor before December 31, 2022, to ensure the exchange
+29 of available Department of Labor data throughout the continuum from
+30 prekindergarten to postsecondary education to the workforce. The
+31 department may utilize data and agreements under sections 79-776, 85-110,
+-36-
+
+AM2141 AM2141
+LB847 LB847
+MLU - 02/13/2026 MLU - 02/13/2026
+1 85-309, and 85-1511.
+2 (11) The department shall submit an annual report to the Governor
+3 and the Legislature on or before July 1 of each year which includes, but
+4 is not limited to, a description of the demand for internship grants and
+5 programs under sections 25 to 27 of this act 81-1210.01 to 81-1210.03
+6 from all geographic regions in Nebraska, a listing of the recipients and
+7 amounts of internship grants awarded in the previous fiscal year, the
+8 impact of the internship grants, and an evaluation of the internship
+9 grants and programs under sections 25 to 27 of this act 81-1210.01 to
+10 81-1210.03 based on the documented goals of the recipients. The report
+11 submitted to the Legislature shall be submitted electronically. The
+12 department may require recipients to provide periodic performance reports
+13 to enable the department to fulfill the requirements of this subsection.
+14 The report shall contain no information that is protected by state or
+15 federal confidentiality laws.
+16 (12) The department may enter into a contract with a Nebraska-based
+17 nonprofit entity for the purposes of carrying out any or all of the
+18 provisions of sections 25 to 27 of this act 81-1210.01 to 81-1210.03.
+19 Sec. 27. Section 81-1210.03, Reissue Revised Statutes of Nebraska,
+20 is amended to read:
+21 81-1210.03 The department may adopt and promulgate rules and
+22 regulations to govern the award and disbursement of grants pursuant to
+23 sections 25 to 27 of this act 81-1210.01 to 81-1210.03.
+24 Sec. 28. Section 81-1210.04, Revised Statutes Supplement, 2025, is
+25 amended to read:
+26 81-1210.04 (1) The Intern Nebraska Cash Fund is created. The fund
+27 shall be used to carry out sections 25 to 27 of this act 81-1210.01 to
+28 81-1210.03. The fund shall consist of money transferred to the fund by
+29 the Legislature and money donated as gifts, bequests, or other
+30 contributions from public or private entities. Transfers may be made from
+31 the fund to the General Fund at the direction of the Legislature. Any
+-37-
+
+AM2141 AM2141
+LB847 LB847
+MLU - 02/13/2026 MLU - 02/13/2026
+1 money in the Intern Nebraska Cash Fund available for investment shall be
+2 invested by the state investment officer pursuant to the Nebraska Capital
+3 Expansion Act and the Nebraska State Funds Investment Act.
+4 (2) The Department of Labor Economic Development, or any entity with
+5 which the department contracts for such purpose, may use up to five
+6 percent of any appropriation to carry out sections 25 to 27 of this act
+7 81-1210.01 to 81-1210.03 for administrative services.
+8 Sec. 29. Section 81-12,152, Reissue Revised Statutes of Nebraska, is
+9 amended to read:
+10 81-12,152 Sections 81-12,152 to 81-12,166 and section 32 of this act
+11 shall be known and may be cited as the Business Innovation Act.
+12 Sec. 30. Section 81-12,154, Reissue Revised Statutes of Nebraska, is
+13 amended to read:
+14 81-12,154 The purpose of the Business Innovation Act is to encourage
+15 and support the transfer of Nebraska-based technology and innovation in
+16 rural and urban areas of Nebraska in order to create high growth, high
+17 technological companies, small businesses, and microenterprises and to
+18 enhance creation of wealth and quality jobs. The Legislature finds that
+19 the act will:
+20 (1) Provide technical assistance planning grants pursuant to section
+21 81-12,157 to facilitate phase one applications for the federal grant
+22 program;
+23 (2) Provide financial assistance pursuant to section 81-12,157 to
+24 companies receiving phase one and phase two grants pursuant to the
+25 federal grant program;
+26 (3) Provide financial assistance pursuant to section 81-12,158 to
+27 companies or individuals creating prototypes;
+28 (4) Establish a financial assistance program pursuant to section
+29 81-12,159 for innovation in value-added agriculture;
+30 (5) Establish a financial assistance program for innovation in
+31 biosciences;
+-38-
+
+AM2141 AM2141
+LB847 LB847
+MLU - 02/13/2026 MLU - 02/13/2026
+1 (6) Establish a financial assistance program pursuant to section
+2 81-12,160 to identify commercial products and processes;
+3 (7) Provide financial assistance pursuant to section 81-12,161 to
+4 companies using Nebraska public or private college and university
+5 researchers and facilities for applied research projects;
+6 (8) Provide support and funding pursuant to section 81-12,162 for
+7 microlending entities, microenterprise entities, and innovation hubs; and
+8 (9) Provide support for locally owned and operated Nebraska-based,
+9 high growth businesses by providing technical resources to foster
+10 development, growth, and high wage creation. For purposes of this
+11 subdivision, Nebraska-based, high growth business means a corporation,
+12 partnership, limited liability company, limited partnership, or limited
+13 liability partnership registered with the Secretary of State that has two
+14 to fifty employees and has annual sales of no less than five hundred
+15 thousand dollars and no more than two million five hundred thousand
+16 dollars; and .
+17 (10) Establish that any entity receiving financial assistance under
+18 the Business Innovation Act and that employs any person in this state,
+19 whether or not such entity is subject to the Employment Security Law,
+20 shall be required to submit to the Department of Labor quarterly wage
+21 reports on such forms and in such manner as the Commissioner of Labor may
+22 require.
+23 Sec. 31. Section 81-12,155, Reissue Revised Statutes of Nebraska, is
+24 amended to read:
+25 81-12,155 In selecting projects to receive financial assistance
+26 under the Business Innovation Act, the department shall develop a
+27 qualified action plan by January 1 of each even-numbered year. The plan
+28 shall set forth selection criteria to be used to determine priorities
+29 which are appropriate to local conditions and the state's economy,
+30 including the state's immediate need for innovation development, proposed
+31 increases in jobs and investment, private dollars leveraged, industry
+-39-
+
+AM2141 AM2141
+LB847 LB847
+MLU - 02/13/2026 MLU - 02/13/2026
+1 support and participation, and repayment, in part or in whole, of
+2 financial assistance awarded under the act. The plan shall also include
+3 selection criteria establishing that any entity applying for financial
+4 assistance under the Business Innovation Act that employs any person in
+5 this state, whether or not such entity is subject to the Employment
+6 Security Law, shall be required to submit to the Department of Labor
+7 quarterly wage reports on such forms and in such manner as the
+8 Commissioner of Labor may require. The department shall submit the plan
+9 to the Governor for approval.
+10 Sec. 32. (1) The Business Innovation Cash Fund is created. The fund
+11 shall be used to carry out the Business Innovation Act, except that the
+12 fund shall not be used for purposes of sections 81-12,155.01 and
+13 81-12,163.01. The fund shall consist of deposits to the fund as required
+14 by sections 48-648 and 48-649 to 48-649.04. Any money in the fund
+15 available for investment shall be invested by the state investment
+16 officer pursuant to the Nebraska Capital Expansion Act and the Nebraska
+17 State Funds Investment Act.
+18 (2) Money in the fund shall be expended by the department for the
+19 purpose of:
+20 (a) Carrying out the Business Innovation Act, except that such money
+21 shall not be expended for the purpose of carrying out the Bioscience
+22 Innovation Program; and
+23 (b) Payment of unemployment benefits if determined necessary by the
+24 Commissioner of Labor.
+25 (3) The department, or any entity with which the department
+26 contracts for such purpose, may use up to five percent of any
+27 appropriation from the fund for administrative expenses.
+28 Sec. 33. The Revisor of Statutes shall assign sections 25 to 28 of
+29 this act to Chapter 81, article 4.
+30 Sec. 34. Original sections 48-309, 48-1231, 48-1233, 48-1234,
+31 48-1706, 48-2710, 48-2905, 81-406, 81-1210.01, 81-1210.02, 81-1210.03,
+-40-
+
+AM2141 AM2141
+LB847 LB847
+MLU - 02/13/2026 MLU - 02/13/2026
+1 81-12,152, 81-12,154, and 81-12,155, Reissue Revised Statutes of
+2 Nebraska, sections 29-431, 48-302, 48-303, and 48-2107, Revised Statutes
+3 Cumulative Supplement, 2024, and sections 48-602, 48-622.01, 48-648,
+4 48-649.01, 48-657, 81-1201.21, and 81-1210.04, Revised Statutes
+5 Supplement, 2025, are repealed.
+6 Sec. 35. The following sections are outright repealed: Sections
+7 48-307, 48-2906, and 48-2909, Reissue Revised Statutes of Nebraska.
+-41-

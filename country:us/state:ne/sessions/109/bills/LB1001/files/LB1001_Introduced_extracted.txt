@@ -1,0 +1,772 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LB1001 LB1001
+2026 2026
+LEGISLATURE OF NEBRASKA
+ONE HUNDRED NINTH LEGISLATURE
+SECOND SESSION
+LEGISLATIVE BILL 1001
+Introduced by General Affairs Committee: Holdcroft, 36, Chairperson;
+Andersen, 49; Clouse, 37; DeKay, 40; Rountree, 3; Storm,
+23.
+Read first time January 13, 2026
+Committee: General Affairs
+1 A BILL FOR AN ACT relating to racing and gaming; to amend sections
+2 2-1207.01, 2-1213, 2-1216, 2-1226, 2-1228, 2-1229, 9-831, 9-1001,
+3 9-1002, 9-1003, 9-1004, 9-1006, and 9-1115, Reissue Revised Statutes
+4 of Nebraska, section 2-1207, Revised Statutes Cumulative Supplement,
+5 2024, and sections 2-1205, 2-1210, 9-1,101, and 9-1104, Revised
+6 Statutes Supplement, 2025; to change provisions relating to licensed
+7 racetrack enclosure terms and conditions, parimutuel wagering, the
+8 distribution of amounts deducted from wagers on horseracing,
+9 registration of Nebraska-bred horses, simulcast facilities licenses,
+10 and assistance to problem gamblers; to provide for administrative
+11 fees; to change provisions relating to the Nebraska Commission on
+12 Problem Gambling and place such commission for administrative
+13 purposes within the State Racing and Gaming Commission; to change
+14 and eliminate provisions relating to the Compulsive Gamblers
+15 Assistance Fund; to change provisions relating to the Charitable
+16 Gaming Division of the Department of Revenue; to provide an
+17 exception to the required age for individuals to play keno at a
+18 licensed racetrack enclosure; to harmonize provisions; to repeal the
+19 original sections; and to outright repeal section 9-1007, Reissue
+20 Revised Statutes of Nebraska.
+21 Be it enacted by the people of the State of Nebraska,
+-1-
+
+LB1001 LB1001
+2026 2026
+1 Section 1. Section 2-1205, Revised Statutes Supplement, 2025, is
+2 amended to read:
+3 2-1205 (1) If the commission is satisfied that its rules and
+4 regulations and all provisions of sections 2-1201 to 2-1218 have been and
+5 will be complied with, it may issue a license to conduct a race or race
+6 meeting for a period of not more than three years. The license shall set
+7 forth the name of the licensee, the place where the races or race
+8 meetings are to be held, and the time and number of days during which
+9 racing may be conducted by such licensee. Any such license issued shall
+10 not be transferable or assignable. The commission shall have the power to
+11 revoke any license issued at any time for good cause upon reasonable
+12 notice and hearing. No license shall be granted to any corporation or
+13 association except upon the express condition that it shall not, by any
+14 lease, contract, understanding, or arrangement of whatever kind or
+15 nature, grant, assign, or turn over to any person, corporation, or
+16 association the operation or management of any racing or race meeting
+17 licensed under such sections or of the parimutuel system of wagering
+18 described in section 2-1207 or in any manner permit any person,
+19 corporation, or association other than the licensee to have any share,
+20 percentage, or proportion of the money received for admissions to the
+21 racing or race meeting or from the operation of the parimutuel system;
+22 and any violation of such conditions shall authorize and require the
+23 commission immediately to revoke such license. No licensee shall be
+24 considered in violation of this section with respect to an agreement with
+25 an authorized gaming operator regarding employees and the acceptance of
+26 any parimutuel wager or sports wager pursuant to section 9-1110.
+27 (2)(a) Any racetrack for which a licensee is issued a license to
+28 conduct a race or race meeting under sections 2-1201 to 2-1218 which is
+29 in existence and operational as of April 20, 2022, shall:
+30 (i) Hold a minimum of five live racing meet days and fifty live
+31 horseraces annually beginning January 1, 2026, through December 31, 2030;
+-2-
+
+LB1001 LB1001
+2026 2026
+1 and
+2 (ii) Beginning January 1, 2031, hold a minimum of fifteen live
+3 racing meet days and one hundred twenty live horseraces annually.
+4 (b) Any racetrack for which a licensee is issued a license to
+5 conduct a race or race meeting under sections 2-1201 to 2-1218 which is
+6 not in existence and operational until after April 20, 2022, shall:
+7 (i) Hold a minimum of one live racing meet day annually for the
+8 first three years of operation;
+9 (ii) Hold a minimum of five live racing meet days and fifty live
+10 horseraces annually for the fourth year of operation through the seventh
+11 year of operation; and
+12 (iii) Beginning with the eighth year of operation, hold a minimum of
+13 fifteen live racing meet days and one hundred twenty live horseraces
+14 annually.
+15 (c) A racetrack that fails to meet the minimum requirements under
+16 this subsection is subject to discipline by the commission, including
+17 revocation of the license issued under sections 2-1201 to 2-1218.
+18 (3) Any holder of a racetrack enclosure license pursuant to section
+19 2-1210 that is licensed to conduct a race or race meeting under this
+20 section may petition the commission to waive or modify the requirements
+21 of subsection (2) of this section. The petition shall contain the reasons
+22 and justification for such waiver or modification and be submitted in
+23 writing to the executive director of the commission. A petition submitted
+24 more than seven days prior to the next scheduled meeting of the
+25 commission shall be taken up at such meeting. A petition submitted less
+26 than seven days prior to the next scheduled meeting of the commission
+27 shall not be required to be taken up at such meeting but shall be taken
+28 up at a following meeting. The commission may waive or modify the
+29 requirements of subsection (2) of this section for any reason, including,
+30 but not limited to, fire, earthquake, tornado, other natural disaster, or
+31 other conditions making it unsuitable for running horseraces.
+-3-
+
+LB1001 LB1001
+2026 2026
+1 (4) (3) A racetrack for which a licensee is issued a license to
+2 conduct a race or race meeting under sections 2-1201 to 2-1218 in
+3 existence on November 1, 2020, which is located in the counties of Adams,
+4 Dakota, Douglas, Hall, Lancaster, and Platte, may move such racetrack
+5 location to another county in Nebraska that does not have a racetrack one
+6 time only, subject to approval by the commission as provided in
+7 subdivision (27) of section 9-1106, subsequent to the initial issuance of
+8 the market analysis and socioeconomic-impact studies conducted pursuant
+9 to section 9-1106.
+10 Sec. 2. Section 2-1207, Revised Statutes Cumulative Supplement,
+11 2024, is amended to read:
+12 2-1207 (1) Within the enclosure of any racetrack where a race or
+13 race meeting licensed and conducted under sections 2-1201 to 2-1218 is
+14 held or at a racetrack licensed to simulcast races or conduct interstate
+15 simulcasting, the parimutuel method or system of wagering on the results
+16 of the respective races may be used and conducted by the licensee. Under
+17 such system, the licensee may receive wagers of money from any person
+18 present at such race or racetrack receiving the simulcast race or
+19 conducting interstate simulcasting on any horse in a race selected by
+20 such person to run first in such race, and the person so wagering shall
+21 acquire an interest in the total money so wagered on all horses in such
+22 race as first winners in proportion to the amount of money wagered by him
+23 or her. Such licensee shall issue to each person so wagering a
+24 certificate on which shall be shown the number of the race, the amount
+25 wagered, and the number or name of the horse selected by such person as
+26 first winner. As each race is run, at the option of the licensee, the
+27 licensee may deduct from the total sum wagered on all horses as first
+28 winners not less than fifteen percent or more than eighteen percent from
+29 such total sum, plus the odd cents of the redistribution over the next
+30 lower multiple of ten. At the option of the licensee, the licensee may
+31 deduct up to and including twenty-five percent from the total sum wagered
+-4-
+
+LB1001 LB1001
+2026 2026
+1 by exotic wagers as defined in section 2-1208.03. The commission may
+2 authorize other levels of deduction on wagers conducted by means of
+3 interstate simulcasting. The licensee shall notify the commission in
+4 writing of the percentages the licensee intends to deduct during the live
+5 race meet conducted by the licensee and shall notify the commission at
+6 least one week in advance of any changes to such percentages the licensee
+7 intends to make. The licensee shall also deduct from the total sum
+8 wagered by exotic wagers, if any, the tax plus the odd cents of the
+9 redistribution over the next multiple of ten as provided in subsection
+10 (1) of section 2-1208.04. The balance remaining on hand shall be paid out
+11 to the holders of certificates on the winning horse in the proportion
+12 that the amount wagered by each certificate holder bears to the total
+13 amount wagered on all horses in such race to run first. The licensee may
+14 likewise receive such wagers on horses selected to run second, third, or
+15 both, or in such combinations as the commission may authorize, the
+16 method, procedure, and authority and right of the licensee, as well as
+17 the deduction allowed to the licensee, to be as specified with respect to
+18 wagers upon horses selected to run first.
+19 (2) At all race meets held pursuant to this section, the licensee
+20 shall deduct from the total sum wagered one-third of the amount over
+21 fifteen percent deducted pursuant to subsection (1) of this section on
+22 wagers on horses selected to run first, second, or third and one percent
+23 of all exotic wagers to be used to promote agriculture and horse breeding
+24 in Nebraska and for the support and preservation of horseracing pursuant
+25 to section 2-1207.01. Money deducted for such purposes shall be given by
+26 the licensee of the track where the funds were generated to the official
+27 registrar for each breed for distribution as designated in section
+28 2-1207.01.
+29 (3) No person under twenty-one years of age shall be permitted to
+30 make any parimutuel wager, and there shall be no wagering on horseracing
+31 except under the parimutuel method outlined in this section. Any person,
+-5-
+
+LB1001 LB1001
+2026 2026
+1 association, or corporation who knowingly aids or abets a person under
+2 twenty-one years of age in making a parimutuel wager shall be guilty of a
+3 Class I misdemeanor.
+4 (4) Beginning on the implementation date designated by the Tax
+5 Commissioner pursuant to subsection (1) of section 9-1312, prior to the
+6 winnings payment of any parimutuel winnings as defined in section 9-1303,
+7 an authorized gaming operator or licensee licensed to conduct parimutuel
+8 wagering shall check the collection system to determine if the winner has
+9 a debt or an outstanding state tax liability as required by the Gambling
+10 Winnings Setoff for Outstanding Debt Act. If such authorized gaming
+11 operator or licensee determines that the winner is subject to the
+12 collection system, the operator shall deduct the amount of debt and
+13 outstanding state tax liability identified in the collection system from
+14 the winnings payment and shall remit the net winnings payment of
+15 parimutuel winnings, if any, to the winner and the amount deducted to the
+16 Department of Revenue to be credited against such debt or outstanding
+17 state tax liability as provided in section 9-1306.
+18 Sec. 3. Section 2-1207.01, Reissue Revised Statutes of Nebraska, is
+19 amended to read:
+20 2-1207.01 (1) The amount deducted from wagers pursuant to subsection
+21 (2) of section 2-1207 may be used to promote agriculture and
+22 horsebreeding in Nebraska and shall be distributed as described in this
+23 section as purse supplements and breeder and stallion awards for
+24 Nebraska-bred horses, as defined and registered pursuant to section
+25 2-1213, at the racetrack where the funds were generated. The official
+26 registrar for each breed, as established in section 2-1213, shall
+27 distribute purse supplements and breeder and stallion awards and shall
+28 annually spend a minimum of eighty percent of all amounts deducted
+29 pursuant to subsection (2) of section 2-1207 on such purse supplements
+30 and breeder and stallion awards. , except that
+31 (2)(a) If if a racetrack does not continue to conduct live race
+-6-
+
+LB1001 LB1001
+2026 2026
+1 meets, amounts deducted may be distributed as purse supplements and
+2 breeder and stallion awards at racetracks that conduct live race meets of
+3 the same breed of horse that has primarily run in live race meets at such
+4 track.
+5 (b) Amounts and amounts deducted pursuant to a contract with the
+6 organization representing the majority of the licensed owners and
+7 trainers at the racetrack's most recent live thoroughbred race meet shall
+8 be used by that organization to promote live thoroughbred horseracing in
+9 the state or as purse supplements at racetracks that conduct live
+10 thoroughbred race meets in the state.
+11 (c) Amounts deducted pursuant to a contract between the organization
+12 representing the majority of licensed owners and trainers at the
+13 racetrack's most recent live quarterhorse race meet shall be used by such
+14 organization to promote live quarterhorse race meets in the state.
+15 (3) Any costs incurred by the commission pursuant to this section
+16 and subsection (2) of section 2-1207 shall be separately accounted for
+17 and be deducted from such funds.
+18 Sec. 4. Section 2-1210, Revised Statutes Supplement, 2025, is
+19 amended to read:
+20 2-1210 (1) For purposes of sections 2-1201 to 2-1218, licensed
+21 racetrack enclosure means all real property licensed and utilized for the
+22 conduct of a race meeting, including the racetrack and any grandstand,
+23 concession stand, office, barn, barn area, employee housing facility,
+24 parking lot, and additional area designated by the commission in
+25 accordance with the Constitution of Nebraska and applicable Nebraska law.
+26 (2) The Nebraska State Fair Board, a county fair board, a county
+27 agricultural society for the improvement of agriculture organized under
+28 the County Agricultural Society Act, or a corporation or association of
+29 persons organized and carried on for civic purposes or which conducts a
+30 livestock exposition for the promotion of the livestock or horse-breeding
+31 industries of the state and which does not permit its members to derive
+-7-
+
+LB1001 LB1001
+2026 2026
+1 personal profit from its activities by way of dividends or otherwise may
+2 apply in a manner prescribed by the commission for a racetrack enclosure
+3 license to operate a licensed racetrack enclosure along with an
+4 application fee of ten thousand dollars. A racetrack enclosure license
+5 shall be valid for a period of up to three years. Such license may be
+6 renewed in a manner prescribed by the commission, and such application
+7 for renewal shall be accompanied by a fee of ten thousand dollars.
+8 (3) A racetrack enclosure license issued pursuant to this section
+9 for purposes of operating a licensed racetrack enclosure is separate and
+10 distinct from the license required to conduct horseracing meets issued
+11 pursuant to section 2-1204.
+12 (4) A licensee holding a license to conduct horseracing meets at a
+13 designated place within the state pursuant to section 2-1204 prior to
+14 September 3, 2025, shall be deemed to hold a racetrack enclosure license
+15 for such designated place within the state for purposes of this section
+16 and the Nebraska Racetrack Gaming Act until the commission acts upon the
+17 licensee's application for a racetrack enclosure license under this
+18 section.
+19 Sec. 5. Section 2-1213, Reissue Revised Statutes of Nebraska, is
+20 amended to read:
+21 2-1213 (1)(a) No license shall be granted for racing on more than
+22 one racetrack in any one county, except that the commission may, in its
+23 discretion, grant a license to any county agricultural society to conduct
+24 racing during its county fair notwithstanding a license may have been
+25 issued for racing on another track in such county.
+26 (b) Since the purpose of sections 2-1201 to 2-1218 is to encourage
+27 agriculture and horse breeding in Nebraska, every licensee shall hold at
+28 least one race on each racing day limited to Nebraska-bred horses,
+29 including thoroughbreds or quarterhorses. Three percent of the first
+30 money of every purse won by a Nebraska-bred horse shall be paid to the
+31 breeder of such horse.
+-8-
+
+LB1001 LB1001
+2026 2026
+1 (2) For purposes of this section, Nebraska-bred horse shall mean a
+2 horse registered with the Nebraska Thoroughbred or Quarter Horse Registry
+3 and meeting the following requirements: (a) It shall have been foaled in
+4 Nebraska; (b) its dam shall have been registered, prior to foaling, with
+5 the Nebraska Thoroughbred or Quarter Horse Registry; and (c) its dam
+6 shall have been continuously in Nebraska for ninety days immediately
+7 prior to foaling, except that such ninety-day period may be reduced to
+8 thirty days in the case of a mare in foal which is purchased at a
+9 nationally recognized thoroughbred or quarterhorse blood stock sale, the
+10 name and pedigree of the mare being listed in the sale catalog, and which
+11 is brought into this state and remains in this state for thirty days
+12 immediately prior to foaling.
+13 (3) The requirement that a dam shall be continuously in Nebraska for
+14 either ninety days or thirty days, as specified in subdivision (2)(c) of
+15 this section, shall not apply to a dam which is taken outside of Nebraska
+16 to be placed for sale at a nationally recognized thoroughbred or
+17 quarterhorse blood stock sale, the name and pedigree of the mare being
+18 listed in the sale catalog, or for the treatment of an extreme sickness
+19 or injury, if written notice of such proposed sale or treatment is
+20 provided to the secretary of the commission within three days of the date
+21 such horse is taken out of the state.
+22 (4) The commission shall may designate official registrars for the
+23 purpose of registration and to certify the eligibility of Nebraska-bred
+24 horses. An official registrar shall perform such duties in accordance
+25 with policies and procedures adopted and promulgated by the commission in
+26 the current rules and regulations of the commission. The commission may
+27 authorize the official registrar to collect specific fees as would
+28 reasonably compensate the registrar for expenses incurred in connection
+29 with registration of Nebraska-bred horses. The amount of such fee or fees
+30 shall be established by the commission and shall not be changed without
+31 commission approval. Fees shall not exceed two one hundred dollars per
+-9-
+
+LB1001 LB1001
+2026 2026
+1 horse.
+2 (5) A horse of any breed that meets the requirements of subsection
+3 (2) of this section to be eligible for registration with the Nebraska
+4 Thoroughbred or Quarter Horse Registry shall be registered with the
+5 appropriate official registrar designated by the commission within ninety
+6 days of being born. An owner or breeder that fails to register a horse
+7 that meets the requirements of subsection (2) of this section to qualify
+8 as a Nebraska-bred horse within such timeframe shall be subject to an
+9 administrative fee of up to one thousand dollars payable to the official
+10 registrar for the applicable breed. Any such fee shall be used to cover
+11 the costs of administering the official registrar's statutory duties.
+12 (6) Any decision or action taken by the official registrar shall be
+13 subject to review by the commission or may be taken up by the commission
+14 on its own initiative.
+15 Sec. 6. Section 2-1216, Reissue Revised Statutes of Nebraska, is
+16 amended to read:
+17 2-1216 The parimutuel system of wagering on the results of
+18 horseraces, when conducted pursuant to section 2-1207 within the
+19 racetrack enclosure at licensed horserace meetings, shall not under any
+20 circumstances be held or construed to be unlawful, any other statutes of
+21 the State of Nebraska to the contrary notwithstanding. The money inuring
+22 to the commission under sections 2-1201 to 2-1218 relating to horseracing
+23 from permit fees or from other sources shall never be considered as
+24 license money. It is the intention of the Legislature that the funds
+25 arising under such sections be construed as general revenue to be
+26 appropriated and allocated exclusively for the specific purposes set
+27 forth in such sections.
+28 Sec. 7. Section 2-1226, Reissue Revised Statutes of Nebraska, is
+29 amended to read:
+30 2-1226 Any racetrack issued a license under sections 2-1201 to
+31 2-1223 which operates at least one live race meet during each calendar
+-10-
+
+LB1001 LB1001
+2026 2026
+1 year except as provided in section 2-1228 may apply to the commission for
+2 a simulcast facility license. An application for such license shall be in
+3 such form as may be prescribed by the commission and shall contain such
+4 information, material, or evidence as the commission may require. Any
+5 racetrack issued a simulcast facility license may display the simulcast
+6 of a horserace on which parimutuel wagering shall be allowed.
+7 Sec. 8. Section 2-1228, Reissue Revised Statutes of Nebraska, is
+8 amended to read:
+9 2-1228 Any racetrack issued a license under sections 2-1201 to
+10 2-1223 (1) conducting primarily quarterhorse races in the year
+11 immediately preceding the year for which application is made , regardless
+12 of the total number of days of live racing conducted in such year, or (2)
+13 conducting primarily thoroughbred horseraces in the year immediately
+14 preceding the year for which application is made which conducted live
+15 racing on at least seventy percent of the days for which it was
+16 authorized to conduct live racing in 1988 unless the commission
+17 determines that such racetrack was unable to conduct live racing on the
+18 required number of days due to factors beyond its control, including, but
+19 not limited to, fire, earthquake, tornado, or other natural disaster, may
+20 apply to the commission for an interstate simulcast facility license. An
+21 application for such license shall be in a form prescribed by the
+22 commission and shall contain such information, material, or evidence as
+23 the commission may require. Any racetrack issued an interstate simulcast
+24 facility license may conduct the interstate simulcast of any horserace
+25 permitted under its license, and parimutuel wagering shall be allowed on
+26 such horserace. The commission shall not authorize interstate
+27 simulcasting for any racetrack pursuant to sections 2-1201 to 2-1223
+28 unless all of the thoroughbred racetracks together applied for and
+29 received authority to conduct at least one hundred eighty live racing
+30 days in the calendar year in which the application is made. If any
+31 racetrack conducts live racing for less than seventy percent of the days
+-11-
+
+LB1001 LB1001
+2026 2026
+1 assigned such racetrack in 1988, (a) such racetrack shall be precluded
+2 from conducting interstate simulcasts and (b) the number of live racing
+3 days conducted by such racetrack shall be subtracted from an amount equal
+4 to seventy percent of all the days assigned such racetrack in 1988 and
+5 the amount remaining shall be deducted from the one-hundred-eighty-day
+6 total required by this section. If any racetrack ceases to conduct live
+7 racing, seventy percent of the days assigned such racetrack in 1988 shall
+8 be deducted from the one-hundred-eighty-day total required by this
+9 section.
+10 Sec. 9. Section 2-1229, Reissue Revised Statutes of Nebraska, is
+11 amended to read:
+12 2-1229 (1) The commission may authorize and approve an application
+13 for an interstate simulcast facility license by any a receiving track
+14 within the state to receive the interstate simulcast of horseraces for
+15 parimutuel wagering purposes from any track located outside of the state.
+16 In determining whether such application should be approved, the
+17 commission shall consider whether such interstate simulcast would have a
+18 significant effect upon either live racing or the simulcasting of live
+19 racing of the same type and at the same time conducted in this state and
+20 whether it would expand the access to or availability of simulcasting to
+21 areas of the state or markets which are not at the time of the
+22 application fully served.
+23 (2)(a) Prior to approving any such application from a track running
+24 primarily thoroughbred horseraces, the commission shall confer with and
+25 receive any recommendations of the organization which represents the
+26 majority of the thoroughbred breeders in Nebraska as to what effect an
+27 interstate simulcast would have upon thoroughbred horse breeding and
+28 horseracing in this state. Prior to approving any such application from a
+29 track running primarily quarterhorse horseraces, the commission shall
+30 confer with and receive recommendation of the organization which
+31 represents the majority of quarterhorse breeders in Nebraska as to what
+-12-
+
+LB1001 LB1001
+2026 2026
+1 effect an interstate simulcast would have upon quarterhorse breeding and
+2 horseracing in this state.
+3 (b) No application submitted under section 2-1228 shall be approved
+4 by the commission without:
+5 (i) (a) The prior written approval of any other racetrack issued a
+6 license under sections 2-1201 to 2-1223 and conducting live racing of the
+7 same type on the same day at the same time as the proposed interstate
+8 simulcast race or races and of the organization which represented a
+9 majority of the licensed owners and trainers at the racetrack's
+10 immediately preceding live thoroughbred or quarterhorse race meeting;
+11 (ii) (b) The prior written approval of any other racetrack issued a
+12 license under sections 2-1224 to 2-1227 which is simulcasting the racing
+13 program of any licensee conducting live racing in this state of the same
+14 type on the same day at the same time as the proposed interstate
+15 simulcast race or races and of the organization which represented a
+16 majority of the licensed owners and trainers at the racetrack's
+17 immediately preceding live thoroughbred race meeting; and
+18 (iii) (c) A written agreement between the receiving track and the
+19 sending track located outside of the state in any other state, territory,
+20 or possession of the United States, the District of Columbia, or the
+21 Commonwealth of Puerto Rico setting forth the division of all proceeds
+22 between the sending and receiving tracks and all other conditions under
+23 which such interstate simulcast will be conducted. Such written agreement
+24 shall have the consent of the group representing the majority of
+25 horsepersons racing at the sending track and of the organization which
+26 represented a majority of the licensed owners and trainers at the
+27 receiving track's immediately preceding live thoroughbred race meeting.
+28 (3) (2) Every licensee authorized to accept wagers on interstate
+29 simulcast events pursuant to this section shall be deemed to be
+30 conducting a licensed horserace meeting and shall also be subject to all
+31 appropriate provisions of sections 2-1201 to 2-1223 relating to the
+-13-
+
+LB1001 LB1001
+2026 2026
+1 conduct of horserace meetings.
+2 Sec. 10. Section 9-1,101, Revised Statutes Supplement, 2025, is
+3 amended to read:
+4 9-1,101 (1) The Nebraska Bingo Act, the Nebraska County and City
+5 Lottery Act, the Nebraska Lottery and Raffle Act, the Nebraska Pickle
+6 Card Lottery Act, the Nebraska Small Lottery and Raffle Act, and section
+7 9-701 shall be administered and enforced by the Charitable Gaming
+8 Division of the Department of Revenue, which division is hereby created.
+9 The Department of Revenue shall make annual reports to the Governor,
+10 Legislature, Auditor of Public Accounts, and Attorney General on all tax
+11 revenue received, expenses incurred, and other activities relating to the
+12 administration and enforcement of such acts. The report submitted to the
+13 Legislature shall be submitted electronically.
+14 (2) The Charitable Gaming Operations Fund is hereby created. Any
+15 money in the fund available for investment shall be invested by the state
+16 investment officer pursuant to the Nebraska Capital Expansion Act and the
+17 Nebraska State Funds Investment Act.
+18 (3)(a) Forty percent of the taxes collected pursuant to sections
+19 9-239, 9-344, 9-429, and 9-648 shall be available to the Charitable
+20 Gaming Division for administering and enforcing the acts listed in
+21 subsection (1) of this section and to the State Racing and Gaming
+22 Commission for providing administrative support for the Nebraska
+23 Commission on Problem Gambling. The remaining sixty percent shall be
+24 transferred to the General Fund. Any portion of the forty percent not
+25 used by the division in the administration and enforcement of such acts
+26 and section shall be distributed as provided in this subsection.
+27 (b) Beginning July 1, 2019, through June 30, 2026, on or before the
+28 last day of the last month of each calendar quarter, the State Treasurer
+29 shall transfer one hundred thousand dollars from the Charitable Gaming
+30 Operations Fund to the Compulsive Gamblers Assistance Fund.
+31 (c) Any money remaining in the Charitable Gaming Operations Fund
+-14-
+
+LB1001 LB1001
+2026 2026
+1 after the transfer pursuant to subdivision (b) of this subsection not
+2 used by the Charitable Gaming Division in its administration and
+3 enforcement duties pursuant to this section may be transferred to the
+4 General Fund and the Compulsive Gamblers Assistance Fund at the direction
+5 of the Legislature.
+6 (4) The Tax Commissioner shall employ investigators who shall be
+7 vested with the authority and power of a law enforcement officer to carry
+8 out the laws of this state administered by the Tax Commissioner or the
+9 Department of Revenue and to enforce sections 28-1101 to 28-1117 relating
+10 to possession of a gambling device. For purposes of enforcing sections
+11 28-1101 to 28-1117, the authority of the investigators shall be limited
+12 to investigating possession of a gambling device, notifying local law
+13 enforcement authorities, and reporting suspected violations to the county
+14 attorney for prosecution.
+15 (5) The Charitable Gaming Division may charge a fee for publications
+16 and listings it produces. The fee shall not exceed the cost of
+17 publication and distribution of such items. The division may also charge
+18 a fee for making a copy of any record in its possession equal to the
+19 actual cost per page. The division shall remit the fees to the State
+20 Treasurer for credit to the Charitable Gaming Operations Fund.
+21 (6) The taxes collected and available to the Charitable Gaming
+22 Division pursuant to section 77-3012 shall be used by the division for
+23 enforcement of the Mechanical Amusement Device Tax Act and maintenance of
+24 the central server established pursuant to section 77-3013.
+25 (7) For administrative purposes only, the Nebraska Commission on
+26 Problem Gambling shall be located within the Charitable Gaming Division.
+27 The division shall provide office space, furniture, equipment, and
+28 stationery and other necessary supplies for the commission. Commission
+29 staff shall be appointed, supervised, and terminated by the director of
+30 the Gamblers Assistance Program pursuant to section 9-1004.
+31 Sec. 11. Section 9-831, Reissue Revised Statutes of Nebraska, is
+-15-
+
+LB1001 LB1001
+2026 2026
+1 amended to read:
+2 9-831 The division shall spend not less than five percent of the
+3 advertising budget for the state lottery on problem gambling prevention,
+4 education, and awareness messages. The division shall collaborate with
+5 the Nebraska Commission on Problem Gambling to coordinate messages
+6 developed under this section with the prevention, education, and
+7 awareness messages in use by or developed in conjunction with the
+8 Gamblers Assistance Program established pursuant to section 9-1005. For
+9 purposes of this section, the advertising budget for the state lottery
+10 includes amounts budgeted and spent for advertising, promotions,
+11 incentives, public relations, marketing, or contracts for the purchase or
+12 lease of goods or services that include advertising, promotions,
+13 incentives, public relations, or marketing, but does not include in-kind
+14 contributions by media outlets.
+15 Sec. 12. Section 9-1001, Reissue Revised Statutes of Nebraska, is
+16 amended to read:
+17 9-1001 The Legislature finds that the main sources of funding for
+18 assistance to problem gamblers are the Charitable Gaming Operations Fund
+19 as provided in section 9-1,101, annual gaming tax proceeds as provided in
+20 section 9-1204, and the State Lottery Operation Trust Fund as provided in
+21 section 9-812. It is the intent of the Legislature that such funding be
+22 used primarily for counseling and treatment services for problem gamblers
+23 and their families who are residents of Nebraska.
+24 Sec. 13. Section 9-1002, Reissue Revised Statutes of Nebraska, is
+25 amended to read:
+26 9-1002 For purposes of sections 9-1001 to 9-1006 9-1007:
+27 (1) Commission means the Nebraska Commission on Problem Gambling;
+28 (2) Division means the Charitable Gaming Division of the Department
+29 of Revenue;
+30 (2) (3) Problem gambling means maladaptive gambling behavior that
+31 disrupts personal, family, or vocational pursuits; and
+-16-
+
+LB1001 LB1001
+2026 2026
+1 (3) (4) Program means the Gamblers Assistance Program.
+2 Sec. 14. Section 9-1003, Reissue Revised Statutes of Nebraska, is
+3 amended to read:
+4 9-1003 (1) The Nebraska Commission on Problem Gambling is created.
+5 For administrative purposes only, the Nebraska Commission on Problem
+6 Gambling commission shall be within the State Racing and Gaming
+7 Commission division. The commission shall have nine members appointed by
+8 the Governor as provided in this section, subject to confirmation by a
+9 majority of the members of the Legislature. The members of the Nebraska
+10 Commission on Problem Gambling commission shall have no pecuniary
+11 interest, either directly or indirectly, in a contract with the program
+12 providing services to problem gamblers and shall not be employed by the
+13 commission or the State Racing and Gaming Commission Department of
+14 Revenue.
+15 (2) By July 1, 2013, the Governor shall appoint members of the
+16 Nebraska Commission on Problem Gambling commission as follows:
+17 (a) One member with medical care or mental health expertise;
+18 (b) One member with expertise in banking and finance;
+19 (c) One member with legal expertise;
+20 (d) One member with expertise in the field of education;
+21 (e) Two members who are consumers of problem gambling services;
+22 (f) One member with data analysis expertise; and
+23 (g) Two members who are residents of the state and are
+24 representative of the public at large.
+25 (3) The terms of the members shall be for three years, except that
+26 the Governor shall designate three of the initial appointees to serve
+27 initial terms beginning on July 1, 2013, and ending on March 1, 2014,
+28 three of the initial appointees to serve initial terms beginning on July
+29 1, 2013, and ending on March 1, 2015, and three of the initial appointees
+30 to serve initial terms beginning on July 1, 2013, and ending on March 1,
+31 2016. The Governor shall appoint members to fill vacancies in the same
+-17-
+
+LB1001 LB1001
+2026 2026
+1 manner as the original appointments, and such appointees shall serve for
+2 the remainder of the unexpired term.
+3 (4) Beginning July 1, 2013, the commission shall adopt bylaws
+4 governing its operation and the commission shall meet at least four times
+5 each calendar year and may meet more often on the call of the
+6 chairperson. Each member shall attend at least two meetings each calendar
+7 year and shall be subject to removal for failure to attend at least two
+8 meetings unless excused by a majority of the members of the commission.
+9 Meetings of the commission are subject to the Open Meetings Act.
+10 Sec. 15. Section 9-1004, Reissue Revised Statutes of Nebraska, is
+11 amended to read:
+12 9-1004 (1) The commission shall appoint one of its members as
+13 chairperson and such other officers as it deems appropriate. Members
+14 shall be reimbursed for expenses in carrying out their duties as members
+15 of the commission as provided in sections 81-1174 to 81-1177.
+16 (2) The commission shall develop guidelines and standards for the
+17 operation of the program and shall direct the distribution and
+18 disbursement of money in the Compulsive Gamblers Assistance Fund.
+19 (3) The commission shall appoint a director of the program, provide
+20 for office space and equipment, and support and facilitate the work of
+21 the program. The director may hire, terminate, and supervise commission
+22 and program staff, shall be responsible for the duties of the office and
+23 the administration of the program, and shall electronically provide an
+24 annual report to the General Affairs Committee of the Legislature which
+25 includes issues and policy concerns that relate to problem gambling in
+26 Nebraska. All documents, files, equipment, effects, and records belonging
+27 to the State Committee on Problem Gambling on June 30, 2013, shall become
+28 the property of the commission on July 1, 2013.
+29 (4) The commission shall (a) provide for a process for the
+30 evaluation and approval of provider applications and contracts for
+31 treatment and other services funded from the Compulsive Gamblers
+-18-
+
+LB1001 LB1001
+2026 2026
+1 Assistance Fund and (b) develop standards and guidelines for training and
+2 certification of problem gambling counselors.
+3 (5) The commission shall provide for (a) the review and use of
+4 evaluation data, (b) the use and expenditure of funds for education
+5 regarding problem gambling and prevention of problem gambling, and (c)
+6 the creation and implementation of outreach and educational programs
+7 regarding problem gambling for Nebraska residents.
+8 (6) The commission may adopt and promulgate rules and regulations
+9 and engage in other activities it finds necessary to carry out its duties
+10 under sections 9-1001 to 9-1006 9-1007.
+11 (7) The commission shall submit a report within sixty days after the
+12 end of each fiscal year to the Governor and the Clerk of the Legislature
+13 that provides details of the administration of the program and
+14 distribution of funds from the Compulsive Gamblers Assistance Fund. The
+15 report submitted to the Legislature shall be submitted electronically.
+16 Sec. 16. Section 9-1006, Reissue Revised Statutes of Nebraska, is
+17 amended to read:
+18 9-1006 The Compulsive Gamblers Assistance Fund is created. The fund
+19 shall include revenue transferred from the State Lottery Operation Trust
+20 Fund under section 9-812 and the Charitable Gaming Operations Fund under
+21 section 9-1,101 and any other revenue received by the division or
+22 commission for credit to the fund from any other public or private
+23 source, including, but not limited to, distributions of annual gaming tax
+24 proceeds as provided in section 9-1204, appropriations, grants,
+25 donations, gifts, devises, bequests, fees, or reimbursements. The
+26 commission shall administer the fund for the operation of the Gamblers
+27 Assistance Program. The Director of Administrative Services shall draw
+28 warrants upon the Compulsive Gamblers Assistance Fund upon the
+29 presentation of proper vouchers by the commission. Money from the
+30 Compulsive Gamblers Assistance Fund shall be used exclusively for the
+31 purpose of providing assistance to agencies, groups, organizations, and
+-19-
+
+LB1001 LB1001
+2026 2026
+1 individuals that provide education, assistance, and counseling to
+2 individuals and families experiencing difficulty as a result of problem
+3 gambling, to promote the awareness of problem gamblers assistance
+4 programs, and to pay the costs and expenses of the Gamblers Assistance
+5 Program, including travel. Any money in the fund available for investment
+6 shall be invested by the state investment officer pursuant to the
+7 Nebraska Capital Expansion Act and the Nebraska State Funds Investment
+8 Act.
+9 Sec. 17. Section 9-1104, Revised Statutes Supplement, 2025, is
+10 amended to read:
+11 9-1104 (1) The operation of games of chance at a licensed racetrack
+12 enclosure may be conducted by an authorized gaming operator who holds an
+13 authorized gaming operator license.
+14 (2) No more than one authorized gaming operator license shall be
+15 granted for each licensed racetrack enclosure within the state. It shall
+16 not be a requirement that the person or entity applying for or to be
+17 granted such authorized gaming operator license hold a racing license or
+18 be the same person or entity who operates the licensed racetrack
+19 enclosure at which such authorized gaming operator license shall be
+20 granted.
+21 (3) Gaming devices, limited gaming devices, and all other games of
+22 chance may be operated by authorized gaming operators at a licensed
+23 racetrack enclosure.
+24 (4)(a) Except as provided in subdivision (b) of this subsection, no
+25 (4) No person younger than twenty-one years of age shall play or
+26 participate in any way in any game of chance or use any gaming device or
+27 limited gaming device at a licensed racetrack enclosure.
+28 (b) A person nineteen years of age or older shall be allowed to play
+29 or participate in a keno lottery conducted in accordance with the
+30 Nebraska County and City Lottery Act at a licensed racetrack enclosure as
+31 long as such keno lottery is played in an area separate from the casino
+-20-
+
+LB1001 LB1001
+2026 2026
+1 gaming floor where other games of chance are played.
+2 (5)(a) Except as provided in subdivision (b) of this subsection, no
+3 (5) No authorized gaming operator shall permit an individual younger than
+4 twenty-one years of age to play or participate in any game of chance or
+5 use any gaming device or limited gaming device conducted or operated
+6 pursuant to the Nebraska Racetrack Gaming Act.
+7 (b) An authorized gaming operator may permit a person nineteen years
+8 of age or older to play or participate in a keno lottery conducted in
+9 accordance with the Nebraska County and City Lottery Act at a licensed
+10 racetrack enclosure as long as such keno lottery is played in an area
+11 separate from the casino gaming floor where other games of chance are
+12 played.
+13 (6) Except as provided in any waiver or modification approved by the
+14 commission pursuant to section 2-1205, if If the licensed racetrack
+15 enclosure at which such authorized gaming operator conducts games of
+16 chance does not hold the minimum number of live racing meets required
+17 under section 2-1205, the authorized gaming operator shall be required to
+18 cease operating games of chance at such licensed racetrack enclosure
+19 until such time as the commission determines the deficiency has been
+20 corrected.
+21 (7) Beginning on the implementation date designated by the Tax
+22 Commissioner pursuant to subsection (1) of section 9-1312, prior to the
+23 winnings payment of any casino winnings as defined in section 9-1303, an
+24 authorized gaming operator shall check the collection system to determine
+25 if the winner has a debt or an outstanding state liability as required by
+26 the Gambling Winnings Setoff for Outstanding Debt Act. If such authorized
+27 gaming operator determines that the winner is subject to the collection
+28 system, the operator shall deduct the amount of debt and outstanding
+29 state liability identified in the collection system from the winnings
+30 payment and shall remit the net winnings payment of casino winnings, if
+31 any, to the winner and the amount deducted to the Department of Revenue
+-21-
+
+LB1001 LB1001
+2026 2026
+1 to be credited against such debt or outstanding state liability as
+2 provided in section 9-1306.
+3 Sec. 18. Section 9-1115, Reissue Revised Statutes of Nebraska, is
+4 amended to read:
+5 9-1115 (1) A person who knowingly permits an individual whom the
+6 person knows is younger than twenty-one years of age to participate in a
+7 game of chance is guilty of a Class I misdemeanor.
+8 (2) A person who participates in a game of chance when such person
+9 is younger than twenty-one years of age at the time of participation is
+10 guilty of a Class I misdemeanor.
+11 (3) This section does not apply (a) to a person who permits an
+12 individual who is nineteen years of age or older to participate in a keno
+13 lottery conducted in accordance with the Nebraska County and City Lottery
+14 Act at a licensed racetrack enclosure as long as such keno lottery is
+15 played in an area separate from the casino gaming floor where other games
+16 of chance are played or (b) to a person nineteen years of age or older
+17 who participates in a keno lottery conducted in accordance with the
+18 Nebraska County and City Lottery Act at a licensed racetrack enclosure as
+19 long as such keno lottery is played in an area separate from the casino
+20 gaming floor where other games of chance are played.
+21 Sec. 19. Original sections 2-1207.01, 2-1213, 2-1216, 2-1226,
+22 2-1228, 2-1229, 9-831, 9-1001, 9-1002, 9-1003, 9-1004, 9-1006, and
+23 9-1115, Reissue Revised Statutes of Nebraska, section 2-1207, Revised
+24 Statutes Cumulative Supplement, 2024, and sections 2-1205, 2-1210,
+25 9-1,101, and 9-1104, Revised Statutes Supplement, 2025, are repealed.
+26 Sec. 20. The following section is outright repealed: Section
+27 9-1107, Revised Statutes Supplement, 2025.
+-22-

@@ -1,0 +1,84 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LB771 LB771
+2026 2026
+LEGISLATURE OF NEBRASKA
+ONE HUNDRED NINTH LEGISLATURE
+SECOND SESSION
+LEGISLATIVE BILL 771
+Introduced by Ballard, 21.
+Read first time January 07, 2026
+Committee: Transportation and Telecommunications
+1 A BILL FOR AN ACT relating to transportation; to amend section 75-327,
+2 Reissue Revised Statutes of Nebraska; to change provisions relating
+3 to dynamic pricing used by transportation network companies during
+4 states of emergency declared by the Governor; and to repeal the
+5 original section.
+6 Be it enacted by the people of the State of Nebraska,
+-1-
+
+LB771 LB771
+2026 2026
+1 Section 1. Section 75-327, Reissue Revised Statutes of Nebraska, is
+2 amended to read:
+3 75-327 (1) A participating driver shall not provide a ride unless it
+4 is a prearranged ride. No person shall be a participating driver for a
+5 period of more than twelve hours during each twenty-four-hour period.
+6 (2)(a) A transportation network company may offer service for
+7 compensation, no charge, or suggested compensation.
+8 (b) Except as provided in this section, transportation network
+9 companies shall not be subject to rate regulation by the commission and
+10 shall not be subject to provisions relating to rates and charges
+11 prescribed in sections 75-101 to 75-158.
+12 (c) A transportation network company shall file with the commission
+13 the rates it uses to determine any compensation or suggested compensation
+14 on its online-enabled application or platform, including any use of
+15 dynamic pricing. The transportation network company shall keep the rate
+16 filing current and shall charge rates consistent with the rates it files
+17 with the commission.
+18 (d) The following requirements apply if the transportation network
+19 company uses dynamic pricing through its online-enabled application or
+20 platform:
+21 (i) The transportation network company's online-enabled application
+22 or platform shall provide clear visible indication that dynamic pricing
+23 is in effect prior to the passenger requesting a ride;
+24 (ii) The transportation network company's online-enabled application
+25 or platform shall include a feature that requires the passenger to
+26 expressly confirm that he or she understands that dynamic pricing will be
+27 used in order for the ride request to be completed;
+28 (iii) The transportation network company's online-enabled
+29 application or platform shall provide a fare estimator that enables the
+30 passenger to estimate the cost under dynamic pricing prior to requesting
+31 the ride; and
+-2-
+
+LB771 LB771
+2026 2026
+1 (iv) At the discretion of the Governor, dynamic pricing is permitted
+2 in any political subdivision that is specified as the subject of a state
+3 of emergency declared by the Governor unless specifically prohibited by
+4 the Governor in the emergency proclamation or by an executive order. Any
+5 prohibition on dynamic pricing shall be for the time period specified by
+6 the Governor in the emergency proclamation or in the executive order.
+7 Except as otherwise provided, dynamic pricing is permitted in any
+8 political subdivision that is not specified as the subject of a state of
+9 emergency declared by the Governor. Dynamic pricing shall not be
+10 permitted during any state of emergency declared by the Governor.
+11 (3) Upon completion of a prearranged ride, a transportation network
+12 company shall transmit an electronic receipt to the passenger's email
+13 address or online-enabled application documenting the following:
+14 (a) The point of origin and destination of the prearranged ride;
+15 (b) The total duration and distance of the prearranged ride;
+16 (c) The total amount paid, if any, including the base fare and any
+17 additional charges incurred for distance traveled or duration of the
+18 prearranged ride; and
+19 (d) The driver's first name.
+20 Sec. 2. Original section 75-327, Reissue Revised Statutes of
+21 Nebraska, is repealed.
+-3-

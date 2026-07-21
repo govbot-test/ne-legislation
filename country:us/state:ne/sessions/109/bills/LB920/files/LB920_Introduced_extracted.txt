@@ -1,0 +1,475 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LB920 LB920
+2026 2026
+LEGISLATURE OF NEBRASKA
+ONE HUNDRED NINTH LEGISLATURE
+SECOND SESSION
+LEGISLATIVE BILL 920
+Introduced by Spivey, 13.
+Read first time January 09, 2026
+Committee: Revenue
+1 A BILL FOR AN ACT relating to the Mechanical Amusement Device Tax Act; to
+2 amend sections 77-3003.01, 77-3003.02, 77-3006, 77-3009, and
+3 77-3012, Revised Statutes Cumulative Supplement, 2024; to change
+4 provisions relating to the advertisement, operation, and records of
+5 a cash device under the act; to change provisions relating to
+6 violations of the act; to change provisions relating to the amount
+7 and distribution of the tax imposed on the net operating revenue of
+8 a cash device; to provide powers and duties to the Tax Commissioner
+9 and the Department of Revenue; to create the Nebraska Child Care Aid
+10 Fund; to harmonize provisions; and to repeal the original sections.
+11 Be it enacted by the people of the State of Nebraska,
+-1-
+
+LB920 LB920
+2026 2026
+1 Section 1. Section 77-3003.01, Revised Statutes Cumulative
+2 Supplement, 2024, is amended to read:
+3 77-3003.01 (1)(a) The Tax Commissioner or his or her agents or
+4 employees, at the direction of the Tax Commissioner, or any peace officer
+5 of this state may seize, without a warrant, any mechanical amusement
+6 device if there is cause to believe such mechanical amusement device is
+7 not in compliance with the Mechanical Amusement Device Tax Act or any
+8 rules and regulations adopted and promulgated under the act or if the
+9 department determines the response to a request for information is
+10 materially deficient without good cause. In addition to seizure, any
+11 person placing in service or operating a cash device constituting an
+12 illegal game of chance or an unlicensed cash device of any kind within
+13 this state shall be subject to a penalty of up to one thousand dollars
+14 for each day of such operation. The Tax Commissioner has the authority to
+15 suspend or revoke the license of any operator, manufacturer, or
+16 distributor of a cash device that is in violation of this section.
+17 (b) For purposes of this subsection, a mechanical amusement device
+18 is subject to seizure and penalties as if it were a game of chance if:
+19 (i) The mechanical amusement device is a cash device; and
+20 (ii) The mechanical amusement device does not bear an unexpired
+21 decal as required under the Mechanical Amusement Device Tax Act.
+22 (c) This section does not apply to any device (i) used in any bingo,
+23 lottery by the sale of pickle cards, or other lottery, raffle, or gift
+24 enterprise conducted in accordance with the Nebraska Bingo Act, Nebraska
+25 County and City Lottery Act, Nebraska Lottery and Raffle Act, Nebraska
+26 Pickle Card Lottery Act, Nebraska Small Lottery and Raffle Act, State
+27 Lottery Act, or section 9-701, (ii) used for a prize contest as defined
+28 in section 28-1101, (iii) specifically authorized by the laws of this
+29 state, or (iv) regulated under the Nebraska Racetrack Gaming Act.
+30 (2) To receive a determination from the department that a cash
+31 device is in compliance with the Mechanical Amusement Device Tax Act and
+-2-
+
+LB920 LB920
+2026 2026
+1 any rules and regulations adopted and promulgated under the act, a
+2 manufacturer or distributor of the device shall:
+3 (a) Submit an application to the Tax Commissioner containing
+4 information regarding the device's location, software, Internet
+5 connectivity, and configuration as may be required by the Tax
+6 Commissioner;
+7 (b) Submit an application fee of five hundred dollars;
+8 (c) Provide a specimen of the proposed cash device;
+9 (d) Provide all supporting evidence, including a report by an
+10 independent testing laboratory certified by the Tax Commissioner, to the
+11 Tax Commissioner indicating that, under all configurations, settings, and
+12 modes of operation, operation of the cash device constitutes a game of
+13 skill and not a game of chance and the use, operation, sale, or
+14 manufacture of the cash device would not constitute a violation of
+15 section 28-1107; and
+16 (e) Provide an affidavit from the manufacturer or distributor
+17 affirming that no functional changes in hardware or software will be made
+18 to the approved cash device without further approval from the Tax
+19 Commissioner.
+20 (3) The Tax Commissioner shall issue a response in writing to the
+21 applicant within forty-five days after the applicant has completed and
+22 submitted all application requirements. The Tax Commissioner's response
+23 shall state the reason for any denial or the reasons a determination
+24 cannot be made.
+25 (4)(a) A cash device shall not be considered a game of skill if one
+26 or more of the following apply:
+27 (i) The ability of any player to succeed at the game played on the
+28 cash device is impacted by the number or ratio of prior wins to prior
+29 losses of players playing such cash device;
+30 (ii) The ability of the player to succeed at the game played on the
+31 cash device is impacted by the ability of any person to set a specified
+-3-
+
+LB920 LB920
+2026 2026
+1 win-loss ratio for the cash device or by the cash device having a
+2 predetermined win-loss percentage;
+3 (iii) The outcome of the game played on the cash device can be
+4 controlled by a source other than any player playing the cash device;
+5 (iv) The success of any player is or may be determined by a chance
+6 event which cannot be altered by player action;
+7 (v) There is no possibility for the player to win every game played
+8 on the cash device or there are unwinnable games or game modes on the
+9 cash device;
+10 (vi) The ability of any player to succeed at the game played on the
+11 cash device requires the exercise of skill that no reasonable player
+12 could exercise; or
+13 (vii) The primary determination of the prize amount is determined by
+14 the presentation or generation of a particular puzzle or group of symbols
+15 dealt to the player and the player does not have control over the puzzle
+16 or group of symbols presented.
+17 (b) For purposes of this subsection, reasonable player means a
+18 player with an average level of intelligence, physical and mental skills,
+19 reaction time, and dexterity.
+20 (5) The department or any court considering whether a gambling
+21 device is a game of skill may consider:
+22 (a) The results of an analysis by the independent testing laboratory
+23 certified by the Tax Commissioner to evaluate the reaction time required
+24 for a player of a particular game on such cash device to perform the
+25 tasks required by the game to win; or
+26 (b) The results of an analysis by the independent testing laboratory
+27 certified by the Tax Commissioner to evaluate factors set forth by the
+28 Tax Commissioner, other than reaction time, required for the player of a
+29 particular game on such cash device to perform the tasks required by the
+30 game to win.
+31 (6) Factors which are not sufficient indications of a skill-based
+-4-
+
+LB920 LB920
+2026 2026
+1 game include, but are not limited to:
+2 (a) Whether a comprehensive list of prizes or outcomes is offered to
+3 the player or whether all outcomes are drawn from a finite pool of
+4 predetermined outcomes or starting positions;
+5 (b) Whether a player can increase his or her chance of winning based
+6 on knowledge of probabilities in general or the probabilities of any
+7 particular prize or outcome in a game or on a cash device;
+8 (c) Whether a player can simply choose not to play before committing
+9 money or credits; or
+10 (d) A game task consisting solely of moving a symbol up or down,
+11 replacing one symbol with another, or any similar action, with or without
+12 a timer.
+13 (7) Upon approval of an application based on a determination that
+14 the mechanical amusement device is a game of skill and not a game of
+15 chance, the Tax Commissioner shall issue a mechanical amusement device
+16 decal for the device as configured and as provided in subsection (8) of
+17 this section. No mechanical amusement device decal shall be issued for
+18 any cash device unless the department has determined that (a) such cash
+19 device is a game of skill and not a game of chance and that the
+20 manufacture, sale, transport, placement, possession, or operation of such
+21 cash device does not constitute a violation of section 28-1107 and (b)
+22 the appearance of such cash device does not violate subsection (9) of
+23 this section. If the Tax Commissioner does not approve the application
+24 for the cash device, the application shall be denied and the operator
+25 shall have the opportunity for an administrative hearing before the Tax
+26 Commissioner at which evidence may be presented on the issue of whether
+27 the cash device is specifically authorized by law and is not a gambling
+28 device as defined in section 28-1101. After such hearing, the Tax
+29 Commissioner shall enter a final decision approving or denying the
+30 application. The Tax Commissioner's final decision may be appealed, and
+31 the appeal shall be in accordance with the Administrative Procedure Act.
+-5-
+
+LB920 LB920
+2026 2026
+1 (8)(a) Upon approval of a specimen of a cash device as a game of
+2 skill under this section, the department may issue a mechanical amusement
+3 device decal for each such cash device:
+4 (i) If certified by the manufacturer to be functionally identical in
+5 both hardware and software configurations to the specimen provided to the
+6 department; and
+7 (ii) If the application fee described in subdivision (2)(b) of this
+8 section and the annual decal fee described in subdivision (c) of this
+9 subsection have been paid.
+10 (b)(i) In order for a distributor or operator of a cash device to
+11 place a cash device into operation at a retail establishment, other than
+12 a retail establishment owned or operated by a fraternal benefit society
+13 organized and licensed under sections 44-1072 to 44-10,109 or a
+14 recognized veterans organization as defined in section 80-401.01, such
+15 retail establishment shall generate at least sixty percent of the gross
+16 operating revenue of such retail establishment from sources other than
+17 the total gross operating revenue of any cash devices located within the
+18 retail establishment.
+19 (ii) The number of cash devices permitted at any retail
+20 establishment shall not exceed the lesser of either:
+21 (A) Except for a fraternal benefit society organized and licensed
+22 under sections 44-1072 to 44-10,109 or a recognized veterans organization
+23 as defined in section 80-401.01, the number of cash devices it takes to
+24 generate forty percent of the gross operating revenue of the retail
+25 establishment; or
+26 (B) Four cash devices, except that an establishment with over four
+27 thousand square feet may have one cash device for each one thousand
+28 square feet, up to a maximum of fifteen cash devices.
+29 (c) The distributor or operator of a cash device shall pay an annual
+30 decal fee of two hundred fifty dollars to the department for each cash
+31 device in operation in Nebraska. The decal issued under this section
+-6-
+
+LB920 LB920
+2026 2026
+1 shall be distinct from other decals issued by the department for
+2 mechanical amusement devices that are not required to be evaluated under
+3 this section. Regardless of the issuance of a decal by the department, no
+4 cash device shall be considered in compliance if it does not bear an
+5 unexpired decal in a conspicuous place.
+6 (9)(a) An operator, distributor, or manufacturer of a cash device
+7 shall not market, advertise, promote, or make available any cash device
+8 in this state if the device or its container, packaging, or advertising
+9 materials:
+10 (i) Depict a cartoon-like or fictional character primarily used to
+11 appeal to minors; or
+12 (ii) Imitate or mimic the trademark, trade dress, branding, or
+13 packaging of products primarily marketed to minors.
+14 (b)(i) No person shall place or permit exterior advertising for a
+15 cash device on or about any premises where such device is located except
+16 as provided in this section.
+17 (ii) Each premises where a cash device is located may display not
+18 more than three exterior signs advertising the availability of a cash
+19 device available for play at such location. Any such sign shall:
+20 (A) Not exceed eleven inches in height and ten inches in width; and
+21 (B) Be permanently affixed to the exterior of the building that
+22 contains a cash device.
+23 (iii) No exterior banner, flag, window wraps, digital display,
+24 vehicle wrap, or other exterior advertising media shall be used to
+25 advertise a cash device other than the signs permitted pursuant to
+26 subdivision (9)(b)(ii) of this section.
+27 (10) (9) The application process described in this section shall not
+28 be construed to limit further investigation by the department or the
+29 issuance of further regulations to promote compliance after the
+30 application process is completed. At any point after a determination of
+31 skill by the department, the department may request from the
+-7-
+
+LB920 LB920
+2026 2026
+1 manufacturer, distributor, or operator information about any cash device
+2 in operation in this state, including, but not limited to, information
+3 regarding currently operable source code, changes to software or
+4 hardware, and communications from or to the device over the Internet. A
+5 manufacturer, distributor, or operator that receives a request shall
+6 respond with all responsive information in its possession or control
+7 within fifteen business days.
+8 (11) (10) If a manufacturer or distributor receives a determination
+9 from the department that a cash device is not in compliance with the
+10 Mechanical Amusement Device Tax Act, such manufacturer or distributor
+11 shall have ten thirty days after the issuance of that determination to
+12 (a) provide proof of correction and compliance or (b) remove any such
+13 cash device from operation in Nebraska.
+14 (12) (11) Application fees collected under subsection (2) of this
+15 section and annual decal fees collected under subsection (8) of this
+16 section shall be remitted to the State Treasurer for credit to the
+17 Department of Revenue Enforcement Fund.
+18 Sec. 2. Section 77-3003.02, Revised Statutes Cumulative Supplement,
+19 2024, is amended to read:
+20 77-3003.02 (1) No cash device shall be operated using a credit card,
+21 charge card, or debit card.
+22 (2) No person under twenty-one years of age shall play or
+23 participate in any way in the operation of a cash device. No distributor,
+24 operator, or employee or agent of any distributor or operator shall
+25 knowingly permit any individual under twenty-one years of age to play or
+26 participate in any way in the operation of a cash device. The
+27 distributor, operator, or employee or agent shall verify the age of any
+28 individual requesting to play a cash device and shall comply with
+29 subsections (3) and (4) of this section.
+30 (3) Beginning August 1, 2026, an operator of a cash device shall not
+31 make such device available for play at a retail establishment unless an
+-8-
+
+LB920 LB920
+2026 2026
+1 attendant is physically present on the premises of such retail
+2 establishment and capable of actively supervising play of such cash
+3 device. An attendant shall be considered to be actively supervising play
+4 of such cash device if the attendant:
+5 (a) Visually confirms the age of the player in conjunction with the
+6 electronic age-verification required pursuant to subsection (4) of this
+7 section; and
+8 (b) Continuously monitors the area in which a cash device is located
+9 and intervenes to prevent play of a cash device by any person under
+10 twenty-one years of age.
+11 (4)(a) Except as provided in subdivision (c) of this subsection, on
+12 and after January 1, 2028, an operator shall not make a cash device
+13 available for play in a retail establishment unless such device is
+14 equipped with an age-verification mechanism capable of scanning and
+15 electronically authenticating a government-issued identification card.
+16 (b) The age-verification mechanism shall meet technical standards
+17 approved by the department. Such standards shall include, but need not be
+18 limited to:
+19 (i) Age-verification methods that prevent play of such cash device
+20 until the age of the player has been electronically verified as twenty-
+21 one years of age or older; and
+22 (ii) Requirement of an age-verification identification scan prior to
+23 each gameplay session on the cash device and prior to each voucher print
+24 or redemption transaction.
+25 (c) This subsection shall not apply to a cash device located in a
+26 retail establishment that does not allow individuals under twenty-one
+27 years of age to enter.
+28 (5) (2) No distributor or operator shall charge a fee or require a
+29 gratuity in return for the payment of any prize money won by a player of
+30 a cash device.
+31 (6) (3) The Tax Commissioner has the authority to suspend or revoke
+-9-
+
+LB920 LB920
+2026 2026
+1 the license of any distributor or operator of a cash device for a
+2 violation of this section.
+3 (7) (4) The department shall adopt and promulgate rules and
+4 regulations for the implementation and enforcement of this section as
+5 long as such rules and regulations do not restrict how a cash device
+6 manufacturer, distributor, or operator markets or advertises the
+7 existence of a cash device, unless the advertiser or marketer of a cash
+8 device is willfully conflating the cash device play with casino-style
+9 gambling or slot machine wagering.
+10 Sec. 3. Section 77-3006, Revised Statutes Cumulative Supplement,
+11 2024, is amended to read:
+12 77-3006 (1) The administration of the Mechanical Amusement Device
+13 Tax Act is hereby vested in the Tax Commissioner subject to other
+14 provisions of law relating to the Tax Commissioner. The Tax Commissioner
+15 may prescribe, adopt and promulgate, and enforce rules and regulations
+16 relating to the administration and enforcement of the act and may
+17 delegate authority to his or her representatives to conduct hearings or
+18 perform any other duties imposed under the act. The Tax Commissioner
+19 shall may adopt and promulgate rules and regulations necessary to carry
+20 out section 77-3003.01. Such rules and regulations shall include
+21 standards for determining when advertising or packaging is used to appeal
+22 to minors or primarily marketed to minors.
+23 (2) The department has the authority to review all documents between
+24 a distributor, manufacturer, and operator regarding a cash device. Such
+25 documents shall include, but not be limited to, any a contract,
+26 agreement, lease, revenue-sharing agreement, profit-sharing document,
+27 annual report, tax filing, or bill of sale.
+28 (3) The department has the authority to approve all cash device
+29 locations across the state. No cash device shall be moved from such cash
+30 device's approved location without the prior approval of the department.
+31 The department may examine and audit any retail establishment operating a
+-10-
+
+LB920 LB920
+2026 2026
+1 cash device without prior notice to verify compliance with the act.
+2 (4) The department shall establish retail establishment location
+3 standards required for the placement of any cash device in this state.
+4 (5) The following factors shall be considered for the issuance of a
+5 license to operate a cash device at a particular retail establishment
+6 location:
+7 (a) Whether there are physical walls separating a retail
+8 establishment operating a cash device from other businesses located in
+9 the same building;
+10 (b) Whether there are dedicated entrances and exits to the retail
+11 establishment;
+12 (c) Whether a separate sales tax permit has been obtained by the
+13 retail establishment;
+14 (d) Whether the retail establishment has separate points of sale;
+15 (e) Whether the retail establishment has separate points of ticket
+16 redemption;
+17 (f) Whether there is diversity of merchandise for sale in the retail
+18 establishment;
+19 (g) Whether the retail establishment issues a receipt for sales;
+20 (h) The number of dedicated employees on duty at the same time at
+21 the retail establishment;
+22 (i) The level of business activity being conducted in the retail
+23 establishment;
+24 (j) Whether the physical space for the retail establishment within
+25 the building is contiguous to other businesses; and
+26 (k) Whether there are distinct owners or officers of the retail
+27 establishment within the shared building.
+28 Sec. 4. Section 77-3009, Revised Statutes Cumulative Supplement,
+29 2024, is amended to read:
+30 77-3009 (1) Any distributor or operator who places a cash device
+31 into operation in the State of Nebraska without the necessary decal being
+-11-
+
+LB920 LB920
+2026 2026
+1 placed conspicuously upon it or without having obtained the necessary
+2 license shall be subject to an administrative penalty of up to one
+3 thousand dollars per day for each unlicensed cash device.
+4 (2) Any cash device which (a) does not have the necessary decal
+5 conspicuously displayed upon it or (b) does not comply with the age-
+6 verification requirements of subsection (4) of section 77-3003.02 shall
+7 be subject to being sealed by the Tax Commissioner or his or her
+8 delegate. If such seal is broken prior to payment of the occupation tax
+9 upon such cash device, the cash device shall be subject to forfeiture and
+10 sale by the Tax Commissioner.
+11 (3) Any person violating the Mechanical Amusement Device Tax Act
+12 shall be guilty of a Class II misdemeanor. Each day on which any person
+13 engages in or conducts the business of operating or distributing the
+14 mechanical amusement devices subject to the Mechanical Amusement Device
+15 Tax Act, without having paid the tax or obtained the required license as
+16 provided, shall constitute a separate offense.
+17 (4) The department has the authority to levy an administrative
+18 penalty of up to one thousand dollars per day for any other violation of
+19 the act.
+20 Sec. 5. Section 77-3012, Revised Statutes Cumulative Supplement,
+21 2024, is amended to read:
+22 77-3012 (1) Except as otherwise provided in subsection (5) of this
+23 section, a tax is hereby imposed and levied, in the amount and in
+24 accordance with this section, upon the net operating revenue of all cash
+25 devices operating within the State of Nebraska for profit or gain either
+26 directly or indirectly received. The tax shall be paid in the amount and
+27 manner specified in this section.
+28 (2) Except as otherwise provided in subsection (5) of this section,
+29 beginning on and after July 1, 2025, any distributor of a cash device,
+30 and any operator of a cash device if the operator is not subject to a
+31 revenue-sharing or other agreement with a distributor who is paying the
+-12-
+
+LB920 LB920
+2026 2026
+1 tax, shall pay a tax for each cash device in operation each calendar
+2 quarter during the taxable year. The tax shall be collected by the
+3 department and due and payable on January 1, April 1, July 1, and October
+4 1 of each year on each cash device in operation during the preceding
+5 calendar quarter. For each cash device put into operation on a date
+6 subsequent to a quarterly due date that has not been included in
+7 computing the tax imposed and levied by the Mechanical Amusement Device
+8 Tax Act, the tax shall be due and payable on the immediately succeeding
+9 quarterly due date.
+10 (3) The amount of the tax imposed and levied under this section
+11 shall be fifteen five percent of the net operating revenue for each cash
+12 device. The quarterly tax shall be submitted on a form prescribed by the
+13 Tax Commissioner documenting the total gross and net operating revenue
+14 for that quarter.
+15 (4) The Tax Commissioner shall remit the taxes collected pursuant to
+16 this section to the State Treasurer for credit as follows:
+17 (a) Two and one-half Twenty percent to the Charitable Gaming
+18 Operations Fund for enforcement of the act and maintenance of the central
+19 server;
+20 (b) Two and one-half percent to the Compulsive Gamblers Assistance
+21 Fund;
+22 (c) Nine-tenths of a Two and one-half percent to the General Fund;
+23 (d) Three and four-tenths Ten percent to the Nebraska Tourism
+24 Commission Promotional Cash Fund;
+25 (e) Thirteen and thirty-five hundredths Forty percent to the
+26 Property Tax Credit Cash Fund; and
+27 (f) Sixty-eight and ninety-five hundredths percent to the Nebraska
+28 Child Care Aid Fund; and
+29 (g) (f) The remaining eight and four-tenths twenty-five percent to
+30 the county treasurer of the county in which the cash device is located to
+31 be distributed as follows: (i) If the cash device is located completely
+-13-
+
+LB920 LB920
+2026 2026
+1 within an unincorporated area of a county, the remaining eight and four-
+2 tenths twenty-five percent shall be distributed to the county in which
+3 the cash device is located, or (ii) if the cash device is located within
+4 the limits of a city or village in such county, one-half of the remaining
+5 eight and four-tenths twenty-five percent shall be distributed to such
+6 county and one-half of the remaining eight and four-tenths twenty-five
+7 percent shall be distributed to the city or village in which such cash
+8 device is located.
+9 (5) This section does not apply to cash devices operated by a
+10 fraternal benefit society organized and licensed under sections 44-1072
+11 to 44-10,109 or a recognized veterans organization as defined in section
+12 80-401.01.
+13 Sec. 6. The Nebraska Child Care Aid Fund is created. The fund shall
+14 consist of funds received pursuant to section 77-3012, any money
+15 transferred by the Legislature, and any gifts, grants, or bequests from
+16 any source, including federal, state, public, and private sources. The
+17 fund shall be used for state child care subsidies within the State of
+18 Nebraska. Any money in the fund available for investment shall be
+19 invested by the state investment officer pursuant to the Nebraska Capital
+20 Expansion Act and the Nebraska State Funds Investment Act.
+21 Sec. 7. Original sections 77-3003.01, 77-3003.02, 77-3006, 77-3009,
+22 and 77-3012, Revised Statutes Cumulative Supplement, 2024, are repealed.
+-14-

@@ -1,0 +1,446 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LB725 LB725
+2026 2026
+LEGISLATURE OF NEBRASKA
+ONE HUNDRED NINTH LEGISLATURE
+SECOND SESSION
+LEGISLATIVE BILL 725
+Introduced by Quick, 35.
+Read first time January 07, 2026
+Committee: General Affairs
+1 A BILL FOR AN ACT relating to the State Electrical Act; to amend sections
+2 81-2102, 81-2107, 81-2108, 81-2109, 81-2112.02, 81-2113, 81-2117.02,
+3 81-2118, 81-2121, 81-2134, 81-2135, and 81-2144, Reissue Revised
+4 Statutes of Nebraska; to redefine terms; to change provisions
+5 relating to licenses; to change provisions relating to fees; to
+6 change provisions relating to inspections; to change provisions
+7 relating to directional boring or knifing; to harmonize provisions;
+8 and to repeal the original sections.
+9 Be it enacted by the people of the State of Nebraska,
+-1-
+
+LB725 LB725
+2026 2026
+1 Section 1. Section 81-2102, Reissue Revised Statutes of Nebraska, is
+2 amended to read:
+3 81-2102 For purposes of the State Electrical Act, unless the context
+4 otherwise requires:
+5 (1) Apprentice electrician means any person, other than a licensee,
+6 who, as such person's principal occupation, is engaged in learning and
+7 assisting in the installation, alteration, and repair of electrical
+8 equipment as an employee of a licensee and who is registered with the
+9 board. For purposes of this subdivision, persons who are not engaged in
+10 the installation, alteration, or repair of electrical wiring and
+11 apparatus, either inside or outside buildings, shall not be considered
+12 apprentice electricians;
+13 (2) Board means the State Electrical Board;
+14 (3) Class A master electrician means a person having the necessary
+15 qualifications, training, experience, and technical knowledge to properly
+16 plan, lay out, and supervise the installation of wiring, apparatus, and
+17 equipment for electric light, heat, power, power limited systems, and
+18 other purposes and who is licensed by the board;
+19 (4) Class B electrical contractor means a person having the
+20 necessary qualifications, training, experience, and technical knowledge
+21 to properly plan, lay out, install, and supervise the installation of
+22 wiring, apparatus, and equipment for power limited systems not to exceed
+23 one hundred volts and one thousand volt-amps in commercial installations,
+24 industrial installations, systems of not over four hundred ampere
+25 capacity for light, heat, power, and other purposes in any structure used
+26 and maintained as a residential dwelling but not larger than a four-
+27 family dwelling located in any municipality which has a population of
+28 less than one hundred thousand inhabitants as determined by the most
+29 recent federal decennial census or the most recent revised certified
+30 count by the United States Bureau of the Census and who is licensed by
+31 the board;
+-2-
+
+LB725 LB725
+2026 2026
+1 (5) Class B journeyman electrician means a person having the
+2 necessary qualifications, training, experience, and technical knowledge
+3 to wire for or install electrical wiring, apparatus, and equipment for
+4 power limited systems not to exceed one hundred volts and one thousand
+5 volt-amps in commercial installations, industrial installations, systems
+6 of not over four hundred ampere capacity for light, heat, power, and
+7 other purposes in any structure used and maintained as a residential
+8 dwelling but not larger than a four-family dwelling located in any
+9 municipality which has a population of less than one hundred thousand
+10 inhabitants as determined by the most recent federal decennial census or
+11 the most recent revised certified count by the United States Bureau of
+12 the Census and who is licensed by the board;
+13 (6) Commercial installation means an installation intended for
+14 commerce, but does not include a residential installation;
+15 (7) Electrical contractor means a person having the necessary
+16 qualifications, training, experience, and technical knowledge to properly
+17 plan, lay out, install, and supervise the installation of wiring,
+18 apparatus, and equipment for electric light, heat, power, power limited
+19 systems, and other purposes and who is licensed by the board;
+20 (8) Fire alarm installer means any person having the necessary
+21 qualifications, training, and experience to plan, lay out, and install
+22 electrical wiring, apparatus, and equipment for only those components of
+23 fire alarm systems from the first point of overcurrent that operate at
+24 fifty volts or less and who is licensed by the board;
+25 (9) Industrial installation means an installation intended for use
+26 in the manufacture or processing of products involving systematic labor
+27 or habitual employment and includes installations in which agricultural
+28 or other products are habitually or customarily processed or stored for
+29 others, either by buying or reselling on a fee basis;
+30 (10) Inspector means a person certified as an electrical inspector
+31 upon such reasonable conditions as may be adopted by the board. The board
+-3-
+
+LB725 LB725
+2026 2026
+1 may permit more than one class of electrical inspector;
+2 (11) Journeyman electrician means a person having the necessary
+3 qualifications, training, experience, and technical knowledge to wire for
+4 or install electrical wiring, apparatus, and equipment, and power limited
+5 systems, and to supervise apprentice electricians, and who is licensed by
+6 the board;
+7 (12) New electrical installation means the installation of wiring,
+8 apparatus, and equipment for electric light, heat, power, and other
+9 purposes;
+10 (13) Public-use building or facility means any building or facility
+11 designated for public use;
+12 (14) Residential installation means an installation intended for a
+13 single-family or two-family residential dwelling or a multi-family
+14 residential dwelling not larger than three stories in height;
+15 (15) Residential journeyman electrician means a person having the
+16 necessary qualifications, training, experience, and technical knowledge
+17 to wire for or install electrical wiring, apparatus, and equipment in any
+18 structure used and maintained as a residential dwelling but not larger
+19 than a four-family dwelling for residential installations and to
+20 supervise apprentice electricians and who is licensed by the board;
+21 (16) Routine maintenance means the repair or replacement of existing
+22 electrical apparatus and equipment of the same size and type for which no
+23 changes in wiring are made; and
+24 (17) Special electrician means a person having the necessary
+25 qualifications, training, and experience in wiring or installing special
+26 classes of electrical wiring, apparatus, equipment, or installations
+27 which shall include irrigation system wiring, well pump wiring, air
+28 conditioning and refrigeration installation, and sign installation and
+29 who is licensed by the board.
+30 Sec. 2. Section 81-2107, Reissue Revised Statutes of Nebraska, is
+31 amended to read:
+-4-
+
+LB725 LB725
+2026 2026
+1 81-2107 (1) An applicant for an electrical contractor license shall
+2 (a) be a graduate of a four-year electrical course in an accredited
+3 college or university or (b) have at least one year's experience,
+4 acceptable to the board, as a journeyman electrician.
+5 (2) A Class B electrical contractor license shall be valid only for
+6 power limited systems not to exceed one hundred volts and one thousand
+7 volt-amps in commercial and industrial installations. in regard to
+8 systems of not over four hundred amperes in capacity in structures used
+9 and maintained as residential dwellings but not larger than four-family
+10 dwellings located in any municipality which has a population of less than
+11 one hundred thousand inhabitants as determined by the most recent federal
+12 decennial census or the most recent revised certified count by the United
+13 States Bureau of the Census.
+14 Sec. 3. Section 81-2108, Reissue Revised Statutes of Nebraska, is
+15 amended to read:
+16 81-2108 (1) Except as provided in subsection (2) of this section or
+17 in section 81-2112 or 81-2144, no person shall, for another, wire for or
+18 install electrical wiring, apparatus, or equipment unless he or she is
+19 licensed by the board as a Class B electrical contractor, an electrical
+20 contractor, a Class A master electrician, or a fire alarm installer.
+21 (2) Except as provided in section 81-2106, 81-2112, or 81-2144, no
+22 person shall wire for or install electrical wiring, apparatus, or
+23 equipment or supervise an apprentice electrician unless such person is
+24 licensed as a Class B journeyman electrician, a journeyman electrician, a
+25 residential journeyman electrician, or a fire alarm installer and is
+26 employed by a Class B electrical contractor, an electrical contractor, a
+27 Class A master electrician, or a fire alarm installer.
+28 (3) For purposes of this section, the holder of a fire alarm
+29 installer license shall only supervise those apprentices engaged in the
+30 installation of fire alarm equipment and apparatus operating at fifty
+31 volts or less.
+-5-
+
+LB725 LB725
+2026 2026
+1 (4) (3) No person licensed under the State Electrical Act may lend
+2 his or her license to any person or knowingly permit the use of such
+3 license by another.
+4 Sec. 4. Section 81-2109, Reissue Revised Statutes of Nebraska, is
+5 amended to read:
+6 81-2109 (1) An applicant for a journeyman electrician license shall
+7 have at least four years' experience, acceptable to the board, in the
+8 electrical trade. Registration as an apprentice electrician for those
+9 years shall, on the approval of the board, constitute evidence of such
+10 experience. The board may by rule or regulation provide for the allowance
+11 of one year of experience credit for successful completion of a two-year
+12 post-high school electrical course approved by the board.
+13 (2) An On and after July 16, 2004, an applicant for a Class B
+14 residential journeyman electrician license shall have at least three
+15 years' experience, acceptable to the board, in the electrical trade.
+16 Registration as an apprentice electrician for those years shall, on the
+17 approval of the board, constitute evidence of such experience. The board
+18 may by rule or regulation provide for the allowance of one year of
+19 experience credit for successful completion of a two-year post-high
+20 school electrical course approved by the board. A residential journeyman
+21 electrician license shall be valid only for residential installations.
+22 (3) A Class B journeyman electrician license shall be valid only for
+23 power limited systems not to exceed one hundred volts and one thousand
+24 volt-amps in commercial and industrial installations. electrical systems
+25 of not over four hundred amperes in capacity in structures used and
+26 maintained as residential dwellings but not larger than four-family
+27 dwellings located in any municipality which has a population of less than
+28 one hundred thousand inhabitants as determined by the most recent federal
+29 decennial census or the most recent revised certified count by the United
+30 States Bureau of the Census.
+31 Sec. 5. Section 81-2112.02, Reissue Revised Statutes of Nebraska, is
+-6-
+
+LB725 LB725
+2026 2026
+1 amended to read:
+2 81-2112.02 On and after September 9, 1993, any person licensed as a
+3 fire alarm installer may plan, lay out, and install electrical wiring,
+4 apparatus, and equipment for only those components of fire alarm systems
+5 that operate at fifty volts or less. An applicant for a fire alarm
+6 installer license shall have at least two years experience, acceptable to
+7 the board, in planning, laying out, and installing fire alarm systems.
+8 Sec. 6. Section 81-2113, Reissue Revised Statutes of Nebraska, is
+9 amended to read:
+10 81-2113 (1) A person may register with the board and pay a fee as
+11 provided in section 81-2118 to work as an apprentice electrician. Such
+12 registration shall entitle the registrant to act as an apprentice
+13 electrician to a Class B electrical contractor, an electrical contractor,
+14 a Class B journeyman electrician, a journeyman electrician, a residential
+15 journeyman electrician, or a Class A master electrician as provided in
+16 subsection (2) of this section. At the time of registration renewal, an
+17 apprentice shall pay the fee for renewal provided by section 81-2118 and
+18 present documentary evidence of any continuing education courses under
+19 section 81-2117.01 completed by the applicant. The board shall assess up
+20 to a six-month increase of required experience necessary for the
+21 applicant to qualify for the examination under section 81-2115 unless the
+22 applicant presents documentary evidence of the requisite hours of
+23 continuing education courses under section 81-2117.01.
+24 (2) An apprentice electrician shall do no electrical wiring except
+25 under the direct personal on-the-job supervision and control and in the
+26 immediate presence of a licensee under the State Electrical Act. Such
+27 supervision shall include both on-the-job training and related classroom
+28 training as approved by the board. The licensee may employ or supervise
+29 apprentice electricians at a ratio not to exceed three apprentice
+30 electricians to one licensee, except that such ratio and the other
+31 requirements of this section shall not be applicable to a teacher-student
+-7-
+
+LB725 LB725
+2026 2026
+1 relationship within a classroom of a community college.
+2 (3) For purposes of this section, the direct personal on-the-job
+3 supervision and control and in the immediate presence of a licensee shall
+4 mean the licensee and the apprentice electrician shall be working at the
+5 same project location but shall not require that the licensee and
+6 apprentice electrician must be within sight of one another at all times.
+7 (4) (3) An apprentice electrician shall not install, alter, or
+8 repair electrical equipment except as provided in this section, and the
+9 licensee employing or supervising an apprentice electrician shall not
+10 authorize or permit such actions by the apprentice electrician.
+11 Sec. 7. Section 81-2117.02, Reissue Revised Statutes of Nebraska, is
+12 amended to read:
+13 81-2117.02 (1) No license as a Class A master electrician , Class B
+14 electrical contractor, or Class B journeyman electrician shall be issued
+15 on or after September 9, 1993, but such license licenses may be renewed
+16 as provided in this section.
+17 (2) A person licensed as a Class A master electrician , a Class B
+18 electrical contractor, a Class B journeyman electrician, or a special
+19 electrician on September 9, 1993, may renew such license on or after such
+20 date upon presentation of documentary evidence of successful completion
+21 of the requisite hours of continuing education courses under section
+22 81-2117.01 and payment of the fee for renewal provided by section
+23 81-2118.
+24 Sec. 8. Section 81-2118, Reissue Revised Statutes of Nebraska, is
+25 amended to read:
+26 81-2118 All licenses or registrations issued under the State
+27 Electrical Act shall expire on December 31 of each even-numbered year.
+28 All license or registration applications shall include the applicant's
+29 social security number.
+30 The board shall, by a unanimous vote of the board, set reasonable
+31 fees for examination, issuance, and renewal of licenses and registrations
+-8-
+
+LB725 LB725
+2026 2026
+1 issued under the State Electrical Act in amounts necessary to cover the
+2 costs incurred by the State Electrical Division and the board in
+3 administering and carrying out the purposes of the State Electrical Act
+4 and in a manner that unnecessary surpluses are avoided. The board shall
+5 annually file a report with the Attorney General and the Legislative
+6 Fiscal Analyst stating the amount of the fees set by the board. Such
+7 reports shall be submitted on or before July 1 of each year. The report
+8 submitted to the Legislative Fiscal Analyst shall be submitted
+9 electronically. The board shall establish the following fees:
+10 (1) For examination for the following licenses:
+11 (a) Electrical contractor;
+12 (b) Class B electrical contractor;
+13 (c) (b) Journeyman electrician;
+14 (d) Class B (c) Residential journeyman electrician;
+15 (e) Resident journeyman electrician;
+16 (f) (d) Fire alarm installer; and
+17 (g) (e) Special electrician license , sixty dollars;
+18 (2) For each year of the two-year license period for issuance and
+19 renewal of the following licenses:
+20 (a) Electrical contractor; and
+21 (b) Class B electrical contractor;
+22 (c) (b) Journeyman electrician;
+23 (d) Class B , residential journeyman electrician;
+24 (e) Residential journeyman electrician;
+25 (f) Fire , fire alarm installer; and
+26 (g) Special , or special electrician;
+27 (3) For each year of the two-year registration period for issuance
+28 and renewal as an apprentice electrician; and
+29 (4) For renewal on or after September 9, 1993, of the Class A master
+30 electrician license following licenses issued prior to such date for each
+31 year of the two-year license period. :
+-9-
+
+LB725 LB725
+2026 2026
+1 (a) Class B electrical contractor;
+2 (b) Class A master electrician; and
+3 (c) Class B journeyman electrician.
+4 The holder of a an expired license or registration may renew the
+5 license or registration beginning October 1 through November 31 of even
+6 numbered years upon payment of the license or registration fee. The
+7 holder of a license or registration may renew the license or registration
+8 from December 1 through December 31 of even numbered years for a period
+9 of three months from the date of expiration upon payment of the license
+10 or registration fee plus ten percent of the renewal fee for each month or
+11 portion thereof past the expiration date. All holders of expired licenses
+12 or registrations expired for more than three months shall apply for a new
+13 license or registration.
+14 Sec. 9. Section 81-2121, Reissue Revised Statutes of Nebraska, is
+15 amended to read:
+16 81-2121 Nothing in the State Electrical Act shall be construed to:
+17 (1) Require employees of municipal corporations, public power
+18 districts, public power and irrigation districts, electric membership or
+19 cooperative associations, public utility corporations, railroads,
+20 telephone or telegraph companies, or commercial or industrial companies
+21 performing manufacturing, installation, and repair work for such employer
+22 to hold licenses while acting within the scope of their employment;
+23 (2) Require any person doing work for which a license would
+24 otherwise be required under the act to hold a license issued under the
+25 act if he or she is the holder of a valid license issued by any city or
+26 other political subdivision, so long as he or she makes electrical
+27 installations only in the jurisdictional limits of such city or political
+28 subdivision and such license issued by the city or political subdivision
+29 meets the requirements of the act;
+30 (3) Cover the installation, maintenance, repair, or alteration of
+31 vertical transportation or passenger conveyors, elevators, moving walks,
+-10-
+
+LB725 LB725
+2026 2026
+1 dumbwaiters, stagelifts, manlifts, or appurtenances thereto beyond the
+2 terminals of the controllers. The licensing of elevator contractors or
+3 constructors shall not be considered a part of the licensing requirements
+4 of the act;
+5 (4) Require a license of any person who engages any electrical
+6 appliance where approved electrical outlets are already installed;
+7 (5) Prohibit an owner of property from performing work on his or her
+8 principal residence, if such residence is not larger than a single-family
+9 dwelling, or farmstead farm property, excluding commercial or industrial
+10 installations or installations in public-use buildings or facilities, or
+11 require such owner to be licensed under the act;
+12 (6) Require that any person be a member of a labor union in order to
+13 be licensed; or
+14 (7) Prohibit a pump installation contractor or pump installation
+15 supervisor licensed under the Water Well Standards and Contractors'
+16 Practice Act from wiring pumps and pumping equipment at a water well
+17 location to the first control.
+18 Sec. 10. Section 81-2134, Reissue Revised Statutes of Nebraska, is
+19 amended to read:
+20 81-2134 (1) As to state inspections: (a) At or before commencement
+21 of any electrical installation which is required by law to be inspected,
+22 the person responsible for the installation shall forward a request for
+23 inspection to the board completed in the manner prescribed by the
+24 board. ; and
+25 (b) On installations requiring more than six months in the process
+26 of construction and in excess of three hundred dollars total inspection
+27 fees, the persons responsible for the installation may, after a minimum
+28 filing fee of one hundred dollars, pay a prorated fee for each month and
+29 submit it with an order for payment initiated by the electrical
+30 inspector.
+31 (2) Where wiring is to be concealed, the inspector must be notified
+-11-
+
+LB725 LB725
+2026 2026
+1 within reasonable time to complete a rough-in inspection prior to
+2 concealment, exclusive of Saturdays, Sundays, and holidays. If wiring is
+3 concealed before rough-in inspection without adequate notice having been
+4 given to the inspector, the person responsible for having enclosed the
+5 wiring shall be responsible for all costs resulting from uncovering and
+6 replacing the cover material.
+7 (3) Inspections shall be made within one week of the appropriate
+8 request. When necessary, circuits may be energized by the authorized
+9 installer prior to inspection but the installation shall remain subject
+10 to condemnation and disconnection.
+11 Sec. 11. Section 81-2135, Reissue Revised Statutes of Nebraska, is
+12 amended to read:
+13 81-2135 (1) The board shall, by a unanimous vote of the board, set
+14 reasonable fees for state electrical inspections under the State
+15 Electrical Act in amounts necessary to cover the costs incurred by the
+16 State Electrical Division and the board in administering and carrying out
+17 the purposes of the State Electrical Act and in a manner that unnecessary
+18 surpluses are avoided. The board shall annually file a report with the
+19 Attorney General and the Legislative Fiscal Analyst stating the amount of
+20 the fees set by the board. Such reports shall be submitted on or before
+21 July 1 of each year. The report submitted to the Legislative Fiscal
+22 Analyst shall be submitted electronically.
+23 (2) All state electrical inspection fees shall be due and payable to
+24 the board at or before commencement of the installation and shall be
+25 forwarded with the request for inspection. Inspection fees set by the
+26 board in accordance with this section shall not apply within the
+27 jurisdiction of any county, city, or village if the county, city, or
+28 village has adopted an ordinance or resolution as set forth in the State
+29 Electrical Act.
+30 (3) The board shall establish the following fees:
+31 (a) Minimum fee for each separate inspection of an installation,
+-12-
+
+LB725 LB725
+2026 2026
+1 replacement, alteration, or repair;
+2 (b) Services, change of services, temporary services, additions,
+3 alterations, or repairs on either primary or secondary services;
+4 (c) Field irrigation system inspections;
+5 (d) The first reinspection required as a result of a correction
+6 order; a second reinspection required as a result of noncompliance with
+7 the same correction order; and subsequent reinspections associated with
+8 the same correction order; and
+9 (e) An inspection is requested by an owner.
+10 (4) The fee for fire and accident inspections shall be computed at
+11 the rate set by the board per hour, and mileage and other expenses shall
+12 be reimbursed as provided in section 81-1176.
+13 (5) After an inspection the board may charge an additional fee if
+14 the cost incurred during the inspection is greater than what was covered
+15 by the original inspection fee.
+16 Sec. 12. Section 81-2144, Reissue Revised Statutes of Nebraska, is
+17 amended to read:
+18 81-2144 (1) A person who is a directional boring or knifing
+19 contractor may install underground conduit or conductors on the load side
+20 of the meter under the direct supervision of a Class A master
+21 electrician, or journeyman electrician , or Class B journeyman
+22 electrician who is employed by an electrical contractor.
+23 (2) Electrical contractors who own and provide directional boring or
+24 knifing services shall only allow employees that have an apprentice
+25 registration or a journeyman electrician, a Class A master electrician,
+26 or an electrical contractor license perform directional boring
+27 activities.
+28 Sec. 13. Original sections 81-2102, 81-2107, 81-2108, 81-2109,
+29 81-2112.02, 81-2113, 81-2117.02, 81-2118, 81-2121, 81-2134, 81-2135, and
+30 81-2144, Reissue Revised Statutes of Nebraska, are repealed.
+-13-

@@ -1,0 +1,492 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LB1260 LB1260
+2026 2026
+LEGISLATURE OF NEBRASKA
+ONE HUNDRED NINTH LEGISLATURE
+SECOND SESSION
+LEGISLATIVE BILL 1260
+Introduced by Clements, 2.
+Read first time January 21, 2026
+Committee: Transportation and Telecommunications
+1 A BILL FOR AN ACT relating to taxation; to amend sections 60-3,186,
+2 60-3,187, 60-3,190, and 79-1018.01, Reissue Revised Statutes of
+3 Nebraska; to change the percentage of motor vehicle tax proceeds and
+4 collected fees that are retained by county treasurers; to change the
+5 allocation of motor vehicle tax proceeds and collected fees; to
+6 provide for a motor vehicle tax supplement; to change and provide
+7 motor vehicle tax and fee schedules; to change the local system
+8 formula resources under the Tax Equity and Educational Opportunities
+9 Support Act; and to repeal the original sections.
+10 Be it enacted by the people of the State of Nebraska,
+-1-
+
+LB1260 LB1260
+2026 2026
+1 Section 1. Section 60-3,186, Reissue Revised Statutes of Nebraska,
+2 is amended to read:
+3 60-3,186 (1) The department shall annually determine the motor
+4 vehicle tax on each motor vehicle registered pursuant to section 60-3,187
+5 and shall cause a notice of the amount to be delivered to the registrant.
+6 The notice may be delivered to the registrant at the address shown upon
+7 his or her registration certificate or the registrant's most recent
+8 address according to information received by the department from the
+9 National Change of Address program of the United States Postal Service or
+10 delivered electronically to the registrant if the registrant has provided
+11 electronic contact information to the department. The notice shall be
+12 provided on or before the first day of the last month of the registration
+13 period.
+14 (2)(a) The motor vehicle tax, motor vehicle fee, registration fee,
+15 sales tax, and any other applicable taxes and fees shall be paid to the
+16 county treasurer prior to the registration of the motor vehicle for the
+17 following registration period. If the motor vehicle being registered has
+18 been transferred as a gift or for a nominal amount, any sales tax owed by
+19 the transferor on the purchase of the motor vehicle shall have been paid
+20 or be paid to the county treasurer prior to the registration of the motor
+21 vehicle for the following registration period.
+22 (b)(i) The county treasurer shall retain the following percent of
+23 the motor vehicle tax proceeds for costs incurred by such county
+24 treasurer:
+25 (A) For motor vehicle tax proceeds paid prior to July 1, 2028, one
+26 percent; and
+27 (B) For motor vehicle tax proceeds paid on or after July 1, 2028,
+28 two percent.
+29 (ii) The county treasurer shall transfer the following percent of
+30 the motor vehicle tax proceeds to the State Treasurer for credit to the
+31 Vehicle Title and Registration System Replacement and Maintenance Cash
+-2-
+
+LB1260 LB1260
+2026 2026
+1 Fund:
+2 (A) For motor vehicle tax proceeds paid prior to July 1, 2028, one
+3 percent; and
+4 (B) For motor vehicle tax proceeds paid on or after July 1, 2028,
+5 one and two-tenths of one percent.
+6 (iii) The (b) After retaining one percent of the motor vehicle tax
+7 proceeds collected for costs incurred by the county treasurer, and after
+8 transferring one percent of the motor vehicle tax proceeds collected to
+9 the State Treasurer for credit to the Vehicle Title and Registration
+10 System Replacement and Maintenance Cash Fund, the remaining motor vehicle
+11 tax proceeds that remain after deducting the percents specified in
+12 subdivisions (b)(i) and (ii) of this subsection shall be allocated as
+13 provided in subdivision (c) of this subsection to each county, local
+14 school system, school district, city, and village in the tax district in
+15 which the motor vehicle has situs.
+16 (c) The remaining motor vehicle tax proceeds shall be allocated as
+17 follows:
+18 (i) For motor vehicle tax proceeds paid prior to July 1, 2028: (A)
+19 (c)(i) Twenty-two percent of the remaining motor vehicle tax proceeds
+20 shall be allocated to the county, (B) (ii) sixty percent shall be
+21 allocated to the local school system or school district, and (C) (iii)
+22 eighteen percent shall be allocated to the city or village, except that
+23 (I) (A) if the tax district is not in a city or village, forty percent
+24 shall be allocated to the county, and (II) (B) in counties containing a
+25 city of the metropolitan class, eighteen percent shall be allocated to
+26 the county and twenty-two percent shall be allocated to the city or
+27 village.
+28 (ii) For motor vehicle tax proceeds paid on or after July 1, 2028:
+29 (A) If the tax district is in a city of the metropolitan class:
+30 (I) Twenty-six percent to the county;
+31 (II) Forty-eight percent to the local school system or school
+-3-
+
+LB1260 LB1260
+2026 2026
+1 district; and
+2 (III) Twenty-six percent to the city of the metropolitan class;
+3 (B) If the tax district is in a city other than a city of the
+4 metropolitan class or in a village:
+5 (I) Thirty-one and one-half of one percent to the county;
+6 (II) Forty-eight percent to the local school system or school
+7 district; and
+8 (III) Twenty and one-half of one percent to the city or village; and
+9 (C) If the tax district is not described in subdivision (c)(ii)(A)
+10 or (B) of this subsection:
+11 (I) Fifty-two percent to the county; and
+12 (II) Forty-eight percent to the local school system or school
+13 district.
+14 (d) The amount allocated to a local school system shall be
+15 distributed to school districts in the same manner as property taxes.
+16 (3) Proceeds from the motor vehicle tax shall be treated as property
+17 tax revenue for purposes of expenditure limitations, matching of state or
+18 federal funds, and other purposes.
+19 (4) Beginning in October 2028, on or before the twentieth day of
+20 each January, April, July, and October, the department shall:
+21 (a) Calculate the motor vehicle tax supplement that shall be paid to
+22 each local school system or school district. Such supplement shall be
+23 equal to forty and eight-tenths of one percent of the motor vehicle tax
+24 allocated to such local school system or school district pursuant to this
+25 section for the preceding three months; and
+26 (b) Provide a report to the State Treasurer. Each such report shall
+27 indicate the amount of the motor vehicle tax supplement to be paid to
+28 each local school system or school district that is calculated under this
+29 subsection.
+30 (5) Within five business days after receiving a report under
+31 subdivision (4)(b) of this section, the State Treasurer shall pay, to
+-4-
+
+LB1260 LB1260
+2026 2026
+1 each local school system or school district, the motor vehicle tax
+2 supplements indicated in the report.
+3 (6) Beginning with fiscal year 2028-29, it is the intent of the
+4 Legislature to appropriate each fiscal year an amount sufficient to pay
+5 the motor vehicle tax supplements calculated under this section.
+6 Sec. 2. Section 60-3,187, Reissue Revised Statutes of Nebraska, is
+7 amended to read:
+8 60-3,187 (1) The motor vehicle tax schedules are set out in this
+9 section.
+10 (2) The motor vehicle tax shall be calculated by multiplying the
+11 base tax times the fraction which corresponds to the age category of the
+12 vehicle as shown in the following table:
+13 YEAR FRACTION
+14 First 1.00
+15 Second 0.80
+16 Second 0.90
+17 Third 0.65
+18 Third 0.80
+19 Fourth 0.55
+20 Fourth 0.70
+21 Fifth 0.48
+22 Fifth 0.60
+23 Sixth 0.41
+24 Sixth 0.51
+25 Seventh 0.35
+26 Seventh 0.42
+27 Eighth 0.29
+28 Eighth 0.33
+29 Ninth 0.23
+30 Ninth 0.24
+-5-
+
+LB1260 LB1260
+2026 2026
+1 Tenth 0.14
+2 Eleventh 0.10
+3 Tenth and Eleventh 0.15
+4 Twelfth 0.06
+5 Thirteenth 0.04
+6 Twelfth and Thirteenth 0.07
+7 Fourteenth and older 0.02
+8 Fourteenth and older 0.00
+9 (3) The base tax shall be:
+10 (a) Automobiles, autocycles, and motorcycles — An amount determined
+11 using the following table:
+12 Value when new Base tax
+13 Up to $3,999 $ 25
+14 $4,000 to $5,999 35
+15 $6,000 to $7,999 45
+16 $8,000 to $9,999 60
+17 $10,000 to $11,999 100
+18 $12,000 to $13,999 140
+19 $14,000 to $15,999 180
+20 $16,000 to $17,999 220
+21 $18,000 to $19,999 260
+22 $20,000 to $21,999 300
+23 $22,000 to $23,999 340
+24 $24,000 to $25,999 380
+25 $26,000 to $27,999 420
+26 $28,000 to $29,999 460
+27 $30,000 to $31,999 500
+28 $32,000 to $33,999 540
+29 $34,000 to $35,999 580
+30 $36,000 to $37,999 620
+-6-
+
+LB1260 LB1260
+2026 2026
+1 $38,000 to $39,999 660
+2 $40,000 to $41,999 700
+3 $42,000 to $43,999 740
+4 $44,000 to $45,999 780
+5 $46,000 to $47,999 820
+6 $48,000 to $49,999 860
+7 $50,000 to $51,999 900
+8 $52,000 to $53,999 940
+9 $54,000 to $55,999 980
+10 $56,000 to $57,999 1,020
+11 $58,000 to $59,999 1,060
+12 $60,000 to $61,999 1,100
+13 $62,000 to $63,999 1,140
+14 $64,000 to $65,999 1,180
+15 $66,000 to $67,999 1,220
+16 $68,000 to $69,999 1,260
+17 $70,000 to $71,999 1,300
+18 $72,000 to $73,999 1,340
+19 $74,000 to $75,999 1,380
+20 $76,000 to $77,999 1,420
+21 $78,000 to $79,999 1,460
+22 $80,000 to $81,999 1,500
+23 $82,000 to $83,999 1,540
+24 $84,000 to $85,999 1,580
+25 $86,000 to $87,999 1,620
+26 $88,000 to $89,999 1,660
+27 $90,000 to $91,999 1,700
+28 $92,000 to $93,999 1,740
+29 $94,000 to $95,999 1,780
+30 $96,000 to $97,999 1,820
+-7-
+
+LB1260 LB1260
+2026 2026
+1 $98,000 to $99,999 1,860
+2 $100,000 to $101,999 1,900
+3 $100,000 and over 1,900
+4 $102,000 to $103,999 1,940
+5 $104,000 to $105,999 1,980
+6 $106,000 to $107,999 2,020
+7 $108,000 to $109,999 2,060
+8 $110,000 to $111,999 2,100
+9 $112,000 to $113,999 2,140
+10 $114,000 to $115,999 2,180
+11 $116,000 to $117,999 2,220
+12 $118,000 to $119,999 2,260
+13 $120,000 to $121,999 2,300
+14 $122,000 to $123,999 2,340
+15 $124,000 to $125,999 2,380
+16 $126,000 to $127,999 2,420
+17 $128,000 to $129,999 2,460
+18 $130,000 to $131,999 2,500
+19 $132,000 to $133,999 2,540
+20 $134,000 to $135,999 2,580
+21 $136,000 to $137,999 2,620
+22 $138,000 to $139,999 2,660
+23 $140,000 to $141,999 2,700
+24 $142,000 to $143,999 2,740
+25 $144,000 to $145,999 2,780
+26 $146,000 to $147,999 2,820
+27 $148,000 to $149,999 2,860
+28 $150,000 to $151,999 2,900
+29 $152,000 to $153,999 2,940
+30 $154,000 to $155,999 2,980
+-8-
+
+LB1260 LB1260
+2026 2026
+1 $156,000 to $157,999 3,020
+2 $158,000 to $159,999 3,060
+3 $160,000 to $161,999 3,100
+4 $162,000 to $163,999 3,140
+5 $164,000 to $165,999 3,180
+6 $166,000 to $167,999 3,220
+7 $168,000 to $169,999 3,260
+8 $170,000 to $171,999 3,300
+9 $172,000 to $173,999 3,340
+10 $174,000 to $175,999 3,380
+11 $176,000 to $177,999 3,420
+12 $178,000 to $179,999 3,460
+13 $180,000 to $181,999 3,500
+14 $182,000 to $183,999 3,540
+15 $184,000 to $185,999 3,580
+16 $186,000 to $187,999 3,620
+17 $188,000 to $189,999 3,660
+18 $190,000 to $191,999 3,700
+19 $192,000 to $193,999 3,740
+20 $194,000 to $195,999 3,780
+21 $196,000 to $197,999 3,820
+22 $198,000 to $199,999 3,860
+23 $200,000 and over 3,900
+24 (b) Assembled automobiles — $60
+25 (c) Assembled motorcycles other than autocycles — $25
+26 (d) Cabin trailers, up to one thousand pounds — $10
+27 (e) Cabin trailers, one thousand pounds and over and less than two
+28 thousand pounds — $25
+29 (f) Cabin trailers, two thousand pounds and over — $40
+30 (g) Recreational vehicles, less than eight thousand pounds — $160
+-9-
+
+LB1260 LB1260
+2026 2026
+1 (h) Recreational vehicles, eight thousand pounds and over and less
+2 than twelve thousand pounds — $410
+3 (i) Recreational vehicles, twelve thousand pounds and over — $860
+4 (j) Assembled recreational vehicles and buses shall follow the
+5 schedules for body type and registered weight
+6 (k) Trucks — Over seven tons and less than ten tons — $360
+7 (l) Trucks — Ten tons and over and less than thirteen tons — $560
+8 (m) Trucks — Thirteen tons and over and less than sixteen tons —
+9 $760
+10 (n) Trucks — Sixteen tons and over and less than twenty-five tons —
+11 $960
+12 (o) Trucks — Twenty-five tons and over — $1,160
+13 (p) Buses — $360
+14 (q) Trailers other than semitrailers — $10
+15 (r) Semitrailers — $110
+16 (s) Former military vehicles — $50
+17 (t) Minitrucks — $50
+18 (u) Low-speed vehicles — $50
+19 (4) For purposes of subsection (3) of this section, truck means all
+20 trucks and combinations of trucks except those trucks, trailers, or
+21 combinations thereof registered under section 60-3,198, and the tax is
+22 based on the gross vehicle weight rating as reported by the manufacturer.
+23 (5) Current model year vehicles are designated as first-year motor
+24 vehicles for purposes of the schedules.
+25 (6) When a motor vehicle is registered which is newer than the
+26 current model year by the manufacturer's designation, the motor vehicle
+27 is subject to the initial motor vehicle tax in the first registration
+28 period and ninety-five percent of the initial motor vehicle tax in the
+29 second registration period.
+30 (7) Assembled cabin trailers, assembled recreational vehicles, and
+31 assembled buses shall be designated as sixth-year motor vehicles in their
+-10-
+
+LB1260 LB1260
+2026 2026
+1 first year of registration for purposes of the schedules.
+2 (8) When a motor vehicle is registered which is required to have a
+3 title branded as previous salvage pursuant to section 60-174, the motor
+4 vehicle tax shall be reduced by twenty-five percent.
+5 Sec. 3. Section 60-3,190, Reissue Revised Statutes of Nebraska, is
+6 amended to read:
+7 60-3,190 (1) A motor vehicle fee is imposed on all motor vehicles
+8 registered for operation in this state. An owner of a motor vehicle which
+9 is exempt from the imposition of a motor vehicle tax pursuant to section
+10 60-3,185 shall also be exempt from the imposition of the motor vehicle
+11 fee imposed pursuant to this section.
+12 (2) The department shall annually determine the motor vehicle fee on
+13 each motor vehicle registered pursuant to this section and shall cause a
+14 notice of the amount to be delivered to the registrant. The notice shall
+15 be combined with the notice of the motor vehicle tax required by section
+16 60-3,186.
+17 (3) The motor vehicle fee schedules are: set out in this subsection
+18 and subsection (4) of this section. Except for automobiles with a value
+19 when new of less than $20,000, and for assembled, reconstructed-
+20 designated, and replica-designated automobiles, the fee shall be
+21 calculated by multiplying the base fee times the fraction which
+22 corresponds to the age category of the automobile as shown in the
+23 following table:
+24 YEAR FRACTION
+25 First through fifth 1.00
+26 Sixth through tenth .70
+27 Eleventh and over .35
+28 (4) The base fee shall be:
+29 (a) Automobiles, with a value when new of less than $20,000, and
+30 assembled, reconstructed-designated, and replica-designated automobiles —
+31 $11 $5
+-11-
+
+LB1260 LB1260
+2026 2026
+1 (b) Automobiles, with a value when new of $20,000 through $39,999 —
+2 $22 $20
+3 (c) Automobiles, with a value when new of $40,000 or more — $33 $30
+4 (d) Motorcycles and autocycles — $11 $10
+5 (e) Recreational vehicles and cabin trailers — $33 $10
+6 (f) Trucks over seven tons and buses — $33 $30
+7 (g) Trailers other than semitrailers — $11 $10
+8 (h) Semitrailers — $33 $30
+9 (i) Former military vehicles — $11 $10
+10 (j) Minitrucks — $11 $10
+11 (k) Low-speed vehicles — $11 $10.
+12 (4) (5) The motor vehicle tax, motor vehicle fee, and registration
+13 fee shall be paid to the county treasurer prior to the registration of
+14 the motor vehicle for the following registration period. After retaining
+15 two one percent of the motor vehicle fee collected for costs, the
+16 remaining proceeds shall be remitted to the State Treasurer for credit to
+17 the Motor Vehicle Fee Fund. The State Treasurer shall return money funds
+18 from the Motor Vehicle Fee Fund remitted by a county treasurer that is
+19 which are needed for refunds or credits authorized by law.
+20 (5)(a) (6)(a) The Motor Vehicle Fee Fund is created. On or before
+21 the last day of each calendar quarter, the State Treasurer shall
+22 distribute all money funds in the Motor Vehicle Fee Fund as follows: (i)
+23 Seventy-four Fifty percent to the county treasurer of each county,
+24 amounts in the same proportion as the most recent allocation received by
+25 each county from the Highway Allocation Fund; and (ii) twenty-six fifty
+26 percent to the treasurer of each municipality, amounts in the same
+27 proportion as the most recent allocation received by each municipality
+28 from the Highway Allocation Fund. Any money in the fund available for
+29 investment shall be invested by the state investment officer pursuant to
+30 the Nebraska Capital Expansion Act and the Nebraska State Funds
+31 Investment Act.
+-12-
+
+LB1260 LB1260
+2026 2026
+1 (b) Money Funds from the Motor Vehicle Fee Fund shall be considered
+2 local revenue available for matching state sources.
+3 (c) All receipts by counties and municipalities from the Motor
+4 Vehicle Fee Fund shall be used for road, bridge, and street purposes.
+5 (6) (7) For purposes of subdivisions (3)(a) (4)(a), (b), (c), and
+6 (f) of this section, automobiles or trucks includes all trucks and
+7 combinations of trucks or truck-tractors, except those trucks, trailers,
+8 or semitrailers registered under section 60-3,198, and the fee is based
+9 on the gross vehicle weight rating as reported by the manufacturer.
+10 (7) (8) Current model year vehicles are designated as first-year
+11 motor vehicles for purposes of the schedules.
+12 (8) (9) When a motor vehicle is registered which is newer than the
+13 current model year by the manufacturer's designation, the motor vehicle
+14 is subject to the initial motor vehicle fee for six registration periods.
+15 (9) (10) Assembled vehicles other than assembled, reconstructed-
+16 designated, or replica-designated automobiles shall follow the schedules
+17 for the motor vehicle body type.
+18 Sec. 4. Section 79-1018.01, Reissue Revised Statutes of Nebraska, is
+19 amended to read:
+20 79-1018.01 Except as otherwise provided in this section, local
+21 system formula resources include other actual receipts available for the
+22 funding of general fund operating expenditures as determined by the
+23 department for the second school fiscal year immediately preceding the
+24 school fiscal year in which aid is to be paid. Other actual receipts
+25 include:
+26 (1) Public power district sales tax revenue;
+27 (2) Fines, penalties, and license money distributed in accordance
+28 with Article VII, section 5, of the Constitution of Nebraska and license
+29 fees;
+30 (3) Tuition receipts from individuals, other districts, or any other
+31 source except receipts derived from adult education, receipts derived
+-13-
+
+LB1260 LB1260
+2026 2026
+1 from summer school tuition, receipts derived from early childhood
+2 education tuition, tuition receipts from converted contracts beginning
+3 with the calculation of state aid to be distributed in school fiscal year
+4 2011-12, and receipts from educational entities as defined in section
+5 79-1201.01 for providing distance education courses through the
+6 Educational Service Unit Coordinating Council to such educational
+7 entities;
+8 (4) Transportation receipts;
+9 (5) Interest on investments;
+10 (6) Other miscellaneous noncategorical local receipts, not including
+11 receipts from private foundations, individuals, associations, or
+12 charitable organizations;
+13 (7) Special education receipts;
+14 (8) Special education receipts and non-special-education receipts
+15 from the state for wards of the court and wards of the state;
+16 (9) All receipts from the temporary school fund. Receipts from the
+17 temporary school fund shall only include (a) receipts pursuant to section
+18 79-1035 and (b) the receipt of funds pursuant to section 79-1036 for
+19 property leased for a public purpose as set forth in subdivision (1)(a)
+20 of section 77-202;
+21 (10) Motor vehicle tax and motor vehicle tax supplement receipts
+22 received;
+23 (11) Pro rata motor vehicle license fee receipts;
+24 (12) Other miscellaneous state receipts excluding revenue from the
+25 textbook loan program authorized by section 79-734;
+26 (13) Impact aid entitlements for the school fiscal year which have
+27 actually been received by the district to the extent allowed by federal
+28 law;
+29 (14) All other noncategorical federal receipts;
+30 (15) Receipts under the federal Medicare Catastrophic Coverage Act
+31 of 1988, as such act existed on January 1, 2014, as authorized pursuant
+-14-
+
+LB1260 LB1260
+2026 2026
+1 to sections 43-2510 and 43-2511 for services to school-age children,
+2 excluding amounts designated as reimbursement for costs associated with
+3 the implementation and administration of the billing system pursuant to
+4 section 43-2511;
+5 (16) Receipts for accelerated or differentiated curriculum programs
+6 pursuant to sections 79-1106 to 79-1108.03; and
+7 (17) Revenue received from the nameplate capacity tax distributed
+8 pursuant to section 77-6204.
+9 Sec. 5. Original sections 60-3,186, 60-3,187, 60-3,190, and
+10 79-1018.01, Reissue Revised Statutes of Nebraska, are repealed.
+-15-

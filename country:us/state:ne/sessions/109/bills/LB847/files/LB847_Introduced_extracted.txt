@@ -1,0 +1,266 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LB847 LB847
+2026 2026
+LEGISLATURE OF NEBRASKA
+ONE HUNDRED NINTH LEGISLATURE
+SECOND SESSION
+LEGISLATIVE BILL 847
+Introduced by Kauth, 31.
+Read first time January 08, 2026
+Committee: Business and Labor
+1 A BILL FOR AN ACT relating to labor; to amend section 48-649.01, Revised
+2 Statutes Supplement, 2025; to adopt the Nebraska Registered
+3 Apprenticeship Act; to change provisions relating to the combined
+4 tax rate under the Employment Security Law; and to repeal the
+5 original section.
+6 Be it enacted by the people of the State of Nebraska,
+-1-
+
+LB847 LB847
+2026 2026
+1 Section 1. Sections 1 to 6 of this act shall be known and may be
+2 cited as the Nebraska Registered Apprenticeship Act.
+3 Sec. 2. For purposes of the Nebraska Registered Apprenticeship Act,
+4 unless the context otherwise requires:
+5 (1) Apprentice means a worker who is at least sixteen years of age
+6 and who is employed to learn an apprenticeable occupation under standards
+7 of apprenticeship fulfilling the requirements of 29 C.F.R. 29.5, as such
+8 regulation existed on January 1, 2026;
+9 (2) Apprenticeable occupation means an occupation that is specified
+10 by industry and to which all of the following apply:
+11 (a) The occupation involves skills that are customarily learned in a
+12 practical way through a structured, systematic program of on-the-job
+13 supervised learning;
+14 (b) The occupation is clearly identified and commonly recognized
+15 throughout an industry;
+16 (c) The occupation involves the progressive attainment of manual,
+17 mechanical, or technical skills and knowledge which, in accordance with
+18 the industry standard for the occupation, would require the completion of
+19 at least two thousand hours of on-the-job learning to attain; and
+20 (d) The occupation requires related instruction to supplement the
+21 on-the-job learning;
+22 (3) Apprenticeship agreement means a written agreement, accepted and
+23 recorded by the Nebraska Office of Registered Apprenticeship, between an
+24 apprentice and an apprenticeship sponsor that contains the terms and
+25 conditions of the apprentice's employment and training consistent with 29
+26 C.F.R. part 29 and the Nebraska Registered Apprenticeship Act;
+27 (4) Apprenticeship program means a program registered with the
+28 United States Department of Labor, Office of Apprenticeship, or the
+29 Nebraska Office of Registered Apprenticeship that includes terms and
+30 conditions for the qualification, recruitment, selection, employment, and
+31 training of apprentices, including the requirement for a written
+-2-
+
+LB847 LB847
+2026 2026
+1 apprenticeship agreement;
+2 (5) Apprenticeship sponsor means an entity operating an
+3 apprenticeship program or an entity in whose name an apprenticeship
+4 program is being operated, which entity is registered with or approved by
+5 the United States Department of Labor, Office of Apprenticeship, or the
+6 Nebraska Office of Registered Apprenticeship. Apprenticeship sponsor
+7 includes a lead apprenticeship sponsor and an employer that provides
+8 training through a lead apprenticeship sponsor;
+9 (6) Cancellation means the termination of the registration of a
+10 quality pre-apprenticeship program or apprenticeship program at the
+11 request of the apprenticeship sponsor or the termination of an
+12 apprenticeship agreement at the request of the apprentice;
+13 (7) Commissioner means the Commissioner of Labor;
+14 (8) Department means the Department of Labor;
+15 (9) Employee organization means any association in which employees
+16 participate and which exists for the purpose of dealing with employers;
+17 (10) Employer means a person or organization employing an
+18 apprentice, whether or not such person or organization is a party to an
+19 apprenticeship agreement with the apprentice;
+20 (11) Employer organization means a collective organization of
+21 manufacturers, retailers, or other employers of wage labor which seeks to
+22 coordinate the behavior of its member companies in matters of mutual
+23 interest;
+24 (12) Lead apprenticeship sponsor means a trade organization, labor
+25 organization, employer association, or other incorporated entity
+26 representing a group of apprenticeship sponsors;
+27 (13) On-the-job training means training provided by an employer to
+28 which all of the following apply:
+29 (a) The training is provided to a paid apprentice who is engaged in
+30 productive work in an occupation, and the work provides knowledge or
+31 skills essential to the full and adequate performance of the occupation;
+-3-
+
+LB847 LB847
+2026 2026
+1 and
+2 (b) The training is limited in duration as appropriate to the
+3 occupation for which the apprentice is being trained, based on the
+4 content of the training, the apprentice's prior work experience, and the
+5 apprentice's service strategy, as appropriate;
+6 (14) Public member means a member of the Nebraska Apprenticeship
+7 Council who is not representing an employer organization or employee
+8 organization and who is familiar with apprenticeable occupations;
+9 (15) Quality pre-apprenticeship program means a program or set of
+10 strategies, registered by the Nebraska Office of Registered
+11 Apprenticeship, including basic skills training, academic skills
+12 remediation, or introduction to the industry, that is designed to prepare
+13 individuals for entry into an apprenticeship program;
+14 (16)(a) Registered apprenticeship program means a program to which
+15 all of the following apply:
+16 (i) The program has been accepted and recorded by the Nebraska
+17 Office of Registered Apprenticeship;
+18 (ii) The program includes all of the following:
+19 (A) Employer involvement;
+20 (B) On-the-job training;
+21 (C) Related training instruction from a lead apprenticeship sponsor;
+22 (D) Paid work experience; and
+23 (E) Receipt of a portable state or nationally recognized credential;
+24 and
+25 (iii) The program is for the recruitment, selection, employment, and
+26 training of apprentices and is developed pursuant to 29 C.F.R part 29 and
+27 any rules and regulations adopted and promulgated pursuant to the
+28 Nebraska Registered Apprenticeship Act.
+29 (b) Registered apprenticeship program includes a youth
+30 apprenticeship that otherwise qualifies as a registered apprenticeship
+31 program;
+-4-
+
+LB847 LB847
+2026 2026
+1 (17) Registration agency means the state agency that is responsible
+2 for registering apprenticeship programs and apprentices, providing
+3 technical assistance, and conducting reviews for compliance with federal
+4 law;
+5 (18) Related training instruction means an organized and systematic
+6 form of instruction, other than on-the-job training, to which all of the
+7 following apply:
+8 (a) The instruction is designed to provide an apprentice with
+9 knowledge of the subjects related to the apprentice's occupation; and
+10 (b) The instruction is given in a classroom, through occupational or
+11 industrial courses, through correspondence or online courses, or through
+12 other forms of self-study; and
+13 (19) Youth apprenticeship means an apprenticeship program that is
+14 designed specifically for an apprentice twenty-four years of age or
+15 under.
+16 Sec. 3. (1) The Nebraska Office of Registered Apprenticeship is
+17 established within the department in accordance with 29 U.S.C. 50 and 29
+18 C.F.R. part 29. The office shall be operated and managed by the
+19 commissioner or the commissioner's designee.
+20 (2) The office is established for all of the following purposes:
+21 (a) To serve as the state apprenticeship agency as defined in 29
+22 C.F.R. 29.2, as such regulation existed on January 1, 2026;
+23 (b) To serve as the registration agency for this state;
+24 (c) To establish standards of apprenticeship for quality pre-
+25 apprenticeships, youth apprenticeships, registered apprenticeships, and
+26 other apprenticeships;
+27 (d) To establish requirements regarding the registration of quality
+28 pre-apprenticeship programs, registered youth apprenticeship programs,
+29 registered apprenticeship programs, and other apprenticeship programs in
+30 the state when the sponsor of such programs chooses to certify or
+31 register the programs with the office; and
+-5-
+
+LB847 LB847
+2026 2026
+1 (e) To resolve disputes between parties to an apprenticeship
+2 agreement.
+3 Sec. 4. (1) The Nebraska Office of Registered Apprenticeship shall
+4 develop standards to create a nationally recognized state apprenticeship
+5 completion credential in compliance with, but not exceeding, standards
+6 established in 29 C.F.R. 29.5 for completing a registered apprenticeship
+7 program.
+8 (2)(a) The office shall approve or deny the registration of a
+9 registered apprenticeship program, whether for a new program or expansion
+10 of an existing program. The office shall provide an entity whose
+11 registration is not approved with specific reasons for the disapproval
+12 and an option for modifying the application for registration.
+13 (b) The office shall approve or deny the registration of a new
+14 apprenticeship sponsor who is providing related training instruction. The
+15 applying sponsor's apprentices may enroll in an apprenticeship program
+16 while approval is pending; however, training shall not begin until the
+17 registration is approved. The office shall provide an apprenticeship
+18 sponsor whose registration is not approved with specific reasons for the
+19 disapproval and an option for modifying the application for registration.
+20 (3) The office shall establish competency-based apprenticeship
+21 frameworks based on the regional and statewide collection of valuable
+22 credentials.
+23 (4) The office shall establish a plan to provide reciprocal
+24 approval, for federal purposes, to apprentices, apprenticeship programs,
+25 and standards that are registered in other states by the United States
+26 Department of Labor, Office of Apprenticeship, or a registration agency,
+27 if such reciprocity is requested by the apprenticeship sponsor.
+28 Apprenticeship sponsors seeking reciprocal approval shall meet wage and
+29 hour provisions and apprentice ratio standards of this state.
+30 (5) The office may consider advice provided by the Nebraska
+31 Apprenticeship Council when completing the office's duties as set forth
+-6-
+
+LB847 LB847
+2026 2026
+1 in this section.
+2 (6) The office shall serve as the registration agency for quality
+3 pre-apprenticeships, youth apprenticeships, registered apprenticeships,
+4 and other apprenticeships.
+5 (7) The office shall develop a plan providing a procedure for the
+6 cancellation or deregistration of programs and for temporary suspension,
+7 cancellation, or deregistration of apprenticeship agreements.
+8 (8) The office shall not require affiliation with a labor
+9 organization, employer organization, or other limited-membership
+10 organization as a criterion of an apprenticeship program. This subsection
+11 does not prohibit labor organizations, employer organizations, and
+12 limited-membership organizations from requiring membership to participate
+13 in the apprenticeship training provided by the organization.
+14 Sec. 5. (1) The Nebraska Apprenticeship Council is established as
+15 an advisory council within the department pursuant to 29 C.F.R. 29.13(a)
+16 (2), as such regulation existed on January 1, 2026.
+17 (2) Members of the council shall be appointed by the Governor for
+18 terms of three years.
+19 (3)(a) The council shall include at least five voting members
+20 appointed by the Governor. The members must be familiar with
+21 apprenticeable occupations.
+22 (b) The council shall have an equal number of representatives of
+23 employer organizations and employee organizations and include public
+24 members who shall not number in excess of the number named to represent
+25 either employer organizations or employee organizations.
+26 (c) The Governor shall appoint a chairperson of the council from
+27 among the voting members.
+28 (d) The commissioner, or the commissioner's designee, shall serve as
+29 an ex officio, nonvoting member.
+30 (4) The council shall do all of the following:
+31 (a) Advise the Nebraska Office of Registered Apprenticeship
+-7-
+
+LB847 LB847
+2026 2026
+1 regarding the duties set forth in the Nebraska Registered Apprenticeship
+2 Act; and
+3 (b) Provide community outreach and education regarding the benefits
+4 of apprenticeship.
+5 Sec. 6. The department shall be responsible for implementation and
+6 enforcement of the Nebraska Registered Apprenticeship Act. The department
+7 may adopt and promulgate rules and regulations as necessary to carry out
+8 the act.
+9 Sec. 7. Section 48-649.01, Revised Statutes Supplement, 2025, is
+10 amended to read:
+11 48-649.01 (1) By December 1 of each calendar year, the commissioner
+12 shall determine the state unemployment insurance tax rate for the
+13 following year based on information available through the department.
+14 (2) If the state unemployment insurance tax rate is determined to be
+15 zero percent pursuant to subsection (1) of this section, the contribution
+16 rate for all employers shall equal one hundred percent of the combined
+17 tax rate.
+18 (3) If the state unemployment insurance tax rate is not zero percent
+19 as determined in this section, the combined tax rate shall be divided so
+20 that not less than fifty eighty percent of the combined tax rate equals
+21 the contribution rate and not more than fifty twenty percent of the
+22 combined tax rate equals the state unemployment insurance tax rate except
+23 for employers who are assigned a combined tax rate of five and four-
+24 tenths percent or more. For those employers, the state unemployment
+25 insurance tax rate shall equal zero and their combined tax rate shall
+26 equal their contribution rate.
+27 Sec. 8. Original section 48-649.01, Revised Statutes Supplement,
+28 2025, is repealed.
+-8-

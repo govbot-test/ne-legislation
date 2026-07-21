@@ -1,0 +1,214 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LB995 LB995
+2026 2026
+LEGISLATURE OF NEBRASKA
+ONE HUNDRED NINTH LEGISLATURE
+SECOND SESSION
+LEGISLATIVE BILL 995
+Introduced by Rountree, 3.
+Read first time January 13, 2026
+Committee: Judiciary
+1 A BILL FOR AN ACT relating to juvenile justice; to amend sections 43-272,
+2 43-279, and 43-3102, Revised Statutes Cumulative Supplement, 2024;
+3 to require appointment of counsel for juveniles as prescribed; to
+4 require juvenile courts to present written materials concerning the
+5 right to counsel to parties as prescribed; to change provisions
+6 relating to waivers of the right to counsel; to harmonize
+7 provisions; and to repeal the original sections.
+8 Be it enacted by the people of the State of Nebraska,
+-1-
+
+LB995 LB995
+2026 2026
+1 Section 1. Section 43-272, Revised Statutes Cumulative Supplement,
+2 2024, is amended to read:
+3 43-272 (1)(a) In counties having a population of less than one
+4 hundred fifty thousand inhabitants:
+5 (i) When any juvenile court petition is filed alleging jurisdiction
+6 of a juvenile pursuant to subdivision (2) of section 43-247, counsel
+7 shall be appointed for such juvenile; and
+8 (ii) In any other instance in which a juvenile is brought without
+9 counsel before a juvenile court, the court shall advise such juvenile and
+10 his or her parent or guardian of their right to retain counsel and shall
+11 inquire of such juvenile and his or her parent or guardian as to whether
+12 they desire to retain counsel.
+13 (1)(a) When (b) In counties having a population of one hundred fifty
+14 thousand or more inhabitants, when any juvenile court petition is filed
+15 alleging jurisdiction of a juvenile pursuant to subdivision (1), (2), (3)
+16 (b), or (4) of section 43-247, counsel shall be appointed for such
+17 juvenile. At any subsequent hearing or proceeding before the juvenile
+18 court concerning such allegations, such juvenile shall have the right to
+19 counsel appointed under this subsection.
+20 (b) In any case not described in subdivision (1)(a) of this section,
+21 if a juvenile is brought without counsel before a juvenile court, the
+22 court shall advise such juvenile and his or her parent or guardian of
+23 their right to retain counsel and shall inquire of such juvenile and his
+24 or her parent or guardian as to whether they desire to retain counsel.
+25 (c) The court shall inform any juvenile described in subdivision (1)
+26 (a) of this section this subsection and his or her parent or guardian of
+27 such juvenile's right to counsel at county expense if none of them is
+28 able to afford counsel. If the juvenile or his or her parent or guardian
+29 desires to have counsel appointed for such juvenile, or the parent or
+30 guardian of such juvenile cannot be located, and the court ascertains
+31 that none of such persons are able to afford an attorney, the court shall
+-2-
+
+LB995 LB995
+2026 2026
+1 forthwith appoint an attorney to represent such juvenile for all
+2 proceedings before the juvenile court, except that if an attorney is
+3 appointed to represent such juvenile and the court later determines that
+4 a parent of such juvenile is able to afford an attorney, the court shall
+5 order such parent or juvenile to pay for services of the attorney to be
+6 collected in the same manner as provided by section 43-290. If the parent
+7 willfully refuses to pay any such sum, the court may commit him or her
+8 for contempt, and execution may issue at the request of the appointed
+9 attorney or the county attorney or by the court without a request.
+10 (2) The court, on its own motion or upon application of a party to
+11 the proceedings, shall appoint a guardian ad litem for the juvenile: (a)
+12 If the juvenile has no parent or guardian of his or her person or if the
+13 parent or guardian of the juvenile cannot be located or cannot be brought
+14 before the court; (b) if the parent or guardian of the juvenile is
+15 excused from participation in all or any part of the proceedings; (c) if
+16 the parent is a juvenile or an incompetent; (d) if the parent is
+17 indifferent to the interests of the juvenile; or (e) in any proceeding
+18 pursuant to the provisions of subdivision (3)(a) of section 43-247.
+19 A guardian ad litem shall have the duty to protect the interests of
+20 the juvenile for whom he or she has been appointed guardian, and shall be
+21 deemed a parent of the juvenile as to those proceedings with respect to
+22 which his or her guardianship extends.
+23 (3) The court shall appoint an attorney as guardian ad litem. A
+24 guardian ad litem shall act as his or her own counsel and as counsel for
+25 the juvenile, unless there are special reasons in a particular case why
+26 the guardian ad litem or the juvenile or both should have separate
+27 counsel. In such cases the guardian ad litem shall have the right to
+28 counsel, except that the guardian ad litem shall be entitled to appointed
+29 counsel without regard to his or her financial ability to retain counsel.
+30 Whether such appointed counsel shall be provided at the cost of the
+31 county shall be determined as provided in subsection (1) of this section.
+-3-
+
+LB995 LB995
+2026 2026
+1 (4) By July 1, 2015, the Supreme Court shall provide by court rule
+2 standards for guardians ad litem for juveniles in juvenile court
+3 proceedings.
+4 (5) By July 1, 2017, the Supreme Court shall provide guidelines
+5 setting forth standards for all attorneys who practice in juvenile court.
+6 Sec. 2. Section 43-279, Revised Statutes Cumulative Supplement,
+7 2024, is amended to read:
+8 43-279 (1) The adjudication portion of hearings shall be conducted
+9 before the court without a jury, applying the customary rules of evidence
+10 in use in trials without a jury. When the petition alleges the juvenile
+11 to be within the provisions of subdivision (1), (2), (3)(b), or (4) of
+12 section 43-247 and the juvenile or his or her parent, guardian, or
+13 custodian appears with or without counsel, the court shall:
+14 (a) Inform inform the parties:
+15 (i) (a) Of the nature of the proceedings and the possible
+16 consequences or dispositions pursuant to sections 43-284 to 43-286,
+17 43-289, and 43-290 that may apply to the juvenile's case following an
+18 adjudication of jurisdiction;
+19 (ii) (b) Of such juvenile's right to counsel as provided in sections
+20 43-272 and 43-273;
+21 (iii) (c) Of the privilege against self-incrimination by advising
+22 the juvenile, parent, guardian, or custodian that the juvenile may remain
+23 silent concerning the charges against the juvenile and that anything said
+24 may be used against the juvenile;
+25 (iv) (d) Of the right to confront anyone who testifies against the
+26 juvenile and to cross-examine any persons who appear against the
+27 juvenile;
+28 (v) (e) Of the right of the juvenile to testify and to compel other
+29 witnesses to attend and testify in his or her own behalf;
+30 (vi) (f) Of the right of the juvenile to a speedy adjudication
+31 hearing; and
+-4-
+
+LB995 LB995
+2026 2026
+1 (vii) (g) Of the right to appeal and have a transcript for such
+2 purpose; and .
+3 (b) Provide each such person with written materials explaining the
+4 juvenile's right to counsel. Such materials shall be written at a level
+5 understandable to the juvenile and shall be developed using best
+6 practices designed to ensure comprehension by the juvenile.
+7 (2) After informing the parties and providing the written materials
+8 as required by subsection (1) of this section giving such warnings and
+9 admonitions, the court may accept an in-court admission or answer of no
+10 contest by the juvenile of all or any part of the allegations in the
+11 petition if the court has determined from examination of the juvenile and
+12 those present that such admission or answer of no contest is
+13 intelligently, voluntarily, and understandingly made and with an
+14 affirmative waiver of rights and that a factual basis for such admission
+15 or answer of no contest exists. The waiver of the right to counsel shall
+16 satisfy section 43-3102. The court may base its adjudication provided in
+17 subsection (3) (2) of this section on such admission or answer of no
+18 contest.
+19 (3) (2) If the juvenile denies the petition or stands mute the court
+20 shall first allow a reasonable time for preparation if needed and then
+21 consider only the question of whether the juvenile is a person described
+22 by section 43-247. After hearing the evidence on such question, the court
+23 shall make a finding and adjudication, to be entered on the records of
+24 the court, whether or not the juvenile is a person described by
+25 subdivision (1), (2), (3)(b), or (4) of section 43-247 based upon proof
+26 beyond a reasonable doubt. If an Indian child is involved, the standard
+27 of proof shall be in compliance with the Nebraska Indian Child Welfare
+28 Act, if applicable.
+29 (4) (3) If the court shall find that the juvenile named in the
+30 petition is not within the provisions of section 43-247, it shall dismiss
+31 the case. If the court finds that the juvenile named in the petition is
+-5-
+
+LB995 LB995
+2026 2026
+1 such a juvenile, it shall make and enter its findings and adjudication
+2 accordingly, designating which subdivision or subdivisions of section
+3 43-247 such juvenile is within; the court shall allow a reasonable time
+4 for preparation if needed and then proceed to an inquiry into the proper
+5 disposition to be made of such juvenile.
+6 Sec. 3. Section 43-3102, Revised Statutes Cumulative Supplement,
+7 2024, is amended to read:
+8 43-3102 (1) In any court proceeding, any waiver of the right to
+9 counsel by a juvenile shall be made in open court, shall be recorded, and
+10 shall be confirmed in a writing signed by the juvenile.
+11 (2) A court shall not accept a juvenile's waiver of the right to
+12 counsel unless:
+13 (a) The the waiver satisfies subsection (1) of this section;
+14 (b) The waiver and is an affirmative waiver that is made
+15 intelligently, voluntarily, and understandingly. In determining whether
+16 such waiver was made intelligently, voluntarily, and understandingly, the
+17 court shall consider, among other things: (i) (a) The age, intelligence,
+18 and education of the juvenile, (ii) (b) the juvenile's emotional
+19 stability, and (iii) (c) the complexity of the proceedings; and .
+20 (c) The juvenile has been provided the written materials required by
+21 subdivision (1)(b) of section 43-279.
+22 (3) On or before July 1, 2022, the Supreme Court shall provide, by
+23 court rule, a process to ensure that a juvenile has consulted with
+24 counsel, and if not, is provided the opportunity to consult with counsel
+25 prior to the juvenile exercising their right to waive their right to
+26 counsel.
+27 (4) The court shall ensure that a juvenile represented by an
+28 attorney consults with his or her attorney before any waiver of counsel.
+29 (5) No parent, guardian, custodian, or other person may waive the
+30 juvenile's right to counsel.
+31 (6) A juvenile's right to be represented by counsel may not be
+-6-
+
+LB995 LB995
+2026 2026
+1 waived in the following circumstances:
+2 (a) If the juvenile is under the age of fourteen;
+3 (b) For a detention hearing;
+4 (c) For any dispositional hearing where out-of-home placement is
+5 sought; or
+6 (d) If there is a motion to transfer the juvenile from juvenile
+7 court to county court or district court.
+8 Sec. 4. Original sections 43-272, 43-279, and 43-3102, Revised
+9 Statutes Cumulative Supplement, 2024, are repealed.
+-7-
