@@ -1,0 +1,44 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LB599 LB599
+2025 2025
+LEGISLATURE OF NEBRASKA
+ONE HUNDRED NINTH LEGISLATURE
+FIRST SESSION
+LEGISLATIVE BILL 599
+Introduced by DeBoer, 10.
+Read first time January 22, 2025
+Committee: Education
+1 A BILL FOR AN ACT relating to schools; to require the State Board of
+2 Education to adopt a policy relating to cybersecurity as prescribed.
+3 Be it enacted by the people of the State of Nebraska,
+-1-
+
+LB599 LB599
+2025 2025
+1 Section 1. The State Board of Education shall adopt a policy that
+2 may be used in approved or accredited public, private, denominational,
+3 and parochial schools and educational service units relating to
+4 cybersecurity. Such policy shall include, but not be limited to:
+5 (1) A cybersecurity framework guide for implementing cybersecurity
+6 controls in a prioritized manner;
+7 (2) The creation of a cybersecurity team that acts to assist schools
+8 and educational service units with cybersecurity needs and addresses
+9 cybersecurity issues from a statewide perspective to prevent and respond
+10 to cybersecurity threats;
+11 (3) A curriculum component that expands and defines digital
+12 citizenship requirements for students, parents, and teachers;
+13 (4) A pipeline for technology careers designed to recruit, retain,
+14 and support students from rural areas in pursuing careers in technology
+15 and encouraging such students to return and contribute to their local
+16 economies; and
+17 (5) A funding mechanism to assist in purchasing necessary
+18 cybersecurity controls and facilitating the acquisition of cybersecurity
+19 projects.
+-2-

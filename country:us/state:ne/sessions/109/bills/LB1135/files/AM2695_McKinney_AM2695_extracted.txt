@@ -1,0 +1,25 @@
+Title: 
+Official Title: 
+Source: versions - McKinney AM2695
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+AM2695 AM2695
+LB1135 LB1135
+MLU - 03/17/2026 MLU - 03/17/2026
+AMENDMENTS TO LB1135
+(Amendments to Standing Committee amendments, AM2460)
+Introduced by McKinney, 11.
+1 1. On page 19, line 26, strike "and" and show as stricken; and after
+2 line 28 insert the following new subdivision:
+3 "(vii) At least one member who resides in a qualified census tract
+4 located within the municipality that created the land bank. If there is
+5 more than one qualified census tract within such municipality, the member
+6 shall reside within whichever qualified census tract contains the most
+7 land bank property. If there is no qualified census tract within such
+8 municipality, then this subdivision shall not apply. For purposes of this
+9 subdivision, qualified census tract has the same meaning as in 26 U.S.C.
+10 42(d)(5)(B)(ii)(I), as such section existed on January 1, 2026; and".
+-1-

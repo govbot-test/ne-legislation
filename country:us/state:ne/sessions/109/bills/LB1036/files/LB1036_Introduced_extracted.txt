@@ -1,0 +1,81 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LB1036 LB1036
+2026 2026
+LEGISLATURE OF NEBRASKA
+ONE HUNDRED NINTH LEGISLATURE
+SECOND SESSION
+LEGISLATIVE BILL 1036
+Introduced by Dungan, 26.
+Read first time January 14, 2026
+Committee: Judiciary
+1 A BILL FOR AN ACT relating to the Nebraska Evidence Rules; to amend
+2 section 27-404, Revised Statutes Cumulative Supplement, 2024; to
+3 provide for consideration of extrinsic evidence that is inextricably
+4 intertwined with the charged crime; to eliminate an unnecessary
+5 reference; and to repeal the original section.
+6 Be it enacted by the people of the State of Nebraska,
+-1-
+
+LB1036 LB1036
+2026 2026
+1 Section 1. Section 27-404, Revised Statutes Cumulative Supplement,
+2 2024, is amended to read:
+3 27-404 (1) Evidence of a person's character or a trait of his or her
+4 character is not admissible for the purpose of proving that he or she
+5 acted in conformity therewith on a particular occasion, except:
+6 (a) Evidence of a pertinent trait of his or her character offered by
+7 an accused, or by the prosecution to rebut the same;
+8 (b) Evidence of a pertinent trait of character of the victim of the
+9 crime offered by an accused or by the prosecution to rebut the same, or
+10 evidence of a character trait of peacefulness of the victim offered by
+11 the prosecution in a homicide case to rebut evidence that the victim was
+12 the first aggressor. In a sexual assault case, reputation, opinion, or
+13 other evidence of past sexual behavior of the victim is governed by
+14 section 27-412; or
+15 (c) Evidence of the character of a witness as provided in sections
+16 27-607 to 27-609.
+17 (2) Evidence of other crimes, wrongs, or acts is not admissible to
+18 prove the character of a person in order to show that he or she acted in
+19 conformity therewith. It may, however, be admissible:
+20 (a) When it is inextricably intertwined with the charged crime; or
+21 (b) For for other purposes, such as proof of motive, opportunity,
+22 intent, preparation, plan, knowledge, identity, or absence of mistake or
+23 accident.
+24 (3) Evidence of other crimes, wrongs, or acts is inextricably
+25 intertwined with the charged crime when such evidence:
+26 (a) Forms part of the factual setting of the charged crime;
+27 (b) Is so blended or connected to the charged crime that proof of
+28 the charged crime will necessarily require proof of the other crimes,
+29 wrongs, or bad acts; or
+30 (c) Is necessary for the prosecution to present a coherent picture
+31 of the charged crime.
+-2-
+
+LB1036 LB1036
+2026 2026
+1 (4)(a) In (3) When such evidence is admissible pursuant to this
+2 section, in criminal cases, evidence of other crimes, wrongs, or acts of
+3 the accused may be offered in evidence by the prosecution if the
+4 prosecution proves to the court by clear and convincing evidence that:
+5 (i) The the accused committed the crime, wrong, or act; and .
+6 (ii) If the evidence is offered under subdivision (2)(a) of this
+7 section, that such evidence is inextricably intertwined with the charged
+8 crime.
+9 (b) Such proof shall first be made outside the presence of any jury.
+10 (c) Upon request by the accused, the court shall instruct the jury
+11 to consider such evidence only for the limited purpose for which it was
+12 admitted.
+13 (4) Regarding the admissibility in a civil or criminal action of
+14 evidence of a person's commission of another offense or offenses of
+15 sexual assault under sections 28-316.01 and 28-319 to 28-322.05, see
+16 sections 27-413 to 27-415.
+17 Sec. 2. Original section 27-404, Revised Statutes Cumulative
+18 Supplement, 2024, is repealed.
+-3-

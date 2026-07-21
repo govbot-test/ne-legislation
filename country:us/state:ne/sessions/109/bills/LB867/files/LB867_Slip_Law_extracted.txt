@@ -1,0 +1,1170 @@
+Title: 
+Official Title: 
+Source: versions - Slip Law
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LB867 LB867
+2026 2026
+LEGISLATIVE BILL 867
+Approved by the Governor April 14, 2026
+Introduced by Health and Human Services Committee: Hardin, 48, Chairperson;
+Ballard, 21; Hansen, 16; Meyer, G., 17.
+A BILL FOR AN ACT relating to public health and welfare; to amend sections
+43-2624, 68-927, 68-928, 68-1006, 68-1007, 71-2226, 71-7450, 81-6,122,
+81-2205, 81-2212, 81-2226, 81-2234, 81-2235, 81-3113, 81-3116, 83-1201,
+83-1204, and 83-1206, Reissue Revised Statutes of Nebraska, sections
+30-38,113, 43-4413, 43-4504, 68-949, 71-561, 71-563, 71-564, 71-565,
+71-566, and 71-567, Revised Statutes Cumulative Supplement, 2024, and
+sections 38-131, 43-3342.04, 68-1530, 71-814, 71-1908, and 81-1316,
+Revised Statutes Supplement, 2025; to change requirements for rules and
+regulations relating to special needs trusts, fingerprints under the
+Uniform Credentialing Act, funding provisions for child care grants, the
+Title IV-D Division Customer Service Unit, and eligibility for young
+adults in the bridge to independence program; to redefine a term and
+provide requirements for licensed and self-funded insurers under the
+Medical Assistance Act; to change requirements relating to establishing
+medicaid nursing facility rates; to provide for a money follows the person
+program for medicaid benefits; to change and eliminate requirements
+relating to the application for, determination of need for, and payment of
+assistance to the aged, blind, or disabled; to change provisions of and
+rename the Alzheimer's Disease and Other Dementia Support Act and the
+Alzheimer's Disease and Other Dementia Advisory Council and create a fund;
+to rename the State Advisory Committee on Mental Health; to provide
+requirements for a youth afterschool eligibility letter for child care
+employment; to change a requirement of the state Commodity Supplemental
+Food program; to provide for the use of wholesale drug distributor license
+fees for the prescription drug monitoring program; to change provisions
+relating to care management units; to provide for the maintenance of
+epinephrine by certain schools; to rename the Division of Developmental
+Disabilities of the Department of Health and Human Services and the
+Director of Developmental Disabilities; to change and eliminate provisions
+relating to divisions of the Department of Health and Human Services; to
+eliminate the Division of Medicaid and Long-Term Care Advisory Committee
+on Aging; to eliminate provisions relating to the Maternal and Child
+Health and Public Health Work Fund; to eliminate an obsolete Nurse
+Licensure Compact; to eliminate obsolete provisions; to harmonize
+provisions; to provide operative dates; to repeal the original sections;
+and to outright repeal sections 68-1008, 68-1101, 68-1103, 68-1104,
+68-1106, 71-1795, 71-1795.02, 71-2201, 71-2202, 71-2203, 71-2204, 71-2205,
+71-2207, 71-2208, 81-3133.02, 81-3134, 83-1216.02, 83-1227, and 83-1228,
+Reissue Revised Statutes of Nebraska, and section 68-1105, Revised
+Statutes Cumulative Supplement, 2024; and to declare an emergency.
+Be it enacted by the people of the State of Nebraska,
+Section 1. Section 30-38,113, Revised Statutes Cumulative Supplement,
+2024, is amended to read:
+30-38,113 (1) Each state agency that provides governmental benefits to
+individuals of any age with disabilities through means-tested programs,
+including the medical assistance program, shall adopt and promulgate rules and
+regulations that:
+(a) Are not more restrictive than existing federal law, regulations, or
+policies with regard to the treatment of a special needs trust, including a
+trust defined in 42 U.S.C. 1396p(c)(2) and 42 U.S.C. 1396p(d)(4);
+(b) Are not more restrictive than any state law regarding trusts,
+including any state law relating to the reasonable exercise of discretion by a
+trustee, guardian, or conservator in the best interests of the beneficiary;
+(c) Do not require disclosure of a beneficiary's personal or confidential
+information without the consent of the beneficiary;
+(d) Allow an individual account in a pooled special needs trust to be
+funded without financial limit;
+(e) Allow an individual to establish or fund an individual account in a
+pooled special needs trust without an age limit or a transfer penalty, except
+that a transfer by an individual sixty-five years of age or older into a
+special needs trust shall comply with 42 U.S.C. 1396p(C) in order to avoid a
+transfer penalty;
+(f) Allow an individual to fund a special needs trust for the individual's
+child with disabilities without a transfer penalty and regardless of the
+child's age; and
+(g) Allow all legally assignable income or resources to be assigned to any
+special needs trust without limit.
+(2) Nothing in this section may be interpreted to require a court order to
+authorize the funding of, or a disbursement from, a special needs trust.
+Sec. 2. Section 38-131, Revised Statutes Supplement, 2025, is amended to
+read:
+-1-
+
+LB867 LB867
+2026 2026
+38-131 (1) An applicant for a an initial license to practice as a
+registered nurse, a licensed practical nurse, a physical therapist, a physical
+therapy assistant, a psychologist, an advanced emergency medical technician, an
+emergency medical technician, an audiologist, a speech-language pathologist, a
+licensed independent mental health practitioner, an occupational therapist, an
+occupational therapy assistant, a dietitian, a certified social worker, a
+certified master social worker, a licensed clinical social worker, a paramedic,
+a physician, an osteopathic physician, a physician or osteopathic physician who
+is an applicant for a temporary educational permit, a physician or osteopathic
+physician who is an applicant for a temporary visiting faculty permit, a
+physician assistant, a dentist, a dental hygienist, an optometrist, a
+podiatrist, a veterinarian, an advanced practice registered nurse-nurse
+practitioner, an advanced practice registered nurse-certified nurse midwife, or
+an advanced practice registered nurse-certified registered nurse anesthetist
+shall be subject to a criminal background check. Except as provided in
+subsection (4) of this section, such an applicant for a an initial license
+shall submit a full set of fingerprints to the Nebraska State Patrol for a
+criminal history record information check. The applicant shall authorize
+release of the results of the national criminal history record information
+check by the Federal Bureau of Investigation to the department. The applicant
+shall pay the actual cost of the fingerprinting and criminal background check.
+(2) The Nebraska State Patrol is authorized to submit the fingerprints of
+such applicants to the Federal Bureau of Investigation and to issue a report to
+the department that includes the criminal history record information concerning
+the applicant. The Nebraska State Patrol shall forward submitted fingerprints
+to the Federal Bureau of Investigation for a national criminal history record
+information check. The Nebraska State Patrol shall issue a report to the
+department that includes the criminal history record information concerning the
+applicant.
+(3) This section shall not apply to a dentist who is an applicant for a
+dental locum tenens under section 38-1122, to a physician or osteopathic
+physician who is an applicant for a physician locum tenens under section
+38-2036, or to a veterinarian who is an applicant for a veterinarian locum
+tenens under section 38-3335.
+(4) A physician or osteopathic physician who is an applicant for a
+temporary educational permit shall have ninety days from the issuance of the
+permit to comply with subsection (1) of this section and shall have such permit
+suspended after such ninety-day period if the criminal background check is not
+complete or revoked if the criminal background check reveals that the applicant
+was not qualified for the permit.
+(5) The department and the Nebraska State Patrol may adopt and promulgate
+rules and regulations concerning costs associated with the fingerprinting and
+the national criminal history record information check.
+(6) For purposes of interpretation by the Federal Bureau of Investigation,
+the term department in this section means the Division of Public Health of the
+Department of Health and Human Services.
+Sec. 3. Section 43-2624, Reissue Revised Statutes of Nebraska, is amended
+to read:
+43-2624 The Department of Health and Human Services shall award grants to
+persons, community-based organizations, or schools needing assistance to start
+or improve a child care program or needing assistance to provide staff training
+for a child care program. No grant shall exceed ten thousand dollars. A
+recipient of a grant shall not be eligible for a grant more than once in a
+three-year period. Child care grants shall be awarded on the basis of need for
+the proposed services in the community. Grants shall be given only to grantees
+who do not discriminate against children with disabilities or children whose
+care is funded by any state or federal funds. When considering grant
+applications of equal merit, the department shall award the grant to the
+applicant which has not previously received a grant from the Child Care Grant
+Fund. The department may award grants in excess of the appropriation for this
+program by spending available federal funds allowed for such grants.
+Sec. 4. Section 43-3342.04, Revised Statutes Supplement, 2025, is amended
+to read:
+43-3342.04 (1) The Title IV-D Division shall establish a Customer Service
+Unit. In hiring the initial staff for the unit, a hiring preference shall be
+given to employees of the clerks of the district court. The duties of the
+Customer Service Unit include, but are not limited to:
+(a) Providing account information as well as addressing inquiries made by
+customers of the State Disbursement Unit; and
+(b) Administering two statewide toll-free telephone systems, one for use
+by employers and one for use by all other customers, to provide responses to
+inquiries regarding income withholding, the collection and disbursement of
+support order payments made to the State Disbursement Unit, and other child
+support enforcement issues, including establishing a call center with
+sufficient telephone lines, a voice response unit, and adequate personnel
+available during normal business hours to ensure that responses to inquiries
+are made by the division's personnel or the division's designee.
+(2) The physical location of the Customer Service Unit shall be in
+Nebraska and shall result in the hiring of a number of new employees or
+contractor's staff equal to at least one-fourth of one percent of the labor
+force in the county or counties in which the Customer Service Unit is located.
+Customer service staff responsible for providing account information related to
+the State Disbursement Unit may be located at the same location as the State
+-2-
+
+LB867 LB867
+2026 2026
+Disbursement Unit.
+Sec. 5. Section 43-4413, Revised Statutes Cumulative Supplement, 2024, is
+amended to read:
+43-4413 (1) There is hereby established a child welfare practice model
+work group. The work group may include, but is not limited to:
+(a) The Director of Behavioral Health of the Division of Behavioral Health
+or the director's designee;
+(b) The Director of Children and Family Services of the Division of
+Children and Family Services or the director's designee;
+(c) The Director of Disability and Aging Developmental Disabilities of the
+Division of Disability and Aging Developmental Disabilities or the director's
+designee;
+(d) The Director of Medicaid and Long-Term Care of the Division of
+Medicaid and Long-Term Care or the director's designee;
+(e) The Director of Public Health of the Division of Public Health or the
+director's designee;
+(f) The Commissioner of Education or the commissioner's designee;
+(g) The State Court Administrator;
+(h) A representative of the state judicial branch to be appointed by the
+Chief Justice; and
+(i) Representatives from each federally recognized Indian tribe within the
+State of Nebraska, appointed by each tribe's Tribal Council or Executive
+Committee.
+(2) The work group shall develop a practice and finance model for child
+welfare system transformation in Nebraska, with consultation from key
+stakeholders, judges from separate juvenile courts and judges of county courts
+sitting as juvenile courts, private child welfare providers, individuals with
+lived experience in the child welfare system, the Nebraska Children's
+Commission, the Inspector General of Nebraska Child Welfare, the Foster Care
+Review Office, child advocacy centers, law enforcement, and county attorneys.
+The practice and finance model shall include, but not be limited to:
+(a) Development of a statewide mission and vision for the child welfare
+system in Nebraska;
+(b) Development of values and practice priorities for the child welfare
+system in Nebraska;
+(c) Development of statewide program goals and a practice and finance
+model for child welfare system case management and service delivery;
+(d) Development of engagement strategies to support community involvement
+in child welfare system transformation;
+(e) Development of strategies that strengthen relationships across the
+court system, probation, executive branch agencies, the State Department of
+Education, and community partners;
+(f) Development of strategies that support integration across agencies;
+(g) Development of accountabilities across the entire child welfare
+system;
+(h) Evaluation of the state's Title IV-E claiming practices and
+identification of appropriate steps to optimize federal reimbursement for child
+welfare system expenditures;
+(i) Opportunities and financial mechanisms for providers to pilot
+innovative solutions to meet program goals; and
+(j) Development of a strategy for data collection and outcome monitoring.
+(3) The work group shall provide monthly updates to the strategic
+leadership group.
+Sec. 6. Section 43-4504, Revised Statutes Cumulative Supplement, 2024, is
+amended to read:
+43-4504 The bridge to independence program is available, on a voluntary
+basis, to a young adult:
+(1) Who has attained the age of eligibility;
+(2) Who was adjudicated to be a juvenile described in:
+(a) Subdivision (3)(a) of section 43-247 or the equivalent under tribal
+law and (i) who, upon attaining the age of eligibility, was in an out-of-home
+placement or had been discharged to independent living or (ii) with respect to
+whom a kinship guardianship assistance agreement or an adoption assistance
+agreement was in effect pursuant to 42 U.S.C. 673, if the young adult had
+attained sixteen years of age before the agreement became effective, or with
+respect to whom a state-funded guardianship assistance agreement or a state-
+funded adoption assistance agreement was in effect if the young adult had
+attained sixteen years of age before the agreement became effective;
+(b) Subdivision (8) of section 43-247 or the equivalent under tribal law
+if the young adult's guardianship or state-funded adoption assistance agreement
+was disrupted or terminated after he or she had attained the age of sixteen
+years and (i) who, upon attaining the age of eligibility, was in an out-of-home
+placement or had been discharged to independent living or (ii) with respect to
+whom a kinship guardianship assistance agreement or an adoption assistance
+agreement was in effect pursuant to 42 U.S.C. 673, if the young adult had
+attained sixteen years of age before the agreement became effective, or with
+respect to whom a state-funded guardianship assistance agreement or a state-
+funded adoption assistance agreement was in effect if the young adult had
+attained sixteen years of age before the agreement became effective; or
+(c) Subdivision (1), (2), or (3)(b) of section 43-247 and (i) after
+January 1, 2025, upon one day prior to attaining nineteen years of age or the
+age of majority under relevant tribal law, was in a court-ordered out-of-home
+placement and (ii) such placement had been authorized or reauthorized in the
+-3-
+
+LB867 LB867
+2026 2026
+six months prior to the juvenile attaining nineteen years of age or the age of
+majority under relevant tribal law in a court order finding that it would be
+contrary to the welfare of the juvenile to remain in or return to the
+juvenile's family home;
+(3) Who is:
+(a) Completing secondary education or an educational program leading to an
+equivalent credential;
+(b) Enrolled in an institution which provides postsecondary or vocational
+education;
+(c) Employed for at least eighty hours per month;
+(d) Participating in a program or activity designed to promote employment
+or remove barriers to employment; or
+(e) Incapable of doing any of the activities described in subdivisions (3)
+(a) through (d) of this section due to a medical condition, which incapacity is
+supported by regularly updated information in the case plan of the young adult;
+(4) Who is a Nebraska resident, except that this requirement shall not
+disqualify a young adult who was a Nebraska resident but was placed outside
+Nebraska pursuant to the Interstate Compact for the Placement of Children; and
+(5) Who does not meet the level of care for a nursing facility as defined
+in section 71-424, for a skilled nursing facility as defined in section 71-429,
+or for an intermediate care facility for persons with developmental
+disabilities as defined in section 71-421.
+Sec. 7. Section 68-927, Reissue Revised Statutes of Nebraska, is amended
+to read:
+68-927 For purposes of sections 68-926 to 68-933:
+(1) Coordinate benefits means:
+(a) Provide to the department information regarding the licensed insurer's
+or self-funded insurer's existing coverage for an individual who is eligible
+for a state benefit program; and
+(b) Meet payment obligations;
+(2) Coverage information means health information possessed by a licensed
+insurer or self-funded insurer that is limited to the following information
+about an individual:
+(a) Eligibility for coverage under a health plan;
+(b) Coverage of health care under the health plan; or
+(c) Benefits and payments associated with the health plan;
+(3) Health plan means any policy of insurance issued by a licensed insurer
+or any employee benefit plan offered by a self-funded insurer that provides for
+payment to, or on behalf of, an individual as a result of an illness,
+disability, or injury or change in a health condition and includes a service
+benefit plan, managed care organization, pharmacy benefit manager, or another
+party that is legally responsible by law, contract, or agreement for payment of
+a claim for a health care item or service;
+(4) Individual means a person covered by a state benefit program,
+including the medical assistance program, or a person applying for such
+coverage;
+(5) Licensed insurer means any insurer, except a self-funded insurer,
+including a fraternal benefit society, producer, or other person licensed or
+required to be licensed, authorized or required to be authorized, or registered
+or required to be registered pursuant to the insurance laws of the state; and
+(6) Self-funded insurer means any employer or union who or which provides
+a self-funded employee benefit plan.
+Sec. 8. Section 68-928, Reissue Revised Statutes of Nebraska, is amended
+to read:
+68-928 (1) Except as provided in subsection (2) of this section, at the
+request of the department, a licensed insurer or a self-funded insurer shall
+provide coverage information to the department without an individual's
+authorization for purposes of:
+(a) Determining an individual's eligibility for state benefit programs,
+including the medical assistance program; or
+(b) Coordinating benefits with state benefit programs.
+Such information shall be provided within thirty days after the date of
+request unless good cause is shown. Requests for coverage information shall
+specify individual recipients for whom information is being requested.
+(2)(a) Coverage information requested pursuant to subsection (1) of this
+section regarding a limited benefit policy shall be limited to whether a
+specified individual has coverage and, if so, a description of that coverage,
+and such information shall be used solely for the purposes of subdivision (1)
+(a) of this section.
+(b) For purposes of this section, limited benefit policy means a policy of
+insurance issued by a licensed insurer that consists only of one or more, or
+any combination of the following:
+(i) Coverage only for accident or disability income insurance, or any
+combination thereof;
+(ii) Coverage for specified disease or illness; or
+(iii) Hospital indemnity or other fixed indemnity insurance.
+(3) An entity that issues a health plan shall:
+(a) Respond to a request by the department regarding a claim for payment
+for a health care item or service submitted not later than three years after
+the date of the provision of such health care item or service; and
+(b) Not deny a claim submitted by the department solely on the basis of
+the date of submission, the type or format of the claim form, or a failure to
+present proper documentation at the point-of-sale, if (i) the claim is
+-4-
+
+LB867 LB867
+2026 2026
+submitted by the department within the three-year period beginning on the date
+that the health care item or service was provided and (ii) an action by the
+department to enforce its rights with respect to such claim is commenced within
+six years after the date of the claim's submission. Such information shall be
+provided to the department within thirty days after the date of its request
+unless good cause is shown. A request for coverage information shall specify
+the individual for whom information is being requested.
+Sec. 9. Section 68-949, Revised Statutes Cumulative Supplement, 2024, is
+amended to read:
+68-949 (1) It is the intent of the Legislature that the department
+implement reforms to the medical assistance program such as those contained in
+the Medicaid Reform Plan, including (a) an incremental expansion of home and
+community-based services for aged persons and persons with disabilities
+consistent with such plan, (b) an increase in care coordination or disease
+management initiatives to better manage medical assistance expenditures on
+behalf of high-cost recipients with multiple or chronic medical conditions, and
+(c) other reforms as deemed necessary and appropriate by the department, in
+consultation with the committee.
+(2) The department shall develop recommendations based on a comprehensive
+analysis of various options available to the state under applicable federal law
+for the provision of medical assistance to persons with disabilities who are
+employed, including persons with a medically improved disability, to enhance
+and replace current eligibility provisions contained in subdivision (8) of
+section 68-915.
+(3) The department shall develop recommendations for further modification
+or replacement of the defined benefit structure of the medical assistance
+program. Such recommendations shall be consistent with the public policy in
+section 68-905 and shall consider the needs and resources of low-income
+Nebraska residents who are eligible or may become eligible for medical
+assistance, the experience and outcomes of other states that have developed and
+implemented such changes, and other relevant factors as determined by the
+department.
+(4)(a) It is the intent of the Legislature that the total amount
+appropriated to the department for medicaid nursing facility rates be
+identified as a dollar amount in the state budget and be used in the medicaid
+nursing facility rate calculation, including the calculation of the annual
+inflation factor. The total amount appropriated for medicaid nursing facility
+rates shall include amounts for rate enhancement and any other purpose related
+to medicaid nursing facility services and shall be used as the base for funding
+for the following fiscal year.
+(b) The department may take into consideration utilization relating to
+client needs and preferred setting when establishing nursing facility rates for
+prospective rating periods. If the department uses an amount that differs from
+the identified appropriation in the calculation of nursing facility rates for
+the prospective rate period, the department shall calculate the average
+weighted medicaid nursing facility rate by dividing the projected total
+medicaid nursing facility expenditures by the projected total medicaid nursing
+facility days for the prospective rating period and such dollar amount and the
+number of projected medicaid nursing facility resident days used in the
+calculation shall be identified to the Legislature in the report required under
+subdivision (4)(c) of this section. The average weighted medicaid nursing
+facility daily rate shall not be less than the average weighted medicaid
+nursing facility daily rate as of January 1, 2026, unless directed by the
+Legislature or in the event of, and during, a state of emergency proclaimed by
+the Governor pursuant to section 81-829.40.
+(c) (b) The department shall file a report electronically with the
+Legislative Fiscal Analyst and the Clerk of the Legislature no later than June
+15 August 1 of each year identifying how the inflation factor was calculated
+for that year's medicaid nursing facility rates and including the information
+described in subdivisions (4)(a) and (b) of this section.
+(d) (c) The department shall file a report electronically with the
+Legislative Fiscal Analyst and the Clerk of the Legislature between December 15
+and December 31 of each year identifying the amount of any remaining
+unobligated appropriation from the prior appropriations earmarked for medicaid
+nursing facility payments. The report shall include an identification of
+encumbrances and retroactive payments.
+(5) No later than December 31, 2026, the department shall submit an
+application to the federal Centers for Medicare and Medicaid Services to
+establish a money follows the person program to assist qualified individuals to
+transition from an institutional setting to a community setting while
+continuing to receive long-term care.
+Sec. 10. Section 68-1006, Reissue Revised Statutes of Nebraska, is amended
+to read:
+68-1006 The amount of assistance to the aged, blind, or disabled shall be
+based on the need of the individual and the circumstances existing in each
+case. When permitted by the federal old age and survivors insurance act, any
+accumulations of increased benefits under such act may be disregarded when
+determining need. Payments shall be made by state warrant directly to each
+recipient.
+Sec. 11. Section 68-1007, Reissue Revised Statutes of Nebraska, is amended
+to read:
+68-1007 In determining need for assistance to the aged, blind, or
+disabled, the Department of Health and Human Services shall take into
+-5-
+
+LB867 LB867
+2026 2026
+consideration all other income and resources of the individual claiming such
+assistance, as well as any expenses reasonably attributable to the earning of
+any such income, except as otherwise provided in this section. In making such
+determination with respect to any individual who is blind, there shall be
+disregarded the first eighty-five dollars per month of earned income plus one-
+half of earned income in excess of eighty-five dollars per month and, for a
+period not in excess of twelve months, such additional amounts of other income
+and resources, in the case of an individual who has an approved plan for
+achieving self-support, as may be necessary for the fulfillment of such plan.
+In making such determination with respect to an individual who has attained age
+sixty-five, or who is permanently and totally disabled, and is claiming aid to
+the aged, blind, or disabled, the department shall disregard earned income at
+least to the extent such income was disregarded on January 1, 1972, as provided
+in 42 U.S.C. 1396a(f).
+Sec. 12. Section 68-1530, Revised Statutes Supplement, 2025, is amended to
+read:
+68-1530 (1) The Department of Health and Human Services shall apply for a
+three-year medicaid waiver under section 1915(c) of the federal Social Security
+Act to administer a family support program which is a home and community-based
+services program as provided in this section.
+(2)(a) The Advisory Committee on Developmental Disabilities created in
+section 83-1212.01 shall assist in the development and guide the implementation
+of the family support program. The family support program shall be administered
+by the Division of Disability and Aging Developmental Disabilities of the
+Department of Health and Human Services.
+(b) It is the intent of the Legislature that any funds distributed to
+Nebraska pursuant to section 9817 of the federal American Rescue Plan Act of
+2021, Public Law 117-2, be used to eliminate unmet needs relating to home and
+community-based services for persons with developmental disabilities as much as
+is possible.
+(c) If funds are distributed to Nebraska pursuant to section 9817 of the
+federal American Rescue Plan Act of 2021, it is the intent of the Legislature
+that such funds distributed to Nebraska should at least partially fund the
+family support program if doing so is in accordance with federal law, rules,
+regulations, or guidance.
+(3) The family support program shall:
+(a) Offer an annual capped budget for long-term services and supports of
+ten thousand dollars for each eligible applicant;
+(b) Offer a pathway for medicaid eligibility for disabled children by
+disregarding parental income and establishing eligibility based on a child's
+income and assets;
+(c) Allow a family to self-direct services, including contracting for
+services and supports approved by the division; and
+(d) Not exceed eight hundred fifty participants.
+(4) The department, in consultation with the advisory committee, shall
+adopt and promulgate rules and regulations for the implementation of the family
+support program to be set at an intermediate care facility institutional level
+of care to support children with intellectual and developmental disabilities
+and their families. Such rules and regulations shall include, but not be
+limited to:
+(a) Criteria for and types of long-term services and supports to be
+provided by the family support program;
+(b) The method, as provided in section 68-1532, for allocating resources
+to family units participating in the family support program;
+(c) Eligibility determination, including, but not limited to, a child's
+maximum income and assets;
+(d) The enrollment process;
+(e) Limits on benefits; and
+(f) Processes to establish quality assurance, including, but not limited
+to, measures of family satisfaction.
+(5) The division shall administer the family support program within the
+limits of the appropriations by the Legislature for such program.
+(6) Until December 31, 2027, the division shall submit an annual report
+electronically to the Legislature on the family support program. The report
+shall include:
+(a) The distribution of available funds, the total number of children and
+families served, and the status of the waiting list for the comprehensive
+waiver and other applicable waivers;
+(b) A summary of any grievances filed by family units pertaining to the
+family support program, including any appeals and a description of how such
+grievances were resolved;
+(c) The number and demographics of children with disabilities and their
+families who applied under the family support program but who were not found
+eligible and the reason such children and their families were not found
+eligible;
+(d) Quality assurance activities and the results of annual measures of
+family satisfaction; and
+(e) Recommendations to innovate the family support program, improve
+current programming, and maximize limited funding, including, but not limited
+to, the potential utilization of other medicaid pathways or medicaid waivers
+that could help increase access to medicaid and long-term services and supports
+for children with disabilities or special health care needs.
+Sec. 13. Section 71-561, Revised Statutes Cumulative Supplement, 2024, is
+-6-
+
+LB867 LB867
+2026 2026
+amended to read:
+71-561 Sections 71-561 to 71-567 and section 19 of this act shall be known
+and may be cited as the Aging, Alzheimer's, and Disease and Other Dementia
+Support Act.
+Sec. 14. Section 71-563, Revised Statutes Cumulative Supplement, 2024, is
+amended to read:
+71-563 For purposes of the Aging, Alzheimer's, and Disease and Other
+Dementia Support Act:
+(1) Council means the Aging, Alzheimer's, and Dementia Alzheimer's Disease
+and Other Dementia Advisory Council; and
+(2) Department means the Department of Health and Human Services.
+Sec. 15. Section 71-564, Revised Statutes Cumulative Supplement, 2024, is
+amended to read:
+71-564 (1) The Aging, Alzheimer's, and Dementia Alzheimer's Disease and
+Other Dementia Advisory Council is created and shall include:
+(a) Fourteen Twelve voting members appointed by the Governor. The voting
+members shall consist of: (i) An individual living with Alzheimer's disease or
+another dementia or a family member or care partner with experience caring for
+of such an individual; (ii) an individual who is a state representative of a
+nationwide organization that advocates for individuals living with Alzheimer's
+disease or other dementia; (iii) an individual who is a state representative of
+a nationwide organization that advocates for aging adults; (iv) a medical
+professional with experience diagnosing or treating Alzheimer's disease or
+other dementia; (v) a medical or licensed professional with experience working
+with aging populations; (vi) an individual who conducts research relating to
+Alzheimer's disease and other dementia issues; (vii) an individual who
+represents long-term care; (viii) an individual who represents nursing
+facilities; (ix) an individual who represents nonmedical home and community-
+based services, including home care, respite, or adult day care services; (x)
+an individual who represents assisted-living facilities; (xi) one
+representative from each congressional district representing a planning-and-
+service area as designated in the Nebraska Community Aging Services Act; and
+(xii) an individual with experience with vulnerable aging populations the
+family caregiver of an individual living with Alzheimer's disease or another
+dementia; (iii) an individual who represents nursing homes; (iv) an individual
+who represents assisted-living facilities; (v) an individual who represents
+providers of adult day care services; (vi) an individual who represents home
+care providers; (vii) a medical professional who has experience diagnosing and
+treating Alzheimer's disease; (viii) an individual who conducts research
+regarding Alzheimer's disease or other dementia; (ix) an individual who
+represents a leading, nationwide organization that advocates on behalf of
+individuals living with Alzheimer's disease or other dementia; (x) an
+individual who represents an area agency on aging; (xi) an individual
+representing an organization that advocates for older adults; and (xii) an
+individual with experience or expertise in the area of the specific needs of
+individuals with intellectual and developmental disabilities and Alzheimer's
+disease or other dementia; and
+(b) Five nonvoting members. The nonvoting members shall consist of: (i)
+The Director of Public Health or the director's designee; (ii) the Director of
+Disability and Aging Medicaid and Long-Term Care or the director's designee;
+(iii) the administrator a representative of the State Unit on Aging or the
+administrator's designee of the Division of Medicaid and Long-Term Care
+designated by the Director of Medicaid and Long-Term Care; (iv) a
+representative of the Nebraska Workforce Development Board designated by the
+board; and (v) the state long-term care ombudsman or the ombudsman's designee.
+(2) The terms of the initial members shall begin on the date of the first
+meeting as called by the Director of Public Health and (a) one-third shall
+serve for two-year terms, (b) one-third shall serve for three-year terms, and
+(c) one-third shall serve for four-year terms, including the chairperson and
+vice-chairperson. Thereafter all members shall serve four-year terms. Members
+may not serve more than two consecutive four-year terms. Vacancies shall be
+appointed by the Governor in the same manner as described in subdivision (1)(a)
+of this section.
+(3) Members of the council shall select the chairperson and vice-
+chairperson who shall not be employees of the state and may serve in such role
+for up to four consecutive years. The Director of Public Health or the
+director's designee shall call and preside over the first meeting until a
+chairperson is selected. Thereafter, the council shall meet at least quarterly
+at the call of the chairperson. A majority of the voting members shall
+constitute a quorum for the conduct of meetings.
+(4) The council shall hold meetings at least once every calendar quarter.
+(5) Members shall serve on the council without compensation but shall be
+compensated for expenses incurred for such service as provided in sections
+81-1174 to 81-1177.
+(6) The department shall provide staff and support to the council as
+necessary to assist the council in the performance of its duties.
+Sec. 16. Section 71-565, Revised Statutes Cumulative Supplement, 2024, is
+amended to read:
+71-565 (1) The purpose of the council shall be to examine (a) the needs of
+aging individuals and individuals living with Alzheimer's disease or other
+dementia, (b) the services available in the state for those individuals and
+their family caregivers, and (c) the ability of health care providers and
+facilities to meet the current and future needs of such individuals.
+-7-
+
+LB867 LB867
+2026 2026
+(2) The council shall collaborate with the department and other state
+departments as needed to gather input on issues and strategies that pertain to
+aging, Alzheimer's disease, and other dementia and identify proactive
+approaches on public health, workforce, caregiver support, and care delivery.
+The council shall monitor analysis, policy development, and program
+implementation related to aging, Alzheimer's disease, and other dementia.
+Sec. 17. Section 71-566, Revised Statutes Cumulative Supplement, 2024, is
+amended to read:
+71-566 The council shall consider and make findings and recommendations on
+the following topics:
+(1) Trends in the state's aging and Alzheimer's disease and other dementia
+populations and service needs, including:
+(a) The state's role in providing or facilitating long-term care, family
+caregiver support, home and community-based services to the aging, and
+assistance to those with early-stage or early-onset Alzheimer's disease or
+other dementia;
+(b) The state's policies regarding services provided to aging individuals
+and individuals with Alzheimer's disease or other dementia;
+(c) The fiscal impact of Alzheimer's disease and other dementia on
+publicly funded health care programs; and
+(d) The establishment of a surveillance system to better determine the
+number of individuals diagnosed with Alzheimer's disease or other dementia and
+to monitor changes to such numbers;
+(2) Existing resources, services, and capacity relating to the diagnosis
+and care of individuals living with Alzheimer's disease or other dementia,
+including:
+(a) The type, cost, and availability of dementia care services;
+(b) The availability of health care workers who can serve people with
+dementia, including, but not limited to, neurologists, geriatricians, and
+direct care workers;
+(c) Dementia-specific training requirements for public and private
+employees who interact with people living with Alzheimer's disease or other
+dementia which shall include, but not be limited to, long-term care workers,
+case managers, adult protective services, law enforcement, and first
+responders;
+(d) Home and community-based services, including respite care for
+individuals sixty years of age and older or for individuals exhibiting symptoms
+of Alzheimer's disease or other dementia and their families;
+(e) Quality care measures for home and community-based services and
+residential care facilities; and
+(f) State-supported Alzheimer's disease and other dementia research
+conducted at universities located in this state; and
+(3) Policies and strategies that address the following:
+(a) Increasing public awareness of Alzheimer's disease and other dementia;
+(b) Educating providers to increase early detection and diagnosis of
+Alzheimer's disease and other dementia;
+(c) Improving the health care received by individuals diagnosed with
+Alzheimer's disease or other dementia;
+(d) Evaluating the capacity of the health care system in meeting the
+growing number and needs of those with Alzheimer's disease and other dementia;
+(e) Increasing the number of health care professionals necessary to treat
+the growing aging and Alzheimer's disease and other dementia populations;
+(f) Improving services provided in the home and community to delay and
+decrease the need for institutionalized care for individuals sixty years of age
+or older or individuals diagnosed with Alzheimer's disease or other dementia;
+(g) Improving long-term care, including assisted living, for those with
+Alzheimer's disease or other dementia;
+(h) Assisting unpaid Alzheimer's disease or dementia caregivers;
+(i) Increasing and improving research on Alzheimer's disease and other
+dementia;
+(j) Promoting activities to maintain and improve brain health;
+(k) Improving the collection of data and information related to
+Alzheimer's disease and other dementia and the resulting public health burdens;
+(l) Improving public safety and addressing the safety-related needs of
+those with Alzheimer's disease or other dementia;
+(m) Addressing legal protections for, and legal issues faced by,
+individuals with Alzheimer's disease or other dementia; and
+(n) Improving the ways in which the government evaluates and adopts
+policies to assist individuals diagnosed with Alzheimer's disease or other
+dementia and their families; .
+(4) The collection of facts and statistics and special studies of the
+conditions and problems pertaining to the employment, health, financial status,
+recreation, social adjustment, or other conditions and problems relating to the
+general welfare of aging individuals of the state;
+(5) State and local agencies serving aging individuals for purposes of
+coordinating such agencies' activities, and reports from the various state
+agencies and institutions relating to matters within the jurisdiction of the
+council;
+(6) The latest developments of research, studies, and programs being
+conducted throughout the nation relating to the problems and needs of aging
+individuals;
+(7) The mutual exchange of ideas and information relating to aging
+individuals among federal, state, and local governmental agencies, private
+-8-
+
+LB867 LB867
+2026 2026
+organizations, and individuals; and
+(8) Cooperation with federal, state, and local agencies or private
+organizations in administering and supervising demonstration programs of
+services for aging individuals designed to foster continued participation of
+such individuals in family and community life and to prevent, insofar as
+possible, the onset of dependency and the need for long-term institutional
+care.
+Sec. 18. Section 71-567, Revised Statutes Cumulative Supplement, 2024, is
+amended to read:
+71-567 (1)(a) No later than December 31, 2024, the council shall compile
+the findings and recommendations under the Alzheimer's Disease and Other
+Dementia Support Act and submit them as a State Alzheimer's Plan to the
+Legislature and the Governor.
+(b) No later than December 31, 2028, and every Every four years
+thereafter, the council shall issue an updated State Alzheimer's Plan
+addressing the items in sections 71-565 and 71-566 and any other issues the
+council deems necessary and relevant toward addressing Alzheimer's disease and
+dementia in Nebraska.
+(2) By October 1 of each year after the creation of the State Alzheimer's
+Plan, the council shall electronically submit to the Legislature and the
+Governor an annual report on the status of implementation of the State
+Alzheimer's Plan recommendations and any barriers to implementation.
+Sec. 19. The Aging, Alzheimer's, and Dementia Advisory Council Fund is
+created. The fund shall consist of federal funds and grants or gifts for the
+purposes authorized by the Aging, Alzheimer's, and Dementia Support Act.
+Expenditures from the fund shall be subject to any conditions agreed upon for
+receiving such funds, grants, or gifts. Such funds, grants, or gifts shall be
+remitted to the State Treasurer for credit to the fund. Any money in the fund
+available for investment shall be invested by the state investment officer
+pursuant to the Nebraska Capital Expansion Act and the Nebraska State Funds
+Investment Act.
+Sec. 20. Section 71-814, Revised Statutes Supplement, 2025, is amended to
+read:
+71-814 (1) The State Advisory Committee on Mental Health and Substance Use
+Services is created. Members of the committee shall have a demonstrated
+interest and commitment and specialized knowledge, experience, or expertise
+relating to the provision of mental health services in the State of Nebraska.
+The committee shall consist of twenty-three members appointed by the Governor
+as follows: (a) One regional governing board member, (b) one regional
+administrator, (c) twelve consumers of behavioral health services or their
+family members, (d) two providers of behavioral health services, (e) two
+representatives from the State Department of Education, including one
+representative from the Division of Vocational Rehabilitation of the State
+Department of Education, (f) three representatives from the Department of
+Health and Human Services representing mental health, social services, and
+medicaid, (g) one representative from the Nebraska Commission on Law
+Enforcement and Criminal Justice, and (h) one representative from the Housing
+Office of the Community and Rural Development Division of the Department of
+Economic Development.
+(2) The committee shall be responsible to the division and shall (a) serve
+as the state's mental health planning council as required by Public Law
+102-321, (b) conduct regular meetings, (c) provide advice and assistance to the
+division relating to the provision of mental health services and, beginning
+July 1, 2026, substance use disorder services in the State of Nebraska,
+including, but not limited to, the development, implementation, provision, and
+funding of organized peer support services, (d) promote the interests of
+consumers and their families, including, but not limited to, their inclusion
+and involvement in all aspects of services design, planning, implementation,
+provision, education, evaluation, and research, (e) provide reports as
+requested by the division, and (f) engage in such other activities as directed
+or authorized by the division.
+(3) Beginning July 1, 2026, the State Advisory Committee on Mental Health
+and Substance Use Services shall also perform the duties of the State Advisory
+Committee on Substance Abuse Services.
+Sec. 21. Section 71-1908, Revised Statutes Supplement, 2025, is amended to
+read:
+71-1908 (1) Sections 71-1908 to 71-1923.03 and section 22 of this act
+shall be known and may be cited as the Child Care Licensing Act.
+(2) The Legislature finds that there is a present and growing need for
+quality child care programs and facilities. There is a need to establish and
+maintain licensure of persons providing such programs to ensure that such
+persons are competent and are using safe and adequate facilities. The
+Legislature further finds and declares that the development and supervision of
+programs are a matter of statewide concern and should be dealt with uniformly
+on the state and local levels. There is a need for cooperation among the
+various state and local agencies which impose standards on licensees, and there
+should be one agency which coordinates the enforcement of such standards and
+informs the Legislature about cooperation among the various agencies.
+Sec. 22. (1) The department shall establish a youth afterschool
+eligibility letter for individuals who are sixteen or seventeen years of age
+and who are seeking employment in school-age child care programs or temporary
+nonresidential child care programs. For purposes of this section, temporary
+nonresidential child care program means a program in which child care is
+-9-
+
+LB867 LB867
+2026 2026
+provided (a) for no more than twelve consecutive hours, (b) not on a continuous
+or regularly scheduled basis, and (c) in a location not ordinarily used as a
+licensed child care center.
+(2)(a) To obtain a youth afterschool eligibility letter, an applicant
+shall:
+(i) Complete all registry checks required for licensed child care staff,
+including the child abuse and neglect and sex offender registries, and any
+additional registry checks required by the department;
+(ii) Submit all background check documentation required by the department;
+and
+(iii) Complete a minimum seven-hour new staff orientation for school-age
+programs approved by the department.
+(b) If an applicant is seeking employment in a school-age child care
+program or a temporary nonresidential child care program, the applicant shall
+reimburse the state for the cost of the application.
+(3) An applicant who has submitted all required background check materials
+may engage in provisional employment while such checks are pending if: (a) The
+applicant is not left alone in a room with children; (b) the applicant is not
+included in staff-to-child ratio requirements; and (c) the applicant's
+provisional employment is limited to school-age child care programs and
+temporary nonresidential child care programs.
+(4)(a) Upon completion of the requirements in subsection (2) of this
+section, the department shall issue a youth afterschool eligibility letter. The
+eligibility letter may be used to obtain initial employment in a school-age
+child care program or a temporary nonresidential child care program for one
+hundred eighty days after the date of issuance of such letter.
+(b) If the eligibility letter holder begins employment in a school-age
+child care program or a temporary nonresidential child care program within one
+hundred eighty days after the date of issuance, the eligibility letter shall
+remain valid for purposes of such employment for one year after the date of
+issuance if the eligibility letter holder maintains continuous employment with
+such program.
+(c) A youth afterschool eligibility letter that is not used within one
+hundred eighty days after the date of issuance shall expire and shall not be
+used to obtain future employment.
+(d) A youth afterschool eligibility letter may be renewed through an
+expedited process established by the department.
+(5) A licensed child care program or youth-serving program approved by the
+department may accept a valid youth afterschool eligibility letter as
+verification that the eligibility letter holder has met the initial background
+check and training requirements under this section.
+(6) The department may adopt and promulgate rules and regulations to carry
+out this section, including, but not limited to, application procedures,
+background check verification, renewal procedures, fees, approval of training
+providers, and privacy and data-sharing protections.
+(7) This section does not apply if it would result in a loss of federal
+funding for a child care or an early childhood education program or any
+successor program, including funds received under the federal Child Care and
+Development Block Grant Act of 1990, or would otherwise violate federal
+requirements for such funds.
+Sec. 23. Section 71-2226, Reissue Revised Statutes of Nebraska, is amended
+to read:
+71-2226 The Department of Health and Human Services is authorized to have
+a state CSF program to protect the health and welfare of the citizens of
+Nebraska by providing nutritious foods donated for such program by the United
+States Department of Agriculture, nutrition education, and such other benefits
+as are available to women, infants, children, and elderly persons in Nebraska
+who are low income and vulnerable to malnutrition as long as federal funds are
+available from the CSF program and are granted to the department.
+To the extent consistent with state law, the Department of Health and
+Human Services may establish, operate, and maintain the program in a way that
+will qualify it to receive federal funds and that is uniform with United States
+Department of Agriculture's standards, enter into agreements with the federal
+government to establish a CSF program, adopt and promulgate rules and
+regulations to implement a CSF program which are consistent with federal
+regulations and such other rules and regulations as may be necessary to
+implement the CSF program, and enter into such other agreements as may be
+necessary to implement the program within this state.
+Sec. 24. Section 71-7450, Reissue Revised Statutes of Nebraska, is amended
+to read:
+71-7450 (1) Licensure activities under the Wholesale Drug Distributor
+Licensing Act shall be funded by license fees. An applicant for an initial or
+renewal license under the act shall pay a license fee as provided in this
+section.
+(2) License fees shall include (a) a base fee of fifty dollars and (b) an
+additional fee of not more than five hundred dollars based on variable costs to
+the department of inspections and of receiving and investigating complaints,
+other similar direct and indirect costs, and other relevant factors as
+determined by the department.
+(3) If the licensure application is denied, the license fee shall be
+returned to the applicant, except that the department may retain up to twenty-
+five dollars as an administrative fee and may retain the entire license fee if
+an inspection has been completed prior to such denial.
+-10-
+
+LB867 LB867
+2026 2026
+(4) The department shall also collect a fee for reinstatement of a license
+that has lapsed or has been suspended or revoked. The department shall collect
+a fee of ten dollars for a duplicate original license.
+(5) The department shall remit all license fees collected under this
+section to the State Treasurer for credit to the Health and Human Services Cash
+Fund. License fees collected under this section shall only be used for
+activities related to the licensure of wholesale drug distributors or for the
+payment of expenses related to the prescription drug monitoring system created
+under section 71-2454 , except for the transfer of funds provided for under
+subsection (6) of this section.
+(6) The State Treasurer shall transfer three million seven hundred
+thousand dollars from the Health and Human Services Cash Fund to the General
+Fund on or before June 30, 2018, on such dates and in such amounts as directed
+by the budget administrator of the budget division of the Department of
+Administrative Services. It is the intent of the Legislature that the transfer
+to the General Fund in this subsection be from funds credited to the Wholesale
+Drug Distributor Licensing subfund of the Health and Human Services Cash Fund.
+Sec. 25. Section 81-6,122, Reissue Revised Statutes of Nebraska, is
+amended to read:
+81-6,122 (1) The Department of Health and Human Services shall, in
+collaboration with the Department of Correctional Services, the Department of
+Economic Development, the Department of Labor, the Department of
+Transportation, the Department of Veterans' Affairs, the State Department of
+Education, the University of Nebraska, and the Equal Opportunity Commission,
+develop a comprehensive strategic plan for providing services to qualified
+persons with disabilities in the most integrated community-based settings
+pursuant to the Olmstead decision.
+(2) The chief executive officer of the Department of Health and Human
+Services shall convene a team to:
+(a) Develop the strategic plan described in subsection (1) of this
+section;
+(b) Appoint and convene a stakeholder advisory committee to assist in the
+review and development of the strategic plan, such committee members to include
+a representative from the State Advisory Committee on Mental Health and
+Substance Use Services, the Advisory Committee on Developmental Disabilities,
+the Nebraska Statewide Independent Living Council, the Nebraska Planning
+Council on Developmental Disabilities, the Division of Rehabilitation Services
+in the State Department of Education, the Public Service Commission, the
+Commission for the Deaf and Hard of Hearing, the Commission for the Blind and
+Visually Impaired, a housing authority in a city of the first or second class
+and a housing authority in a city of the primary or metropolitan class, the
+Assistive Technology Partnership, the protection and advocacy system for
+Nebraska, an assisted-living organization, the behavioral health regions,
+mental health practitioners, developmental disability service providers, an
+organization that advocates for persons with developmental disabilities, an
+organization that advocates for persons with mental illness, an organization
+that advocates for persons with brain injuries, and an area agency on aging,
+and including two persons with disabilities representing self-advocacy
+organizations, and, at the department’s discretion, other persons with
+expertise in programs serving persons with disabilities;
+(c) Arrange for consultation with an independent consultant to assist with
+the continued analysis and revision of the strategic plan and determine whether
+the benchmarks, deadlines, and timeframes are in substantial compliance with
+the strategic plan;
+(d) Provide continuing analysis of the strategic plan and a report on the
+progress of the strategic plan and changes or revisions to the Legislature by
+December 15, 2021, and every three years thereafter; and
+(e) Provide the completed strategic plan to the Legislature and the
+Governor by December 15, 2019.
+(3) The reports and completed plan shall be submitted electronically to
+the Legislature.
+Sec. 26. Section 81-1316, Revised Statutes Supplement, 2025, is amended to
+read:
+81-1316 (1) All agencies and personnel of state government shall be
+covered by sections 81-1301 to 81-1319 and shall be considered subject to the
+State Personnel System, except the following:
+(a) All personnel of the office of the Governor;
+(b) All personnel of the office of the Lieutenant Governor;
+(c) All personnel of the office of the Secretary of State;
+(d) All personnel of the office of the State Treasurer;
+(e) All personnel of the office of the Attorney General;
+(f) All personnel of the office of the Auditor of Public Accounts;
+(g) All personnel of the Legislature;
+(h) All personnel of the court systems;
+(i) All personnel of the Board of Educational Lands and Funds;
+(j) All personnel of the Public Service Commission;
+(k) All personnel of the Nebraska Brand Committee;
+(l) All personnel of the Commission of Industrial Relations;
+(m) All personnel of the State Department of Education;
+(n) All personnel of the Nebraska state colleges and the Board of Trustees
+of the Nebraska State Colleges;
+(o) All personnel of the University of Nebraska;
+(p) All personnel of the Coordinating Commission for Postsecondary
+-11-
+
+LB867 LB867
+2026 2026
+Education;
+(q) All personnel of the Governor's Policy Research Office;
+(r) All personnel of the Commission on Public Advocacy;
+(s) All agency heads;
+(t)(i) The Director of Behavioral Health of the Division of Behavioral
+Health; (ii) the Director of Children and Family Services of the Division of
+Children and Family Services; (iii) the Director of Disability and Aging
+Developmental Disabilities of the Division of Disability and Aging
+Developmental Disabilities; (iv) the Director of Medicaid and Long-Term Care of
+the Division of Medicaid and Long-Term Care; and (v) the Director of Public
+Health of the Division of Public Health;
+(u) The chief medical officer established under section 81-3115, the
+Administrator of the Office of Juvenile Services, and the chief executive
+officers of the Beatrice State Developmental Center, Lincoln Regional Center,
+Norfolk Regional Center, Hastings Regional Center, Central Nebraska Veterans'
+Home, Norfolk Veterans' Home, Eastern Nebraska Veterans' Home, Western Nebraska
+Veterans' Home, and each youth rehabilitation and treatment center;
+(v) The chief executive officers of all facilities operated by the
+Department of Correctional Services and the medical director for the department
+appointed pursuant to section 83-4,156;
+(w) All personnel employed as pharmacists, physicians, psychiatrists, or
+psychologists by the Department of Correctional Services;
+(x) All personnel employed as pharmacists, physicians, psychiatrists,
+psychologists, service area administrators, or facility operating officers of
+the Department of Health and Human Services or the Department of Veterans'
+Affairs;
+(y) Deputies and examiners of the Department of Banking and Finance and
+the Department of Insurance as set forth in sections 8-105 and 44-119, except
+for those deputies and examiners who remain in the State Personnel System;
+(z) All personnel of the Tax Equalization and Review Commission;
+(aa) The associate director of the Conservation Division of the Nebraska
+State Historical Society and all personnel employed as a Conservator I or
+Conservator II of the Conservation Division of the Nebraska State Historical
+Society;
+(bb) Assistant directors and deputies of the Nebraska Public Employees
+Retirement Systems; and
+(cc) The Chief Water Officer, assistant directors, and deputies of the
+Department of Water, Energy, and Environment.
+(2) At each agency head's discretion, up to the following number of
+additional positions may be exempted from the State Personnel System, based on
+the following agency size categories:
+Number of Agency Number of Noncovered
+Employees Positions
+less than 25 0
+25 to 100 1
+101 to 250 2
+251 to 500 3
+501 to 1000 4
+1001 to 2000 5
+2001 to 3000 8
+3001 to 4000 11
+4001 to 5000 40
+over 5000 50
+The purpose of having such noncovered positions shall be to allow agency
+heads the opportunity to recruit, hire, and supervise critical, confidential,
+or policymaking personnel without restrictions from selection procedures,
+compensation rules, career protections, and grievance privileges. Persons
+holding the noncovered positions shall serve at the pleasure of the agency head
+and shall be paid salaries set by the agency head. An agency with over five
+thousand employees shall provide notice in writing to the Health and Human
+Services Committee of the Legislature when forty noncovered positions have been
+filled by the agency head pursuant to this subsection.
+(3) No changes to this section or to the number of noncovered positions
+within an agency shall affect the status of personnel employed on the date the
+changes become operative without their prior written agreement. A state
+employee's career protections or coverage by personnel rules and regulations
+shall not be revoked by redesignation of the employee's position as a
+noncovered position without the prior written agreement of such employee.
+Sec. 27. Section 81-2205, Reissue Revised Statutes of Nebraska, is amended
+to read:
+-12-
+
+LB867 LB867
+2026 2026
+81-2205 Council Committee shall mean the Aging, Alzheimer's, and Dementia
+Advisory Council Division of Medicaid and Long-Term Care Advisory Committee on
+Aging.
+Sec. 28. Section 81-2212, Reissue Revised Statutes of Nebraska, is amended
+to read:
+81-2212 The council In addition to duties enumerated in section 68-1104,
+the committee shall advise the department regarding:
+(1) The state plan on aging as developed and prepared by the department;
+(2) Policies adopted by the department;
+(3) The needs of the state's older individuals;
+(4) The development of the state plan and policies which affect the
+state's older individuals;
+(5) Such rules, regulations, and standards as may be adopted by the
+department; and
+(6) A community aging services budget for submission to the Legislature by
+the department.
+The council committee shall also act as a panel for the hearing and
+resolution of any appeal requested by an area agency on aging should the
+department disapprove the area plan and budget or amendments as submitted.
+Sec. 29. Section 81-2226, Reissue Revised Statutes of Nebraska, is amended
+to read:
+81-2226 In the event of a documented malfeasance on the part of any area
+agency on aging in the administration of its area plan, and the failure of the
+governing unit of the area agency to take corrective action within a reasonable
+time, the department shall, with the advice of the council committee, terminate
+funding to the area agency governing unit by disapproving the area plan for
+that area agency on aging.
+Sec. 30. Section 81-2234, Reissue Revised Statutes of Nebraska, is amended
+to read:
+81-2234 (1) Care management clients may contribute to the costs of
+receiving care management services, as provided under section 81-2230. A client
+family income schedule, using the federal poverty guidelines, shall be used to
+determine a care management client's voluntary contribution. Individuals who
+have family income below three hundred percent of a poverty level determined by
+the Department of Health and Human Services based on any federal poverty index
+or similar guidelines may contribute shall pay from zero to ninety percent of
+the cost fee for the services provided by a care management unit. The client
+family income schedule fee scale shall be adopted and promulgated as rules and
+regulations by the department and shall reflect the income range of
+individuals.
+(2) A care management unit may receive reimbursement from state and
+federal government programs which allow for reimbursement for care management
+or case management services.
+(3) Individuals not covered by subsection (1) or (2) of this section shall
+pay the full fee for services provided by a care management unit.
+Sec. 31. Section 81-2235, Reissue Revised Statutes of Nebraska, is amended
+to read:
+81-2235 (1) Each care management unit may be reimbursed by the Department
+of Health and Human Services for costs not paid for by the individual or
+through other reimbursement specified in section 81-2234. Reimbursement by the
+department shall be based on actual casework time units expended on all care
+management services provided and shall include expenses for personnel,
+administration and planning, client eligibility review, contractual services,
+and necessary support services and other necessary actual and indirect costs.
+Standardized rates of reimbursement shall be adopted and promulgated by the
+department and shall be adjusted at least every three years.
+(2) Appropriations for reimbursement by the department for services
+provided under sections 81-2229 to 81-2235 and for the costs of the department
+to administer the program shall be appropriated separately from funds
+appropriated under the Nebraska Community Aging Services Act.
+Sec. 32. Section 81-3113, Reissue Revised Statutes of Nebraska, is amended
+to read:
+81-3113 The Department of Health and Human Services is created. The
+department shall have five divisions to be known as (1) the Division of
+Behavioral Health, (2) the Division of Children and Family Services, (3) the
+Division of Disability and Aging Developmental Disabilities, (4) the Division
+of Medicaid and Long-Term Care, and (5) the Division of Public Health.
+Sec. 33. Section 81-3116, Reissue Revised Statutes of Nebraska, is amended
+to read:
+81-3116 The responsibilities of the divisions created in section 81-3113
+include, but are not limited to, the following:
+(1) The Division of Behavioral Health shall administer (a) the state
+hospitals for the mentally ill designated in section 83-305 and (b) publicly
+funded community-based behavioral health services;
+(2) The Division of Children and Family Services shall administer (a)
+protection and safety programs and services, including child welfare programs
+and services and the Office of Juvenile Services, (b) economic and family
+support programs and services, and (c) service areas as may be designated by
+the chief executive officer or by the Director of Children and Family Services
+under authority of the chief executive officer , except that on and after
+September 1, 2012, the western, central, and northern service areas shall be
+aligned to be coterminous with the district court judicial districts described
+in section 24-301.02;
+-13-
+
+LB867 LB867
+2026 2026
+(3) The Division of Disability and Aging Developmental Disabilities shall
+administer (a) the Beatrice State Developmental Center, (b) aging services, and
+(c) (b) publicly funded community-based developmental disabilities services;
+(4) The Division of Medicaid and Long-Term Care shall administer (a) the
+medical assistance program also known as medicaid , (b) aging services, and (b)
+(c) other related programs and services; and
+(5) The Division of Public Health shall administer (a) preventive and
+community health programs and services, (b) the regulation and licensure of
+health-related professions and occupations, and (c) the regulation and
+licensure of health care facilities and health care services.
+Sec. 34. Section 83-1201, Reissue Revised Statutes of Nebraska, is amended
+to read:
+83-1201 Sections 83-1201 to 83-1226 83-1228 shall be known and may be
+cited as the Developmental Disabilities Services Act.
+Sec. 35. Section 83-1204, Reissue Revised Statutes of Nebraska, is amended
+to read:
+83-1204 Department shall mean the Division of Disability and Aging
+Developmental Disabilities of the Department of Health and Human Services.
+Sec. 36. Section 83-1206, Reissue Revised Statutes of Nebraska, is amended
+to read:
+83-1206 Director shall mean the Director of Disability and Aging
+Developmental Disabilities of the Division of Disability and Aging
+Developmental Disabilities.
+Sec. 37. The State Department of Education may authorize any accredited
+or approved public, private, denominational, or parochial school to maintain
+epinephrine in any form approved by the federal Food and Drug Administration
+for the purpose of emergency first aid to students who experience allergic
+reactions.
+Sec. 38. Sections 1, 2, 3, 4, 5, 6, 7, 8, 10, 11, 12, 13, 14, 15, 16, 17,
+18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37,
+39, and 41 of this act become operative three calendar months after the
+adjournment of this legislative session. The other sections of this act become
+operative on their effective date.
+Sec. 39. Original sections 43-2624, 68-927, 68-928, 68-1006, 68-1007,
+71-2226, 71-7450, 81-6,122, 81-2205, 81-2212, 81-2226, 81-2234, 81-2235,
+81-3113, 81-3116, 83-1201, 83-1204, and 83-1206, Reissue Revised Statutes of
+Nebraska, sections 30-38,113, 43-4413, 43-4504, 71-561, 71-563, 71-564, 71-565,
+71-566, and 71-567, Revised Statutes Cumulative Supplement, 2024, and sections
+38-131, 43-3342.04, 68-1530, 71-814, 71-1908, and 81-1316, Revised Statutes
+Supplement, 2025, are repealed.
+Sec. 40. Original section 68-949, Revised Statutes Supplement, 2024, is
+repealed.
+Sec. 41. The following sections are outright repealed: Sections 68-1008,
+68-1101, 68-1103, 68-1104, 68-1106, 71-1795, 71-1795.02, 71-2201, 71-2202,
+71-2203, 71-2204, 71-2205, 71-2207, 71-2208, 81-3133.02, 81-3134, 83-1216.02,
+83-1227, and 83-1228, Reissue Revised Statutes of Nebraska, and section
+68-1105, Revised Statutes Cumulative Supplement, 2024.
+Sec. 42. Since an emergency exists, this act takes effect when passed and
+approved according to law.
+-14-

@@ -1,0 +1,2038 @@
+Title: 
+Official Title: 
+Source: versions - Final Reading
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LB838 LB838
+2026 2026
+LEGISLATURE OF NEBRASKA
+ONE HUNDRED NINTH LEGISLATURE
+SECOND SESSION
+LEGISLATIVE BILL 838
+FINAL READING
+Introduced by Jacobson, 42; von Gillern, 4; Hallstrom, 1.
+Read first time January 08, 2026
+Committee: Banking, Commerce and Insurance
+1 A BILL FOR AN ACT relating to law; to amend sections 8-2901, 25-2701,
+2 30-2301, 30-2302, 30-2322, 30-2323, 30-2325, 30-3803, 30-38,103,
+3 77-3503, 87-704, 87-706, and 87-709, Reissue Revised Statutes of
+4 Nebraska, sections 30-3801 and 77-2004, Revised Statutes Cumulative
+5 Supplement, 2024, and sections 8-2701, 8-2702, 8-2711, 8-2742,
+6 8-2903, 87-302, 87-1301, 87-1302, 87-1304, 87-1305, 87-1306, and
+7 87-1308, Revised Statutes Supplement, 2025; to change provisions
+8 relating to the Nebraska Money Transmitters Act, financial
+9 exploitation of a vulnerable adult or senior adult, rules and codes
+10 of civil and criminal procedure, decedents' estates, the Nebraska
+11 Uniform Trust Code, certifications of trust, inheritance taxes,
+12 deceptive trade practices, the Equipment Business Regulation Act,
+13 and the Age-Appropriate Online Design Code Act; to impose an excise
+14 tax on certain remittance transfers; to provide for rounding of
+15 certain cash transaction amounts; to provide operative dates; to
+16 provide severability; to repeal the original sections; and to
+17 declare an emergency.
+18 Be it enacted by the people of the State of Nebraska,
+-1-
+
+LB838 LB838
+2026 2026
+1 Section 1. Section 8-2701, Revised Statutes Supplement, 2025, is
+2 amended to read:
+3 8-2701 Sections 8-2701 to 8-2742 and sections 5 to 10 of this act
+4 shall be known and may be cited as the Nebraska Money Transmitters Act.
+5 Sec. 2. Section 8-2702, Revised Statutes Supplement, 2025, is
+6 amended to read:
+7 8-2702 For purposes of the Nebraska Money Transmitters Act:
+8 (1) Acting in concert means persons knowingly acting together with a
+9 common goal of jointly acquiring control of a licensee whether or not
+10 pursuant to an express agreement;
+11 (2) Applicant means a person filing an application for a license
+12 under the Nebraska Money Transmitters Act;
+13 (3) Authorized delegate means a person designated by the licensee to
+14 engage in money transmission on behalf of the licensee;
+15 (4) Average daily money transmission liability means the amount of
+16 the licensee's outstanding money transmission obligations in this state
+17 at the end of each day in a given period of time, added together, and
+18 divided by the total number of days in the given period of time. For
+19 purposes of calculating average daily money transmission liability under
+20 the Nebraska Money Transmitters Act for any licensee required to do so,
+21 the given period of time shall be each calendar quarter;
+22 (5) Closed loop stored value means stored value that is redeemable
+23 by the issuer of such stored value only for goods or services provided by
+24 the issuer or affiliates of such issuer or franchisees of the issuer or
+25 affiliates of such franchisees, except to the extent the stored value is
+26 required by applicable law to be redeemable in cash for the cash value of
+27 the stored value;
+28 (6)(a) Control means:
+29 (i) Direct or indirect power over the vote of at least twenty-five
+30 percent of the outstanding voting shares or voting interests of a
+31 licensee or person in control of a licensee;
+-2-
+
+LB838 LB838
+2026 2026
+1 (ii) The power to elect or appoint a majority of key individuals,
+2 executive officers, managers, directors, trustees, or other persons that
+3 have managerial authority of a person in control of a licensee; or
+4 (iii) The power to exercise, directly or indirectly, a controlling
+5 influence over the management or policies of a licensee or person in
+6 control of a licensee.
+7 (b) For purposes of determining the percentage of a person
+8 controlled by any other person, the person's interest shall be aggregated
+9 with the interest of any other immediate family member, including the
+10 person's spouse, parents, children, siblings, mothers-in-law, fathers-in-
+11 law, sons-in-law, daughters-in-law, brothers-in-law, and sisters-in-law,
+12 and any other person who shares such person's residence;
+13 (7) Department means the Department of Banking and Finance;
+14 (8) Director means the Director of Banking and Finance;
+15 (9) Eligible rating means a credit rating of any of the three
+16 highest rating categories provided by an eligible rating service, whereby
+17 each category may include rating category modifiers such as plus or minus
+18 for Standard and Poor's Corporation or the equivalent for any other
+19 eligible rating service. Long-term credit ratings are deemed eligible if
+20 the rating is equal to A- or higher by Standard and Poor's Corporation,
+21 or the equivalent from any other eligible rating service. Short-term
+22 credit ratings are deemed eligible if the rating is equal to or higher
+23 than A-2 or SP-2 by Standard and Poor's Corporation or the equivalent
+24 from any other eligible rating service. In the event that ratings differ
+25 among eligible rating services, the highest rating shall apply when
+26 determining whether a security bears an eligible rating.
+27 (10) Eligible rating service means any nationally recognized
+28 statistical rating organization approved by the Securities and Exchange
+29 Commission and any other organization designated by the director by rule
+30 or order;
+31 (11) Federally insured depository financial institution means a
+-3-
+
+LB838 LB838
+2026 2026
+1 bank, credit union, savings and loan association, trust company, savings
+2 association, savings bank, industrial bank, or industrial loan company
+3 organized under the laws of the United States or any state of the United
+4 States, when such bank, credit union, savings and loan association, trust
+5 company, savings association, savings bank, industrial bank, or
+6 industrial loan company has federally insured deposits;
+7 (12) Foreign adversary person means:
+8 (a) A foreign person that is domiciled in, is headquartered in, has
+9 its principal place of business in, or is organized under the laws of any
+10 country listed in 15 C.F.R. 791.4;
+11 (b) An entity with respect to which a foreign person or combination
+12 of foreign persons described in subdivision (12)(a) of this section
+13 directly or indirectly own at least a twenty-five percent share; or
+14 (c) A person subject to the direction or control of a foreign person
+15 or entity described in subdivision (12)(a) or (b) of this section;
+16 (13) (12) In this state means at a physical location within this
+17 state for a transaction requested in person. For a transaction requested
+18 electronically or by telephone, the provider of money transmission may
+19 determine if the person requesting the transaction is in this state by
+20 relying on other information provided by such person regarding the
+21 location of the individual's residential address or the entity's
+22 principal place of business or other physical address location and any
+23 records associated with such person that the provider of money
+24 transmission may have that indicate the location of the individual's
+25 residential address or the entity's principal place of business or other
+26 physical address location, including, but not limited to, an address
+27 associated with an account;
+28 (14) (13) Individual means a natural person;
+29 (15)(a) Informal value transfer system services means services
+30 provided by any system, mechanism, or network of persons or entities
+31 that:
+-4-
+
+LB838 LB838
+2026 2026
+1 (i) Receives money for the purpose of making the funds or an
+2 equivalent value payable to a third party in another geographic location,
+3 whether or not in the same form; or
+4 (ii) Facilitates the transfer of money domestically or
+5 internationally outside the conventional money-transmission system.
+6 (b) Informal value transfer system services includes hawala systems
+7 or agencies or similar systems or agencies for transferring money by
+8 payment to an agent who instructs a remote associate to pay a final
+9 recipient.
+10 (c) Informal value transfer system services does not include armored
+11 car services or issuance of gift cards;
+12 (16) (14) Key individual means any individual ultimately responsible
+13 for establishing or directing policies and procedures of the licensee,
+14 such as an executive officer, manager, director, or trustee;
+15 (17) (15) Licensee means a person licensed under the Nebraska Money
+16 Transmitters Act;
+17 (18) (16) Material litigation means litigation, that according to
+18 United States generally accepted accounting principles, is significant to
+19 a person's financial health and would be required to be disclosed in the
+20 person's annual audited financial statements, report to shareholders, or
+21 similar records;
+22 (19) (17) Model Money Transmission Modernization Act means the Model
+23 Money Transmission Modernization Act approved for state adoption by the
+24 Conference of State Bank Supervisors Board of Directors that sets
+25 nationwide standards, including net worth, surety bond, and permissible
+26 investments requirements, to modernize the supervision and regulation of
+27 money transmitters;
+28 (20) (18) Monetary value means a medium of exchange, whether or not
+29 redeemable in money;
+30 (21) (19) Money means a medium of exchange that is authorized or
+31 adopted by the United States or a foreign government. Money includes a
+-5-
+
+LB838 LB838
+2026 2026
+1 monetary unit of account established by an intergovernmental organization
+2 or by agreement between two or more governments;
+3 (22)(a) (20)(a) Money transmission means any of the following:
+4 (i) Selling or issuing payment instruments to a person located in
+5 this state;
+6 (ii) Selling or issuing stored value to a person located in this
+7 state; and
+8 (iii) Receiving money for transmission from a person located in this
+9 state.
+10 (b) Money transmission includes payroll processing services and
+11 informal value transfer system services. Money transmission does not
+12 include the provision solely of online or telecommunications services or
+13 network access;
+14 (23) (21) Multistate licensing process means any agreement entered
+15 into by and among state regulators relating to coordinated processing of
+16 applications for money transmission licenses, applications for the
+17 acquisition of control of a licensee, control determinations, or notice
+18 and information requirements for a change of key individuals;
+19 (24) (22) Nationwide Mortgage Licensing System and Registry means
+20 the Nationwide Mortgage Licensing System and Registry, also known as the
+21 Nationwide Multistate Licensing System and Registry, developed by the
+22 Conference of State Bank Supervisors and the American Association of
+23 Residential Mortgage Regulators and owned and operated by the State
+24 Regulatory Registry LLC, or any successor or affiliated entity, for the
+25 licensing and registration of persons in financial services industries;
+26 (25)(a) (23)(a) Outstanding money transmission obligation means:
+27 (i) Any payment instrument or stored value issued or sold by the
+28 licensee to a person located in the United States or reported as sold by
+29 an authorized delegate of the licensee to a person that is located in the
+30 United States that has not yet been paid or refunded by or for the
+31 licensee or has been escheated in accordance with applicable abandoned
+-6-
+
+LB838 LB838
+2026 2026
+1 property laws; or
+2 (ii) Any money received for transmission by the licensee or an
+3 authorized delegate in the United States from a person located in the
+4 United States that has not been received by the payee or refunded to the
+5 sender or has been escheated in accordance with applicable abandoned
+6 property laws.
+7 (b) For purposes of subdivision (25) (23) of this section, in the
+8 United States includes, to the extent applicable, a person in any state,
+9 territory, or possession of the United States; the District of Columbia;
+10 the Commonwealth of Puerto Rico; or a United States military installation
+11 that is located in a foreign country;
+12 (26) (24) Payment instrument means a written or electronic check,
+13 draft, money order, traveler's check, or other written or electronic
+14 instrument for the transmission or payment of money or monetary value,
+15 whether or not negotiable. Payment instrument does not include stored
+16 value or any instrument that:
+17 (a) Is redeemable by the issuer only for goods or services provided
+18 by the issuer or affiliates of such issuer or franchisees of the issuer
+19 or affiliates of such franchisees except to the extent the instrument is
+20 required by applicable law to be redeemable in cash for the cash value of
+21 the instrument; or
+22 (b) Is not sold publicly but issued and distributed as part of a
+23 loyalty, rewards, or promotional program;
+24 (27) (25) Payroll processing services means receiving money for
+25 transmission pursuant to a contract with a person to deliver wages or
+26 salaries, make payment of payroll taxes to state and federal agencies,
+27 make payments relating to employee benefit plans, or make distributions
+28 of other authorized deductions from wages or salaries. Payroll processing
+29 services does not include an employer performing payroll processing
+30 services on the employer's own behalf or on behalf of an affiliate of the
+31 employer;
+-7-
+
+LB838 LB838
+2026 2026
+1 (28) (26) Person means any individual, general partnership, limited
+2 partnership, limited liability company, corporation, trust, association,
+3 joint stock corporation, or other corporate entity identified by the
+4 director;
+5 (29) (27) Receipt means a paper receipt, electronic record, or other
+6 written confirmation;
+7 (30) (28) Receiving money for transmission or money received for
+8 transmission means receiving money or monetary value in the United States
+9 for transmission within or outside the United States by electronic or
+10 other means;
+11 (31) (29) Remit means to make direct payments of money to a licensee
+12 or a representative of a licensee authorized to receive money or to
+13 deposit money in a bank in an account specified by the licensee; and
+14 (32) (30) Stored value means monetary value representing a claim
+15 against the issuer of the stored value evidenced by an electronic or
+16 digital record, and that is intended and accepted for use as a means of
+17 redemption for money or monetary value, or payment for goods or services.
+18 Stored value includes, but is not limited to, prepaid access as defined
+19 by 31 C.F.R. 1010.100. Notwithstanding the foregoing, stored value does
+20 not include a payment instrument or closed loop stored value, or stored
+21 value not sold publicly but issued and distributed as part of a loyalty,
+22 rewards, or promotional program.
+23 Sec. 3. Section 8-2711, Revised Statutes Supplement, 2025, is
+24 amended to read:
+25 8-2711 (1) Applicants for a license shall apply in a form and in a
+26 medium as prescribed by the director. Each such form shall contain
+27 content as set forth by rule, regulation, instruction, or procedure of
+28 the director and may be changed or updated by the director in accordance
+29 with applicable law in order to carry out the purposes of the Nebraska
+30 Money Transmitters Act and maintain consistency with Nationwide Mortgage
+31 Licensing System and Registry licensing standards and practices. The
+-8-
+
+LB838 LB838
+2026 2026
+1 application shall state or contain, as applicable:
+2 (a) The legal name and residential and business addresses of the
+3 applicant and any fictitious or trade name used by the applicant in
+4 conducting the applicant's business;
+5 (b) A list of any criminal conviction of the applicant and any
+6 material litigation in which the applicant has been involved in the ten-
+7 year period next preceding the submission of the application;
+8 (c) A description of any money transmission previously provided by
+9 the applicant and the money transmission that the applicant seeks to
+10 provide in this state;
+11 (d) A list of the applicant's proposed authorized delegates and the
+12 locations in this state where the applicant and its authorized delegates
+13 propose to engage in money transmission;
+14 (e) A list of other states in which the applicant is licensed to
+15 engage in money transmission and any license revocation, suspension, or
+16 other disciplinary action taken against the applicant in another state;
+17 (f) Information concerning any bankruptcy or receivership proceeding
+18 affecting the applicant or a person in control of an applicant;
+19 (g) A sample form of contract for authorized delegates, if
+20 applicable;
+21 (h) A sample form of payment instrument or stored value, as
+22 applicable;
+23 (i) The name and address of any federally insured depository
+24 financial institution through which the applicant plans to conduct money
+25 transmission; and
+26 (j) A certification that the applicant is not a foreign adversary
+27 person, along with sufficient information to enable the director to
+28 verify the veracity of the certification;
+29 (k) A certification that each key individual and person in control
+30 of the applicant is not a foreign adversary person, along with sufficient
+31 information to enable the director to verify the veracity of the
+-9-
+
+LB838 LB838
+2026 2026
+1 certification; and
+2 (l) (j) Any other information the Director or the Nationwide
+3 Mortgage Licensing System and Registry reasonably requires with respect
+4 to the applicant.
+5 (2) If an applicant is a corporation, limited liability company,
+6 partnership, or other legal entity, the applicant shall also provide:
+7 (a) The date of the applicant's incorporation or formation and state
+8 or country of incorporation or formation;
+9 (b) If applicable, a certificate of good standing from the state or
+10 country in which the applicant was incorporated or formed;
+11 (c) A brief description of the structure or organization of the
+12 applicant, including any parents or subsidiaries of the applicant, and
+13 whether any such parents or subsidiaries are publicly traded;
+14 (d) The legal name, any fictitious or trade name, all business and
+15 residential addresses, and the employment, as applicable, of each key
+16 individual and person in control of the applicant in the ten-year period
+17 preceding the submission of the application;
+18 (e) A list of any criminal convictions and material litigation for a
+19 person in control of the applicant that is not an individual that has
+20 been involved with the applicant in the ten-year period preceding the
+21 submission of the application;
+22 (f) A copy of audited financial statements of the applicant for the
+23 most recent fiscal year and for the two-year period preceding the
+24 submission of the application or, if determined to be acceptable to the
+25 director, certified unaudited financial statements for the most recent
+26 fiscal year or any other period acceptable to the director;
+27 (g) A certified copy of unaudited financial statements of the
+28 applicant for the most recent fiscal quarter;
+29 (h) If the applicant is a publicly traded corporation, a copy of the
+30 most recent report filed with the Securities and Exchange Commission
+31 pursuant to the Securities Exchange Act of 1934;
+-10-
+
+LB838 LB838
+2026 2026
+1 (i) If the applicant is a wholly owned subsidiary of:
+2 (i) A corporation publicly traded in the United States, a copy of
+3 audited financial statements for the parent corporation for the most
+4 recent fiscal year or a copy of the parent corporation's most recent
+5 report filed pursuant to the Securities Exchange Act of 1934; or
+6 (ii) A corporation publicly traded outside the United States, a copy
+7 of similar documentation filed with the regulator of the parent
+8 corporation's domicile outside the United States;
+9 (j) The name and address of the applicant's registered agent in this
+10 state; and
+11 (k) Any other information the director reasonably requires with
+12 respect to the applicant.
+13 (3) A nonrefundable application fee of one thousand five hundred
+14 dollars must accompany an application for a license under this section.
+15 (4) Other than the nonrefundable application fee, the director may
+16 waive one or more requirements of this section or permit an applicant to
+17 submit other information in lieu of the required information.
+18 Sec. 4. Section 8-2742, Revised Statutes Supplement, 2025, is
+19 amended to read:
+20 8-2742 For purposes of the Nebraska Money Transmitters Act:
+21 (1) 15 C.F.R. 791.4 means 15 C.F.R. 791.4, as such regulation
+22 existed on January 1, 2026;
+23 (2) (1) 31 C.F.R. 1010.100 means 31 C.F.R. 1010.100, as such
+24 regulation existed on January 1, 2025;
+25 (3) (2) Bank Secrecy Act means the Bank Secrecy Act, 31 U.S.C. 5311
+26 et seq., and the implementing regulations of such act, as such act and
+27 regulations existed on January 1, 2025;
+28 (4) (3) Bank Service Company Act means the Bank Service Company Act,
+29 12 U.S.C. 1861 et seq., as such act existed on January 1, 2025;
+30 (5) (4) Commodity Exchange Act means the Commodity Exchange Act, 7
+31 U.S.C. 1 et seq., as such act existed on January 1, 2025;
+-11-
+
+LB838 LB838
+2026 2026
+1 (6) (5) Edge Act means the Edge Act, 12 U.S.C. 611 et seq., as such
+2 act existed on January 1, 2025;
+3 (7) (6) Federal Credit Union Act means the Federal Credit Union Act,
+4 12 U.S.C. 1751 et seq., as such act existed on January 1, 2025;
+5 (8) (7) Federal Deposit Insurance Act means the Federal Deposit
+6 Insurance Act, 12 U.S.C. 1811 et seq., as such act existed on January 1,
+7 2025;
+8 (9) (8) Federal remittance rule means 12 C.F.R. part 1005, subpart
+9 B, as such regulation existed on January 1, 2025;
+10 (10) (9) Foreign Account Tax Compliance Act means the Foreign
+11 Account Tax Compliance Act, 26 U.S.C. 1471 et seq., as such act existed
+12 on January 1, 2025;
+13 (11) (10) International Banking Act of 1978 means the International
+14 Banking Act of 1978, 12 U.S.C. 3101 et seq., as such act existed on
+15 January 1, 2025;
+16 (12) (11) Securities Exchange Act of 1934 means the Securities
+17 Exchange Act of 1934, 15 U.S.C. 78a et seq., as such act existed on
+18 January 1, 2025;
+19 (13) (12) United States Bankruptcy Code means 11 U.S.C. 101 et seq.,
+20 as such sections existed on January 1, 2025; and
+21 (14) (13) Uniting and Strengthening America by Providing Appropriate
+22 Tools Required to Intercept and Obstruct Terrorism Act of 2001 means the
+23 Uniting and Strengthening America by Providing Appropriate Tools Required
+24 to Intercept and Obstruct Terrorism Act of 2001, Public Law 107-56, as
+25 such act existed on January 1, 2025.
+26 Sec. 5. The Legislature finds and declares that:
+27 (1) The United States has determined that the governments of China,
+28 Cuba, Iran, North Korea, Russia, and the Maduro Regime in Venezuela are
+29 foreign adversaries of the United States because they have engaged in
+30 long-term patterns or serious instances of conduct significantly adverse
+31 to United States national security or the security and safety of United
+-12-
+
+LB838 LB838
+2026 2026
+1 States persons;
+2 (2) China's effort to advance its technological capabilities poses
+3 significant threats to the United States and its citizens;
+4 (3) China is currently operating a Military-Civil Fusion strategy
+5 with the goal of developing the most technologically advanced military in
+6 the world. A key part of this strategy is removing barriers between
+7 China's civilian sectors and its military and defense industrial sectors;
+8 (4) China is also seeking to grow its technological dominance in
+9 international markets;
+10 (5) To advance its missions, China has increased its efforts to
+11 collect foreign data;
+12 (6) Under Article 7 of China's National Intelligence Law of 2017,
+13 which states in part that any organization or citizen shall support,
+14 assist, and cooperate with the state intelligence work, China may compel
+15 its citizens and companies to assist with surveillance efforts or
+16 surrender data to Chinese intelligence agencies, including data belonging
+17 to the United States or its citizens;
+18 (7) China's collection of data is a threat to national security and
+19 the United States Department of Homeland Security and the National
+20 Counterintelligence and Security Center have both issued publications
+21 warning United States citizens and businesses of the potential threats
+22 stemming from China's intelligence laws;
+23 (8) In November 2025, the White House produced a security memo
+24 asserting that a Chinese technology company shares its customers' data,
+25 including customers' payment records, with the Chinese government and
+26 concurrently the Pentagon sent a letter to Congress indicating intent to
+27 list that Chinese technology company as a Chinese military company;
+28 (9) The threat of data collection by foreign adversaries is not only
+29 a national security threat but also a threat to consumers who provide
+30 data and other information to foreign adversary-based companies;
+31 (10) Pursuant to this state's supervisory authority over financial
+-13-
+
+LB838 LB838
+2026 2026
+1 transactions, the state has put in place a regulatory scheme for
+2 licensing money transmitters;
+3 (11) Money transmitters provide consumers with nonbank access to
+4 sending and receiving funds, often internationally, and require access to
+5 sensitive customer data;
+6 (12) As a part of the licensing scheme, the state looks at the
+7 character and general fitness of applicants to ensure that it is in the
+8 interest of the public to permit the applicant to engage in money
+9 transmission in the state; and
+10 (13) Due to the risks posed by foreign adversaries to this state and
+11 its citizens, the state finds that it should not grant money transmitter
+12 licenses to companies with connections to foreign adversaries.
+13 Sec. 6. (1)(a) For purposes of section 8-2713, if an applicant or
+14 any key individual or person in control of the applicant fails to
+15 establish that such applicant, key individual, or person in control is
+16 not a foreign adversary person, the director shall presume that the
+17 character and general fitness of such applicant, key individual, or
+18 person in control indicates that it is not in the interest of the public
+19 to permit the applicant to engage in money transmission.
+20 (b) For purposes of section 8-2716, if a person, or group of persons
+21 acting in concert, seeking to acquire control of a licensee or if any key
+22 individual or person that would be in control of a licensee after
+23 acquisition of control fails to establish that such person, group, or key
+24 individual is not a foreign adversary person, the director shall presume
+25 that the character and general fitness of such person, group, or key
+26 individual indicates that it is not in the interest of the public to
+27 permit the person, group of persons acting in concert, or key individual
+28 to control the licensee.
+29 (c) For purposes of section 8-2734, if a licensee or authorized
+30 delegate or any key individual or persons in control of a licensee or
+31 responsible person in control of the authorized delegate fails to
+-14-
+
+LB838 LB838
+2026 2026
+1 establish that such licensee, delegate, key individual, or person in
+2 control is not a foreign adversary person, the director shall presume
+3 that the character and general fitness of such licensee, delegate, key
+4 individual, or person in control indicates that it is not in the interest
+5 of the public to permit the licensee, delegate, key individual, or person
+6 in control to provide money transmission.
+7 (d) For purposes of section 8-2735, if an authorized delegate or a
+8 person in control of the authorized delegate fails to establish that such
+9 delegate or person in control is not a foreign adversary person, the
+10 director shall presume that the character and general fitness of such
+11 delegate or person in control indicates that it is not in the interest of
+12 the public to permit the authorized delegate to provide money
+13 transmission.
+14 (2) The presumptions described in subsection (1) of this section
+15 shall only be rebutted by clear and convincing evidence that:
+16 (a) The relevant foreign government or foreign nongovernment person
+17 listed in 15 C.F.R. 791.4 has expressly exempted the relevant applicant,
+18 licensee, authorized delegate, key individual, or person from all legal
+19 obligations to share any information from an individual in this state
+20 with any foreign adversary person;
+21 (b) The exemption described in subdivision (2)(a) of this section
+22 will be judicially enforceable within this state against the foreign
+23 government and nongovernment person by any individual in this state who
+24 uses the money transmitter services of the exempted individual or person;
+25 (c) The exempted individual or person has established a relationship
+26 with an auditor organized within, and with its primary place of business
+27 within, the United States that will verify, through an external
+28 compliance audit or similar process conducted at least quarterly and in
+29 compliance with all applicable auditing standards, whether any
+30 information is shared by the exempted individual or person with a foreign
+31 adversary person during the duration of the license or at any point
+-15-
+
+LB838 LB838
+2026 2026
+1 within three years after the expiration of the license; and
+2 (d) The exempted individual or person has adopted a policy that it
+3 will promptly notify all affected individuals and the Attorney General if
+4 it or its auditor concludes that information has been shared with a
+5 foreign adversary person during the duration of the license or at any
+6 point within three years after the expiration of the license.
+7 Sec. 7. (1) On the operative date of this section, the changes made
+8 by this legislative bill shall apply to all existing and future licenses
+9 and applications for license under the Nebraska Money Transmitters Act.
+10 (2) Within sixty days after the operative date of this section, the
+11 director shall send a written request to each licensee and applicant with
+12 a completed application that requests supplemental information necessary
+13 for the director to investigate and determine compliance with the changes
+14 made by this legislative bill, including the certifications required by
+15 section 8-2711. For any licensee that does not provide such information
+16 within sixty days after receiving such request or that the director has
+17 reasonable suspicion to believe is a foreign adversary person or has any
+18 key individual or person in control that is a foreign adversary person,
+19 the director shall institute proceedings under section 8-2734 to revoke
+20 the licensee's license.
+21 Sec. 8. Within thirty days after the operative date of this
+22 section, the director shall prescribe forms and instructions and issue an
+23 order governing applications under the Nebraska Money Transmitters Act to
+24 require information sufficient to show that the applicant is not a
+25 foreign adversary person.
+26 Sec. 9. The Department of Banking and Finance shall, as requested,
+27 provide to the Department of Revenue the data of money transmitters as
+28 necessary to meet the responsibilities of the Department of Revenue under
+29 the Nebraska Money Transmitters Act, to the extent the Department of
+30 Banking and Finance collects such information. The Department of Revenue
+31 may, as requested by the director, share information with the Department
+-16-
+
+LB838 LB838
+2026 2026
+1 of Banking and Finance as necessary to enforce the Nebraska Money
+2 Transmitters Act.
+3 Sec. 10. (1) For purposes of this section:
+4 (a) Active duty member of the armed forces means a person who is a
+5 member of the armed forces of the United States on active duty as defined
+6 in 10 U.S.C. 101(d)(1), as such section existed on January 1, 2026, or a
+7 member of the Nebraska National Guard in active service of the state;
+8 (b) Credit card has the same meaning as in 15 U.S.C. 1693o-2, as
+9 such section existed on January 1, 2026;
+10 (c) Debit card has the same meaning as in 15 U.S.C. 1693o-2, as such
+11 section existed on January 1, 2026, except that debit card shall not
+12 include a general-use prepaid card as defined in 15 U.S.C. 1693l-1, as
+13 such section existed on January 1, 2026;
+14 (d) Dependent means a spouse or any other person for whom an active
+15 duty member of the armed forces provided more than one-half of that
+16 person's support during the previous calendar year;
+17 (e) Designated recipient has the same meaning as in section 919 of
+18 the Electronic Fund Transfer Act, 15 U.S.C. 1693o–1, as such section
+19 existed on January 1, 2026;
+20 (f) Foreign adversary country means any country listed in 15 C.F.R.
+21 791.4, as such regulation existed on January 1, 2026;
+22 (g) Remittance transfer has the same meaning as in section 919 of
+23 the Electronic Fund Transfer Act, 15 U.S.C. 1693o–1, as such section
+24 existed on January 1, 2026, except that it shall only apply where the
+25 sender provides cash, a money order, a cashier's check, or any other
+26 similar physical instrument to the remittance transfer provider;
+27 (h) Remittance transfer provider has the same meaning as in section
+28 919 of the Electronic Fund Transfer Act, 15 U.S.C. 1693o-1, as such
+29 section existed on January 1, 2026; and
+30 (i) Sender has the same meaning as in section 919 of the Electronic
+31 Fund Transfer Act, 15 U.S.C. 1693o–1, as such section existed on January
+-17-
+
+LB838 LB838
+2026 2026
+1 1, 2026.
+2 (2) There is hereby imposed an excise tax of twenty-five percent on
+3 any remittance transfer by a licensee or authorized delegate to a
+4 resident of a foreign adversary country, with the exception of Cuba and
+5 Venezuela.
+6 (3)(a) The tax imposed by this section shall not apply to a
+7 remittance transfer:
+8 (i) If the sender or designated recipient of such transfer is an
+9 active duty member of the armed forces or a dependent of such member; or
+10 (ii) For which the funds being transferred are:
+11 (A) Withdrawn from an account held in or by a financial institution:
+12 (I) Described in 31 U.S.C. 5312(a)(2)(A) through (H), as such
+13 section existed on January 1, 2026; and
+14 (II) That is subject to the requirements of 31 U.S.C. Chapter 53,
+15 Subchapter II, as such subchapter existed on January 1, 2026; or
+16 (B) Funded with a debit card or credit card issued in the United
+17 States.
+18 (b) To qualify for the exemption under subdivision (3)(a)(i) of this
+19 section, the sender or designated recipient shall present a valid United
+20 States Department of Defense Common Access Card or other valid military
+21 identification to the remittance transfer provider at the time of the
+22 transaction.
+23 (4)(a) The sender of a remittance transfer shall pay the tax imposed
+24 by this section on such transfer.
+25 (b) If any tax imposed by this section is not paid at the time a
+26 transfer is made, then to the extent that such tax is not paid, the
+27 remittance transfer provider of such transfer shall pay the tax.
+28 (c) The remittance transfer provider of a remittance transfer shall
+29 collect the amount of the tax imposed by this section on such transfer
+30 from the sender and remit such tax to the Department of Revenue
+31 quarterly.
+-18-
+
+LB838 LB838
+2026 2026
+1 (5) Sections 77-2707 to 77-2711 shall apply to the tax imposed by
+2 this section as if such tax were a sales or use tax imposed by the
+3 Nebraska Revenue Act of 1967.
+4 (6) The Department of Revenue may share any information related to
+5 the tax imposed by this section with the Department of Banking and
+6 Finance.
+7 (7)(a) No refund of the tax imposed by this section shall be allowed
+8 unless a claim for such refund is filed within the required period for a
+9 refund of sales taxes.
+10 (b) The Department of Revenue shall establish an expedited refund
+11 process for any active duty member of the armed forces or dependent who
+12 was charged the tax in error.
+13 (c) To be eligible for the expedited refund process described in
+14 subdivision (7)(b) of this section, an active duty member of the armed
+15 forces or dependent who was charged in error shall submit proof of
+16 military status to the Department of Revenue.
+17 (8) The Department of Revenue may adopt and promulgate rules and
+18 regulations to prescribe any and all forms and supporting documentation
+19 necessary for the payment, collection, and reporting of the tax imposed
+20 by this section and to establish the expedited refund process described
+21 in subdivision (7)(b) of this section.
+22 (9) The Department of Revenue may use electronic funds transfer to
+23 collect the tax imposed by this section or to pay any refund of such tax.
+24 (10) The use of any electronic filing of documents or electronic
+25 funds transfer shall not alter the rights of any party from the rights of
+26 such party if a different method of filing or payment was used.
+27 (11) All taxes received by the Department of Revenue pursuant to
+28 this section shall be remitted to the State Treasurer for credit to the
+29 General Fund.
+30 (12) Upon request from the Department of Revenue, the Department of
+31 Banking and Finance may make a claim against the surety bond of a
+-19-
+
+LB838 LB838
+2026 2026
+1 licensee for payment of any tax imposed by this section on such licensee.
+2 Sec. 11. Section 8-2901, Reissue Revised Statutes of Nebraska, is
+3 amended to read:
+4 8-2901 For purposes of sections 8-2901 to 8-2903:
+5 (1) Account means a contract of deposit of funds between the
+6 depositor and a financial institution and:
+7 (a) The account is owned by a vulnerable adult or senior adult,
+8 whether individually or with one or more other persons; or
+9 (b) A vulnerable adult or senior adult is a beneficiary of the
+10 account, including a formal or informal trust account, a payable on death
+11 account, a conservatorship account, or a guardianship account;
+12 (2) Authorized contact means an adult person designated by a
+13 vulnerable adult or senior adult to be contacted by a financial
+14 institution in the event of an emergency, a loss of contact with the
+15 customer, or suspected financial exploitation;
+16 (3) (2) Department means the Department of Health and Human
+17 Services;
+18 (4) (3) Financial exploitation means:
+19 (a) The wrongful or unauthorized taking, withholding, appropriation,
+20 or use of the money, assets, or other property or the identifying
+21 information of a vulnerable adult or senior adult by any person; or
+22 (b) An act or omission by a person, including through the use of a
+23 power of attorney on behalf of, or as the conservator or guardian of, a
+24 vulnerable adult or senior adult, to:
+25 (i) Obtain control, through deception, intimidation, fraud, or undue
+26 influence, over the vulnerable adult's or senior adult's money, assets,
+27 or other property to deprive the vulnerable adult or senior adult of the
+28 ownership, use, benefit, or possession of the property; or
+29 (ii) Convert the money, assets, or other property of a vulnerable
+30 adult or senior adult to deprive a vulnerable adult or senior adult of
+31 the ownership, use, benefit, or possession of the property;
+-20-
+
+LB838 LB838
+2026 2026
+1 (5) (4) Financial institution means a bank, savings bank, building
+2 and loan association, savings and loan association, or credit union,
+3 whether chartered by the Department of Banking and Finance, the United
+4 States, or a foreign state agency; any other similar organization which
+5 is covered by federal deposit insurance; a subsidiary or affiliate of any
+6 such entity; or a trust company as defined in section 8-230;
+7 (6) (5) Law enforcement agency has the same meaning as in section
+8 28-359;
+9 (7) (6) Senior adult has the same meaning as in section 28-366.01;
+10 (8) (7) Transaction means any of the following as applicable to
+11 services provided by a financial institution:
+12 (a) A transfer or request to transfer or disburse funds or assets in
+13 an account;
+14 (b) A request to initiate a wire transfer, initiate an automated
+15 clearinghouse transfer, or issue a money order, cashier's check, or
+16 official check;
+17 (c) A request to negotiate a check or other negotiable instrument;
+18 (d) A request to change the ownership of, or access to, an account;
+19 (e) A request for a loan, guarantee of a loan, extension of credit,
+20 or draw on a line of credit;
+21 (f) A request to encumber any movable or immovable property,
+22 including real property, personal property, or fixtures; and
+23 (g) A request to designate or change the designation of
+24 beneficiaries to receive any property, benefit, or contract right for a
+25 vulnerable adult or senior adult at death; and
+26 (9) (8) Vulnerable adult has the same meaning as in section 28-371.
+27 Sec. 12. Section 8-2903, Revised Statutes Supplement, 2025, is
+28 amended to read:
+29 8-2903 (1) When a financial institution, or an employee of a
+30 financial institution, reasonably believes, or has received information
+31 from the department or a law enforcement agency demonstrating that it is
+-21-
+
+LB838 LB838
+2026 2026
+1 reasonable to believe, that financial exploitation of a vulnerable adult
+2 or senior adult may have occurred, may have been attempted, is occurring,
+3 or is being attempted, the financial institution may, but is not required
+4 to:
+5 (a) Delay or refuse a transaction with or involving the vulnerable
+6 adult or senior adult;
+7 (b) Delay or refuse to permit the withdrawal or disbursement of
+8 funds contained in the vulnerable adult's or senior adult's account;
+9 (c) Prevent a change in ownership of the vulnerable adult's or
+10 senior adult's account;
+11 (d) Prevent a transfer of funds from the vulnerable adult's or
+12 senior adult's account to an account owned wholly or partially by another
+13 person;
+14 (e) Refuse to comply with instructions given to the financial
+15 institution by an agent or a person acting for or with an agent under a
+16 power of attorney signed or purported to have been signed by the
+17 vulnerable adult or senior adult; or
+18 (f) Prevent the designation or change the designation of
+19 beneficiaries to receive any property, benefit, or contract rights for a
+20 vulnerable adult or senior adult at death.
+21 (2) A financial institution is not required to act under subsection
+22 (1) of this section when provided with information alleging that
+23 financial exploitation may have occurred, may have been attempted, is
+24 occurring, or is being attempted, but may use the financial institution's
+25 discretion to determine whether or not to act under subsection (1) of
+26 this section based on the information available to the financial
+27 institution at the time.
+28 (3)(a)(i) A financial institution may notify any third party
+29 reasonably associated with a vulnerable adult or senior adult if the
+30 financial institution reasonably believes that the financial exploitation
+31 of a vulnerable adult or senior adult may have occurred, may have been
+-22-
+
+LB838 LB838
+2026 2026
+1 attempted, is occurring, or is being attempted.
+2 (ii) A third party reasonably associated with a vulnerable adult or
+3 senior adult includes, but is not limited to, the following: (A) A
+4 parent, spouse, adult child, sibling, or other known family member or
+5 close associate of a vulnerable adult or senior adult; (B) an authorized
+6 contact provided by a vulnerable adult or senior adult to the financial
+7 institution; (C) a co-owner, additional authorized signatory, or
+8 beneficiary on a vulnerable adult's or a senior adult's account; (D) an
+9 attorney in fact, trustee, conservator, guardian, or other fiduciary who
+10 has been selected by a vulnerable adult or senior adult, a court, or a
+11 third party to manage some or all of the financial affairs of the
+12 vulnerable adult or senior adult; and (E) an attorney known to represent
+13 or have represented the vulnerable adult or senior adult.
+14 (b) A financial institution may choose not to notify any third party
+15 reasonably associated with a vulnerable adult or senior adult of
+16 suspected financial exploitation of the vulnerable adult or senior adult
+17 if the financial institution reasonably believes the third party is, may
+18 be, or may have been engaged in the financial exploitation of the
+19 vulnerable adult or senior adult or if requested to refrain from making a
+20 notification by a law enforcement agency, if such notification could
+21 interfere with a law enforcement investigation.
+22 (c) Nothing in this subsection shall prevent a financial institution
+23 from notifying the department or a law enforcement agency, if the
+24 financial institution reasonably believes that the financial exploitation
+25 of a vulnerable adult or senior adult may have occurred, may have been
+26 attempted, is occurring, or is being attempted.
+27 (4) The authority granted the financial institution under subsection
+28 (1) of this section expires upon the sooner of: (a) Thirty business days
+29 after the date on which the financial institution first acted under
+30 subsection (1) of this section; (b) when the financial institution is
+31 satisfied that the transaction or act will not result in financial
+-23-
+
+LB838 LB838
+2026 2026
+1 exploitation of the vulnerable adult or senior adult; or (c) upon
+2 termination by an order of a court of competent jurisdiction.
+3 (5) Unless otherwise directed by order of a court of competent
+4 jurisdiction, a financial institution may extend the duration under
+5 subsection (4) of this section based on a reasonable belief that the
+6 financial exploitation of a vulnerable adult or senior adult may continue
+7 to occur or continue to be attempted.
+8 (6) A financial institution and its bank holding company, if any,
+9 and any employees, agents, officers, and directors of the financial
+10 institution and its bank holding company, if any, shall be immune from
+11 any civil, criminal, or administrative liability that may otherwise exist
+12 (a) for delaying or refusing to execute a transaction, withdrawal, or
+13 disbursement, or for not delaying or refusing to execute such
+14 transaction, withdrawal, or disbursement under this section and (b) for
+15 actions taken in furtherance of determinations made under subsections (1)
+16 through (5) of this section.
+17 (7)(a) Notwithstanding any other law to the contrary, the refusal by
+18 a financial institution to engage in a transaction as authorized under
+19 subsection (1) of this section shall not constitute the wrongful dishonor
+20 of an item under section 4-402, Uniform Commercial Code.
+21 (b) Notwithstanding any other law to the contrary, a reasonable
+22 belief that payment of a check will facilitate the financial exploitation
+23 of a vulnerable adult or senior adult shall constitute reasonable grounds
+24 to doubt the collectability of the item for purposes of the federal Check
+25 Clearing for the 21st Century Act, 12 U.S.C. 5001 et seq., the federal
+26 Expedited Funds Availability Act, 12 U.S.C. 4001 et seq., and 12 C.F.R.
+27 part 229, as such acts and part existed on January 1, 2025.
+28 (8) A financial institution shall be immune from any civil,
+29 criminal, or administrative liability that may otherwise exist for
+30 choosing not to implement an authorized contact program. A financial
+31 institution, when acting in a reasonable manner, shall be immune from any
+-24-
+
+LB838 LB838
+2026 2026
+1 civil, criminal, or administrative liability that may otherwise exist for
+2 any actions or omissions related to the administration of such a program.
+3 A financial institution shall not be liable for the actions of an
+4 authorized contact.
+5 (9) A financial institution shall be immune from any civil,
+6 criminal, or administrative liability for declining to interact with an
+7 authorized contact if the financial institution reasonably believes that:
+8 (a) The authorized contact is, may be, or may have been engaged in
+9 the financial exploitation of the vulnerable adult or senior adult; or
+10 (b) Such interaction is not in the best interests of the vulnerable
+11 adult or senior adult.
+12 (10) A person designated as an authorized contact who acts in good
+13 faith and exercises reasonable care in providing information to the
+14 financial institution, or in assisting the financial institution or law
+15 enforcement in an investigation of suspected financial exploitation,
+16 shall be immune from any administrative, civil, or criminal liability
+17 that might otherwise arise from such actions.
+18 Sec. 13. Section 25-2701, Reissue Revised Statutes of Nebraska, is
+19 amended to read:
+20 25-2701 (1) All provisions in the rules and codes of criminal and
+21 civil procedure governing actions and proceedings in the district court
+22 not in conflict with statutes specifically governing procedure in county
+23 courts and related to matters for which no specific provisions have been
+24 made for county courts shall govern and apply to all actions and
+25 proceedings in the county court.
+26 (2) County courts may seal records of a person as provided under
+27 sections 43-2,108.01 to 43-2,108.05.
+28 (3) Unless specifically provided to the contrary in the Uniform
+29 Probate Code or unless inconsistent with its provisions, the rules and
+30 codes of civil procedure, including the rules concerning vacation of
+31 orders and appellate review, govern proceedings under this section.
+-25-
+
+LB838 LB838
+2026 2026
+1 Sec. 14. Section 30-2301, Reissue Revised Statutes of Nebraska, is
+2 amended to read:
+3 30-2301 (1) Any part of a decedent's estate not effectively disposed
+4 of by will passes by intestate succession to the decedent's heirs as
+5 prescribed in the following sections of this code, except as modified by
+6 the decedent's will.
+7 (2) A decedent by will may expressly exclude or limit the right of
+8 an individual or class to succeed to property of the decedent passing by
+9 intestate succession. If that individual or a member of that class
+10 survives the decedent, the share of the decedent's intestate estate to
+11 which that individual or class would have succeeded passes as if that
+12 individual or each member of that class had disclaimed the intestate
+13 share. Any part of the estate of a decedent not effectively disposed of
+14 by his will passes to his heirs as prescribed in the following sections
+15 of this code.
+16 Sec. 15. Section 30-2302, Reissue Revised Statutes of Nebraska, is
+17 amended to read:
+18 30-2302 The intestate share of the surviving spouse is:
+19 (1) if there is no surviving issue or parent of the decedent, the
+20 entire intestate estate;
+21 (2) if there is no surviving issue but the decedent is survived by a
+22 parent or parents, the first one hundred fifty thousand dollars, plus
+23 one-half of the balance of the intestate estate;
+24 (3) if there are surviving issue all of whom are issue of the
+25 surviving spouse also, the first one hundred fifty thousand dollars, plus
+26 one-half of the balance of the intestate estate;
+27 (4) if there are surviving issue one or more of whom are not issue
+28 of the surviving spouse, one-half of the intestate estate.
+29 Sec. 16. Section 30-2322, Reissue Revised Statutes of Nebraska, is
+30 amended to read:
+31 30-2322 A surviving spouse of a decedent who was domiciled in this
+-26-
+
+LB838 LB838
+2026 2026
+1 state is entitled to a homestead allowance of seven thousand five hundred
+2 dollars for a decedent who dies before January 1, 2011, and twenty
+3 thousand dollars for a decedent who dies on or after January 1, 2011, and
+4 before January 1, 2027, and twenty-five thousand dollars for a decedent
+5 who dies on or after January 1, 2027. If there is no surviving spouse,
+6 each minor child and each dependent child of the decedent is entitled to
+7 a homestead allowance amounting to the amount allowed for a surviving
+8 spouse divided by the number of minor and dependent children of the
+9 decedent. The homestead allowance is exempt from and has priority over
+10 all claims against the estate except for costs and expenses of
+11 administration. Homestead allowance is in addition to any share passing
+12 to the surviving spouse or minor or dependent child by the will of the
+13 decedent unless otherwise provided therein, by intestate succession or by
+14 way of elective share.
+15 Sec. 17. Section 30-2323, Reissue Revised Statutes of Nebraska, is
+16 amended to read:
+17 30-2323 (1) In addition to the homestead allowance, the surviving
+18 spouse of a decedent who was domiciled in this state is entitled from the
+19 estate to value not exceeding five thousand dollars for a decedent who
+20 dies before January 1, 2011, and twelve thousand five hundred dollars for
+21 a decedent who dies on or after January 1, 2011, and before January 1,
+22 2027, and seventeen thousand five hundred dollars for a decedent who dies
+23 on or after January 1, 2027, in excess of any security interests therein
+24 in household furniture, automobiles, furnishings, appliances, and
+25 personal effects. If there is no surviving spouse, children of the
+26 decedent are entitled jointly to the same value unless the decedent has
+27 provided in his or her will that one or more of such children shall be
+28 disinherited, in which case only those children not so disinherited shall
+29 be so entitled. For purposes of this section, disinherited means
+30 providing in one's will that a child shall take nothing or a nominal
+31 amount of ten dollars or less from the estate.
+-27-
+
+LB838 LB838
+2026 2026
+1 (2) If encumbered chattels are selected and if the value in excess
+2 of security interests, plus that of other exempt property, is less than
+3 the amount allowed under subsection (1) of this section, or if there is
+4 not that amount worth of exempt property in the estate, the spouse or
+5 children are entitled to other assets of the estate, if any, to the
+6 extent necessary to make up the amount allowed under subsection (1) of
+7 this section. Rights to exempt property and assets needed to make up a
+8 deficiency of exempt property have priority over all claims against the
+9 estate except for costs and expenses of administration, except for claims
+10 filed by the Department of Health and Human Services pursuant to section
+11 68-919 notwithstanding the order of payment established in section
+12 30-2487, and except that the right to any assets to make up a deficiency
+13 of exempt property shall abate as necessary to permit prior payment of
+14 homestead allowance and family allowance.
+15 (3) These rights are in addition to any benefit or share passing to
+16 the surviving spouse by the will of the decedent unless otherwise
+17 provided therein, by intestate succession, or by way of elective share.
+18 These rights are in addition to any benefit or share passing to the
+19 surviving children by intestate succession and are in addition to any
+20 benefit or share passing by the will of the decedent to those surviving
+21 children not disinherited unless otherwise provided in the will.
+22 Sec. 18. Section 30-2325, Reissue Revised Statutes of Nebraska, is
+23 amended to read:
+24 30-2325 If the estate is otherwise sufficient, property specifically
+25 devised is not used to satisfy rights to homestead and exempt property.
+26 Subject to this restriction, the surviving spouse, the guardians of the
+27 minor children, or children who are adults may select property of the
+28 estate as homestead allowance and exempt property. After giving such
+29 notice as the court may require in a proceeding initiated under the
+30 provisions of section 30-2405, the personal representative may make these
+31 selections if the surviving spouse, the children or the guardians of the
+-28-
+
+LB838 LB838
+2026 2026
+1 minor children are unable or fail to do so within a reasonable time or if
+2 there are no guardians of the minor children. The personal representative
+3 may execute an instrument or deed of distribution to establish the
+4 ownership of property taken as homestead allowance or exempt property.
+5 The personal representative may determine the family allowance in a lump
+6 sum not exceeding nine thousand dollars for a decedent who dies before
+7 January 1, 2011, and twenty thousand dollars for a decedent who dies on
+8 or after January 1, 2011, and before January 1, 2027, and twenty-five
+9 thousand dollars for a decedent who dies on or after January 1, 2027, or
+10 periodic installments not exceeding seven hundred fifty dollars per month
+11 for one year for a decedent who dies before January 1, 2011, and one
+12 thousand six hundred sixty-six dollars and sixty-seven cents per month
+13 for one year for a decedent who dies on or after January 1, 2011, and
+14 before January 1, 2027, and two thousand eighty-three dollars and thirty-
+15 three cents per month for one year for a decedent who dies on or after
+16 January 1, 2027. The personal representative may disburse funds of the
+17 estate in payment of the family allowance and any part of the homestead
+18 allowance payable in cash. The personal representative or any interested
+19 person aggrieved by any selection, determination, payment, proposed
+20 payment, or failure to act under this section may petition the court for
+21 appropriate relief, which relief may provide a family allowance larger or
+22 smaller than that which the personal representative determined or could
+23 have determined.
+24 The homestead allowance, the exempt property, and the family
+25 allowance as finally determined by the personal representative or by the
+26 court, shall vest in the surviving spouse as of the date of decedent's
+27 death, as a vested indefeasible right of property, shall survive as an
+28 asset of the surviving spouse's estate if unpaid on the date of death of
+29 such surviving spouse, and shall not terminate upon the death or
+30 remarriage of the surviving spouse.
+31 Sec. 19. Section 30-3801, Revised Statutes Cumulative Supplement,
+-29-
+
+LB838 LB838
+2026 2026
+1 2024, is amended to read:
+2 30-3801 (UTC 101) Sections 30-3801 to 30-38,115 and sections 21 to
+3 23 of this act shall be known and may be cited as the Nebraska Uniform
+4 Trust Code.
+5 Sec. 20. Section 30-3803, Reissue Revised Statutes of Nebraska, is
+6 amended to read:
+7 30-3803 (UTC 103) In the Nebraska Uniform Trust Code:
+8 (1) "Action", with respect to an act of a trustee, includes a
+9 failure to act.
+10 (2) "Ascertainable standard" means a standard relating to an
+11 individual's health, education, support, or maintenance within the
+12 meaning of section 2041(b)(1)(A) or 2514(c)(1) of the Internal Revenue
+13 Code of 1986, as defined in section 49-801.01.
+14 (3) "Beneficiary" means a person that:
+15 (A) has a present or future beneficial interest in a trust, vested
+16 or contingent; or
+17 (B) in a capacity other than that of trustee, holds a power of
+18 appointment over trust property.
+19 (4) "Charitable trust" means a trust, or portion of a trust, created
+20 for a charitable purpose described in subsection (a) of section 30-3831.
+21 (5) "Conservator" means a person appointed by the court to
+22 administer the estate of a minor or adult individual.
+23 (6) "Environmental law" means a federal, state, or local law, rule,
+24 regulation, or ordinance relating to protection of the environment.
+25 (7) "Guardian" means a person who has qualified as a guardian of a
+26 minor or incapacitated person pursuant to testamentary or court
+27 appointment, but excludes one who is merely a guardian ad litem.
+28 (8) "Interests of the beneficiaries" means the beneficial interests
+29 provided in the terms of the trust.
+30 (9) "Jurisdiction", with respect to a geographic area, includes a
+31 state or country.
+-30-
+
+LB838 LB838
+2026 2026
+1 (10) "Person" means an individual, corporation, business trust,
+2 estate, trust, partnership, limited liability company, association, joint
+3 venture, government; governmental subdivision, agency, or
+4 instrumentality; public corporation, or any other legal or commercial
+5 entity.
+6 (11) "Power of withdrawal" means a presently exercisable general
+7 power of appointment other than a power: (A) which is exercisable by a
+8 trustee and limited by an ascertainable standard; or (B) which is
+9 exercisable by another person only upon consent of the trustee or a
+10 person holding an adverse interest.
+11 (12) "Property" means anything that may be the subject of ownership,
+12 whether real or personal, legal or equitable, or any interest therein.
+13 (13) "Qualified beneficiary" means a beneficiary who, on the date
+14 the beneficiary's qualification is determined:
+15 (A) is a distributee or permissible distributee of trust income or
+16 principal;
+17 (B) would be a distributee or permissible distributee of trust
+18 income or principal if the interests of the distributees described in
+19 subdivision (A) of this subdivision terminated on that date without
+20 causing the trust to terminate; or
+21 (C) would be a distributee or permissible distributee of trust
+22 income or principal if the trust terminated on that date.
+23 (14) "Regulated financial-service institution" means a state-
+24 chartered or federally chartered financial institution in which the
+25 monetary deposits are insured by the Federal Deposit Insurance
+26 Corporation.
+27 (15) "Revocable", as applied to a trust, means revocable by the
+28 settlor without the consent of the trustee or a person holding an adverse
+29 interest.
+30 (16) "Settlor" means a person, including a testator, who creates, or
+31 contributes property to, a trust. If more than one person creates or
+-31-
+
+LB838 LB838
+2026 2026
+1 contributes property to a trust, each person is a settlor of the portion
+2 of the trust property attributable to that person's contribution except
+3 to the extent another person has the power to revoke or withdraw that
+4 portion.
+5 (17) "Spendthrift provision" means a term of a trust which restrains
+6 both voluntary and involuntary transfer of a beneficiary's interest.
+7 (18) "State" includes any state of the United States, the District
+8 of Columbia, the Commonwealth of Puerto Rico, and any territory or
+9 possession subject to the legislative authority of the United States.
+10 (19) "Terms of a trust" means: (A) Except as otherwise provided in
+11 subdivision (19)(B) of this section, the manifestation of the settlor's
+12 intent regarding a trust's provisions as: (i) Expressed in the trust
+13 instrument; or (ii) established by other evidence that would be
+14 admissible in a judicial proceeding; or (B) the trust's provisions, as
+15 established, determined, or amended by a: (i) Trustee or other person in
+16 accordance with applicable law; (ii) court order; or (iii) nonjudicial
+17 settlement agreement under section 30-3811. the manifestation of the
+18 settlor's intent regarding a trust's provisions as expressed in the trust
+19 instrument or as may be established by other evidence that would be
+20 admissible in a judicial proceeding.
+21 (20) "Trust instrument" means an instrument executed by the settlor
+22 that contains terms of the trust, including any amendments thereto.
+23 (21) "Trustee" includes an original, additional, and successor
+24 trustee, and a cotrustee.
+25 Sec. 21. A contract to make a trust, or not to revoke a trust, if
+26 executed on or after January 1, 1977, shall only be established by: (1)
+27 Provisions of a will or a trust stating the material provisions of the
+28 contract; (2) an express reference in a will or trust to a contract and
+29 extrinsic evidence proving the terms of the contract; or (3) a writing
+30 signed by the decedent evidencing the contract. The execution of a joint
+31 trust does not create a presumption of a contract not to revoke the
+-32-
+
+LB838 LB838
+2026 2026
+1 trust.
+2 Sec. 22. A provision in a trust purporting to penalize any
+3 interested person for contesting the trust or instituting other
+4 proceedings relating to the trust is unenforceable if probable cause
+5 exists for instituting proceedings.
+6 Sec. 23. The rules of construction that apply in this state to the
+7 interpretation and disposition of property by will shall also apply as
+8 appropriate to the interpretation of the terms of a trust and the
+9 disposition of the trust property.
+10 Sec. 24. Section 30-38,103, Reissue Revised Statutes of Nebraska, is
+11 amended to read:
+12 30-38,103 (a) A certification of trust may confirm the following
+13 facts or contain the following information:
+14 (1) The existence of a trust and, for an inter vivos trust, the date
+15 of execution or, for a testamentary trust, the date of death of the
+16 decedent;
+17 (2) The identity of the grantor, settlor, or testator and each
+18 currently acting trustee;
+19 (3) The powers of the trustee and any restrictions imposed upon the
+20 trustee in dealing with the assets of the trust;
+21 (4) The name or method of choosing successor trustees;
+22 (5) The revocability or irrevocability of the trust and the identity
+23 of any person holding a power to revoke it;
+24 (6) If there is more than one trustee, whether all of the currently
+25 acting trustees must, or if less than all, may, act to exercise
+26 identified powers of the trustee;
+27 (7) The identifying number of the trust and whether it is a social
+28 security number or an employer identification number;
+29 (8) The name of each beneficiary and the relationship to the
+30 grantor, settlor, or testator;
+31 (9) The state or other jurisdiction under which the trust was
+-33-
+
+LB838 LB838
+2026 2026
+1 established; and
+2 (10) The form in which title to the assets of the trust is to be
+3 taken; and .
+4 (11) Any information necessary to establish a person's ownership of
+5 a homestead for purposes of obtaining a homestead exemption under
+6 sections 77-3501 to 77-3529.
+7 (b) The certification of trust shall contain a statement that the
+8 trust has not been revoked or amended to make any representations
+9 contained in the certification of trust incorrect and that the signatures
+10 are those of all the acting trustees.
+11 Sec. 25. Section 77-2004, Revised Statutes Cumulative Supplement,
+12 2024, is amended to read:
+13 77-2004 (1) In the case of a person described in subsection (2) of
+14 this section father, mother, grandfather, grandmother, brother, sister,
+15 son, daughter, child or children legally adopted as such in conformity
+16 with the laws of the state where adopted, any lineal descendant, any
+17 lineal descendant legally adopted as such in conformity with the laws of
+18 the state where adopted, any person to whom the deceased for not less
+19 than ten years prior to death stood in the acknowledged relation of a
+20 parent, or the spouse or surviving spouse of any such persons, the rate
+21 of tax shall be:
+22 (a) For decedents dying prior to January 1, 2023, one percent of the
+23 clear market value of the property received by each person in excess of
+24 forty thousand dollars; and
+25 (b) For decedents dying on or after January 1, 2023, one percent of
+26 the clear market value of the property received by each person in excess
+27 of one hundred thousand dollars.
+28 (2) Persons subject to inheritance tax at the rate prescribed by
+29 this section are:
+30 (a) A father, mother, grandfather, grandmother, brother, sister,
+31 son, daughter, child or children legally adopted as such in conformity
+-34-
+
+LB838 LB838
+2026 2026
+1 with the laws of the state where adopted;
+2 (b) Any lineal descendant;
+3 (c) Any lineal descendant legally adopted as such in conformity with
+4 the laws of the state where adopted;
+5 (d) Any person to whom the deceased for not less than ten years
+6 prior to death stood in the acknowledged relation of a parent;
+7 (e) Any lineal descendant of a person described in subdivision (d)
+8 of this subsection;
+9 (f) Any lineal descendant of a person described in subdivision (d)
+10 of this subsection legally adopted as such in conformity with the laws of
+11 the state where adopted; and
+12 (g) The spouse or surviving spouse of any person described in
+13 subdivisions (a) through (f) of this subsection.
+14 (3) (2) Any interest in property, including any interest acquired in
+15 the manner set forth in section 77-2002, which may be valued at a sum
+16 less than or equal to the applicable exempt amount under subsection (1)
+17 of this section shall not be subject to tax. In addition, the homestead
+18 allowance, exempt property, and family maintenance allowance shall not be
+19 subject to tax. Interests passing to the surviving spouse by will, in the
+20 manner set forth in section 77-2002, or in any other manner shall not be
+21 subject to tax. Any interest passing to a person described in subsection
+22 (2) (1) of this section who is under twenty-two years of age shall not be
+23 subject to tax.
+24 Sec. 26. Section 77-3503, Reissue Revised Statutes of Nebraska, is
+25 amended to read:
+26 77-3503 Owner shall mean the owner of record or surviving spouse,
+27 the vendee in possession under a land contract or surviving spouse, one
+28 of the joint tenants or tenants in common or surviving spouse, or the
+29 beneficiary of a trust of which the trustee is the record title owner and
+30 the beneficiary-occupant (1) has a specific right to occupy the premises
+31 as stated in the trust instrument, (2) has the right to amend or revoke
+-35-
+
+LB838 LB838
+2026 2026
+1 the trust to obtain such power of occupancy or of title, or (3) has the
+2 power to withdraw the homestead premises from the trust and place the
+3 record title in such occupant's name. Owner shall also mean a resident of
+4 a dwelling complex, the record title owner of which is a not-for-profit
+5 corporation, who has by purchase for fair market value secured a life
+6 tenancy in a taxable unit of the complex. The deed, trust instrument, or
+7 contract, or a certification of trust as described in sections 30-38,102
+8 to 30-38,106, memorandum showing that the criteria of this section have
+9 been met shall be on file on the appropriate public record as of January
+10 1 of the year for which exemption is sought, except that if such
+11 instrument is not on file as of January 1, a copy of such instrument
+12 shall be attached to such application before the homestead exemption
+13 shall be granted.
+14 Sec. 27. Section 87-302, Revised Statutes Supplement, 2025, is
+15 amended to read:
+16 87-302 (a) A person engages in a deceptive trade practice when, in
+17 the course of his or her business, vocation, or occupation, he or she:
+18 (1) Passes off goods or services as those of another;
+19 (2) Causes likelihood of confusion or of misunderstanding as to the
+20 source, sponsorship, approval, or certification of goods or services;
+21 (3) Causes likelihood of confusion or of misunderstanding as to
+22 affiliation, connection, or association with, or certification by,
+23 another;
+24 (4) Uses deceptive representations or designations of geographic
+25 origin in connection with goods or services;
+26 (5) Represents that goods or services have sponsorship, approval,
+27 characteristics, ingredients, uses, benefits, or quantities that they do
+28 not have or that a person has a sponsorship, approval, status,
+29 affiliation, or connection that he or she does not have;
+30 (6) Represents that goods or services do not have sponsorship,
+31 approval, characteristics, ingredients, uses, benefits, or quantities
+-36-
+
+LB838 LB838
+2026 2026
+1 that they have or that a person does not have a sponsorship, approval,
+2 status, affiliation, or connection that he or she has;
+3 (7) Represents that goods are original or new if they are
+4 deteriorated, altered, reconditioned, reclaimed, used, or secondhand,
+5 except that sellers may repair damage to and make adjustments on or
+6 replace parts of otherwise new goods in an effort to place such goods in
+7 compliance with factory specifications;
+8 (8) Represents that goods or services are of a particular standard,
+9 quality, or grade, or that goods are of a particular style or model, if
+10 they are of another;
+11 (9) Disparages the goods, services, or business of another by false
+12 or misleading representation of fact;
+13 (10) Advertises goods or services with intent not to sell them as
+14 advertised or advertises the price in any manner calculated or tending to
+15 mislead or in any way deceive a person;
+16 (11) Advertises goods or services with intent not to supply
+17 reasonably expectable public demand, unless the advertisement discloses a
+18 limitation of quantity;
+19 (12) Makes false or misleading statements of fact concerning the
+20 reasons for, existence of, or amounts of price reductions;
+21 (13) Uses or promotes the use of or establishes, operates, or
+22 participates in a pyramid promotional scheme in connection with the
+23 solicitation of such scheme to members of the public. This subdivision
+24 shall not be construed to prohibit a plan or operation, or to define a
+25 plan or operation as a pyramid promotional scheme, based on the fact that
+26 participants in the plan or operation give consideration in return for
+27 the right to receive compensation based upon purchases of goods,
+28 services, or intangible property by participants for personal use,
+29 consumption, or resale so long as the plan or operation does not promote
+30 or induce inventory loading and the plan or operation implements an
+31 appropriate inventory repurchase program;
+-37-
+
+LB838 LB838
+2026 2026
+1 (14) With respect to a sale or lease to a natural person of goods or
+2 services purchased or leased primarily for personal, family, household,
+3 or agricultural purposes, uses or employs any referral or chain referral
+4 sales technique, plan, arrangement, or agreement;
+5 (15) Knowingly makes a false or misleading statement in a privacy
+6 policy, published on the Internet or otherwise distributed or published,
+7 regarding the use of personal information submitted by members of the
+8 public;
+9 (16) Uses any scheme or device to defraud by means of:
+10 (i) Obtaining money or property by knowingly false or fraudulent
+11 pretenses, representations, or promises; or
+12 (ii) Selling, distributing, supplying, furnishing, or procuring any
+13 property for the purpose of furthering such scheme;
+14 (17) Offers an unsolicited check, through the mail or by other
+15 means, to promote goods or services if the cashing or depositing of the
+16 check obligates the endorser or payee identified on the check to pay for
+17 goods or services. This subdivision does not apply to an extension of
+18 credit or an offer to lend money;
+19 (18) Mails or causes to be sent an unsolicited billing statement,
+20 invoice, or other document that appears to obligate the consumer to make
+21 a payment for services or merchandise he or she did not order;
+22 (19)(i) Installs, offers to install, or makes available for
+23 installation or download a covered file-sharing program on a computer not
+24 owned by such person without providing clear and conspicuous notice to
+25 the owner or authorized user of the computer that files on that computer
+26 will be made available to the public and without requiring intentional
+27 and affirmative activation of the file-sharing function of such covered
+28 file-sharing program by the owner or authorized user of the computer; or
+29 (ii) Prevents reasonable efforts to block the installation,
+30 execution, or disabling of a covered file-sharing program;
+31 (20) Violates any provision of the Nebraska Foreclosure Protection
+-38-
+
+LB838 LB838
+2026 2026
+1 Act;
+2 (21) In connection with the solicitation of funds or other assets
+3 for any charitable purpose, or in connection with any solicitation which
+4 represents that funds or assets will be used for any charitable purpose,
+5 uses or employs any deception, fraud, false pretense, false promise,
+6 misrepresentation, unfair practice, or concealment, suppression, or
+7 omission of any material fact;
+8 (22)(i) In the manufacture, production, importation, distribution,
+9 promotion, display for sale, offer for sale, attempt to sell, or sale of
+10 a substance:
+11 (A) Makes a deceptive or misleading representation or designation,
+12 or omits material information, about a substance or fails to identify the
+13 contents of the package or the nature of the substance contained inside
+14 the package; or
+15 (B) Causes confusion or misunderstanding as to the effects a
+16 substance causes when ingested, injected, inhaled, or otherwise
+17 introduced into the human body.
+18 (ii) A person shall be deemed to have committed a violation of the
+19 Uniform Deceptive Trade Practices Act for each individually packaged
+20 product that is either manufactured, produced, imported, distributed,
+21 promoted, displayed for sale, offered for sale, attempted to sell, or
+22 sold in violation of this section. A violation under this subdivision (a)
+23 (22) shall be treated as a separate and distinct violation from any other
+24 offense arising out of acts alleged to have been committed while the
+25 person was in violation of this section;
+26 (23)(i) Manufactures, produces, publishes, distributes, monetizes,
+27 promotes, or otherwise makes publicly available any visual depiction of
+28 sexually explicit conduct, any obscene material, or any material that is
+29 harmful to minors in which any person depicted as a participant or
+30 observer:
+31 (A) Is under eighteen years of age;
+-39-
+
+LB838 LB838
+2026 2026
+1 (B) Is a trafficking victim;
+2 (C) Has not expressly and voluntarily consented to such person's
+3 depiction; or
+4 (D) Participated in any act depicted without consent.
+5 (ii) This subdivision (a)(23) does not apply to any
+6 telecommunications or broadband Internet access service.
+7 (iii) For purposes of this subdivision (a)(23):
+8 (A) Harmful to minors has the same meaning as in 47 U.S.C. 254, as
+9 such section existed on January 1, 2024;
+10 (B) Obscene material has the same meaning as in section 28-807;
+11 (C) Promote means to use any mechanism or publication, or take any
+12 action, that suggests, highlights, advertises, markets, curates,
+13 backlinks, hashtags, or otherwise directs, attempts to direct, or
+14 encourages traffic toward specific materials, including acts carried out
+15 affirmatively, through automation, algorithmically, and via other
+16 technical means both known and unknown at this time;
+17 (D) Publish means to communicate or make information available to
+18 another person via an Internet website, regardless of whether the person
+19 consuming, viewing, or receiving the material gives any consideration for
+20 the published material;
+21 (E) Trafficking victim has the same meaning as in section 28-830;
+22 (F) Visual depiction of sexually explicit conduct has the same
+23 meaning as in section 28-1802; and
+24 (G) Without consent has the same meaning as in section 28-318;
+25 (24) Offers or enters into a right-to-list home sale agreement as
+26 defined in section 81-885.01; or
+27 (25) Violates section 81-2,282; or .
+28 (26)(i) With respect to a social media platform that accepts
+29 payment, or any other form of compensation or thing of value, for
+30 advertising on its platform:
+31 (A) Fails to establish and implement:
+-40-
+
+LB838 LB838
+2026 2026
+1 (I) Identity verification for advertisers;
+2 (II) An unlawful impersonation detection and mitigation program;
+3 (III) Automated and manual fraud detection systems;
+4 (IV) Measures to prevent repeated offenses by the same advertiser;
+5 (V) A clear and conspicuous tool for users to report suspected
+6 fraud; and
+7 (VI) A process for law enforcement to report suspected fraudulent
+8 advertisements;
+9 (B) After a fraudulent advertisement is reported by a user, fails to
+10 investigate and determine if such advertisement constitutes a fraudulent
+11 advertisement within five business days after such report;
+12 (C) After determining an advertisement to be a fraudulent
+13 advertisement, fails to remove such advertisement from its platform
+14 within five business days after such determination;
+15 (D) After a fraudulent advertisement is reported by law enforcement,
+16 fails to notify the submitter of the status of the submitter's report
+17 within five business days after receipt of such report; or
+18 (E) Knowingly permits fraudulent advertisement on its platform or
+19 ignores credible reports that content on its platform constitutes
+20 fraudulent advertisement.
+21 (ii) For purposes of this subdivision (a)(26):
+22 (A) Advertiser means any person who pays, or provides compensation
+23 or a thing of value, to advertise, promote, or otherwise increase
+24 impressions of advertisements or content on a social media platform;
+25 (B) Fraudulent advertisement means an advertisement or content that
+26 misrepresents material facts or unlawfully impersonates another in order
+27 to induce a transaction or extract a benefit, and a social media platform
+28 accepts payment, or any other form of compensation or thing of value, to
+29 advertise, promote, or otherwise increase impressions of the
+30 advertisement or content on its platform; and
+31 (C) Social media platform means an electronic medium, including a
+-41-
+
+LB838 LB838
+2026 2026
+1 browser-based or application-based interactive computer service, Internet
+2 website, telephone network, or data network, that allows an account
+3 holder to create, share, and view user-generated content for the purpose
+4 of social interaction, sharing, or viewing user-generated content, or
+5 personal networking. Social media platform does not include:
+6 (I) An Internet search provider;
+7 (II) An Internet service provider;
+8 (III) An email service;
+9 (IV) A streaming service, online video game, e-commerce, or other
+10 Internet website where the content is not user generated but where
+11 interactive functions enable chat, comments, reviews, or other
+12 interactive functionality that is incidental to, directly related to, or
+13 dependent upon providing the content;
+14 (V) A communication service, including text, audio, or video
+15 communication technology, provided by a business to the business's
+16 employees and clients for use in the course of business activities and
+17 not for public distribution, except that social media platform includes a
+18 communication service provided by a social media platform;
+19 (VI) An advertising network with the sole function of delivering
+20 commercial content;
+21 (VII) A telecommunications carrier as defined in 47 U.S.C. 153;
+22 (VIII) A broadband Internet access service as defined in 47 C.F.R.
+23 8.1(b);
+24 (IX) Single-purpose community groups for education or public safety;
+25 (X) Teleconferencing or video-conferencing services that allow
+26 reception and transmission of audio and video signals for real-time
+27 communication, except that social media platform includes
+28 teleconferencing or video-conferencing services provided by a social
+29 media platform;
+30 (XI) Cloud computing services, which may include cloud storage and
+31 shared document collaboration;
+-42-
+
+LB838 LB838
+2026 2026
+1 (XII) Providing or obtaining technical support for a platform,
+2 product, or service;
+3 (XIII) A platform designed primarily and specifically for creative
+4 professional users, as distinct from the general public, to share their
+5 portfolio and creative content, engage in professional networking,
+6 acquire clients, and market the creative professional user's creative
+7 content and creative services through facilitated transactions; or
+8 (XIV) A cable operator or an affiliate of a cable operator as such
+9 terms are defined in 47 U.S.C. 522.
+10 (b) In order to prevail in an action under the Uniform Deceptive
+11 Trade Practices Act, a complainant need not prove competition between the
+12 parties.
+13 (c) This section does not affect unfair trade practices otherwise
+14 actionable at common law or under other statutes of this state.
+15 (d) It shall not be considered a violation of any provision of
+16 antitrust laws for two or more entities to exchange or provide
+17 information on suspected fraudulent activity or suspicious transactions
+18 for purposes of identifying and enforcing against fraudulent advertisers
+19 or advertisements.
+20 Sec. 28. Section 87-704, Reissue Revised Statutes of Nebraska, is
+21 amended to read:
+22 87-704 It shall be a violation of the Equipment Business Regulation
+23 Act for a supplier:
+24 (1) To require a dealer to accept delivery of equipment, repair
+25 parts, or attachments that the dealer has not voluntarily ordered;
+26 (2) To require a dealer to order or accept delivery of equipment
+27 with special features or attachments not included in the base list price
+28 of such equipment as publicly advertised by the supplier;
+29 (3) To require a dealer to enter into any agreement, whether written
+30 or oral, amendatory or supplementary to an existing dealer agreement with
+31 the supplier unless such amendatory or supplementary agreement is imposed
+-43-
+
+LB838 LB838
+2026 2026
+1 on similarly situated dealers;
+2 (4) To take action terminating, canceling, failing to renew, or
+3 substantially changing the competitive circumstances intended by the
+4 dealer agreement due to the results of conditions beyond the dealer's
+5 control, including drought, flood, labor disputes, or economic recession.
+6 This subdivision shall not apply if the dealer is in default of a
+7 security agreement in effect with the supplier; and
+8 (5) To condition the renewal or extension of a dealer agreement on
+9 (a) the dealer's substantial renovation of its place of business or the
+10 construction, purchase, acquisition, or rental of a new place of business
+11 by the dealer unless the supplier advises the dealer in writing of its
+12 demand for such renovation, construction, purchase, acquisition, or
+13 rental within a reasonable time prior to the effective date of the
+14 proposed renewal or extension, but in no case less than one year prior to
+15 such date, or (b) capital construction exceeding the terms of the dealer
+16 agreement in force and effect on May 2, 1991; .
+17 (6) To include any condition, stipulation, or provision in any
+18 dealer agreement purporting to waive compliance with any provision of the
+19 Equipment Business Regulation Act or any other provision of state law
+20 applying to such agreements; or
+21 (7) To include any provision in any dealer agreement restricting
+22 jurisdiction or venue to a forum outside this state or requiring the
+23 application of the laws of another state to disputes arising under the
+24 agreement.
+25 Sec. 29. Section 87-706, Reissue Revised Statutes of Nebraska, is
+26 amended to read:
+27 87-706 (1) A supplier shall provide for the availability of repair
+28 parts throughout the reasonable useful life of any equipment sold.
+29 (2) A supplier shall at least annually provide dealers an
+30 opportunity to return surplus repair parts for credit without
+31 restrictions as follows:
+-44-
+
+LB838 LB838
+2026 2026
+1 (a)(i) The supplier may notify the dealers of a surplus parts return
+2 program for a time period of at least sixty days in duration during which
+3 dealers may submit a list of their surplus parts and return the parts to
+4 the supplier; or
+5 (ii) If twelve months have elapsed and the supplier has not notified
+6 a dealer of a surplus parts return program, the dealer may submit to the
+7 supplier a request to return surplus parts and the supplier shall allow
+8 the dealer to return the parts within thirty days after receipt of the
+9 request;
+10 (b) Subject to the other provisions of this section, a supplier
+11 shall allow a dealer to return parts with a dollar value equal to at
+12 least six percent of the total dollar value of parts purchased by the
+13 dealer from the supplier or the supplier's predecessor in interest during
+14 the twelve-month period immediately preceding either the notification to
+15 the dealer of the supplier's surplus parts return program or the month
+16 the dealer's return request is made, whichever is applicable. A dealer
+17 may elect to return a dollar value of parts equal to less than six
+18 percent of such total dollar value of parts purchased;
+19 (c) An obsolete or superseded part may not be returned, except that
+20 any part listed in the supplier's current list of returnable parts and
+21 any superseded part that has not been the subject of a surplus parts
+22 return program as of the date of notification to the dealer by the
+23 supplier of the current surplus parts return program or the date of the
+24 dealer's request to return surplus parts, whichever is applicable, shall
+25 be eligible for return;
+26 (d) To be eligible for return, parts must be in new and unused
+27 condition and must have been purchased by the dealer from the supplier to
+28 whom they are returned or the supplier's predecessor in interest;
+29 (e) The supplier shall allow credit for a returned part of at least
+30 eighty-five percent of the current price of the part as listed in the
+31 supplier's effective price list or catalog at the date of the
+-45-
+
+LB838 LB838
+2026 2026
+1 notification to the dealer by the supplier of the surplus parts return
+2 program or the date of the dealer's request to return surplus parts,
+3 whichever is applicable, or, if there is no effective price list or
+4 catalog, in the supplier's invoices;
+5 (f) The supplier shall issue credit to the dealer within ninety days
+6 after receipt of the parts returned by the dealer;
+7 (g) The dealer shall be presumed to have purchased the returned
+8 parts from the supplier or the supplier's predecessor in interest, and
+9 the burden shall be on the supplier to prove otherwise;
+10 (h) The provisions of this section shall be supplemental to any
+11 agreement between the dealer and the supplier covering the return of
+12 parts which provides the dealer with greater protection;
+13 (i) Nothing in this section shall be construed to affect the
+14 existence or enforcement of a security interest which any person may have
+15 in the parts of the dealer; and
+16 (j) Nothing in this section shall preclude a credit for returned
+17 parts which is greater than the total amount authorized by this section.
+18 (3) The annual parts return provided for in subsection (2) of this
+19 section may be waived by a dealer. If a majority of dealers from a single
+20 supplier choose to waive the provisions of such subsection, the supplier
+21 shall be exempt from such subsection.
+22 Sec. 30. Section 87-709, Reissue Revised Statutes of Nebraska, is
+23 amended to read:
+24 87-709 (1) A term of a dealer agreement which is inconsistent with
+25 the terms of the Equipment Business Regulation Act is contrary to public
+26 policy and is shall be void and unenforceable and shall not waive any
+27 rights which are provided to a person by the act.
+28 (2) A dealer may bring an action against a supplier in any court of
+29 competent jurisdiction for damages sustained by the dealer as a
+30 consequence of the supplier's violation of the act together with the
+31 actual costs of the action, including reasonable attorney's fees. The
+-46-
+
+LB838 LB838
+2026 2026
+1 dealer may also be granted injunctive relief against unlawful
+2 termination, cancellation, nonrenewal, or change in competitive
+3 circumstances. The remedies authorized by this section shall not be
+4 exclusive and shall be in addition to any other remedies provided by law.
+5 Sec. 31. Section 87-1301, Revised Statutes Supplement, 2025, is
+6 amended to read:
+7 87-1301 Sections 87-1301 to 87-1309 and sections 33 and 34 of this
+8 act shall be known and may be cited as the Age-Appropriate Online Design
+9 Code Act.
+10 Sec. 32. Section 87-1302, Revised Statutes Supplement, 2025, is
+11 amended to read:
+12 87-1302 For purposes of the Age-Appropriate Online Design Code Act:
+13 (1) Actual knowledge includes all information and inferences known
+14 to the covered online service relating to the age of the individual,
+15 including, but not limited to, self-identified age, and any age the
+16 covered online service has attributed or associated with the individual
+17 for any purpose, including marketing, advertising, or product
+18 development. If a covered online service's classification of an
+19 individual for purposes of marketing or advertising is inconsistent with
+20 the individual's self-identified age, a covered online service shall
+21 disregard self-identified age for purposes of the act;
+22 (2) Child means an individual younger than thirteen years of age;
+23 (3) Covered design feature means any feature or component of a
+24 covered online service that will encourage or increase the frequency,
+25 time spent, or activity of a user on the covered online service and
+26 includes:
+27 (a) Infinite scroll or a design feature where content automatically
+28 and continuously loads at the bottom of a screen, other than what the
+29 user explicitly prompted, requested, or searched for;
+30 (b) Auto-playing video or audio, or a design feature in which a
+31 video or audio automatically begins playing when a user navigates to or
+-47-
+
+LB838 LB838
+2026 2026
+1 scrolls through a set of videos without any explicit action on the part
+2 of a user indicating the user's desire to watch that specific video or
+3 listen to that audio;
+4 (c) Quantification of engagement, including, but not limited to,
+5 providing a visible count of how many likes, comments, clicks, views, or
+6 reactions a user-generated item has received;
+7 (d) Gamification, or a design feature that emulates gameplay,
+8 including, but not limited to, a streak, badge, or reward that motivates
+9 or causes more frequent or more extensive use of an online service
+10 through incentives or frequency of use;
+11 (e) The use of clustering, timing, or volume of notifications or
+12 push alerts, irrespective of content;
+13 (f) A design feature in which virtual currencies are used or where
+14 digital items are purchased;
+15 (g) Image-altering filters or a design feature that facilitates a
+16 false perception of an image;
+17 (h) Requiring or repeatedly prompting for account creation in order
+18 to access publicly available user-generated content;
+19 (i) Using ephemerality to prompt the urgent use of an online
+20 service;
+21 (j) Creating barriers to deleting an account or to removing
+22 connections to other users of the service; or
+23 (k) A feature that increases usage through the illusion of talking
+24 with a human being that seeks to elicit feelings of intimacy from the
+25 user;
+26 (a) Infinite scroll;
+27 (b) Rewards or incentives for frequency of visits or time spent on
+28 the covered online service;
+29 (c) Notifications or push alerts;
+30 (d) In-game purchases; or
+31 (e) Appearance-altering filters;
+-48-
+
+LB838 LB838
+2026 2026
+1 (4) Covered minor means a user that a covered online service knows
+2 to be a minor;
+3 (5)(a) Covered online service means a sole proprietorship, a limited
+4 liability company, a corporation, an association, or any other legal
+5 entity that owns, operates, controls, or provides an online service that:
+6 (i) Conducts business in this state;
+7 (ii) Generates a majority of its annual revenue from online
+8 services;
+9 (iii) (ii) Alone, or jointly with its affiliates, subsidiaries, or
+10 parent companies, determines the purposes and means of the processing of
+11 consumers' personal data; and
+12 (iv) Satisfies at least one of the following:
+13 (A) (iii) Has annual gross revenue in excess of twenty-five million
+14 dollars, adjusted every odd-numbered year to reflect changes in the
+15 Consumer Price Index for All Urban Consumers published by the Federal
+16 Bureau of Labor Statistics for the two-year period preceding the
+17 adjustment date. The amount shall be rounded to the next highest one-
+18 thousand-dollar amount; or
+19 (B) (iv) Annually processes buys, receives, sells, or shares the
+20 personal data of fifty thousand or more consumers, households, or
+21 devices, alone or in combination with its affiliates, subsidiaries, or
+22 parent companies. ; and
+23 (v) Derives at least fifty percent of its annual revenue from the
+24 sale or sharing of consumers' personal data.
+25 (b) A covered online service includes:
+26 (i) An entity that controls or is controlled by a business that
+27 meets the definition of covered online service if the entity and business
+28 share a name, service mark, or trademark that would cause a reasonable
+29 consumer to understand that the entity and business are commonly owned;
+30 and
+31 (ii) For a covered online service that is a joint venture or
+-49-
+
+LB838 LB838
+2026 2026
+1 partnership, any person with an ownership interest of forty percent or
+2 more in such venture or partnership.
+3 (c) A covered online service does not include (i) an online service
+4 with actual knowledge that fewer than two percent of its users are
+5 minors, provided that, in making such assessment, an online service shall
+6 not be required to collect personal data of users, and if an online
+7 service collects personal data of users for such purpose, it shall not
+8 use such personal data for other purposes or (ii) a financial institution
+9 subject to Title V of the Gramm-Leach-Bliley Act or any regulations
+10 adopted in accordance with such act and shall delete such personal data
+11 after using it to make the assessment;
+12 (6) Dark pattern means a user interface designed or manipulated with
+13 the effect of substantially subverting or impairing user autonomy,
+14 decisionmaking, or choice. Dark pattern includes any practice determined
+15 to be a dark pattern by the Federal Trade Commission as of January 1,
+16 2024;
+17 (7) Knows to be a child or knows to be a minor means actual
+18 knowledge that the user is a child or minor, as applicable;
+19 (8) Minor means an individual younger than eighteen years of age;
+20 (9) Online service means any service, product, or feature that is
+21 accessible to the public via the Internet, including a website or
+22 application. An online service does not include any of the following:
+23 (a) A telecommunications service as defined in 47 U.S.C. 153;
+24 (b) A broadband Internet access service as defined in 47 C.F.R.
+25 8.1(b); or
+26 (c) The sale, delivery, or use of a physical device;
+27 (10) Parent has the same meaning as in the federal Children's Online
+28 Privacy Protection Act of 1998, 15 U.S.C. 6501 et seq., and the Federal
+29 Trade Commission rules implementing such act;
+30 (11) Personal data means any information, including derived data and
+31 unique identifiers, that is linked or reasonably linkable, alone or in
+-50-
+
+LB838 LB838
+2026 2026
+1 combination with other information, to an identified or identifiable
+2 individual or to a device that identifies, is linked to, or is reasonably
+3 linkable to one or more identified or identifiable individuals in a
+4 household. Personal data does not include publicly available data;
+5 (12) Personalized recommendation system means a fully or partially
+6 automated system used to suggest, promote, or rank content, including
+7 other users, hashtags, or posts, based on the personal data of users;
+8 (13) Precise geolocation information means any data that identifies
+9 within a radius of one thousand seven hundred fifty feet a covered
+10 minor's present or past location or the present or past location of a
+11 device that links or is linkable to a covered minor or any data that is
+12 derived from a device that is used or intended to be used to locate a
+13 covered minor within a radius of one thousand seven hundred fifty feet by
+14 means of technology that includes a global positioning system that
+15 provides latitude and longitude coordinates. Precise geolocation
+16 information does not include the content of communications or any data
+17 generated or connected to advanced utility metering infrastructure
+18 systems or equipment for use by a utility;
+19 (14) Process means to perform an operation or set of operations by
+20 manual or automated means on personal data. Process includes collecting,
+21 using, storing, disclosing, sharing, analyzing, deleting, or modifying
+22 personal data;
+23 (15) Profile means any form of automated processing of personal data
+24 to evaluate, analyze, or predict certain aspects relating to a covered
+25 minor, including a covered minor's economic situation, health, personal
+26 preferences, interests, reliability, behavior, location, or movements;
+27 (16) Publicly available data means data (a) that is lawfully made
+28 available from federal, state, or local government records, (b) that a
+29 business has a reasonable basis to believe is lawfully made available to
+30 the general public by the individual or from widely distributed media, or
+31 (c) that is made available by a person to whom the individual has
+-51-
+
+LB838 LB838
+2026 2026
+1 disclosed the data if the individual has not restricted the data to a
+2 specific audience. Publicly available data does not mean biometric data
+3 collected by a covered online service about a covered minor without the
+4 covered minor's knowledge;
+5 (17) Targeted advertising means displaying advertisements to an
+6 individual when the advertisement is selected based on personal data
+7 obtained or inferred from that individual's activities over time and
+8 across nonaffiliated websites or online applications to predict the
+9 individual's preferences or interest. Targeted advertising does not
+10 include:
+11 (a) Advertisements based on activities within a covered online
+12 service's own Internet websites or online applications;
+13 (b) Advertisements based on the context of an individual's current
+14 search query, visit to an Internet website, or use of an online
+15 application;
+16 (c) Advertisements directed to an individual in response to the
+17 individual's request for information or feedback; or
+18 (d) Processing personal data solely to measure or report advertising
+19 frequency, performance, or reach; and
+20 (18) User means, with respect to a covered online service, an
+21 individual who registers an account or creates a profile on the covered
+22 online service.
+23 Sec. 33. A covered online service shall not:
+24 (1) Provide a covered minor with a single setting that makes all of
+25 the default privacy settings less protective at once; or
+26 (2) Request or prompt a covered minor to make the covered minor's
+27 privacy settings less protective, unless the change is strictly necessary
+28 for the covered minor to access a service or feature that such covered
+29 minor has expressly and unambiguously requested.
+30 Sec. 34. A covered online service shall:
+31 (1) Provide a prominent, accessible, and responsive tool to allow a
+-52-
+
+LB838 LB838
+2026 2026
+1 covered minor to request that the covered minor's account be unpublished
+2 or deleted; and
+3 (2) Honor a request under subdivision (1) of this section no later
+4 than fifteen days after the covered online service receives the request.
+5 Sec. 35. Section 87-1304, Revised Statutes Supplement, 2025, is
+6 amended to read:
+7 87-1304 (1) A covered online service shall provide each covered
+8 minor with accessible and easy-to-use tools that accomplish the following
+9 with respect to covered design features:
+10 (a) Limit the ability of other users or visitors to communicate with
+11 the covered minor;
+12 (b) Prevent other individuals from viewing the personal data of the
+13 covered minor;
+14 (c) Control the operation of all design features, including, but not
+15 limited to, all covered design features, that are unnecessary in order to
+16 provide the covered online service by allowing a covered minor to opt out
+17 of the use of all unnecessary covered design features or categories of
+18 unnecessary covered design features;
+19 (d) Control personalized recommendation systems by allowing a
+20 covered minor to opt in to a chronological feed or by preventing
+21 categories of content from being recommended;
+22 (e) Control the use of in-game purchases or other transactions by
+23 allowing a covered minor to opt out of all such purchases and
+24 transactions or to place limits on such purchases and transactions; and
+25 (f) Restrict the sharing of the precise geolocation information of
+26 the covered minor and provide notice regarding tracking of the covered
+27 minor's precise geolocation information.
+28 (2) A covered online service shall provide a covered minor with
+29 accessible and easy-to-use options to limit the amount of time the
+30 covered minor spends on the covered online service.
+31 (3) A covered online service shall establish default settings for
+-53-
+
+LB838 LB838
+2026 2026
+1 the safeguards required by subsection (1) of this section at the option
+2 or level that provides the highest protection available for the safety of
+3 the covered minor.
+4 Sec. 36. Section 87-1305, Revised Statutes Supplement, 2025, is
+5 amended to read:
+6 87-1305 (1) A covered online service shall only collect and use the
+7 minimum amount of a covered minor's personal data necessary to provide
+8 the specific elements of an online service with which the covered minor
+9 has knowingly engaged. Such personal data shall not be used for reasons
+10 other than those for which it was collected.
+11 (2) A covered online service shall not be required to collect the
+12 personal data of a user to comply with the Age-Appropriate Online Design
+13 Code Act. A covered online service that collects personal data of a user
+14 for age verification cannot use such personal data for other purposes and
+15 shall delete such personal data after use for age verification.
+16 (3) A covered online service shall only retain the personal data of
+17 a covered minor as long as necessary to provide the specific elements of
+18 an online service with which the covered minor has knowingly engaged.
+19 (4) A covered online service shall not facilitate targeted
+20 advertising to a covered minor.
+21 (5) A covered online service shall provide an obvious sign to a
+22 covered minor when precise geolocation information is being collected or
+23 used.
+24 (6) The use of notifications and push alerts to a covered minor is
+25 prohibited between the hours of 10 p.m. and 6 a.m. and between the hours
+26 of 8 a.m. and 4 p.m. on week days during the school year in the covered
+27 minor's local time zone.
+28 (7) A covered online service shall not profile a covered minor
+29 unless profiling is necessary to provide a covered online service
+30 requested by such covered minor, and only with respect to the aspects of
+31 the covered online service with which the covered minor is actively and
+-54-
+
+LB838 LB838
+2026 2026
+1 knowingly engaged.
+2 (8) A covered online service shall ensure that the default settings
+3 for the protections required pursuant to this section are set at the
+4 highest protection available for the safety of the covered minor.
+5 (9) If a covered online service allows parental monitoring, the
+6 covered online service shall provide an obvious signal to a covered minor
+7 when such minor is being monitored.
+8 Sec. 37. Section 87-1306, Revised Statutes Supplement, 2025, is
+9 amended to read:
+10 87-1306 (1) A covered online service shall provide parents with
+11 tools to help parents protect and support minors using covered design
+12 features of the covered online service. Such parental tools shall be
+13 enabled by default for an individual the covered online service knows to
+14 be a child.
+15 (2) A With respect to covered design features, a covered online
+16 service shall provide parents the ability to do the following for an
+17 individual the covered online service knows to be a child or minor, as
+18 applicable:
+19 (a) Manage the child's privacy and account settings in a manner that
+20 allows parents to:
+21 (i) View the child's account settings; and
+22 (ii) Change and control privacy and account settings of the child;
+23 (b) Restrict purchases and financial transactions of the minor; and
+24 (c) Enable parents to view the total time the child has spent on a
+25 covered online service and place reasonable limits on such child's use of
+26 the covered online service. Among such protections, a covered online
+27 service shall offer parents the ability to restrict a child's use of the
+28 covered online service during times of day specified by the parents,
+29 including during school hours and at night.
+30 (3) A covered online service shall notify a covered minor of a
+31 covered design feature when any of the tools described in this section
+-55-
+
+LB838 LB838
+2026 2026
+1 are in effect and describe what settings have been applied.
+2 Sec. 38. Section 87-1308, Revised Statutes Supplement, 2025, is
+3 amended to read:
+4 87-1308 (1) A covered online service is prohibited from facilitating
+5 advertisements for prohibited products, such as narcotic drugs, tobacco
+6 products, gambling, and alcohol, to covered minors.
+7 (2) A covered online service is prohibited from using dark patterns
+8 to subvert or impair covered minor autonomy, decisionmaking, or choice.
+9 Sec. 39. (1) Any person selling goods or services in a cash
+10 transaction, entering into any transaction that results in a payment or
+11 transfer of cash between the parties to the transaction, or paying cash
+12 wages to an employee as compensation:
+13 (a) Except as provided in subdivision (1)(c) of this section, in any
+14 case in which the total cash transaction amount, including any taxes,
+15 fees, surcharges, assessments, and other governmental charges, or the
+16 final cash amount paid out or returned to a customer or employee ends
+17 with one, two, six, or seven as the final digit of the number of cents
+18 for the transaction, may round down such number of cents to the nearest
+19 number of cents divisible by five;
+20 (b) In any case in which the total cash transaction amount,
+21 including any taxes, fees, surcharges, assessments, and other
+22 governmental charges, or the final cash amount paid out or returned to a
+23 customer or employee ends with three, four, eight, or nine as the final
+24 digit of the number of cents for the transaction, may round up such
+25 number of cents to the nearest number of cents divisible by five; and
+26 (c) In any case in which the total cash transaction amount,
+27 including any taxes, fees, surcharges, assessments, and other
+28 governmental charges, or the final cash amount paid out or returned to a
+29 customer or employee totals one cent or two cents, shall round up the
+30 transaction amount to five cents.
+31 (2) This section shall not apply to any transaction for which
+-56-
+
+LB838 LB838
+2026 2026
+1 payment is made by any demand or negotiable instrument, electronic fund
+2 transfer, check, gift card, money order, credit card, or other similar
+3 instrument or method, except to the extent cash is disbursed to a
+4 customer or employee.
+5 (3) Any person rounding under this section shall use either (a) the
+6 method of rounding under this section that uses the total cash
+7 transaction amount, including any taxes, fees, surcharges, assessments,
+8 and other governmental charges, or (b) the method of rounding under this
+9 section that uses the final cash amount paid out or returned to a
+10 customer or employee for all transactions by such person at any single
+11 premise and shall not use both methods at such premise.
+12 (4)(a) Rounding under this section shall be applied solely to the
+13 final settled cash amount paid by, paid out to, or returned to a customer
+14 or employee. Rounding under this section shall not alter:
+15 (i) The sales price of any good or service;
+16 (ii) The amount of any tax calculated or imposed under state or
+17 local law; and
+18 (iii) Any regulatory fee, government-imposed fee, surcharge,
+19 assessment, or other charge required by law.
+20 (b) The amounts described in subdivisions (4)(a)(i), (ii), and (iii)
+21 of this section shall be calculated and imposed in the exact amount
+22 otherwise required, without rounding.
+23 (5) In a transaction involving both cash and noncash forms of
+24 payment, payment by noncash or electronic means shall be applied first to
+25 the amount due, with any remaining balance payable in cash.
+26 (6) Any person selling goods or services shall calculate and remit
+27 all taxes, fees, and other charges, whether imposed by state or local
+28 taxing authorities or by such persons, based on the sales price prior to
+29 any rounding under this section.
+30 (7) Any person selling goods or services shall not be in violation
+31 of any state or local requirements, laws, regulations, or standards based
+-57-
+
+LB838 LB838
+2026 2026
+1 on any action taken in compliance with this section.
+2 (8) Notwithstanding any other provision of law to the contrary,
+3 including section 77-1737, any rounding under this section shall be
+4 considered an administrative settlement of the physical payment and shall
+5 not be construed as a release, discharge, remission, or commutation of
+6 any tax, fee, or assessment within the meaning of Article VIII, section
+7 4, of the Constitution of Nebraska. The underlying tax liability for any
+8 transaction where rounding under this section applies remains the exact
+9 amount calculated prior to such rounding, and any difference resulting
+10 from the settlement of a cash transaction shall be accounted for as an
+11 administrative adjustment for the physical impossibility of exact
+12 currency exchange.
+13 Sec. 40. Sections 9 and 10 of this act become operative on July 1,
+14 2026. Sections 27 and 42 of this act become operative on January 1, 2027.
+15 Sections 1, 2, 3, 4, 5, 6, 7, 8, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20,
+16 21, 22, 23, 24, 25, 26, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, and
+17 43 of this act become operative three calendar months after the
+18 adjournment of this legislative session. The other sections of this act
+19 become operative on their effective date.
+20 Sec. 41. If any section in this act or any part of any section is
+21 declared invalid or unconstitutional, the declaration shall not affect
+22 the validity or constitutionality of the remaining portions.
+23 Sec. 42. Original section 87-302, Revised Statutes Supplement,
+24 2025, is repealed.
+25 Sec. 43. Original sections 8-2901, 25-2701, 30-2301, 30-2302,
+26 30-2322, 30-2323, 30-2325, 30-3803, 30-38,103, 77-3503, 87-704, 87-706,
+27 and 87-709, Reissue Revised Statutes of Nebraska, sections 30-3801 and
+28 77-2004, Revised Statutes Cumulative Supplement, 2024, and sections
+29 8-2701, 8-2702, 8-2711, 8-2742, 8-2903, 87-1301, 87-1302, 87-1304,
+30 87-1305, 87-1306, and 87-1308, Revised Statutes Supplement, 2025, are
+31 repealed.
+-58-
+
+LB838 LB838
+2026 2026
+1 Sec. 44. Since an emergency exists, this act takes effect when
+2 passed and approved according to law.
+-59-

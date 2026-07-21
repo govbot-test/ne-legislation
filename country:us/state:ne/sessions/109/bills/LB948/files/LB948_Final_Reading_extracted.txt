@@ -1,0 +1,1248 @@
+Title: 
+Official Title: 
+Source: versions - Final Reading
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LB948 LB948
+2026 2026
+LEGISLATURE OF NEBRASKA
+ONE HUNDRED NINTH LEGISLATURE
+SECOND SESSION
+LEGISLATIVE BILL 948
+FINAL READING
+Introduced by Agriculture Committee: DeKay, 40, Chairperson; Hansen, 16;
+Holdcroft, 36; Kauth, 31; McKeon, 41; Storm, 23.
+Read first time January 09, 2026
+Committee: Agriculture
+1 A BILL FOR AN ACT relating to agriculture; to amend sections 2-1091,
+2 2-1091.02, 2-1095, 2-10,117, 2-2634, 2-3401, 2-4323, 2-4324,
+3 49-1499.02, 81-201, 81-2,162.01, 81-2,162.02, 81-2,162.03,
+4 81-2,162.04, 81-2,162.05, 81-2,162.06, 81-2,162.07, 81-2,162.11,
+5 81-2,162.12, 81-2,162.13, 81-2,162.14, 81-2,162.15, 81-2,162.16,
+6 81-2,162.17, 81-2,162.18, 81-2,162.20, 81-2,162.21, 81-2,162.22,
+7 81-2,162.23, 81-2,162.25, 81-2,162.26, 81-2,162.27, and 81-2,162.28,
+8 Reissue Revised Statutes of Nebraska, and section 2-958, Revised
+9 Statutes Cumulative Supplement, 2024; to change provisions and fees
+10 under the Plant Protection and Plant Pest Act; to provide for the
+11 transfer of funds from the Nebraska Potato Development Fund; to
+12 change fees under the Pesticide Act; to change powers of the
+13 Department of Agriculture relating to the Weeds of the Great Plains
+14 book; to provide for the transfer of funds and the elimination of
+15 the Weed Book Cash Fund; to terminate the Nebraska Poultry and Egg
+16 Resources Act; to change the Nebraska Commercial Fertilizer and Soil
+17 Conditioner Act to the Nebraska Commercial Fertilizer and Beneficial
+18 Substances Act; to define and redefine terms; to provide for the use
+19 of beneficial substances; to change and provide provisions of the
+20 Nebraska Commercial Fertilizer and Beneficial Substances Act
+21 relating to registration of products, package labeling, fees,
+-1-
+
+LB948 LB948
+2026 2026
+1 distribution, and manufacturing; to change the Fertilizers and Soil
+2 Conditioners Administrative Fund to the Fertilizers and Beneficial
+3 Substances Administrative Fund and change provisions relating to
+4 such fund; to eliminate references to soil conditioners; to
+5 eliminate provisions relating to certain agricultural associations
+6 or societies, certain qualifying organizations, the Nebraska
+7 Dairymen's Association, the State Horticultural Society, the
+8 Nebraska Livestock Feeders and Breeders Association, the Nebraska
+9 Home Economics Association of Organized Agriculture, the Western
+10 Nebraska Organized Agriculture Association, the Nebraska Poultry
+11 Improvement Association, the Nebraska Potato Council, and certain
+12 appropriations authorization; to eliminate obsolete provisions; to
+13 harmonize provisions; to repeal the original sections; to outright
+14 repeal sections 2-2801, 2-2802, 2-2803, 2-2804, 2-2805, 2-2806,
+15 2-2807, 2-2809, 2-2810, 2-2811, 2-2812, and 81-201.05, Reissue
+16 Revised Statutes of Nebraska; and to declare an emergency.
+17 Be it enacted by the people of the State of Nebraska,
+-2-
+
+LB948 LB948
+2026 2026
+1 Section 1. Section 2-958, Revised Statutes Cumulative Supplement,
+2 2024, is amended to read:
+3 2-958 (1) A noxious weed control fund may be established for each
+4 control authority, which fund shall be available for expenses authorized
+5 to be paid from such fund, including necessary expenses of the control
+6 authority in carrying out its duties and responsibilities under the
+7 Noxious Weed Control Act. The weed control superintendent within the
+8 county shall (a) ascertain and tabulate each year the approximate amount
+9 of land infested with noxious weeds and its location in the county, (b)
+10 ascertain and prepare all information required by the county board in the
+11 preparation of the county budget, including actual and expected revenue
+12 from all sources, cash balances, expenditures, amounts proposed to be
+13 expended during the year, and working capital, and (c) transmit such
+14 information tabulated by the control authority to the county board not
+15 later than June 1 of each year.
+16 (2) The Noxious Weed Cash Fund is created. The fund shall consist of
+17 proceeds raised from fees imposed for the registration of pesticides and
+18 earmarked for the fund pursuant to section 2-2634, funds credited or
+19 transferred pursuant to sections 2-509, 2-518, and 81-201, and 81-201.05,
+20 any gifts, grants, or donations from any source, and any reimbursement
+21 funds for control work done pursuant to subdivision (1)(b)(vi) of section
+22 2-954. An amount from the General Fund may be appropriated annually for
+23 the Noxious Weed Control Act. The fund shall be administered and used by
+24 the director to maintain the noxious weed control program and for
+25 expenses directly related to the program. Until January 1, 2025, the fund
+26 may also be used to defray all reasonable and necessary costs related to
+27 the administration of the Nebraska Hemp Farming Act.
+28 (3) Any money in the fund available for investment shall be invested
+29 by the state investment officer pursuant to the Nebraska Capital
+30 Expansion Act and the Nebraska State Funds Investment Act.
+31 Sec. 2. Section 2-1091, Reissue Revised Statutes of Nebraska, is
+-3-
+
+LB948 LB948
+2026 2026
+1 amended to read:
+2 2-1091 For the purpose of implementation or enforcement of the Plant
+3 Protection and Plant Pest Act or any rule or regulation, the department
+4 may:
+5 (1) Enter at reasonable times and in a reasonable manner without
+6 being subject to any action for trespass or damages, if reasonable care
+7 is exercised, all property where plants are grown, packed, held prior to
+8 distribution, or distributed for the purpose of inspecting all plants,
+9 structures, vehicles, equipment, packing materials, containers, records,
+10 and labels on such property or otherwise implementing or enforcing the
+11 act. The department may inspect and examine all records and property
+12 relating to compliance with the act. Such records and property shall be
+13 made available to the department for review at all reasonable times;
+14 (2) In a reasonable manner, hold for inspection and take samples of
+15 any plants and associated materials which may not be in compliance with
+16 the act;
+17 (3) Inspect or reinspect at any time or place any plants that are in
+18 the state or being shipped into or through the state and treat, seize,
+19 destroy, require treatment or destruction of, or return to the state of
+20 origin any plants in order to inhibit or prevent the movement of plant
+21 pests throughout the state;
+22 (4) Obtain an inspection warrant in the manner prescribed in
+23 sections 29-830 to 29-835 from a court of record if any person refuses to
+24 allow the department to inspect pursuant to this section;
+25 (5) Issue a written or printed withdrawal-from-distribution order
+26 and post signs to delineate sections not marked pursuant to subsection
+27 (3) of section 2-1095 or sections of distribution locations and to notify
+28 persons of any withdrawal-from-distribution order when the department has
+29 reasonable cause to believe any lot of nursery stock is being distributed
+30 in violation of the act or any rule or regulation;
+31 (6) Apply for a restraining order, a temporary or permanent
+-4-
+
+LB948 LB948
+2026 2026
+1 injunction, or a mandatory injunction against any person violating or
+2 threatening to violate the act or the rules and regulations. The district
+3 court of the county where the violation is occurring or is about to occur
+4 shall have jurisdiction to grant such relief upon good cause shown.
+5 Relief may be granted notwithstanding the existence of any other remedy
+6 at law and shall be granted without bond;
+7 (7) Issue a quarantine or establish a quarantine area;
+8 (8) Cooperate and enter into agreements, including harmonization
+9 plans, with any person in order to carry out the purpose of the act;
+10 (9) Establish a restricted plant pest list to prohibit the movement
+11 into the state of plant pests not known to occur in Nebraska and to
+12 prohibit the movement of those plant pests present in the state but known
+13 to be destructive to the plant industry;
+14 (10) Issue European corn borer quarantine certificates,
+15 phytosanitary certificates, and export certificates on plants for
+16 individual shipment to other states or foreign countries if those plants
+17 comply with the requirements or regulations of such state or foreign
+18 country or issue quarantine compliance agreements or European corn borer
+19 quarantine certification licenses;
+20 (11) Inspect plants that any person desires to ship into another
+21 state or country when such person has made an application to the
+22 department for such inspection. The inspection shall determine the
+23 presence of plant pests to determine the acceptance of the plants into
+24 other states or countries. The department may accept the inspections of
+25 laboratories authorized by the department or field inspectors of the
+26 department;
+27 (12) Certify plants or property to meet the requirements of specific
+28 quarantines imposed on Nebraska or Nebraska plants. The quarantine
+29 certification requirements shall be set forth in the rules and
+30 regulations;
+31 (13) Assess Until increased or decreased by rules or regulations,
+-5-
+
+LB948 LB948
+2026 2026
+1 assess and collect fees set forth in section 2-1091.02 for inspections,
+2 services, or work performed in carrying out subdivisions (8) and (10)
+3 through (12) of this section. Inspection time shall be determined based
+4 on any portion of a whole hour and shall include the driving to and from
+5 the location of the inspection in addition to the time spent conducting
+6 the inspection, and the mileage charge shall be for the purpose of
+7 inspection. Any fee charged to the department relating to such
+8 subdivisions shall be paid by the person requesting the inspection,
+9 services, or work. The department may, for purposes of administering such
+10 subdivisions, establish in rules and regulations inspection requirements,
+11 standards, and issuance, renewal, or revocation of licenses,
+12 certificates, or agreements necessitated by such subdivisions;
+13 (14) Conduct continuing survey and detection programs on plant pests
+14 to monitor the population or spread of plant pests;
+15 (15) Implement programs or plans to eradicate, manage, treat, or
+16 control plant pests;
+17 (16) Issue, place on probation, suspend, or revoke licenses issued
+18 or agreements entered into pursuant to the act or deny applications for
+19 such licenses or agreements pursuant to the act; and
+20 (17) Issue orders imposing administrative fines or cease and desist
+21 orders pursuant to the act.
+22 Sec. 3. Section 2-1091.02, Reissue Revised Statutes of Nebraska, is
+23 amended to read:
+24 2-1091.02 (1) Fees under License fees for the Plant Protection and
+25 Plant Pest Act that are due on January 1, 2027 2014, shall be the amount
+26 in column A of subsection (3) of this section.
+27 (2) The license fees due January 1, 2028 2015, and each January 1
+28 thereafter shall be set by the director on or before July 1 of each year.
+29 The director may raise or lower such fees each year to meet the criteria
+30 in this subsection, but the fee shall not be greater than the amount in
+31 column B of subsection (3) of this section. The same percentage shall be
+-6-
+
+LB948 LB948
+2026 2026
+1 applied to each category for all fee increases or decreases. The director
+2 shall use the fees in column A of subsection (3) of this section as a
+3 base for future fee increases or decreases. The director shall determine
+4 the fees based on estimated annual revenue and fiscal year-end cash fund
+5 balances as follows:
+6 (a) The estimated annual revenue shall not be greater than one
+7 hundred seven percent of program cash fund appropriations allocated for
+8 the Plant Protection and Plant Pest Act; and
+9 (b) The estimated fiscal year-end cash fund balance shall not be
+10 greater than seventeen percent of program cash fund appropriations
+11 allocated for the act.
+12 (3) License Fees.
+13 Fees A B
+14 Nursery stock
+15 distributor license
+16 as set forth in
+17 section 2-1091.01
+18 for the first acre $140 $180
+19 Fee for additional acres $39 per acre $50 per acre
+20 Inspection fees due
+21 under section $39 per hour $50 per hour
+22 2-1091 or 2-1095 $0.70 per mile $1.00 per mile
+23 Phytosanitary or
+24 export certificates
+$106 per
+25 set forth in section 2-1091 $60 per certificate
+certificate
+26 European corn borer
+27 quarantine certification
+28 license set forth in $65 per license, $80 per license,
+29 section 2-1091 annually annually
+-7-
+
+LB948 LB948
+2026 2026
+1 European corn borer $25 for $35 for
+2 certificate packet of 25 packet of 25
+3 Quarantine compliance
+4 agreements as set $65 per agreement, $80 per agreement,
+5 forth in section 2-1091 annually annually
+6 License Fees A B
+7 Nursery stock
+8 distributor license
+9 as set forth in
+10 section 2-1091.01
+11 for the first acre $115 $140
+12 Fee for additional acres $5.00 per acre $6.00 per acre
+13 Distributing without 25% of the fee
+14 obtaining a nursery per month up to
+15 stock distributor 100% of the
+16 license fee license fee
+17 (4) Other fees for the Plant Protection and Plant Pest Act under
+18 subsection (5) of this section in effect on January 1, 2014, shall be the
+19 amount in column A of such subsection. The department may increase or
+20 decrease such fees by rules or regulations adopted and promulgated by the
+21 department. Such increases shall not result in fees greater than the
+22 amount in column B of subsection (5) of this section.
+23 (5) Other Fees.
+24 Other Fees A B
+25 Certification fee for
+26 nursery stock growing
+27 acres as set forth in Included in
+28 section 2-1095 license fee
+29 Late applications for
+30 certification of nursery $24 per hour $27 per hour
+-8-
+
+LB948 LB948
+2026 2026
+1 stock growing acres $0.42 per mile $0.50 per mile
+2 Reinspections or
+3 requested inspections $24 per hour $27 per hour
+4 for nursery stock $0.42 per mile $0.50 per mile
+5 Phytosanitary or $30 per certificate $40 per
+6 export certificates and $7 for taking certificate and
+7 set forth in an application $10 for taking
+8 section 2-1091 by telephone an application
+9 by telephone
+10 Phytosanitary or
+11 export certificate
+12 inspections and $24 per hour $27 per hour
+13 reinspections $0.42 per mile $0.50 per mile
+14 European corn borer
+15 quarantine certification
+16 license set forth in $50 per license, $65 per license,
+17 section 2-1091 annually annually
+18 European corn borer $6.25 for $10.00 for
+19 certificate packet of 25 packet of 25
+20 Quarantine compliance
+21 agreements as set $50 per agreement $65 per agreement
+22 forth in section 2-1091 annually annually
+23 Quarantine compliance
+24 agreement inspections $24 per hour $27 per hour
+25 and reinspections $0.42 per mile $0.50 per mile
+26 (4) A person that is distributing without first obtaining a nursery
+27 stock distributor license shall pay an additional fee of twenty-five
+28 percent of the license fee that is due for each month that such person
+29 failed to obtain such license.
+30 (5) (6) Any fee remaining unpaid for more than one month shall be
+-9-
+
+LB948 LB948
+2026 2026
+1 considered delinquent and the person owing the fee shall pay an
+2 additional administrative fee of twenty-five percent of the delinquent
+3 amount for each month it remains unpaid, not to exceed one hundred
+4 percent of the original amount due. The department may waive the
+5 additional administrative fee based upon the existence and extent of any
+6 mitigating circumstances that have resulted in the late payment of such
+7 fee. The purpose of the additional administrative fee is to cover the
+8 administrative costs associated with collecting fees, and all money
+9 collected as an additional administrative fee shall be remitted to the
+10 State Treasurer for credit to the Plant Protection and Plant Pest Cash
+11 Fund.
+12 Sec. 4. Section 2-1095, Reissue Revised Statutes of Nebraska, is
+13 amended to read:
+14 2-1095 (1) All nursery stock distributors that distribute any
+15 nursery stock that they grow shall apply for a certification an
+16 additional inspection for the certification of the Nebraska-grown nursery
+17 stock as provided in this section. The nursery stock distributor shall
+18 receive apply for such certification inspection of the Nebraska-grown
+19 nursery stock as part of the application for the nursery stock
+20 distributor license described in section 2-1091.01.
+21 (2)(a) Applications for certification inspection of Nebraska-grown
+22 nursery stock that are due on January 1 pursuant to section 2-1091.01 and
+23 are not received prior to February 1 and initial applications not
+24 received prior to beginning of distribution shall be considered
+25 delinquent. Such applications shall be accompanied with the have an
+26 inspection fee that is as set forth in section 2-1091.02.
+27 (b) Inspection time shall be determined based on any portion of a
+28 whole hour and shall include the driving time to and from the location of
+29 the inspection in addition to the time spent conducting the inspection,
+30 and the mileage charge shall be for the purpose of inspection.
+31 (3) Each nursery stock distributor shall post signs delineating
+-10-
+
+LB948 LB948
+2026 2026
+1 sections of all growing areas. A section shall be not larger than five
+2 acres.
+3 (4) All growing areas within the state shall be inspected by the
+4 department at least once per year for certification and compliance with
+5 the Plant Protection and Plant Pest Act.
+6 (5) Following the certification inspection of Nebraska-grown nursery
+7 stock, the department shall provide a copy of the plant inspection report
+8 to the nursery stock distributor specifying any area of the nursery from
+9 which nursery stock cannot be distributed or any plants which may not be
+10 distributed as nursery stock. When deemed necessary to maintain
+11 compliance with the purposes of the Plant Protection and Plant Pest Act,
+12 the department shall require the nursery stock distributor to withdraw
+13 from distribution any variety or amount of nursery stock. A reinspection
+14 may be conducted by the department at the nursery stock distributor's
+15 request and cost. The department may also reinspect to determine
+16 compliance with the act. To determine the cost of any reinspection, the
+17 department shall use fees as outlined in subsection (2) of this section.
+18 The nursery stock distributor shall comply with the recommendations of
+19 the department as to the treatment or destruction of nursery stock.
+20 (6) The department may require the treatment or destruction of any
+21 nursery stock that is infested or infected with plant pests, nonviable,
+22 damaged, or desiccated to the point of not being reasonably capable of
+23 growth.
+24 (7) Any nursery stock on which a withdrawal-from-distribution order
+25 has been issued shall be released for distribution only by authorized
+26 department employees or after written permission has been obtained from
+27 the department. Each nursery stock distributor shall promptly report to
+28 the department, in writing, the amount and type of plants treated or
+29 destroyed under requirements on withdrawal-from-distribution orders. The
+30 department may withhold a license or certification of Nebraska-grown
+31 nursery stock until conditions have been met by the nursery stock
+-11-
+
+LB948 LB948
+2026 2026
+1 distributor as specified in the plant inspection report or any other
+2 order issued by the department. A certification of Nebraska-grown stock
+3 may be issued covering portions of the nursery which are not infested or
+4 infected if the nursery stock distributor agrees to treat, destroy, or
+5 remove as specified by the department those plants found to be infested
+6 or infected.
+7 Sec. 5. Section 2-10,117, Reissue Revised Statutes of Nebraska, is
+8 amended to read:
+9 2-10,117 All money received from any source pursuant to the Plant
+10 Protection and Plant Pest Act shall be remitted by the department to the
+11 State Treasurer and by the State Treasurer credited to the Plant
+12 Protection and Plant Pest Cash Fund which is hereby created. The fund
+13 also shall include funds transferred pursuant to section 81-201.05. The
+14 fund shall be used by the department to aid in defraying the expenses of
+15 administering the act. Any money in the fund available for investment
+16 shall be invested by the state investment officer pursuant to the
+17 Nebraska Capital Expansion Act and the Nebraska State Funds Investment
+18 Act. The State Treasurer shall transfer any money in the Nebraska Potato
+19 Development Fund upon the termination of such fund to the Plant
+20 Protection and Plant Pest Cash Fund.
+21 Sec. 6. Section 2-2634, Reissue Revised Statutes of Nebraska, is
+22 amended to read:
+23 2-2634 (1) As a condition to registration or renewal of registration
+24 as required by sections 2-2628 to 2-2633, an applicant shall pay to the
+25 department a fee of two hundred one hundred sixty dollars for each
+26 pesticide to be registered, except that the fee may be increased or
+27 decreased by rules and regulations adopted and promulgated pursuant to
+28 the Pesticide Act. In no event shall such fee exceed two hundred fifty
+29 two hundred ten dollars for each pesticide to be registered.
+30 (2) All fees collected under subsection (1) of this section shall be
+31 remitted to the State Treasurer for credit as follows:
+-12-
+
+LB948 LB948
+2026 2026
+1 (a) Fifty Thirty dollars of such fee to the Noxious Weed Cash Fund
+2 as provided in section 2-958;
+3 (b) Fifty dollars of such fee to the Buffer Strip Incentive Fund as
+4 provided in section 2-5106;
+5 (c) Fifty-five dollars of such fee to the Natural Resources Water
+6 Quality Fund; and
+7 (d) The remainder of such fee to the Pesticide Administrative Cash
+8 Fund.
+9 (3) If a person fails to apply for renewal of registration before
+10 January 1 of any year, such person, as a condition to renewal, shall pay
+11 a late registration fee equal to twenty-five percent of the fee due and
+12 owing per month, not to exceed one hundred percent, for each product to
+13 be renewed in addition to the renewal fee. The purpose of the late
+14 registration fee is to cover the administrative costs associated with
+15 collecting fees, and all money collected as a late registration fee shall
+16 be remitted to the State Treasurer for credit to the Pesticide
+17 Administrative Cash Fund.
+18 Sec. 7. Section 2-3401, Reissue Revised Statutes of Nebraska, is
+19 amended to read:
+20 2-3401 Sections 2-3401 to 2-3416 shall be known and may be cited as
+21 the Nebraska Poultry and Egg Resources Act. The Nebraska Poultry and Egg
+22 Resources Act terminates on December 31, 2027.
+23 Sec. 8. Section 2-4323, Reissue Revised Statutes of Nebraska, is
+24 amended to read:
+25 2-4323 (1) Every retailer licensee shall file, not later than the
+26 last day of January and July of each year, a semiannual tonnage report on
+27 forms provided by the department, setting forth the number of net tons of
+28 each agricultural liming material sold in Nebraska during the preceding
+29 six-month period, which report shall cover the periods from July 1 to
+30 December 31 and January 1 to June 30, and such other information as the
+31 director shall deem necessary. All persons required to be licensed
+-13-
+
+LB948 LB948
+2026 2026
+1 pursuant to the Agricultural Liming Materials Act shall file such report
+2 regardless of whether any inspection fee is due. Upon filing the report,
+3 such person shall pay the inspection fee at the rate prescribed pursuant
+4 to this section. The inspection fee shall be at the rate fixed by the
+5 director but not exceeding ten cents per ton. The fee shall be set at an
+6 amount to cover the expenses of the inspection provided in section 2-4325
+7 and the costs of administering this section. The minimum inspection fee
+8 required pursuant to this section shall be five dollars, and no
+9 inspection fee shall be paid more than once for any one product. In the
+10 case of agricultural lime slurry, the fee shall be paid on the base lime
+11 material only.
+12 (2) If a person fails to report and pay the fee required by
+13 subsection (1) of this section by January 31 and July 31, the fee shall
+14 be considered delinquent and the person owing the fee shall pay an
+15 additional administrative fee of twenty-five percent of the delinquent
+16 amount for each month it remains unpaid, not to exceed one hundred
+17 percent of the original amount due. The department may waive the
+18 additional administrative fee based upon the existence and extent of any
+19 mitigating circumstances that have resulted in the late payment of such
+20 fee. The purpose of the additional administrative fee is to cover the
+21 administrative costs associated with collecting fees, and all money
+22 collected as an additional administrative fee shall be remitted to the
+23 State Treasurer for credit to the Fertilizers and Beneficial Substances
+24 Soil Conditioners Administrative Fund. Failure to make an accurate
+25 statement of tonnage or to pay the inspection fee or comply as provided
+26 in this subsection shall constitute sufficient cause for the cancellation
+27 of all product registrations or licenses on file for such person.
+28 (3) The director shall annually make information available in such
+29 form as he or she may deem proper concerning the tons of agricultural
+30 liming material sold in this state. Such report shall in no way divulge
+31 the operation of any registrant or licensee.
+-14-
+
+LB948 LB948
+2026 2026
+1 Sec. 9. Section 2-4324, Reissue Revised Statutes of Nebraska, is
+2 amended to read:
+3 2-4324 All fees paid to the department pursuant to the Agricultural
+4 Liming Materials Act shall be remitted to the State Treasurer for credit
+5 to the Fertilizers and Beneficial Substances Soil Conditioners
+6 Administrative Fund. All money credited to the fund shall be used by the
+7 department to aid in defraying expenses of administering the Agricultural
+8 Liming Materials Act and the Nebraska Commercial Fertilizer and
+9 Beneficial Substances Soil Conditioner Act.
+10 Sec. 10. Section 49-1499.02, Reissue Revised Statutes of Nebraska,
+11 is amended to read:
+12 49-1499.02 (1) An official or employee of the executive branch of
+13 state government who would be required to take any action or make any
+14 decision in the discharge of his or her official duties that may cause
+15 financial benefit or detriment to him or her, a member of his or her
+16 immediate family, or a business with which he or she is associated, which
+17 is distinguishable from the effects of such action on the public
+18 generally or a broad segment of the public, shall take the following
+19 actions as soon as he or she is aware of such potential conflict or
+20 should reasonably be aware of such potential conflict, whichever is
+21 sooner:
+22 (a) Prepare a written statement describing the matter requiring
+23 action or decision and the nature of the potential conflict; and
+24 (b) Deliver a copy of the statement to the commission and to his or
+25 her immediate superior, if any, who shall assign the matter to another.
+26 If the immediate superior does not assign the matter to another or if
+27 there is no immediate superior, the official or employee shall take such
+28 action as the commission shall advise or prescribe to remove himself or
+29 herself from influence over the action or decision on the matter.
+30 (2) This section does not prevent such a person from (a) making or
+31 participating in the making of a governmental decision to the extent that
+-15-
+
+LB948 LB948
+2026 2026
+1 the individual's participation is legally required for the action or
+2 decision to be made or (b) making or participating in the making of a
+3 governmental decision if the potential conflict of interest is based upon
+4 a business association and the business association exists only as the
+5 result of his or her position on a commodity board. A person acting
+6 pursuant to subdivision (a) of this subsection shall report the
+7 occurrence to the commission.
+8 (3) For purposes of this section, commodity board means only the
+9 following:
+10 (a) Corn Development, Utilization, and Marketing Board;
+11 (b) Nebraska Dairy Industry Development Board;
+12 (c) Grain Sorghum Development, Utilization, and Marketing Board;
+13 (d) Nebraska Wheat Development, Utilization, and Marketing Board;
+14 (e) Dry Bean Commission;
+15 (f) Nebraska Potato Development Committee;
+16 (g) Prior to January 1, 2028, Nebraska Poultry and Egg Development,
+17 Utilization, and Marketing Committee; and
+18 (h) Dry Pea and Lentil Commission.
+19 Sec. 11. Section 81-201, Reissue Revised Statutes of Nebraska, is
+20 amended to read:
+21 81-201 The Department of Agriculture may: shall have power
+22 (1) Encourage to encourage and promote, in every practicable manner,
+23 the interest of agriculture;
+24 (2) Promote to promote methods of conducting the industry of
+25 agriculture with a view to increasing the production and facilitating the
+26 distribution thereof at the least cost;
+27 (3) Collect to collect and publish statistics relating to the
+28 production and marketing of agricultural products, so far as such
+29 statistical information may be of value to the agricultural and allied
+30 interests of the state, and to cooperate with the federal government in
+31 the matter of collecting and publishing such statistical information;
+-16-
+
+LB948 LB948
+2026 2026
+1 (4) Distribute or dispose of any remaining to publish and distribute
+2 the Weeds of the Great Plains books book and supplemental inserts thereto
+3 that are in the possession of the department. By January 1, 2027, the
+4 State Treasurer shall transfer all money in the Weed Book Cash Fund to
+5 the Noxious Weed Cash Fund. , for sale and distribution to the public.
+6 All money collected from the sale of the publications shall be remitted
+7 to the State Treasurer and credited to the Noxious Weed Cash Fund as
+8 provided in section 81-201.05;
+9 (5) Inquire to inquire into the causes of contagious, infectious,
+10 and communicable diseases among domestic animals and the means for the
+11 prevention and cure of the same;
+12 (6) Execute to execute and enforce all laws relating to matters
+13 within its jurisdiction and to adopt necessary rules and regulations for
+14 the administration and enforcement of such laws;
+15 (7) Employ to employ special investigators who shall be appointed
+16 deputy state sheriffs by the Governor and who shall, upon qualifying for
+17 such office, possess all the powers which attach to such office, except
+18 that their powers and duties shall be restricted to the enforcement of
+19 the laws of the State of Nebraska within the jurisdiction of the
+20 Department of Agriculture;
+21 (8) Perform to perform laboratory testing services as provided in
+22 section 81-2,293; and
+23 (9) Enforce to enforce the Foreign-owned Real Estate National
+24 Security Act.
+25 Sec. 12. Section 81-2,162.01, Reissue Revised Statutes of Nebraska,
+26 is amended to read:
+27 81-2,162.01 The Nebraska Commercial Fertilizer and Beneficial
+28 Substances Soil Conditioner Act shall be administered by the Director of
+29 Agriculture.
+30 Sec. 13. Section 81-2,162.02, Reissue Revised Statutes of Nebraska,
+31 is amended to read:
+-17-
+
+LB948 LB948
+2026 2026
+1 81-2,162.02 For purposes of the Nebraska Commercial Fertilizer and
+2 Beneficial Substances Soil Conditioner Act, unless the context otherwise
+3 requires:
+4 (1) Beneficial substance means any claimed or advertised substance
+5 that can be demonstrated by scientific research to be beneficial to soil,
+6 media, or at least one species of plant. Beneficial substance:
+7 (a) Includes any plant biostimulant, soil amendment, chemical or
+8 biological substance that is beneficial to any plant and growing
+9 environment of such plant; and
+10 (b) Does not include any primary or secondary nutrient for plants,
+11 plant micronutrient, pesticide, unmanipulated animal or plant manure, or
+12 commercial fertilizer;
+13 (2) Bulk means nonpackaged; (1) Director means the Director of
+14 Agriculture or his or her duly authorized agent;
+15 (2) Department means the Department of Agriculture;
+16 (3) Commercial fertilizer means any formula or product distributed
+17 for further distribution or ultimate use as a plant nutrient, intended to
+18 promote plant growth, containing one or more plant nutrients recognized
+19 by the Association of American Plant Food Control Officials in its
+20 official publication. The term commercial fertilizer shall not be deemed
+21 to include unmanipulated animal and vegetable manures but shall be deemed
+22 to include both finished products and fertilizer ingredients capable of
+23 being used in the formulation of a finished product;
+24 (4) Bulk means nonpackaged;
+25 (4) (5) Custom-blended product means any individually compounded
+26 commercial fertilizer or beneficial substance that is soil conditioner
+27 mixed, blended, offered for sale, or sold in Nebraska to a person's
+28 specifications, when such person is the ultimate consumer, if the
+29 ingredients used in such product which are subject to the registration
+30 requirements of section 81-2,162.03 have been so registered;
+31 (5) Department means the Department of Agriculture;
+-18-
+
+LB948 LB948
+2026 2026
+1 (6) Director means the Director of Agriculture or his or her duly
+2 authorized agent;
+3 (7) (6) Distribute means to offer for sale, sell, barter, or
+4 otherwise supply commercial fertilizers or beneficial substances soil
+5 conditioners;
+6 (8) (7) Fineness means the percentage of weight of the material
+7 which will pass United States standard sieves of specified sizes;
+8 (9) (8) Grade means the percentage of total nitrogen, available
+9 phosphate, and soluble potash;
+10 (10) (9) Label means a display of written, printed, or other graphic
+11 matter upon the container in which a commercial fertilizer or beneficial
+12 substance soil conditioner is distributed, or a statement accompanying
+13 such product;
+14 (11) (10) Labeling means the label and all other written, printed,
+15 or graphic matter accompanying the commercial fertilizer or beneficial
+16 substance soil conditioner at any time or to which reference is made on
+17 the label;
+18 (12) Microorganism means any microbiological organism or mixture of
+19 microbiological organisms that is intended to produce any physical,
+20 chemical, biochemical, or biological change, or any other change, in soil
+21 and is recognized by the Association of American Plant Food Control
+22 Officials in its official publication;
+23 (13) (11) Official sample means any sample of commercial fertilizer
+24 or beneficial substance soil conditioner taken by the director or his or
+25 her agent;
+26 (12) Product means both commercial fertilizers and soil
+27 conditioners;
+28 (13) Ton means a net weight of two thousand pounds avoirdupois;
+29 (14) Percent or percentage means the percentage by weight;
+30 (15) Person includes individual, cooperative, partnership, limited
+31 liability company, association, firm, and corporation;
+-19-
+
+LB948 LB948
+2026 2026
+1 (16) Product means both commercial fertilizers and beneficial
+2 substances;
+3 (17) (16) Sell or sale includes exchange;
+4 (18) (17) Soil conditioner means any formula or product distributed,
+5 except unmanipulated animal and vegetable manures, which, when added to
+6 the soil, is intended to (a) change the physical condition of the soil or
+7 (b) produce a favorable growth, yield, or quality of crops or other soil
+8 characteristics but shall not mean a commercial fertilizer, a pesticide
+9 as defined in the Pesticide Act, or an agricultural liming material as
+10 defined in the Agricultural Liming Materials Act; and
+11 (19) (18) Specialty product means a product for nonfarm use; and .
+12 (20) Ton means a net weight of two thousand pounds avoirdupois.
+13 Sec. 14. Section 81-2,162.03, Reissue Revised Statutes of Nebraska,
+14 is amended to read:
+15 81-2,162.03 (1) Prior to January 1, 2027, each Each soil conditioner
+16 shall be registered before being distributed in this state. Beginning on
+17 and after January 1, 2027, all products shall be registered before being
+18 distributed in this state. The distributor who first causes the
+19 distribution of the product into or within this state shall be
+20 responsible for compliance with the product registration requirements of
+21 this section. The application for registration shall be submitted to the
+22 director on forms prescribed furnished by the director and shall be
+23 accompanied by one copy two copies of the labeling for such product and a
+24 fee of fifty dollars per product. If the product is approved by the
+25 director, the department shall notify the applicant of such approval.
+26 Upon approval by the director, a copy of the registration shall be
+27 furnished to the applicant. All registrations shall expire on December 31
+28 of each year. The application shall include the following information:
+29 (a) The name and principal address of the person registering the
+30 product;
+31 (b) The name and principal address of the person guaranteeing the
+-20-
+
+LB948 LB948
+2026 2026
+1 product, if different than the registrant;
+2 (c) The name and principal address of the person manufacturing the
+3 product, if different than the registrant;
+4 (d) The name and principal address of the person whose name appears
+5 on the label, if different than the registrant;
+6 (e) The name of the product, including any term, design, trademark,
+7 or chemical designation used in connection with the product; and
+8 (f)(i) For beneficial substances, the (f) The percentage of every
+9 ingredient present; and in each soil conditioner.
+10 (ii) For commercial fertilizers, the percentage of every nutrient
+11 guarantee.
+12 (2) Custom-blended products shall be exempt from the requirements of
+13 this section, except that such products shall bear a tag or invoice
+14 stating the name and principal address of the manufacturer, the name and
+15 address of the purchaser, and the net weight or measure and the
+16 composition of the product by weight or percentage of ingredients used,
+17 and a duplicate copy of such information shall be kept by the
+18 manufacturer for use by the department for sampling and inspection
+19 purposes. All ingredients shall be subject to the inspection fee
+20 requirements of section 81-2,162.06 except those ingredients brought to
+21 the manufacturer by the ultimate user for custom blending.
+22 (3) A product shall not be required to be registered under this
+23 section when the director knows, or has reason to know, that such product
+24 is currently registered pursuant to this section. The director shall
+25 consider two or more products to be the same product only if the
+26 characteristics of the products described under subdivisions (b) through
+27 (f) of subsection (1) of this section are the same.
+28 Sec. 15. Section 81-2,162.04, Reissue Revised Statutes of Nebraska,
+29 is amended to read:
+30 81-2,162.04 (1) Beginning on and after January 1, 2027, any Any
+31 packaged beneficial substance soil conditioner distributed in this state,
+-21-
+
+LB948 LB948
+2026 2026
+1 except custom-blended products, shall have placed on or affixed to the
+2 package a label stating clearly and conspicuously (a) the net weight or
+3 measure of the product, (b) the information required by subdivisions (1)
+4 (c) and (d) of section 81-2,162.03, (c) the total percentage of all
+5 active ingredients in the beneficial substance soil conditioner, (d) the
+6 identification and percentage of each individual active ingredient, (e)
+7 the total percentage of the inactive ingredients, (f) the identification
+8 and percentage of each individual inactive ingredient which comprises
+9 more than two percent of the entire beneficial substance soil
+10 conditioner, and (g) under a category entitled other inactive
+11 ingredients, the total percentage of the remaining inactive ingredients
+12 which individually do not comprise two percent or more of the beneficial
+13 substance, and (h) for any product that claims to contain any
+14 microorganism, the expiration date for use of the product and any
+15 required storage conditions for the product soil conditioner.
+16 (2) If any beneficial substance soil conditioner is distributed in
+17 bulk, a written or printed statement of the weight and the information
+18 required by subdivisions (1)(c) and (d) of section 81-2,162.03 and by
+19 subdivisions (1)(c) through (h) (g) of this section shall accompany
+20 delivery and be supplied to the purchaser.
+21 (3) Whenever a beneficial substance soil conditioner is so comprised
+22 as to be recognized by a name commonly understood by ordinary
+23 individuals, such name shall be prominently and conspicuously displayed
+24 on the label.
+25 (4) Notwithstanding any other provision of the Nebraska Commercial
+26 Fertilizer and Beneficial Substances Soil Conditioner Act, any beneficial
+27 substance that soil conditioner which is also a pesticide, labeled in
+28 conformance with the Pesticide Act, shall be deemed to be labeled in
+29 conformance with the Nebraska Commercial Fertilizer and Beneficial
+30 Substances Soil Conditioner Act.
+31 Sec. 16. Section 81-2,162.05, Reissue Revised Statutes of Nebraska,
+-22-
+
+LB948 LB948
+2026 2026
+1 is amended to read:
+2 81-2,162.05 (1) Any packaged commercial fertilizer distributed in
+3 this state, except custom-blended products, shall have placed on or
+4 affixed to the package a label stating clearly and conspicuously:
+5 (a) The net weight or measure of the product;
+6 (b) The name and principal address of the manufacturer or
+7 distributor;
+8 (c) The name of the product, including any term, design, trademark,
+9 or chemical designation used in connection with the product;
+10 (d) The guaranteed analysis showing the minimum percentage of plant
+11 nutrients claimed in the following order and form:
+12 Total Nitrogen.....percent
+13 Ammoniacal Nitrogen
+14 (Specialty products only).....percent
+15 Nitrate Nitrogen
+16 (Specialty products only).....percent
+17 Water Insoluble Nitrogen
+18 (Specialty products only).....percent
+19 Available Phosphate (P2O5).....percent
+20 Soluble Potash (K2O).....percent
+21 Unacidulated mineral phosphatic materials and basic slag shall be
+22 guaranteed as to both total available phosphate and the degree of
+23 fineness. Plant nutrients, other than nitrogen, phosphorus, and
+24 potassium, shall be guaranteed when present in significant quantities as
+25 determined by the director. Such , which guarantees shall be expressed in
+26 elemental form. The director may also request that the sources of such
+27 nutrients be included on the label . Other beneficial substances,
+28 determinable by chemical methods, may be guaranteed only by permission of
+29 the director by and with the advice of the University of Nebraska
+30 Institute of Agriculture and Natural Resources;
+31 (e) The sources from which the nitrogen, available phosphate (P2O5),
+-23-
+
+LB948 LB948
+2026 2026
+1 and potash (K2O) are derived; and
+2 (f) The grade stated in whole numbers in the same terms, order, and
+3 percentages as in the guaranteed analysis, except as follows:
+4 (i) Specialty products may be guaranteed in fractional units of less
+5 than one percent of the total nitrogen, available phosphate, and soluble
+6 potash; and
+7 (ii) The director may allow types of fertilizer materials, bone
+8 meal, or manures to be guaranteed in fractional units.
+9 (2) If distributed in bulk, a written or printed statement of the
+10 information required by subdivisions (a), (b), (c), and (d) of subsection
+11 (1) of this section shall accompany delivery and be supplied to the
+12 purchaser.
+13 (3) Whenever a commercial fertilizer is so comprised as to be
+14 recognized by a name commonly understood by ordinary individuals, such
+15 name shall be prominently and conspicuously displayed on the label.
+16 (4) Custom-blended products shall bear a tag or invoice stating the
+17 name and principal address of the manufacturer, the name and address of
+18 the purchaser, and the net weight or measure and the composition of the
+19 product by weight or percentage of ingredients used. A duplicate copy of
+20 such information shall be kept by the manufacturer for use by the
+21 department for sampling and inspection purposes.
+22 Sec. 17. Section 81-2,162.06, Reissue Revised Statutes of Nebraska,
+23 is amended to read:
+24 81-2,162.06 (1)(a) An inspection fee shall be paid to the director
+25 at the rate fixed by the director but not exceeding fifteen cents per ton
+26 for:
+27 (i) Prior to January 1, 2027, commercial fertilizers and soil
+28 conditioners; and
+29 (ii) Beginning on and after January 1, 2027, commercial fertilizers
+30 and beneficial substances.
+31 (b) Such inspection fee shall be paid by the person distributing the
+-24-
+
+LB948 LB948
+2026 2026
+1 product to the ultimate user. (1) There shall be paid to the director,
+2 for all commercial fertilizers and soil conditioners distributed in this
+3 state to the ultimate user, except custom-blended products, an inspection
+4 fee at the rate fixed by the director but not exceeding fifteen cents per
+5 ton. The fee shall be paid by the person distributing the product to the
+6 ultimate user.
+7 (2) The director may increase or decrease the inspection fee each
+8 July 1, but such fee shall not exceed the maximum rate established in
+9 subsection (1) of this section. The director shall determine the fee
+10 based on the estimated annual revenue and fiscal year-end fund balance
+11 determined as follows:
+12 (a) The estimated annual revenue shall not be greater than one
+13 hundred seven percent of the program cash fund appropriations allocated
+14 for the Nebraska Commercial Fertilizer and Beneficial Substances Soil
+15 Conditioner Act; and
+16 (b) The estimated fiscal year-end cash fund balance shall not be
+17 greater than seventeen percent of the program cash fund appropriations
+18 allocated for the Nebraska Commercial Fertilizer and Beneficial
+19 Substances Soil Conditioner Act.
+20 (3) Payment of the inspection fee shall be evidenced by a statement
+21 made with documents showing that fees corresponding to the tonnage were
+22 received by the director.
+23 (4)(a) Prior to January 1, 2027, every (4) Every person who
+24 distributes any commercial fertilizer or soil conditioners to the
+25 ultimate user in this state shall file, not later than July 31, 2026, and
+26 December 31, 2026 the last day of January and July of each year, a
+27 semiannual tonnage report on forms provided by the department setting
+28 forth the number of net tons of commercial fertilizer and beneficial
+29 substances soil conditioners distributed in this state during the
+30 preceding six-month period, which report shall cover the periods from
+31 July 1 to December 31 and January 1 to June 30, and such other
+-25-
+
+LB948 LB948
+2026 2026
+1 information as the director shall deem necessary.
+2 (b) Beginning on and after January 1, 2027, any person who
+3 distributes any commercial fertilizer or beneficial substance to the
+4 ultimate user in this state shall file, not later than July 31, 2027, and
+5 each July 31 thereafter, and January 31, 2028, and January 31 of each
+6 year thereafter, a semiannual tonnage report on forms provided by the
+7 department setting forth the number of net tons of commercial fertilizer
+8 and beneficial substances distributed in this state during the preceding
+9 six-month period and such other information as the director deems
+10 necessary.
+11 (c) All persons required to be licensed pursuant to the Nebraska
+12 Commercial Fertilizer and Beneficial Substances Soil Conditioner Act
+13 shall file such report regardless of whether any inspection fee is due.
+14 Upon filing the report, such person shall pay the inspection fee at the
+15 rate prescribed pursuant to subsection (1) of this section. The minimum
+16 inspection fee required pursuant to this section shall be ten five
+17 dollars, and no inspection fee shall be paid more than once for any one
+18 product.
+19 (5) If a person fails to report and pay the fee required by
+20 subsection (4) of this section by January 31 and July 31, the fee shall
+21 be considered delinquent and the person owing the fee shall pay an
+22 additional administrative fee of twenty-five percent of the delinquent
+23 amount for each month it remains unpaid, not to exceed one hundred
+24 percent of the original amount due. The department may waive the
+25 additional administrative fee based upon the existence and extent of any
+26 mitigating circumstances that have resulted in the late payment of such
+27 fee. The purpose of the additional administrative fee is to cover the
+28 administrative costs associated with collecting fees and all money
+29 collected as an additional administrative fee shall be remitted to the
+30 State Treasurer for credit to the Fertilizers and Beneficial Substances
+31 Soil Conditioners Administrative Fund. Failure to make an accurate
+-26-
+
+LB948 LB948
+2026 2026
+1 statement of tonnage or to pay the inspection fee or comply as provided
+2 in this subsection shall constitute sufficient cause for the cancellation
+3 of all product registrations, licenses, or both on file for such person.
+4 (6) No information furnished to the department under this section
+5 shall be disclosed in such a way as to reveal the operation of any
+6 person.
+7 Sec. 18. Section 81-2,162.07, Reissue Revised Statutes of Nebraska,
+8 is amended to read:
+9 81-2,162.07 (1) To enforce the Nebraska Commercial Fertilizer and
+10 Beneficial Substances Soil Conditioner Act or the rules and regulations
+11 adopted pursuant to the act, the director may:
+12 (a) For purposes of inspection, enter any location, vehicle, or both
+13 in which commercial fertilizer or beneficial substance is fertilizers and
+14 soil conditioners are manufactured, processed, packed, transported, or
+15 held for distribution during normal business hours, except that in the
+16 event that any such location or vehicle is such locations and vehicles
+17 are not open to the public, the director shall present his or her
+18 credentials and obtain consent before making entry to such location or
+19 vehicle thereto unless a search warrant has previously been obtained.
+20 Credentials shall not be required for each entry made during the period
+21 covered by the inspection. The person in charge of the location or
+22 vehicle shall be notified of the completion of the inspection. If the
+23 owner of such location or vehicle or his or her agent refuses to admit
+24 the director to inspect pursuant to this section, the director may obtain
+25 a search warrant from a court of competent jurisdiction directing such
+26 owner or agent to submit the location, vehicle, or both as described in
+27 such search warrant to inspection;
+28 (b) Inspect any location or vehicle described in this subsection,
+29 all pertinent equipment, finished and unfinished materials, containers
+30 and labeling, all records, books, papers, and documents relating to the
+31 distribution and production of commercial fertilizers and beneficial
+-27-
+
+LB948 LB948
+2026 2026
+1 substances soil conditioners, and other information necessary for the
+2 enforcement of the act;
+3 (c) Obtain samples of commercial fertilizers and beneficial
+4 substances soil conditioners. The owner, operator, or agent in charge
+5 shall be given a receipt describing the samples obtained; and
+6 (d) Make analyses of and test samples obtained pursuant to
+7 subdivision (c) of this subsection to determine whether such commercial
+8 fertilizers and beneficial substances soil conditioners are in compliance
+9 with the act.
+10 For purposes of this subsection, location shall include a factory,
+11 warehouse, or establishment.
+12 (2) Sampling and analysis shall be conducted in accordance with
+13 methods published by the AOAC International or in accordance with other
+14 generally recognized methods.
+15 (3) The director, in determining for administrative purposes whether
+16 any product is deficient in plant nutrients, shall be guided solely by
+17 the official sample as defined in subdivision (11) of section 81-2,162.02
+18 and obtained and analyzed as provided for in subsection (2) of this
+19 section.
+20 (4) The results of official analysis of any official sample shall be
+21 forwarded by the director to the person named on the label when the
+22 official sample is not in compliance with the act or the rules and
+23 regulations adopted pursuant to the act. Upon request made within ninety
+24 days of the analysis, the director shall furnish to the person named on
+25 the label a portion of the official sample. Following expiration of the
+26 ninety-day period, the director may dispose of such sample.
+27 Sec. 19. Section 81-2,162.11, Reissue Revised Statutes of Nebraska,
+28 is amended to read:
+29 81-2,162.11 The director shall annually make available, in such form
+30 as he or she may deem proper, information concerning the sales of
+31 commercial fertilizers and beneficial substances soil conditioners and a
+-28-
+
+LB948 LB948
+2026 2026
+1 report of the results of the analysis based on official samples of
+2 commercial fertilizers and beneficial substances soil conditioners
+3 distributed within the state as compared with the analyses guaranteed
+4 under the provisions of the Nebraska Commercial Fertilizer and Beneficial
+5 Substances Soil Conditioner Act.
+6 Sec. 20. Section 81-2,162.12, Reissue Revised Statutes of Nebraska,
+7 is amended to read:
+8 81-2,162.12 For the enforcement of the Nebraska Commercial
+9 Fertilizer and Beneficial Substances Soil Conditioner Act, the director
+10 is authorized to prescribe rules and regulations, after public hearing
+11 following due public notice, relating to the distribution of commercial
+12 fertilizers and beneficial substances soil conditioners as he or she may
+13 find necessary to carry into effect the full intent and meaning of the
+14 act.
+15 Sec. 21. Section 81-2,162.13, Reissue Revised Statutes of Nebraska,
+16 is amended to read:
+17 81-2,162.13 The director is authorized and empowered to cancel the
+18 registration or license of any person manufacturing or distributing any
+19 commercial fertilizer or beneficial substance soil conditioner or to
+20 refuse to register any beneficial substance soil conditioner upon
+21 satisfactory evidence that the registrant, licensee, or guarantor has
+22 used fraudulent or deceptive practices in the evasions or attempted
+23 evasions of the provisions of the Nebraska Commercial Fertilizer and
+24 Beneficial Substances Soil Conditioner Act or any rules and regulations
+25 promulgated thereunder. No license or registration shall be revoked or
+26 refused until the registrant, licensee, or guarantor has been given the
+27 opportunity to appear for a hearing before the director.
+28 Sec. 22. Section 81-2,162.14, Reissue Revised Statutes of Nebraska,
+29 is amended to read:
+30 81-2,162.14 The director may issue and enforce a written or printed
+31 stop-sale, stop-use, or removal order to the owner or custodian of any
+-29-
+
+LB948 LB948
+2026 2026
+1 lot of commercial fertilizer or beneficial substance soil conditioner and
+2 may require the owner or custodian to hold any lot at a designated place
+3 when the director has reason to believe the product is being offered or
+4 exposed for sale in violation of any of the provisions of the Nebraska
+5 Commercial Fertilizer and Beneficial Substances Soil Conditioner Act
+6 until the law has been complied with and such product is released in
+7 writing by the director or the violation has been otherwise legally
+8 disposed of by written authority. The director shall release the product
+9 so withdrawn when the requirements of the act have been complied with and
+10 all costs and expenses incurred in connection with the withdrawal have
+11 been paid.
+12 Sec. 23. Section 81-2,162.15, Reissue Revised Statutes of Nebraska,
+13 is amended to read:
+14 81-2,162.15 Any lot of commercial fertilizer or beneficial substance
+15 soil conditioner not in compliance with the provisions of the Nebraska
+16 Commercial Fertilizer and Beneficial Substances Soil Conditioner Act
+17 shall be subject to seizure on complaint of the director to a court of
+18 competent jurisdiction in the area in which such product is located. In
+19 the event the court finds such product to be in violation of the
+20 provisions of such act and orders the condemnation of such product, it
+21 shall be disposed of in any manner consistent with the quality of the
+22 product and the laws of the state. In no instance shall the disposition
+23 of such product be ordered by the court without first giving the claimant
+24 an opportunity to apply to the court for release of such product or for
+25 permission to process or relabel such product to bring it into compliance
+26 with the provisions of the act.
+27 Sec. 24. Section 81-2,162.16, Reissue Revised Statutes of Nebraska,
+28 is amended to read:
+29 81-2,162.16 If it shall appear from the examination of any
+30 commercial fertilizer or beneficial substance soil conditioner that any
+31 of the provisions of the Nebraska Commercial Fertilizer and Beneficial
+-30-
+
+LB948 LB948
+2026 2026
+1 Substances Soil Conditioner Act or the rules and regulations issued
+2 thereunder have been violated, the director shall cause notice of the
+3 violations to be given to the person from whom the sample was taken. Any
+4 person so notified shall be given opportunity to be heard under such
+5 rules and regulations as may be prescribed by the director. If it appears
+6 after such hearing, either in the presence or absence of the person so
+7 notified, that any of the provisions of the act or rules and regulations
+8 issued thereunder have been violated, the director may certify the facts
+9 to the county attorney of the county in which the violation occurred or
+10 to the Attorney General, as the case may be.
+11 Sec. 25. Section 81-2,162.17, Reissue Revised Statutes of Nebraska,
+12 is amended to read:
+13 81-2,162.17 Any person violating any provisions of the Nebraska
+14 Commercial Fertilizer and Beneficial Substances Soil Conditioner Act or
+15 the rules and regulations issued thereunder, or who shall impede,
+16 obstruct, hinder, or otherwise prevent or attempt to prevent the director
+17 in the performance of his or her duty pursuant to the act, shall be
+18 guilty of a Class II misdemeanor.
+19 Sec. 26. Section 81-2,162.18, Reissue Revised Statutes of Nebraska,
+20 is amended to read:
+21 81-2,162.18 Nothing in the Nebraska Commercial Fertilizer and
+22 Beneficial Substances Soil Conditioner Act shall be construed as
+23 requiring the director to report for prosecution or for the institution
+24 of seizure proceedings for minor violations of such act when he or she
+25 believes that the public interest will be best served by a suitable
+26 notice of warning in writing.
+27 Sec. 27. Section 81-2,162.20, Reissue Revised Statutes of Nebraska,
+28 is amended to read:
+29 81-2,162.20 The director is hereby authorized to apply for and the
+30 court to grant a temporary or permanent injunction restraining any person
+31 from violating or continuing to violate any of the provisions of the
+-31-
+
+LB948 LB948
+2026 2026
+1 Nebraska Commercial Fertilizer and Beneficial Substances Soil Conditioner
+2 Act, or any rules or regulations promulgated under the act,
+3 notwithstanding the existence of other remedies at law. The injunction
+4 shall be issued without bond.
+5 Sec. 28. Section 81-2,162.21, Reissue Revised Statutes of Nebraska,
+6 is amended to read:
+7 81-2,162.21 Nothing in the Nebraska Commercial Fertilizer and
+8 Beneficial Substances Soil Conditioner Act shall be construed to restrict
+9 or avoid sales or exchanges of commercial fertilizers or beneficial
+10 substances soil conditioners to each other by importers, manufacturers,
+11 or manipulators who mix commercial fertilizers or beneficial substances
+12 soil conditioners for sale or as preventing the free and unrestricted
+13 shipments of commercial fertilizers and beneficial substances soil
+14 conditioners to manufacturers or manipulators who have met the provisions
+15 of the act.
+16 Sec. 29. Section 81-2,162.22, Reissue Revised Statutes of Nebraska,
+17 is amended to read:
+18 81-2,162.22 Sections 81-2,162.01 to 81-2,162.28 shall be known and
+19 may be cited as the Nebraska Commercial Fertilizer and Beneficial
+20 Substances Soil Conditioner Act.
+21 Sec. 30. Section 81-2,162.23, Reissue Revised Statutes of Nebraska,
+22 is amended to read:
+23 81-2,162.23 (1) No person shall manufacture or distribute any
+24 commercial fertilizer or beneficial substance fertilizers or soil
+25 conditioners in this state unless such person holds a valid license for
+26 each manufacturing and distribution facility in this state where such
+27 person manufactures or distributes such commercial fertilizer or
+28 beneficial substance. Any out-of-state manufacturer or distributor who
+29 has no distribution facility within this state shall obtain a license for
+30 his or her principal out-of-state office if he or she markets or
+31 distributes any commercial fertilizer or beneficial substance soil
+-32-
+
+LB948 LB948
+2026 2026
+1 conditioners in the State of Nebraska.
+2 (2) An applicant for a license shall make application to the
+3 department on forms furnished by the department. Application forms shall
+4 be submitted to the department accompanied by an annual license fee of
+5 twenty-five fifteen dollars. Licenses shall be renewed on or before
+6 January 1 of each year.
+7 (3) A copy of the valid license shall be posted in a conspicuous
+8 place in each manufacturing or distribution facility.
+9 (4) Persons distributing custom-blended products shall maintain
+10 records of purchase orders received for custom-blended products from the
+11 date such orders are received until such products are distributed, which
+12 records shall be sufficient to show the product ordered, date of such
+13 order, purchaser, and quantity of product ordered.
+14 (5) The provisions of this section shall not apply to any retail
+15 store which sells or offers for sale less than a five-ton volume of
+16 commercial fertilizer or beneficial substances soil conditioners
+17 annually.
+18 Sec. 31. Section 81-2,162.25, Reissue Revised Statutes of Nebraska,
+19 is amended to read:
+20 81-2,162.25 No person shall distribute any misbranded commercial
+21 fertilizer or beneficial substance fertilizers or soil conditioners. A
+22 commercial fertilizer or beneficial substance soil conditioner shall be
+23 deemed to be misbranded if:
+24 (1) Its labeling is false or misleading in any particular;
+25 (2) It is distributed under the name of another commercial
+26 fertilizer or beneficial substance soil conditioner;
+27 (3) It is not labeled as required by the Nebraska Commercial
+28 Fertilizer and Beneficial Substances Soil Conditioner Act or the rules
+29 and regulations adopted and promulgated under the act;
+30 (4) It purports to be or is represented as a commercial fertilizer
+31 or beneficial substance soil conditioner or as containing an ingredient,
+-33-
+
+LB948 LB948
+2026 2026
+1 for which a definition of identity or standard of quality has been
+2 prescribed by rules and regulations adopted and promulgated by regulation
+3 of the department, unless it conforms to such definition and standard; or
+4 (5) Any word, statement, or other information required by the act or
+5 the rules and regulations adopted and promulgated under the act to appear
+6 on the label is not prominently displayed with such conspicuousness, as
+7 compared with other words, statements, designs, or devices, on the label,
+8 and in such terms as to render it likely to be read and understood by an
+9 individual under customary conditions of purchase and use.
+10 Sec. 32. Section 81-2,162.26, Reissue Revised Statutes of Nebraska,
+11 is amended to read:
+12 81-2,162.26 No person shall distribute any adulterated commercial
+13 fertilizer or beneficial substance fertilizers or soil conditioners. A
+14 commercial fertilizer or beneficial substance soil conditioner shall be
+15 deemed to be adulterated if:
+16 (1) It contains any toxic materials, other than pesticides
+17 registered pursuant to law, in quantities injurious to plant or animal
+18 health;
+19 (2) Any valuable constituent has been in whole or in part omitted or
+20 subtracted therefrom or any less valuable substance substituted therefor;
+21 (3) Its composition or quality falls below or differs from that
+22 which it is purported or is represented to possess by its label;
+23 (4) Warning statements or directions for use, as prescribed by the
+24 director to be shown on the label, are not displayed thereon; or
+25 (5) It contains amounts of crop seed, weed seed, or other foreign
+26 materials in excess of tolerances as may be adopted and promulgated
+27 established by rules and regulations of the department.
+28 Sec. 33. Section 81-2,162.27, Reissue Revised Statutes of Nebraska,
+29 is amended to read:
+30 81-2,162.27 (1) All money received under the Nebraska Commercial
+31 Fertilizer and Beneficial Substances Soil Conditioner Act and the
+-34-
+
+LB948 LB948
+2026 2026
+1 Agricultural Liming Materials Act shall be remitted to the State
+2 Treasurer for credit to the Fertilizers and Beneficial Substances Soil
+3 Conditioners Administrative Fund.
+4 (2) The Fertilizers and Beneficial Substances Administrative Fund ,
+5 which fund is hereby created. Money in the fund so received shall be used
+6 by the department for defraying the expenses of administering the
+7 Nebraska Commercial Fertilizer and Beneficial Substances Soil Conditioner
+8 Act, and the Agricultural Liming Materials Act, and any other plant
+9 health program that is administered by the department. The fund may also
+10 be used to defray costs incurred by the department directly related to
+11 administrative and budgetary support of the Healthy Soils Task Force
+12 pursuant to sections 2-401 to 2-404, except that no more than ten
+13 thousand dollars may be expended by the department from the fund for such
+14 purpose. Transfers may be made from the fund to the General Fund at the
+15 direction of the Legislature. The State Treasurer shall transfer two
+16 hundred seventy-five thousand dollars from the Fertilizers and Soil
+17 Conditioners Administrative Fund to the General Fund on or before June
+18 30, 2019, on such dates and in such amounts as directed by the budget
+19 administrator of the budget division of the Department of Administrative
+20 Services.
+21 (3) (2) Any unexpended balance in the Fertilizers and Beneficial
+22 Substances Soil Conditioners Administrative Fund at the close of any
+23 biennium shall, when reappropriated, be available for the uses and
+24 purposes of the fund for the succeeding biennium. Any money in the fund
+25 available for investment shall be invested by the state investment
+26 officer pursuant to the Nebraska Capital Expansion Act and the Nebraska
+27 State Funds Investment Act.
+28 Sec. 34. Section 81-2,162.28, Reissue Revised Statutes of Nebraska,
+29 is amended to read:
+30 81-2,162.28 The Nebraska Commercial Fertilizer and Beneficial
+31 Substances Soil Conditioner Act and any rules and regulations adopted and
+-35-
+
+LB948 LB948
+2026 2026
+1 promulgated thereunder shall supersede and preempt any ordinance, rule,
+2 regulation, or resolution enacted by any political subdivision of the
+3 state regarding the regulation of any fertilizer or beneficial substance
+4 and soil conditioners. No political subdivision shall prohibit or in any
+5 other manner regulate any matter relating to the registration, labeling,
+6 or sale of any fertilizer or beneficial substance and soil conditioners.
+7 No political subdivision shall prohibit or in any other manner regulate
+8 any matter relating to the storage, transportation, distribution,
+9 notification of use, or use that is in addition to or in conflict with
+10 the Nebraska Commercial Fertilizer and Beneficial Substances Soil
+11 Conditioner Act and any rules and regulations adopted and promulgated
+12 thereunder. Nothing in this section shall be construed to preempt or
+13 otherwise limit the authority of any city or county to adopt and enforce
+14 zoning regulations or any natural resources district to enforce the
+15 Nebraska Ground Water Management and Protection Act.
+16 Sec. 35. Original sections 2-1091, 2-1091.02, 2-1095, 2-10,117,
+17 2-2634, 2-3401, 2-4323, 2-4324, 49-1499.02, 81-201, 81-2,162.01,
+18 81-2,162.02, 81-2,162.03, 81-2,162.04, 81-2,162.05, 81-2,162.06,
+19 81-2,162.07, 81-2,162.11, 81-2,162.12, 81-2,162.13, 81-2,162.14,
+20 81-2,162.15, 81-2,162.16, 81-2,162.17, 81-2,162.18, 81-2,162.20,
+21 81-2,162.21, 81-2,162.22, 81-2,162.23, 81-2,162.25, 81-2,162.26,
+22 81-2,162.27, and 81-2,162.28, Reissue Revised Statutes of Nebraska, and
+23 section 2-958, Revised Statutes Cumulative Supplement, 2024, are
+24 repealed.
+25 Sec. 36. The following sections are outright repealed: Sections
+26 2-2801, 2-2802, 2-2803, 2-2804, 2-2805, 2-2806, 2-2807, 2-2809, 2-2810,
+27 2-2811, 2-2812, and 81-201.05, Reissue Revised Statutes of Nebraska.
+28 Sec. 37. Since an emergency exists, this act takes effect when
+29 passed and approved according to law.
+-36-

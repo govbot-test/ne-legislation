@@ -1,0 +1,120 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LB1172 LB1172
+2026 2026
+LEGISLATURE OF NEBRASKA
+ONE HUNDRED NINTH LEGISLATURE
+SECOND SESSION
+LEGISLATIVE BILL 1172
+Introduced by Holdcroft, 36.
+Read first time January 21, 2026
+Committee: Natural Resources
+1 A BILL FOR AN ACT relating to electricity; to amend section 70-1034,
+2 Revised Statutes Cumulative Supplement, 2024; to provide
+3 requirements for electric suppliers relating to dispatchable
+4 electricity capacity; to define terms; and to repeal the original
+5 section.
+6 Be it enacted by the people of the State of Nebraska,
+-1-
+
+LB1172 LB1172
+2026 2026
+1 Section 1. Section 70-1034, Revised Statutes Cumulative Supplement,
+2 2024, is amended to read:
+3 70-1034 (1) For purposes of this section, dispatchable electric
+4 generation facility means a facility that, under normal operating
+5 conditions, can increase or decrease its output on demand to provide
+6 electricity onto the electric power transmission grid on an ongoing
+7 basis.
+8 (2)(a) If a public power district, a public power and irrigation
+9 district, an electric membership association, an electric cooperative
+10 company, a municipality having a generation and distribution system, or a
+11 registered group of municipalities decides that a dispatchable electric
+12 generation facility with a generation capacity in excess of one hundred
+13 megawatts owned by any such entity should be closed or decommissioned,
+14 such entity shall provide written notice to the Nebraska Power Review
+15 Board prior to a final decision to close or decommission such facility.
+16 Such written notice shall include recommendations on necessary transition
+17 activities to avoid economic harm to workers at such facility or to an
+18 affected community. Transition activities include, but are not
+19 necessarily limited to:
+20 (i) Educating workers regarding the availability of various
+21 assistance programs, including what options are available to maintain
+22 employment with such entity;
+23 (ii) Explaining what severance pay will be available to workers;
+24 (iii) Services for workers including education and job training,
+25 career counseling, skills-matching, and financial planning assistance;
+26 and
+27 (iv) Promoting economic development opportunities in the affected
+28 community, including the creation of comparable jobs.
+29 (b) The board, in its discretion, may set a time and place for
+30 hearing on the matter and provide at least twenty days' prior notice to
+31 such entity. The hearing shall be held within sixty days after such
+-2-
+
+LB1172 LB1172
+2026 2026
+1 notice unless such entity requests in writing that the hearing not be
+2 scheduled until a later time. Any such hearing shall be closed to the
+3 public due to the proprietary and commercial information discussed. If
+4 the board determines that no hearing is necessary, the board shall
+5 provide written notice of such determination to such entity within thirty
+6 days after receipt of the written notice described in subdivision (2)(a)
+7 of this section.
+8 (3) Within sixty days after the hearing or the determination that no
+9 hearing is necessary as described in subsection (2) of this section, the
+10 board shall make recommendations in writing on the basis of the record
+11 before the board as to whether closing or decommissioning the
+12 dispatchable electric generation facility is in the best interests of the
+13 entity deciding to close or decommission the dispatchable electric
+14 generation facility and its customers. Such recommendations shall be
+15 advisory only. Such entity shall consider the board's recommendations
+16 before making its final decision regarding the closing or decommissioning
+17 of the electric generation facility.
+18 (4) The notices, the scheduling decisions concerning the hearing and
+19 purpose of the hearing, the record of the hearing, the board's
+20 recommendations, and any response by the entity deciding to close or
+21 decommission the dispatchable electric generation facility shall all be
+22 treated as confidential records that are not subject to public disclosure
+23 pursuant to sections 84-712 to 84-712.09 until such time as such entity
+24 publicly announces any decision to close or decommission the dispatchable
+25 electric generation facility. Nothing in this subsection shall be
+26 construed to require public disclosure of any information that may be
+27 withheld as provided in section 70-673 or 84-712.05.
+28 (5) This section shall not apply to any decision by a public power
+29 district, a public power and irrigation district, an electric membership
+30 association, an electric cooperative company, a municipality having a
+31 generation and distribution system, or a registered group of
+-3-
+
+LB1172 LB1172
+2026 2026
+1 municipalities to close or decommission a dispatchable electric
+2 generation facility made prior to April 16, 2024.
+3 (6)(a) An electric supplier shall maintain seventy-five percent of
+4 the dispatchable electricity capacity in the generation portfolio of such
+5 electric supplier.
+6 (b) An electric supplier shall certify to the Nebraska Power Review
+7 Board on an annual basis whether such electric supplier is in or out of
+8 compliance with subdivision (6)(a) of this section. If an electric
+9 supplier is out of compliance, such electric supplier shall provide a
+10 plan to become compliant to the board within sixty days of being out of
+11 compliance.
+12 (c) For purposes of this subsection:
+13 (i) Dispatchable electricity means a source of electricity that is
+14 readily available for use on demand and can be dispatched upon request of
+15 a power grid operator, or a source of electricity that can have the power
+16 output of such source adjusted according to market needs, except for
+17 routine maintenance or repairs; and
+18 (ii) Capacity means the maximum amount of electric power that a
+19 power plant can supply at a specific point in time under specific
+20 circumstances.
+21 Sec. 2. Original section 70-1034, Revised Statutes Cumulative
+22 Supplement, 2024, is repealed.
+-4-

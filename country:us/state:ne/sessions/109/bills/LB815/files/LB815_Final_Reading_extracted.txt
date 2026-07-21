@@ -1,0 +1,589 @@
+Title: 
+Official Title: 
+Source: versions - Final Reading
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LB815 LB815
+2026 2026
+LEGISLATURE OF NEBRASKA
+ONE HUNDRED NINTH LEGISLATURE
+SECOND SESSION
+LEGISLATIVE BILL 815
+FINAL READING
+Introduced by Brandt, 32; Dorn, 30; Ibach, 44; Jacobson, 42; Murman, 38.
+Read first time January 07, 2026
+Committee: Agriculture
+1 A BILL FOR AN ACT relating to fuels; to amend sections 66-726, 66-1331,
+2 66-1332, 66-1333, 66-1337, 66-1338, and 66-1340, Reissue Revised
+3 Statutes of Nebraska, and sections 66-489, 66-739, 66-1334, 66-1335,
+4 and 66-1521, Revised Statutes Cumulative Supplement, 2024; to
+5 provide for a tax on certain diesel fuels; to change provisions
+6 relating to refunds for motor fuel taxes; to change provisions
+7 relating to the Motor Fuel Tax Enforcement and Collection Cash Fund;
+8 to change and eliminate provisions of the Ethanol Development Act;
+9 to provide, change, and eliminate definitions; to change provisions
+10 relating to the petroleum release remedial action fee; to eliminate
+11 the Ethanol Production Incentive Cash Fund; to harmonize provisions;
+12 to provide operative dates; to repeal the original sections; and to
+13 outright repeal sections 66-1342, 66-1344.01, 66-1345, 66-1345.05,
+14 and 66-1348, Reissue Revised Statutes of Nebraska, and section
+15 66-1344, Revised Statutes Supplement, 2025.
+16 Be it enacted by the people of the State of Nebraska,
+-1-
+
+LB815 LB815
+2026 2026
+1 Section 1. Section 66-489, Revised Statutes Cumulative Supplement,
+2 2024, is amended to read:
+3 66-489 (1)(a) At the time of filing the return required by section
+4 66-488, such producer, supplier, distributor, wholesaler, or importer
+5 shall, in addition to the tax imposed pursuant to sections 66-489.02,
+6 66-4,140, 66-4,145, and 66-4,146 and in addition to the other taxes
+7 provided for by law, pay a tax in an amount set in subdivision (b) of
+8 this subsection upon all motor fuels as shown by such return, except that
+9 there shall be no tax on the motor fuels reported if (i) the required
+10 taxes on the motor fuels have been paid, (ii) the motor fuels have been
+11 sold to a licensed exporter exclusively for resale or use in another
+12 state, (iii) the motor fuels have been sold from a Nebraska barge line
+13 terminal, pipeline terminal, refinery, or ethanol or biodiesel facility,
+14 including motor fuels stored offsite in bulk, by a licensed producer or
+15 supplier to a licensed distributor, (iv) the motor fuels have been sold
+16 by a licensed distributor or licensed importer to a licensed distributor
+17 or to a licensed wholesaler and the seller acquired ownership of the
+18 motor fuels directly from a licensed producer or supplier at or from a
+19 refinery, barge, barge line, pipeline terminal, or ethanol or biodiesel
+20 facility, including motor fuels stored offsite in bulk, in this state or
+21 was the first importer of such fuel into this state, or (v) as otherwise
+22 provided in this section. Such producer, supplier, distributor,
+23 wholesaler, or importer shall remit such tax to the department.
+24 (b) The tax shall be:
+25 (i) Seven and one-half cents per gallon through December 31, 2015;
+26 (ii) Eight cents per gallon beginning on January 1, 2016, through
+27 December 31, 2016;
+28 (iii) Eight and one-half cents per gallon beginning on January 1,
+29 2017, through December 31, 2017;
+30 (iv) Nine cents per gallon beginning on January 1, 2018, through
+31 December 31, 2018; and
+-2-
+
+LB815 LB815
+2026 2026
+1 (v) Nine and one-half cents per gallon beginning on January 1, 2019.
+2 (2)(a) As part of filing the return required by section 66-488, each
+3 producer of ethanol shall, in addition to other taxes imposed by the
+4 motor fuel laws, pay an excise tax of one and one-quarter cents per
+5 gallon on:
+6 (i) Gasoline, natural gasoline, or any other gasoline component,
+7 including, but not limited to, any gasoline component produced from
+8 biomass feedstock, purchased for use as a denaturant by the producer at
+9 an ethanol facility; and
+10 (ii) Two percent of agricultural ethyl alcohol sold that is unfit
+11 for beverage purposes and does not meet the American Society for Testing
+12 and Materials D4806 standards.
+13 (b) All taxes, interest, and penalties collected under this
+14 subsection shall be remitted to the State Treasurer for credit to the
+15 Agricultural Alcohol Fuel Tax Fund.
+16 (3)(a) Motor fuels, methanol, and all blending agents or fuel
+17 expanders shall be exempt from the taxes imposed by this section and
+18 sections 66-489.02, 66-4,105, 66-4,140, 66-4,145, and 66-4,146, when the
+19 fuels are used for buses equipped to carry more than seven persons for
+20 hire and engaged entirely in the transportation of passengers for hire
+21 within municipalities or within a radius of six miles thereof.
+22 (b) The owner or agent of any bus equipped to carry more than seven
+23 persons for hire and engaged entirely in the transportation of passengers
+24 for hire within municipalities, or within a radius of six miles thereof,
+25 in lieu of the excise tax provided for in this section, shall pay an
+26 equalization fee of a sum equal to twice the amount of the registration
+27 fee applicable to such vehicle under the laws of this state. Such
+28 equalization fee shall be paid in the same manner as the registration fee
+29 and be disbursed and allocated as registration fees.
+30 (c) Nothing in this section shall be construed as permitting motor
+31 fuels to be sold tax exempt. The department shall refund tax paid on
+-3-
+
+LB815 LB815
+2026 2026
+1 motor fuels used in buses deemed exempt by this section.
+2 (4) Gasoline, natural gasoline, or any other gasoline component,
+3 including, but not limited to, any gasoline component produced from
+4 biomass feedstock, purchased for use as a denaturant by a producer at an
+5 ethanol facility as defined in section 66-1333 shall be exempt from the
+6 motor fuels tax imposed by subsection (1) of this section as well as the
+7 tax imposed pursuant to sections 66-489.02, 66-4,140, 66-4,145, and
+8 66-4,146.
+9 (5) Unless otherwise provided by an agreement entered into between
+10 the State of Nebraska and the governing body of any federally recognized
+11 Indian tribe within the State of Nebraska, motor fuels purchased on a
+12 Nebraska Indian reservation where the purchaser is a Native American who
+13 resides on the reservation shall be exempt from the motor fuels tax
+14 imposed by this section as well as the tax imposed pursuant to sections
+15 66-489.02, 66-4,140, 66-4,145, and 66-4,146.
+16 (6) Motor fuels purchased for use by the United States Government or
+17 its agencies shall be exempt from the motor fuels tax imposed by this
+18 section as well as the tax imposed pursuant to sections 66-489.02,
+19 66-4,140, 66-4,145, and 66-4,146.
+20 (7)(a) Except as otherwise provided in subdivision (b) of this
+21 subsection, in (7) In the case of diesel fuel, there shall be no tax on
+22 the motor fuels reported if (i) (a) the diesel fuel has been indelibly
+23 dyed and chemically marked in accordance with regulations issued by the
+24 Secretary of the Treasury of the United States under 26 U.S.C. 4082 or
+25 (ii) (b) the diesel fuel contains a concentration of sulphur in excess of
+26 five-hundredths percent by weight or fails to meet a cetane index minimum
+27 of forty and has been indelibly dyed in accordance with regulations
+28 promulgated by the Administrator of the United States Environmental
+29 Protection Agency pursuant to 42 U.S.C. 7545.
+30 (b) Beginning on October 1, 2026, a one-quarter of one cent tax per
+31 gallon shall be imposed on diesel fuel that (i) has been indelibly dyed
+-4-
+
+LB815 LB815
+2026 2026
+1 and chemically marked in accordance with the regulations issued by the
+2 Secretary of the Treasury of the United States or (ii) contains a
+3 concentration of sulphur in excess of five-hundredths percent by weight
+4 or fails to meet a cetane index minimum of forty and has been indelibly
+5 dyed in accordance with the regulations promulgated by the Administrator
+6 of the United States Environmental Protection Agency.
+7 (c) The first one hundred forty thousand dollars of taxes collected
+8 under this subsection each fiscal year shall be remitted to the State
+9 Treasurer for credit to the Motor Fuel Tax Enforcement and Collection
+10 Cash Fund, and all remaining taxes collected under this subsection each
+11 fiscal year shall be remitted to the State Treasurer for credit to the
+12 Agricultural Alcohol Fuel Tax Fund.
+13 Sec. 2. Section 66-726, Reissue Revised Statutes of Nebraska, is
+14 amended to read:
+15 66-726 (1) The department may adjust all errors in payment, refund
+16 tax paid on motor fuel destroyed, refund tax overpaid on motor fuel, and
+17 refund an amount equal to the per-gallon tax imposed by this state on
+18 sales of motor fuel on which tax was paid in this state but which was
+19 sold in a state other than Nebraska.
+20 (2)(a) Motor fuels shall be exempt from the taxes imposed by
+21 sections 66-489, 66-489.02, 66-4,105, 66-4,140, 66-4,145, and 66-4,146
+22 when the fuels are used for agricultural, quarrying, industrial, or other
+23 nonhighway use.
+24 (b) The department shall refund tax paid on motor fuels used for an
+25 exempt purpose. The purchaser of tax-paid motor fuels used for an exempt
+26 purpose shall file a claim for refund with the department on forms
+27 prescribed by the department and shall provide such documentation and
+28 maintain such records as the department reasonably requires to
+29 substantiate that the fuels were used for exempt purposes.
+30 (c) The refund claim shall include: (i) The name of claimant; (ii)
+31 the make, horsepower, and other mechanical description of machinery in
+-5-
+
+LB815 LB815
+2026 2026
+1 which the motor fuels were used; (iii) a statement as to the source or
+2 place of business where such motor fuels, used solely for agricultural,
+3 quarrying, industrial, or other nonhighway uses, were acquired; that no
+4 part of such motor fuels were used in propelling licensed motor vehicles;
+5 and that the motor fuels for which refund of the tax thereon is claimed
+6 were used solely for agricultural, quarrying, industrial, or other
+7 nonhighway uses; and (iv) any other information deemed necessary by the
+8 department.
+9 (d) The department shall deduct (i) from each claim for refund of
+10 tax paid on purchases of motor vehicle fuels under this subsection two
+11 and one-quarter cents per gallon through December 31, 2004, and
+12 commencing January 1, 2010, and three and one-half cents per gallon
+13 commencing January 1, 2005, through December 31, 2009, of the tax paid
+14 and (ii) from each claim for refund of tax paid on purchases of diesel
+15 fuel under this subsection one cent per gallon of the tax paid.
+16 (e) The department shall transmit monthly to the State Treasurer a
+17 report of the number of gallons of motor vehicle fuel for which refunds
+18 have been approved under this subsection. Through December 31, 2004, and
+19 commencing January 1, 2010, the State Treasurer shall thereupon transfer
+20 from the Highway Trust Fund to the Agricultural Alcohol Fuel Tax Fund one
+21 and one-quarter cents per gallon approved for refund, and commencing
+22 January 1, 2005, through December 31, 2009, the State Treasurer shall
+23 thereupon transfer from the Highway Trust Fund (a) to the Ethanol
+24 Production Incentive Cash Fund one and one-quarter cents per gallon
+25 approved for refund and (b) to the Agricultural Alcohol Fuel Tax Fund one
+26 and one-quarter cents per gallon approved for refund.
+27 (3) No refund shall be allowed unless a claim is filed setting forth
+28 the circumstances by reason of which refund should be allowed. Such claim
+29 shall be filed with the department within three years from the date of
+30 the payment of the tax.
+31 (4) In each calendar year, no claim for refund related to motor
+-6-
+
+LB815 LB815
+2026 2026
+1 vehicle fuel, diesel fuel, aircraft fuel, or compressed fuel can be for
+2 an amount less than twenty-five dollars.
+3 (5) The department shall administer and enforce this section. The
+4 department may call to its aid when necessary any member of the Nebraska
+5 State Patrol, any police officer, any county attorney, or the Attorney
+6 General. The employees of the department are empowered to stop and
+7 inspect motor vehicles, to inspect premises, and temporarily to impound
+8 motor vehicles or motor fuels when necessary to administer this section.
+9 (6) The department may adopt and promulgate such rules and
+10 regulations as are necessary for the prompt and effective enforcement of
+11 this section.
+12 (7) Any claimant for refund of motor fuels tax under this section
+13 who is unable to produce the original copy of any invoice to substantiate
+14 the refund for the reason that the same has been lost, mutilated, or
+15 destroyed may make proof of his or her claim by affidavit and such other
+16 evidence as may be required by the department, and if such claim is
+17 verified by investigation, such claim may be allowed.
+18 (8) The changes made to this section by Laws 2004, LB 983, apply to
+19 motor fuels purchased during any tax year ending or deemed to end on or
+20 after January 1, 2005, under the Internal Revenue Code.
+21 Sec. 3. Section 66-739, Revised Statutes Cumulative Supplement,
+22 2024, is amended to read:
+23 66-739 There is hereby created the Motor Fuel Tax Enforcement and
+24 Collection Cash Fund. Such fund shall consist of appropriations to the
+25 fund and money transferred to it pursuant to sections section 39-2215 and
+26 66-489. The fund shall be used exclusively for the costs of the
+27 Department of Revenue in carrying out its duties under the Compressed
+28 Fuel Tax Act, the Petroleum Release Remedial Action Act, the State
+29 Aeronautics Act, and sections 66-482 to 66-4,149, 66-501 to 66-531, and
+30 66-712 to 66-736 and other related costs for the Department of
+31 Agriculture and the Nebraska State Patrol, except that transfers may be
+-7-
+
+LB815 LB815
+2026 2026
+1 made from the fund to the General Fund at the direction of the
+2 Legislature. Any money in the Motor Fuel Tax Enforcement and Collection
+3 Cash Fund available for investment shall be invested by the state
+4 investment officer pursuant to the Nebraska Capital Expansion Act and the
+5 Nebraska State Funds Investment Act.
+6 Sec. 4. Section 66-1331, Reissue Revised Statutes of Nebraska, is
+7 amended to read:
+8 66-1331 The Legislature finds that Nebraska should continue its
+9 existing programs to encourage processing, market development, promotion,
+10 distribution, and research on products derived from grain, ethanol, or
+11 ethanol components, coproducts, and products derived from ethanol or
+12 ethanol coproducts or byproducts to provide for:
+13 (1) Expanded use of Nebraska agricultural products;
+14 (2) Efficient and less-polluting energy sources and reserves which
+15 will make Nebraska less energy dependent, improve air quality reduce
+16 atmospheric carbon monoxide levels, and retain Nebraska dollars in the
+17 Nebraska economy to achieve a multiplier effect thereby generating
+18 additional jobs and tax income to the state rather than the export of
+19 Nebraska dollars;
+20 (3) Development of protein products which will be more efficiently
+21 stored and marketed domestically and internationally to encourage greater
+22 processing of Nebraska ethanol, ethanol coproducts, and products derived
+23 from ethanol or ethanol coproducts to foreign nations rather than the
+24 present method of simple export of unprocessed grain products;
+25 (4) New and enhanced Alternative local outlets for Nebraska
+26 agricultural products which can be leveraged by Nebraska agricultural
+27 producers to facilitate strengthened demand and drive greater economic
+28 prosperity in rural communities. New and enhanced particularly utilized
+29 in times of depressed grain prices so as to give Nebraskans greater
+30 control of their crop marketing procedures rather than have crop
+31 marketing procedures too dependent upon federal agencies, major grain
+-8-
+
+LB815 LB815
+2026 2026
+1 exporters, and foreign purchasers. Local outlets may include ethanol
+2 plants, agricultural production facilities, or other facilities related
+3 to the processing, marketing, or distributing distribution of ethanol,
+4 ethanol coproducts, or products derived from ethanol or ethanol
+5 components, coproducts , or byproducts;
+6 (5) Collaboration Cooperation with private industry to support
+7 existing ethanol establish ethanol-related production facilities in
+8 Nebraska and establish new facilities producing ethanol, ethanol
+9 coproducts, or products derived from ethanol or ethanol coproducts to
+10 strengthen and create demand for Nebraska agricultural products;
+11 (6) Promotion and market development, in collaboration cooperation
+12 with private industry, of ethanol, ethanol coproducts, or products
+13 derived from ethanol or ethanol components, coproducts , or byproducts;
+14 and
+15 (7) Sponsorship of research and development of industrial and
+16 commercial uses for agricultural ethanol, ethanol coproducts, and
+17 products derived from ethanol or ethanol coproducts and for byproducts
+18 resulting from the manufacturing of agricultural ethanol in order to
+19 enhance economic feasibility and marketing potential of such products and
+20 processes.
+21 Sec. 5. Section 66-1332, Reissue Revised Statutes of Nebraska, is
+22 amended to read:
+23 66-1332 It is hereby declared to be the public policy of the State
+24 of Nebraska to safeguard the health, prosperity, and general welfare of
+25 its residents by developing, protecting, and maintaining a leading
+26 position in ethanol production and the processing of agricultural
+27 products into ethanol, ethanol coproducts, or products derived from
+28 ethanol or ethanol coproducts that improve air quality, strengthen energy
+29 security, increase demand for agricultural products, provide consumer
+30 choice, and displace products produced from petroleum. The Nebraska
+31 Ethanol Board shall be the state agency for such purpose. The Legislature
+-9-
+
+LB815 LB815
+2026 2026
+1 also recognizes the need for a statewide approach to identify and attract
+2 agricultural processing opportunities that support the Nebraska ethanol
+3 industry, the need to participate in programs of research, education,
+4 market development, and promotion of ethanol, ethanol coproducts, or
+5 products derived from ethanol or ethanol coproducts, and the need to
+6 provide subject matter expertise related to policy and regulatory affairs
+7 for ethanol, ethanol coproducts, or products derived from ethanol or
+8 ethanol coproducts. It is hereby declared to be the public policy of the
+9 state that, in order to safeguard life, health, property, and public
+10 welfare of its citizens, the production, sale, and use of motor fuel and
+11 the pollution caused by certain components of motor fuel are matters
+12 affecting the public interest and that a statewide emphasis on the
+13 production and use of motor fuel containing agricultural ethyl alcohol as
+14 a substitute for polluting components is necessary for the reduction of
+15 pollution and will further serve as an incentive for the agricultural
+16 economy in this state. The Legislature further recognizes that a fuel
+17 crisis is pending in the nation and that the development of an additional
+18 source of fuel will provide an energy and environmental benefit to the
+19 citizens of this state and to the future economic growth of Nebraska.
+20 Sec. 6. Section 66-1333, Reissue Revised Statutes of Nebraska, is
+21 amended to read:
+22 66-1333 For purposes of the Ethanol Development Act, unless the
+23 context otherwise requires:
+24 (1) Agricultural production facility or ethanol facility means a
+25 plant or facility related to the processing, marketing, or distribution
+26 of ethanol, ethanol coproducts, any products derived from ethanol or
+27 ethanol grain components, coproducts, or grain byproducts;
+28 (2) Board means the Nebraska Ethanol Board;
+29 (3) Ethanol producer means a person who devotes at least fifty
+30 percent of his or her professional time to ethanol production or business
+31 operations at an ethanol facility in Nebraska;
+-10-
+
+LB815 LB815
+2026 2026
+1 (4) (3) Grain means wheat, corn, and grain sorghum; and
+2 (5) (4) Name plate design capacity means the original designed
+3 capacity of an ethanol or agricultural production facility. Capacity may
+4 be specified as bushels of grain processed or mass or volume of ethanol,
+5 ethanol coproducts, or products derived from ethanol or ethanol
+6 coproducts produced ground or gallons of ethanol produced per year. ; and
+7 (5) Related parties means any two or more individuals, firms,
+8 partnerships, limited liability companies, companies, agencies,
+9 associations, or corporations which are members of the same unitary group
+10 or are any persons who are considered to be related persons under the
+11 Internal Revenue Code.
+12 Sec. 7. Section 66-1334, Revised Statutes Cumulative Supplement,
+13 2024, is amended to read:
+14 66-1334 (1) The Agricultural Alcohol Fuel Tax Fund is hereby
+15 created. The fund shall be administered by the board. The fund shall
+16 contain (a) money credited transfers made pursuant to section 66-489
+17 66-726, (b) all sums of money received from fees resulting from any
+18 conference or event held by the board, (c) gifts, grants, and
+19 contributions made by public or private entities, and (d) transfers as
+20 authorized by the Legislature. Any money in the fund available for
+21 investment shall be invested by the state investment officer pursuant to
+22 the Nebraska Capital Expansion Act and the Nebraska State Funds
+23 Investment Act.
+24 (2) The fund shall be used for the following purposes:
+25 (a) Establishment, in collaboration with cooperation of private
+26 industry, of procedures and processes necessary to the manufacture and
+27 marketing of ethanol, ethanol coproducts, and products derived from
+28 ethanol or ethanol coproducts fuel containing agricultural ethyl alcohol;
+29 (b) Establishment and enhancement of procedures for entering blended
+30 fuel into the marketplace by private enterprise;
+31 (c) Implementation Analysis of the marketing process and testing of
+-11-
+
+LB815 LB815
+2026 2026
+1 marketing and education procedures and programs to increase assure
+2 acceptance and awareness in the private marketplace of ethanol, ethanol
+3 coproducts, and products derived from ethanol or ethanol coproducts
+4 blended fuel and byproducts resulting from the manufacturing process;
+5 (d) Collaboration Cooperation with private industry to establish
+6 ethanol or agricultural production facilities privately owned
+7 agricultural ethyl alcohol manufacturing plants in Nebraska to supply
+8 demand for ethanol, ethanol coproducts, and products derived from ethanol
+9 or ethanol coproducts blended fuel;
+10 (e) Sponsoring research and development of industrial and commercial
+11 uses for ethanol, ethanol coproducts, and products derived from ethanol
+12 or ethanol coproducts agricultural ethyl alcohol and for byproducts
+13 resulting from the manufacturing process;
+14 (f) Promotion of state and national air quality improvement programs
+15 and influencing federal legislation that requires or encourages the use
+16 of fuels oxygenated by the inclusion of ethanol agricultural ethyl
+17 alcohol or fuels derived from ethanol its derivatives;
+18 (g) Promotion of the use of ethanol and fuels derived from ethanol
+19 renewable agricultural ethyl alcohol as a partial replacement for
+20 imported oil and for the energy and economic security of the nation;
+21 (h) Participation in development and passage of state and national
+22 legislation dealing with research, development, and promotion of United
+23 States production of fuels oxygenated by the inclusion of ethanol
+24 agricultural ethyl alcohol or its derivatives, access to potential
+25 markets, tax incentives, imports of foreign-produced fuel, and related
+26 concerns that may develop in the future; and
+27 (i) As the board may otherwise direct to fulfill the goals set forth
+28 under the Ethanol Development Act, including monitoring contracts for
+29 ethanol program commitments and solicitation of federal funds.
+30 Sec. 8. Section 66-1335, Revised Statutes Cumulative Supplement,
+31 2024, is amended to read:
+-12-
+
+LB815 LB815
+2026 2026
+1 66-1335 (1) The Nebraska Ethanol Board is hereby established. The
+2 board shall consist of nine seven members to be appointed by the Governor
+3 with the approval of a majority of the Legislature. The Governor shall
+4 make the initial appointments within thirty days after September 1, 1993.
+5 (2)(a) Four members shall be actually engaged in farming in this
+6 state, one in general farming and one each in the production of corn,
+7 wheat, and sorghum.
+8 (b)(i) Until August 31, 2026, one One member shall be actively
+9 engaged in business in this state.
+10 (ii) Beginning September 1, 2026, the member under this subdivision
+11 (2)(b) shall be an ethanol producer in this state. If the member under
+12 this subdivision (2)(b) is an ethanol producer on August 31, 2026, then
+13 such member may serve as the member under this subdivision (2)(b) for the
+14 remainder of the term without reappointment by the Governor. If the
+15 member under this subdivision (2)(b) is not an ethanol producer on August
+16 31, 2026, the Governor shall appoint a new member that is an ethanol
+17 producer to serve as the member under this subdivision (2)(b) for the
+18 remainder of the term within thirty days after September 1, 2026.
+19 (c) One member shall represent labor interests in this state.
+20 (d) One member shall represent Nebraska petroleum marketers in this
+21 state.
+22 (e) Two members shall be ethanol producers in this state, and such
+23 members shall be in addition to the member that is an ethanol producer
+24 under subdivision (2)(b) of this section. The Governor shall make the
+25 initial appointments of such members within thirty days after September
+26 1, 2026.
+27 (3) (2) Members shall be appointed for terms of four years, except
+28 that the initial terms of the two initial appointees under subdivision
+29 (2)(e) of this section shall expire on August 31, 2028, for one of such
+30 members and on August 31, 2029, for the other of such members the terms
+31 of the member representing labor interests and the member engaged in
+-13-
+
+LB815 LB815
+2026 2026
+1 general farming shall expire on August 31, 1994, the terms of the member
+2 engaged in sorghum production and the member engaged in wheat production
+3 shall expire on August 31, 1995, the term of the member representing
+4 petroleum marketers shall expire on August 31, 1996, and the terms of the
+5 member engaged in business and the member engaged in corn production
+6 shall expire on August 31, 1997. A member shall serve until a successor
+7 is appointed and qualified. Not more than five four members shall be
+8 members of the same political party.
+9 (4) (3) A vacancy on the board shall exist in the event of death,
+10 disability, resignation, or removal for cause of a member. Any vacancy on
+11 the board arising other than from the expiration of a term shall be
+12 filled by appointment for the unexpired portion of the term. An
+13 appointment to fill a vacancy shall be made by the Governor with the
+14 approval of a majority of the Legislature, and any person so appointed
+15 shall have the same qualifications as the person whom he or she succeeds.
+16 (5) (4) The board shall meet at least once annually.
+17 (6) (5) The members shall be reimbursed for expenses as provided in
+18 sections 81-1174 to 81-1177. The members shall receive twenty-five
+19 dollars for each day while engaged in the performance of board duties.
+20 Sec. 9. Section 66-1337, Reissue Revised Statutes of Nebraska, is
+21 amended to read:
+22 66-1337 The board may rent office space and employ such personnel as
+23 may be necessary for the performance of its duties. The board may employ
+24 the services of experts and consultants and expend funds necessary to
+25 acquire title to commodities pursuant to section 66-1340, to promote air
+26 quality improvement programs , or to otherwise carry out the board's
+27 duties under the Ethanol Development Act.
+28 Sec. 10. Section 66-1338, Reissue Revised Statutes of Nebraska, is
+29 amended to read:
+30 66-1338 The board may appropriate funds and become a member of any
+31 national ethanol promotion or trade organization that is necessary or
+-14-
+
+LB815 LB815
+2026 2026
+1 advantageous for the carrying out of the duties of the board under the
+2 Ethanol Development Act group.
+3 Sec. 11. Section 66-1340, Reissue Revised Statutes of Nebraska, is
+4 amended to read:
+5 66-1340 The board may accept gifts, donations, money, and services ,
+6 including in-kind resources such as grain owned by the Commodity Credit
+7 Corporation and the United States Department of Agriculture. The board
+8 may take title to the Commodity Credit Corporation's inventories and use
+9 such commodities to carry out the Ethanol Development Act. The board may
+10 accept commodities in connection with section 1024 of the Food Security
+11 Act of 1985 or in connection with any other section of state or federal
+12 law.
+13 Sec. 12. Section 66-1521, Revised Statutes Cumulative Supplement,
+14 2024, is amended to read:
+15 66-1521 (1) A petroleum release remedial action fee is hereby
+16 imposed upon the producer, refiner, importer, distributor, wholesaler, or
+17 supplier who engages in the sale, distribution, delivery, and use of
+18 petroleum within this state, except that the fee shall not be imposed on
+19 petroleum that is exported or . The fee shall also be imposed on diesel
+20 fuel which is indelibly dyed. The amount of the fee shall be nine-tenths
+21 of one cent per gallon on motor vehicle fuel as defined in section 66-482
+22 and six-tenths three-tenths of one cent per gallon on diesel fuel as
+23 defined in section 66-482. The amount of the fee shall be used first for
+24 payment of claims approved by the State Claims Board pursuant to section
+25 66-1531; second, up to three million dollars of the fee per year shall be
+26 used for reimbursement of owners and operators under the Petroleum
+27 Release Remedial Action Act for investigations of releases ordered
+28 pursuant to section 81-15,124; and third, the remainder of the fee shall
+29 be used for any other purpose authorized by section 66-1519. The fee
+30 shall be paid by all producers, refiners, importers, distributors,
+31 wholesalers, and suppliers subject to the fee by filing a monthly return
+-15-
+
+LB815 LB815
+2026 2026
+1 on or before the twentieth day of the calendar month following the
+2 monthly period to which it relates. The pertinent provisions,
+3 specifically including penalty provisions, of the motor fuel laws as
+4 defined in section 66-712 shall apply to the administration and
+5 collection of the fee except for the treatment given refunds. There shall
+6 be a refund allowed on any fee paid on petroleum which was taxed and then
+7 exported, destroyed, or purchased for use by the United States Government
+8 or its agencies. The department may also adjust for all errors in the
+9 payment of the fee. In each calendar year, no claim for refund related to
+10 the fee can be for an amount less than ten dollars.
+11 (2) No producer, refiner, importer, distributor, wholesaler, or
+12 supplier shall engage in the sale, distribution, delivery, or use of
+13 petroleum in this state without having first obtained a petroleum release
+14 remedial action license. Application for a license shall be made to the
+15 Department of Revenue upon a form prepared and furnished by the
+16 Department of Revenue. If the applicant is an individual, the application
+17 shall include the applicant's social security number. Failure to obtain a
+18 license prior to engaging in the sale, distribution, delivery, or use of
+19 petroleum shall be a Class IV misdemeanor. The Department of Revenue may
+20 suspend or cancel the license of any producer, refiner, importer,
+21 distributor, wholesaler, or supplier who fails to pay the fee imposed by
+22 subsection (1) of this section in the same manner as licenses are
+23 suspended or canceled pursuant to section 66-720.
+24 (3) The Department of Revenue may adopt and promulgate rules and
+25 regulations necessary to carry out this section.
+26 (4) The Department of Revenue shall deduct and withhold from the
+27 petroleum release remedial action fee collected pursuant to this section
+28 an amount sufficient to reimburse the direct costs of collecting and
+29 administering the petroleum release remedial action fee. Such costs shall
+30 not exceed one hundred fifty thousand dollars for each fiscal year. The
+31 one hundred fifty thousand dollars shall be prorated, based on the number
+-16-
+
+LB815 LB815
+2026 2026
+1 of months the fee is collected, whenever the fee is collected for only a
+2 portion of a year. The amount deducted and withheld for costs shall be
+3 deposited in the Petroleum Release Remedial Action Collection Fund which
+4 is hereby created. The Petroleum Release Remedial Action Collection Fund
+5 shall be appropriated to the Department of Revenue, except that transfers
+6 may be made from the fund to the General Fund at the direction of the
+7 Legislature. Any money in the Petroleum Release Remedial Action
+8 Collection Fund available for investment shall be invested by the state
+9 investment officer pursuant to the Nebraska Capital Expansion Act and the
+10 Nebraska State Funds Investment Act.
+11 (5) The Department of Revenue shall collect the fee imposed by
+12 subsection (1) of this section.
+13 Sec. 13. Sections 1, 2, 3, 7, 12, and 15 of this act become
+14 operative on October 1, 2026. The other sections of this act become
+15 operative on their effective date.
+16 Sec. 14. Original sections 66-1331, 66-1332, 66-1333, 66-1337,
+17 66-1338, and 66-1340, Reissue Revised Statutes of Nebraska, and section
+18 66-1335, Revised Statutes Cumulative Supplement, 2024, are repealed.
+19 Sec. 15. Original section 66-726, Reissue Revised Statutes of
+20 Nebraska, and sections 66-489, 66-739, 66-1334, and 66-1521, Revised
+21 Statutes Cumulative Supplement, 2024, are repealed.
+22 Sec. 16. The following sections are outright repealed: Sections
+23 66-1342, 66-1344.01, 66-1345, 66-1345.05, and 66-1348, Reissue Revised
+24 Statutes of Nebraska, and section 66-1344, Revised Statutes Supplement,
+25 2025.
+-17-

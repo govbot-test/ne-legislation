@@ -1,0 +1,1776 @@
+Title: 
+Official Title: 
+Source: versions - Revenue AM2504 Conrad AM2879 von Gillern FA1081 Conrad AM2881 von Gillern FA1082
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+AM2504 AM2504
+LB1165 LB1165
+CSO - 03/17/2026 CSO - 03/17/2026
+AMENDMENTS TO LB1165
+Introduced by Revenue.
+1 1. Strike the original sections and insert the following new
+2 sections:
+3 Section 1. Sections 1 to 12 of this act shall be known and may be
+4 cited as the Grow the Good Life Act.
+5 Sec. 2. The purpose of the Grow the Good Life Act is to provide
+6 incentives to encourage large in-state employers to retain workforce and
+7 their headquarters in-state, as well as attract or relocate workforce to
+8 the state, when there is a material change in ownership or control
+9 pursuant to a merger or business combination with a company located
+10 outside of this state.
+11 Sec. 3. For purposes of the Grow the Good Life Act:
+12 (1) Base year means the year immediately preceding the year during
+13 which the change in ownership and control occurred;
+14 (2) Base-year employees means the number of equivalent employees
+15 employed by the taxpayer during the base year in Nebraska who (a) are
+16 paid wages at a rate equal to at least one hundred percent of the
+17 Nebraska statewide average hourly wage for the year of application and
+18 (b) receive a sufficient package of benefits as specified in the ImagiNE
+19 Nebraska Act;
+20 (3) Change in ownership and control means a change in equity
+21 ownership of an employer within the state resulting from a merger or
+22 combination if the following requirements are met:
+23 (a) The employer maintained its headquarters within the state for a
+24 period of at least ten years prior to the date of the merger or
+25 combination;
+26 (b) Immediately prior to the date of the merger or combination, the
+27 employer employed more than three thousand full-time employees as defined
+-1-
+
+AM2504 AM2504
+LB1165 LB1165
+CSO - 03/17/2026 CSO - 03/17/2026
+1 in section 4980H of the Internal Revenue Code of 1986, as amended, and
+2 the regulations for such section, within the state;
+3 (c) Immediately prior to the date of the merger or combination, the
+4 out-of-state company had an actual or implied enterprise value in excess
+5 of fifty billion dollars and the shareholders of the out-of-state company
+6 receive twenty percent or more of the ownership share value or voting
+7 equity of the new merged or combined entity as part of the transaction;
+8 and
+9 (d) The merger or combination occurs between January 1, 2026, and
+10 December 31, 2028;
+11 (4) Director means the Director of Economic Development;
+12 (5) Earning period means the year of application plus the next nine
+13 years;
+14 (6) Employer means a taxpayer that:
+15 (a) Employs at least three thousand equivalent employees in Nebraska
+16 during the base year;
+17 (b) Offers all full-time employees, as defined in section 4980H of
+18 the Internal Revenue Code of 1986, as amended, the opportunity to enroll
+19 in minimum essential coverage under an eligible employer-sponsored plan,
+20 as those terms are defined and described in section 5000A of the Internal
+21 Revenue Code of 1986, as amended;
+22 (c) Offers all full-time employees, as defined in section 4980H of
+23 the Internal Revenue Code of 1986, as amended, a sufficient package of
+24 benefits as specified in the ImagiNE Nebraska Act;
+25 (d) Enforces a company policy against any discrimination that is
+26 prohibited by federal or state law;
+27 (e) Electronically verifies the work eligibility status of all new
+28 employees employed in Nebraska within ninety days after the date of hire
+29 during the earning period and the usage period;
+30 (f) Has gone through a change in ownership and control prior to the
+31 application;
+-2-
+
+AM2504 AM2504
+LB1165 LB1165
+CSO - 03/17/2026 CSO - 03/17/2026
+1 (g) Is a company within the state seeking to potentially retain,
+2 attract, or relocate employees to the state following a merger or
+3 combination described in subdivision (3) of this section;
+4 (h) Retains at least ninety percent of its equivalent base-year
+5 employment; and
+6 (i) Is a qualified business;
+7 (7) Equivalent employees means the number of employees computed by
+8 dividing the total hours paid in a year by the product of forty times the
+9 number of weeks in a year. A salaried employee who receives a
+10 predetermined amount of compensation each pay period on a weekly or less
+11 frequent basis is deemed to have been paid for forty hours per week
+12 during the pay period;
+13 (8) Nebraska statewide average hourly wage for any year means the
+14 most recent statewide average hourly wage paid by all employers in all
+15 counties in Nebraska as calculated by the Office of Labor Market
+16 Information of the Department of Labor using annual data from the
+17 Quarterly Census of Employment and Wages by October 1 of the year prior
+18 to application. Hourly wages shall be calculated by dividing the reported
+19 average annual weekly wage by forty;
+20 (9) Out-of-state company means a company that is not organized under
+21 the laws of this state;
+22 (10) Qualified business means any business if the majority of the
+23 business activities conducted throughout Nebraska by such business meet
+24 the requirements for a qualified location as defined in subsection (1) or
+25 (2) of section 77-6818. For purposes of this subdivision, the majority of
+26 business activities conducted shall be determined based on the number of
+27 equivalent employees working in the respective business activities;
+28 (11) Taxpayer means any person subject to sales and use taxes under
+29 the Nebraska Revenue Act of 1967 and subject to withholding under section
+30 77-2753 and any entity that is or would otherwise be a member of the same
+31 unitary group, if incorporated, that is subject to such sales and use
+-3-
+
+AM2504 AM2504
+LB1165 LB1165
+CSO - 03/17/2026 CSO - 03/17/2026
+1 taxes and such withholding. Taxpayer does not include a political
+2 subdivision or an organization that is exempt from income taxes under
+3 section 501(a) of the Internal Revenue Code of 1986, as amended. For
+4 purposes of this subdivision, political subdivision includes any public
+5 corporation created for the benefit of a political subdivision and any
+6 group of political subdivisions forming a joint public agency, organized
+7 by interlocal agreement, or utilizing any other method of joint action;
+8 (12) Usage period means a ten-year period beginning on January 1,
+9 2031, during which credits earned in the earning period shall be claimed;
+10 (13) Wage retention credit means the credit described in the Grow
+11 the Good Life Act; and
+12 (14) Year means calendar year.
+13 Sec. 4. Any term defined in the Nebraska Revenue Act of 1967 or in
+14 the ImagiNE Nebraska Act has the same meaning in the Grow the Good Life
+15 Act unless the context or the express language of the Grow the Good Life
+16 Act requires a different meaning.
+17 Sec. 5. (1) If an employer has entered into an agreement with the
+18 state pursuant to section 6 of this act, the employer shall during each
+19 year of the earning period receive the wage retention credit approved by
+20 the director in the manner provided in the Grow the Good Life Act.
+21 (2) The wage retention credit shall equal five percent of the total
+22 compensation paid by the employer in the year to all retained employees
+23 of the employer in Nebraska who are paid wages for services rendered at a
+24 rate equal to at least one hundred percent of the Nebraska statewide
+25 average hourly wage for the year of application. The wage retention
+26 credit earned for all qualified employers shall not exceed five million
+27 dollars in any year. If two or more employers qualify for benefits in any
+28 given year, the employer with the largest average number of employees
+29 within Nebraska during the ten years prior to the change in ownership or
+30 control shall be fully funded first.
+31 (3) The wage retention credits received in the earning period shall
+-4-
+
+AM2504 AM2504
+LB1165 LB1165
+CSO - 03/17/2026 CSO - 03/17/2026
+1 be used during the usage period. Unused credits may carry over only to
+2 the end of the usage period.
+3 (4) The total amount all employers may receive in credits pursuant
+4 to the Grow the Good Life Act shall not exceed fifty million dollars. If
+5 two or more employers qualify for benefits, the one with the earlier
+6 approval will be fully funded first. This benefit is in addition to any
+7 benefits the employer may otherwise qualify for under the ImagiNE
+8 Nebraska Act or may have qualified for previously under the Nebraska
+9 Advantage Act or the Employment and Investment Growth Act.
+10 (5) The wage retention credit shall be claimed by filing the forms
+11 required by the Tax Commissioner with the employer's income tax return.
+12 The credits may be used after any other nonrefundable credits to reduce
+13 the employer's income tax liability imposed by sections 77-2714 to
+14 77-27,135. Credits may be used beginning with the taxable year which
+15 includes December 31 of the first year in the usage period. The last year
+16 for which credits may be used is the taxable year which includes December
+17 31 of the last year of the usage period. Any decision on how part of the
+18 credit is applied shall not limit how the remaining credit could be
+19 applied under this section.
+20 (6) The employer may use the wage retention credit to reduce the
+21 employer's income tax withholding employer or payor tax liability under
+22 section 77-2756 or 77-2757. To the extent of the credit used, such
+23 withholding shall not constitute public funds or state tax revenue and
+24 shall not constitute a trust fund or be owned by the state. The use by
+25 the employer of the credit shall not change the amount that otherwise
+26 would be reported by the employer to the employee under section 77-2754
+27 as income tax withheld and shall not reduce the amount that otherwise
+28 would be allowed by the state as a refundable credit on an employee's
+29 income tax return as income tax withheld under section 77-2755.
+30 Sec. 6. (1) In order for the employer to be eligible for the wage
+31 retention credit, the employer shall file an application for an agreement
+-5-
+
+AM2504 AM2504
+LB1165 LB1165
+CSO - 03/17/2026 CSO - 03/17/2026
+1 with the director.
+2 (2) The application shall:
+3 (a) State the exact name of the taxpayer and any related companies;
+4 (b) Include a description, in detail, of the nature of the company's
+5 business, including the products sold and respective markets;
+6 (c) Request that the company be considered for approval under the
+7 Grow the Good Life Act;
+8 (d) Acknowledge that the employer understands and complies with the
+9 requirements for providing health insurance, providing a sufficient
+10 package of benefits, enforcing a policy against discrimination, and
+11 verifying the work eligibility status of all new employees;
+12 (e) State the number of base-year employees; and
+13 (f) Include a nonrefundable application fee of five thousand
+14 dollars. The fee shall be remitted to the State Treasurer for credit to
+15 the Nebraska Incentives Fund.
+16 (3) The application, and all supporting information, is confidential
+17 except for the name of the taxpayer, the number of employees retained,
+18 and whether the application has been approved.
+19 (4) An application may be approved by the director only if it is
+20 consistent with the legislative purposes contained in section 2 of this
+21 act, the employer will retain its headquarters in the state throughout
+22 the earnings period and the usage period, and the employer will retain at
+23 least ninety percent of the base-year employees in the state throughout
+24 the earnings period and the usage period. This threshold regarding base-
+25 year employees constitutes the required level of employment for purposes
+26 of the Grow the Good Life Act. The director shall mail a notice within
+27 thirty days after receiving the application, indicating the approval or
+28 disapproval of the application, unless the time is extended by mutual
+29 written consent of the director and applicant.
+30 (5) If the application is approved by the director, the employer and
+31 the state shall enter into a written agreement, which shall be executed
+-6-
+
+AM2504 AM2504
+LB1165 LB1165
+CSO - 03/17/2026 CSO - 03/17/2026
+1 on behalf of the state by the director. In the agreement, the employer
+2 shall agree to retain its headquarters in the state throughout the
+3 earning period and the usage period, and retain at least ninety percent
+4 of the base-year employees in the state throughout the earning period and
+5 the usage period. In consideration of the employer's agreement, the state
+6 shall agree to allow the wage retention credits as provided in the Grow
+7 the Good Life Act. The application, and all supporting documentation, to
+8 the extent approved, shall be considered a part of the agreement. The
+9 agreement may contain such terms and conditions as the director specifies
+10 in order to carry out the legislative purposes of the Grow the Good Life
+11 Act. The agreement shall contain provisions to allow the Department of
+12 Revenue to verify that the required levels of employment have been
+13 maintained and the headquarters is still located in the state.
+14 Sec. 7. (1) If the employer fails to retain the required level of
+15 employment and retain its headquarters in the state throughout the
+16 entirety of the earning period and the usage period, all or a portion of
+17 the wage retention credits shall be recaptured directly by the state from
+18 the employer or shall be disallowed. In no event shall any wage retention
+19 credits be required to be paid back directly or indirectly by the
+20 employees. All such credits must be repaid by the employer.
+21 (2) The recapture or disallowance shall be as follows:
+22 (a) If the employer has failed to retain the required level of
+23 employment:
+24 (i) No wage retention credits shall be used, and if already used
+25 shall be recaptured, for the actual year or years in which the required
+26 level of employment was not maintained;
+27 (ii) For wage retention credits used in prior years, one-tenth of
+28 the credits shall be recaptured from the employer for each year the
+29 required level of employment was not maintained; and
+30 (iii) For wage retention credits for future years, the credits shall
+31 be reduced by one-tenth for each year the required level of employment
+-7-
+
+AM2504 AM2504
+LB1165 LB1165
+CSO - 03/17/2026 CSO - 03/17/2026
+1 was not maintained in previous years; and
+2 (b) If the employer has failed to retain its headquarters in the
+3 state:
+4 (i) No wage retention credits shall be used, and if already used
+5 shall be recaptured, for the actual year or years in which the
+6 headquarters was not retained in the state;
+7 (ii) For wage retention credits allowed in prior years, one-tenth of
+8 the credits shall be recaptured from the employer for each year of the
+9 usage period the headquarters was not maintained in the state; and
+10 (iii) Wage retention credits will not be allowed for future years if
+11 the employer has not maintained its headquarters in the state.
+12 (3) Any amounts required to be recaptured shall be deemed to be an
+13 underpayment of tax, immediately due and payable, and shall constitute a
+14 lien on the assets of the employer. When wage retention credits were
+15 received in more than one year, the credits received in the most recent
+16 year shall be recovered first and then the credits received in earlier
+17 years shall be recovered up to the extent of the required recapture.
+18 (4) Interest shall accrue from the due date for the return for the
+19 year in which the employer failed to maintain the required level of
+20 employment or failed to maintain its headquarters in the state.
+21 (5) Penalties shall not accrue until ninety days after the
+22 requirement for recapture or disallowance becomes known or should have
+23 become known to the employer.
+24 (6) The recapture or disallowance required by this section may be
+25 waived by the Tax Commissioner if he or she finds the failure to maintain
+26 the required level of employment or failure to maintain the employer's
+27 headquarters in the state was caused by unavoidable circumstances such as
+28 an act of God or a national emergency.
+29 Sec. 8. (1) The wage retention credits allowed under the Grow the
+30 Good Life Act shall not be transferable except in the following
+31 situations:
+-8-
+
+AM2504 AM2504
+LB1165 LB1165
+CSO - 03/17/2026 CSO - 03/17/2026
+1 (a) Any credit allowable to a partnership, a limited liability
+2 company, a subchapter S corporation, a cooperative, including a
+3 cooperative exempt under section 521 of the Internal Revenue Code of
+4 1986, as amended, a limited cooperative association, or an estate or
+5 trust may be distributed to the partners, members, shareholders, patrons,
+6 or beneficiaries in the same manner as income is distributed for use
+7 against their income tax liabilities, and such partners, members,
+8 shareholders, or beneficiaries shall be deemed to have made an
+9 underpayment of their income taxes for any recapture required by section
+10 7 of this act. A credit distributed shall be considered a credit used and
+11 the partnership, limited liability company, subchapter S corporation,
+12 cooperative, including a cooperative exempt under section 521 of the
+13 Internal Revenue Code of 1986, as amended, limited cooperative
+14 association, estate, or trust shall be liable for any repayment required
+15 by section 7 of this act;
+16 (b) The credit may be transferred to a qualified employee leasing
+17 company from a taxpayer who is a client-lessee of the qualified employee
+18 leasing company with employees performing services at the qualified
+19 location or locations of the client-lessee. The credits transferred must
+20 be designated for a specific year and cannot be carried forward by the
+21 qualified employee leasing company. The credits may only be used by the
+22 qualified employee leasing company to offset the income tax withholding
+23 liability under section 77-2756 or 77-2757 for withholding for employees
+24 performing services for the client-lessee in Nebraska. The offset to such
+25 withholding liability must be computed in accordance with subsection (6)
+26 of section 5 of this act based on wages paid to the employees by the
+27 qualified employee leasing company, and not the amount paid to the
+28 qualified employee leasing company by the client-lessee; and
+29 (c) The credits previously allowed and future credits may be
+30 transferred when an agreement is transferred in its entirety by sale or
+31 lease to another taxpayer or in an acquisition of assets qualifying under
+-9-
+
+AM2504 AM2504
+LB1165 LB1165
+CSO - 03/17/2026 CSO - 03/17/2026
+1 section 381 of the Internal Revenue Code of 1986, as amended.
+2 (2) The acquiring taxpayer, as of the date of notification to the
+3 director of the completed transfer, shall be entitled to any unused
+4 credits and to any future credits allowable under the Grow the Good Life
+5 Act.
+6 (3) The acquiring taxpayer shall be liable for any recapture that
+7 becomes due after the date of the transfer for the repayment of any
+8 credits received either before or after the transfer.
+9 (4) If a taxpayer dies and there is a credit remaining after the
+10 filing of the final return for the taxpayer, the personal representative
+11 shall determine the distribution of the credit or any remaining carryover
+12 with the initial fiduciary return filed for the estate. The determination
+13 of the distribution of the credit may be changed only after obtaining the
+14 permission of the Tax Commissioner.
+15 (5) The director and the Tax Commissioner may disclose information
+16 to the acquiring taxpayer about the agreement and prior credits that is
+17 reasonably necessary to determine the future credits and liabilities of
+18 the taxpayer.
+19 Sec. 9. The Department of Economic Development and the Department
+20 of Revenue, in consultation with the Governor, may adopt and promulgate
+21 rules and regulations necessary or appropriate to carry out the purposes
+22 of the Grow the Good Life Act.
+23 Sec. 10. (1) The Department of Economic Development and the
+24 Department of Revenue shall jointly submit electronically an annual
+25 report to the Legislature no later than October 31 of each year. The
+26 report shall be on a fiscal year, accrual basis that satisfies the
+27 requirements set by the Governmental Accounting Standards Board. The
+28 Department of Economic Development and the Department of Revenue shall
+29 together, on or before December 15 of each year, appear at a joint
+30 hearing of the Appropriations Committee of the Legislature and the
+31 Revenue Committee of the Legislature and present the report. Any
+-10-
+
+AM2504 AM2504
+LB1165 LB1165
+CSO - 03/17/2026 CSO - 03/17/2026
+1 supplemental information requested by three or more committee members
+2 must be provided within thirty days after the request.
+3 (2) The report shall list (a) the agreements which have been signed
+4 during the previous calendar year, (b) the agreements which are still in
+5 effect, and (c) the identity of each taxpayer that is a party to an
+6 agreement.
+7 (3) The report shall provide information on agreement-specific total
+8 credits used every two years for each agreement. The report shall
+9 disclose the identity of the taxpayer and the total credits used during
+10 the immediately preceding two years, expressed as a single, aggregated
+11 total. The information required to be reported under this subsection
+12 shall not be reported for the first year the taxpayer maintains the
+13 required employment threshold. The information on first-year credits used
+14 shall be combined with and reported as part of the second year.
+15 Thereafter, the information on credits used for succeeding years shall be
+16 reported for each agreement every two years containing information on two
+17 years of credits used.
+18 (4) No information shall be provided in the report that is protected
+19 by state or federal confidentiality laws.
+20 Sec. 11. (1) Any complete application shall be considered a valid
+21 application on the date submitted for the purposes of the Grow the Good
+22 Life Act.
+23 (2) The director shall be allowed access, by the Tax Commissioner,
+24 to information associated with the Employment and Investment Growth Act,
+25 the ImagiNE Nebraska Act, the Key Employer and Jobs Retention Act, the
+26 Nebraska Advantage Act, and the Nebraska Advantage Rural Development Act
+27 to meet the director's obligations under the Grow the Good Life Act.
+28 (3) The director may contract with the Tax Commissioner for services
+29 that the director determines are necessary to fulfill the director's
+30 responsibilities under the Grow the Good Life Act, other than services
+31 which constitute the actual actions and decisions required to be taken or
+-11-
+
+AM2504 AM2504
+LB1165 LB1165
+CSO - 03/17/2026 CSO - 03/17/2026
+1 made by the director under the Grow the Good Life Act.
+2 Sec. 12. Applications under the Grow the Good Life Act may be filed
+3 beginning January 1, 2027, through May 31, 2029. All applications and all
+4 agreements pending, approved, or entered into on or before May 31, 2029,
+5 shall continue in full force and effect.
+6 Sec. 13. Section 13-2603, Revised Statutes Supplement, 2025, is
+7 amended to read:
+8 13-2603 For purposes of the Convention Center Facility Financing
+9 Assistance Act:
+10 (1) Applicant means the political subdivision that applies for
+11 assistance under the act;
+12 (2) Associated hotel means any publicly or privately owned facility
+13 in which the public may, for a consideration, obtain sleeping
+14 accommodations and which is located, in whole or in part, within six
+15 hundred yards of an eligible facility, measured from any point of the
+16 exterior perimeter of the eligible facility but not from any parking
+17 facility or other structure, except that if the eligible facility is
+18 within six hundred yards of the State Capitol, the area used in
+19 determining associated hotels shall be one or more contiguous or
+20 noncontiguous areas within the territorial boundaries of the applicant
+21 which are selected by the applicant and which aggregate the same total
+22 amount of square footage that such area would have contained had the
+23 eligible facility not been within six hundred yards of the State Capitol.
+24 The area used in determining associated hotels shall be depicted on a map
+25 submitted pursuant to section 13-2605;
+26 (3) Board means a board consisting of the Governor, the State
+27 Treasurer, the chairperson of the Nebraska Investment Council, the
+28 chairperson of the Nebraska State Board of Public Accountancy, and a
+29 professor of economics on the faculty of a state postsecondary
+30 educational institution appointed to a two-year term on the board by the
+31 Coordinating Commission for Postsecondary Education. For administrative
+-12-
+
+AM2504 AM2504
+LB1165 LB1165
+CSO - 03/17/2026 CSO - 03/17/2026
+1 and budget purposes only, the board shall be considered part of the
+2 Department of Revenue;
+3 (4) Bond means a general obligation bond, redevelopment bond, lease-
+4 purchase bond, revenue bond, or combination of any such bonds;
+5 (5) Convention and meeting center facility means a temperature-
+6 controlled building and personal property primarily used as a convention
+7 and meeting center, including an auditorium, an exhibition hall, a
+8 facility for onsite food preparation and serving, an onsite, directly
+9 connected parking facility for the use of the convention and meeting
+10 center facility, a nearby parking facility for the use of the convention
+11 and meeting center facility, and an onsite administrative office of the
+12 convention and meeting center facility;
+13 (6)(a) Eligible facility means any publicly owned convention and
+14 meeting center facility approved for state assistance on or before June
+15 1, 2007, any publicly owned sports arena facility attached to such
+16 convention and meeting center facility, or any publicly owned convention
+17 and meeting center facility or publicly owned sports arena facility
+18 acquired, constructed, improved, or equipped after June 1, 2007; and
+19 (b) Beginning with applications for financial assistance received on
+20 or after February 1, 2008, eligible facility does not include any
+21 publicly owned sports arena facility with a seating capacity of greater
+22 than sixteen thousand seats unless such facility is located in a city of
+23 the primary class;
+24 (7) General obligation bond means any bond or refunding bond issued
+25 by a political subdivision and which is payable exclusively from the
+26 proceeds of an ad valorem tax;
+27 (8) Maximum aggregate appropriation means (a) one hundred fifty
+28 million dollars for any one approved project, but not more than the total
+29 cost of acquiring, constructing, improving, repairing, replacing,
+30 financing, or equipping the eligible facilities of the political
+31 subdivision, or (b) for an eligible facility located within six hundred
+-13-
+
+AM2504 AM2504
+LB1165 LB1165
+CSO - 03/17/2026 CSO - 03/17/2026
+1 yards of the State Capitol, the total cost of acquiring, constructing,
+2 improving, repairing, replacing, financing, and equipping such facility,
+3 but only to the extent the cost of acquiring, constructing, improving,
+4 repairing, replacing, and equipping such facility does not exceed one
+5 hundred fifty million dollars;
+6 (9) Nearby parking facility means any parking lot, parking garage,
+7 or other parking structure that is not directly connected to a convention
+8 and meeting center facility but which is located, in whole or in part,
+9 within six hundred yards of a convention and meeting center facility,
+10 measured from any point of the exterior perimeter of such facility but
+11 not from any other parking facility or other structure;
+12 (10) Nearby retailer means a retailer as defined in section
+13 77-2701.32 that is located, in whole or in part, within six hundred yards
+14 of an eligible facility the application for which is approved on or after
+15 June 7, 2023, measured from any point of the exterior perimeter of the
+16 eligible facility but not from any parking facility or other structure,
+17 except that if the eligible facility is within six hundred yards of the
+18 State Capitol, the area used in determining nearby retailers shall be one
+19 or more contiguous or noncontiguous areas within the territorial
+20 boundaries of the applicant which are selected by the applicant and which
+21 aggregate the same total amount of square footage that such area would
+22 have contained had the eligible facility not been within six hundred
+23 yards of the State Capitol. The area used in determining nearby retailers
+24 shall be depicted on a map submitted pursuant to section 13-2605;
+25 (11) Political subdivision means any local governmental body formed
+26 and organized under state law and any joint entity or joint public agency
+27 created under state law to act on behalf of political subdivisions which
+28 has statutory authority to issue general obligation bonds;
+29 (12) Revenue bond means any bond or refunding bond issued by a
+30 political subdivision which is limited or special rather than a general
+31 obligation bond of the political subdivision and which is not payable
+-14-
+
+AM2504 AM2504
+LB1165 LB1165
+CSO - 03/17/2026 CSO - 03/17/2026
+1 from the proceeds of an ad valorem tax; and
+2 (13) Sports arena facility means any enclosed temperature-controlled
+3 building primarily used for competitive sports, including arenas,
+4 dressing and locker facilities, concession areas, parking facilities, and
+5 onsite administrative offices connected with operating the facilities.
+6 Sec. 14. Section 49-801.01, Reissue Revised Statutes of Nebraska, is
+7 amended to read:
+8 49-801.01 Except as provided by Article VIII, section 1B, of the
+9 Constitution of Nebraska and in sections 77-1106, 77-1108, 77-1109,
+10 77-1117, 77-1119, 77-2701.01, 77-2714 to 77-27,123, 77-27,191, 77-2902,
+11 77-2906, 77-2908, 77-2909, 77-4103, 77-4104, 77-4108, 77-5509, 77-5515,
+12 77-5527 to 77-5529, 77-5539, 77-5717 to 77-5719, 77-5728, 77-5802,
+13 77-5803, 77-5806, 77-5903, 77-6302, 77-6306, 77-6509, 77-6513, 77-6519,
+14 77-6811, 77-6815, 77-6819, 77-6821, 77-6822, 77-6831, 77-6834, 77-6842,
+15 77-6908, 77-6913, 77-6915, 77-6916, and 77-6925 and sections 3 and 8 of
+16 this act, any reference to the Internal Revenue Code refers to the
+17 Internal Revenue Code of 1986 as it exists on April 12, 2018.
+18 Sec. 15. Section 77-5723, Revised Statutes Cumulative Supplement,
+19 2024, is amended to read:
+20 77-5723 (1) In order to utilize the incentives set forth in the
+21 Nebraska Advantage Act, the taxpayer shall file an application, on a form
+22 developed by the Tax Commissioner, requesting an agreement with the Tax
+23 Commissioner.
+24 (2) The application shall contain:
+25 (a) A written statement describing the plan of employment and
+26 investment for a qualified business in this state;
+27 (b) Sufficient documents, plans, and specifications as required by
+28 the Tax Commissioner to support the plan and to define a project;
+29 (c) If more than one location within this state is involved,
+30 sufficient documentation to show that the employment and investment at
+31 different locations are interdependent parts of the plan. A headquarters
+-15-
+
+AM2504 AM2504
+LB1165 LB1165
+CSO - 03/17/2026 CSO - 03/17/2026
+1 shall be presumed to be interdependent with each other location directly
+2 controlled by such headquarters. A showing that the parts of the plan
+3 would be considered parts of a unitary business for corporate income tax
+4 purposes shall not be sufficient to show interdependence for the purposes
+5 of this subdivision;
+6 (d) A nonrefundable application fee of one thousand dollars for a
+7 tier 1 project, two thousand five hundred dollars for a tier 2, tier 3,
+8 or tier 5 project, five thousand dollars for a tier 4 project, and ten
+9 thousand dollars for a tier 6 project. The fee shall be credited to the
+10 Nebraska Incentives Fund; and
+11 (e) A timetable showing the expected sales tax refunds and what year
+12 they are expected to be claimed. The timetable shall include both direct
+13 refunds due to investment and credits taken as sales tax refunds as
+14 accurately as possible.
+15 The application and all supporting information shall be confidential
+16 except for the name of the taxpayer, the location of the project, the
+17 amounts of increased employment and investment, and the information
+18 required to be reported by sections 77-5731 and 77-5734.
+19 (3) An application must be complete to establish the date of the
+20 application. An application shall be considered complete once it contains
+21 the items listed in subsection (2) of this section, regardless of the Tax
+22 Commissioner's additional needs pertaining to information or
+23 clarification in order to approve or not approve the application.
+24 (4) Once satisfied that the plan in the application defines a
+25 project consistent with the purposes stated in the Nebraska Advantage Act
+26 in one or more qualified business activities within this state, that the
+27 taxpayer and the plan will qualify for benefits under the act, and that
+28 the required levels of employment and investment for the project will be
+29 met within the applicable time period prescribed in this subsection, the
+30 Tax Commissioner shall approve the application. For a tier 6 project
+31 submitted and approved by the Tax Commissioner prior to December 1, 2020,
+-16-
+
+AM2504 AM2504
+LB1165 LB1165
+CSO - 03/17/2026 CSO - 03/17/2026
+1 or for any tier 1 or tier 3 project, the required levels of employment
+2 and investment shall be met prior to the end of the fourth year after the
+3 year in which the application was submitted. For a tier 6 project
+4 submitted and approved by the Tax Commissioner on or after December 1,
+5 2020, or for any tier 2, tier 4, or tier 5 project, the required levels
+6 of employment and investment shall be met prior to the end of the ninth
+7 sixth year after the year in which the application was submitted. For any
+8 tier 2, tier 4, or tier 5 project, the required levels of employment and
+9 investment shall be met prior to the end of the sixth year after the year
+10 in which the application was submitted. For a tier 5 project that is
+11 sequential to a tier 2 large data center project, the required level of
+12 investment shall be met prior to the end of the fourth year after the
+13 expiration of the tier 2 large data center project entitlement period
+14 relating to sales tax exemptions.
+15 (5) The Tax Commissioner shall make his or her determination to
+16 approve or not approve an application within one hundred eighty days
+17 after the date of the application. If the Tax Commissioner requests, by
+18 mail or by electronic means, additional information or clarification from
+19 the taxpayer in order to make his or her determination, such one-hundred-
+20 eighty-day period shall be tolled from the time the Tax Commissioner
+21 makes the request to the time he or she receives the requested
+22 information or clarification from the taxpayer. The taxpayer and the Tax
+23 Commissioner may also agree to extend the one-hundred-eighty-day period.
+24 If the Tax Commissioner fails to make his or her determination within the
+25 prescribed one-hundred-eighty-day period, the application shall be deemed
+26 approved.
+27 (6) Within one hundred eighty days after approval of the
+28 application, the Tax Commissioner shall prepare and mail a written
+29 agreement to the taxpayer for the taxpayer's signature. The taxpayer and
+30 the Tax Commissioner shall enter into a written agreement. The taxpayer
+31 shall agree to complete the project, and the Tax Commissioner, on behalf
+-17-
+
+AM2504 AM2504
+LB1165 LB1165
+CSO - 03/17/2026 CSO - 03/17/2026
+1 of the State of Nebraska, shall designate the approved plan of the
+2 taxpayer as a project and, in consideration of the taxpayer's agreement,
+3 agree to allow the taxpayer to use the incentives contained in the
+4 Nebraska Advantage Act. The application, and all supporting
+5 documentation, to the extent approved, shall be considered a part of the
+6 agreement. The agreement shall state:
+7 (a) The levels of employment and investment required by the act for
+8 the project;
+9 (b) The time period under the act in which the required levels must
+10 be met;
+11 (c) The documentation the taxpayer will need to supply when claiming
+12 an incentive under the act;
+13 (d) The date the application was filed; and
+14 (e) A requirement that the company update the Department of Revenue
+15 annually on any changes in plans or circumstances which affect the
+16 timetable of sales tax refunds as set out in the application. If the
+17 company fails to comply with this requirement, the Tax Commissioner may
+18 defer any pending sales tax refunds until the company does comply.
+19 (7) The incentives contained in section 77-5725 shall be in lieu of
+20 the tax credits allowed by the Nebraska Advantage Rural Development Act
+21 for any project. In computing credits under the act, any investment or
+22 employment which is eligible for benefits or used in determining benefits
+23 under the Nebraska Advantage Act shall be subtracted from the increases
+24 computed for determining the credits under section 77-27,188. New
+25 investment or employment at a project location that results in the
+26 meeting or maintenance of the employment or investment requirements, the
+27 creation of credits, or refunds of taxes under the Employment and
+28 Investment Growth Act shall not be considered new investment or
+29 employment for purposes of the Nebraska Advantage Act. The use of
+30 carryover credits under the Employment and Investment Growth Act, the
+31 Invest Nebraska Act, the Nebraska Advantage Rural Development Act, or the
+-18-
+
+AM2504 AM2504
+LB1165 LB1165
+CSO - 03/17/2026 CSO - 03/17/2026
+1 Quality Jobs Act shall not preclude investment and employment from being
+2 considered new investment or employment under the Nebraska Advantage Act.
+3 The use of property tax exemptions at the project under the Employment
+4 and Investment Growth Act shall not preclude investment not eligible for
+5 the property tax exemption from being considered new investment under the
+6 Nebraska Advantage Act.
+7 (8) A taxpayer and the Tax Commissioner may enter into agreements
+8 for more than one project and may include more than one project in a
+9 single agreement. The projects may be either sequential or concurrent. A
+10 project may involve the same location as another project. No new
+11 employment or new investment shall be included in more than one project
+12 for either the meeting of the employment or investment requirements or
+13 the creation of credits. When projects overlap and the plans do not
+14 clearly specify, then the taxpayer shall specify in which project the
+15 employment or investment belongs.
+16 (9) The taxpayer may request that an agreement be modified if the
+17 modification is consistent with the purposes of the act and does not
+18 require a change in the description of the project. An agreement may not
+19 be modified to a tier that would grant a higher level of benefits to the
+20 taxpayer or to a tier 1 project. Once satisfied that the modification to
+21 the agreement is consistent with the purposes stated in the act, the Tax
+22 Commissioner and taxpayer may amend the agreement. For a tier 6 project,
+23 the taxpayer must agree to limit the project to qualified activities
+24 allowable under tier 2 and tier 4.
+25 Sec. 16. Section 77-5735, Revised Statutes Cumulative Supplement,
+26 2024, is amended to read:
+27 77-5735 (1) The changes made in sections 77-5703, 77-5708, 77-5712,
+28 77-5714, 77-5715, 77-5723, 77-5725, 77-5726, 77-5727, and 77-5731 by Laws
+29 2008, LB895, and sections 77-5707.01, 77-5719.01, and 77-5719.02 apply to
+30 all applications filed on and after April 18, 2008. For all applications
+31 filed prior to such date, the provisions of the Nebraska Advantage Act as
+-19-
+
+AM2504 AM2504
+LB1165 LB1165
+CSO - 03/17/2026 CSO - 03/17/2026
+1 they existed immediately prior to such date apply.
+2 (2) The changes made in sections 77-5725 and 77-5726 by Laws 2010,
+3 LB879, apply to all applications filed on or after July 15, 2010. For all
+4 applications filed prior to such date, the taxpayer may make a one-time
+5 election, within the time period prescribed by the Tax Commissioner, to
+6 have the changes made in sections 77-5725 and 77-5726 by Laws 2010,
+7 LB879, apply to such taxpayer's application, or in the absence of such an
+8 election, the provisions of the Nebraska Advantage Act as they existed
+9 immediately prior to July 15, 2010, apply to such application.
+10 (3) The changes made in sections 77-5707, 77-5715, 77-5719, and
+11 77-5725 by Laws 2010, LB918, apply to all applications filed on or after
+12 July 15, 2010. For all applications filed prior to such date, the
+13 provisions of the Nebraska Advantage Act as they existed immediately
+14 prior to such date apply.
+15 (4) The changes made in sections 77-5701, 77-5703, 77-5705, 77-5715,
+16 77-5723, 77-5725, 77-5726, and 77-5727 by Laws 2012, LB1118, apply to all
+17 applications filed on or after March 8, 2012. For all applications filed
+18 prior to such date, the provisions of the Nebraska Advantage Act as they
+19 existed immediately prior to such date apply.
+20 (5) The changes made in sections 77-5707.01, 77-5709, 77-5712,
+21 77-5719, 77-5720, 77-5723, and 77-5726 by Laws 2013, LB34, apply to all
+22 applications filed on or after September 6, 2013. For all applications
+23 filed prior to such date, the provisions of the Nebraska Advantage Act as
+24 they existed immediately prior to such date apply.
+25 (6) The changes made in section 77-5726 by Laws 2017, LB161, apply
+26 to all applications filed before, on, or after August 24, 2017.
+27 (7) The changes made in sections 77-5705, 77-5723, 77-5725, 77-5726,
+28 and 77-5727 and in subsections (3), (6), and (7) of section 77-5731 by
+29 Laws 2022, LB1150, apply to any agreement entered into under the Nebraska
+30 Advantage Act that is still active on January 1, 2023, if the taxpayer
+31 makes a one-time election, within the time period prescribed by the Tax
+-20-
+
+AM2504 AM2504
+LB1165 LB1165
+CSO - 03/17/2026 CSO - 03/17/2026
+1 Commissioner, to have such changes apply to such taxpayer's agreement. In
+2 the absence of such an election, the provisions of such sections and
+3 subsections as they existed immediately prior to January 1, 2023, shall
+4 apply to such agreement. For each election made under this subsection,
+5 the Tax Commissioner shall disclose such election, the identity of the
+6 taxpayer, and the location of the taxpayer's project to each municipality
+7 in which the project is located. The Tax Commissioner shall make such
+8 disclosures within thirty days after the election.
+9 (8) The changes made in sections 77-5723 and 77-5727 by Laws 2024,
+10 LB1088, apply to any agreement entered into under the Nebraska Advantage
+11 Act that is still active on July 19, 2024, if the taxpayer makes a one-
+12 time election, within the time period prescribed by the Tax Commissioner,
+13 to have such changes apply to such taxpayer's agreement. In the absence
+14 of such an election, the provisions of such sections as they existed
+15 immediately prior to July 19, 2024, shall apply to such agreement.
+16 (9) The changes made in section 77-5723 by this legislative bill
+17 apply to any agreement for a tier 6 project entered into under the
+18 Nebraska Advantage Act that is still active on the operative date of this
+19 section if a taxpayer makes a one-time election and pays a fee of ninety
+20 thousand dollars, within the time period prescribed by the Tax
+21 Commissioner, to have such changes apply to such taxpayer's agreement. In
+22 the absence of such an election, the provisions of such section as it
+23 existed immediately prior to the operative date of this section shall
+24 apply to such agreement.
+25 Sec. 17. Section 77-6538, Revised Statutes Supplement, 2025, is
+26 amended to read:
+27 77-6538 (1) If a qualified employer has entered into an agreement
+28 with the state pursuant to section 77-6539, the qualified employer shall
+29 during each year of the performance period receive the wage credit
+30 approved by the Tax Commissioner in the manner provided in the Defense
+31 Efforts Workforce Act.
+-21-
+
+AM2504 AM2504
+LB1165 LB1165
+CSO - 03/17/2026 CSO - 03/17/2026
+1 (2) The wage credit shall equal five percent of the total
+2 compensation paid by the qualified employer in the year to all qualified
+3 employees of the qualified employer in Nebraska. The wage credit earned
+4 for all qualified employers shall not exceed four million dollars in any
+5 year. If two or more qualified employers qualify for benefits in any
+6 given year, the one with the earlier approval will be fully funded first.
+7 (3) The wage credits shall be allowed for each year in the
+8 performance period. Unused credits may carry over and be applied against
+9 future state withholdings.
+10 (4) The total amount all qualified employers may receive in credits
+11 pursuant to the Defense Efforts Workforce Act shall not exceed forty
+12 million dollars. If two or more qualified employers qualify for benefits,
+13 the one with the earlier approval will be fully funded first. This
+14 benefit is in addition to any benefits the qualified employer may
+15 otherwise qualify for under the ImagiNE Nebraska Act or the Grow the Good
+16 Life Act or may have qualified for previously under the Nebraska
+17 Advantage Act, the Employment and Investment Growth Act, or the Key
+18 Employer and Jobs Retention Act.
+19 (5) The qualified employer may use the wage credit to reduce the
+20 qualified employer's income tax withholding or payor tax liability under
+21 section 77-2756 or 77-2757. To the extent of the credit used, such
+22 withholding shall not constitute public funds or state tax revenue and
+23 shall not constitute a trust fund or be owned by the state. The use by
+24 the qualified employer of the credit shall not change the amount that
+25 otherwise would be reported by the qualified employer to the employee
+26 under section 77-2754 as income tax withheld and shall not reduce the
+27 amount that otherwise would be allowed by the state as a refundable
+28 credit on an employee's income tax return as income tax withheld under
+29 section 77-2755.
+30 Sec. 18. Section 77-6831, Revised Statutes Supplement, 2025, is
+31 amended to read:
+-22-
+
+AM2504 AM2504
+LB1165 LB1165
+CSO - 03/17/2026 CSO - 03/17/2026
+1 77-6831 (1) A taxpayer shall be entitled to the sales and use tax
+2 incentives contained in subsection (2) of this section if the taxpayer:
+3 (a) Attains a cumulative investment in qualified property of at
+4 least five million dollars and hires at least thirty new employees at the
+5 qualified location or locations before the end of the ramp-up period;
+6 (b) Attains a cumulative investment in qualified property of at
+7 least two hundred fifty million dollars and hires at least two hundred
+8 fifty new employees at the qualified location or locations before the end
+9 of the ramp-up period; or
+10 (c) Attains a cumulative investment in qualified property of at
+11 least fifty million dollars at the qualified location or locations before
+12 the end of the ramp-up period. To receive incentives under this
+13 subdivision, the taxpayer must meet the following conditions:
+14 (i) The average compensation of the taxpayer's employees at the
+15 qualified location or locations for each year of the performance period
+16 must equal at least one hundred fifty percent of the Nebraska statewide
+17 average hourly wage for the year of application;
+18 (ii) The taxpayer must offer to its employees who constitute full-
+19 time employees as defined and described in section 4980H of the Internal
+20 Revenue Code of 1986, as amended, and the regulations for such section,
+21 at the qualified location or locations for each year of the performance
+22 period, the opportunity to enroll in minimum essential coverage under an
+23 eligible employer-sponsored plan, as those terms are defined and
+24 described in section 5000A of the Internal Revenue Code of 1986, as
+25 amended, and the regulations for such section; and
+26 (iii) The taxpayer must offer a sufficient package of benefits as
+27 described in subdivision (1)(j) of section 77-6828.
+28 (2) A taxpayer meeting the requirements of subsection (1) of this
+29 section shall be entitled to the following sales and use tax incentives:
+30 (a) A refund of all sales and use taxes paid under the Local Option
+31 Revenue Act, the Nebraska Revenue Act of 1967, the Qualified Judgment
+-23-
+
+AM2504 AM2504
+LB1165 LB1165
+CSO - 03/17/2026 CSO - 03/17/2026
+1 Payment Act, and sections 13-319, 13-324, and 13-2813 from the date of
+2 the complete application through the meeting of the required levels of
+3 employment and investment for all purchases, including rentals, of:
+4 (i) Qualified property used at the qualified location or locations;
+5 (ii) Property, excluding motor vehicles, based in this state and
+6 used in both this state and another state in connection with the
+7 qualified location or locations except when any such property is to be
+8 used for fundraising for or for the transportation of an elected
+9 official;
+10 (iii) Tangible personal property by a contractor or repairperson
+11 after appointment as a purchasing agent of the owner of the improvement
+12 to real estate when such property is incorporated into real estate at the
+13 qualified location or locations. The refund shall be based on fifty
+14 percent of the contract price, excluding any land, as the cost of
+15 materials subject to the sales and use tax;
+16 (iv) Tangible personal property by a contractor or repairperson
+17 after appointment as a purchasing agent of the taxpayer when such
+18 property is annexed to, but not incorporated into, real estate at the
+19 qualified location or locations. The refund shall be based on the cost of
+20 materials subject to the sales and use tax that were annexed to real
+21 estate; and
+22 (v) Tangible personal property by a contractor or repairperson after
+23 appointment as a purchasing agent of the taxpayer when such property is
+24 both (A) incorporated into real estate at the qualified location or
+25 locations and (B) annexed to, but not incorporated into, real estate at
+26 the qualified location or locations. The refund shall be based on fifty
+27 percent of the contract price, excluding any land, as the cost of
+28 materials subject to the sales and use tax; and
+29 (b) An exemption from all sales and use taxes under the Local Option
+30 Revenue Act, the Nebraska Revenue Act of 1967, the Qualified Judgment
+31 Payment Act, and sections 13-319, 13-324, and 13-2813 on the types of
+-24-
+
+AM2504 AM2504
+LB1165 LB1165
+CSO - 03/17/2026 CSO - 03/17/2026
+1 purchases, including rentals, listed in subdivision (a) of this
+2 subsection for such purchases, including rentals, occurring during each
+3 year of the performance period in which the taxpayer is at or above the
+4 required levels of employment and investment, except that the exemption
+5 shall be for the actual materials purchased with respect to subdivisions
+6 (2)(a)(iii), (iv), and (v) of this section. The Tax Commissioner shall
+7 issue such rules, regulations, certificates, and forms as are appropriate
+8 to implement the efficient use of this exemption.
+9 (3)(a) Upon execution of the agreement, the taxpayer shall be issued
+10 a direct payment permit under section 77-2705.01, notwithstanding the
+11 three million dollars in purchases limitation in subsection (1) of
+12 section 77-2705.01, for each qualified location specified in the
+13 agreement, unless the taxpayer has opted out of this requirement in the
+14 agreement. For any taxpayer who is issued a direct payment permit, until
+15 such taxpayer makes the investment in qualified property and hires the
+16 new employees at the qualified location or locations as specified in
+17 subsection (1) of this section, the taxpayer must pay and remit any
+18 applicable sales and use taxes as required by the Tax Commissioner.
+19 (b) If the taxpayer makes the investment in qualified property and
+20 hires the new employees at the qualified location or locations as
+21 specified in subsection (1) of this section, the taxpayer shall receive
+22 the sales tax refunds described in subdivision (2)(a) of this section.
+23 For any year in which the taxpayer is not at the required levels of
+24 employment and investment, the taxpayer shall report all sales and use
+25 taxes owed for the period on the taxpayer's tax return.
+26 (4) The taxpayer shall be entitled to one of the following credits
+27 for payment of wages to new employees:
+28 (a)(i) If a taxpayer attains a cumulative investment in qualified
+29 property of at least one million dollars and hires at least ten new
+30 employees at the qualified location or locations before the end of the
+31 ramp-up period, the taxpayer shall be entitled to a credit equal to four
+-25-
+
+AM2504 AM2504
+LB1165 LB1165
+CSO - 03/17/2026 CSO - 03/17/2026
+1 percent times the average wage of new employees times the number of new
+2 employees. Wages in excess of one million dollars paid to any one
+3 employee during the year shall be excluded from the calculations under
+4 this subdivision;
+5 (ii) If the taxpayer attains a cumulative investment in qualified
+6 property of at least one million dollars and hires at least ten new
+7 employees at the qualified location or locations before the end of the
+8 ramp-up period and the number of new employees and investment are at a
+9 qualified location in a county in Nebraska with a population of one
+10 hundred thousand or greater, and at which the majority of the business
+11 activities conducted are described in subdivision (1)(a) or (1)(n) of
+12 section 77-6818, the taxpayer shall be entitled to a credit equal to five
+13 four percent times the average wage of new employees times the number of
+14 new employees. Wages in excess of one million dollars paid to any one
+15 employee during the year shall be excluded from the calculations under
+16 this subdivision; or
+17 (iii) If the taxpayer attains a cumulative investment in qualified
+18 property of at least one million dollars and hires at least ten new
+19 employees at the qualified location or locations before the end of the
+20 ramp-up period and the number of new employees and investment are at a
+21 qualified location or locations within one or more counties in Nebraska
+22 that each have a population of less than one hundred thousand, and at
+23 which the majority of the business activities conducted are described in
+24 subdivision (1)(a) or (1)(n) of section 77-6818, the taxpayer shall be
+25 entitled to a credit equal to seven six percent times the average wage of
+26 new employees times the number of new employees. For purposes of meeting
+27 the ten-employee requirement of this subdivision, the number of new
+28 employees shall be multiplied by two. Wages in excess of one million
+29 dollars paid to any one employee during the year shall be excluded from
+30 the calculations under this subdivision;
+31 (b) If a taxpayer hires at least twenty new employees at the
+-26-
+
+AM2504 AM2504
+LB1165 LB1165
+CSO - 03/17/2026 CSO - 03/17/2026
+1 qualified location or locations before the end of the ramp-up period, the
+2 taxpayer shall be entitled to a credit equal to six five percent times
+3 the average wage of new employees times the number of new employees if
+4 the average wage of the new employees equals at least one hundred percent
+5 of the Nebraska statewide average hourly wage for the year of
+6 application. The credit shall equal eight seven percent times the average
+7 wage of new employees times the number of new employees if the average
+8 wage of the new employees equals at least one hundred fifty percent of
+9 the Nebraska statewide average hourly wage for the year of application.
+10 The credit shall equal ten nine percent times the average wage of new
+11 employees times the number of new employees if the average wage of the
+12 new employees equals at least two hundred percent of the Nebraska
+13 statewide average hourly wage for the year of application. Wages in
+14 excess of one million dollars paid to any one employee during the year
+15 shall be excluded from the calculations under this subdivision;
+16 (c) If a taxpayer attains a cumulative investment in qualified
+17 property of at least five million dollars and hires at least thirty new
+18 employees at the qualified location or locations before the end of the
+19 ramp-up period, the taxpayer shall be entitled to a credit equal to five
+20 percent times the average wage of new employees times the number of new
+21 employees if the average wage of the new employees equals at least one
+22 hundred percent of the Nebraska statewide average hourly wage for the
+23 year of application. The credit shall equal seven percent times the
+24 average wage of new employees times the number of new employees if the
+25 average wage of the new employees equals at least one hundred fifty
+26 percent of the Nebraska statewide average hourly wage for the year of
+27 application. The credit shall equal nine percent times the average wage
+28 of new employees times the number of new employees if the average wage of
+29 the new employees equals at least two hundred percent of the Nebraska
+30 statewide average hourly wage for the year of application. Wages in
+31 excess of one million dollars paid to any one employee during the year
+-27-
+
+AM2504 AM2504
+LB1165 LB1165
+CSO - 03/17/2026 CSO - 03/17/2026
+1 shall be excluded from the calculations under this subdivision;
+2 (d) If a taxpayer attains a cumulative investment in qualified
+3 property of at least two hundred fifty million dollars and hires at least
+4 two hundred fifty new employees at the qualified location or locations
+5 before the end of the ramp-up period, the taxpayer shall be entitled to a
+6 credit equal to seven percent times the average wage of new employees
+7 times the number of new employees if the average wage of the new
+8 employees equals at least one hundred fifty percent of the Nebraska
+9 statewide average hourly wage for the year of application. The credit
+10 shall equal nine percent times the average wage of new employees times
+11 the number of new employees if the average wage of the new employees
+12 equals at least two hundred percent of the Nebraska statewide average
+13 hourly wage for the year of application. Wages in excess of one million
+14 dollars paid to any one employee during the year shall be excluded from
+15 the calculations under this subdivision; or
+16 (e) If a taxpayer attains a cumulative investment in qualified
+17 property of at least two hundred fifty thousand dollars but less than one
+18 million dollars and hires at least five new employees at the qualified
+19 location or locations before the end of the ramp-up period and the number
+20 of new employees and investment are at a qualified location within an
+21 economic redevelopment area, the taxpayer shall be entitled to a credit
+22 equal to six percent times the average wage of new employees times the
+23 number of new employees if the average wage of the new employees equals
+24 at least seventy percent of the Nebraska statewide average hourly wage
+25 for the year of application. Wages in excess of one million dollars paid
+26 to any one employee during the year shall be excluded from the
+27 calculations under this subdivision. For purposes of this subdivision,
+28 economic redevelopment area means an area in which (i) the average rate
+29 of unemployment in the area during the period covered by the most recent
+30 American Community Survey 5-Year Estimate is at least one hundred fifty
+31 percent of the average rate of unemployment in the state during the same
+-28-
+
+AM2504 AM2504
+LB1165 LB1165
+CSO - 03/17/2026 CSO - 03/17/2026
+1 period and (ii) the average poverty rate in the area exceeds twenty
+2 percent for the total federal census tract or tracts or federal census
+3 block group or block groups in the area.
+4 (5) The taxpayer shall be entitled to one of the following credits
+5 for new investment:
+6 (a)(i) If a taxpayer attains a cumulative investment in qualified
+7 property of at least one million dollars and hires at least ten new
+8 employees at the qualified location or locations before the end of the
+9 ramp-up period, the taxpayer shall be entitled to a credit equal to four
+10 percent of the investment made in qualified property at the qualified
+11 location or locations;
+12 (ii) If the taxpayer attains a cumulative investment in qualified
+13 property of at least one million dollars and hires at least ten new
+14 employees at the qualified location or locations before the end of the
+15 ramp-up period and the number of new employees and investment are at a
+16 qualified location in a county in Nebraska with a population of one
+17 hundred thousand or greater, and at which the majority of the business
+18 activities conducted are described in subdivision (1)(a) or (1)(n) of
+19 section 77-6818, the taxpayer shall be entitled to a credit equal to five
+20 four percent of the investment made in qualified property at the
+21 qualified location or locations unless the cumulative investment exceeds
+22 ten million dollars, in which case the taxpayer shall be entitled to a
+23 credit equal to eight seven percent of the investment made in qualified
+24 property at the qualified location or locations; or
+25 (iii) If the taxpayer attains a cumulative investment in qualified
+26 property of at least one million dollars and hires at least ten new
+27 employees at the qualified location or locations before the end of the
+28 ramp-up period and the number of new employees and investment are at a
+29 qualified location or locations within one or more counties in Nebraska
+30 that each have a population of less than one hundred thousand, and at
+31 which the majority of the business activities conducted are described in
+-29-
+
+AM2504 AM2504
+LB1165 LB1165
+CSO - 03/17/2026 CSO - 03/17/2026
+1 subdivision (1)(a) or (1)(n) of section 77-6818, the taxpayer shall be
+2 entitled to a credit equal to five four percent of the investment made in
+3 qualified property at the qualified location or locations unless the
+4 cumulative investment exceeds ten million dollars, in which case the
+5 taxpayer shall be entitled to a credit equal to eight seven percent of
+6 the investment made in qualified property at the qualified location or
+7 locations. For purposes of meeting the ten-employee requirement of this
+8 subdivision, the number of new employees shall be multiplied by two;
+9 (b) If a taxpayer attains a cumulative investment in qualified
+10 property of at least five million dollars and hires at least thirty new
+11 employees at the qualified location or locations before the end of the
+12 ramp-up period, the taxpayer shall be entitled to a credit equal to seven
+13 percent of the investment made in qualified property at the qualified
+14 location or locations;
+15 (c) If a taxpayer attains a cumulative investment in qualified
+16 property of at least two hundred fifty million dollars and hires at least
+17 two hundred fifty new employees at the qualified location or locations
+18 before the end of the ramp-up period, the taxpayer shall be entitled to a
+19 credit equal to seven percent of the investment made in qualified
+20 property at the qualified location or locations; or
+21 (d) If a taxpayer attains a cumulative investment in qualified
+22 property of at least two hundred fifty thousand dollars but less than one
+23 million dollars and hires at least five new employees at the qualified
+24 location or locations before the end of the ramp-up period and the number
+25 of new employees and investment are at a qualified location within an
+26 economic redevelopment area, the taxpayer shall be entitled to a credit
+27 equal to four percent of the investment made in qualified property at the
+28 qualified location or locations. For purposes of this subdivision,
+29 economic redevelopment area means an area in which (i) the average rate
+30 of unemployment in the area during the period covered by the most recent
+31 American Community Survey 5-Year Estimate is at least one hundred fifty
+-30-
+
+AM2504 AM2504
+LB1165 LB1165
+CSO - 03/17/2026 CSO - 03/17/2026
+1 percent of the average rate of unemployment in the state during the same
+2 period and (ii) the average poverty rate in the area exceeds twenty
+3 percent for the total federal census tract or tracts or federal census
+4 block group or block groups in the area.
+5 (6)(a) The credit percentages prescribed in subdivisions (4)(a),
+6 (b), (c), and (d) and subdivisions (5)(a), (b), and (c) of this section
+7 shall be increased by one percentage point for wages paid and investments
+8 made at qualified locations in an extremely blighted area. For purposes
+9 of this subdivision, extremely blighted area means an area which, before
+10 the end of the ramp-up period, has been declared an extremely blighted
+11 area under section 18-2101.02.
+12 (b) The credit percentages prescribed in subsections (4) and (5) of
+13 this section shall be increased by one percentage point if the taxpayer:
+14 (i) Employs three thousand or more Nebraska-based full-time
+15 employees as defined and described in section 4980H of the Internal
+16 Revenue Code of 1986, as amended, and the regulations for such section Is
+17 a benefit corporation as defined in section 21-403 and has been such a
+18 corporation for at least one year prior to submitting an application
+19 under the ImagiNE Nebraska Act; and
+20 (ii) Within a seven-year period starting when a change in ownership
+21 and control as defined in subdivision (3) of section 3 of this act
+22 occurs, hires an additional five hundred or more full-time employees as
+23 defined and described in section 4980H of the Internal Revenue Code of
+24 1986, as amended, and the regulations for such section. The average
+25 annual wages for such additional full-time employees must be one hundred
+26 thousand dollars or more. Such additional full-time employees must be (A)
+27 newly employed by the taxpayer in this state, (B) an existing employee of
+28 the taxpayer who transfers from a position not within the state to a
+29 position in this state, or (C) a new employee of the taxpayer who
+30 relocates to a position in this state. Upon reaching the five hundred or
+31 more full-time employee threshold, the increased tax credit percentages
+-31-
+
+AM2504 AM2504
+LB1165 LB1165
+CSO - 03/17/2026 CSO - 03/17/2026
+1 shall apply both retroactively and prospectively within the performance
+2 period Remains a benefit corporation as defined in section 21-403 for the
+3 duration of the taxpayer's agreement under the ImagiNE Nebraska Act.
+4 (c) A taxpayer may, if qualified, receive one or both of the
+5 increases provided in this subsection.
+6 (7)(a) The credits prescribed in subsections (4) and (5) of this
+7 section shall be allowable for wages paid and investments made during
+8 each year of the performance period that the taxpayer is at or above the
+9 required levels of employment and investment.
+10 (b) The credits prescribed in subsection (5) of this section shall
+11 also be allowable during the first year of the performance period for
+12 investment in qualified property at the qualified location or locations
+13 after the date of the complete application and before the beginning of
+14 the performance period.
+15 (8)(a) Property described in subdivision (8)(c) of this section used
+16 at the qualified location or locations, whether purchased or leased, and
+17 placed in service by the taxpayer after the date of the complete
+18 application, shall constitute separate classes of property and are
+19 eligible for exemption under the conditions and for the time periods
+20 provided in subdivision (8)(b) of this section.
+21 (b) A taxpayer shall receive the exemption of property in
+22 subdivision (8)(c) of this section if the taxpayer attains one of the
+23 following employment and investment levels: (i) Cumulative investment in
+24 qualified property of at least five million dollars and the hiring of at
+25 least thirty new employees at the qualified location or locations before
+26 the end of the ramp-up period; (ii) cumulative investment in qualified
+27 property of at least fifty million dollars at the qualified location or
+28 locations before the end of the ramp-up period, provided the average
+29 compensation of the taxpayer's employees at the qualified location or
+30 locations for the year in which such investment level was attained equals
+31 at least one hundred fifty percent of the Nebraska statewide average
+-32-
+
+AM2504 AM2504
+LB1165 LB1165
+CSO - 03/17/2026 CSO - 03/17/2026
+1 hourly wage for the year of application and the taxpayer offers to its
+2 employees who constitute full-time employees as defined and described in
+3 section 4980H of the Internal Revenue Code of 1986, as amended, and the
+4 regulations for such section, at the qualified location or locations for
+5 the year in which such investment level was attained, the opportunity to
+6 enroll in minimum essential coverage under an eligible employer-sponsored
+7 plan, as those terms are defined and described in section 5000A of the
+8 Internal Revenue Code of 1986, as amended, and the regulations for such
+9 section; or (iii) cumulative investment in qualified property of at least
+10 two hundred fifty million dollars and the hiring of at least two hundred
+11 fifty new employees at the qualified location or locations before the end
+12 of the ramp-up period. Such property shall be eligible for the exemption
+13 from the first January 1 following the end of the year during which the
+14 required levels were exceeded through the ninth December 31 after the
+15 first year property included in subdivision (8)(c) of this section
+16 qualifies for the exemption, except that for a taxpayer who has filed an
+17 application under NAICS code 518210 for Data Processing, Hosting, and
+18 Related Services and who files a separate sequential application for the
+19 same NAICS code for which the ramp-up period begins with the year
+20 immediately after the end of the previous project's performance period or
+21 a taxpayer who has a project qualifying under subdivision (1)(b)(ii) of
+22 section 77-5725 and who files a separate sequential application for NAICS
+23 code 518210 for Data Processing, Hosting, and Related Services for which
+24 the ramp-up period begins with the year immediately after the end of the
+25 previous project's entitlement period, such property described in
+26 subdivision (8)(c)(i) of this section shall be eligible for the exemption
+27 from the first January 1 following the placement in service of such
+28 property through the ninth December 31 after the year the first claim for
+29 exemption is approved.
+30 (c) The following personal property used at the qualified location
+31 or locations, whether purchased or leased, and placed in service by the
+-33-
+
+AM2504 AM2504
+LB1165 LB1165
+CSO - 03/17/2026 CSO - 03/17/2026
+1 taxpayer after the date of the complete application shall constitute
+2 separate classes of personal property:
+3 (i) All personal property that constitutes a data center if the
+4 taxpayer qualifies under subdivision (8)(b)(i) or (8)(b)(ii) of this
+5 section;
+6 (ii) Business equipment that is located at a qualified location or
+7 locations and that is involved directly in the manufacture or processing
+8 of agricultural products, including business equipment used primarily for
+9 the capture and compression of carbon dioxide, the manufacturing of
+10 liquid fertilizer or any other chemical applied to agricultural crops, or
+11 the manufacturing of any liquid additive for a farm vehicle fuel if the
+12 taxpayer qualifies under subdivision (8)(b)(i) or (8)(b)(ii) of this
+13 section; or
+14 (iii) All personal property if the taxpayer qualifies under
+15 subdivision (8)(b)(iii) of this section.
+16 (d) In order to receive the property tax exemptions allowed by
+17 subdivision (8)(c) of this section, the taxpayer shall annually file a
+18 claim for exemption with the Tax Commissioner on or before May 1. The
+19 form and supporting schedules shall be prescribed by the Tax Commissioner
+20 and shall list all property for which exemption is being sought under
+21 this section. A separate claim for exemption must be filed for each
+22 agreement and each county in which property is claimed to be exempt. A
+23 copy of this form must also be filed with the county assessor in each
+24 county in which the applicant is requesting exemption. The Tax
+25 Commissioner shall determine whether a taxpayer is eligible to obtain
+26 exemption for personal property based on the criteria for exemption and
+27 the eligibility of each item listed for exemption and, on or before
+28 August 1, certify such determination to the taxpayer and to the affected
+29 county assessor.
+30 (9) The taxpayer shall, on or before the receipt or use of any
+31 incentives under this section, pay to the director a fee of one-half
+-34-
+
+AM2504 AM2504
+LB1165 LB1165
+CSO - 03/17/2026 CSO - 03/17/2026
+1 percent of such incentives, except for the exemption on personal
+2 property, for administering the ImagiNE Nebraska Act, except that the fee
+3 on any sales tax exemption may be paid by the taxpayer with the filing of
+4 its sales and use tax return. Such fee may be paid by direct payment to
+5 the director or through withholding of available refunds. A credit shall
+6 be allowed against such fee for the amount of the fee paid with the
+7 application. All fees collected under this subsection shall be remitted
+8 to the State Treasurer for credit to the ImagiNE Nebraska Cash Fund,
+9 which fund is hereby created. The fund shall consist of fees credited
+10 under this subsection and any other money appropriated to the fund by the
+11 Legislature. The fund shall be administered by the Department of Economic
+12 Development and shall be used for administration of the ImagiNE Nebraska
+13 Act. Any money in the fund available for investment shall be invested by
+14 the state investment officer pursuant to the Nebraska Capital Expansion
+15 Act and the Nebraska State Funds Investment Act.
+16 Sec. 19. Section 77-6832, Revised Statutes Cumulative Supplement,
+17 2024, is amended to read:
+18 77-6832 (1)(a) The credits prescribed in section 77-6831 for a year
+19 shall be established by filing the forms required by the Tax Commissioner
+20 with the income tax return for the taxable year which includes the end of
+21 the year the credits were earned. The credits may be used and shall be
+22 applied in the order in which they were first allowable under the ImagiNE
+23 Nebraska Act. To the extent the taxpayer has credits under the Nebraska
+24 Advantage Act or the Employment and Investment Growth Act still available
+25 for use in a year or years which overlap the performance period or
+26 carryover period of the ImagiNE Nebraska Act, the credits may be used and
+27 shall be applied in the order in which they were first allowable, and
+28 when there are credits of the same age, the older tax incentive program's
+29 credits shall be applied first. The credits may be used after any other
+30 nonrefundable credits to reduce the taxpayer's income tax liability
+31 imposed by sections 77-2714 to 77-27,135. Credits may be used beginning
+-35-
+
+AM2504 AM2504
+LB1165 LB1165
+CSO - 03/17/2026 CSO - 03/17/2026
+1 with the taxable year which includes December 31 of the year the required
+2 minimum levels were reached. The last year for which credits may be used
+3 is the taxable year which includes December 31 of the last year of the
+4 carryover period. Any decision on how part of the credit is applied shall
+5 not limit how the remaining credit could be applied under this section.
+6 (b) The taxpayer may use the credit provided in subsection (4) of
+7 section 77-6831 (i) to reduce the taxpayer's income tax withholding
+8 employer or payor tax liability under section 77-2756 or 77-2757, to the
+9 extent such liability is attributable to the number of new employees
+10 employed at the qualified location or locations, excluding any wages in
+11 excess of one million dollars paid to any one employee during the year or
+12 (ii) to reduce a qualified employee leasing company's income tax
+13 withholding employer or payor tax liability under section 77-2756 or
+14 77-2757, when the taxpayer is the client-lessee of such company, to the
+15 extent such liability is attributable to the number of new employees
+16 performing services for such client-lessee at the qualified location or
+17 locations, excluding any wages in excess of one million dollars paid to
+18 any one employee during the year. To the extent of the credit used, such
+19 withholding shall not constitute public funds or state tax revenue and
+20 shall not constitute a trust fund or be owned by the state. The use by
+21 the taxpayer or the qualified employee leasing company of the credit
+22 shall not change the amount that otherwise would be reported by the
+23 taxpayer, or such qualified employee leasing company, to the employee
+24 under section 77-2754 as income tax withheld and shall not reduce the
+25 amount that otherwise would be allowed by the state as a refundable
+26 credit on an employee's income tax return as income tax withheld under
+27 section 77-2755. The amount of credits used against income tax
+28 withholding shall not exceed the withholding attributable to the number
+29 of new employees employed at the qualified location or locations or, for
+30 a qualified employee leasing company, the number of new employees
+31 performing services for the applicable client-lessee at the qualified
+-36-
+
+AM2504 AM2504
+LB1165 LB1165
+CSO - 03/17/2026 CSO - 03/17/2026
+1 location or locations, excluding any wages in excess of one million
+2 dollars paid to any one employee during the year. If the amount of credit
+3 used by the taxpayer or the qualified employee leasing company against
+4 income tax withholding exceeds such amount, the excess withholding shall
+5 be returned to the Department of Revenue in the manner provided in
+6 section 77-2756, such excess amount returned shall be considered unused,
+7 and the amount of unused credits may be used as otherwise permitted in
+8 this section or shall carry over to the extent authorized in subdivision
+9 (1)(g) of this section.
+10 (c) Credits may be used to obtain a refund of sales and use taxes
+11 under the Local Option Revenue Act, the Nebraska Revenue Act of 1967, the
+12 Qualified Judgment Payment Act, and sections 13-319, 13-324, and 13-2813
+13 that are not subject to direct refund under section 77-6831 and that are
+14 paid on purchases, including rentals, for use at a qualified location.
+15 (d) The credits provided in subsections (4) and (5) of section
+16 77-6831 may be used to repay a loan for job training or infrastructure
+17 development as provided in section 77-6841.
+18 (e) Credits may be used to obtain a payment from the state equal to
+19 the amount which the taxpayer demonstrates to the director was paid by
+20 the taxpayer after the date of the complete application for job training
+21 and talent recruitment of employees who qualify in the number of new
+22 employees, to the extent that proceeds from a loan described in section
+23 77-6841 were not used to make such payments. For purposes of this
+24 subdivision:
+25 (i) Job training means training for a prospective or new employee
+26 that is provided after the date of the complete application by a Nebraska
+27 nonprofit college or university, a Nebraska public or private secondary
+28 school, a Nebraska educational service unit, or a company that is not a
+29 member of the taxpayer's unitary group or a related person to the
+30 taxpayer; and
+31 (ii) Talent recruitment means talent recruitment activities that
+-37-
+
+AM2504 AM2504
+LB1165 LB1165
+CSO - 03/17/2026 CSO - 03/17/2026
+1 result in a newly recruited employee who is hired by the taxpayer after
+2 the date of the complete application and who is paid compensation during
+3 the year of hire at a rate equal to at least one hundred percent of the
+4 Nebraska statewide average hourly wage for the year of application,
+5 including marketing, relocation expenses, and search-firm fees. Talent
+6 recruitment payments that may be reimbursed include, without limitation,
+7 payment by the taxpayer, without repayment by the employee, of an
+8 employee's student loans, an employee's tuition, and an employee's
+9 downpayment on a primary residence in Nebraska. Talent recruitment
+10 payments that may be reimbursed shall not include payments for the
+11 recruitment of a person who constitutes a related person to the taxpayer
+12 when the taxpayer is an individual or recruitment of a person who
+13 constitutes a related person to an owner of the taxpayer when the
+14 taxpayer is a partnership, a limited liability company, or a subchapter S
+15 corporation.
+16 (f) The credits provided in subsections (4) and (5) of section
+17 77-6831 may be used to obtain a payment from the state equal to the
+18 amount which the taxpayer demonstrates to the director was paid for
+19 taxpayer-sponsored child care for employees at the qualified location or
+20 locations during the performance period and the carryover period.
+21 Taxpayers may pay up to fifty percent of child care costs for employees
+22 using such credit.
+23 (g) Credits may be carried over until fully utilized through the end
+24 of the carryover period.
+25 (2)(a) No refund claims shall be filed until after the required
+26 levels of employment and investment have been met.
+27 (b) Refund claims shall be filed no more than once each quarter for
+28 refunds under the ImagiNE Nebraska Act, except that any claim for a
+29 refund in excess of twenty-five thousand dollars may be filed at any
+30 time.
+31 (c) Refund claims for materials purchased by a purchasing agent
+-38-
+
+AM2504 AM2504
+LB1165 LB1165
+CSO - 03/17/2026 CSO - 03/17/2026
+1 shall include:
+2 (i) A copy of the purchasing agent appointment;
+3 (ii) The contract price; and
+4 (iii)(A) For refunds under subdivision (2)(a)(iii) or (2)(a)(v) of
+5 section 77-6831, a certification by the contractor or repairperson of the
+6 percentage of the materials incorporated into or annexed to the qualified
+7 location on which sales and use taxes were paid to Nebraska after
+8 appointment as purchasing agent; or
+9 (B) For refunds under subdivision (2)(a)(iv) of section 77-6831, a
+10 certification by the contractor or repairperson of the percentage of the
+11 contract price that represents the cost of materials annexed to the
+12 qualified location and the percentage of the materials annexed to the
+13 qualified location on which sales and use taxes were paid to Nebraska
+14 after appointment as purchasing agent.
+15 (d) All refund claims shall be filed, processed, and allowed as any
+16 other claim under section 77-2708, except that the amounts allowed to be
+17 refunded under the ImagiNE Nebraska Act shall be deemed to be
+18 overpayments and shall be refunded notwithstanding any limitation in
+19 subdivision (2)(a) of section 77-2708. The refund may be allowed if the
+20 claim is filed within three years from the end of the year the required
+21 levels of employment and investment are met or within the period set
+22 forth in section 77-2708. Refunds shall be paid by the Tax Commissioner
+23 within one hundred eighty days after receipt of the refund claim. Such
+24 payments shall be subject to later recovery by the Tax Commissioner upon
+25 audit.
+26 (e) If a claim for a refund of sales and use taxes under the Local
+27 Option Revenue Act, the Qualified Judgment Payment Act, or sections
+28 13-319, 13-324, and 13-2813 of more than twenty-five thousand dollars is
+29 filed by June 15 of a given year, the refund shall be made on or after
+30 November 15 of the same year. If such a claim is filed on or after June
+31 16 of a given year, the refund shall not be made until on or after
+-39-
+
+AM2504 AM2504
+LB1165 LB1165
+CSO - 03/17/2026 CSO - 03/17/2026
+1 November 15 of the following year. The Tax Commissioner shall notify the
+2 affected city, village, county, or municipal county of the amount of
+3 refund claims of sales and use taxes under the Local Option Revenue Act,
+4 the Qualified Judgment Payment Act, or sections 13-319, 13-324, and
+5 13-2813 that are in excess of twenty-five thousand dollars on or before
+6 July 1 of the year before the claims will be paid under this section.
+7 (f) For refunds of sales and use taxes under the Local Option
+8 Revenue Act, the deductions made by the Tax Commissioner for such refunds
+9 shall be delayed in accordance with section 77-27,144.
+10 (g) Interest shall not be allowed on any taxes refunded under the
+11 ImagiNE Nebraska Act.
+12 (3) The appointment of purchasing agents shall be recognized for the
+13 purpose of changing the status of a contractor or repairperson as the
+14 ultimate consumer of tangible personal property purchased after the date
+15 of the appointment which is physically incorporated into or annexed at a
+16 qualified location and becomes the property of the owner of the
+17 improvement to real estate or the taxpayer. The purchasing agent shall be
+18 jointly liable for the payment of the sales and use tax on the purchases
+19 with the owner of the property.
+20 (4) The determination of whether the application is complete,
+21 whether a location is a qualified location, and whether to approve the
+22 application and sign the agreement shall be made by the director. All
+23 other interpretations of the ImagiNE Nebraska Act shall be made by the
+24 Tax Commissioner. The Commissioner of Labor shall provide the director
+25 with such information as the Department of Labor regularly receives with
+26 respect to the taxpayer which the director requests from the Commissioner
+27 of Labor in order to fulfill the director's duties under the act. The
+28 director shall use such information to achieve efficiency in the
+29 administration of the act.
+30 (5) Once the director and the taxpayer have signed the agreement
+31 under section 77-6828, the taxpayer, and its owners or members where
+-40-
+
+AM2504 AM2504
+LB1165 LB1165
+CSO - 03/17/2026 CSO - 03/17/2026
+1 applicable, may report and claim and shall receive all incentives allowed
+2 by the ImagiNE Nebraska Act, subject to the base authority limitations
+3 provided in section 77-6839, without waiting for a determination by the
+4 director or the Tax Commissioner or other taxing authority that the
+5 taxpayer has met the required employment and investment levels or
+6 otherwise qualifies, has qualified, or continues to qualify for such
+7 incentives, provided that the tax return or claim has been signed by an
+8 owner, member, manager, or officer of the taxpayer who declares under
+9 penalties of perjury that he or she has examined the tax return or claim,
+10 including accompanying schedules and statements, and to the best of his
+11 or her knowledge and belief (a) the tax return or claim is correct and
+12 complete in all material respects, (b) payment of the claim has not been
+13 previously made by the state to the taxpayer, and (c) with respect to
+14 sales or use tax refund claims, the taxpayer has not claimed or received
+15 a refund of such tax from a retailer. The payment or allowance of such a
+16 claim shall not prevent the director or the Tax Commissioner or other
+17 taxing authority from recovering such payment, exemption, or allowance,
+18 within the normal period provided by law, subject to normal appeal rights
+19 of a taxpayer, if the director or Tax Commissioner or other taxing
+20 authority determines upon review or audit that the taxpayer did not
+21 qualify for such incentive or exemption.
+22 (6) An audit of employment and investment thresholds and incentive
+23 amounts shall be made by the Tax Commissioner to the extent and in the
+24 manner determined by the Tax Commissioner. Upon request by the director
+25 or the Tax Commissioner, the Commissioner of Labor shall report to the
+26 director and the Tax Commissioner the employment data regularly reported
+27 to the Department of Labor relating to number of employees and wages paid
+28 for each taxpayer. The director and Tax Commissioner, to the extent they
+29 determine appropriate, shall use such information to achieve efficiency
+30 in the administration of the ImagiNE Nebraska Act. The Tax Commissioner
+31 may recover any refund or part thereof which is erroneously made and any
+-41-
+
+AM2504 AM2504
+LB1165 LB1165
+CSO - 03/17/2026 CSO - 03/17/2026
+1 credit or part thereof which is erroneously allowed by issuing a
+2 deficiency determination within three years from the date of refund or
+3 credit or within the period otherwise allowed for issuing a deficiency
+4 determination, whichever expires later. The director shall not enter into
+5 an agreement with any taxpayer unless the taxpayer agrees to
+6 electronically verify the work eligibility status of all newly hired
+7 employees employed in Nebraska within ninety days after the date of hire.
+8 For purposes of calculating any tax incentive under the act, the hours
+9 worked and compensation paid to an employee who has not been
+10 electronically verified or who is not eligible to work in Nebraska shall
+11 be excluded.
+12 (7) A determination by the director that a location is not a
+13 qualified location or a determination by the Tax Commissioner that a
+14 taxpayer has failed to meet or maintain the required levels of employment
+15 or investment for incentives, exemptions, or recapture, or does not
+16 otherwise qualify for incentives or exemptions, may be protested by the
+17 taxpayer to the Tax Commissioner within sixty days after the mailing to
+18 the taxpayer of the written notice of the proposed determination by the
+19 director or the Tax Commissioner, as applicable. If the notice of
+20 proposed determination is not protested in writing by the taxpayer within
+21 the sixty-day period, the proposed determination is a final
+22 determination. If the notice is protested, the Tax Commissioner, after a
+23 formal hearing by the Tax Commissioner or by an independent hearing
+24 officer appointed by the Tax Commissioner, if requested by the taxpayer
+25 in such protest, shall issue a written order resolving such protest. The
+26 written order of the Tax Commissioner resolving a protest may be appealed
+27 to the district court of Lancaster County in accordance with the
+28 Administrative Procedure Act within thirty days after the issuance of the
+29 order.
+30 Sec. 20. Section 81-12,144, Reissue Revised Statutes of Nebraska, is
+31 amended to read:
+-42-
+
+AM2504 AM2504
+LB1165 LB1165
+CSO - 03/17/2026 CSO - 03/17/2026
+1 81-12,144 Sections 81-12,144 to 81-12,151 and section 21 of this act
+2 shall be known and may be cited as the Site and Building Development Act.
+3 Sec. 21. For purposes of the Site and Building Development Act,
+4 employer has the same meaning as in subdivision (6) of section 3 of this
+5 act.
+6 Sec. 22. Section 81-12,147, Reissue Revised Statutes of Nebraska, is
+7 amended to read:
+8 81-12,147 (1) Except as provided in subsection (2) of this section,
+9 the Department of Economic Development shall use the Site and Building
+10 Development Fund to finance loans, grants, subsidies, credit
+11 enhancements, and other financial assistance for industrial site and
+12 building development and for expenses of the department as appropriated
+13 by the Legislature for administering the fund. The following activities
+14 are eligible for assistance from the fund:
+15 (a) Grants or zero-interest loans to villages, cities, or counties
+16 to acquire land, infuse infrastructure, or otherwise make large sites and
+17 buildings ready for industrial development;
+18 (b) Matching funds for new construction, rehabilitation, or
+19 acquisition of land and buildings to assist villages, cities, and
+20 counties;
+21 (c) Technical assistance, design and finance services, and
+22 consultation for villages, cities, and counties for the preparation and
+23 creation of industrial-ready sites and buildings;
+24 (d) Loan guarantees for eligible projects;
+25 (e) Projects making industrial-ready sites and buildings more
+26 accessible to business and industry;
+27 (f) Infrastructure projects necessary for the development of
+28 industrial-ready sites and buildings;
+29 (g) Projects that mitigate the economic impact of a closure or
+30 downsizing of a private-sector entity by making necessary improvements to
+31 buildings and infrastructure;
+-43-
+
+AM2504 AM2504
+LB1165 LB1165
+CSO - 03/17/2026 CSO - 03/17/2026
+1 (h) Public and private sector initiatives that will improve the
+2 military value of military installations by making necessary improvements
+3 to buildings and infrastructure, including, but not limited to, a grant
+4 for the establishment of the United States Strategic Command Nuclear
+5 Command, Control, and Communications public-private-partnership facility;
+6 (i) A grant to a city of the second class that is served by two
+7 first-class railroads, that is within fifteen miles of two state borders,
+8 and that partners with public power utilities for purposes of expanding
+9 electrical system capacities and enhancing redundancy and resilience;
+10 (j) A grant of two million dollars to a city of the first class
+11 located in the third congressional district if the property previously
+12 housed a university or college that is no longer extant and if the
+13 improvement and revitalization of the real property is for purposes of
+14 supporting the housing, employment, and program needs of youth exiting
+15 the foster care system. In addition, the real property may be used for
+16 youth exiting juvenile court supervision in an out-of-home placement;
+17 (k) Public and private sector initiatives that will improve the
+18 value of cities of the second class that have partnered with the United
+19 States Department of Defense or its contractors on upgrades to ground-
+20 based nuclear deterrence. Such improvements include the construction of
+21 electrical, drinking water, and clean water infrastructure; and
+22 (l) Identification, evaluation, and development of large commercial
+23 and industrial sites and building infrastructure to attract major
+24 investment and employment opportunities for advanced manufacturing,
+25 processing, trade, technology, aerospace, automotive, clean energy, life
+26 science, and other transformational industries in Nebraska by means of
+27 the department providing grants to or partnering with political
+28 subdivisions, including inland port authorities under the Municipal
+29 Inland Port Authority Act, or nonprofit economic development corporations
+30 and entering into contracts for consulting, engineering, and development
+31 studies to identify, evaluate, and develop large commercial and
+-44-
+
+AM2504 AM2504
+LB1165 LB1165
+CSO - 03/17/2026 CSO - 03/17/2026
+1 industrial sites in Nebraska; .
+2 (m) For fiscal years 2026-27 and 2027-28, grants to employers to
+3 support capital improvements related to site and building development
+4 relating to the retention and recruitment of employees following a change
+5 in ownership and control as defined in subdivision (3) of section 3 of
+6 this act. Any such grant shall be made at a rate of five dollars per
+7 square foot of capital improvements related to site and building
+8 development. The Department of Economic Development shall not award total
+9 grants exceeding two million five hundred thousand dollars in any fiscal
+10 year. For purposes of these grants, capital improvements include, but are
+11 not limited to, any spending on tangible personal property or services to
+12 build, repair, renovate, rehabilitate, restore, modify, improve, or
+13 replace any infrastructure, building system, fixture, furnishing,
+14 equipment, technology, and site and land improvements; and
+15 (n) For fiscal years 2026-27 and 2027-28, grants or zero-interest
+16 loans to cities of the first class to acquire land, infuse
+17 infrastructure, or otherwise make large sites and buildings ready for
+18 industrial development if such city (i) has a population of less than
+19 fifty thousand inhabitants and (ii) has been impacted by a sudden and
+20 significant private-sector entity closure or downsizing. The Department
+21 of Economic Development shall not award grants and loans exceeding a
+22 total of two million five hundred thousand dollars in any fiscal year.
+23 (2) The Department of Economic Development shall use the subaccount
+24 of the Site and Building Development Fund described in subsection (2) of
+25 section 81-12,146 to provide financial assistance to any inland port
+26 authority created under the Municipal Inland Port Authority Act to help
+27 finance large shovel-ready commercial and industrial sites developed
+28 under such act.
+29 Sec. 23. Section 81-12,148, Reissue Revised Statutes of Nebraska, is
+30 amended to read:
+31 81-12,148 (1) Governmental subdivisions and Nebraska nonprofit
+-45-
+
+AM2504 AM2504
+LB1165 LB1165
+CSO - 03/17/2026 CSO - 03/17/2026
+1 organizations are eligible to receive assistance under the Site and
+2 Building Development Act. Any entity receiving assistance under
+3 subsection (1) of section 81-12,147 shall provide, or cause to be
+4 provided, matching funds for the eligible activity in an amount
+5 determined by the Department of Economic Development, which amount shall
+6 be at least equal to one hundred percent of the amount of assistance
+7 provided by the Site and Building Development Fund. Nothing in the act
+8 shall be construed to allow individuals or businesses to receive direct
+9 loans from the fund.
+10 (2) An applicant for a grant for development of a public-private-
+11 partnership facility under subdivision (1)(h) of section 81-12,147 shall
+12 provide the Director of Economic Development with a letter of support
+13 from the United States Strategic Command prior to approval of the
+14 application and with proof of the availability of twenty million dollars
+15 in private or other funds for the facility. No funds shall be expended or
+16 grants awarded until receipt of proof of the availability of twenty
+17 million dollars in private or other funds for the facility and
+18 certification is provided by the Director of Economic Development to the
+19 budget administrator of the budget division of the Department of
+20 Administrative Services.
+21 (3) An applicant for a grant for development under subdivision (1)
+22 (k) of section 81-12,147 is not required to meet the matching fund
+23 requirements pursuant to this section but shall provide the Director of
+24 Economic Development a letter from the United States Department of
+25 Defense or contractor providing upgrades to ground-based nuclear
+26 deterrence that infrastructure improvements, including the construction
+27 of electrical, drinking water, and clean water infrastructure, will not
+28 be included in the scope of the project. No grants shall be awarded or
+29 funds expended until such letter is received.
+30 (4) This section does not apply to any inland port authority
+31 receiving assistance under subsection (2) of section 81-12,147, an
+-46-
+
+AM2504 AM2504
+LB1165 LB1165
+CSO - 03/17/2026 CSO - 03/17/2026
+1 employer receiving assistance under subdivision (1)(m) of section
+2 81-12,147, or a city receiving assistance under subdivision (1)(n) of
+3 section 81-12,147.
+4 Sec. 24. Section 81-12,149, Reissue Revised Statutes of Nebraska, is
+5 amended to read:
+6 81-12,149 (1) During each calendar year in which funds are available
+7 from the Site and Building Development Fund for use by the Department of
+8 Economic Development pursuant to subdivisions (1)(a) through (g) of
+9 section 81-12,147, the department shall allocate a specific amount of
+10 funds, not less than forty percent, to nonmetropolitan areas. For
+11 purposes of this section, nonmetropolitan areas means counties with fewer
+12 than one hundred thousand inhabitants according to the most recent
+13 federal decennial census. In selecting projects to receive such fund
+14 assistance, the department shall develop a qualified action plan by
+15 January 1 of each even-numbered year. The plan shall give first priority
+16 to financially viable projects that have an agreement with a business
+17 that will locate a site within ninety days of the signed agreement and to
+18 financially viable projects located in whole or in part within an
+19 enterprise zone designated pursuant to the Enterprise Zone Act or an
+20 opportunity zone designated pursuant to the federal Tax Cuts and Jobs
+21 Act, Public Law 115-97. The plan shall set forth selection criteria to be
+22 used to determine priorities of the fund for activities pursuant to
+23 subdivisions (1)(a) through (g) of section 81-12,147 which are
+24 appropriate to local conditions, including the community's immediate need
+25 for site and building development, proposed increases in jobs and
+26 investment, private dollars leveraged, level of local government support
+27 and participation, and repayment, in part or in whole, of financial
+28 assistance awarded by the fund. The Director of Economic Development
+29 shall submit the plan to the Governor for approval.
+30 (2) The department shall fund in order of priority as many
+31 applications for activities pursuant to subdivisions (1)(a) through (g)
+-47-
+
+AM2504 AM2504
+LB1165 LB1165
+CSO - 03/17/2026 CSO - 03/17/2026
+1 of section 81-12,147 as will utilize available money in the Site and
+2 Building Development Fund less actual administrative costs of the
+3 department in administering the fund and less any funds specifically
+4 committed to (a) an employer site and building development grant pursuant
+5 to subdivision (1)(m) of section 81-12,147 or (b) a city grant or loan
+6 pursuant to subdivision (1)(n) of section 81-12,147. In administering the
+7 fund, the department may contract for services or directly provide money
+8 to other governmental entities or instrumentalities.
+9 (3) This section does not apply to any inland port authority
+10 receiving assistance under subsection (2) of section 81-12,147.
+11 Sec. 25. (1) The Department of Labor shall establish a grant
+12 program to provide additional support for the implementation of workforce
+13 retention or workforce attraction plans. Grants shall be made available
+14 to economic development organizations that assist employers experiencing
+15 a change in ownership and control as defined in subdivision (3) of
+16 section 3 of this act. The total amount of grant funds awarded pursuant
+17 to this subsection shall not exceed three hundred thousand dollars. For
+18 purposes of this section, employer has the same meaning as in subdivision
+19 (6) of section 3 of this act.
+20 (2) The grants awarded pursuant to subsection (1) of this section
+21 must be made within the ten-year period immediately following the change
+22 in ownership and control as defined in subdivision (3) of section 3 of
+23 this act.
+24 (3) Prior to the award of a grant pursuant to subsection (1) of this
+25 section, the economic development organization must apply to the
+26 department for a grant. Grants will only be awarded to an economic
+27 development organization if such economic development organization
+28 submits to the department a retention and relocation plan application.
+29 Such application shall include:
+30 (a) The name of the applicant and a contact person for such
+31 application;
+-48-
+
+AM2504 AM2504
+LB1165 LB1165
+CSO - 03/17/2026 CSO - 03/17/2026
+1 (b) Information regarding the applicant's qualification as an
+2 economic development organization supporting an employer experiencing a
+3 change in ownership and control as defined in subdivision (3) of section
+4 3 of this act;
+5 (c) A narrative description of the employer's retention and
+6 relocation plan to retain within the state or relocate to the state
+7 employees during the seven years following the change in ownership and
+8 control as defined in subdivision (3) of section 3 of this act;
+9 (d) The amount of funding requested subject to the limitations of
+10 this section; and
+11 (e) Any other information the department may require.
+12 (4) If the funds available for grants in any year are insufficient
+13 to provide grants to all eligible applicants, the department shall
+14 prioritize awards to the retention and relocation plan of the employer
+15 with the largest average number of employees within Nebraska during the
+16 ten years prior to the employer's change in ownership and control as
+17 defined in subdivision (3) of section 3 of this act.
+18 Sec. 26. Sections 13, 15, 16, and 29 of this act become operative
+19 three calendar months after the adjournment of this legislative session.
+20 The other sections of this act become operative on their effective date.
+21 Sec. 27. If any section in this act or any part of any section is
+22 declared invalid or unconstitutional, the declaration shall not affect
+23 the validity or constitutionality of the remaining portions.
+24 Sec. 28. Original sections 49-801.01, 81-12,144, 81-12,146,
+25 81-12,147, 81-12,148, and 81-12,149, Reissue Revised Statutes of
+26 Nebraska, section 77-6832, Revised Statutes Cumulative Supplement, 2024,
+27 and sections 77-6538 and 77-6831, Revised Statutes Supplement, 2025, are
+28 repealed.
+29 Sec. 29. Original sections 77-5723 and 77-5735, Revised Statutes
+30 Cumulative Supplement, 2024, and section 13-2603, Revised Statutes
+31 Supplement, 2025, are repealed.
+-49-
+
+AM2504 AM2504
+LB1165 LB1165
+CSO - 03/17/2026 CSO - 03/17/2026
+1 Sec. 30. Since an emergency exists, this act takes effect when
+2 passed and approved according to law.
+-50-

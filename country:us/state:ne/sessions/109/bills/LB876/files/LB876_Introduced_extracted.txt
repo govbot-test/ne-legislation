@@ -1,0 +1,613 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LB876 LB876
+2026 2026
+LEGISLATURE OF NEBRASKA
+ONE HUNDRED NINTH LEGISLATURE
+SECOND SESSION
+LEGISLATIVE BILL 876
+Introduced by Hallstrom, 1.
+Read first time January 08, 2026
+Committee: Judiciary
+1 A BILL FOR AN ACT relating to protection orders; to amend section
+2 29-4315, Revised Statutes Cumulative Supplement, 2024, and sections
+3 26-102, 26-114, 28-311.04, 28-358.01, 28-1205, 28-1206, 29-2292,
+4 42-927, and 60-3209, Revised Statutes Supplement, 2025; to adopt the
+5 Immediate Protection from Abuse Act; to eliminate an unnecessary
+6 definition in the Protection Orders Act; to provide that the
+7 presence of a respondent at a show cause hearing under such act is
+8 sufficient notice of a protection order and further service is not
+9 required; to harmonize provisions; and to repeal the original
+10 sections.
+11 Be it enacted by the people of the State of Nebraska,
+-1-
+
+LB876 LB876
+2026 2026
+1 Section 1. Sections 1 to 8 of this act shall be known and may be
+2 cited as the Immediate Protection from Abuse Act.
+3 Sec. 2. For purposes of the Immediate Protection from Abuse Act:
+4 (1) Domestic assault offense means any offense under section 28-323;
+5 (2) Family or household members has the same meaning as in section
+6 42-903;
+7 (3) Household pet has the same meaning as in section 26-102;
+8 (4) Law enforcement agency has the same meaning as in section
+9 81-1401;
+10 (5) Law enforcement officer has the same meaning as in section
+11 81-1401;
+12 (6) Protected person means an individual who is protected by an
+13 immediate protective order;
+14 (7) Restrained person means an individual who is arrested for a
+15 domestic assault offense or a sexual assault offense;
+16 (8) Sexual assault offense has the same meaning as in section
+17 26-102; and
+18 (9) Victim means an individual who is the victim of a domestic
+19 assault offense or a sexual assault offense.
+20 Sec. 3. (1) A law enforcement officer may issue an immediate
+21 protective order against a restrained person when:
+22 (a) The law enforcement officer has arrested the restrained person
+23 for a domestic assault offense or a sexual assault offense; and
+24 (b) The officer has reasonable grounds to believe that the
+25 restrained person poses a threat of harm against the victim of such
+26 offense or a family or household member of the victim.
+27 (2) All immediate protective orders shall be issued using the
+28 standard form developed under section 4 of this act.
+29 (3) Unless earlier dissolved under section 6 of this act, an
+30 immediate protective order shall expire at 11:59 p.m. on the third day
+31 after it is issued. If such date is a day that courts are not in session,
+-2-
+
+LB876 LB876
+2026 2026
+1 the order shall remain in effect until 11:59 p.m. on the next day that
+2 courts are in session.
+3 Sec. 4. (1) The State Court Administrator shall develop a standard
+4 form for immediate protective orders to be used under the Immediate
+5 Protection from Abuse Act. The administrator shall develop forms in
+6 English and may develop forms for other languages spoken by Nebraska
+7 residents.
+8 (2) An immediate protective order shall provide that the restrained
+9 person is:
+10 (a) Prohibited from imposing any restraint upon the victim or upon
+11 the liberty of the victim or any family or household member of the
+12 victim;
+13 (b) Prohibited from threatening, assaulting, molesting, attacking,
+14 or otherwise disturbing the peace of the victim or any family or
+15 household member of the victim;
+16 (c) Prohibited from telephoning, contacting, or otherwise
+17 communicating with the victim or any family or household member of the
+18 victim;
+19 (d) Prohibited from entering the residence of the victim or any
+20 family or household member of the victim, regardless of the ownership of
+21 the residence;
+22 (e) Ordered to stay away from any place specified by the law
+23 enforcement officer;
+24 (f) Prohibited from possessing or purchasing a firearm as defined in
+25 section 28-1201;
+26 (g) Directed to relinquish sole possession to the victim or any
+27 family or household member of the victim of any household pet owned,
+28 possessed, leased, kept, or held by the victim or any family or household
+29 member residing in the household of the victim; and
+30 (h) Prohibited from coming into contact with, harming, or killing
+31 any household pet owned, possessed, leased, kept, or held by the victim
+-3-
+
+LB876 LB876
+2026 2026
+1 or any family or household member of the victim.
+2 (3) An immediate protective order shall also include:
+3 (a) A statement of the grounds asserted for the order;
+4 (b) A statement of who is protected by the order;
+5 (c) The date and time the order expires;
+6 (d) The address of the court in which the victim may file a petition
+7 for a protection order under the Protection Orders Act or the restrained
+8 person may file a motion to dissolve under section 6 of this act;
+9 (e) A statement in substantially the following form: "To the person
+10 protected by this order: This order will last only until the date and
+11 time noted above. This order may expire earlier if a court determines it
+12 should not have been issued. If you wish to seek continuing protection,
+13 you must apply for a protection order from the court, at the address
+14 noted above. You may seek the advice of an attorney about any matter
+15 connected with your application for any future court orders. The attorney
+16 should be consulted promptly so that the attorney may assist you in
+17 making your application."; and
+18 (f) A statement in substantially the following form: "To the person
+19 restrained by this order: This order will last until the date and time
+20 noted above. A court will review this order to ensure it was issued
+21 properly. You may also file a motion seeking to dissolve this order prior
+22 to its expiration date. The protected person may, however, obtain a more
+23 permanent protection order from the court. You may seek the advice of an
+24 attorney about any matter connected with filing a motion to dissolve this
+25 order or responding to an application for a more permanent protection
+26 order. The attorney should be consulted promptly so that the attorney may
+27 assist you.".
+28 Sec. 5. (1) When a law enforcement officer issues an immediate
+29 protective order, the officer shall:
+30 (a) Serve a copy on the restrained person;
+31 (b) Make reasonable efforts to provide a copy to the protected
+-4-
+
+LB876 LB876
+2026 2026
+1 person or, if the protected person is a minor, to a parent or guardian of
+2 the minor. If a parent or guardian cannot be located or is the restrained
+3 person, the officer may provide a copy to any person having temporary
+4 custody of the minor;
+5 (c) File a copy of the order with the clerk of the district court as
+6 soon as practicable; and
+7 (d) Forward a copy of the order to the presiding judge for review
+8 under section 6 of this act.
+9 (2) When an immediate protective order is filed with the clerk of
+10 the district court, the clerk shall, as soon as practicable, cause the
+11 order to be entered into the court's electronic case management system
+12 and any database for protection and restraining orders maintained by the
+13 court.
+14 Sec. 6. (1)(a) Upon receipt of a copy of an immediate protective
+15 order, the presiding judge shall review the order and may affirm, modify,
+16 or dissolve the order as provided in this section.
+17 (b) The restrained person may also file a motion with the district
+18 court requesting to dissolve or modify an immediate protective order. The
+19 hearing on the motion shall be given precedence on the docket of the
+20 court. The court shall make a reasonable effort to provide notice of the
+21 motion to the law enforcement officer that issued the order and to any
+22 protected person, but the court may hear the matter ex parte if the
+23 interests of justice require.
+24 (2) Upon its own review or pursuant to a motion filed under this
+25 section, the court may dissolve an immediate protective order only if the
+26 court finds, by clear and convincing evidence, that:
+27 (a) The restrained person did not commit a sexual assault offense or
+28 domestic assault offense; or
+29 (b) The restrained person does not pose a threat of harm to a
+30 protected person or any family or household member of such person.
+31 (3) Upon its own review or pursuant to a motion filed under this
+-5-
+
+LB876 LB876
+2026 2026
+1 section, the court may modify an immediate protective order if the
+2 interests of justice require and the court finds, by clear and convincing
+3 evidence, that such modification will not result in any increased risk of
+4 harm to a protected person or a family or household member of a protected
+5 person.
+6 (4) Unless earlier dissolved under this section, an immediate
+7 protection order shall expire at the time provided in section 3 of this
+8 act. The duration of an immediate protection order shall not be extended
+9 by any proceedings under this section.
+10 (5) Any decision of a court under this section:
+11 (a) Shall have no effect on the ability of a person to file a
+12 petition for a protection order under the Protection Orders Act;
+13 (b) Shall have no effect on any prosecution for a criminal offense;
+14 and
+15 (c) Shall not be admissible in any other criminal or civil
+16 proceeding and shall be given no consideration in any other criminal or
+17 civil proceeding.
+18 Sec. 7. A restrained person who knowingly violates an immediate
+19 protective order shall be guilty of an offense and punished as follows:
+20 (1) For a first violation of this section, such person shall be
+21 guilty of a Class I misdemeanor; and
+22 (2) For a second or subsequent violation of this section, such
+23 person shall be guilty of a Class IV felony.
+24 Sec. 8. A law enforcement officer shall, with or without a warrant,
+25 arrest a person if:
+26 (1) The officer has probable cause to believe that the person has
+27 committed a violation of an immediate protective order; and
+28 (2) Any person provides the officer with a copy of such order or the
+29 officer determines that such an order exists and remains in effect after
+30 communicating with a law enforcement agency.
+31 Sec. 9. Section 26-102, Revised Statutes Supplement, 2025, is
+-6-
+
+LB876 LB876
+2026 2026
+1 amended to read:
+2 26-102 For purposes of the Protection Orders Act:
+3 (1) Abuse has the same meaning as in section 42-903;
+4 (2) Course of conduct has the same meaning as in section 28-311.02;
+5 (2) (3) Family or household members has the same meaning as in
+6 section 42-903;
+7 (3) (4) Harass has the same meaning as in section 28-311.02;
+8 (4) (5) Household pet means any animal maintained for companionship
+9 or pleasure but does not include any animal kept primarily for commercial
+10 purposes or for consumption or any livestock animal as defined in section
+11 54-902;
+12 (5) (6) Law enforcement agency means the police department or town
+13 marshal in incorporated municipalities, the office of the sheriff in
+14 unincorporated areas, and the Nebraska State Patrol; and
+15 (6) (7) Sexual assault offense means:
+16 (a) Conduct amounting to sexual assault under section 28-319 or
+17 28-320, sexual abuse by a school worker under section 28-316.01, sexual
+18 assault of a child under section 28-319.01 or 28-320.01, a violation of
+19 section 28-311.08, or an attempt to commit any of such offenses; or
+20 (b) Subjecting or attempting to subject another person to sexual
+21 contact or sexual penetration without such person's consent, as such
+22 terms are defined in section 28-318.
+23 Sec. 10. Section 26-114, Revised Statutes Supplement, 2025, is
+24 amended to read:
+25 26-114 (1)(a) Upon the issuance of a temporary ex parte protection
+26 order or final protection order, the clerk of the court shall forthwith
+27 provide, free of charge:
+28 (i) The petitioner with two certified copies of such order;
+29 (ii) The local police department or local law enforcement agency and
+30 the local sheriff's office with one copy each of such order and one copy
+31 each of the sheriff's return thereon; and
+-7-
+
+LB876 LB876
+2026 2026
+1 (iii) A copy of the protection order to the sheriff's office in the
+2 county where the respondent may be personally served, together with
+3 instructions for service.
+4 (b) Upon receipt of the order and instructions for service, the
+5 sheriff's office in the county where the respondent may be personally
+6 served shall forthwith serve the protection order upon the respondent and
+7 file its return thereon with the clerk of the court which issued the
+8 protection order within fourteen days of the issuance of the protection
+9 order.
+10 (2) If any protection order is dismissed or modified by the court,
+11 the clerk of the court shall forthwith provide the local police
+12 department or local law enforcement agency and the local sheriff's
+13 office, without charge, with one copy each of the order of dismissal or
+14 modification.
+15 (3) Any document required to be provided under this section,
+16 including certified copies of protection orders, may be provided
+17 electronically.
+18 (4) If the respondent was present at a hearing convened pursuant to
+19 section 26-108 or 26-109 following issuance of an ex parte protection
+20 order and the court entered a final protection order at such hearing was
+21 not dismissed, the respondent shall be deemed to have notice of by the
+22 court at such hearing that the protection order will be granted and
+23 remain in effect and further service of notice described in this section
+24 is not required for purposes of prosecution under section 26-118.
+25 Sec. 11. Section 28-311.04, Revised Statutes Supplement, 2025, is
+26 amended to read:
+27 28-311.04 (1) Except as provided in subsection (2) of this section,
+28 any person convicted of violating section 28-311.03 is guilty of a Class
+29 I misdemeanor.
+30 (2) Any person convicted of violating section 28-311.03 is guilty of
+31 a Class IIIA felony if:
+-8-
+
+LB876 LB876
+2026 2026
+1 (a) The person has a prior conviction under such section or a
+2 substantially conforming criminal violation within the last seven years;
+3 (b) The victim is under sixteen years of age;
+4 (c) The person possessed a deadly weapon at any time during the
+5 violation;
+6 (d) At any time during the violation, the The person was also in
+7 violation of any protection order issued under the Protection Orders Act,
+8 a or any valid foreign protection order recognized pursuant to section
+9 26-123 or 26-124 or an immediate protective order issued under the
+10 Immediate Protection from Abuse Act at any time during the violation; or
+11 (e) The person has been convicted of any felony in this state or has
+12 been convicted of a crime in another jurisdiction which, if committed in
+13 this state, would constitute a felony and the victim or a family or
+14 household member of the victim was also the victim of such previous
+15 felony.
+16 Sec. 12. Section 28-358.01, Revised Statutes Supplement, 2025, is
+17 amended to read:
+18 28-358.01 (1) Isolation means intentional acts (a) committed for the
+19 purpose of preventing, and which do prevent, a vulnerable adult or senior
+20 adult from having contact with family, friends, or concerned persons; (b)
+21 committed to prevent a vulnerable adult or senior adult from receiving
+22 his or her mail or telephone calls; (c) of physical or chemical restraint
+23 of a vulnerable adult or senior adult committed for purposes of
+24 preventing contact with visitors, family, friends, or other concerned
+25 persons; or (d) which restrict, place, or confine a vulnerable adult or
+26 senior adult in a restricted area for purposes of social deprivation or
+27 preventing contact with family, friends, visitors, or other concerned
+28 persons.
+29 (2) Isolation does not include (a) medical isolation prescribed by a
+30 licensed physician caring for the vulnerable adult or senior adult; (b)
+31 action taken in compliance with a protection order issued under the
+-9-
+
+LB876 LB876
+2026 2026
+1 Protection Orders Act, a valid foreign protection order recognized
+2 pursuant to section 26-123 or 26-124, an immediate protective order
+3 issued under the Immediate Protection from Abuse Act, or an order
+4 excluding a person from certain premises issued pursuant to section
+5 42-357; or (c) action authorized by an administrator of a nursing home
+6 pursuant to section 71-6021.
+7 Sec. 13. Section 28-1205, Revised Statutes Supplement, 2025, is
+8 amended to read:
+9 28-1205 (1)(a) Any person who uses a firearm, a knife, brass or iron
+10 knuckles, or any other deadly weapon to commit any felony which may be
+11 prosecuted in a court of this state commits the offense of use of a
+12 deadly weapon to commit a felony.
+13 (b) Use of a deadly weapon, other than a firearm, to commit a felony
+14 is a Class II felony.
+15 (c) Use of a deadly weapon, which is a firearm, to commit a felony
+16 is a Class IC felony.
+17 (2)(a) Any person who possesses a firearm, a knife, brass or iron
+18 knuckles, or a destructive device during the commission of any felony
+19 which may be prosecuted in a court of this state commits the offense of
+20 possession of a deadly weapon during the commission of a felony.
+21 (b) Possession of a deadly weapon, other than a firearm, during the
+22 commission of a felony is a Class III felony.
+23 (c) Possession of a deadly weapon, which is a firearm, during the
+24 commission of a felony is a Class II felony.
+25 (3)(a) Any person who carries a firearm or a destructive device
+26 during the commission of a dangerous misdemeanor commits the offense of
+27 carrying a firearm or destructive device during the commission of a
+28 dangerous misdemeanor.
+29 (b) A violation of this subsection is a:
+30 (i) Class I misdemeanor for a first or second offense; and
+31 (ii) A Class IV felony for any third or subsequent offense.
+-10-
+
+LB876 LB876
+2026 2026
+1 (4) A violation of this section shall be treated as a separate and
+2 distinct offense from the underlying crimes being committed, and a
+3 sentence imposed under this section shall be consecutive to any other
+4 sentence imposed.
+5 (5) Possession of a deadly weapon may be proved through evidence
+6 demonstrating either actual or constructive possession of a firearm, a
+7 knife, brass or iron knuckles, or a destructive device during,
+8 immediately prior to, or immediately after the commission of a felony.
+9 (6) For purposes of this section:
+10 (a) Dangerous misdemeanor means a misdemeanor violation of any of
+11 the following offenses:
+12 (i) Stalking under section 28-311.03;
+13 (ii) Knowing violation of any protection order issued under the
+14 Protection Orders Act or an immediate protective order issued under the
+15 Immediate Protection from Abuse Act;
+16 (iii) Domestic assault under section 28-323;
+17 (iv) Assault of an unborn child in the third degree under section
+18 28-399;
+19 (v) Theft by shoplifting under section 28-511.01;
+20 (vi) Unauthorized use of a propelled vehicle under section 28-516;
+21 (vii) Criminal mischief under section 28-519 if such violation
+22 arises from an incident involving the commission of a misdemeanor crime
+23 of domestic violence;
+24 (viii) Impersonating a police officer under section 28-610;
+25 (ix) Resisting arrest under section 28-904;
+26 (x) Operating a motor vehicle or vessel to avoid arrest under
+27 section 28-905;
+28 (xi) Obstructing a peace officer under section 28-906; or
+29 (xii) Any attempt under section 28-201 to commit an offense
+30 described in subdivisions (6)(a)(i) through (xi) of this section;
+31 (b) Destructive device has the same meaning as in section 28-1213;
+-11-
+
+LB876 LB876
+2026 2026
+1 (c) Misdemeanor crime of domestic violence has the same meaning as
+2 in section 28-1206; and
+3 (d) Use of a deadly weapon includes the discharge, employment, or
+4 visible display of any part of a firearm, a knife, brass or iron
+5 knuckles, any other deadly weapon, or a destructive device during,
+6 immediately prior to, or immediately after the commission of a felony or
+7 communication to another indicating the presence of a firearm, a knife,
+8 brass or iron knuckles, any other deadly weapon, or a destructive device
+9 during, immediately prior to, or immediately after the commission of a
+10 felony, regardless of whether such firearm, knife, brass or iron
+11 knuckles, deadly weapon, or destructive device was discharged, actively
+12 employed, or displayed.
+13 Sec. 14. Section 28-1206, Revised Statutes Supplement, 2025, is
+14 amended to read:
+15 28-1206 (1) A person commits the offense of possession of a deadly
+16 weapon by a prohibited person if he or she:
+17 (a) Possesses a firearm, a knife, or brass or iron knuckles and he
+18 or she:
+19 (i) Has previously been convicted of a felony;
+20 (ii) Is a fugitive from justice;
+21 (iii) Is the subject of a current and valid protection order issued
+22 under the Protection Orders Act, or a current and valid foreign
+23 protection order recognized under section 26-123 or 26-124, or a current
+24 and valid immediate protective order issued under the Immediate
+25 Protection from Abuse Act and is knowingly violating such order; or
+26 (iv) Is on probation pursuant to a deferred judgment for a felony
+27 under section 29-2292 or 29-4803; or
+28 (b) Possesses a firearm or brass or iron knuckles and he or she has
+29 been convicted within the past seven years of a misdemeanor crime of
+30 domestic violence.
+31 (2) The felony conviction may have been had in any court in the
+-12-
+
+LB876 LB876
+2026 2026
+1 United States, the several states, territories, or possessions, or the
+2 District of Columbia.
+3 (3)(a) Possession of a deadly weapon which is not a firearm by a
+4 prohibited person is a Class III felony.
+5 (b) Possession of a deadly weapon which is a firearm by a prohibited
+6 person is a Class ID felony for a first offense and a Class IB felony for
+7 a second or subsequent offense.
+8 (4) Subdivision (1)(a)(i) of this section shall not prohibit:
+9 (a) Possession of archery equipment for lawful purposes; or
+10 (b) If in possession of a recreational license, possession of a
+11 knife for purposes of butchering, dressing, or otherwise processing or
+12 harvesting game, fish, or furs.
+13 (5)(a) For purposes of this section, misdemeanor crime of domestic
+14 violence means a crime that:
+15 (i) Is classified as a misdemeanor under the laws of the United
+16 States or the District of Columbia or the laws of any state, territory,
+17 possession, or tribe;
+18 (ii) Has, as an element, the use or attempted use of physical force
+19 or the threatened use of a deadly weapon; and
+20 (iii) Is committed by another against his or her spouse, his or her
+21 former spouse, a person with whom he or she has a child in common whether
+22 or not they have been married or lived together at any time, or a person
+23 with whom he or she is or was involved in a dating relationship as
+24 defined in section 28-323.
+25 (b) For purposes of this section, misdemeanor crime of domestic
+26 violence also includes the following offenses, if committed by a person
+27 against his or her spouse, his or her former spouse, a person with whom
+28 he or she is or was involved in a dating relationship as defined in
+29 section 28-323, or a person with whom he or she has a child in common
+30 whether or not they have been married or lived together at any time:
+31 (i) Assault in the third degree under section 28-310;
+-13-
+
+LB876 LB876
+2026 2026
+1 (ii) Stalking under subsection (1) of section 28-311.04;
+2 (iii) False imprisonment in the second degree under section 28-315;
+3 (iv) First offense domestic assault in the third degree under
+4 subsection (1) of section 28-323; or
+5 (v) Any attempt or conspiracy to commit any of such offenses.
+6 (c) A person shall not be considered to have been convicted of a
+7 misdemeanor crime of domestic violence unless:
+8 (i) The person was represented by counsel in the case or knowingly
+9 and intelligently waived the right to counsel in the case; and
+10 (ii) In the case of a prosecution for a misdemeanor crime of
+11 domestic violence for which a person was entitled to a jury trial in the
+12 jurisdiction in which the case was tried, either:
+13 (A) The case was tried to a jury; or
+14 (B) The person knowingly and intelligently waived the right to have
+15 the case tried to a jury.
+16 (6) In addition, for purposes of this section:
+17 (a) Archery equipment means:
+18 (i) A longbow, recurve bow, compound bow, or nonelectric crossbow
+19 that is drawn or cocked with human power and released by human power; and
+20 (ii) Target or hunting arrows, including arrows with broad, fixed,
+21 or removable heads or that contain multiple sharp cutting edges; and
+22 (b) Recreational license means a state-issued license, certificate,
+23 registration, permit, tag, sticker, or other similar document or
+24 identifier evidencing permission to hunt, fish, or trap for furs in the
+25 State of Nebraska.
+26 Sec. 15. Section 29-2292, Revised Statutes Supplement, 2025, is
+27 amended to read:
+28 29-2292 (1) Upon a finding of guilt for which a judgment of
+29 conviction may be rendered, a defendant may request the court defer the
+30 entry of judgment of conviction. Upon such request and after giving the
+31 prosecutor and defendant the opportunity to be heard, the court may defer
+-14-
+
+LB876 LB876
+2026 2026
+1 the entry of a judgment of conviction and the imposition of a sentence
+2 and place the defendant on probation, upon conditions as the court may
+3 require under section 29-2262.
+4 (2) The court shall not defer judgment under this section if:
+5 (a) The offense is a violation of a domestic abuse protection order
+6 under section 26-118 or an immediate protective order under section 7 of
+7 this act;
+8 (b) The victim of the offense is an intimate partner as defined in
+9 section 28-323;
+10 (c) The offense is a violation of section 60-6,196 or 60-6,197 or a
+11 city or village ordinance enacted in conformance with section 60-6,196 or
+12 60-6,197;
+13 (d) The defendant is not eligible for probation; or
+14 (e) For any driver holding a commercial driver's license or CLP-
+15 commercial learner's permit issued pursuant to the Motor Vehicle
+16 Operator's License Act, such deferred judgment would mask the conviction
+17 and lead to noncompliance with federal law or regulation and subject this
+18 state to possible loss of federal money.
+19 (3) Whenever a court considers a request to defer judgment, the
+20 court shall consider the factors set forth in section 29-2260 and any
+21 other information the court deems relevant.
+22 (4) Except as otherwise provided in this section and sections
+23 29-2293 and 29-2294, the supervision of a defendant on probation pursuant
+24 to a deferred judgment shall be governed by the Nebraska Probation
+25 Administration Act and sections 29-2270 to 29-2273.
+26 (5) After a hearing providing the prosecutor and defendant an
+27 opportunity to be heard and upon a finding that a defendant has violated
+28 a condition of his or her probation, the court may enter any order
+29 authorized by section 29-2268 or pronounce judgment and impose such new
+30 sentence as might have been originally imposed for the offense for which
+31 the defendant was convicted.
+-15-
+
+LB876 LB876
+2026 2026
+1 (6) Upon satisfactory completion of the conditions of probation and
+2 the payment or waiver of all administrative and programming fees assessed
+3 under section 29-2293, the defendant or prosecutor may file a motion to
+4 withdraw any plea entered by the defendant and to dismiss the action
+5 without entry of judgment.
+6 (7) The provisions of this section apply to offenses committed on or
+7 after July 1, 2020. For purposes of this section, an offense shall be
+8 deemed to have been committed prior to July 1, 2020, if any element of
+9 the offense occurred prior to such date.
+10 Sec. 16. Section 29-4315, Revised Statutes Cumulative Supplement,
+11 2024, is amended to read:
+12 29-4315 (1) Upon an initial interaction with a victim relating to or
+13 arising from a sexual assault of such victim, a health care provider or
+14 peace officer, and in the case of a victim under eighteen years of age,
+15 the Department of Health and Human Services, shall provide the victim
+16 with information that explains the rights of victims under the Sexual
+17 Assault Victims' Bill of Rights Act and other relevant law. The
+18 information shall be presented in clear language that is comprehensible
+19 to a person proficient in English at the fifth grade level, accessible to
+20 persons with visual disabilities, and available in all major languages
+21 spoken in this state. This information shall include, but not be limited
+22 to:
+23 (a) A clear statement that a victim is not required to participate
+24 in the criminal justice system or to undergo a medical evidentiary or
+25 physical examination in order to retain the rights provided by the act
+26 and other relevant law;
+27 (b) Contact information for appropriate services provided by
+28 professionals in the fields of domestic violence and sexual assault,
+29 including advocates;
+30 (c) State and federal relief available to victims of crime;
+31 (d) Law enforcement protection available to the victim, including
+-16-
+
+LB876 LB876
+2026 2026
+1 immediate protective orders, domestic violence protection orders,
+2 harassment protection orders, and sexual assault protection orders and
+3 the process to obtain such protection;
+4 (e) Instructions for requesting information regarding the victim's
+5 sexual assault forensic evidence as provided in section 29-4313; and
+6 (f) State and federal compensation funds for medical and other costs
+7 associated with the sexual assault and information on any municipal,
+8 state, or federal right to restitution for a victim in the event of a
+9 conviction.
+10 (2) The information to be provided under subsection (1) of this
+11 section shall be developed by the Attorney General and the Nebraska
+12 Commission on Law Enforcement and Criminal Justice with input from
+13 prosecutors, sexual assault victims, and organizations with a statewide
+14 presence with expertise on domestic violence, sexual assault, and child
+15 sexual assault.
+16 (3) The information to be provided under subsection (1) of this
+17 section shall be made available for viewing and download on the websites
+18 of the Department of Health and Human Services and the Nebraska
+19 Commission on Law Enforcement and Criminal Justice. Other relevant state
+20 agencies are also encouraged to make such information available on their
+21 websites.
+22 Sec. 17. Section 42-927, Revised Statutes Supplement, 2025, is
+23 amended to read:
+24 42-927 All law enforcement agencies in the state shall provide
+25 officers employed by them with an education and training program designed
+26 to inform the officers of the problems of domestic abuse, procedures to
+27 deal with such problems, the Immediate Protection from Abuse Act, the
+28 Protection from Domestic Abuse Act, the Protection Orders Act, and the
+29 services and facilities available to abused family and household members.
+30 Sec. 18. Section 60-3209, Revised Statutes Supplement, 2025, is
+31 amended to read:
+-17-
+
+LB876 LB876
+2026 2026
+1 60-3209 (1) Captured plate data held by a governmental entity is not
+2 considered a public record for purposes of sections 84-712 to 84-712.09
+3 and shall only be disclosed to the person to whom the vehicle is
+4 registered or with the prior written consent of the person to whom the
+5 vehicle is registered or pursuant to a disclosure order under subsection
+6 (2) of section 60-3205 or as the result of a match pursuant to subsection
+7 (2) of section 60-3203.
+8 (2) Upon the presentation to a governmental entity of a valid,
+9 outstanding protection order pursuant to the Protection Orders Act or the
+10 Uniform Interstate Enforcement of Domestic Violence Protection Orders Act
+11 or an immediate protective order issued under the Immediate Protection
+12 from Abuse Act protecting the driver of a vehicle jointly registered with
+13 or registered solely in the name of the individual against whom the order
+14 was issued, captured plate data may not be disclosed except pursuant to a
+15 disclosure order under subsection (2) of section 60-3205 or as the result
+16 of a match pursuant to subsection (2) of section 60-3203.
+17 Sec. 19. Original section 29-4315, Revised Statutes Cumulative
+18 Supplement, 2024, and sections 26-102, 26-114, 28-311.04, 28-358.01,
+19 28-1205, 28-1206, 29-2292, 42-927, and 60-3209, Revised Statutes
+20 Supplement, 2025, are repealed.
+-18-

@@ -1,0 +1,709 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LB867 LB867
+2026 2026
+LEGISLATURE OF NEBRASKA
+ONE HUNDRED NINTH LEGISLATURE
+SECOND SESSION
+LEGISLATIVE BILL 867
+Introduced by Health and Human Services Committee: Hardin, 48,
+Chairperson; Ballard, 21; Hansen, 16; Meyer, G., 17.
+Read first time January 08, 2026
+Committee: Health and Human Services
+1 A BILL FOR AN ACT relating to the Department of Health and Human
+2 Services; to amend sections 28-705, 28-706, 43-2624, 68-150, 68-716,
+3 68-916, 68-1006, 68-1007, 68-1509, 71-2226, 71-7450, and 81-3116,
+4 Reissue Revised Statutes of Nebraska, sections 30-38,113 and
+5 43-4504, Revised Statutes Cumulative Supplement, 2024, and sections
+6 38-131, 43-3342.04, and 68-919, Revised Statutes Supplement, 2025;
+7 to change requirements for rules and regulations regarding special
+8 needs trusts as prescribed; to change provisions regarding
+9 fingerprint requirements under the Uniform Credentialing Act; to
+10 redefine a term; to change requirements for the Title IV-D Customer
+11 Service Unit; to change funding provisions for child care grants; to
+12 change eligibility requirements for young adults in the bridge to
+13 independence program; to change and eliminate requirements relating
+14 to application for, determination of need for, and payment of
+15 assistance to the aged, blind, and disabled; to change a requirement
+16 of the state Commodity Supplemental Food program; to change
+17 responsibility requirements for the Division of Children and Family
+18 Services; to eliminate provisions relating to spousal assets under
+19 the Medical Assistance Act; to eliminate provisions relating to the
+20 Maternal and Child Health and Public Health Work Fund; to eliminate
+21 an obsolete Nurse Licensure Compact; to provide for the use of
+22 wholesale drug distributor license fees for the prescription drug
+-1-
+
+LB867 LB867
+2026 2026
+1 monitoring program; to harmonize provisions; to repeal the original
+2 sections; and to outright repeal sections 68-921, 68-922, 68-923,
+3 68-924, 68-925, 68-1008, 71,1795, 71-1795.02, 71-2201, 71-2202,
+4 71-2203, 71-2204, 71-2205, 71-2207, and 71-2208, Reissue Revised
+5 Statutes of Nebraska.
+6 Be it enacted by the people of the State of Nebraska,
+-2-
+
+LB867 LB867
+2026 2026
+1 Section 1. Section 28-705, Reissue Revised Statutes of Nebraska, is
+2 amended to read:
+3 28-705 (1) Any person who abandons and neglects or refuses to
+4 maintain or provide for his or her spouse or his or her child or
+5 dependent stepchild, whether such child is born in or out of wedlock,
+6 commits abandonment of spouse, child, or dependent stepchild.
+7 (2) For the purposes of this section, child shall mean an individual
+8 under the age of sixteen years.
+9 (3) When any person abandons and neglects to provide for his or her
+10 spouse or his or her child or dependent stepchild for three consecutive
+11 months or more, it shall be prima facie evidence of intent to violate the
+12 provisions of subsection (1) of this section.
+13 (4) A designation of assets for or use of income by an individual in
+14 accordance with section 68-922 shall be considered just cause for failure
+15 to use such assets or income to provide medical support of such
+16 individual's spouse.
+17 (4) (5) Abandonment of spouse, child, or dependent stepchild is a
+18 Class I misdemeanor.
+19 Sec. 2. Section 28-706, Reissue Revised Statutes of Nebraska, is
+20 amended to read:
+21 28-706 (1) Any person who intentionally fails, refuses, or neglects
+22 to provide proper support which he or she knows or reasonably should know
+23 he or she is legally obliged to provide to a spouse, minor child, minor
+24 stepchild, or other dependent commits criminal nonsupport.
+25 (2) A parent or guardian who refuses to pay hospital costs, medical
+26 costs, or any other costs arising out of or in connection with an
+27 abortion procedure performed on a minor child or minor stepchild does not
+28 commit criminal nonsupport if:
+29 (a) Such parent or guardian was not consulted prior to the abortion
+30 procedure; or
+31 (b) After consultation, such parent or guardian refused to grant
+-3-
+
+LB867 LB867
+2026 2026
+1 consent for such procedure, and the abortion procedure was not necessary
+2 to preserve the minor child or stepchild from an imminent peril that
+3 substantially endangered her life or health.
+4 (3) Support includes, but is not limited to, food, clothing, medical
+5 care, and shelter.
+6 (4) A designation of assets for or use of income by an individual in
+7 accordance with section 68-922 shall be considered just cause for failure
+8 to use such assets or income to provide medical support of such
+9 individual's spouse.
+10 (4) (5) This section does not exclude any applicable civil remedy.
+11 (5) (6) Except as provided in subsection (6) (7) of this section,
+12 criminal nonsupport is a Class II misdemeanor.
+13 (6) (7) Criminal nonsupport is a Class IV felony if it is in
+14 violation of any order of any court.
+15 Sec. 3. Section 30-38,113, Revised Statutes Cumulative Supplement,
+16 2024, is amended to read:
+17 30-38,113 (1) Each state agency that provides governmental benefits
+18 to individuals of any age with disabilities through means-tested
+19 programs, including the medical assistance program, shall adopt and
+20 promulgate rules and regulations that:
+21 (a) Are not more restrictive than existing federal law, regulations,
+22 or policies with regard to the treatment of a special needs trust,
+23 including a trust defined in 42 U.S.C. 1396p(c)(2) and 42 U.S.C. 1396p(d)
+24 (4);
+25 (b) Are not more restrictive than any state law regarding trusts,
+26 including any state law relating to the reasonable exercise of discretion
+27 by a trustee, guardian, or conservator in the best interests of the
+28 beneficiary;
+29 (c) Do not require disclosure of a beneficiary's personal or
+30 confidential information without the consent of the beneficiary;
+31 (d) Allow an individual account in a pooled special needs trust to
+-4-
+
+LB867 LB867
+2026 2026
+1 be funded without financial limit;
+2 (e) Allow an individual to establish or fund an individual account
+3 in a pooled special needs trust without an age limit or a transfer
+4 penalty;
+5 (e) (f) Allow an individual to fund a special needs trust for the
+6 individual's child with disabilities without a transfer penalty and
+7 regardless of the child's age; and
+8 (f) (g) Allow all legally assignable income or resources to be
+9 assigned to any special needs trust without limit.
+10 (2) Nothing in this section may be interpreted to require a court
+11 order to authorize the funding of, or a disbursement from, a special
+12 needs trust.
+13 Sec. 4. Section 38-131, Revised Statutes Supplement, 2025, is
+14 amended to read:
+15 38-131 (1) An applicant for a an initial license to practice as a
+16 registered nurse, a licensed practical nurse, a physical therapist, a
+17 physical therapy assistant, a psychologist, an advanced emergency medical
+18 technician, an emergency medical technician, an audiologist, a speech-
+19 language pathologist, a licensed independent mental health practitioner,
+20 an occupational therapist, an occupational therapy assistant, a
+21 dietitian, a certified social worker, a certified master social worker, a
+22 licensed clinical social worker, a paramedic, a physician, an osteopathic
+23 physician, a physician or osteopathic physician who is an applicant for a
+24 temporary educational permit, a physician or osteopathic physician who is
+25 an applicant for a temporary visiting faculty permit, a physician
+26 assistant, a dentist, a dental hygienist, an optometrist, a podiatrist, a
+27 veterinarian, an advanced practice registered nurse-nurse practitioner,
+28 an advanced practice registered nurse-certified nurse midwife, or an
+29 advanced practice registered nurse-certified registered nurse anesthetist
+30 shall be subject to a criminal background check. Except as provided in
+31 subsection (4) of this section, such an applicant for a an initial
+-5-
+
+LB867 LB867
+2026 2026
+1 license shall submit a full set of fingerprints to the Nebraska State
+2 Patrol for a criminal history record information check. The applicant
+3 shall authorize release of the results of the national criminal history
+4 record information check by the Federal Bureau of Investigation to the
+5 department. The applicant shall pay the actual cost of the fingerprinting
+6 and criminal background check.
+7 (2) The Nebraska State Patrol is authorized to submit the
+8 fingerprints of such applicants to the Federal Bureau of Investigation
+9 and to issue a report to the department that includes the criminal
+10 history record information concerning the applicant. The Nebraska State
+11 Patrol shall forward submitted fingerprints to the Federal Bureau of
+12 Investigation for a national criminal history record information check.
+13 The Nebraska State Patrol shall issue a report to the department that
+14 includes the criminal history record information concerning the
+15 applicant.
+16 (3) This section shall not apply to a dentist who is an applicant
+17 for a dental locum tenens under section 38-1122, to a physician or
+18 osteopathic physician who is an applicant for a physician locum tenens
+19 under section 38-2036, or to a veterinarian who is an applicant for a
+20 veterinarian locum tenens under section 38-3335.
+21 (4) A physician or osteopathic physician who is an applicant for a
+22 temporary educational permit shall have ninety days from the issuance of
+23 the permit to comply with subsection (1) of this section and shall have
+24 such permit suspended after such ninety-day period if the criminal
+25 background check is not complete or revoked if the criminal background
+26 check reveals that the applicant was not qualified for the permit.
+27 (5) The department and the Nebraska State Patrol may adopt and
+28 promulgate rules and regulations concerning costs associated with the
+29 fingerprinting and the national criminal history record information
+30 check.
+31 (6) For purposes of interpretation by the Federal Bureau of
+-6-
+
+LB867 LB867
+2026 2026
+1 Investigation, the term department in this section means the Division of
+2 Public Health of the Department of Health and Human Services.
+3 Sec. 5. Section 43-2624, Reissue Revised Statutes of Nebraska, is
+4 amended to read:
+5 43-2624 The Department of Health and Human Services shall award
+6 grants to persons, community-based organizations, or schools needing
+7 assistance to start or improve a child care program or needing assistance
+8 to provide staff training for a child care program. No grant shall exceed
+9 ten thousand dollars. A recipient of a grant shall not be eligible for a
+10 grant more than once in a three-year period. Child care grants shall be
+11 awarded on the basis of need for the proposed services in the community.
+12 Grants shall be given only to grantees who do not discriminate against
+13 children with disabilities or children whose care is funded by any state
+14 or federal funds. When considering grant applications of equal merit, the
+15 department shall award the grant to the applicant which has not
+16 previously received a grant from the Child Care Grant Fund. The
+17 department may award grants in excess of the appropriation for this
+18 program by spending available federal funds allowed for such grants.
+19 Sec. 6. Section 43-3342.04, Revised Statutes Supplement, 2025, is
+20 amended to read:
+21 43-3342.04 (1) The Title IV-D Division shall establish a Customer
+22 Service Unit. In hiring the initial staff for the unit, a hiring
+23 preference shall be given to employees of the clerks of the district
+24 court. The duties of the Customer Service Unit include, but are not
+25 limited to:
+26 (a) Providing account information as well as addressing inquiries
+27 made by customers of the State Disbursement Unit; and
+28 (b) Administering two statewide toll-free telephone systems, one for
+29 use by employers and one for use by all other customers, to provide
+30 responses to inquiries regarding income withholding, the collection and
+31 disbursement of support order payments made to the State Disbursement
+-7-
+
+LB867 LB867
+2026 2026
+1 Unit, and other child support enforcement issues, including establishing
+2 a call center with sufficient telephone lines, a voice response unit, and
+3 adequate personnel available during normal business hours to ensure that
+4 responses to inquiries are made by the division's personnel or the
+5 division's designee.
+6 (2) The physical location of the Customer Service Unit shall be in
+7 Nebraska and shall result in the hiring of a number of new employees or
+8 contractor's staff equal to at least one-fourth of one percent of the
+9 labor force in the county or counties in which the Customer Service Unit
+10 is located. Customer service staff responsible for providing account
+11 information related to the State Disbursement Unit may be located at the
+12 same location as the State Disbursement Unit.
+13 Sec. 7. Section 43-4504, Revised Statutes Cumulative Supplement,
+14 2024, is amended to read:
+15 43-4504 The bridge to independence program is available, on a
+16 voluntary basis, to a young adult:
+17 (1) Who has attained the age of eligibility;
+18 (2) Who was adjudicated to be a juvenile described in:
+19 (a) Subdivision (3)(a) of section 43-247 or the equivalent under
+20 tribal law and (i) who, upon attaining the age of eligibility, was in an
+21 out-of-home placement or had been discharged to independent living or
+22 (ii) with respect to whom a kinship guardianship assistance agreement or
+23 an adoption assistance agreement was in effect pursuant to 42 U.S.C. 673,
+24 if the young adult had attained sixteen years of age before the agreement
+25 became effective, or with respect to whom a state-funded guardianship
+26 assistance agreement or a state-funded adoption assistance agreement was
+27 in effect if the young adult had attained sixteen years of age before the
+28 agreement became effective;
+29 (b) Subdivision (8) of section 43-247 or the equivalent under tribal
+30 law if the young adult's guardianship or state-funded adoption assistance
+31 agreement was disrupted or terminated after he or she had attained the
+-8-
+
+LB867 LB867
+2026 2026
+1 age of sixteen years and (i) who, upon attaining the age of eligibility,
+2 was in an out-of-home placement or had been discharged to independent
+3 living or (ii) with respect to whom a kinship guardianship assistance
+4 agreement or an adoption assistance agreement was in effect pursuant to
+5 42 U.S.C. 673, if the young adult had attained sixteen years of age
+6 before the agreement became effective, or with respect to whom a state-
+7 funded guardianship assistance agreement or a state-funded adoption
+8 assistance agreement was in effect if the young adult had attained
+9 sixteen years of age before the agreement became effective; or
+10 (c) Subdivision (1), (2), or (3)(b) of section 43-247 and (i) after
+11 January 1, 2025, upon one day prior to attaining nineteen years of age or
+12 the age of majority under relevant tribal law, was in a court-ordered
+13 out-of-home placement and (ii) such placement had been authorized or
+14 reauthorized in the six months prior to the juvenile attaining nineteen
+15 years of age or the age of majority under relevant tribal law in a court
+16 order finding that it would be contrary to the welfare of the juvenile to
+17 remain in or return to the juvenile's family home;
+18 (3) Who is:
+19 (a) Completing secondary education or an educational program leading
+20 to an equivalent credential;
+21 (b) Enrolled in an institution which provides postsecondary or
+22 vocational education;
+23 (c) Employed for at least eighty hours per month;
+24 (d) Participating in a program or activity designed to promote
+25 employment or remove barriers to employment; or
+26 (e) Incapable of doing any of the activities described in
+27 subdivisions (3)(a) through (d) of this section due to a medical
+28 condition, which incapacity is supported by regularly updated information
+29 in the case plan of the young adult;
+30 (4) Who is a Nebraska resident, except that this requirement shall
+31 not disqualify a young adult who was a Nebraska resident but was placed
+-9-
+
+LB867 LB867
+2026 2026
+1 outside Nebraska pursuant to the Interstate Compact for the Placement of
+2 Children; and
+3 (5) Who does not meet the level of care for a nursing facility as
+4 defined in section 71-424, for a skilled nursing facility as defined in
+5 section 71-429, or for an intermediate care facility for persons with
+6 developmental disabilities as defined in section 71-421.
+7 Sec. 8. Section 68-150, Reissue Revised Statutes of Nebraska, is
+8 amended to read:
+9 68-150 An application for county general assistance or for county
+10 health services shall give a right of subrogation to the county
+11 furnishing such aid. Subrogation Subject to sections 68-921 to 68-925,
+12 subrogation shall include every claim or right which the applicant may
+13 have against a third party when such right or claim involves money for
+14 medical care. The third party shall be liable to make payments directly
+15 to the county as soon as he or she is notified in writing of the valid
+16 claim for subrogation under this section.
+17 Sec. 9. Section 68-716, Reissue Revised Statutes of Nebraska, is
+18 amended to read:
+19 68-716 An application for medical assistance shall give a right of
+20 subrogation to the Department of Health and Human Services or its
+21 assigns. Subrogation Subject to sections 68-921 to 68-925, subrogation
+22 shall include every claim or right which the applicant may have against a
+23 third party when such right or claim involves money for medical care. The
+24 third party shall be liable to make payments directly to the department
+25 or its assigns as soon as he or she is notified in writing of the valid
+26 claim for subrogation under this section.
+27 Sec. 10. Section 68-916, Reissue Revised Statutes of Nebraska, is
+28 amended to read:
+29 68-916 The application for medical assistance shall constitute an
+30 automatic assignment of the rights specified in this section to the
+31 department or its assigns effective from the date of eligibility for such
+-10-
+
+LB867 LB867
+2026 2026
+1 assistance. The assignment shall include the rights of the applicant or
+2 recipient and also the rights of any other member of the assistance group
+3 for whom the applicant or recipient can legally make an assignment.
+4 Pursuant to this section and subject to sections 68-921 to 68-925,
+5 the applicant or recipient shall assign to the department or its assigns
+6 any rights to medical care support available to him or her or to other
+7 members of the assistance group under an order of a court or
+8 administrative agency and any rights to pursue or receive payments from
+9 any third party liable to pay for the cost of medical care and services
+10 arising out of injury, disease, or disability of the applicant or
+11 recipient or other members of the assistance group which otherwise would
+12 be covered by medical assistance. Medicare benefits shall not be assigned
+13 pursuant to this section. Rights assigned to the department or its
+14 assigns under this section may be directly reimbursable to the department
+15 or its assigns by liable third parties, as provided by rule or regulation
+16 of the department, when prior notification of the assignment has been
+17 made to the liable third party.
+18 Sec. 11. Section 68-919, Revised Statutes Supplement, 2025, is
+19 amended to read:
+20 68-919 (1) The recipient of medical assistance under the medical
+21 assistance program shall be indebted to the department for the total
+22 amount paid for medical assistance on behalf of the recipient if:
+23 (a) The recipient was fifty-five years of age or older at the time
+24 the medical assistance was provided; or
+25 (b) The recipient resided in a medical institution and, at the time
+26 of institutionalization or application for medical assistance, whichever
+27 is later, the department determines that the recipient could not have
+28 reasonably been expected to be discharged and resume living at home. For
+29 purposes of this section, medical institution means a nursing facility,
+30 an intermediate care facility for persons with developmental
+31 disabilities, an assisted-living facility, or an inpatient hospital.
+-11-
+
+LB867 LB867
+2026 2026
+1 (2)(a) The debt accruing under subsection (1) of this section arises
+2 during the life of the recipient but shall be held in abeyance until the
+3 death of the recipient. Any such debt to the department that exists when
+4 the recipient dies shall be recovered only after the death of the
+5 recipient's spouse, if any, and only after the recipient is not survived
+6 by a child who either is under twenty-one years of age or is blind or
+7 totally and permanently disabled as defined by the Supplemental Security
+8 Income criteria. In recovering such debt, the department shall not
+9 foreclose on a lien on the home of the recipient (i) if a sibling of the
+10 recipient with an equity interest in the home has lawfully resided in the
+11 home for at least one year before the recipient's admission and has lived
+12 there continuously since the date of the recipient's admission or (ii)
+13 while the home is the residence of an adult child who has lived in the
+14 recipient's home for at least two years immediately before the recipient
+15 was institutionalized, has lived there continuously since that time, and
+16 can establish to the satisfaction of the department that he or she
+17 provided care that delayed the recipient's admission. Such care may be
+18 reimbursed or unreimbursed.
+19 (b) A written attestation by a physician stating that a sibling or
+20 an adult child of a recipient provided care that delayed the recipient's
+21 admission to a medical institution shall be sufficient documentation for
+22 the department to avoid foreclosure on the lien described in this
+23 subsection.
+24 (3) The debt shall include the total amount of medical assistance
+25 provided when the recipient was fifty-five years of age or older or
+26 during a period of institutionalization as described in subsection (1) of
+27 this section and shall not include interest.
+28 (4)(a) It is the intent of the Legislature that the debt specified
+29 in subsection (1) of this section be collected by the department before
+30 any portion of the estate of a recipient of medical assistance is enjoyed
+31 by or transferred to a person not specified in subsection (2) of this
+-12-
+
+LB867 LB867
+2026 2026
+1 section as a result of the death of such recipient. The debt may be
+2 recovered from the estate of a recipient of medical assistance. The
+3 department shall undertake all reasonable and cost-effective measures to
+4 enforce recovery under the Medical Assistance Act. All persons specified
+5 in subsections (2) and (4) of this section shall cooperate with the
+6 department in the enforcement of recovery under the act.
+7 (b) For purposes of this section:
+8 (i) Estate of a recipient of medical assistance means any real
+9 estate, personal property, or other asset in which the recipient had any
+10 legal title or interest at or immediately preceding the time of the
+11 recipient's death, to the extent of such interests. In furtherance and
+12 not in limitation of the foregoing, the estate of a recipient of medical
+13 assistance also includes:
+14 (A) Assets to be transferred to a beneficiary described in section
+15 77-2004 or 77-2005 in relation to the recipient through a revocable trust
+16 or other similar arrangement which has become irrevocable by reason of
+17 the recipient's death; and
+18 (B) Assets Notwithstanding anything to the contrary in subdivision
+19 (3) or (4) of section 68-923, assets conveyed or otherwise transferred to
+20 a survivor, an heir, an assignee, a beneficiary, or a devisee of the
+21 recipient of medical assistance through joint tenancy, tenancy in common,
+22 transfer on death deed, survivorship, conveyance of a remainder interest,
+23 retention of a life estate or of an estate for a period of time, living
+24 trust, or other arrangement by which value or possession is transferred
+25 to or realized by the beneficiary of the conveyance or transfer at or as
+26 a result of the recipient's death. Such other arrangements include
+27 insurance policies or annuities in which the recipient of medical
+28 assistance had at the time of death any incidents of ownership of the
+29 policy or annuity or the power to designate beneficiaries and any pension
+30 rights or completed retirement plans or accounts of the recipient. A
+31 completed retirement plan or account is one which because of the death of
+-13-
+
+LB867 LB867
+2026 2026
+1 the recipient of medical assistance ceases to have elements of retirement
+2 relating to such recipient and under which one or more beneficiaries
+3 exist after such recipient's death; and
+4 (ii) Notwithstanding anything to the contrary in subdivision (4)(b)
+5 of this section, estate of a recipient of medical assistance does not
+6 include:
+7 (A) Insurance proceeds, any trust account subject to the Burial Pre-
+8 Need Sale Act, or any limited lines funeral insurance policy to the
+9 extent used to pay for funeral, burial, or cremation expenses of the
+10 recipient of medical assistance;
+11 (B) Conveyances of real estate made prior to August 24, 2017, that
+12 are subject to the grantor's retention of a life estate or an estate for
+13 a period of time;
+14 (C) Life estate interests in real estate after sixty months from the
+15 date of recording a deed with retention of a life estate by the recipient
+16 of medical assistance;
+17 (D) Any pension rights or completed retirement plans to the extent
+18 that such rights or plans are exempt from claims for reimbursement of
+19 medical assistance under federal law; and
+20 (E) Life estate interests in real estate after twelve months from
+21 the recording of a deed with retention of a life estate by the recipient
+22 of medical assistance if a relative resides solely and continuously with
+23 the recipient and establishes to the satisfaction of the department that
+24 the relative provided care that delayed the recipient's admission to a
+25 medical institution. A written attestation by a physician stating that
+26 the relative of the recipient provided care that delayed the recipient's
+27 admission to a medical institution shall be sufficient documentation to
+28 exclude the life estate interest from the recipient's estate under this
+29 subdivision.
+30 (c) The department, upon application of the personal representative
+31 of an estate, any person or entity otherwise authorized under the
+-14-
+
+LB867 LB867
+2026 2026
+1 Nebraska Probate Code to act on behalf of a decedent, any person or
+2 entity having an interest in assets of the decedent which are subject to
+3 this subsection, a successor trustee of a revocable trust or other
+4 similar arrangement which has become irrevocable by reason of the
+5 decedent's death, or any other person or entity holding assets of the
+6 decedent described in this subsection, shall timely certify to the
+7 applicant, that as of a designated date, whether medical assistance
+8 reimbursement is due or an application for medical assistance was pending
+9 that may result in medical assistance reimbursement due. An application
+10 for a certificate under this subdivision shall be provided to the
+11 department in a delivery manner and at an address designated by the
+12 department, which manner may include email. The department shall post the
+13 acceptable manner of delivery on its website. Any application that fails
+14 to conform with such manner is void. Notwithstanding the lack of an order
+15 by a court designating the applicant as a person or entity who may
+16 receive information protected by applicable privacy laws, the applicant
+17 shall have the authority of a personal representative for the limited
+18 purpose of seeking and obtaining from the department this certification.
+19 If, in response to a certification request, the department certifies that
+20 reimbursement for medical assistance is due, the department may release
+21 some or all of the property of a decedent from the provisions of this
+22 subsection.
+23 (d) An action for recovery of the debt created under subsection (1)
+24 of this section may be brought by the department against the estate of a
+25 recipient of medical assistance as defined in subdivision (4)(b) of this
+26 section at any time before five years after the last of the following
+27 events:
+28 (i) The death of the recipient of medical assistance;
+29 (ii) The death of the recipient's spouse, if applicable;
+30 (iii) The attainment of the age of twenty-one years by the youngest
+31 of the recipient's minor children, if applicable; or
+-15-
+
+LB867 LB867
+2026 2026
+1 (iv) A determination that any adult child of the recipient is no
+2 longer blind or totally and permanently disabled as defined by the
+3 Supplemental Security Income criteria, if applicable.
+4 (5) In any probate proceedings in which the department has filed a
+5 claim under this section, no additional evidence of foundation shall be
+6 required for the admission of the department's payment record supporting
+7 its claim if the payment record bears the seal of the department, is
+8 certified as a true copy, and bears the signature of an authorized
+9 representative of the department.
+10 (6) The department may waive or compromise its claim, in whole or in
+11 part, if the department determines that enforcement of the claim would
+12 not be in the best interests of the state or would result in undue
+13 hardship as provided in rules and regulations of the department.
+14 (7)(a) Whenever the department has provided medical assistance
+15 because of sickness or injury to any person resulting from a third
+16 party's wrongful act or negligence and the person has recovered damages
+17 from such third party, the department shall have the right to recover the
+18 medical assistance it paid from any amounts that the person has received
+19 as follows:
+20 (i) In those cases in which the person is fully compensated by the
+21 recovery, the department shall be fully reimbursed subject to its
+22 contribution to attorney's fees and costs as provided in subdivision (b)
+23 of this subsection; or
+24 (ii) In those cases in which the person is not fully compensated by
+25 the recovery, the department shall be reimbursed that portion of the
+26 recovery that represents the same proportionate reduction of medical
+27 expenses paid that the recovery amount bears to full compensation of the
+28 person subject to its contributions to attorney's fees and costs as
+29 provided in subdivision (b) of this subsection.
+30 (b) When an action or claim is brought by the person and the person
+31 incurs or will incur a personal liability to pay attorney's fees and
+-16-
+
+LB867 LB867
+2026 2026
+1 costs of litigation or costs incurred in pursuit of a claim, the
+2 department's claim for reimbursement of the medical assistance provided
+3 to the person shall be reduced by an amount that represents the
+4 department's reasonable pro rata share of attorney's fees and costs of
+5 litigation or the costs incurred in pursuit of a claim.
+6 (8) The department may adopt and promulgate rules and regulations to
+7 carry out this section.
+8 (9) The changes made to this section by Laws 2019, LB593, shall
+9 apply retroactively to August 30, 2015.
+10 Sec. 12. Section 68-1006, Reissue Revised Statutes of Nebraska, is
+11 amended to read:
+12 68-1006 The amount of assistance to the aged, blind, or disabled
+13 shall be based on the need of the individual and the circumstances
+14 existing in each case. When permitted by the federal old age and
+15 survivors insurance act, any accumulations of increased benefits under
+16 such act may be disregarded when determining need. Payments shall be made
+17 by state warrant directly to each recipient.
+18 Sec. 13. Section 68-1007, Reissue Revised Statutes of Nebraska, is
+19 amended to read:
+20 68-1007 In determining need for assistance to the aged, blind, or
+21 disabled, the Department of Health and Human Services shall take into
+22 consideration all other income and resources of the individual claiming
+23 such assistance, as well as any expenses reasonably attributable to the
+24 earning of any such income, except as otherwise provided in this section.
+25 In making such determination with respect to any individual who is blind,
+26 there shall be disregarded the first eighty-five dollars per month of
+27 earned income plus one-half of earned income in excess of eighty-five
+28 dollars per month and, for a period not in excess of twelve months, such
+29 additional amounts of other income and resources, in the case of an
+30 individual who has an approved plan for achieving self-support, as may be
+31 necessary for the fulfillment of such plan. In making such determination
+-17-
+
+LB867 LB867
+2026 2026
+1 with respect to an individual who has attained age sixty-five, or who is
+2 permanently and totally disabled, and is claiming aid to the aged, blind,
+3 or disabled, the department shall disregard earned income at least to the
+4 extent such income was disregarded on January 1, 1972, as provided in 42
+5 U.S.C. 1396a(f).
+6 Sec. 14. Section 68-1509, Reissue Revised Statutes of Nebraska, is
+7 amended to read:
+8 68-1509 The department, in considering the needs and eligibility
+9 criteria of families and disabled persons, shall consider various
+10 factors, including, but not limited to:
+11 (1) Total family income , except that the amount which the spouse
+12 may designate as provided in section 68-922 shall be excluded in
+13 determining total family income per month;
+14 (2) The cost of providing supplemental services to the family or the
+15 disabled person;
+16 (3) The need for each program or service received by the family or
+17 the disabled person;
+18 (4) The eligibility of the family or the disabled person for other
+19 support programs;
+20 (5) The costs of providing for the family or the disabled person in
+21 an independent living situation, notwithstanding the special
+22 circumstances of providing for a disabled person;
+23 (6) The number of persons in the family; and
+24 (7) The availability of insurance to cover the cost of needed
+25 programs and services.
+26 If assets have been designated for an individual in accordance with
+27 section 68-922, such assets shall not be considered in determining the
+28 eligibility for support of the individual's disabled spouse.
+29 Sec. 15. Section 71-2226, Reissue Revised Statutes of Nebraska, is
+30 amended to read:
+31 71-2226 The Department of Health and Human Services is authorized to
+-18-
+
+LB867 LB867
+2026 2026
+1 have a state CSF program to protect the health and welfare of the
+2 citizens of Nebraska by providing nutritious foods donated for such
+3 program by the United States Department of Agriculture, nutrition
+4 education, and such other benefits as are available to women, infants,
+5 children, and elderly persons in Nebraska who are low income and
+6 vulnerable to malnutrition as long as federal funds are available from
+7 the CSF program and are granted to the department.
+8 To the extent consistent with state law, the Department of Health
+9 and Human Services may establish, operate, and maintain the program in a
+10 way that will qualify it to receive federal funds and that is uniform
+11 with United States Department of Agriculture's standards, enter into
+12 agreements with the federal government to establish a CSF program, adopt
+13 and promulgate rules and regulations to implement a CSF program which are
+14 consistent with federal regulations and such other rules and regulations
+15 as may be necessary to implement the CSF program, and enter into such
+16 other agreements as may be necessary to implement the program within this
+17 state.
+18 Sec. 16. Section 71-7450, Reissue Revised Statutes of Nebraska, is
+19 amended to read:
+20 71-7450 (1) Licensure activities under the Wholesale Drug
+21 Distributor Licensing Act shall be funded by license fees. An applicant
+22 for an initial or renewal license under the act shall pay a license fee
+23 as provided in this section.
+24 (2) License fees shall include (a) a base fee of fifty dollars and
+25 (b) an additional fee of not more than five hundred dollars based on
+26 variable costs to the department of inspections and of receiving and
+27 investigating complaints, other similar direct and indirect costs, and
+28 other relevant factors as determined by the department.
+29 (3) If the licensure application is denied, the license fee shall be
+30 returned to the applicant, except that the department may retain up to
+31 twenty-five dollars as an administrative fee and may retain the entire
+-19-
+
+LB867 LB867
+2026 2026
+1 license fee if an inspection has been completed prior to such denial.
+2 (4) The department shall also collect a fee for reinstatement of a
+3 license that has lapsed or has been suspended or revoked. The department
+4 shall collect a fee of ten dollars for a duplicate original license.
+5 (5) The department shall remit all license fees collected under this
+6 section to the State Treasurer for credit to the Health and Human
+7 Services Cash Fund. License fees collected under this section shall only
+8 be used for activities related to the licensure of wholesale drug
+9 distributors or for the payment of expenses related to the prescription
+10 drug monitoring system created under section 71-2454 , except for the
+11 transfer of funds provided for under subsection (6) of this section.
+12 (6) The State Treasurer shall transfer three million seven hundred
+13 thousand dollars from the Health and Human Services Cash Fund to the
+14 General Fund on or before June 30, 2018, on such dates and in such
+15 amounts as directed by the budget administrator of the budget division of
+16 the Department of Administrative Services. It is the intent of the
+17 Legislature that the transfer to the General Fund in this subsection be
+18 from funds credited to the Wholesale Drug Distributor Licensing subfund
+19 of the Health and Human Services Cash Fund.
+20 Sec. 17. Section 81-3116, Reissue Revised Statutes of Nebraska, is
+21 amended to read:
+22 81-3116 The responsibilities of the divisions created in section
+23 81-3113 include, but are not limited to, the following:
+24 (1) The Division of Behavioral Health shall administer (a) the state
+25 hospitals for the mentally ill designated in section 83-305 and (b)
+26 publicly funded community-based behavioral health services;
+27 (2) The Division of Children and Family Services shall administer
+28 (a) protection and safety programs and services, including child welfare
+29 programs and services and the Office of Juvenile Services, (b) economic
+30 and family support programs and services, and (c) service areas as may be
+31 designated by the chief executive officer or by the Director of Children
+-20-
+
+LB867 LB867
+2026 2026
+1 and Family Services under authority of the chief executive officer ,
+2 except that on and after September 1, 2012, the western, central, and
+3 northern service areas shall be aligned to be coterminous with the
+4 district court judicial districts described in section 24-301.02;
+5 (3) The Division of Developmental Disabilities shall administer (a)
+6 the Beatrice State Developmental Center and (b) publicly funded
+7 community-based developmental disabilities services;
+8 (4) The Division of Medicaid and Long-Term Care shall administer (a)
+9 the medical assistance program also known as medicaid, (b) aging
+10 services, and (c) other related programs and services; and
+11 (5) The Division of Public Health shall administer (a) preventive
+12 and community health programs and services, (b) the regulation and
+13 licensure of health-related professions and occupations, and (c) the
+14 regulation and licensure of health care facilities and health care
+15 services.
+16 Sec. 18. Original sections 28-705, 28-706, 43-2624, 68-150, 68-716,
+17 68-916, 68-1006, 68-1007, 68-1509, 71-2226, 71-7450, and 81-3116, Reissue
+18 Revised Statutes of Nebraska, sections 30-38,113 and 43-4504, Revised
+19 Statutes Cumulative Supplement, 2024, and sections 38-131, 43-3342.04,
+20 and 68-919, Revised Statutes Supplement, 2025, are repealed.
+21 Sec. 19. The following sections are outright repealed: Sections
+22 68-921, 68-922, 68-923, 68-924, 68-925, 68-1008, 71-1795, 71-1795.02,
+23 71-2201, 71-2202, 71-2203, 71-2204, 71-2205, 71-2207, and 71-2208,
+24 Reissue Revised Statutes of Nebraska.
+-21-

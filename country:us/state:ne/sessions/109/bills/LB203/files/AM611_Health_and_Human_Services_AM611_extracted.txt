@@ -1,0 +1,23 @@
+Title: 
+Official Title: 
+Source: versions - Health and Human Services AM611
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+AM611 AM611
+LB203 LB203
+DLM - 03/11/2025 DLM - 03/11/2025
+AMENDMENTS TO LB203
+Introduced by Health and Human Services.
+1 1. Insert the following new section:
+2 Sec. 4. A community-wide directed health measure (1) shall be
+3 subject to approval as provided in sections 71-1630 and 71-1632, (2)
+4 shall expire seven days after the date of issuance, and (3) may be
+5 reauthorized subject to approval as provided in sections 71-1630 and
+6 71-1632.
+7 2. On page 2, line 3, after "71-1636" insert "and section 4 of this
+8 act".
+9 3. Renumber the remaining section accordingly.
+-1-

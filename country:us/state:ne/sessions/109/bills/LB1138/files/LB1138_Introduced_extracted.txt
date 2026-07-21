@@ -1,0 +1,254 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LB1138 LB1138
+2026 2026
+LEGISLATURE OF NEBRASKA
+ONE HUNDRED NINTH LEGISLATURE
+SECOND SESSION
+LEGISLATIVE BILL 1138
+Introduced by Hallstrom, 1.
+Read first time January 20, 2026
+Committee: Banking, Commerce and Insurance
+1 A BILL FOR AN ACT relating to insurance; to adopt the Nebraska Protection
+2 of Seniors from Insurance Exploitation Act.
+3 Be it enacted by the people of the State of Nebraska,
+-1-
+
+LB1138 LB1138
+2026 2026
+1 Section 1. Sections 1 to 10 of this act shall be known and may be
+2 cited as the Nebraska Protection of Seniors from Insurance Exploitation
+3 Act.
+4 Sec. 2. (1) It is the intent of the Legislature to provide legal
+5 protection to insurers and insurance producers so that they have the
+6 discretion to take action to assist in detecting and preventing financial
+7 exploitation.
+8 (2) The Legislature recognizes that insurers and insurance producers
+9 are in a unique position to potentially discover financial exploitation
+10 when conducting transactions on behalf of and at the request of their
+11 customers.
+12 (3) The Legislature recognizes that insurers and insurance producers
+13 have duties imposed by contract and duties imposed by both federal and
+14 state law to conduct transactions requested by their customers faithfully
+15 and timely in accordance with the customer's instructions.
+16 (4) The Legislature recognizes that insurers and insurance producers
+17 do not have a duty to contravene the valid instructions of their
+18 customers and nothing in the Nebraska Protection of Seniors from
+19 Insurance Exploitation Act creates such a duty.
+20 Sec. 3. For purposes of the Nebraska Protection of Seniors from
+21 Insurance Exploitation Act, unless the context otherwise requires:
+22 (1) Director means the Director of Insurance;
+23 (2) Disbursement means any attempt to withdraw money or access a
+24 benefit from a life insurance policy or an annuity irrespective of
+25 whether the request is classified as a surrender, loan, withdrawal,
+26 partial withdrawal, accelerated benefit, or otherwise;
+27 (3) Eligible adult means:
+28 (a) A senior adult as defined in section 28-366.01; or
+29 (b) A vulnerable adult as defined in section 28-371.
+30 (4) Financial exploitation means:
+31 (a) The wrongful or unauthorized taking, withholding, appropriation,
+-2-
+
+LB1138 LB1138
+2026 2026
+1 or use of money, assets, or other property of an eligible adult by any
+2 person; or
+3 (b) Any act or omission taken by a person, including through the use
+4 of a power of attorney, guardianship, or conservatorship of an eligible
+5 adult, to:
+6 (i) Obtain control, through deception, intimidation, or undue
+7 influence, over the eligible adult's money, assets, or other property to
+8 deprive the eligible adult of the ownership, use, benefit, or possession
+9 of his or her money, assets, or other property; or
+10 (ii) Convert money, assets, or other property of the eligible adult
+11 to deprive such eligible adult of the ownership, use, benefit, or
+12 possession of his or her money, assets, or other property;
+13 (5) Permissible third party means any individual previously
+14 designated by the eligible adult who may be contacted about the eligible
+15 adult's insurance policy, contract, or account, or a person otherwise
+16 permitted to be contacted by any state or federal law, rule, or
+17 regulation; and
+18 (6) Trained individual means any of the following:
+19 (a) An insurance producer who has taken at least two hours of
+20 continuing education focused on how to identify the suspected or
+21 attempted financial exploitation of an eligible adult, which included
+22 identifying common signs indicating the financial exploitation of an
+23 eligible adult and how to provide notification regarding the suspected or
+24 attempted financial exploitation of an eligible adult; or
+25 (b) A person who has received training pursuant to section 8 of this
+26 act.
+27 Sec. 4. An insurer or trained individual who, acting reasonably and
+28 in good faith, makes a disclosure of information to the director pursuant
+29 to the Nebraska Protection of Seniors from Insurance Exploitation Act or
+30 the Insurance Fraud Act shall be immune from administrative or civil
+31 liability that might otherwise arise from such disclosure or for any
+-3-
+
+LB1138 LB1138
+2026 2026
+1 failure to notify the eligible adult of the disclosure. This section
+2 shall not abrogate or modify any existing statutory or common law
+3 privileges or immunities.
+4 Sec. 5. (1) If an insurer or trained individual reasonably believes
+5 financial exploitation of an eligible adult may have occurred, has been
+6 attempted, or is being attempted, the insurer or trained individual may
+7 notify a permissible third party. Notification to a permissible third
+8 party is not required prior to any insurer's, trained individual's,
+9 director's, or relevant agency's review or investigation of financial
+10 exploitation.
+11 (2) Insurers and trained individuals shall not notify a permissible
+12 third party if the insurer or trained individual reasonably suspects that
+13 such permissible third party has financially exploited or otherwise
+14 abused the eligible adult.
+15 (3) An insurer or trained individual who, acting reasonably and in
+16 good faith, complies with this section shall be immune from any
+17 administrative or civil liability that might otherwise arise from such
+18 notification.
+19 Sec. 6. (1) If an insurer or trained individual reasonably believes
+20 a disbursement or transaction will likely result in or contribute to the
+21 financial exploitation of an eligible adult, the insurer or trained
+22 individual may initiate an internal review of the requested disbursement
+23 or transaction.
+24 (2) An insurer may delay a disbursement or transaction from an
+25 eligible adult's insurance policy, contract, or account on which an
+26 eligible adult is a beneficiary if all of the following apply:
+27 (a) The insurer reasonably believes, after an internal review is
+28 initiated pursuant to subsection (1) of this section, that the requested
+29 disbursement or transaction will likely result in or contribute to the
+30 financial exploitation of an eligible adult;
+31 (b) Immediately, but in no event more than seven business days after
+-4-
+
+LB1138 LB1138
+2026 2026
+1 the disbursement or transaction is delayed, the insurer provides written
+2 notification of the delay and the reason for the delay to all persons
+3 authorized to transact business on the insurance policy, contract, or
+4 account. An insurer shall not notify a person authorized to transact
+5 business on the insurance policy, contract, or account if the insurer
+6 reasonably believes such person has committed or attempted financial
+7 exploitation or other abuse of an eligible adult or committed or
+8 attempted insurance fraud;
+9 (c) Within seven business days after the disbursement or transaction
+10 is delayed, the insurer notifies the director of the delay and provides
+11 to the director the reason for the delay, including the status of the
+12 internal review initiated pursuant to subsection (1) of this section; and
+13 (d) The insurer continues the internal review of the suspected or
+14 attempted financial exploitation of the eligible adult, as necessary, and
+15 provides the director with updates of such review upon request.
+16 (3) Any delay of a disbursement or transaction authorized by this
+17 section shall expire upon the first to occur of any of the following:
+18 (a) A final determination by the insurer that the disbursement or
+19 transaction will not result in or contribute to financial exploitation of
+20 the eligible adult;
+21 (b) Fifteen business days after the date on which the insurer first
+22 delayed the disbursement or transaction, unless extended pursuant to
+23 subdivision (3)(c) or (3)(d) of this section;
+24 (c) If the internal review initiated pursuant to subsection (1) of
+25 this section continues to support the insurer's reasonable belief that
+26 the disbursement or transaction will likely result in or contribute to
+27 the financial exploitation of an eligible adult, twenty-five business
+28 days after the date on which the insurer first delayed the disbursement
+29 or the transaction, unless extended pursuant to subdivision (3)(d) of
+30 this section; or
+31 (d) If the internal review initiated pursuant to subsection (1) of
+-5-
+
+LB1138 LB1138
+2026 2026
+1 this section continues to support the insurer's reasonable belief that
+2 the disbursement or transaction will likely result in or contribute to
+3 the financial exploitation of an eligible adult, fifty-five business days
+4 after the date on which the insurer first delayed the disbursement or
+5 transaction.
+6 (4) Notwithstanding subsection (3) of this section, upon the
+7 petition of the director, an insurer who initiated a delay of
+8 disbursement or transaction pursuant to this section, or another
+9 interested party, a court of competent jurisdiction may enter an order
+10 terminating, extending, or modifying the delay of the disbursement or
+11 transaction and may order other protective relief.
+12 Sec. 7. (1) An insurer or trained individual who, acting reasonably
+13 and in good faith, complies with section 6 of this act or the Insurance
+14 Fraud Act shall be immune from any administrative or civil liability that
+15 might otherwise arise from such delay in a disbursement or transaction or
+16 any other actions or omissions related to the administration of Nebraska
+17 Protection of Seniors from Insurance Exploitation Act. An insurer or
+18 trained individual shall not be liable for the actions of a permissible
+19 third party.
+20 (2) An insurer or trained individual shall be immune from any civil,
+21 criminal, or administrative liability for declining to interact with a
+22 permissible third party if the insurer or trained individual reasonably
+23 believes that:
+24 (a) The permissible third party is, may be, or may have been engaged
+25 in the financial exploitation of the vulnerable adult or senior adult; or
+26 (b) Such interaction is not in the best interests of the vulnerable
+27 adult or senior adult.
+28 (3) A permissible third party who acts in good faith and exercises
+29 reasonable care in providing information to the insurer or trained
+30 individual, or in assisting the insurer, trained individual, or law
+31 enforcement in an investigation of suspected financial exploitation,
+-6-
+
+LB1138 LB1138
+2026 2026
+1 shall be immune from any administrative, civil, or criminal liability
+2 that might otherwise arise from such actions.
+3 Sec. 8. (1) Except for insurance producers described in subdivision
+4 (6)(a) of section 3 of this act, an insurer shall provide training to all
+5 supervisors and employees of such insurer appropriate to the job
+6 responsibilities of supervisors and employees handling or advising on
+7 complaints, possible fraud, and investigations. Such training shall be
+8 completed by the later of April 15, 2027, or one year after the date any
+9 supervisor or employee begins employment with or becomes affiliated or
+10 associated with the insurer. The training shall include all of the
+11 following:
+12 (a) Instruction on how to identify the suspected or attempted
+13 exploitation of an eligible adult, including identifying common signs
+14 indicating the financial exploitation of an eligible adult, and how to
+15 provide notification regarding the suspected or attempted exploitation of
+16 an eligible adult; and
+17 (b) Instruction regarding privacy and confidentiality requirements.
+18 (2) An insurer shall provide the training required by this section
+19 as soon as reasonably practicable.
+20 Sec. 9. (1) An insurer shall provide access to or copies of records
+21 that are relevant to the suspected or attempted financial exploitation of
+22 an eligible adult to the director and to law enforcement, either as part
+23 of a referral to the director or law enforcement, or upon the request of
+24 the director or law enforcement pursuant to an investigation. The records
+25 may include historical records as well as records relating to the most
+26 recent transactions and disbursement requests from the insurance policy,
+27 contract, or account that may comprise financial exploitation of an
+28 eligible adult.
+29 (2) All records made available to the director or law enforcement or
+30 any other person pursuant to this section, including the National
+31 Association of Insurance Commissioners and its affiliates and
+-7-
+
+LB1138 LB1138
+2026 2026
+1 subsidiaries, in the course of an investigation conducted under the
+2 Nebraska Protection of Seniors from Insurance Exploitation Act, shall be
+3 confidential, shall not be subject to subpoena, shall not be made public
+4 by the director or any other person, and shall not be public records
+5 subject to disclosure pursuant to sections 84-712 to 84-712.09. Such
+6 workpapers, recorded information, documents, and copies may be provided
+7 to other state, federal, foreign, and international regulatory and law
+8 enforcement agencies and the National Association of Insurance
+9 Commissioners and its affiliates and subsidiaries if the recipient agrees
+10 in writing to maintain the confidentiality of such workpapers, recorded
+11 information, documents, and copies.
+12 Sec. 10. The director may adopt and promulgate rules and
+13 regulations to carry out the Nebraska Protection of Seniors from
+14 Insurance Exploitation Act, including, but not limited to, rules and
+15 regulations related to:
+16 (1) The form and manner of the notifications under section 6 of this
+17 act; and
+18 (2) The specific content and methods of the training required under
+19 section 8 of this act.
+-8-

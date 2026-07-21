@@ -1,0 +1,432 @@
+Title: 
+Official Title: 
+Source: versions - Final Reading
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LB924 LB924
+2026 2026
+LEGISLATURE OF NEBRASKA
+ONE HUNDRED NINTH LEGISLATURE
+SECOND SESSION
+LEGISLATIVE BILL 924
+FINAL READING
+Introduced by Andersen, 49.
+Read first time January 09, 2026
+Committee: Education
+1 A BILL FOR AN ACT relating to learning communities; to amend sections
+2 79-2104 and 79-2111, Reissue Revised Statutes of Nebraska, and
+3 section 77-3442, Revised Statutes Supplement, 2025; to change the
+4 authorized uses of learning community levies as prescribed; to
+5 provide powers for a learning community coordinating council
+6 regarding high school graduation rates; to harmonize provisions; and
+7 to repeal the original sections.
+8 Be it enacted by the people of the State of Nebraska,
+-1-
+
+LB924 LB924
+2026 2026
+1 Section 1. Section 77-3442, Revised Statutes Supplement, 2025, is
+2 amended to read:
+3 77-3442 (1) Property tax levies for the support of local governments
+4 for fiscal years beginning on or after July 1, 1998, shall be limited to
+5 the amounts set forth in this section except as provided in section
+6 77-3444.
+7 (2)(a) Except as provided in subdivisions (2)(b) and (2)(e) of this
+8 section, school districts and multiple-district school systems may levy a
+9 maximum levy of one dollar and five cents per one hundred dollars of
+10 taxable valuation of property subject to the levy.
+11 (b) For each fiscal year prior to fiscal year 2017-18, learning
+12 communities may levy a maximum levy for the general fund budgets of
+13 member school districts of ninety-five cents per one hundred dollars of
+14 taxable valuation of property subject to the levy. The proceeds from the
+15 levy pursuant to this subdivision shall be distributed pursuant to
+16 section 79-1073.
+17 (c) Except as provided in subdivision (2)(e) of this section, for
+18 each fiscal year prior to fiscal year 2017-18, school districts that are
+19 members of learning communities may levy for purposes of such districts'
+20 general fund budget and special building funds a maximum combined levy of
+21 the difference of one dollar and five cents on each one hundred dollars
+22 of taxable property subject to the levy minus the learning community levy
+23 pursuant to subdivision (2)(b) of this section for such learning
+24 community.
+25 (d) Excluded from the limitations in subdivisions (2)(a) and (2)(c)
+26 of this section are (i) amounts levied to pay for current and future sums
+27 agreed to be paid by a school district to certificated employees in
+28 exchange for a voluntary termination of employment occurring prior to
+29 September 1, 2017, (ii) amounts levied by a school district otherwise at
+30 the maximum levy pursuant to subdivision (2)(a) of this section to pay
+31 for current and future qualified voluntary termination incentives for
+-2-
+
+LB924 LB924
+2026 2026
+1 certificated teachers pursuant to subsection (3) of section 79-8,142 that
+2 are not otherwise included in an exclusion pursuant to subdivision (2)(d)
+3 of this section, (iii) amounts levied by a school district otherwise at
+4 the maximum levy pursuant to subdivision (2)(a) of this section to pay
+5 for seventy-five percent of the current and future sums agreed to be paid
+6 to certificated employees in exchange for a voluntary termination of
+7 employment occurring between September 1, 2017, and August 31, 2018, as a
+8 result of a collective-bargaining agreement in force and effect on
+9 September 1, 2017, that are not otherwise included in an exclusion
+10 pursuant to subdivision (2)(d) of this section, (iv) amounts levied by a
+11 school district otherwise at the maximum levy pursuant to subdivision (2)
+12 (a) of this section to pay for fifty percent of the current and future
+13 sums agreed to be paid to certificated employees in exchange for a
+14 voluntary termination of employment occurring between September 1, 2018,
+15 and August 31, 2019, as a result of a collective-bargaining agreement in
+16 force and effect on September 1, 2017, that are not otherwise included in
+17 an exclusion pursuant to subdivision (2)(d) of this section, (v) amounts
+18 levied by a school district otherwise at the maximum levy pursuant to
+19 subdivision (2)(a) of this section to pay for twenty-five percent of the
+20 current and future sums agreed to be paid to certificated employees in
+21 exchange for a voluntary termination of employment occurring between
+22 September 1, 2019, and August 31, 2020, as a result of a collective-
+23 bargaining agreement in force and effect on September 1, 2017, that are
+24 not otherwise included in an exclusion pursuant to subdivision (2)(d) of
+25 this section, (vi) amounts levied in compliance with sections 79-10,110
+26 and 79-10,110.02, and (vii) amounts levied to pay for special building
+27 funds and sinking funds established for projects commenced prior to April
+28 1, 1996, for construction, expansion, or alteration of school district
+29 buildings. For purposes of this subsection, commenced means any action
+30 taken by the school board on the record which commits the board to expend
+31 district funds in planning, constructing, or carrying out the project.
+-3-
+
+LB924 LB924
+2026 2026
+1 (e) Federal aid school districts may exceed the maximum levy
+2 prescribed by subdivision (2)(a) or (2)(c) of this section only to the
+3 extent necessary to qualify to receive federal aid pursuant to Title VIII
+4 of Public Law 103-382, as such title existed on September 1, 2001. For
+5 purposes of this subdivision, federal aid school district means any
+6 school district which receives ten percent or more of the revenue for its
+7 general fund budget from federal government sources pursuant to Title
+8 VIII of Public Law 103-382, as such title existed on September 1, 2001.
+9 (f) For each fiscal year, learning communities may levy a maximum
+10 levy of one-half cent on each one hundred dollars of taxable property
+11 subject to the levy for leasing or purchasing elementary learning center
+12 facilities facility leases, for remodeling of leased elementary learning
+13 center facilities, and for up to fifty percent of the estimated cost for
+14 focus school or program capital projects approved by the learning
+15 community coordinating council pursuant to section 79-2111.
+16 (g) For each fiscal year, learning communities may levy a maximum
+17 levy of one and one-half cents on each one hundred dollars of taxable
+18 property subject to the levy for early childhood education programs for
+19 children in poverty, for elementary learning center employees, for
+20 contracts with other entities or individuals who are not employees of the
+21 learning community for elementary learning center programs and services,
+22 and for pilot projects, except that no more than ten percent of such levy
+23 may be used for administrative staff of the learning community elementary
+24 learning center employees.
+25 (3) For each fiscal year through fiscal year 2023-24, community
+26 college areas may levy the levies provided in subdivisions (2)(a) through
+27 (c) of section 85-1517, in accordance with the provisions of such
+28 subdivisions. For fiscal year 2024-25 and each fiscal year thereafter,
+29 community college areas may levy the levies provided in subdivisions (2)
+30 (a) and (b) of section 85-1517, in accordance with the provisions of such
+31 subdivisions. A community college area may exceed the levy provided in
+-4-
+
+LB924 LB924
+2026 2026
+1 subdivision (2)(a) of section 85-1517 by the amount necessary to generate
+2 sufficient revenue as described in section 85-1543 or 85-2238. A
+3 community college area may exceed the levy provided in subdivision (2)(b)
+4 of section 85-1517 by the amount necessary to retire general obligation
+5 bonds assumed by the community college area or issued pursuant to section
+6 85-1515 according to the terms of such bonds or for any obligation
+7 pursuant to section 85-1535 entered into prior to January 1, 1997.
+8 (4)(a) Natural resources districts may levy a maximum levy of four
+9 and one-half cents per one hundred dollars of taxable valuation of
+10 property subject to the levy.
+11 (b) Natural resources districts shall also have the power and
+12 authority to levy a tax equal to the dollar amount by which their
+13 restricted funds budgeted to administer and implement ground water
+14 management activities and integrated management activities under the
+15 Nebraska Ground Water Management and Protection Act exceed their
+16 restricted funds budgeted to administer and implement ground water
+17 management activities and integrated management activities for FY2003-04,
+18 not to exceed one cent on each one hundred dollars of taxable valuation
+19 annually on all of the taxable property within the district.
+20 (c) In addition, natural resources districts located in a river
+21 basin, subbasin, or reach that has been determined to be fully
+22 appropriated pursuant to section 46-714 or designated as overappropriated
+23 pursuant to section 46-713 by the Chief Water Officer of the Department
+24 of Water, Energy, and Environment shall also have the power and authority
+25 to levy a tax equal to the dollar amount by which their restricted funds
+26 budgeted to administer and implement ground water management activities
+27 and integrated management activities under the Nebraska Ground Water
+28 Management and Protection Act exceed their restricted funds budgeted to
+29 administer and implement ground water management activities and
+30 integrated management activities for FY2005-06, not to exceed three cents
+31 on each one hundred dollars of taxable valuation on all of the taxable
+-5-
+
+LB924 LB924
+2026 2026
+1 property within the district for fiscal year 2006-07 and each fiscal year
+2 thereafter through fiscal year 2017-18.
+3 (5) Any educational service unit authorized to levy a property tax
+4 pursuant to section 79-1225 may levy a maximum levy of one and one-half
+5 cents per one hundred dollars of taxable valuation of property subject to
+6 the levy.
+7 (6)(a) Incorporated cities and villages which are not within the
+8 boundaries of a municipal county may levy a maximum levy of forty-five
+9 cents per one hundred dollars of taxable valuation of property subject to
+10 the levy plus an additional five cents per one hundred dollars of taxable
+11 valuation to provide financing for the municipality's share of revenue
+12 required under an agreement or agreements executed pursuant to the
+13 Interlocal Cooperation Act or the Joint Public Agency Act. The maximum
+14 levy shall include amounts levied to pay for sums to support a library
+15 pursuant to section 51-201, museum pursuant to section 51-501, visiting
+16 community nurse, home health nurse, or home health agency pursuant to
+17 section 71-1637, or statue, memorial, or monument pursuant to section
+18 80-202.
+19 (b) Incorporated cities and villages which are within the boundaries
+20 of a municipal county may levy a maximum levy of ninety cents per one
+21 hundred dollars of taxable valuation of property subject to the levy. The
+22 maximum levy shall include amounts paid to a municipal county for county
+23 services, amounts levied to pay for sums to support a library pursuant to
+24 section 51-201, a museum pursuant to section 51-501, a visiting community
+25 nurse, home health nurse, or home health agency pursuant to section
+26 71-1637, or a statue, memorial, or monument pursuant to section 80-202.
+27 (7) Sanitary and improvement districts which have been in existence
+28 for more than five years may levy a maximum levy of forty cents per one
+29 hundred dollars of taxable valuation of property subject to the levy, and
+30 sanitary and improvement districts which have been in existence for five
+31 years or less shall not have a maximum levy. Unconsolidated sanitary and
+-6-
+
+LB924 LB924
+2026 2026
+1 improvement districts which have been in existence for more than five
+2 years and are located in a municipal county may levy a maximum of eighty-
+3 five cents per hundred dollars of taxable valuation of property subject
+4 to the levy.
+5 (8) Counties may levy or authorize a maximum levy of fifty cents per
+6 one hundred dollars of taxable valuation of property subject to the levy,
+7 except that five cents per one hundred dollars of taxable valuation of
+8 property subject to the levy may only be levied to provide financing for
+9 the county's share of revenue required under an agreement or agreements
+10 executed pursuant to the Interlocal Cooperation Act or the Joint Public
+11 Agency Act. The maximum levy shall include amounts levied to pay for sums
+12 to support a library pursuant to section 51-201 or museum pursuant to
+13 section 51-501. The county may allocate up to fifteen cents of its
+14 authority to other political subdivisions subject to allocation of
+15 property tax authority under subsection (1) of section 77-3443 and not
+16 specifically covered in this section to levy taxes as authorized by law
+17 which do not collectively exceed fifteen cents per one hundred dollars of
+18 taxable valuation on any parcel or item of taxable property. The county
+19 may allocate to one or more other political subdivisions subject to
+20 allocation of property tax authority by the county under subsection (1)
+21 of section 77-3443 some or all of the county's five cents per one hundred
+22 dollars of valuation authorized for support of an agreement or agreements
+23 to be levied by the political subdivision for the purpose of supporting
+24 that political subdivision's share of revenue required under an agreement
+25 or agreements executed pursuant to the Interlocal Cooperation Act or the
+26 Joint Public Agency Act. If an allocation by a county would cause another
+27 county to exceed its levy authority under this section, the second county
+28 may exceed the levy authority in order to levy the amount allocated.
+29 (9) Municipal counties may levy or authorize a maximum levy of one
+30 dollar per one hundred dollars of taxable valuation of property subject
+31 to the levy. The municipal county may allocate levy authority to any
+-7-
+
+LB924 LB924
+2026 2026
+1 political subdivision or entity subject to allocation under section
+2 77-3443.
+3 (10) Beginning July 1, 2016, rural and suburban fire protection
+4 districts may levy a maximum levy of ten and one-half cents per one
+5 hundred dollars of taxable valuation of property subject to the levy if
+6 (a) such district is located in a county that had a levy pursuant to
+7 subsection (8) of this section in the previous year of at least forty
+8 cents per one hundred dollars of taxable valuation of property subject to
+9 the levy or (b) such district had a levy request pursuant to section
+10 77-3443 in any of the three previous years and the county board of the
+11 county in which the greatest portion of the valuation of such district is
+12 located did not authorize any levy authority to such district in such
+13 year.
+14 (11) A regional metropolitan transit authority may levy a maximum
+15 levy of ten cents per one hundred dollars of taxable valuation of
+16 property subject to the levy for each fiscal year that commences on the
+17 January 1 that follows the effective date of the conversion of the
+18 transit authority established under the Transit Authority Law into the
+19 regional metropolitan transit authority.
+20 (12) Property tax levies (a) for judgments, except judgments or
+21 orders from the Commission of Industrial Relations, obtained against a
+22 political subdivision which require or obligate a political subdivision
+23 to pay such judgment, to the extent such judgment is not paid by
+24 liability insurance coverage of a political subdivision, (b) for
+25 preexisting lease-purchase contracts approved prior to July 1, 1998, (c)
+26 for bonds as defined in section 10-134 approved according to law and
+27 secured by a levy on property except as provided in section 44-4317 for
+28 bonded indebtedness issued by educational service units and school
+29 districts, (d) for payments by a public airport to retire interest-free
+30 loans from the Division of Aeronautics of the Department of
+31 Transportation in lieu of bonded indebtedness at a lower cost to the
+-8-
+
+LB924 LB924
+2026 2026
+1 public airport, and (e) to pay for cancer benefits provided on or after
+2 January 1, 2022, pursuant to the Firefighter Cancer Benefits Act are not
+3 included in the levy limits established by this section.
+4 (13) The limitations on tax levies provided in this section are to
+5 include all other general or special levies provided by law.
+6 Notwithstanding other provisions of law, the only exceptions to the
+7 limits in this section are those provided by or authorized by sections
+8 77-3442 to 77-3444.
+9 (14) Tax levies in excess of the limitations in this section shall
+10 be considered unauthorized levies under section 77-1606 unless approved
+11 under section 77-3444.
+12 (15) For purposes of sections 77-3442 to 77-3444, political
+13 subdivision means a political subdivision of this state and a county
+14 agricultural society.
+15 (16) For school districts that file a binding resolution on or
+16 before May 9, 2008, with the county assessors, county clerks, and county
+17 treasurers for all counties in which the school district has territory
+18 pursuant to subsection (7) of section 79-458, if the combined levies,
+19 except levies for bonded indebtedness approved by the voters of the
+20 school district and levies for the refinancing of such bonded
+21 indebtedness, are in excess of the greater of (a) one dollar and twenty
+22 cents per one hundred dollars of taxable valuation of property subject to
+23 the levy or (b) the maximum levy authorized by a vote pursuant to section
+24 77-3444, all school district levies, except levies for bonded
+25 indebtedness approved by the voters of the school district and levies for
+26 the refinancing of such bonded indebtedness, shall be considered
+27 unauthorized levies under section 77-1606.
+28 Sec. 2. Section 79-2104, Reissue Revised Statutes of Nebraska, is
+29 amended to read:
+30 79-2104 A learning community coordinating council shall have the
+31 authority to:
+-9-
+
+LB924 LB924
+2026 2026
+1 (1) For fiscal years prior to fiscal year 2017-18, levy a common
+2 levy for the general funds of member school districts pursuant to
+3 sections 77-3442 and 79-1073;
+4 (2) Levy for leasing or purchasing elementary learning center
+5 facilities facility leases, for remodeling of leased elementary learning
+6 center facilities, and for up to fifty percent of the estimated cost for
+7 focus school or program capital projects approved by the learning
+8 community coordinating council pursuant to subdivision (2)(f) of section
+9 77-3442 and section 79-2111;
+10 (3) Levy for early childhood education programs for children in
+11 poverty, for elementary learning center employees, for contracts with
+12 other entities or individuals who are not employees of the learning
+13 community for elementary learning center programs and services, and for
+14 pilot projects pursuant to subdivision (2)(g) of section 77-3442, except
+15 that not more than ten percent of such levy may be used for
+16 administrative staff of the learning community elementary learning center
+17 employees;
+18 (4) Develop, submit, administer, and evaluate community achievement
+19 plans in collaboration with the advisory committee, educational service
+20 units serving member school districts, member school districts, and the
+21 student achievement coordinator or other department staff designated by
+22 the Commissioner of Education;
+23 (5) Collect, analyze, and report data and information, including,
+24 but not limited to, information provided by a school district pursuant to
+25 subsection (5) of section 79-201;
+26 (6) Approve focus schools and focus programs to be operated by
+27 member school districts;
+28 (7) Adopt, approve, and implement a diversity plan pursuant to
+29 sections 79-2110 and 79-2118;
+30 (8) Through school year 2016-17, administer the open enrollment
+31 provisions in section 79-2110 for the learning community as part of a
+-10-
+
+LB924 LB924
+2026 2026
+1 diversity plan developed by the council to provide educational
+2 opportunities which will result in increased diversity in schools across
+3 the learning community;
+4 (9) Annually conduct school fairs to provide students and parents
+5 the opportunity to explore the educational opportunities available at
+6 each school in the learning community and develop other methods for
+7 encouraging access to such information and promotional materials;
+8 (10) Develop procedures for determining best practices for
+9 addressing student achievement barriers and for disseminating such
+10 practices within the learning community and to other school districts;
+11 (11) Partner with public and private entities to support increasing
+12 high school graduation rates;
+13 (12) (11) Establish and administer elementary learning centers
+14 through achievement subcouncils pursuant to sections 79-2112 to 79-2114;
+15 (13) (12) Administer the learning community funds distributed to the
+16 learning community pursuant to section 79-2111;
+17 (14) (13) Establish a procedure for receiving community input and
+18 complaints regarding the learning community;
+19 (15) (14) Establish a procedure to assist parents, citizens, and
+20 member school districts in accessing an approved center pursuant to the
+21 Dispute Resolution Act to resolve disputes involving member school
+22 districts or the learning community. Such procedure may include payment
+23 by the learning community for some mediation services;
+24 (16) (15) Establish and administer pilot projects related to
+25 enhancing the academic achievement of elementary students, particularly
+26 students who face challenges in the educational environment due to
+27 factors such as poverty, limited English skills, and mobility;
+28 (17) (16) Provide funding to public or private entities engaged in
+29 the juvenile justice system providing prefiling and diversion programming
+30 designed to reduce excessive absenteeism and unnecessary involvement with
+31 the juvenile justice system; and
+-11-
+
+LB924 LB924
+2026 2026
+1 (18) (17) Hold public hearings at its discretion in response to
+2 issues raised by residents regarding the learning community, a member
+3 school district, and academic achievement.
+4 Sec. 3. Section 79-2111, Reissue Revised Statutes of Nebraska, is
+5 amended to read:
+6 79-2111 (1) A learning community may levy a maximum levy pursuant to
+7 subdivision (2)(f) of section 77-3442 for leasing or purchasing
+8 elementary learning center facilities facility leases, for remodeling of
+9 leased elementary learning center facilities, and for up to fifty percent
+10 of the estimated costs for focus school or program capital projects
+11 approved pursuant to this section. The proceeds from such levy shall be
+12 used for leasing or purchasing elementary learning center facilities
+13 facility leases, for remodeling of leased elementary learning center
+14 facilities, and to reduce the bonded indebtedness required for approved
+15 projects by up to fifty percent of the estimated cost of the approved
+16 project. The funds used for reductions of bonded indebtedness shall be
+17 transferred to the school district for which the project was approved and
+18 shall be deposited in such school district's special building fund for
+19 use on such project.
+20 (2) The learning community may approve pursuant to this section
+21 funding for capital projects which will include the purchase,
+22 construction, or remodeling of facilities for a focus school or program
+23 designed to meet the requirements of section 79-769. Such approval shall
+24 include an estimated cost for the project and shall state the amount that
+25 will be provided by the learning community for such project.
+26 (3) If, within the ten years following receipt of the funding for a
+27 capital project pursuant to this section, a school district receiving
+28 such funding uses the facility purchased, constructed, or remodeled with
+29 such funding for purposes other than those stated to qualify for the
+30 funds, the school district shall repay such funds to the learning
+31 community with interest at the rate prescribed in section 45-104.02
+-12-
+
+LB924 LB924
+2026 2026
+1 accruing from the date the funds were transferred to the school
+2 district's building fund as of the last date the facility was used for
+3 such purpose as determined by the learning community coordinating council
+4 or the date that the learning community coordinating council determines
+5 that the facility will not be used for such purpose or that such facility
+6 will not be purchased, constructed, or remodeled for such purpose.
+7 Interest shall continue to accrue on outstanding balances until the
+8 repayment has been completed. The remaining terms of repayment shall be
+9 determined by the learning community coordinating council. The learning
+10 community coordinating council may waive such repayment if the facility
+11 is used for a different focus school or program for a period of time that
+12 will result in the use of the facility for qualifying purposes for a
+13 total of at least ten years.
+14 Sec. 4. Original sections 79-2104 and 79-2111, Reissue Revised
+15 Statutes of Nebraska, and section 77-3442, Revised Statutes Supplement,
+16 2025, are repealed.
+-13-

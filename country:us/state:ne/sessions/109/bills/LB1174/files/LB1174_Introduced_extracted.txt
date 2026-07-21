@@ -1,0 +1,161 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LB1174 LB1174
+2026 2026
+LEGISLATURE OF NEBRASKA
+ONE HUNDRED NINTH LEGISLATURE
+SECOND SESSION
+LEGISLATIVE BILL 1174
+Introduced by Kauth, 31.
+Read first time January 21, 2026
+Committee: Banking, Commerce and Insurance
+1 A BILL FOR AN ACT relating to the Nebraska Money Transmitters Act; to
+2 amend sections 8-2701 and 8-2718, Revised Statutes Supplement, 2025;
+3 to change provisions related to reports of condition; to provide for
+4 a remittance transfer tax; to harmonize provisions; to provide an
+5 operative date; to repeal the original sections; and to declare an
+6 emergency.
+7 Be it enacted by the people of the State of Nebraska,
+-1-
+
+LB1174 LB1174
+2026 2026
+1 Section 1. Section 8-2701, Revised Statutes Supplement, 2025, is
+2 amended to read:
+3 8-2701 Sections 8-2701 to 8-2742 and section 3 of this act shall be
+4 known and may be cited as the Nebraska Money Transmitters Act.
+5 Sec. 2. Section 8-2718, Revised Statutes Supplement, 2025, is
+6 amended to read:
+7 8-2718 (1) Each licensee shall submit a report of condition within
+8 forty-five days after the end of a calendar quarter, or within any
+9 extended time as the director may prescribe.
+10 (2) The report of condition shall include:
+11 (a) Financial information at the licensee level;
+12 (b) Nationwide and state-specific money transmission transaction
+13 information in every jurisdiction in the United States where the licensee
+14 is licensed to engage in money transmission;
+15 (c) A permissible investments report of the licensee;
+16 (d) Transaction destination country reporting for money received for
+17 transmission, if applicable including: ; and
+18 (i) The amount of transactions to all foreign countries that are not
+19 foreign adversary countries as defined in section 3 of this act and the
+20 estimated amount of the remittance transfer tax imposed under section 3
+21 of this act collected for such transactions; and
+22 (ii) The amount of transactions to all foreign adversary countries
+23 as defined in section 3 of this act and the estimated amount of the
+24 remittance transfer tax imposed under section 3 of this act collected on
+25 such transactions; and
+26 (e) Any other information the director reasonably requires with
+27 respect to the licensee.
+28 (3) The director is authorized to utilize the Nationwide Mortgage
+29 Licensing System and Registry for the submission of the report required
+30 by this section and is authorized to update as necessary the requirements
+31 of this section to carry out the purposes of the Nebraska Money
+-2-
+
+LB1174 LB1174
+2026 2026
+1 Transmitters Act and maintain consistency with Nationwide Mortgage
+2 Licensing System and Registry reporting.
+3 (4) The information required by subdivision (2)(d) of this section
+4 shall only be included in a report of condition submitted within forty-
+5 five days after the end of the fourth calendar quarter.
+6 Sec. 3. (1) For purposes of this section:
+7 (a) Active duty member of the armed forces means a person who is a
+8 member of the armed forces of the United States on active duty as defined
+9 in 10 U.S.C. 101(d)(1), as such section existed on January 1, 2026, or a
+10 member of the Nebraska National Guard in active service of the state;
+11 (b) Dependent means a spouse or any other person for whom an active
+12 duty member of the armed forces provided more than one-half of that
+13 person's support during the previous calendar year;
+14 (c) Designated recipient has the same meaning as in section 919 of
+15 the Electronic Fund Transfer Act, 15 U.S.C. 1693o–1, as such section
+16 existed on January 1, 2026;
+17 (d) Foreign adversary country means any country listed in 15 C.F.R.
+18 791.4, as such regulation existed on January 1, 2026;
+19 (e) Remittance transfer has the same meaning as in section 919 of
+20 the Electronic Fund Transfer Act, 15 U.S.C. 1693o–1, as such section
+21 existed on January 1, 2026;
+22 (f) Remittance transfer provider has the same meaning as in section
+23 919 of the Electronic Fund Transfer Act, 15 U.S.C. 1693o-1, as such
+24 section existed on January 1, 2026; and
+25 (g) Sender has the same meaning as in section 919 of the Electronic
+26 Fund Transfer Act, 15 U.S.C. 1693o–1, as such section existed on January
+27 1, 2026.
+28 (2)(a) Except as provided in subdivision (2)(b) of this section,
+29 there is hereby imposed an excise tax of two percent on any remittance
+30 transfer by a licensee or authorized delegate.
+31 (b) There is hereby imposed an excise tax of twenty percent on any
+-3-
+
+LB1174 LB1174
+2026 2026
+1 remittance transfer by a licensee or authorized delegate to a resident of
+2 a foreign adversary country.
+3 (c) The tax imposed in subdivisions (2)(a) and (b) of this section
+4 shall not apply to any remittance transfer if the sender or designated
+5 recipient is an active duty member of the armed forces or a dependent of
+6 such member.
+7 (d) To qualify for the exemption under subdivision (2)(c) of this
+8 section, the sender or designated recipient shall present a valid United
+9 States Department of Defense Common Access Card or other valid military
+10 identification to the remittance transfer provider at the time of the
+11 transaction.
+12 (3)(a) The sender of a remittance transfer shall pay the tax imposed
+13 by this section on such transfer.
+14 (b) If any tax imposed by this section is not paid at the time a
+15 transfer is made, then to the extent that such tax is not paid, the
+16 remittance transfer provider of such transfer shall pay the tax.
+17 (c) The remittance transfer provider of a remittance transfer shall
+18 collect the amount of the tax imposed by this section on such transfer
+19 from the sender and remit such tax to the Department of Revenue
+20 quarterly.
+21 (4) Sections 77-2707 to 77-2711 shall apply to the tax imposed by
+22 this section as if such tax were a sales or use tax imposed by the
+23 Nebraska Revenue Act of 1967.
+24 (5) The Department of Revenue may share any information related to
+25 the tax imposed by this section with the Department of Banking and
+26 Finance.
+27 (6)(a) No refund of the tax imposed by this section shall be allowed
+28 unless a claim for such refund is filed within the required period for a
+29 refund of sales taxes.
+30 (b) The Department of Revenue shall establish an expedited refund
+31 process for any active duty member of the armed forces or dependent who
+-4-
+
+LB1174 LB1174
+2026 2026
+1 was charged the tax in error.
+2 (c) To be eligible for the expedited refund process described in
+3 subdivision (6)(b) of this section, an active duty member of the armed
+4 forces or dependent who was charged in error shall submit proof of
+5 military status to the Department of Revenue.
+6 (7) The Department of Revenue may adopt and promulgate rules and
+7 regulations to prescribe any and all forms and supporting documentation
+8 necessary for the payment, collection, and reporting of the tax imposed
+9 by this section to establish the expedited refund process described in
+10 subdivision (6)(b) of this section.
+11 (8) The Department of Revenue may use electronic funds transfer to
+12 collect the tax imposed by this section or to pay any refund of such tax.
+13 (9) The use of any electronic filing of documents or electronic
+14 funds transfer shall not alter the rights of any party from the rights of
+15 such party if a different method of filing or payment was used.
+16 (10) All taxes received by the Department of Revenue pursuant to
+17 this section shall be remitted to the State Treasurer for credit to the
+18 General Fund.
+19 (11) Upon request from the Department of Revenue, the Department of
+20 Banking and Finance may make a claim against the surety bond of a
+21 licensee for payment of any tax imposed under this section on such
+22 licensee.
+23 Sec. 4. This act becomes operative on July 1, 2026.
+24 Sec. 5. Original sections 8-2701 and 8-2718, Revised Statutes
+25 Supplement, 2025, are repealed.
+26 Sec. 6. Since an emergency exists, this act takes effect when
+27 passed and approved according to law.
+-5-

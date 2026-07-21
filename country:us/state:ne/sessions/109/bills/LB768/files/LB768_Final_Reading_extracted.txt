@@ -1,0 +1,849 @@
+Title: 
+Official Title: 
+Source: versions - Final Reading
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LB768 LB768
+2026 2026
+LEGISLATURE OF NEBRASKA
+ONE HUNDRED NINTH LEGISLATURE
+SECOND SESSION
+LEGISLATIVE BILL 768
+FINAL READING
+Introduced by Dover, 19.
+Read first time January 07, 2026
+Committee: Banking, Commerce and Insurance
+1 A BILL FOR AN ACT relating to grants and other financial assistance; to
+2 amend sections 58-709, 81-1228, 81-1229, 81-1230, 81-1231, 81-1232,
+3 and 81-1241, Reissue Revised Statutes of Nebraska, sections 58-201
+4 and 58-703, Revised Statutes Cumulative Supplement, 2024, and
+5 sections 58-701, 58-708, 72-804, 72-805, 81-1237, 81-1238, 81-1239,
+6 and 81-1240, Revised Statutes Supplement, 2025; to provide powers
+7 for the Nebraska Investment Finance Authority; to change and
+8 eliminate provisions of the Nebraska Affordable Housing Act; to
+9 change provisions relating to new state buildings and buildings
+10 constructed with state funds; to authorize certain contracts under
+11 the Nebraska Affordable Housing Act, the Rural Workforce Housing
+12 Investment Act, and the Middle Income Workforce Housing Investment
+13 Act; to eliminate a housing advisory committee; to harmonize
+14 provisions; to repeal the original sections; and to outright repeal
+15 section 58-704, Reissue Revised Statutes of Nebraska, and section
+16 58-712, Revised Statutes Supplement, 2025.
+17 Be it enacted by the people of the State of Nebraska,
+-1-
+
+LB768 LB768
+2026 2026
+1 Section 1. Section 58-201, Revised Statutes Cumulative Supplement,
+2 2024, is amended to read:
+3 58-201 Sections 58-201 to 58-273 and sections 2 and 3 of this act
+4 shall be known and may be cited as the Nebraska Investment Finance
+5 Authority Act.
+6 Sec. 2. (1) In addition to the powers granted under section 58-239,
+7 the authority may:
+8 (a) Support, establish, operate, manage, invest in, participate in,
+9 and own nonprofit entities, nonprofit subsidiaries, or other nonprofit
+10 consortia, in each case to further carry out the purposes of the Nebraska
+11 Investment Finance Authority Act, including with respect to projects for
+12 which financing or other resources are provided pursuant to the act; and
+13 (b) Transfer assets of the authority to an entity created pursuant
+14 to this section.
+15 (2) Unless otherwise provided by the authority, the debts,
+16 liabilities, and obligations of any such entity, subsidiary, or other
+17 consortium shall not be debts, liabilities, or obligations of the
+18 authority.
+19 Sec. 3. (1) For purposes of this section, public funds has the same
+20 meaning as in section 81-11,106.
+21 (2) If the authority administers any grant or loan program involving
+22 public funds pursuant to an agreement with a state agency, the following
+23 requirements shall apply:
+24 (a) The authority shall provide information regarding such grant or
+25 loan program and the public funds involved in such program to such state
+26 agency, upon such agency's request, in order to allow the state agency to
+27 comply with its responsibilities under section 81-1113;
+28 (b) The authority shall record information regarding such grant or
+29 loan program and the public funds involved in such program in an
+30 accounting system. The information to be recorded in the accounting
+31 system shall include:
+-2-
+
+LB768 LB768
+2026 2026
+1 (i) All revenue and fund balances relating to such public funds;
+2 (ii) All expenditures of such public funds, including the amount of
+3 all grant and loan awards; and
+4 (iii) All schedules of uses of funds, including all invoices and
+5 other supporting documentation, that are submitted by grant or loan
+6 recipients under such grant or loan program, except that the requirement
+7 to include such schedules and documentation shall apply only to the
+8 extent such information is in the possession of the authority; and
+9 (c) The authority shall allow such state agency, the Legislative
+10 Fiscal Analyst, and the budget administrator of the budget division of
+11 the Department of Administrative Services to have access to the
+12 accounting system described in subdivision (2)(b) of this section, upon
+13 request.
+14 Sec. 4. Section 58-701, Revised Statutes Supplement, 2025, is
+15 amended to read:
+16 58-701 Sections 58-701 to 58-711 and section 8 of this act 58-712
+17 shall be known and may be cited as the Nebraska Affordable Housing Act.
+18 Sec. 5. Section 58-703, Revised Statutes Cumulative Supplement,
+19 2024, is amended to read:
+20 58-703 The Affordable Housing Trust Fund is created. The fund shall
+21 receive money pursuant to section 76-903 and may include revenue from
+22 sources recommended by the housing advisory committee established in
+23 section 58-704, appropriations from the Legislature, transfers authorized
+24 by the Legislature, grants, private contributions, repayment of loans,
+25 and funds from all other sources. The Department of Economic Development
+26 as part of its comprehensive housing affordability strategy shall
+27 administer the Affordable Housing Trust Fund.
+28 Transfers may be made from the Affordable Housing Trust Fund to the
+29 General Fund, the Behavioral Health Services Fund, the Lead-Based Paint
+30 Hazard Control Cash Fund, the Middle Income Workforce Housing Investment
+31 Fund, the Rural Workforce Housing Investment Fund, and the Site and
+-3-
+
+LB768 LB768
+2026 2026
+1 Building Development Fund at the direction of the Legislature.
+2 Sec. 6. Section 58-708, Revised Statutes Supplement, 2025, is
+3 amended to read:
+4 58-708 (1) During each calendar year in which funds are available
+5 from the Affordable Housing Trust Fund for use by the Department of
+6 Economic Development, the department shall make its best efforts to
+7 allocate not less than thirty percent of such funds to each congressional
+8 district. The department shall announce a grant and loan application
+9 period of at least sixty ninety days duration for all projects. Before an
+10 a grant application for any new construction project can be submitted to
+11 the department, the land for the project shall be identified. In
+12 selecting projects to receive trust fund assistance, the department shall
+13 develop a qualified allocation plan and give first priority to
+14 financially viable projects that serve the lowest income occupants for
+15 the longest period of time. The qualified allocation plan shall:
+16 (a) Set forth selection criteria to be used to determine housing
+17 priorities of the housing trust fund which are appropriate to local
+18 conditions, including the community's immediate need for affordable
+19 housing, proposed increases in home ownership, private dollars leveraged,
+20 level of local government support and participation, and repayment, in
+21 part or in whole, of financial assistance awarded by the fund; and
+22 (b) Give first priority in allocating trust fund assistance among
+23 selected projects to those projects which are located in whole or in part
+24 within an enterprise zone designated pursuant to the Enterprise Zone Act
+25 or an opportunity zone designated pursuant to the federal Tax Cuts and
+26 Jobs Act, Public Law 115-97, serve the lowest income occupant, are
+27 located in an area that has been declared an extremely blighted area
+28 under section 18-2101.02, and are obligated to serve qualified occupants
+29 for the longest period of time.
+30 (2) Beginning on July 1, 2026:
+31 (2) (a) The Department of Economic Development shall disburse grant
+-4-
+
+LB768 LB768
+2026 2026
+1 funds to a qualified recipient equal to eighty percent of the amount
+2 awarded to a qualified recipient housing development costs of such
+3 recipient, excluding general administration costs, housing management
+4 fees, lead-based paint test costs, and technical assistance costs, once
+5 the department approves such recipient for funding and shall disburse the
+6 remaining twenty percent of such amount, excluding general administration
+7 costs, housing management fees, lead-based paint test costs, and
+8 technical assistance costs, upon the completion of the project. The funds
+9 shall be held in an interest-bearing construction disbursement escrow
+10 account and shall be disbursed for qualified expenses upon sufficient
+11 presentation of partial lien releases and supporting invoices or
+12 receipts, as determined by the escrow company in the exercise of its
+13 duties. The escrow company shall be a licensed title insurance company,
+14 financial institution, or third-party law firm. Interest received from
+15 the funds while in escrow may be used to pay for the escrow company fees.
+16 The use of any additional interest shall be determined by the department.
+17 Any funds remaining in the escrow account after qualified expenses are
+18 paid shall be returned to the department. grant funds; and
+19 (b) The department shall disburse grant funds to a qualified
+20 recipient equal to twenty percent of the housing development costs of
+21 such recipient, excluding general administration costs, housing
+22 management fees, lead-based paint test costs, and technical assistance
+23 costs, upon the completion of the project.
+24 (3)(a) Beginning on October 1, 2025, a qualified recipient shall
+25 submit to the Department of Economic Development a schedule of uses of
+26 funds for eligible activities on a quarterly basis, no later than thirty
+27 days after the end of each calendar quarter, during the time of
+28 performance under the award agreement.
+29 (b) The schedule of uses of funds for eligible activities shall
+30 include an itemization of costs for eligible activities. If reasonable,
+31 the department may require source documentation and proof of payment,
+-5-
+
+LB768 LB768
+2026 2026
+1 including, but not limited to, a paid invoice, completed payment, or
+2 cleared check, to be submitted with the schedule as evidence of
+3 appropriate use of funds. Qualified recipients shall ensure proper use of
+4 funds. The department is not responsible for the audit or approval of
+5 each of the qualified recipient's transactions involving funds.
+6 (c) The department may initiate any of the following actions if a
+7 qualified recipient does not submit a schedule of uses of funds for
+8 eligible activities:
+9 (i) Disqualification of the qualified recipient in pending
+10 applications for the Affordable Housing Trust Fund;
+11 (ii) Disqualification of the qualified recipient in pending
+12 applications for other department programs;
+13 (iii) Disqualification of the qualified recipient as an eligible
+14 applicant for Affordable Housing Trust Fund applications for up to
+15 twenty-four months from the date of the department action; or
+16 (iv) Other actions deemed necessary by the department to meet the
+17 department's responsibility to ensure proper use of funds. so long as
+18 such actions do not unduly harm a qualified recipient's reputation and
+19 ability to successfully operate in Nebraska. This subdivision does not
+20 prohibit the department from taking appropriate actions against qualified
+21 recipients that have committed illegal actions, such as fraud and theft.
+22 (4) Beginning July 1, 2027, the Department of Economic Development
+23 shall prescribe annual reporting requirements to collect sufficient
+24 information from qualified recipients to determine the amount of funds
+25 obligated to projects, the repayment terms of such funds, and the current
+26 balance of funds unspent or repaid. The reporting requirements shall also
+27 require qualified recipients to provide an accounting of awards granted
+28 for the purpose described in subdivision (10) of section 58-706,
+29 including the award amount and estimates related to equity earned on
+30 homes purchased with such awards. If a qualified recipient fails to meet
+31 the reporting requirements of this subsection, such qualified recipient
+-6-
+
+LB768 LB768
+2026 2026
+1 may be required to return all awarded funds and transfer equity positions
+2 of recoverable housing assistance funds to the satisfaction of the
+3 department.
+4 (5) (4) The Department of Economic Development shall fund in order
+5 of priority as many applications as will utilize available funds less
+6 actual administrative costs of the department in administering the
+7 program. In administering the program, the department may contract for
+8 services or directly provide funds to other governmental entities or
+9 instrumentalities.
+10 (6)(a) (5)(a) The Department of Economic Development may recapture
+11 any funds, including interest accrued in any escrow account, which were
+12 allocated to a qualified recipient for an eligible project through an
+13 award agreement if such funds were not utilized for eligible costs within
+14 the time of performance under the agreement and are therefore therefor no
+15 longer obligated to the project.
+16 (b) Upon completion of a project, the department shall recapture a
+17 percentage of the funds which were allocated to a qualified recipient for
+18 an eligible project through an award agreement equal to the percentage of
+19 the housing development the qualified recipient agreed to construct under
+20 the award agreement but failed to complete, along with any interest
+21 accrued on the funds. Any funds recaptured under this subdivision shall
+22 be credited to the Affordable Housing Trust Fund.
+23 (c) A qualified recipient shall recapture any funds allocated to
+24 such recipient from the Affordable Housing Trust Fund that are provided
+25 to a homebuyer by the recipient as financial assistance for the purchase
+26 of a home upon sale of such home from the net proceeds of such sale, if
+27 any.
+28 Sec. 7. Section 58-709, Reissue Revised Statutes of Nebraska, is
+29 amended to read:
+30 58-709 The Department of Economic Development, in consultation with
+31 the Nebraska Investment Finance Authority and the housing advisory
+-7-
+
+LB768 LB768
+2026 2026
+1 committee established in section 58-704, shall adopt and promulgate rules
+2 and regulations to carry out the Nebraska Affordable Housing Act. The
+3 department shall monitor programs to see that only qualified individuals
+4 and families are occupying projects funded by the Affordable Housing
+5 Trust Fund.
+6 Sec. 8. (1) The Department of Economic Development may contract
+7 with a statewide public or private nonprofit organization or a state
+8 instrumentality which shall serve as agent for the department to help
+9 carry out the purposes and requirements of the Nebraska Affordable
+10 Housing Act.
+11 (2) If the department utilizes an agent pursuant to this section,
+12 then any reference to the department in relationship to duties under the
+13 Nebraska Affordable Housing Act shall include such agent to the extent
+14 that the agreement between the department and the agent so specifies.
+15 Sec. 9. Section 72-804, Revised Statutes Supplement, 2025, is
+16 amended to read:
+17 72-804 (1) Any new state building shall meet or exceed the
+18 requirements of the 2018 International Energy Conservation Code published
+19 by the International Code Council. For purposes of this subsection, new
+20 state building does not include any building that (a) is constructed or
+21 repaired using state funds received in the form of a grant or loan from
+22 the state and (b) will not be owned or managed by the state upon the
+23 completion of such construction or repair.
+24 (2) Any new lighting, heating, cooling, ventilating, or water
+25 heating equipment or controls in a state-owned building and any new
+26 building envelope components installed in a state-owned building shall
+27 meet or exceed the requirements of the 2018 International Energy
+28 Conservation Code.
+29 (3) The State Building Administrator of the Department of
+30 Administrative Services, in consultation with the Department of Water,
+31 Energy, and Environment, may specify:
+-8-
+
+LB768 LB768
+2026 2026
+1 (a) A more recent edition of the International Energy Conservation
+2 Code;
+3 (b) Additional energy efficiency or renewable energy requirements
+4 for buildings; and
+5 (c) Waivers of specific requirements which are demonstrated through
+6 life-cycle cost analysis to not be in the state's best interest. The
+7 agency receiving the funding shall be required to provide a life-cycle
+8 cost analysis to the State Building Administrator.
+9 Sec. 10. Section 72-805, Revised Statutes Supplement, 2025, is
+10 amended to read:
+11 72-805 (1) Except as provided in subsection (2) of this section
+12 58-712 for certain projects funded by the Affordable Housing Trust Fund,
+13 the 2018 International Energy Conservation Code, published by the
+14 International Code Council, applies to all new buildings constructed in
+15 whole or in part with state funds after July 1, 2020. The Department of
+16 Water, Energy, and Environment shall review building plans and
+17 specifications necessary to determine whether a building will meet the
+18 requirements of this subsection section, except that the department shall
+19 not be required to review building plans and specifications upon evidence
+20 that the building plans and specifications have previously been reviewed
+21 by a county, city, or village enforcing a local building or construction
+22 code adopted pursuant to section 71-6406 if such local building or
+23 construction code includes the requirements of the 2018 International
+24 Energy Conservation Code. The department shall provide a copy of any
+25 review to the agency receiving funding. The agency receiving the funding
+26 shall verify that the building as constructed meets or exceeds the code.
+27 The verification shall be provided to the department.
+28 (2) This section does not apply to any building that (a) is
+29 constructed or repaired using state funds received in the form of a grant
+30 or loan from the state and (b) will not be owned or managed by the state
+31 upon the completion of such construction or repair.
+-9-
+
+LB768 LB768
+2026 2026
+1 (3) The Director of Water, Energy, and Environment may, in
+2 consultation with the State Building Administrator of the Department of
+3 Administrative Services, adopt and promulgate rules and regulations to
+4 carry out this section.
+5 Sec. 11. Section 81-1228, Reissue Revised Statutes of Nebraska, is
+6 amended to read:
+7 81-1228 For purposes of the Rural Workforce Housing Investment Act:
+8 (1) Department means the Department of Economic Development;
+9 (2) Director means the Director of Economic Development;
+10 (3) Eligible activities of a nonprofit development organization
+11 means:
+12 (a) New construction of owner-occupied or rental housing in a
+13 community with demonstrated workforce housing needs;
+14 (b) Substantial repair or rehabilitation of dilapidated housing
+15 stock;
+16 (c) Upper-story housing development; or
+17 (d) Extension of sewer or water service in support of workforce
+18 housing;
+19 (4) HOME funds means funds awarded as formula grants under the HOME
+20 Investment Partnerships Program administered by the United States
+21 Department of Housing and Urban Development;
+22 (5) Matching funds means dollars contributed by individuals,
+23 businesses, foundations, local, regional, and statewide political
+24 subdivisions, or other nonprofit organizations to a workforce housing
+25 investment fund administered by a nonprofit development organization;
+26 (6) Nonprofit development organization means a local, regional, or
+27 statewide nonprofit development organization approved by the director;
+28 (7) Qualified activities include, but are not limited to, purchase
+29 and rental guarantees, loan guarantees, loan participations, and other
+30 credit enhancements or any other form of assistance designed to reduce
+31 the cost of workforce housing related to eligible activities of the
+-10-
+
+LB768 LB768
+2026 2026
+1 nonprofit development organization;
+2 (8) Qualified investment means a cash investment in a workforce
+3 housing investment fund administered by a nonprofit development
+4 organization;
+5 (9) Rural community means any municipality in a county with a
+6 population of fewer than one hundred thousand inhabitants as determined
+7 by the most recent federal decennial census;
+8 (10) Workforce housing means:
+9 (a) Housing that meets the needs of today's working families;
+10 (b) Housing that is attractive to new residents considering
+11 relocation to a rural community;
+12 (c) Owner-occupied housing units that cost not more than three
+13 hundred seventy-five twenty-five thousand dollars to construct or rental
+14 housing units that cost not more than three two hundred fifty thousand
+15 dollars per unit to construct. For purposes of this subdivision (c),
+16 housing unit costs shall be updated annually by the department based upon
+17 the most recent increase or decrease in the Producer Price Index for all
+18 commodities, published by the United States Department of Labor, Bureau
+19 of Labor Statistics;
+20 (d) Owner-occupied and rental housing units for which the cost to
+21 substantially rehabilitate exceeds fifty percent of a unit's assessed
+22 value;
+23 (e) Upper-story housing; and
+24 (f) Housing units that do not receive federal or state low-income
+25 housing tax credits, community development block grants, HOME funds, or
+26 funds from the National Housing Trust Fund, which would impose individual
+27 or household income limitations or restrictions on such housing units, or
+28 funding from the Affordable Housing Trust Fund restricting the level of
+29 individual or household income to anything less than one hundred percent
+30 of area median income as calculated by the United States Department of
+31 Housing and Urban Development; and
+-11-
+
+LB768 LB768
+2026 2026
+1 (11) Workforce housing investment fund means a fund that has been
+2 created by a nonprofit development organization and certified by the
+3 director to encourage development of workforce housing in rural
+4 communities.
+5 Sec. 12. Section 81-1229, Reissue Revised Statutes of Nebraska, is
+6 amended to read:
+7 81-1229 (1) The director shall establish a workforce housing grant
+8 program to foster and support the development of workforce housing in
+9 rural communities.
+10 (2) A nonprofit development organization may apply to the director
+11 for approval of a workforce housing grant for a workforce housing
+12 investment fund. The application shall be in a form and manner prescribed
+13 by the director. Through fiscal year 2031-32 2026-27, grants shall be
+14 awarded by the director on a competitive basis until grant funds are no
+15 longer available. A nonprofit development organization may apply for more
+16 than one grant, subject to the following limits:
+17 (a) The maximum amount of grant funds awarded to any one nonprofit
+18 development organization over a two-year period shall not exceed five
+19 million dollars; and
+20 (b) The maximum amount of grant funds awarded to any one nonprofit
+21 development organization for all program years shall not exceed an
+22 aggregate limit determined by the department at the discretion of the
+23 director.
+24 (3) An applicant shall provide matching funds of at least one-
+25 quarter of the amount of workforce housing grant funds awarded.
+26 Unallocated workforce housing grant funds held by the department shall be
+27 rolled to the next program year.
+28 (4) Grants shall be awarded based upon:
+29 (a) A demonstrated and ongoing housing need as identified by a
+30 recent housing study;
+31 (b) A community or region that has a low unemployment rate and is
+-12-
+
+LB768 LB768
+2026 2026
+1 having difficulty attracting workers and filling employment positions;
+2 (c) A community or region that exhibits a demonstrated commitment to
+3 growing its housing stock;
+4 (d) Projects that can reasonably be ready for occupancy in a period
+5 of twenty-four months; and
+6 (e) A demonstrated ability to grow and manage a workforce housing
+7 investment fund.
+8 (5) A nonprofit development organization shall:
+9 (a) Invest or intend to invest in workforce housing eligible
+10 activities;
+11 (b) Use any fees, interest, loan repayments, or other funds it
+12 received as a result of the administration of the grant to support
+13 qualified activities; and
+14 (c) Have an active board of directors with expertise in development,
+15 construction, and finance that meets at least quarterly to approve all
+16 qualified investments made by the nonprofit development organization. A
+17 nonprofit development organization shall have a formal plan and proven
+18 expertise to invest unused workforce housing investment fund balances and
+19 shall have an annual review of all financial records conducted by an
+20 independent certified public accountant.
+21 Sec. 13. Section 81-1230, Reissue Revised Statutes of Nebraska, is
+22 amended to read:
+23 81-1230 (1) The Rural Workforce Housing Investment Fund is created.
+24 Funding for the grant program described in section 81-1229 shall come
+25 from the Rural Workforce Housing Investment Fund. The Rural Workforce
+26 Housing Investment Fund may include revenue from appropriations from the
+27 Legislature, grants, private contributions, and other sources. In
+28 addition, the State Treasurer shall make a one-time transfer of seven
+29 million three hundred thousand dollars on or before October 1, 2017, from
+30 the Affordable Housing Trust Fund to the Rural Workforce Housing
+31 Investment Fund. Any money in the Rural Workforce Housing Investment Fund
+-13-
+
+LB768 LB768
+2026 2026
+1 available for investment shall be invested by the state investment
+2 officer pursuant to the Nebraska Capital Expansion Act and the Nebraska
+3 State Funds Investment Act.
+4 (2) The department shall administer the Rural Workforce Housing
+5 Investment Fund and may seek additional private or nonstate funds to use
+6 in the grant program, including, but not limited to, contributions from
+7 the Nebraska Investment Finance Authority and other interested parties.
+8 (3) Interest earned by the department on grant funds shall be
+9 applied to the grant program.
+10 (4) If a nonprofit development organization fails to engage in the
+11 initial qualified activity within twenty-four months after receiving
+12 initial grant funding, the nonprofit development organization shall
+13 return the grant funds to the department for credit to the General Fund.
+14 (5) If a nonprofit development organization fails to allocate any
+15 remaining initial grant funding on a qualified activity within twenty-
+16 four months after engaging in the initial qualified activity, the
+17 nonprofit development organization shall return such unallocated grant
+18 funds to the department for credit to the Rural Workforce Housing
+19 Investment Fund.
+20 (6) Beginning July 1, 2032 2027, any funds held by the department in
+21 the Rural Workforce Housing Investment Fund shall be transferred to the
+22 General Fund.
+23 Sec. 14. Section 81-1231, Reissue Revised Statutes of Nebraska, is
+24 amended to read:
+25 81-1231 (1) Each nonprofit development organization shall submit an
+26 annual report to the director to be included as a part of the
+27 department's annual status report required under section 81-1201.11. The
+28 report shall certify that the nonprofit development organization meets
+29 the requirements of the Rural Workforce Housing Investment Act and shall
+30 include a breakdown of program activities.
+31 (2) The annual report shall include, but not necessarily be limited
+-14-
+
+LB768 LB768
+2026 2026
+1 to:
+2 (a) The name and geographical location of the reporting nonprofit
+3 development organization;
+4 (b) The number, amount, and type of workforce housing investment
+5 funds invested in qualified activities;
+6 (c) The number, geographical location, type, and amount of
+7 investments made;
+8 (d) A summary of matching funds and where such matching funds were
+9 generated; and
+10 (e) The results of the annual review of all financial records
+11 required under subsection (5) of section 81-1229.
+12 (3) If a nonprofit development organization ceases administration of
+13 a workforce housing investment fund, it shall file a final report with
+14 the director in a form and manner required by the director. Before July
+15 1, 2032 2027, any unallocated grant funds shall be returned to the
+16 department for credit to the Rural Workforce Housing Investment Fund. On
+17 and after July 1, 2032 2027, any unallocated grant funds shall be
+18 returned to the department for transfer to the General Fund.
+19 (4) If a nonprofit development organization fails to file a complete
+20 annual report by February 15, the director may, in his or her discretion,
+21 impose a civil penalty of not more than five thousand dollars for such
+22 violation. All money collected by the department pursuant to this
+23 subsection shall be remitted to the State Treasurer for distribution in
+24 accordance with Article VII, section 5, of the Constitution of Nebraska.
+25 Sec. 15. Section 81-1232, Reissue Revised Statutes of Nebraska, is
+26 amended to read:
+27 81-1232 (1) The department shall use its best efforts to assure that
+28 grant funds awarded to nonprofit development organizations are targeted
+29 to the geographic communities or regions with the most pressing economic
+30 and employment needs.
+31 (2) The department shall use its best efforts to assure that the
+-15-
+
+LB768 LB768
+2026 2026
+1 allocation of grant funds provides equitable access to the benefits
+2 provided by the Rural Workforce Housing Investment Act to all eligible
+3 geographical areas.
+4 (3) The department may contract with a statewide public or private
+5 nonprofit organization or a state instrumentality which shall serve as
+6 agent for the department to help carry out the purposes and requirements
+7 of the Rural Workforce Housing Investment Act. The department or its
+8 agent may only use for expenses that portion of the funds available for
+9 the workforce housing grant program through the Rural Workforce Housing
+10 Investment Fund necessary to cover the actual costs of administering the
+11 program, including, but not limited to, the hiring of staff.
+12 Sec. 16. Section 81-1237, Revised Statutes Supplement, 2025, is
+13 amended to read:
+14 81-1237 For purposes of the Middle Income Workforce Housing
+15 Investment Act:
+16 (1) Department means the Department of Economic Development;
+17 (2) Director means the Director of Economic Development;
+18 (3) Eligible activities of a workforce housing investment fund
+19 means:
+20 (a) New construction of owner-occupied or rent-to-own housing in a
+21 neighborhood and community with a demonstrated need for housing that is
+22 affordable and attractive to first-time homebuyers, middle-income
+23 families, and the emerging workforce;
+24 (b) Substantial repair or rehabilitation of dilapidated housing
+25 stock; or
+26 (c) Upper-story housing development for occupation by a homeowner or
+27 rent-to-own tenant;
+28 (4) HOME funds means funds awarded as formula grants under the HOME
+29 Investment Partnerships Program administered by the United States
+30 Department of Housing and Urban Development;
+31 (5) Homeownership incentive reserve account means an interest-
+-16-
+
+LB768 LB768
+2026 2026
+1 bearing, deposit-insured account maintained by the owner of a housing
+2 unit for future use by the unit's tenant to purchase a home;
+3 (6) Matching funds means dollars contributed by individuals,
+4 businesses, foundations, local and regional political subdivisions, or
+5 other nonprofit organizations to a workforce housing investment fund
+6 administered by a nonprofit development organization;
+7 (7) Nonprofit development organization means a regional or statewide
+8 nonprofit development organization approved by the director;
+9 (8) Owner means one or more persons, jointly or severally, in whom
+10 is vested all or part of the legal title to, or beneficial ownership of,
+11 the subject housing unit;
+12 (9) Project reserve account means an interest-bearing, deposit-
+13 insured account maintained by the owner of a housing unit for unexpected
+14 expenses, routine maintenance, and other operational costs associated
+15 with managing rental properties;
+16 (10) Qualified activities include purchase guarantees, loan
+17 guarantees, loan participations, and other credit enhancements related to
+18 eligible activities of the workforce housing investment fund;
+19 (11) Qualified investment means a cash investment in a workforce
+20 housing investment fund administered by a nonprofit development
+21 organization;
+22 (12) Rent-to-own housing means housing units that:
+23 (a) Are located within a development of single-family housing,
+24 duplexes, townhouses, or multifamily housing in which there are no more
+25 than ten units on a parcel of land; and
+26 (b) Meet the following requirements until the housing unit is owner
+27 occupied:
+28 (i) The housing unit is occupied by a tenant as the tenant's primary
+29 residence;
+30 (ii) The tenant does not own a home or other residential real
+31 estate;
+-17-
+
+LB768 LB768
+2026 2026
+1 (iii) The lease for the housing unit provides that:
+2 (A) Not less than fifty dollars of the tenant's monthly rent shall
+3 be set aside in a homeownership incentive reserve account prior to any
+4 cash flow distributions to the owner. Such homeownership incentive
+5 reserve account shall be maintained by the owner in an interest-bearing
+6 account as long as the tenant resides in the unit. When the lease ends,
+7 the owner shall liquidate the homeownership incentive reserve account and
+8 distribute the money to the tenant for downpayment and closing costs on
+9 the purchase of a home that will be the tenant's new primary residence.
+10 If the tenant does not purchase a home at the end of the lease, the money
+11 in the homeownership incentive reserve account shall be transferred to a
+12 project reserve account; and
+13 (B) The tenant may end the lease without penalty if the tenant
+14 provides the owner with thirty days' written notice and purchases a home
+15 that will be the tenant's new primary residence; and
+16 (iv) The housing unit is the subject of a legally binding agreement
+17 granting the tenant the option to purchase the unit from the owner at
+18 fair market value not less than one year after the lease begins. Such
+19 agreement shall give the tenant the ability to apply homeownership
+20 incentive reserve account funds to downpayment and closing costs;
+21 (13) Urban community means any area that is:
+22 (a)(i) In a county with a population greater than one hundred
+23 thousand inhabitants as determined by the most recent federal decennial
+24 census; and
+25 (ii) Within or adjacent to a qualified census tract as described in
+26 26 U.S.C. 42(d)(5)(B), as such section existed on January 1, 2022;
+27 (b) Within a city of the primary class or within a county in which a
+28 city of the primary class is located; or
+29 (c) In a county with a population greater than one hundred thousand
+30 inhabitants, as determined by the most recent federal decennial census,
+31 that does not contain a city of the metropolitan class or a city of the
+-18-
+
+LB768 LB768
+2026 2026
+1 primary class;
+2 (14) Workforce housing means:
+3 (a) Owner-occupied or rent-to-own housing units that have an after-
+4 construction appraised value or construction cost of at least one hundred
+5 twenty-five thousand dollars but not more than three hundred seventy-five
+6 thirty thousand dollars. For purposes of this subdivision, housing unit
+7 after-construction appraised value and construction cost shall be updated
+8 annually by the department based upon the most recent increase or
+9 decrease in the Producer Price Index for all commodities, published by
+10 the United States Department of Labor, Bureau of Labor Statistics;
+11 (b) Owner-occupied or rent-to-own housing that meets the following
+12 requirements:
+13 (i) The cost to substantially rehabilitate such housing exceeds
+14 twenty-five fifty percent of its before-construction assessed value; and
+15 (ii) The after-construction appraised value of the building alone is
+16 at least one hundred twenty-five thousand dollars but not more than three
+17 two hundred seventy-five thousand dollars. For purposes of this
+18 subdivision, housing unit after-construction appraised value shall be
+19 updated annually by the department based upon the most recent increase or
+20 decrease in the Producer Price Index for all commodities, published by
+21 the United States Department of Labor, Bureau of Labor Statistics;
+22 (c) Upper-story housing for occupation by a homeowner or rent-to-own
+23 tenant; and
+24 (d) Housing units that do not receive federal or state low-income
+25 housing tax credits, community development block grants, HOME funds, or
+26 funds from the Affordable Housing Trust Fund. Notwithstanding the
+27 foregoing, the department shall not restrict the construction of housing
+28 units on land parcels prepared using funds from the sources described in
+29 this subdivision and shall not restrict the sale of housing units to
+30 homebuyers that receive homebuyer assistance funds from the sources
+31 described in this subdivision; and
+-19-
+
+LB768 LB768
+2026 2026
+1 (15) Workforce housing investment fund means a fund that has been
+2 created by a nonprofit development organization and certified by the
+3 director to encourage development of workforce housing in urban
+4 communities.
+5 Sec. 17. Section 81-1238, Revised Statutes Supplement, 2025, is
+6 amended to read:
+7 81-1238 (1) The director shall establish a workforce housing
+8 investment grant program to foster and support the development of
+9 workforce housing in urban communities.
+10 (2) A nonprofit development organization may apply to the director
+11 for approval of a workforce housing grant for a workforce housing
+12 investment fund. The application shall be in a form and manner prescribed
+13 by the director. Through fiscal year 2031-32 2026-27, grants shall be
+14 awarded by the director on a competitive basis until grant funds are no
+15 longer available. Grant maximums shall not exceed ten million dollars to
+16 any one nonprofit development organization over a two-year period, with
+17 the cumulative amount for any single grantee to be determined by the
+18 department at the discretion of the director. An applicant shall provide
+19 matching funds for workforce housing grant funds awarded. For grant funds
+20 awarded prior to July 19, 2024, an applicant shall provide matching funds
+21 of at least fifty percent of the amount of such grant funds awarded. For
+22 grant funds awarded on or after July 19, 2024, an applicant shall provide
+23 matching funds of at least twenty-five percent of the amount of such
+24 grant funds awarded. Unallocated funds held by the department shall be
+25 rolled to the next program year.
+26 (3) Grants shall be awarded based upon:
+27 (a) A demonstrated need for additional housing. Need can be
+28 demonstrated with a recent housing study or a letter from the planning
+29 department of the city in which the fund is intending to operate stating
+30 that the proposal is in line with the city's most recent consolidated
+31 plan submitted under 24 C.F.R. part 91, subpart D, as such subpart
+-20-
+
+LB768 LB768
+2026 2026
+1 existed on January 1, 2020;
+2 (b) A neighborhood or community that has a higher-than-state-average
+3 unemployment rate;
+4 (c) A neighborhood or community that exhibits a demonstrated
+5 commitment to growing its housing stock;
+6 (d) Reducing barriers to the development and purchase of owner-
+7 occupied housing with flexible forms of assistance, including grants,
+8 forgivable loans, homeownership incentive reserve accounts, purchase
+9 option agreements, and other forms of long-term, patient financing;
+10 (e) Projects that can reasonably be ready for occupancy in a period
+11 of twenty-four months; and
+12 (f) A demonstrated ability to grow and manage a workforce housing
+13 investment fund.
+14 (4) A workforce housing investment fund shall:
+15 (a) Be required to receive annual certification from the department;
+16 (b) Invest or intend to invest in eligible activities for a
+17 workforce housing investment fund;
+18 (c) Use any fees, interest, loan repayments, or other funds received
+19 by the nonprofit development organization as a result of the
+20 administration of the grant to support qualified activities; and
+21 (d) Have an active board of directors with expertise in development,
+22 construction, and finance that meets at least quarterly to approve all
+23 qualified investments made by the nonprofit development organization. A
+24 nonprofit development organization shall have a formal plan and proven
+25 expertise to invest unused workforce housing investment fund balances and
+26 shall conduct an annual audit of all financial records by an independent
+27 certified public accountant.
+28 (5) A nonprofit development organization that has previously
+29 received a grant or grants under the Middle Income Workforce Housing
+30 Investment Act shall not be eligible for an additional grant under this
+31 section unless the organization has expended at least fifty percent of
+-21-
+
+LB768 LB768
+2026 2026
+1 the funds from such previous grant or grants.
+2 Sec. 18. Section 81-1239, Revised Statutes Supplement, 2025, is
+3 amended to read:
+4 81-1239 (1) The Middle Income Workforce Housing Investment Fund is
+5 created. Funding for the grant program described in section 81-1238 shall
+6 come from the Middle Income Workforce Housing Investment Fund. The Middle
+7 Income Workforce Housing Investment Fund may include revenue transferred
+8 at the direction of the Legislature, grants, private contributions, and
+9 other sources. Any money in the Middle Income Workforce Housing
+10 Investment Fund available for investment shall be invested by the state
+11 investment officer pursuant to the Nebraska Capital Expansion Act and the
+12 Nebraska State Funds Investment Act.
+13 (2) The department shall establish a subaccount within the Middle
+14 Income Workforce Housing Investment Fund that shall be used to fund
+15 affordable housing and related land parcel preparation activities under
+16 the Economic Recovery Act as described in subdivisions (4)(d) and (e) of
+17 section 81-12,241.
+18 (3) The department shall administer the Middle Income Workforce
+19 Housing Investment Fund and may seek additional private or nonstate funds
+20 to use in the grant program under the Middle Income Workforce Housing
+21 Investment Act, including, but not limited to, contributions from the
+22 Nebraska Investment Finance Authority and other interested parties.
+23 (4) Interest earned by the department on grant funds shall be
+24 applied to the grant program.
+25 (5) If a nonprofit development organization, or a recipient of
+26 subaccount funds described in subsection (2) of this section, fails to
+27 engage in a qualified activity within twenty-four months after receiving
+28 initial grant funding, the nonprofit development organization or
+29 recipient of subaccount funds shall return the grant proceeds to the
+30 department for credit to the General Fund.
+31 (6) Beginning July 1, 2032 2029, any funds held by the department in
+-22-
+
+LB768 LB768
+2026 2026
+1 the Middle Income Workforce Housing Investment Fund shall be transferred
+2 to the General Fund.
+3 Sec. 19. Section 81-1240, Revised Statutes Supplement, 2025, is
+4 amended to read:
+5 81-1240 (1) Each nonprofit development organization shall submit an
+6 annual report to the director to be included as a part of the
+7 department's annual status report required under section 81-1201.11. The
+8 report shall certify that the workforce housing investment fund meets the
+9 requirements of the Middle Income Workforce Housing Investment Act and
+10 shall include a breakdown of program activities.
+11 (2) The annual report shall include, but not be limited to:
+12 (a) The name and geographical location of the nonprofit development
+13 organization;
+14 (b) The number, amount, and type of workforce housing investment
+15 funds invested in qualified activities;
+16 (c) The number, geographical location, type, and amount of
+17 investments made;
+18 (d) A summary of matching funds and where such matching funds were
+19 generated;
+20 (e) The results of the annual audit required under subdivision (4)
+21 (d) of section 81-1238; and
+22 (f) The number of tenants assisted into homeownership, if
+23 applicable.
+24 (3) If a nonprofit development organization ceases administration of
+25 a workforce housing investment fund, it shall file a final report with
+26 the director in a form and manner required by the director. Before July
+27 1, 2032 2029, any unallocated workforce housing investment fund grant
+28 funds shall be returned for credit to the Middle Income Workforce Housing
+29 Investment Fund. On and after July 1, 2032 2029, any unallocated
+30 workforce housing investment fund grant funds shall be returned to the
+31 department for transfer to the General Fund.
+-23-
+
+LB768 LB768
+2026 2026
+1 (4) If a workforce housing investment fund fails to file a complete
+2 annual report by February 15, the director may, in his or her discretion,
+3 impose a civil penalty of not more than five thousand dollars for such
+4 violation. All money collected by the department pursuant to this
+5 subsection shall be remitted to the State Treasurer for distribution in
+6 accordance with Article VII, section 5, of the Constitution of Nebraska.
+7 (5) This section does not apply to the subaccount of the Middle
+8 Income Workforce Housing Investment Fund described in subsection (2) of
+9 section 81-1239.
+10 Sec. 20. Section 81-1241, Reissue Revised Statutes of Nebraska, is
+11 amended to read:
+12 81-1241 (1) The department shall use its best efforts to assure that
+13 any grant funds awarded to a nonprofit development organization are
+14 targeted to the geographic communities or regions with the most pressing
+15 housing, economic, and employment needs.
+16 (2) The department shall use its best efforts to assure that the
+17 allocation of grant funds provides equitable access to the benefits
+18 provided by the Middle Income Workforce Housing Investment Act to all
+19 eligible neighborhoods and communities.
+20 (3) The director may contract with a statewide public or private
+21 nonprofit organization or a state instrumentality which shall serve as
+22 agent for the department to help carry out the purposes and requirements
+23 of the Middle Income Workforce Housing Investment Act. The department or
+24 its agent may only use for expenses that portion of the funds available
+25 for the workforce housing investment grant program through the Middle
+26 Income Workforce Housing Investment Fund necessary to cover the actual
+27 costs of administering the program.
+28 Sec. 21. Original sections 58-709, 81-1228, 81-1229, 81-1230,
+29 81-1231, 81-1232, and 81-1241, Reissue Revised Statutes of Nebraska,
+30 sections 58-201 and 58-703, Revised Statutes Cumulative Supplement, 2024,
+31 and sections 58-701, 58-708, 72-804, 72-805, 81-1237, 81-1238, 81-1239,
+-24-
+
+LB768 LB768
+2026 2026
+1 and 81-1240, Revised Statutes Supplement, 2025, are repealed.
+2 Sec. 22. The following sections are outright repealed: Section
+3 58-704, Reissue Revised Statutes of Nebraska, and section 58-712, Revised
+4 Statutes Supplement, 2025.
+-25-
