@@ -1,0 +1,890 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LB1056 LB1056
+2026 2026
+LEGISLATURE OF NEBRASKA
+ONE HUNDRED NINTH LEGISLATURE
+SECOND SESSION
+LEGISLATIVE BILL 1056
+Introduced by Conrad, 46.
+Read first time January 14, 2026
+Committee: Business and Labor
+1 A BILL FOR AN ACT relating to the Nebraska Workers' Compensation Act; to
+2 amend sections 48-120, 48-121.01, 48-122, 48-122.01, 48-122.03,
+3 48-126, 48-134, and 48-134.01, Reissue Revised Statutes of Nebraska,
+4 and section 48-121, Revised Statutes Cumulative Supplement, 2024; to
+5 require payment for interpreter services; to change provisions
+6 relating to the right to select a physician, compensation schedules,
+7 maximum and minimum weekly income benefits, and calculation of
+8 wages; to require annual cost-of-living adjustments to benefits as
+9 prescribed; to define terms; to require payment of benefits to a
+10 personal representative; to harmonize provisions; and to repeal the
+11 original sections.
+12 Be it enacted by the people of the State of Nebraska,
+-1-
+
+LB1056 LB1056
+2026 2026
+1 Section 1. Section 48-120, Reissue Revised Statutes of Nebraska, is
+2 amended to read:
+3 48-120 (1)(a) The employer is liable for all reasonable medical,
+4 surgical, and hospital services, including plastic surgery or
+5 reconstructive surgery but not cosmetic surgery when the injury has
+6 caused disfigurement, appliances, supplies, prosthetic devices, and
+7 medicines as and when needed, which are required by the nature of the
+8 injury and which will relieve pain or promote and hasten the employee's
+9 restoration to health and employment, and includes damage to or
+10 destruction of artificial members, dental appliances, teeth, hearing
+11 instruments, and eyeglasses, but, in the case of dental appliances,
+12 hearing instruments, or eyeglasses, only if such damage or destruction
+13 resulted from an accident which also caused personal injury entitling the
+14 employee to compensation therefor for disability or treatment, subject to
+15 the approval of and regulation by the Nebraska Workers' Compensation
+16 Court, not to exceed the regular charge made for such service in similar
+17 cases. If the employee cannot readily understand or communicate in
+18 English or another language spoken by a service provider, the employer
+19 shall be liable for all reasonable costs of interpretation services
+20 related to such medical, surgical, or hospital services. The interpreter
+21 shall be selected by the employee or the employee's representative from
+22 the interpreter register created in Rule 6-702 of the Nebraska Supreme
+23 Court Rules.
+24 (b) Except as provided in section 48-120.04, the compensation court
+25 shall establish schedules of fees for such services. The compensation
+26 court shall review such schedules at least biennially and adopt
+27 appropriate changes when necessary. The compensation court may contract
+28 with any person, firm, corporation, organization, or government agency to
+29 secure adequate data to establish such fees. The compensation court shall
+30 publish and furnish to the public the fee schedules established pursuant
+31 to this subdivision and section 48-120.04. The compensation court may
+-2-
+
+LB1056 LB1056
+2026 2026
+1 establish and charge a fee to recover the cost of published fee
+2 schedules.
+3 (c) Reimbursement for inpatient hospital services provided by
+4 hospitals located in or within fifteen miles of a Nebraska city of the
+5 metropolitan class or primary class and by other hospitals with fifty-one
+6 or more licensed beds shall be according to the Diagnostic Related Group
+7 inpatient hospital fee schedule or the trauma services inpatient hospital
+8 fee schedule established in section 48-120.04.
+9 (d) A workers' compensation insurer, risk management pool, self-
+10 insured employer, or managed care plan certified pursuant to section
+11 48-120.02 may contract with a provider or provider network for medical,
+12 surgical, or hospital services. Such contract may establish fees for
+13 services different than the fee schedules established under subdivision
+14 (1)(b) of this section or established under section 48-120.04. Such
+15 contract shall be in writing and mutually agreed upon prior to the date
+16 services are provided.
+17 (e) The provider or supplier of such services shall not collect or
+18 attempt to collect from any employer, insurer, government, or injured
+19 employee or dependent or the estate of any injured or deceased employee
+20 any amount in excess of (i) the fee established by the compensation court
+21 for any such service, (ii) the fee established under section 48-120.04,
+22 or (iii) the fee contracted under subdivision (1)(d) of this section,
+23 including any finance charge or late penalty.
+24 (2)(a)(i) (2)(a) The employee has the right to select a physician
+25 who has maintained the employee's medical records prior to an injury and
+26 has a documented history of treatment with the employee prior to an
+27 injury or a physician who has maintained the medical records of an
+28 immediate family member of the employee prior to an injury and has a
+29 documented history of treatment with an immediate family member of the
+30 employee prior to an injury. If there is no such physician, the employee
+31 may select a physician within a timeframe established by the compensation
+-3-
+
+LB1056 LB1056
+2026 2026
+1 court. For purposes of this subsection, immediate family member means the
+2 employee's spouse, children, parents, stepchildren, and stepparents.
+3 (ii) The employer shall notify the employee following an injury of
+4 such right of selection in a form and manner and within a timeframe
+5 established by the compensation court. If the employee cannot readily
+6 understand or communicate in English or another language spoken by the
+7 employer, then the employer shall, at no cost to such employee, provide
+8 such notice to the employee in a language understood by the employee. If
+9 the employer fails to notify the employee of such right of selection, or
+10 fails to notify the employee of such right of selection in a form and
+11 manner and within a timeframe established by the compensation court, or
+12 fails to notify the employee of such right of selection in the manner
+13 required by this subdivision, then the employee has the right to select a
+14 physician. If the employee fails to exercise such right of selection in a
+15 form and manner and within a timeframe established by the compensation
+16 court following notice by the employer pursuant to this subsection, then
+17 the employer has the right to select the physician.
+18 (iii) If selection of the initial physician is made by the employee
+19 or employer pursuant to this subsection following notice by the employer
+20 pursuant to this subsection, the employee or employer shall not change
+21 the initial selection of physician made pursuant to this subsection
+22 unless such change is agreed to by the employee and employer or is
+23 ordered by the compensation court pursuant to subsection (6) of this
+24 section.
+25 (iv) If compensability is denied by the workers' compensation
+26 insurer, risk management pool, or self-insured employer, (A) (i) the
+27 employee has the right to select a physician and shall not be made to
+28 enter a managed care plan and (B) (ii) the employer is liable for
+29 medical, surgical, and hospital services subsequently found to be
+30 compensable.
+31 (v) If the employer has exercised the right to select a physician
+-4-
+
+LB1056 LB1056
+2026 2026
+1 pursuant to this subsection and if the compensation court subsequently
+2 orders reasonable medical services previously refused to be furnished to
+3 the employee by the physician selected by the employer, the compensation
+4 court shall allow the employee to select another physician to furnish
+5 further medical services.
+6 (vi) If the employee selects a physician located in a community not
+7 the home or place of work of the employee and a physician is available in
+8 the local community or in a closer community, no travel expenses shall be
+9 required to be paid by the employer or his or her workers' compensation
+10 insurer.
+11 (b) In cases of injury requiring dismemberment or injuries involving
+12 major surgical operation, the employee may designate to his or her
+13 employer the physician or surgeon to perform the operation.
+14 (c) If the injured employee unreasonably refuses or neglects to
+15 avail himself or herself of medical or surgical treatment furnished by
+16 the employer, except as herein and otherwise provided, the employer is
+17 not liable for an aggravation of such injury due to such refusal and
+18 neglect and the compensation court or judge thereof may suspend, reduce,
+19 or limit the compensation otherwise payable under the Nebraska Workers'
+20 Compensation Act.
+21 (d) If, due to the nature of the injury or its occurrence away from
+22 the employer's place of business, the employee or the employer is unable
+23 to select a physician using the procedures provided by this subsection,
+24 the selection requirements of this subsection shall not apply as long as
+25 the inability to make a selection persists.
+26 (e) The physician selected may arrange for any consultation,
+27 referral, or extraordinary or other specialized medical services as the
+28 nature of the injury requires.
+29 (f) The employer is not responsible for medical services furnished
+30 or ordered by any physician or other person selected by the employee in
+31 disregard of this section. Except as otherwise provided by the Nebraska
+-5-
+
+LB1056 LB1056
+2026 2026
+1 Workers' Compensation Act, the employer is not liable for medical,
+2 surgical, or hospital services or medicines if the employee refuses to
+3 allow them to be furnished by the employer.
+4 (3) No claim for such medical treatment is valid and enforceable
+5 unless, within fourteen days following the first treatment, the physician
+6 giving such treatment furnishes the employer a report of such injury and
+7 treatment on a form prescribed by the compensation court. The
+8 compensation court may excuse the failure to furnish such report within
+9 fourteen days when it finds it to be in the interest of justice to do so.
+10 (4) All physicians and other providers of medical services attending
+11 injured employees shall comply with all the rules and regulations adopted
+12 and promulgated by the compensation court and shall make such reports as
+13 may be required by it at any time and at such times as required by it
+14 upon the condition or treatment of any injured employee or upon any other
+15 matters concerning cases in which they are employed. All medical and
+16 hospital information relevant to the particular injury shall, on demand,
+17 be made available to the employer, the employee, the workers'
+18 compensation insurer, and the compensation court. The party requesting
+19 such medical and hospital information shall pay the cost thereof. No such
+20 relevant information developed in connection with treatment or
+21 examination for which compensation is sought shall be considered a
+22 privileged communication for purposes of a workers' compensation claim.
+23 When a physician or other provider of medical services willfully fails to
+24 make any report required of him or her under this section, the
+25 compensation court may order the forfeiture of his or her right to all or
+26 part of payment due for services rendered in connection with the
+27 particular case.
+28 (5) Whenever the compensation court deems it necessary, in order to
+29 assist it in resolving any issue of medical fact or opinion, it shall
+30 cause the employee to be examined by a physician or physicians selected
+31 by the compensation court and obtain from such physician or physicians a
+-6-
+
+LB1056 LB1056
+2026 2026
+1 report upon the condition or matter which is the subject of inquiry. The
+2 compensation court may charge the cost of such examination to the
+3 workers' compensation insurer. The cost of such examination shall include
+4 the payment to the employee of all necessary and reasonable expenses
+5 incident to such examination, such as transportation, and loss of wages,
+6 and interpreter services.
+7 (6) The compensation court shall have the authority to determine the
+8 necessity, character, and sufficiency of any medical or interpreter
+9 services furnished or to be furnished and shall have authority to order a
+10 change of physician, hospital, rehabilitation facility, or other medical
+11 or interpreter services when it deems such change is desirable or
+12 necessary. Any dispute regarding medical, surgical, or hospital, or
+13 interpreter services furnished or to be furnished under this section may
+14 be submitted by the parties, the supplier of such service, or the
+15 compensation court on its own motion for informal dispute resolution by a
+16 staff member of the compensation court or an outside mediator pursuant to
+17 section 48-168. In addition, any party or the compensation court on its
+18 own motion may submit such a dispute for a medical finding by an
+19 independent medical examiner pursuant to section 48-134.01. Issues
+20 submitted for informal dispute resolution or for a medical finding by an
+21 independent medical examiner may include, but are not limited to, the
+22 reasonableness and necessity of any medical treatment previously provided
+23 or to be provided to the injured employee. The compensation court may
+24 adopt and promulgate rules and regulations regarding informal dispute
+25 resolution or the submission of disputes to an independent medical
+26 examiner that are considered necessary to effectuate the purposes of this
+27 section.
+28 (7) For the purpose of this section, physician has the same meaning
+29 as in section 48-151.
+30 (8) The compensation court shall order the employer to make payment
+31 directly to the supplier of any services provided for in this section or
+-7-
+
+LB1056 LB1056
+2026 2026
+1 reimbursement to anyone who has made any payment to the supplier for
+2 services provided in this section. No such supplier or payor may be made
+3 or become a party to any action before the compensation court.
+4 (9) Notwithstanding any other provision of this section, a workers'
+5 compensation insurer, risk management pool, or self-insured employer may
+6 contract for medical, surgical, hospital, and rehabilitation services to
+7 be provided through a managed care plan certified pursuant to section
+8 48-120.02. Once liability for medical, surgical, and hospital services
+9 has been accepted or determined, the employer may require that employees
+10 subject to the contract receive medical, surgical, and hospital services
+11 in the manner prescribed in the contract, except that an employee may
+12 receive services from a physician selected by the employee pursuant to
+13 subsection (2) of this section if the physician so selected agrees to
+14 refer the employee to the managed care plan for any other treatment that
+15 the employee may require and if the physician so selected agrees to
+16 comply with all the rules, terms, and conditions of the managed care
+17 plan. If compensability is denied by the workers' compensation insurer,
+18 risk management pool, or self-insured employer, the employee may leave
+19 the managed care plan and the employer is liable for medical, surgical,
+20 and hospital services previously provided. The workers' compensation
+21 insurer, risk management pool, or self-insured employer shall give notice
+22 to employees subject to the contract of eligible service providers and
+23 such other information regarding the contract and manner of receiving
+24 medical, surgical, and hospital services under the managed care plan as
+25 the compensation court may prescribe.
+26 Sec. 2. Section 48-121, Revised Statutes Cumulative Supplement,
+27 2024, is amended to read:
+28 48-121 The following schedule of compensation is hereby established
+29 for injuries resulting in disability:
+30 (1) For total disability, the compensation during such disability
+31 shall be eighty sixty-six and two-thirds percent of the wages received at
+-8-
+
+LB1056 LB1056
+2026 2026
+1 the time of injury, but such compensation shall not be more than the
+2 maximum weekly income benefit specified in section 48-121.01 nor less
+3 than the minimum weekly income benefit specified in section 48-121.01 ,
+4 except that if at the time of injury the employee receives wages of less
+5 than the minimum weekly income benefit specified in section 48-121.01,
+6 then he or she shall receive the full amount of such wages per week as
+7 compensation. Nothing in this subdivision shall require payment of
+8 compensation after disability shall cease;
+9 (2) For disability partial in character, except the particular cases
+10 mentioned in subdivision (3) of this section, the compensation shall be
+11 seventy-five sixty-six and two-thirds percent of the difference between
+12 the wages received at the time of the injury and the earning power of the
+13 employee thereafter, but such compensation shall not be more than the
+14 maximum weekly income benefit specified in section 48-121.01. This
+15 compensation shall be paid during the period of such partial disability
+16 but not beyond five three hundred weeks. Should total disability be
+17 followed by partial disability, the period of five three hundred weeks
+18 mentioned in this subdivision shall be reduced by the number of weeks
+19 during which compensation was paid for such total disability;
+20 (3) For disability resulting from permanent injury of the classes
+21 listed in this subdivision, the compensation shall be in addition to the
+22 amount paid for temporary disability, except that the compensation for
+23 temporary disability shall cease as soon as the extent of the permanent
+24 disability is ascertainable. For disability resulting from permanent
+25 injury of the following classes, compensation shall be: For the loss of a
+26 thumb, seventy-five sixty-six and two-thirds percent of daily wages
+27 during sixty weeks. For the loss of a first finger, commonly called the
+28 index finger, seventy-five sixty-six and two-thirds percent of daily
+29 wages during thirty-five weeks. For the loss of a second finger, seventy-
+30 five sixty-six and two-thirds percent of daily wages during thirty weeks.
+31 For the loss of a third finger, seventy-five sixty-six and two-thirds
+-9-
+
+LB1056 LB1056
+2026 2026
+1 percent of daily wages during twenty weeks. For the loss of a fourth
+2 finger, commonly called the little finger, seventy-five sixty-six and
+3 two-thirds percent of daily wages during fifteen weeks. The loss of the
+4 first phalange of the thumb or of any finger shall be considered to be
+5 equal to the loss of one-half of such thumb or finger and compensation
+6 shall be for one-half of the periods of time above specified, and the
+7 compensation for the loss of one-half of the first phalange shall be for
+8 one-fourth of the periods of time above specified. The loss of more than
+9 one phalange shall be considered as the loss of the entire finger or
+10 thumb, except that in no case shall the amount received for more than one
+11 finger exceed the amount provided in this schedule for the loss of a
+12 hand. For the loss of a great toe, seventy-five sixty-six and two-thirds
+13 percent of daily wages during thirty weeks. For the loss of one of the
+14 toes other than the great toe, seventy-five sixty-six and two-thirds
+15 percent of daily wages during ten weeks. The loss of the first phalange
+16 of any toe shall be considered equal to the loss of one-half of such toe,
+17 and compensation shall be for one-half of the periods of time above
+18 specified. The loss of more than one phalange shall be considered as the
+19 loss of the entire toe. For the loss of a hand, seventy-five sixty-six
+20 and two-thirds percent of daily wages during one hundred seventy-five
+21 weeks. For the loss of an arm, seventy-five sixty-six and two-thirds
+22 percent of daily wages during two hundred twenty-five weeks. For the loss
+23 of a foot, seventy-five sixty-six and two-thirds percent of daily wages
+24 during one hundred fifty weeks. For the loss of a leg, seventy-five
+25 sixty-six and two-thirds percent of daily wages during two hundred
+26 fifteen weeks. For the loss of an eye, seventy-five sixty-six and two-
+27 thirds percent of daily wages during one hundred twenty-five weeks. For
+28 the loss of an ear, seventy-five sixty-six and two-thirds percent of
+29 daily wages during twenty-five weeks. For the loss of hearing in one ear,
+30 seventy-five sixty-six and two-thirds percent of daily wages during fifty
+31 weeks. For the loss of the nose, seventy-five sixty-six and two-thirds
+-10-
+
+LB1056 LB1056
+2026 2026
+1 percent of daily wages during fifty weeks.
+2 In any case in which there is a loss or loss of use of more than one
+3 member or parts of more than one member set forth in this subdivision,
+4 but not amounting to total and permanent disability, compensation
+5 benefits shall be paid for the loss or loss of use of each such member or
+6 part thereof, with the periods of benefits to run consecutively. The
+7 total loss or permanent total loss of use of both hands, or both arms, or
+8 both feet, or both legs, or both eyes, or hearing in both ears, or of any
+9 two thereof, in one accident, shall constitute total and permanent
+10 disability and be compensated for according to subdivision (1) of this
+11 section. In all other cases involving a loss or loss of use of both
+12 hands, both arms, both feet, both legs, both eyes, or hearing in both
+13 ears, or of any two thereof, total and permanent disability shall be
+14 determined in accordance with the facts. Amputation between the elbow and
+15 the wrist shall be considered as the equivalent of the loss of a hand,
+16 and amputation between the knee and the ankle shall be considered as the
+17 equivalent of the loss of a foot. Amputation at or above the elbow shall
+18 be considered as the loss of an arm, and amputation at or above the knee
+19 shall be considered as the loss of a leg. Permanent total loss of the use
+20 of a finger, hand, arm, foot, leg, or eye shall be considered as the
+21 equivalent of the loss of such finger, hand, arm, foot, leg, or eye. In
+22 all cases involving a permanent partial loss of the use or function of
+23 any of the members mentioned in this subdivision, the compensation shall
+24 bear such relation to the amounts named in such subdivision as the
+25 disabilities bear to those produced by the injuries named therein.
+26 If, in the compensation court's discretion, compensation benefits
+27 payable for a loss or loss of use of more than one hand, arm, foot, or
+28 leg, or any combination thereof, resulting from the same accident or
+29 illness, do not adequately compensate the employee for such loss or loss
+30 of use and such loss or loss of use results in at least a thirty percent
+31 loss of earning capacity, the compensation court shall, upon request of
+-11-
+
+LB1056 LB1056
+2026 2026
+1 the employee, determine the employee's loss of earning capacity
+2 consistent with the process for such determination under subdivision (1)
+3 or (2) of this section, and in such a case the employee shall not be
+4 entitled to compensation under this subdivision. Loss or loss of use of
+5 multiple parts of the same arm, including the hand and fingers, or loss
+6 or loss of use of multiple parts of the same leg, including the foot and
+7 toes, resulting from the same accident or illness shall not entitle the
+8 employee to compensation under subdivision (1) or (2) of this section.
+9 If the employer and the employee are unable to agree upon the amount
+10 of compensation to be paid in cases not covered by the schedule, the
+11 amount of compensation shall be settled according to sections 48-173 to
+12 48-185. Compensation under this subdivision shall not be more than the
+13 maximum weekly income benefit specified in section 48-121.01 nor less
+14 than the minimum weekly income benefit specified in section 48-121.01 ,
+15 except that if at the time of the injury the employee received wages of
+16 less than the minimum weekly income benefit specified in section
+17 48-121.01, then he or she shall receive the full amount of such wages per
+18 week as compensation;
+19 (4) For disability resulting from permanent disability, if
+20 immediately prior to the accident the rate of wages was fixed by the day
+21 or hour, or by the output of the employee, the weekly wages shall be
+22 taken to be computed upon the basis of a workweek of a minimum of five
+23 days, if the wages are paid by the day, or upon the basis of a workweek
+24 of a minimum of forty hours, if the wages are paid by the hour, or upon
+25 the basis of a workweek of a minimum of five days or forty hours,
+26 whichever results in the higher weekly wage, if the wages are based on
+27 the output of the employee; and
+28 (5) The employee shall be entitled to compensation from his or her
+29 employer for temporary disability while undergoing physical or medical
+30 rehabilitation and while undergoing vocational rehabilitation whether
+31 such vocational rehabilitation is voluntarily offered by the employer and
+-12-
+
+LB1056 LB1056
+2026 2026
+1 accepted by the employee or is ordered by the Nebraska Workers'
+2 Compensation Court or any judge of the compensation court; and .
+3 (6)(a) Beginning in 2027, weekly income benefits under this section
+4 lasting longer than twelve months shall be adjusted to account for
+5 increases in the cost of living.
+6 (b) For purposes of this subdivision, COLA percentage means the
+7 greater of:
+8 (i) One percent; or
+9 (ii) The percentage change, for the most recent twelve-month period
+10 for which information is available, in the Consumer Price Index for Urban
+11 Wage Earners and Clerical Workers, as prepared by the United States
+12 Department of Labor, Bureau of Labor Statistics.
+13 (c) On January 1, 2027, and on each January 1 thereafter, the
+14 Nebraska Workers' Compensation Court shall determine the COLA percentage
+15 that will apply for such calendar year.
+16 (d) If a person receives a weekly income benefit under this section
+17 that lasts longer than twelve months, the person's weekly income benefit
+18 shall be automatically adjusted at the end of each twelve-month period.
+19 The adjusted amount shall equal the then-current weekly income benefit
+20 amount multiplied by the COLA percentage in effect for that calendar
+21 year. The adjusted amount shall be computed to the next higher whole
+22 dollar amount. Such adjusted amount shall apply for the next twelve-month
+23 period.
+24 (e) The cost-of-living adjustment provided for in this subdivision
+25 shall not result in a weekly income benefit that is more than the maximum
+26 weekly income benefit specified in section 48-121.01 that is in effect at
+27 the time the adjustment is made.
+28 Sec. 3. Section 48-121.01, Reissue Revised Statutes of Nebraska, is
+29 amended to read:
+30 48-121.01 (1)(a)(i) Commencing July 1, 1991, the maximum weekly
+31 income benefit under sections 48-121 and 48-122 shall be two hundred
+-13-
+
+LB1056 LB1056
+2026 2026
+1 sixty-five dollars.
+2 (ii) Commencing June 1, 1994, the maximum weekly income benefit
+3 under sections 48-121 and 48-122 shall be three hundred ten dollars.
+4 (iii) Commencing January 1, 1995, the maximum weekly income benefit
+5 under sections 48-121 and 48-122 shall be three hundred fifty dollars.
+6 (1)(a) (b) Commencing January 1, 1996, and each January 1 thereafter
+7 until January 1, 2027, the maximum weekly income benefit under sections
+8 48-121 and 48-122 shall be one hundred percent, computed to the next
+9 higher whole dollar, of the state average weekly wage determined pursuant
+10 to section 48-121.02, except that for the purposes of calendar years
+11 commencing after 1996, the Governor may not later than November 15, 1996,
+12 and not later than each November 15 thereafter, conduct a public hearing
+13 after not less than thirty days' notice to consider whether he or she
+14 should issue an order to suspend the effectiveness of the change in the
+15 maximum weekly income benefit otherwise required by this subdivision for
+16 the ensuing calendar year.
+17 (b) Commencing January 1, 2027, and each January 1 thereafter, the
+18 maximum weekly income benefit under sections 48-121 and 48-122 shall be
+19 two hundred percent, computed to the next higher whole dollar, of the
+20 state average weekly wage determined pursuant to section 48-121.02,
+21 except that for the purposes of calendar years commencing after 2027, the
+22 Governor may not later than November 15, 2027, and not later than each
+23 November 15 thereafter, conduct a public hearing after not less than
+24 thirty days' notice to consider whether the Governor should issue an
+25 order to suspend the effectiveness of the change in the maximum weekly
+26 income benefit otherwise required by this subdivision for the ensuing
+27 calendar year.
+28 (c) In order to make his or her decision under subdivision (1)(a) or
+29 (b) of this section, the Governor shall consider such factors as recent
+30 trends in economic conditions in the state, general wage levels, workers'
+31 compensation benefit levels, and workers' compensation premium levels.
+-14-
+
+LB1056 LB1056
+2026 2026
+1 After such hearing but not later than November 30 immediately thereafter,
+2 the Governor may issue an order to suspend the effectiveness of the
+3 change in the maximum weekly income benefit otherwise required by this
+4 subdivision (1)(a) or (b) of this section for the ensuing calendar year.
+5 (2) The minimum weekly income benefit under sections 48-121 and
+6 48-122 shall be fifty percent, computed to the next higher whole dollar,
+7 of the state average weekly wage determined pursuant to section
+8 48-121.02, except that if at the time of injury an employee receives
+9 wages of less than such amount, the minimum weekly income benefit for
+10 such employee shall be the full amount of such wages per week forty-nine
+11 dollars.
+12 Sec. 4. Section 48-122, Reissue Revised Statutes of Nebraska, is
+13 amended to read:
+14 48-122 (1) If death results from injuries and the deceased employee
+15 leaves one or more dependents dependent upon his or her earnings for
+16 support at the time of injury, the compensation, subject to section
+17 48-123, shall be not more than the maximum weekly income benefit
+18 specified in section 48-121.01 nor less than the minimum weekly income
+19 benefit specified in section 48-121.01 , except that if at the time of
+20 injury the employee receives wages of less than the minimum weekly income
+21 benefit specified in section 48-121.01, then the compensation shall be
+22 the full amount of such wages per week, payable in the amount and to the
+23 persons enumerated in section 48-122.01 subject to the maximum limits
+24 specified in this section and section 48-122.03.
+25 (2) When death results from injuries suffered in employment, if
+26 immediately prior to the accident the rate of wages was fixed by the day
+27 or hour, or by the output of the employee, the weekly wages shall be
+28 taken to be computed upon the basis of a workweek of a minimum of five
+29 days, if the wages are paid by the day, or upon the basis of a workweek
+30 of a minimum of forty hours, if the wages are paid by the hour, or upon
+31 the basis of a workweek of a minimum of five days or forty hours,
+-15-
+
+LB1056 LB1056
+2026 2026
+1 whichever results in the higher weekly wage, if the wages are based on
+2 the output of the employee.
+3 (3) Upon the death of an employee, resulting through personal
+4 injuries as defined in section 48-151, whether or not there are
+5 dependents entitled to compensation, the reasonable expenses of burial,
+6 not exceeding eleven thousand dollars, without deduction of any amount
+7 previously paid or to be paid for compensation or for medical expenses,
+8 shall be paid to his or her dependents, or if there are no dependents,
+9 then to his or her personal representative. Beginning in 2023, the
+10 Nebraska Workers' Compensation Court shall annually adjust the dollar
+11 limitation in this subsection. The adjusted limitation shall be equal to
+12 the then current limitation adjusted by the greater of one percent or the
+13 percentage change, for the preceding year, in the Consumer Price Index
+14 for All Urban Consumers, as prepared by the United States Department of
+15 Labor, Bureau of Labor Statistics. Any adjustment shall be effective on
+16 July 1. The adjustment shall not exceed two and three-quarters percent
+17 per annum. If the amount so adjusted is not a multiple of one hundred
+18 dollars, the amount shall be rounded to the nearest multiple of one
+19 hundred dollars.
+20 (4) Compensation under the Nebraska Workers' Compensation Act to
+21 alien dependents who are not residents of the United States shall be the
+22 same in amount as is provided in each case for residents, except that at
+23 any time within one year after the death of the injured employee the
+24 employer may at his or her option commute all future installments of
+25 compensation to be paid to such alien dependents. The amount of the
+26 commuted payment shall be determined as provided in section 48-138.
+27 (5)(a)(i) Except as provided in subdivision (5)(a)(ii) of this
+28 section, the consular officer of the nation of which the employee, whose
+29 injury results in death, is a citizen shall be regarded as the sole legal
+30 representative of any alien dependents of the employee residing outside
+31 of the United States and representing the nationality of the employee.
+-16-
+
+LB1056 LB1056
+2026 2026
+1 (ii) At any time prior to the final settlement, a nonresident alien
+2 dependent may file with the Nebraska Workers' Compensation Court a power
+3 of attorney designating any suitable person residing in this state to act
+4 as attorney in fact in proceedings under the Nebraska Workers'
+5 Compensation Act. If the compensation court determines that the interests
+6 of the nonresident alien dependent will be better served by such person
+7 than by the consular officer, the compensation court shall appoint such
+8 person to act as attorney in fact in such proceedings. In making such
+9 determination the court shall consider, among other things, whether a
+10 consular officer's jurisdiction includes Nebraska and the responsiveness
+11 of the consular officer to attempts made by an attorney representing the
+12 employee to engage such consular officer in the proceedings.
+13 (b) Such consular officer or appointed person shall have in behalf
+14 of such nonresident alien dependents the exclusive right to institute
+15 proceedings for, adjust, and settle all claims for compensation provided
+16 by the Nebraska Workers' Compensation Act and to receive the distribution
+17 to such nonresident alien dependents of all compensation arising
+18 thereunder.
+19 (c) A person appointed under subdivision (5)(a)(ii) of this section
+20 shall furnish a bond satisfactory to the compensation court conditioned
+21 upon the proper application of any money received as compensation under
+22 the Nebraska Workers' Compensation Act. Before the bond is discharged,
+23 such appointed person shall file with the compensation court a verified
+24 account of receipts and disbursements of such money.
+25 (d) For purposes of this section, consular officer means a consul
+26 general, vice consul general, or vice consul or the representative of any
+27 such official residing within the State of Nebraska.
+28 (6) The changes made to this section by Laws 2019, LB418, apply to
+29 cases under the Nebraska Workers' Compensation Act that are pending on
+30 September 1, 2019, and to cases filed on or after such date.
+31 Sec. 5. Section 48-122.01, Reissue Revised Statutes of Nebraska, is
+-17-
+
+LB1056 LB1056
+2026 2026
+1 amended to read:
+2 48-122.01 (1) Compensation under section 48-122 shall be payable in
+3 the amount and to the following persons subject to the maximum limits
+4 specified in sections 48-122 and 48-122.03:
+5 (a) (1) If there is a widow or widower and no children of the
+6 deceased, as defined in section 48-124, to such widow or widower,
+7 seventy-five sixty-six and two-thirds percent of the average weekly wage
+8 of the deceased, during widowhood or widowerhood;
+9 (b) (2) To the widow or widower, if there is a child or children
+10 living with the widow or widower, sixty-nine sixty percent of the average
+11 weekly wage of the deceased, or sixty fifty-five percent, if such child
+12 is not or such children are not living with a widow or widower, and, in
+13 addition thereto, twenty-four fifteen percent for each child. When there
+14 are two or more such children, the indemnity benefits payable on account
+15 of such children shall be divided among such children, share and share
+16 alike;
+17 (c) (3) Two years' indemnity benefits in one lump sum shall be
+18 payable to a widow or widower upon remarriage;
+19 (d) (4) To the children, if there is no widow or widower, seventy-
+20 five sixty-six and two-thirds percent of such wage for one child, and an
+21 additional twenty-four fifteen percent for two or more children each
+22 additional child, divided among such children, share and share alike;
+23 (e) (5) The income benefits payable on account of any child under
+24 this section shall cease when he or she dies, marries, or reaches the age
+25 of nineteen, or when a child over such age ceases to be physically or
+26 mentally incapable of self-support, or if actually dependent ceases to be
+27 actually dependent, or, if enrolled as a full-time student in any
+28 accredited educational institution, ceases to be so enrolled or reaches
+29 the age of twenty-five. A child who originally qualified as a dependent
+30 by virtue of being less than nineteen years of age may, upon reaching age
+31 nineteen, continue to qualify if he or she satisfies the tests of being
+-18-
+
+LB1056 LB1056
+2026 2026
+1 physically or mentally incapable of self-support, actual dependency, or
+2 enrollment in an educational institution;
+3 (f) (6) To each parent, if actually dependent, thirty-four twenty-
+4 five percent;
+5 (g) (7) To the brothers, sisters, grandparents, and grandchildren,
+6 if actually dependent, thirty-four twenty-five percent to each such
+7 dependent. If there should be more than one of such dependents, the total
+8 income benefits payable on account of such dependents shall be divided
+9 share and share alike;
+10 (h) (8) The income benefits of each beneficiary under subdivisions
+11 (1)(f) and (g) (6) and (7) of this section shall be paid until he or she,
+12 if a parent or grandparent, dies, marries, or ceases to be actually
+13 dependent, or, if a brother, sister, or grandchild, dies, marries, or
+14 reaches the age of nineteen or if over that age ceases to be physically
+15 or mentally incapable of self-support, or ceases to be actually
+16 dependent; and
+17 (i) (9) A person ceases to be actually dependent when his or her
+18 income from all sources exclusive of workers' compensation income
+19 benefits is such that, if it had existed at the time as of which the
+20 original determination of actual dependency was made, it would not have
+21 supported a finding of dependency. In any event, if the present annual
+22 income of an actual dependent person including workers' compensation
+23 income benefits at any time exceeds the total annual support received by
+24 the person from the deceased employee, the workers' compensation benefits
+25 shall be reduced so that the total annual income is no greater than such
+26 amount of annual support received from the deceased employee. In all
+27 cases, a person found to be actually dependent shall be presumed to be no
+28 longer actually dependent three years after each time as of which the
+29 person was found to be actually dependent. This presumption may be
+30 overcome by proof of continued actual dependency as defined in this
+31 subdivision and section 48-124; and .
+-19-
+
+LB1056 LB1056
+2026 2026
+1 (j) If there is no spouse, child, or other dependent entitled to
+2 benefits under this section, twenty-five thousand dollars to the personal
+3 representative of the estate of the deceased.
+4 (2)(a) Beginning in 2027, weekly income benefits under this section
+5 lasting longer than twelve months shall be adjusted to account for
+6 increases in the cost of living.
+7 (b) For purposes of this subsection, COLA percentage means the
+8 greater of:
+9 (i) One percent; or
+10 (ii) The percentage change, for the most recent twelve-month period
+11 for which information is available, in the Consumer Price Index for Urban
+12 Wage Earners and Clerical Workers, as prepared by the United States
+13 Department of Labor, Bureau of Labor Statistics.
+14 (c) On January 1, 2027, and on each January 1 thereafter, the
+15 Nebraska Workers' Compensation Court shall determine the COLA percentage
+16 that will apply for such calendar year.
+17 (d) If a person receives a weekly income benefit under this section
+18 that lasts longer than twelve months, the person's weekly income benefit
+19 shall be automatically adjusted at the end of each twelve-month period.
+20 The adjusted amount shall equal the then-current weekly income benefit
+21 amount multiplied by the COLA percentage in effect for that calendar
+22 year. The adjusted amount shall be computed to the next higher whole
+23 dollar amount. Such adjusted amount shall apply for the next twelve-month
+24 period.
+25 (e) The cost-of-living adjustment provided for in this subsection
+26 shall not result in a weekly income benefit that is more than the maximum
+27 weekly income benefit specified in section 48-122 that is in effect at
+28 the time the adjustment is made.
+29 (f) The maximum limitation in section 48-122.03 shall not limit
+30 increases in the weekly income benefit resulting from the cost-of-living
+31 adjustment provided for in this subsection.
+-20-
+
+LB1056 LB1056
+2026 2026
+1 Sec. 6. Section 48-122.03, Reissue Revised Statutes of Nebraska, is
+2 amended to read:
+3 48-122.03 (1) The maximum weekly income benefits payable for all
+4 beneficiaries in case of death shall not exceed two hundred seventy-five
+5 percent of the average weekly wage of the deceased, subject to the
+6 maximum limits in section 48-122. The maximum aggregate limitation shall
+7 not operate in case of payment of two years' income benefits to the widow
+8 or widower upon remarriage, as provided under subdivision (1)(c) (3) of
+9 section 48-122.01, to prevent the immediate recalculation and payments of
+10 benefits to the remaining beneficiaries as provided under section
+11 48-122.02. The classes of beneficiaries specified in subdivisions (1)(a),
+12 (b), and (d) (1), (2), and (4) of section 48-122.01 shall have priority
+13 over all other beneficiaries in the apportionment of income benefits.
+14 (2)(a) If there is a widow or widower and a child or children and
+15 the maximums specified in section 48-122 and this section prevent full
+16 payment under either maximum, the compensation shall be apportioned
+17 between the widow or widower and the child or children on a pro rata
+18 basis.
+19 (b) If there is more than one child living with the widow or widower
+20 and no child or children living separately, the apportionment shall be on
+21 the pro rata basis of one hundred sixty percent to the widow or widower
+22 and forty fifteen percent divided among the children.
+23 (c) If there is more than one child not living with the widow or
+24 widower and no child or children living with her or him, the
+25 apportionment shall be on the pro rata basis of one hundred forty-six
+26 fifty-five percent to the widow or widower and fifty-four twenty percent
+27 divided among the children.
+28 (d) If one or more children are living with and one or more children
+29 are not living with her or him, the apportionment shall be on the pro
+30 rata basis of one hundred forty-six fifty-five percent to the widow or
+31 widower and fifty-four twenty percent divided among the children.
+-21-
+
+LB1056 LB1056
+2026 2026
+1 (3) If the provisions of this section should prevent payment to
+2 other beneficiaries of the income benefits to the full extent otherwise
+3 provided for, the gross remaining amount of income benefits payable to
+4 such other beneficiaries shall be apportioned by class, proportionate to
+5 the interest of each class in the remaining amount. Parents shall be
+6 considered to be in one class and those specified in subdivision (1)(g)
+7 (7) of section 48-122.01 in another class.
+8 Sec. 7. Section 48-126, Reissue Revised Statutes of Nebraska, is
+9 amended to read:
+10 48-126 (1) Wherever in the Nebraska Workers' Compensation Act the
+11 term wages is used, it shall be construed to mean the money rate at which
+12 the service rendered is recompensed under the contract of hiring in force
+13 at the time of the accident.
+14 (2) Wages It shall not include gratuities received from the employer
+15 or others, nor shall it include board, lodging, or similar advantages
+16 received from the employer, unless the money value of such advantages
+17 shall have been fixed by the parties at the time of hiring, except that
+18 if the workers' compensation insurer shall have collected a premium based
+19 upon the value of such board, lodging, and similar advantages, then the
+20 value thereof shall become a part of the basis of determining
+21 compensation benefits.
+22 (3) In occupations involving seasonal employment or employment
+23 dependent upon the weather, the employee's weekly wages shall be taken to
+24 be one-fiftieth of the total wages which he or she has earned from all
+25 occupations during the year immediately preceding the accident, unless it
+26 be shown that during such year, by reason of exceptional causes, such
+27 method of computation does not fairly represent the earnings of the
+28 employee. In such a case, the period for calculation shall be extended so
+29 far as to give a basis for the fair ascertainment of his or her average
+30 weekly earnings.
+31 (4) In continuous employments, if immediately prior to the accident
+-22-
+
+LB1056 LB1056
+2026 2026
+1 the rate of wages was fixed by the day or hour or by the output of the
+2 employee, his or her weekly wages shall be taken to be his or her average
+3 weekly income for the period of time ordinarily constituting his or her
+4 week's work, and using as the basis of calculation his or her earnings
+5 during as much of the preceding six months as he or she worked for the
+6 same employer, except as provided in sections 48-121 and 48-122. The
+7 calculation shall also include be made with reference to the average
+8 earnings for a working day of ordinary length and exclusive of earnings
+9 from overtime , except that if the insurance company's policy of
+10 insurance provides for the collection of a premium based upon such
+11 overtime, then such overtime shall become a part of the basis of
+12 determining compensation benefits.
+13 Sec. 8. Section 48-134, Reissue Revised Statutes of Nebraska, is
+14 amended to read:
+15 48-134 (1) After an employee has given notice of an injury, as
+16 provided in section 48-133, and from time to time thereafter during the
+17 continuance of his or her disability, he or she shall, if so requested by
+18 the employer or the insurance company carrying such risk, submit himself
+19 or herself to an examination by a physician or surgeon legally authorized
+20 to practice medicine under the laws of the state in which he or she
+21 practices, furnished and paid for by the employer, or the insurance
+22 company carrying such risk, as the case may be. The employee shall have
+23 the right to have a physician provided and paid for by himself or herself
+24 present at the examination. The unreasonable refusal of the employee to
+25 submit to such examination shall deprive him or her of the right to
+26 compensation under the Nebraska Workers' Compensation Act during the
+27 continuance of such refusal, and the period of such refusal shall be
+28 deducted from the period during which compensation would otherwise be
+29 payable.
+30 (2) If the employee cannot readily understand or communicate in
+31 English or another language spoken by the examining physician or surgeon,
+-23-
+
+LB1056 LB1056
+2026 2026
+1 the employer shall permit an interpreter to be present at the
+2 examination. The employer shall be liable for all reasonable costs of
+3 interpretation services related to such examination. The interpreter
+4 shall be selected by the employee or the employee's representative from
+5 the interpreter register created in Rule 6-702 of the Nebraska Supreme
+6 Court Rules.
+7 Sec. 9. Section 48-134.01, Reissue Revised Statutes of Nebraska, is
+8 amended to read:
+9 48-134.01 (1) The Nebraska Workers' Compensation Court may develop
+10 and implement an independent medical examiner system consistent with the
+11 requirements of this section. As part of such system, the compensation
+12 court by a majority vote of the judges thereof may create, maintain, and
+13 periodically validate a list of physicians that it finds to be the most
+14 qualified and to be highly experienced and competent in their specific
+15 fields of expertise and in the treatment of work-related injuries to
+16 serve as independent medical examiners from each of the health care
+17 specialties that the compensation court finds most commonly used by
+18 injured employees. The compensation court may establish a fee schedule
+19 for services rendered by independent medical examiners and may adopt and
+20 promulgate any rules and regulations considered necessary to carry out
+21 the purposes of this section.
+22 (2) An independent medical examiner shall render medical findings on
+23 the medical condition of an employee and related issues as specified
+24 under this section. The independent medical examiner shall not be the
+25 employee's treating physician and shall not have treated the employee
+26 with respect to the injury for which the claim is being made or the
+27 benefits are being paid.
+28 (3) If the parties to a dispute cannot agree on an independent
+29 medical examiner of their own choosing, the compensation court shall
+30 assign an independent medical examiner from the list of qualified
+31 examiners to render medical findings in any dispute relating to the
+-24-
+
+LB1056 LB1056
+2026 2026
+1 medical condition of a claimant and related issues, including, but not
+2 limited to, whether the injured employee is able to perform any gainful
+3 employment temporarily or permanently, what physical restrictions, if
+4 any, would be imposed on the employee's employment, whether the injured
+5 employee has reached maximum medical improvement, the existence and
+6 extent of any permanent physical impairment, the reasonableness and
+7 necessity of any medical treatment previously provided, or to be
+8 provided, to the injured employee, and any other medical questions which
+9 may pertain to causality and relatedness of the medical condition to the
+10 employment.
+11 (4) The compensation court may adopt and promulgate rules and
+12 regulations pertaining to the procedures before the independent medical
+13 examiner, including the parties' ability to propound questions relating
+14 to the medical condition of the employee and related issues to be
+15 submitted to the independent medical examiner. In addition to the review
+16 of records and information, the independent medical examiner may examine
+17 the employee as often as the examiner determines necessary to render
+18 medical findings on the questions propounded by the parties or by the
+19 compensation court.
+20 (5) If the employee cannot readily understand or communicate in
+21 English or another language spoken by the independent medical examiner,
+22 then an interpreter shall be present during any examination. The employer
+23 shall be liable for all reasonable costs of interpretation services
+24 related to any independent medical examination. The interpreter shall be
+25 selected by the employee or the employee's representative from the
+26 interpreter register created in Rule 6-702 of the Nebraska Supreme Court
+27 Rules.
+28 (6) (5) The independent medical examiner shall submit a written
+29 report to the compensation court, the employer, and the employee stating
+30 the examiner's medical findings on the issues raised and providing a
+31 description of findings sufficient to explain the basis of those
+-25-
+
+LB1056 LB1056
+2026 2026
+1 findings. The fee for the examination and report shall be paid by the
+2 employer.
+3 (7) (6) The written report of the independent medical examiner's
+4 findings shall be admissible in a proceeding before the compensation
+5 court and may be received into evidence by the compensation court on its
+6 own motion.
+7 (8) (7) Any physician acting without malice and within the scope of
+8 the physician's duties as an independent medical examiner shall be immune
+9 from civil liability for making any report or other information available
+10 to the compensation court or for assisting in the origination,
+11 investigation, or preparation of the report or other information so
+12 provided.
+13 Sec. 10. Original sections 48-120, 48-121.01, 48-122, 48-122.01,
+14 48-122.03, 48-126, 48-134, and 48-134.01, Reissue Revised Statutes of
+15 Nebraska, and section 48-121, Revised Statutes Cumulative Supplement,
+16 2024, are repealed.
+-26-

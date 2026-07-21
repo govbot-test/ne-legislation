@@ -1,0 +1,283 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LB731 LB731
+2026 2026
+LEGISLATURE OF NEBRASKA
+ONE HUNDRED NINTH LEGISLATURE
+SECOND SESSION
+LEGISLATIVE BILL 731
+Introduced by Kauth, 31.
+Read first time January 07, 2026
+Committee: Judiciary
+1 A BILL FOR AN ACT relating to public health and welfare; to amend section
+2 25-222, Reissue Revised Statutes of Nebraska, and section 71-7307,
+3 Revised Statutes Cumulative Supplement, 2024; to adopt the Gender
+4 Transition Malpractice Accountability Act; to require insurance
+5 coverage for certain treatments and procedures arising as a result
+6 of a gender-altering procedure as prescribed; to provide an
+7 exemption to the time limitation to commence certain actions
+8 relating to professional negligence; to change provisions relating
+9 to civil actions under the Let Them Grow Act; to provide an
+10 operative date; to provide severability; and to repeal the original
+11 sections.
+12 Be it enacted by the people of the State of Nebraska,
+-1-
+
+LB731 LB731
+2026 2026
+1 Section 1. Sections 1 to 6 of this act shall be known and may be
+2 cited as the Gender Transition Malpractice Accountability Act.
+3 Sec. 2. The Legislature finds that:
+4 (1) Individuals subjected to gender transition procedures,
+5 especially as minors, may not recognize the full extent of physical,
+6 psychological, or reproductive harm until well into adulthood;
+7 (2) Standard medical malpractice statutes of limitations often
+8 expire before such individuals can reasonably discover injury or
+9 causation; and
+10 (3) Extending the statute of limitations and creating a private
+11 right of action for such individuals protects patients, promotes
+12 accountability, and upholds the integrity of medical practice.
+13 Sec. 3. For purposes of the Gender Transition Malpractice
+14 Accountability Act:
+15 (1) Cross-sex hormones means testosterone or other androgens given
+16 to biological females in amounts that are larger or more potent than
+17 would normally occur naturally in healthy females and estrogen given to
+18 males in amounts that are larger or more potent than would normally occur
+19 naturally in healthy males;
+20 (2) Female has the same meaning as in section 79-3803;
+21 (3) Gender means the psychological, behavioral, social, and cultural
+22 aspects of being male or female;
+23 (4) Gender alteration means the process in which a person goes from
+24 identifying with and living as a gender that corresponds to his or her
+25 sex to identifying with and living as a gender different from his or her
+26 sex, such as a member of the opposite sex or as nonbinary, and may
+27 involve social, legal, or physical changes;
+28 (5)(a) Gender-altering procedures includes any medical or surgical
+29 service, including without limitation physician's services, inpatient and
+30 outpatient hospital services, or prescribed drugs related to gender
+31 alteration, that seeks to:
+-2-
+
+LB731 LB731
+2026 2026
+1 (i) Alter or remove physical or anatomical characteristics or
+2 features that are typical for the individual's sex; or
+3 (ii) Instill or create physiological or anatomical characteristics
+4 that resemble a sex different from the individual's sex, including
+5 without limitation medical services that provide puberty-blocking drugs,
+6 cross-sex hormones, or other mechanisms to promote the development of
+7 feminizing or masculinizing features in the opposite sex, or genital or
+8 nongenital gender-altering surgery performed for the purpose of assisting
+9 an individual with a gender alteration.
+10 (b) Gender-altering procedures does not include:
+11 (i) Services to persons born with a medically verifiable disorder of
+12 sex development, including a person with external sex characteristics
+13 that are irresolvably ambiguous, such as those born with 46 XX
+14 chromosomes with virilization, 46 XY chromosomes with undervirilization,
+15 or both ovarian and testicular tissue;
+16 (ii) Services provided when a physician has otherwise diagnosed a
+17 disorder of sexual development that the physician has determined, through
+18 genetic or biochemical testing, that the person does not have normal sex-
+19 chromosome structure, sex-steroid production, or sex-steroid hormone
+20 action;
+21 (iii) The acute and chronic treatment of any infection, injury,
+22 disease, or disorder that has been caused by or exacerbated by the
+23 performance of a gender-altering procedure, whether or not the gender-
+24 altering procedure was performed in accordance with state and federal
+25 law; or
+26 (iv) Any procedure undertaken because the individual suffers from a
+27 physical disorder, physical injury, or physical illness that would, as
+28 certified by the physician, place the individual in imminent danger of
+29 death or impairment of major bodily function unless surgery is performed;
+30 (6) Gender-altering surgery means any medical or surgical service
+31 that seeks to surgically alter or remove healthy physical or anatomical
+-3-
+
+LB731 LB731
+2026 2026
+1 characteristics or features that are typical for the individual's sex in
+2 order to instill or create physiological or anatomical characteristics
+3 that resemble a sex different from the individual's sex, including
+4 without limitation, genital or nongenital gender-altering surgery
+5 performed for the purpose of assisting an individual with a gender
+6 alteration;
+7 (7) Genital gender-altering surgery means a medical procedure
+8 performed for the purpose of assisting an individual with a gender
+9 alteration, including without limitation:
+10 (a) Surgical procedures such as penectomy, orchiectomy,
+11 vaginoplasty, clitoroplasty, or vulvoplasty for male patients or
+12 hysterectomy or ovariectomy for female patients;
+13 (b) Reconstruction of the fixed part of the urethra with or without
+14 a metoidioplasty; or
+15 (c) Phalloplasty, vaginectomy, scrotoplasty, or implantation of
+16 erection or testicular prostheses for female patients;
+17 (8) Male has the same meaning as in section 79-3803;
+18 (9) Nongenital gender-altering surgery means medical procedures
+19 performed for the purpose of assisting an individual with a gender
+20 alteration, including without limitation:
+21 (a) Surgical procedures for male patients, such as voice surgery or
+22 thyroid cartilage reduction; or
+23 (b) Surgical procedures for female patients, such as subcutaneous
+24 mastectomy or voice surgery;
+25 (10) Provider means any physician, mental health professional,
+26 clinic, hospital, or other entity involved in recommending, approving, or
+27 providing a gender-altering procedure;
+28 (11) Puberty-blocking drugs means gonadotropin-releasing hormone
+29 analogues or other synthetic drugs used in biological males to stop
+30 luteinizing hormone secretion and therefore testosterone secretion, or
+31 synthetic drugs used in females which stop the production of estrogens
+-4-
+
+LB731 LB731
+2026 2026
+1 and progesterone, when used to delay or suppress pubertal development in
+2 children for the purpose of assisting an individual with a gender
+3 alteration; and
+4 (12) Sex means an individual's sex, either male or female, without
+5 reference to the individual's psychological state, behavior, expression,
+6 or personal identity.
+7 Sec. 4. (1) An action for injury or damages arising out of the
+8 recommendation, approval, or provision of a gender-altering procedure can
+9 only be brought against a provider within twelve years after the later of
+10 the date of such provider's recommendation, approval, or procedure.
+11 (2) Sovereign immunity is waived for any claim brought for injury or
+12 damages arising out of the recommendation, approval, or provision of a
+13 gender-altering procedure.
+14 (3) A provider shall not seek a contractual waiver of the liability
+15 arising out of the performance of or failure to perform services while in
+16 the course of facilitating or perpetuating a gender-altering procedure.
+17 Any attempted waiver is contrary to the public policy of this state and
+18 is null and void.
+19 Sec. 5. Any person entitled to bring an action under the Gender
+20 Transition Malpractice Accountability Act may recover actual damages and
+21 reasonable attorney's fees. Actual damages shall include, without
+22 limitation, damages for physical injury, pain and suffering, emotional
+23 distress, loss of fertility, diminished capacity for sexual relations,
+24 loss of income, and other economic and noneconomic losses.
+25 Sec. 6. (1) A provider who performs or prescribes any gender-
+26 altering procedure shall, prior to initiating the procedure, provide the
+27 patient, and the patient's parent or legal guardian if the patient is
+28 younger than nineteen years of age, with a written disclosure of:
+29 (a) All known physical and psychological risks associated with the
+30 gender-altering procedure;
+31 (b) If applicable, the lack of conclusive long-term data on safety
+-5-
+
+LB731 LB731
+2026 2026
+1 and efficacy of the gender-altering procedure; and
+2 (c) The potential for regret and need for future medical
+3 interventions.
+4 (2) Such disclosure shall be signed by the provider, the patient,
+5 and, as appropriate, at least one parent or legal guardian. The provider
+6 shall maintain a copy of such disclosure in the medical record for such
+7 patient.
+8 (3) Nothing in this section shall authorize a provider to perform or
+9 prescribe any gender-altering procedure on a patient who is younger than
+10 nineteen years of age in violation of any state law, the Let Them Grow
+11 Act, or any rules and regulations adopted and promulgated under the Let
+12 Them Grow Act.
+13 Sec. 7. (1) For purposes of this section:
+14 (a) Cross-sex hormones has the same meaning as in section 3 of this
+15 act;
+16 (b) Female has the same meaning as in section 79-3803;
+17 (c) Gender has the same meaning as in section 3 of this act;
+18 (d) Gender alteration has the same meaning as in section 3 of this
+19 act;
+20 (e) Gender-altering procedure has the same meaning as in section 3
+21 of this act;
+22 (f) Gender-altering surgery has the same meaning as in section 3 of
+23 this act;
+24 (g) Genital gender-altering surgery has the same meaning as in
+25 section 3 of this act;
+26 (h) Health insurance policy means (i) any individual or group
+27 sickness and accident insurance policy or subscriber contract delivered,
+28 issued for delivery, or renewed in this state and any hospital, medical,
+29 or surgical expense-incurred policy, except for policies that provide
+30 coverage for a specific disease or other limited-benefit coverage, and
+31 (ii) any self-funded employee benefit plan to the extent not preempted by
+-6-
+
+LB731 LB731
+2026 2026
+1 federal law;
+2 (i) Male has the same meaning as in section 79-3803;
+3 (j) Nongenital gender-altering surgery has the same meaning as in
+4 section 3 of this act;
+5 (k) Puberty-blocking drugs has the same meaning as in section 3 of
+6 this act; and
+7 (l) Sex means an individual's sex, either male or female without
+8 reference to the individual's psychological state, behavior, expression,
+9 or personal identity.
+10 (2) This section applies beginning January 1, 2027.
+11 (3) Notwithstanding section 44-3,131, any health insurance policy
+12 which provides coverage or has ever provided coverage for a covered
+13 individual's gender-altering procedure shall:
+14 (a) Provide coverage, including for any applicable diagnostic or
+15 billing code, for:
+16 (i) All possible adverse consequences related to the covered
+17 individual's gender-altering procedure, including any short-term or long-
+18 term side effects of the procedure;
+19 (ii) Any baseline and follow-up testing or screening necessary to
+20 monitor the mental and physical health of the covered individual on at
+21 least an annual basis without regard to the sex or gender identity
+22 designation in the covered individual's medical record; and
+23 (iii) Any procedure, treatment, or therapy necessary to manage,
+24 reverse, reconstruct from, or recover from the covered individual's
+25 gender-altering procedure; and
+26 (b) Provide the coverage described in this subsection to any covered
+27 individual who has undergone a gender-altering procedure regardless of
+28 whether the covered individual was enrolled in the plan or policy at the
+29 time of the procedure.
+30 Sec. 8. Section 25-222, Reissue Revised Statutes of Nebraska, is
+31 amended to read:
+-7-
+
+LB731 LB731
+2026 2026
+1 25-222 Any action to recover damages based on alleged professional
+2 negligence or upon alleged breach of warranty in rendering or failure to
+3 render professional services shall be commenced within two years next
+4 after the alleged act or omission in rendering or failure to render
+5 professional services providing the basis for such action; Provided, if
+6 the cause of action is not discovered and could not be reasonably
+7 discovered within such two-year period, then the action may be commenced
+8 within one year from the date of such discovery or from the date of
+9 discovery of facts which would reasonably lead to such discovery,
+10 whichever is earlier; and provided further, that in no event may any
+11 action be commenced to recover damages for professional negligence or
+12 breach of warranty in rendering or failure to render professional
+13 services more than ten years after the date of rendering or failure to
+14 render such professional service which provides the basis for the cause
+15 of action.
+16 This section does not apply to claims brought pursuant to the Gender
+17 Transition Malpractice Accountability Act.
+18 Sec. 9. Section 71-7307, Revised Statutes Cumulative Supplement,
+19 2024, is amended to read:
+20 71-7307 An individual that received a gender-altering procedure in
+21 violation of section 71-7304 after October 1, 2023, and while such
+22 individual was younger than nineteen years of age, or the parent or
+23 guardian of such an individual, may bring a civil action for appropriate
+24 relief against the health care practitioner who performed the gender-
+25 altering procedure. Appropriate relief in an action under this section
+26 includes actual damages and reasonable attorney's fees. An action under
+27 this section shall be brought within the time an action must be brought
+28 pursuant to section 4 of this act two years after discovery of damages.
+29 Sec. 10. This act becomes operative on January 1, 2027.
+30 Sec. 11. If any section in this act or any part of any section is
+31 declared invalid or unconstitutional, the declaration shall not affect
+-8-
+
+LB731 LB731
+2026 2026
+1 the validity or constitutionality of the remaining portions.
+2 Sec. 12. Original section 25-222, Reissue Revised Statutes of
+3 Nebraska, and section 71-7307, Revised Statutes Cumulative Supplement,
+4 2024, are repealed.
+-9-

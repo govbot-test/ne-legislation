@@ -1,0 +1,375 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LB859 LB859
+2026 2026
+LEGISLATURE OF NEBRASKA
+ONE HUNDRED NINTH LEGISLATURE
+SECOND SESSION
+LEGISLATIVE BILL 859
+Introduced by Bostar, 29.
+Read first time January 08, 2026
+Committee: Judiciary
+1 A BILL FOR AN ACT relating to courts; to amend sections 29-3901, 29-3904,
+2 29-3905, 29-3918, 43-273, 71-946, 71-947, and 71-948, Reissue
+3 Revised Statutes of Nebraska, and sections 29-3903, 29-3922, and
+4 43-272, Revised Statutes Cumulative Supplement, 2024; to require
+5 courts to appoint county conflict counsel when the public defender
+6 is unavailable as prescribed; to define terms; to change provisions
+7 relating to allowance of fees for counsel; to harmonize provisions;
+8 and to repeal the original sections.
+9 Be it enacted by the people of the State of Nebraska,
+-1-
+
+LB859 LB859
+2026 2026
+1 Section 1. (1) For purposes of this section, county conflict
+2 counsel means an attorney licensed to practice law in this state who is
+3 employed by the county or has a contract with the county to provide legal
+4 representation to clients who would normally be represented by the public
+5 defender, but for whom the public defender is unable to provide such
+6 representation due to conflicting interests or due to other good cause as
+7 determined by the court.
+8 (2) In any county with a public defender, the county may employ or
+9 contract for one or more county conflict counsel. When a county first
+10 employs or contracts for county conflict counsel, the county board shall
+11 immediately provide written notice of such employment or contract to:
+12 (a) Each presiding judge of the county court and district court of
+13 such county;
+14 (b) Each presiding judge of any separate juvenile court of such
+15 county;
+16 (c) Each child support referee appointed in such county; and
+17 (d) The clerk of the district court on behalf of the mental health
+18 board with jurisdiction within such county.
+19 (3) It shall be the duty of county conflict counsel to provide
+20 representation to indigent individuals in the same manner as the public
+21 defender.
+22 (4) In a county with a population of more than one hundred seventy
+23 thousand inhabitants, any county conflict counsel shall devote his or her
+24 full time to the legal work of representing indigent individuals as
+25 provided in this section and shall not engage in the private practice of
+26 law.
+27 (5) No county conflict counsel shall solicit or accept any fee,
+28 other than compensation from the county, for representing an indigent
+29 individual that such counsel has been appointed to represent.
+30 Sec. 2. Section 29-3901, Reissue Revised Statutes of Nebraska, is
+31 amended to read:
+-2-
+
+LB859 LB859
+2026 2026
+1 29-3901 For purposes of sections 29-3901 to 29-3908:
+2 (1) County conflict counsel has the same meaning as in section 1 of
+3 this act;
+4 (2) (1) Court means shall mean a district court or a county court;
+5 (3) (2) Felony defendant means shall mean a person who is charged by
+6 complaint, information, or indictment with or who is under arrest for
+7 investigation or on suspicion that he or she may have committed any
+8 criminal offense which may be punishable by imprisonment in a Department
+9 of Correctional Services adult correctional facility;
+10 (4) (3) Indigent means shall mean the inability to retain legal
+11 counsel without prejudicing one's financial ability to provide economic
+12 necessities for one's self or one's family. Before a felony defendant's
+13 initial court appearance, the determination of his or her indigency shall
+14 be made by the public defender, but thereafter it shall be made by the
+15 court; and
+16 (5) (4) Judge means shall mean a judge of the district court, a
+17 judge of the county court, or a clerk magistrate.
+18 Sec. 3. Section 29-3903, Revised Statutes Cumulative Supplement,
+19 2024, is amended to read:
+20 29-3903 (1) At a felony defendant's first appearance before a judge,
+21 the judge shall advise him or her of the right to court-appointed counsel
+22 if such person is indigent. If he or she asserts indigency, the court
+23 shall make a reasonable inquiry to determine such person's financial
+24 condition and shall require him or her to execute an affidavit of
+25 indigency for filing with the clerk of the court.
+26 (2) If the court determines the defendant to be indigent, it shall
+27 formally appoint the public defender or, in counties not having a public
+28 defender, an attorney or attorneys licensed to practice law in this
+29 state, not exceeding two, to represent the indigent felony defendant at
+30 all future critical stages of the criminal proceedings against such
+31 defendant, consistent with the provisions of section 23-3402. Appointed ,
+-3-
+
+LB859 LB859
+2026 2026
+1 but appointed counsel other than the public defender or county conflict
+2 counsel must obtain leave of court before being authorized to proceed
+3 beyond an initial direct appeal to either the Court of Appeals or the
+4 Supreme Court of Nebraska to any further direct, collateral, or
+5 postconviction appeals to state or federal courts.
+6 (3) A felony defendant who is not indigent at the time of his or her
+7 first appearance before a judge may nevertheless assert his or her
+8 indigency at any subsequent stage of felony proceedings, at which time
+9 the judge shall consider appointing counsel as otherwise provided in this
+10 section.
+11 (4) The judge, upon filing such order for appointment, shall note
+12 all appearances of appointed counsel upon the record. If at the time of
+13 appointment of counsel the indigent felony defendant and appointed
+14 counsel have not had a reasonable opportunity to consult concerning the
+15 prosecution, the judge shall continue the arraignment, trial, or other
+16 next stage of the felony proceedings for a reasonable period of time to
+17 allow for such consultation.
+18 Sec. 4. Section 29-3904, Reissue Revised Statutes of Nebraska, is
+19 amended to read:
+20 29-3904 (1) Nothing in sections 23-3402, 29-3902, and 29-3903 shall
+21 prevent any judge from:
+22 (a) Appointing appointing counsel other than the public defender,
+23 county conflict counsel, or other substitute counsel when the public
+24 defender, county conflict counsel, or counsel initially appointed might
+25 otherwise be required to represent conflicting interests or for other
+26 good cause shown; ,
+27 (b) Not from not appointing any counsel for any indigent felony
+28 defendant who expressly waives his or her right to such counsel at any
+29 stage of felony proceedings; , or
+30 (c) Appointing from appointing the public defender, county conflict
+31 counsel, or other counsel as may be required or permitted by other
+-4-
+
+LB859 LB859
+2026 2026
+1 applicable law.
+2 (2)(a) This subsection only applies to a county that has county
+3 conflict counsel.
+4 (b) When appointing counsel other than the public defender to
+5 represent an indigent defendant, the court shall appoint county conflict
+6 counsel, unless such counsel cannot represent the defendant due to
+7 conflicting interests or for other good cause shown.
+8 (3) (2) In selecting counsel to represent an indigent felony
+9 defendant, the prosecuting attorney shall not have any role whatsoever in
+10 the selection or appointment process of the counsel by the court,
+11 including, but not limited to, any individual appointment suggestions.
+12 Sec. 5. Section 29-3905, Reissue Revised Statutes of Nebraska, is
+13 amended to read:
+14 29-3905 Appointed counsel for an indigent felony defendant other
+15 than the public defender or county conflict counsel shall apply to the
+16 district court which appointed him or her for all expenses reasonably
+17 necessary to permit him or her to effectively and competently represent
+18 his or her client and for fees for services performed pursuant to such
+19 appointment, except that if the defendant was not bound over for trial in
+20 the district court, the application shall be made in the appointing
+21 court. The court, upon hearing the application, shall fix reasonable
+22 expenses and fees, and the county board shall allow payment to counsel in
+23 the full amount determined by the court.
+24 Sec. 6. Section 29-3918, Reissue Revised Statutes of Nebraska, is
+25 amended to read:
+26 29-3918 Nothing in sections 29-3910 to 29-3918 shall prevent a court
+27 from appointing counsel other than the public defender or county conflict
+28 counsel as defined in section 1 of this act to represent indigent
+29 defendants or other persons by law entitled to legal representation, but
+30 appointments of counsel other than the public defender or county conflict
+31 counsel shall be limited to situations in which there are multiple
+-5-
+
+LB859 LB859
+2026 2026
+1 defendants requiring separate representation or when other exigent
+2 circumstances are present which in the opinion of the court require
+3 appointment of counsel other than the public defender or county conflict
+4 counsel. In all such cases of appointments of counsel other than the
+5 public defender or county conflict counsel, the procedure shall be in
+6 accordance with sections 43-272 and 43-273 and the cost of such
+7 appointments shall be paid by the county as provided in such sections.
+8 Sec. 7. Section 29-3922, Revised Statutes Cumulative Supplement,
+9 2024, is amended to read:
+10 29-3922 For purposes of the County Revenue Assistance Act:
+11 (1) Chief counsel means an attorney appointed to be the primary
+12 administrative officer of the commission pursuant to section 29-3928;
+13 (2) Commission means the Commission on Public Advocacy;
+14 (3) Commission staff means attorneys, investigators, and support
+15 staff who are performing work for the capital litigation division,
+16 appellate division, DNA testing division, and major case resource center;
+17 (4) Contracting attorney means an attorney contracting to act as a
+18 public defender pursuant to sections 23-3404 to 23-3408;
+19 (5) Court-appointed attorney means an attorney other than a
+20 contracting attorney or a public defender appointed by the court to
+21 represent an indigent person;
+22 (6) Indigent defense services means legal services provided to
+23 indigent persons by an indigent defense system in capital cases, felony
+24 cases, misdemeanor cases, juvenile cases, mental health commitment cases,
+25 child support enforcement cases, and paternity establishment cases;
+26 (7) Indigent defense system means a system of providing services,
+27 including any services necessary for litigating a case, by a contracting
+28 attorney, court-appointed attorney, or public defender;
+29 (8) Indigent person means a person who is indigent and unable to
+30 obtain legal counsel as determined pursuant to subdivision (4) (3) of
+31 section 29-3901; and
+-6-
+
+LB859 LB859
+2026 2026
+1 (9) Public defender means an attorney appointed or elected pursuant
+2 to sections 23-3401 to 23-3403.
+3 Sec. 8. Section 43-272, Revised Statutes Cumulative Supplement,
+4 2024, is amended to read:
+5 43-272 (1)(a) In counties having a population of less than one
+6 hundred fifty thousand inhabitants:
+7 (i) When any juvenile court petition is filed alleging jurisdiction
+8 of a juvenile pursuant to subdivision (2) of section 43-247, counsel
+9 shall be appointed for such juvenile; and
+10 (ii) In any other instance in which a juvenile is brought without
+11 counsel before a juvenile court, the court shall advise such juvenile and
+12 his or her parent or guardian of their right to retain counsel and shall
+13 inquire of such juvenile and his or her parent or guardian as to whether
+14 they desire to retain counsel.
+15 (b) In counties having a population of one hundred fifty thousand or
+16 more inhabitants, when any juvenile court petition is filed alleging
+17 jurisdiction of a juvenile pursuant to subdivision (1), (2), (3)(b), or
+18 (4) of section 43-247, counsel shall be appointed for such juvenile.
+19 (c) The court shall inform any juvenile described in this subsection
+20 and his or her parent or guardian of such juvenile's right to counsel at
+21 county expense if none of them is able to afford counsel. If the juvenile
+22 or his or her parent or guardian desires to have counsel appointed for
+23 such juvenile, or the parent or guardian of such juvenile cannot be
+24 located, and the court ascertains that none of such persons are able to
+25 afford an attorney, the court shall forthwith appoint an attorney to
+26 represent such juvenile for all proceedings before the juvenile court,
+27 except that if an attorney is appointed to represent such juvenile and
+28 the court later determines that a parent of such juvenile is able to
+29 afford an attorney, the court shall order such parent or juvenile to pay
+30 for services of the attorney to be collected in the same manner as
+31 provided by section 43-290. If the parent willfully refuses to pay any
+-7-
+
+LB859 LB859
+2026 2026
+1 such sum, the court may commit him or her for contempt, and execution may
+2 issue at the request of the appointed attorney or the county attorney or
+3 by the court without a request.
+4 (d)(i) For purposes of this subdivision, county conflict counsel has
+5 the same meaning as in section 1 of this act.
+6 (ii) This subdivision (d) only applies to a county that has county
+7 conflict counsel.
+8 (iii) When appointing counsel other than the public defender to
+9 represent a juvenile, the court shall appoint county conflict counsel,
+10 unless such counsel cannot represent the juvenile due to conflicting
+11 interests or for other good cause shown.
+12 (2) The court, on its own motion or upon application of a party to
+13 the proceedings, shall appoint a guardian ad litem for the juvenile: (a)
+14 If the juvenile has no parent or guardian of his or her person or if the
+15 parent or guardian of the juvenile cannot be located or cannot be brought
+16 before the court; (b) if the parent or guardian of the juvenile is
+17 excused from participation in all or any part of the proceedings; (c) if
+18 the parent is a juvenile or an incompetent; (d) if the parent is
+19 indifferent to the interests of the juvenile; or (e) in any proceeding
+20 pursuant to the provisions of subdivision (3)(a) of section 43-247.
+21 A guardian ad litem shall have the duty to protect the interests of
+22 the juvenile for whom he or she has been appointed guardian, and shall be
+23 deemed a parent of the juvenile as to those proceedings with respect to
+24 which his or her guardianship extends.
+25 (3) The court shall appoint an attorney as guardian ad litem. A
+26 guardian ad litem shall act as his or her own counsel and as counsel for
+27 the juvenile, unless there are special reasons in a particular case why
+28 the guardian ad litem or the juvenile or both should have separate
+29 counsel. In such cases the guardian ad litem shall have the right to
+30 counsel, except that the guardian ad litem shall be entitled to appointed
+31 counsel without regard to his or her financial ability to retain counsel.
+-8-
+
+LB859 LB859
+2026 2026
+1 Whether such appointed counsel shall be provided at the cost of the
+2 county shall be determined as provided in subsection (1) of this section.
+3 (4) By July 1, 2015, the Supreme Court shall provide by court rule
+4 standards for guardians ad litem for juveniles in juvenile court
+5 proceedings.
+6 (5) By July 1, 2017, the Supreme Court shall provide guidelines
+7 setting forth standards for all attorneys who practice in juvenile court.
+8 Sec. 9. Section 43-273, Reissue Revised Statutes of Nebraska, is
+9 amended to read:
+10 43-273 (1) Counsel and guardians ad litem appointed outside of the
+11 guardian ad litem division as provided in section 43-272 shall apply to
+12 the court before which the proceedings were had for fees for services
+13 performed. The court upon hearing the application shall fix reasonable
+14 fees. The county board of the county wherein the proceedings were had
+15 shall allow the account, bill, or claim presented by any attorney or
+16 guardian ad litem for services performed under section 43-272 in the
+17 amount determined by the court. No such account, bill, or claim shall be
+18 allowed by the county board until the amount thereof shall have been
+19 determined by the court.
+20 (2) This section does not apply to the public defender or to county
+21 conflict counsel as defined in section 1 of this act.
+22 Sec. 10. Section 71-946, Reissue Revised Statutes of Nebraska, is
+23 amended to read:
+24 71-946 (1) The appointment of counsel under section 71-945 shall be
+25 in accordance with this section. the following procedures:
+26 (2) In (1) Except in counties not having a public defender, upon the
+27 receipt from the mental health board of a certificate for the appointment
+28 of counsel, the clerk of the district court shall notify the district
+29 judge or the county judge of the county in which the proceedings are
+30 pending of the receipt of such certificate. The judge to whom the
+31 certificate was issued shall appoint an attorney to represent the person
+-9-
+
+LB859 LB859
+2026 2026
+1 concerning whom an application is filed before the mental health board,
+2 whereupon the clerk of the court shall enter upon the certificate the
+3 name of the attorney appointed and deliver the certificate of appointment
+4 of counsel to the mental health board. The clerk of the district court or
+5 the clerk of the county court shall also keep and maintain a record of
+6 all appointments which shall be conclusive evidence thereof. All
+7 appointments of counsel under the Nebraska Mental Health Commitment Act
+8 or the Sex Offender Commitment Act may be made at any time or place in
+9 the state. ; and
+10 (3) (2) In counties having a public defender, upon receipt from the
+11 mental health board of a certificate for the appointment of counsel, the
+12 clerk of the district court shall notify the public defender of his or
+13 her appointment to represent the person and shall enter upon the
+14 certificate the name of the attorney appointed and deliver the
+15 certificate of appointment of counsel to the mental health board.
+16 (4)(a) For purposes of this section, county conflict counsel has the
+17 same meaning as in section 1 of this act.
+18 (b) This subsection only applies to a county that has county
+19 conflict counsel.
+20 (c) When appointing counsel other than the public defender to
+21 represent a subject, the court shall appoint county conflict counsel,
+22 unless such counsel cannot represent the subject due to conflicting
+23 interests or for other good cause shown.
+24 Sec. 11. Section 71-947, Reissue Revised Statutes of Nebraska, is
+25 amended to read:
+26 71-947 Counsel appointed as provided in subsection (2) subdivision
+27 (1) of section 71-946 shall apply to the court in which his or her
+28 appointment is recorded for fees for services performed. Such counsel may
+29 also apply to the court to secure separate professional examination of
+30 the person for whom counsel was appointed and shall be reimbursed for
+31 costs incurred in securing such separate examination or examinations or
+-10-
+
+LB859 LB859
+2026 2026
+1 in having other professional persons as witnesses before the mental
+2 health board. The court, upon hearing the application, shall fix
+3 reasonable fees, including reimbursement of costs incurred. The county
+4 board of the county in which the application was filed shall allow the
+5 account, bill, or claim presented by the attorney for services performed
+6 under the Nebraska Mental Health Commitment Act or the Sex Offender
+7 Commitment Act in the amount determined by the court. No such account,
+8 bill, or claim shall be allowed by the county board until the amount
+9 thereof has been determined by the court.
+10 Sec. 12. Section 71-948, Reissue Revised Statutes of Nebraska, is
+11 amended to read:
+12 71-948 A subject or the subject's counsel shall have the right to
+13 employ mental health professionals of his or her choice to independently
+14 evaluate the subject's mental condition and testify for and otherwise
+15 assist the subject in proceedings under the Nebraska Mental Health
+16 Commitment Act or the Sex Offender Commitment Act. If the subject is
+17 indigent, only one such person may be employed except with leave of the
+18 mental health board. Any person so employed by a subject determined by
+19 the board to be indigent, except a subject represented by the public
+20 defender or county conflict counsel as defined in section 1 of this act,
+21 shall apply to the board for expenses reasonably necessary to such
+22 person's effective assistance of the subject and for reasonable fees for
+23 services performed by such person in assisting the subject. The board
+24 shall then fix reasonable fees and expenses, and the county board shall
+25 allow payment to such person in the full amount fixed by the board.
+26 Sec. 13. Original sections 29-3901, 29-3904, 29-3905, 29-3918,
+27 43-273, 71-946, 71-947, and 71-948, Reissue Revised Statutes of Nebraska,
+28 and sections 29-3903, 29-3922, and 43-272, Revised Statutes Cumulative
+29 Supplement, 2024, are repealed.
+-11-

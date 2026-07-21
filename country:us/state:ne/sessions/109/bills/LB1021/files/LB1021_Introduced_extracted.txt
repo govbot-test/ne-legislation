@@ -1,0 +1,169 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LB1021 LB1021
+2026 2026
+LEGISLATURE OF NEBRASKA
+ONE HUNDRED NINTH LEGISLATURE
+SECOND SESSION
+LEGISLATIVE BILL 1021
+Introduced by Ibach, 44.
+Read first time January 13, 2026
+Committee: Revenue
+1 A BILL FOR AN ACT relating to revenue and taxation; to amend section
+2 77-6203, Revised Statutes Cumulative Supplement, 2024, and section
+3 77-6204, Revised Statutes Supplement, 2025; to change provisions
+4 related to penalties, proceeds, and distributed revenue of the
+5 nameplate capacity tax; and to repeal the original sections.
+6 Be it enacted by the people of the State of Nebraska,
+-1-
+
+LB1021 LB1021
+2026 2026
+1 Section 1. Section 77-6203, Revised Statutes Cumulative Supplement,
+2 2024, is amended to read:
+3 77-6203 (1) The owner of a renewable energy generation facility
+4 annually shall pay a nameplate capacity tax equal to the total nameplate
+5 capacity of the commissioned renewable energy generation facility
+6 multiplied by a tax rate of three thousand five hundred eighteen dollars
+7 per megawatt.
+8 (2) No tax shall be imposed on a renewable energy generation
+9 facility:
+10 (a) Owned or operated by the federal government, the State of
+11 Nebraska, a public power district, a public power and irrigation
+12 district, an individual municipality, a registered group of
+13 municipalities, an electric membership association, or a cooperative; or
+14 (b) That is a customer-generator as defined in section 70-2002.
+15 (3) No tax levied pursuant to this section shall be construed to
+16 constitute restricted funds as defined in section 13-518 for the first
+17 five years after the renewable energy generation facility is
+18 commissioned.
+19 (4) The presence of one or more renewable energy generation
+20 facilities or supporting infrastructure shall not be a factor in the
+21 assessment, determination of actual value, or classification under
+22 section 77-201 of the real property underlying or adjacent to such
+23 facilities or infrastructure.
+24 (5)(a) The Department of Revenue shall collect the tax due under
+25 this section.
+26 (b) The tax shall be imposed beginning the first calendar year the
+27 renewable energy generation facility is commissioned. A renewable energy
+28 generation facility that uses wind as the fuel source which was
+29 commissioned prior to July 15, 2010, shall be subject to the tax levied
+30 pursuant to sections 77-6201 to 77-6204 on and after January 1, 2010. The
+31 amount of property tax on depreciable tangible personal property
+-2-
+
+LB1021 LB1021
+2026 2026
+1 previously paid on a renewable energy generation facility that uses wind
+2 as the fuel source which was commissioned prior to July 15, 2010, which
+3 is greater than the amount that would have been paid pursuant to sections
+4 77-6201 to 77-6204 from the date of commissioning until January 1, 2010,
+5 shall be credited against any tax due under Chapter 77, and any amount so
+6 credited that is unused in any tax year shall be carried over to
+7 subsequent tax years until fully utilized.
+8 (c)(i) The tax for the first calendar year shall be prorated based
+9 upon the number of days remaining in the calendar year after the
+10 renewable energy generation facility is commissioned.
+11 (ii) In the first year in which a renewable energy generation
+12 facility is taxed or in any year in which additional commissioned
+13 nameplate capacity is added to a renewable energy generation facility,
+14 the taxes on the initial or additional nameplate capacity shall be
+15 prorated for the number of days remaining in the calendar year.
+16 (iii) When a renewable energy generation facility is decommissioned
+17 or made nonoperational by a change in law during a tax year, the taxes
+18 shall be prorated for the number of days during which the renewable
+19 energy generation facility was not decommissioned or was operational.
+20 (iv) When the capacity of a renewable energy generation facility to
+21 produce electricity is reduced but the renewable energy generation
+22 facility is not decommissioned, the nameplate capacity of the renewable
+23 energy generation facility is deemed to be unchanged.
+24 (6)(a) On March 1 of each year, the owner of a renewable energy
+25 generation facility shall file with the Department of Revenue a report on
+26 the nameplate capacity of the facility for the previous year from January
+27 1 through December 31. All taxes shall be due on April 1 and shall be
+28 delinquent if not paid on a quarterly basis on April 1 and each quarter
+29 thereafter. Delinquent quarterly payments shall draw interest at the rate
+30 provided for in section 45-104.02, as such rate may from time to time be
+31 adjusted.
+-3-
+
+LB1021 LB1021
+2026 2026
+1 (b) The owner of a renewable energy generation facility is liable
+2 for the taxes under this section with respect to the facility, whether or
+3 not the owner of the facility is the owner of the land on which the
+4 facility is situated.
+5 (7) Failure to file a report required by subsection (6) of this
+6 section, filing such report late, failure to pay taxes due, or
+7 underpayment of such taxes shall result in a penalty of five percent of
+8 the amount due being imposed for each quarter the report is overdue or
+9 the payment is delinquent, except that the penalty shall not exceed ten
+10 thousand dollars. Beginning January 1, 2027, such penalty shall be
+11 collected by the Tax Commissioner and credited to the Department of
+12 Revenue Property Assessment Division Cash Fund.
+13 (8) The Department of Revenue shall enforce the provisions of this
+14 section. The department may adopt and promulgate rules and regulations
+15 necessary for the implementation and enforcement of this section.
+16 (9) The Department of Revenue shall separately identify the proceeds
+17 from the tax, interest, and penalties imposed by this section, shall
+18 retain three percent of such proceeds for the costs of the administration
+19 of sections 77-6201 to 77-6204, and shall pay all remaining such proceeds
+20 over to the county treasurer of the county where the renewable energy
+21 generation facility is located within thirty days after receipt of such
+22 proceeds.
+23 Sec. 2. Section 77-6204, Revised Statutes Supplement, 2025, is
+24 amended to read:
+25 77-6204 (1) The county treasurer shall distribute all revenue
+26 received from the Department of Revenue pursuant to section 77-6203 as
+27 follows:
+28 (a) Five percent of such revenue shall be distributed to the
+29 community college area in which the renewable energy generation facility
+30 is located; and
+31 (b) The remainder of such revenue shall be distributed to local
+-4-
+
+LB1021 LB1021
+2026 2026
+1 taxing entities which, but for such personal property tax exemption,
+2 would have received distribution of personal property tax revenue from
+3 depreciable personal property used directly in the generation of
+4 electricity using wind, solar, biomass, or landfill gas as the fuel
+5 source.
+6 (2) A local taxing entity's status as eligible for distribution
+7 under subdivision (1)(b) of this section shall not be affected when and
+8 if the net book value of personal property used directly in the
+9 generation of electricity using wind, solar, biomass, or landfill gas as
+10 the fuel source becomes zero. A local taxing entity's status as eligible
+11 for distribution under such subdivision shall be affected by the disposal
+12 of all of the exempt depreciable personal property used directly in the
+13 generation of electricity using wind, solar, biomass, or landfill gas as
+14 the fuel source.
+15 (3) The distribution to each eligible local taxing entity under
+16 subdivision (1)(b) of this section shall be calculated by determining the
+17 amount of taxes that the eligible local taxing entity levied during the
+18 taxable year and dividing this amount by the total tax levied by all of
+19 the eligible local taxing entities during the year. Each eligible
+20 entity's resulting fraction shall then be multiplied by the amount of
+21 revenue available for distribution pursuant to subdivision (1)(b) of this
+22 section to determine the portion of such revenue due each local taxing
+23 entity.
+24 (4) Counties shall not retain any revenue collected pursuant to
+25 sections 77-6201 to 77-6204 for the costs of the administration of
+26 sections 77-6201 to 77-6204.
+27 (4) The Department of Revenue shall not retain any revenue collected
+28 pursuant to sections 77-6201 to 77-6204 for distribution, use, transfer,
+29 pledge, or allocation to or from the General Fund.
+30 Sec. 3. Original section 77-6203, Revised Statutes Cumulative
+31 Supplement, 2024, and section 77-6204, Revised Statutes Supplement, 2025,
+-5-
+
+LB1021 LB1021
+2026 2026
+1 are repealed.
+-6-

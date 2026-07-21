@@ -1,0 +1,28 @@
+Title: 
+Official Title: 
+Source: versions - Slip Law
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LB60 LB60
+2026 2026
+LEGISLATIVE BILL 60
+Approved by the Governor February 9, 2026
+Introduced by Quick, 35.
+A BILL FOR AN ACT relating to the State Lottery Act; to amend section 9-829,
+Reissue Revised Statutes of Nebraska; to remove the prohibition that a
+lottery ticket cannot be sold through a vending or dispensing device; and
+to repeal the original section.
+Be it enacted by the people of the State of Nebraska,
+Section 1. Section 9-829, Reissue Revised Statutes of Nebraska, is amended
+to read:
+9-829 A lottery game retailer shall sell tickets only on the premises
+stated in the contract. No ticket shall be sold over a telephone or through the
+mail. No credit shall be extended by the lottery game retailer for the purchase
+of a ticket. No lottery tickets shall be sold through a vending or dispensing
+device.
+Sec. 2. Original section 9-829, Reissue Revised Statutes of Nebraska, is
+repealed.
+-1-

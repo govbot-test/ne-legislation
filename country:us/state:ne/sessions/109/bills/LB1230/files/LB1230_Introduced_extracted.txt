@@ -1,0 +1,390 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LB1230 LB1230
+2026 2026
+LEGISLATURE OF NEBRASKA
+ONE HUNDRED NINTH LEGISLATURE
+SECOND SESSION
+LEGISLATIVE BILL 1230
+Introduced by Strommen, 47.
+Read first time January 21, 2026
+Committee: Judiciary
+1 A BILL FOR AN ACT relating to property; to amend sections 69-2303,
+2 69-2308, and 76-14,109, Reissue Revised Statutes of Nebraska,
+3 sections 60-149 and 69-2302, Revised Statutes Cumulative Supplement,
+4 2024, and section 60-166, Revised Statutes Supplement, 2025; to
+5 provide for certificates of title for mobile homes as prescribed; to
+6 provide for certain property relating to mobile homes and define and
+7 redefine terms in the Disposition of Personal Property Landlord and
+8 Tenant Act; to harmonize provisions; and to repeal the original
+9 sections.
+10 Be it enacted by the people of the State of Nebraska,
+-1-
+
+LB1230 LB1230
+2026 2026
+1 Section 1. Section 60-149, Revised Statutes Cumulative Supplement,
+2 2024, is amended to read:
+3 60-149 (1)(a) If a certificate of title has previously been issued
+4 for a vehicle in this state, the application for a new certificate of
+5 title shall be accompanied by the certificate of title duly assigned
+6 except as otherwise provided in the Motor Vehicle Certificate of Title
+7 Act.
+8 (b) Except for manufactured homes or mobile homes as provided in
+9 subsection (2) of this section, if a certificate of title has not
+10 previously been issued for the vehicle in this state or if a certificate
+11 of title is unavailable, the application shall be accompanied by:
+12 (i) A manufacturer's or importer's certificate except as otherwise
+13 provided in subdivision (viii) of this subdivision;
+14 (ii) A duly certified copy of the manufacturer's or importer's
+15 certificate;
+16 (iii) An affidavit by the owner affirming ownership in the case of
+17 an all-terrain vehicle, a utility-type vehicle, or a minibike;
+18 (iv) A certificate of title from another state;
+19 (v) A court order issued by a court of record, a manufacturer's
+20 certificate of origin, or an assigned registration certificate, if the
+21 law of the state from which the vehicle was brought into this state does
+22 not have a certificate of title law;
+23 (vi) Evidence of ownership as provided for in section 30-24,125,
+24 sections 52-601.01 to 52-605, sections 60-1901 to 60-1911, or sections
+25 60-2401 to 60-2411;
+26 (vii) Documentation prescribed in section 60-142.01, 60-142.02,
+27 60-142.04, 60-142.05, 60-142.09, or 60-142.11 or documentation of
+28 compliance with section 76-1607;
+29 (viii) A manufacturer's or importer's certificate and an affidavit
+30 by the owner affirming ownership in the case of a minitruck;
+31 (ix) In the case of a motor vehicle, a trailer, an all-terrain
+-2-
+
+LB1230 LB1230
+2026 2026
+1 vehicle, a utility-type vehicle, or a minibike, an affidavit by the
+2 holder of a motor vehicle auction dealer's license as described in
+3 subdivision (11) of section 60-1406 affirming that the certificate of
+4 title is unavailable and that the vehicle (A) is a salvage vehicle
+5 through payment of a total loss settlement, (B) is a salvage vehicle
+6 purchased by the auction dealer, or (C) has been donated to an
+7 organization operating under section 501(c)(3) of the Internal Revenue
+8 Code as defined in section 49-801.01; or
+9 (x) A United States Government Certificate to Obtain Title to a
+10 Vehicle.
+11 (c) If the application for a certificate of title in this state is
+12 accompanied by a valid certificate of title issued by another state which
+13 meets that state's requirements for transfer of ownership, then the
+14 application may be accepted by this state.
+15 (d) If a certificate of title has not previously been issued for the
+16 vehicle in this state and the applicant is unable to provide such
+17 documentation, the applicant may apply for a bonded certificate of title
+18 as prescribed in section 60-167.
+19 (2)(a) If the application for a certificate of title for a
+20 manufactured home or a mobile home is being made in accordance with
+21 subdivision (4)(b) of section 60-137 or if the certificate of title for a
+22 manufactured home or a mobile home is unavailable, the application shall
+23 be accompanied by proof of ownership in the form of:
+24 (i) A duly assigned manufacturer's or importer's certificate;
+25 (ii) A certificate of title from another state;
+26 (iii) A court order issued by a court of record;
+27 (iv) Evidence of ownership as provided for in the Disposition of
+28 Personal Property Landlord and Tenant Act or section 30-24,125, sections
+29 52-601.01 to 52-605, sections 60-1901 to 60-1911, or sections 60-2401 to
+30 60-2411 , or documentation of compliance with section 76-1607; or
+31 (v) Assessment records for the manufactured home or mobile home from
+-3-
+
+LB1230 LB1230
+2026 2026
+1 the county assessor and an affidavit by the owner affirming ownership.
+2 (b) If the applicant cannot produce proof of ownership described in
+3 subdivision (a) of this subsection, he or she may submit to the
+4 department such evidence as he or she may have, and the department may
+5 thereupon, if it finds the evidence sufficient, issue the certificate of
+6 title or authorize the county treasurer to issue a certificate of title,
+7 as the case may be.
+8 (3) For purposes of this section, certificate of title includes a
+9 salvage certificate, a salvage branded certificate of title, or any other
+10 document of ownership issued by another state or jurisdiction for a
+11 salvage vehicle. Only a salvage branded certificate of title shall be
+12 issued to any vehicle conveyed upon a salvage certificate, a salvage
+13 branded certificate of title, or any other document of ownership issued
+14 by another state or jurisdiction for a salvage vehicle. A previously
+15 salvage branded certificate of title may be issued if, prior to
+16 application, the applicant's vehicle has been repaired and inspected as
+17 provided in section 60-146.
+18 (4) The county treasurer shall retain the evidence of title
+19 presented by the applicant and on which the certificate of title is
+20 issued.
+21 (5)(a) If an affidavit is submitted under subdivision (1)(b)(ix) of
+22 this section, the holder of a motor vehicle auction dealer's license
+23 shall certify that (i) it has made at least two written attempts and has
+24 been unable to obtain the properly endorsed certificate of title to the
+25 property noted in the affidavit from the owner and (ii) thirty days have
+26 expired after the mailing of a written notice regarding the intended
+27 disposition of the property noted in the affidavit by certified mail,
+28 return receipt requested, to the last-known address of the owner and to
+29 any lien or security interest holder of record of the property noted in
+30 the affidavit.
+31 (b) The notice under subdivision (5)(a)(ii) of this section shall
+-4-
+
+LB1230 LB1230
+2026 2026
+1 contain a description of the property noted in the affidavit and a
+2 statement that title to the property noted in the affidavit shall vest in
+3 the holder of the motor vehicle auction dealer's license thirty days
+4 after the date such notice was mailed.
+5 (c) The mailing of notice and the expiration of thirty days under
+6 subdivision (5)(a)(ii) of this section shall extinguish any lien or
+7 security interest of a lienholder or security interest holder in the
+8 property noted in the affidavit, unless the lienholder or security
+9 interest holder has claimed such property within such thirty-day period.
+10 The holder of a motor vehicle auction dealer's license shall transfer
+11 possession of the property noted in the affidavit to the lienholder or
+12 security interest holder claiming such property.
+13 Sec. 2. Section 60-166, Revised Statutes Supplement, 2025, is
+14 amended to read:
+15 60-166 (1)(a) This subsection applies prior to the implementation
+16 date designated by the Director of Motor Vehicles pursuant to subsection
+17 (2) of section 60-1508.
+18 (b) In the event of (i) the transfer of ownership of a vehicle by
+19 operation of law as upon inheritance, devise, bequest, order in
+20 bankruptcy, insolvency, replevin, or execution sale or as provided in
+21 sections 30-24,125, 52-601.01 to 52-605, 60-1901 to 60-1911, and 60-2401
+22 to 60-2411, (ii) the engine of a vehicle being replaced by another
+23 engine, (iii) a vehicle being sold to satisfy storage or repair charges
+24 or under section 76-1607, or (iv) repossession being had upon default in
+25 performance of the terms of a chattel mortgage, trust receipt,
+26 conditional sales contract, or other like agreement, the county treasurer
+27 of any county or the department, upon the surrender of the prior
+28 certificate of title or the manufacturer's or importer's certificate, or
+29 when that is not possible, upon presentation of satisfactory proof of
+30 ownership and right of possession to such vehicle, and upon payment of
+31 the appropriate fee and the presentation of an application for
+-5-
+
+LB1230 LB1230
+2026 2026
+1 certificate of title, may issue to the applicant a certificate of title
+2 thereto.
+3 (2)(a) This subsection applies beginning on the implementation date
+4 designated by the director pursuant to subsection (2) of section 60-1508.
+5 (b) In the event of (i) the transfer of ownership of a vehicle by
+6 operation of law as upon inheritance, devise, bequest, order in
+7 bankruptcy, insolvency, replevin, or execution sale or as provided in the
+8 Disposition of Personal Property Landlord and Tenant Act or section
+9 30-24,125, sections 52-601.01 to 52-605, sections 60-1901 to 60-1911, and
+10 sections 60-2401 to 60-2411, (ii) the engine of a vehicle being replaced
+11 by another engine, (iii) a vehicle being sold to satisfy storage or
+12 repair charges or under section 76-1607, or (iv) repossession being had
+13 upon default in performance of the terms of a chattel mortgage, trust
+14 receipt, conditional sales contract, or other like agreement, and upon
+15 acceptance of an electronic certificate of title record after
+16 repossession, in addition to the title requirements in this section, the
+17 county treasurer of any county or the department, upon the surrender of
+18 the prior certificate of title or the manufacturer's or importer's
+19 certificate, or when that is not possible, upon presentation of
+20 satisfactory proof of ownership and right of possession to such vehicle,
+21 and upon payment of the appropriate fee and the presentation of an
+22 application for certificate of title, may issue to the applicant a
+23 certificate of title thereto.
+24 (3) If the prior certificate of title issued for such vehicle
+25 provided for joint ownership with right of survivorship, a new
+26 certificate of title shall be issued to a subsequent purchaser upon the
+27 assignment of the prior certificate of title by the surviving owner and
+28 presentation of satisfactory proof of death of the deceased owner.
+29 (4) Only an affidavit by the person or agent of the person to whom
+30 possession of such vehicle has so passed, setting forth facts entitling
+31 him or her to such possession and ownership, together with a copy of a
+-6-
+
+LB1230 LB1230
+2026 2026
+1 court order or an instrument upon which such claim of possession and
+2 ownership is founded, shall be considered satisfactory proof of ownership
+3 and right of possession, except that if the applicant cannot produce such
+4 proof of ownership, he or she may submit to the department such evidence
+5 as he or she may have, and the department may thereupon, if it finds the
+6 evidence sufficient, issue the certificate of title or authorize any
+7 county treasurer to issue a certificate of title, as the case may be.
+8 (5) If from the records of the county treasurer or the department
+9 there appear to be any liens on such vehicle, such certificate of title
+10 shall comply with section 60-164, 60-165, or 60-165.02 regarding such
+11 liens unless the application is accompanied by proper evidence of their
+12 satisfaction or extinction.
+13 Sec. 3. Section 69-2302, Revised Statutes Cumulative Supplement,
+14 2024, is amended to read:
+15 69-2302 For purposes of the Disposition of Personal Property
+16 Landlord and Tenant Act:
+17 (1) Landlord means the owner, lessor, or sublessor of furnished or
+18 unfurnished premises , including self-service storage units or
+19 facilities, for rent or his or her agent or successor in interest;
+20 (2) Mobile home has the same meaning as in section 76-1463;
+21 (3) Mobile home park has the same meaning as in section 76-1464;
+22 (4) Mobile home space has the same meaning as in section 76-1465;
+23 (5) (2) Owner means one or more persons, jointly or severally, in
+24 whom is vested (a) all or part of the legal title to property or (b) all
+25 or part of the beneficial ownership and a right to present use and
+26 enjoyment of premises and shall include a mortgagee in possession;
+27 (6) Personal property means movable property not affixed to land.
+28 Personal property includes, but is not limited to, goods, wares,
+29 merchandise, motor vehicles, mobile homes, watercraft, household items,
+30 and furnishings;
+31 (7) (3) Premises means:
+-7-
+
+LB1230 LB1230
+2026 2026
+1 (a) A a dwelling unit as defined in section 76-1410 or section
+2 76-1459 or a distinct portion of a dwelling unit, the facilities and
+3 appurtenances in such dwelling unit, and the grounds, areas, and
+4 facilities held out for the use of tenants generally or the use of which
+5 is promised to the tenants;
+6 (b) A mobile home space or mobile home park; or
+7 (c) Self-service (b) self-service storage units or facilities;
+8 (8) (4) Reasonable belief means the knowledge or belief a prudent
+9 person should have without making an investigation, including any
+10 investigation of public records, except that when the landlord has
+11 specific information indicating that such an investigation would more
+12 probably than not reveal pertinent information and the cost of such an
+13 investigation would be reasonable in relation to the probable value of
+14 the personal property involved, reasonable belief shall include the
+15 actual knowledge or belief a prudent person would have if such
+16 investigation were made;
+17 (9) (5) Reasonable costs of storage includes:
+18 (a) Reasonable costs actually incurred, the reasonable value of
+19 labor actually provided, or both in removing personal property from its
+20 original location on the vacated premises to the place of storage,
+21 including disassembly and transportation; and
+22 (b) Reasonable storage costs actually incurred which shall not
+23 exceed the fair rental value of the space reasonably required for the
+24 storage of the personal property; and
+25 (10) (6) Tenant means a person entitled under a rental agreement to
+26 occupy any premises for rent or storage uses to the exclusion of others
+27 whether such premises are used as a dwelling unit or self-service storage
+28 unit or facility or not.
+29 Sec. 4. Section 69-2303, Reissue Revised Statutes of Nebraska, is
+30 amended to read:
+31 69-2303 (1) Except as otherwise provided in subsection (5) of
+-8-
+
+LB1230 LB1230
+2026 2026
+1 section 76-1414, when personal property remains on the premises after a
+2 tenancy has terminated or expired and the premises have been vacated by
+3 the tenant, the landlord shall give written notice as provided in
+4 subsection (2) of this section to such tenant and to any other person the
+5 landlord reasonably believes to be the owner of the property.
+6 (2)(a) The notice required by subsection (1) of this section shall
+7 describe the property in a manner reasonably adequate to permit the owner
+8 of the property to identify it. The notice may describe all or a portion
+9 of the property, but the limitation of liability provided by section
+10 69-2309 shall not protect the landlord from any liability arising from
+11 the disposition of property not described in the notice, except that the
+12 notice need not describe the contents of any:
+13 (i) Trunk a trunk, valise, box, or other container which is locked,
+14 fastened, or tied in a manner which deters immediate access to its
+15 contents; or
+16 (ii) Mobile home which is locked in a manner which deters immediate
+17 access to its interior may be described as such without describing its
+18 contents.
+19 (b) The notice shall state that reasonable costs of storage may be
+20 charged before the property is returned, the location where the property
+21 may be claimed, and the date on or before which such property must be
+22 claimed.
+23 (c) The date specified in the notice shall be a date not less than
+24 seven days after the notice is personally delivered or, if mailed, not
+25 less than fourteen days after the notice is deposited in the mail.
+26 (d) The notice shall be given within six months of the date of
+27 expiration of the lease of the property or the date of discovery of the
+28 abandonment, whichever is later.
+29 (3) The notice shall be personally delivered or sent by first-class
+30 mail, postage prepaid, to the person to be notified at his or her last-
+31 known address and, if there is reason to believe that the notice sent to
+-9-
+
+LB1230 LB1230
+2026 2026
+1 that address will not be received by him or her, also delivered or sent
+2 to such other address, if any, known to the landlord at which such person
+3 may reasonably be expected to receive the notice.
+4 Sec. 5. Section 69-2308, Reissue Revised Statutes of Nebraska, is
+5 amended to read:
+6 69-2308 (1) If the personal property is not released pursuant to
+7 section 69-2307, it shall be sold at public sale by competitive bidding,
+8 except that if the landlord reasonably believes that the total resale
+9 value of the property not released is less than two thousand dollars, he
+10 or she may retain such property for his or her own use or dispose of it
+11 in any manner he or she chooses. At such time as the decision to sell or
+12 to retain is made, any locked mobile home or trunk, valise, box, or other
+13 container shall be opened, if practicable, with as little damage as
+14 possible, and its contents evaluated. Nothing in this section shall be
+15 construed to preclude the landlord or the tenant from bidding on the
+16 property at the public sale. The successful bidder's title shall be
+17 subject to ownership rights, liens, and security interests which have
+18 priority by law.
+19 (2) Notice of the time and place of the public sale shall be given
+20 by advertisement of the sale published once a week for two consecutive
+21 weeks in a newspaper of general circulation in the county where the sale
+22 is to be held. If there is no newspaper of general circulation in the
+23 county where the sale is to be held, the advertisement shall be posted no
+24 fewer than ten days before the sale in not less than six conspicuous
+25 places in the neighborhood of the proposed sale. The sale shall be held
+26 at the nearest suitable place to the place where the personal property is
+27 held or stored. The advertisement shall include a description of the
+28 goods, the name of the former tenant, and the time and place of the sale.
+29 The sale shall take place no sooner than ten days after the first
+30 publication. The last publication shall be no less than five days before
+31 the sale is to be held. Notice of sale may be published before the last
+-10-
+
+LB1230 LB1230
+2026 2026
+1 of the dates specified for taking possession of the property in any
+2 notice given pursuant to section 69-2303.
+3 (3) The notice of the sale shall describe the property to be sold in
+4 a manner reasonably adequate to permit the owner of the property to
+5 identify it. The notice may describe all or a portion of the property,
+6 but the limitation of liability provided by section 69-2309 shall not
+7 release the landlord from any liability arising from the disposition of
+8 property not described in the notice.
+9 (4) After deduction of the reasonable costs of storage, advertising,
+10 and sale, any proceeds of the sale not claimed by the former tenant, an
+11 owner other than such tenant, or another person having an interest in the
+12 proceeds shall, not later than thirty days after the date of sale, be
+13 remitted to the State Treasurer for disposition pursuant to the Uniform
+14 Disposition of Unclaimed Property Act. The former tenant, other owner, or
+15 other person having interest in the proceeds may claim the proceeds by
+16 complying with the act. If the State Treasurer pays the proceeds or any
+17 part thereof to a claimant, neither the State Treasurer nor any employee
+18 thereof shall be liable to any other claimant as to the amount paid.
+19 Sec. 6. Section 76-14,109, Reissue Revised Statutes of Nebraska, is
+20 amended to read:
+21 76-14,109 (1) If a tenant abandons a mobile home on a mobile home
+22 space, the mobile home shall may not be removed from the mobile home
+23 space by the tenant or his or her agent without:
+24 (a) A a signed written authorization from the landlord granting
+25 clearance for removal, showing all money due and owing paid in full; , or
+26 (b) Compliance with the Disposition of Personal Property Landlord
+27 and Tenant Act; or
+28 (c) An an agreement reached with the legal owner and the landlord.
+29 (2) A mobile home shall be considered to be abandoned if the tenant
+30 has defaulted in rent and has, by absence of at least thirty days or by
+31 words or actions, reasonably indicated an intention not to continue the
+-11-
+
+LB1230 LB1230
+2026 2026
+1 tenancy.
+2 (3) Nothing in this section shall prohibit a landlord from removing
+3 an abandoned mobile home from the mobile home space and placing it in
+4 storage at the owner's expense or from utilizing any other legal remedy.
+5 Sec. 7. Original sections 69-2303, 69-2308, and 76-14,109, Reissue
+6 Revised Statutes of Nebraska, sections 60-149 and 69-2302, Revised
+7 Statutes Cumulative Supplement, 2024, and section 60-166, Revised
+8 Statutes Supplement, 2025, are repealed.
+-12-

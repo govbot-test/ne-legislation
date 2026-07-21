@@ -1,0 +1,19 @@
+Title: 
+Official Title: 
+Source: versions - Murman AM653
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+AM653 AM653
+LB390 LB390
+LPB - 03/13/2025 LPB - 03/13/2025
+AMENDMENTS TO LB390
+Introduced by Murman, 38.
+1 1. On page 2, after line 20, insert the following new subsection:
+2 "(3) This section shall only apply to a school library that is
+3 located on school district property and shall not apply to any other
+4 public library regardless if such library contracts with a school
+5 district for use by students.".
+-1-

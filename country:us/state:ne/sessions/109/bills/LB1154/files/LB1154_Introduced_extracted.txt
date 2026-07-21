@@ -1,0 +1,53 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LB1154 LB1154
+2026 2026
+LEGISLATURE OF NEBRASKA
+ONE HUNDRED NINTH LEGISLATURE
+SECOND SESSION
+LEGISLATIVE BILL 1154
+Introduced by Riepe, 12.
+Read first time January 20, 2026
+Committee: Revenue
+1 A BILL FOR AN ACT relating to the Property Tax Growth Limitation Act; to
+2 amend section 13-3403, Revised Statutes Supplement, 2025; to change
+3 provisions relating to the calculation of property tax request
+4 authority; and to repeal the original section.
+5 Be it enacted by the people of the State of Nebraska,
+-1-
+
+LB1154 LB1154
+2026 2026
+1 Section 1. Section 13-3403, Revised Statutes Supplement, 2025, is
+2 amended to read:
+3 13-3403 (1) Except as otherwise provided in the Property Tax Growth
+4 Limitation Act, for fiscal years beginning on or after July 1, 2025, a
+5 political subdivision's property tax request for any year shall not
+6 exceed its property tax request authority as determined under this
+7 section. The preliminary property tax request authority for each
+8 political subdivision shall be the amount of property taxes requested and
+9 approved by each political subdivision and included on the budget
+10 document filed with the auditor in the prior fiscal year pursuant to
+11 subsection (2) of section 13-506, less the sum of exceptions utilized in
+12 the prior year pursuant to subdivisions (1), (2), (4), (5), (6), and to
+13 (7) of section 13-3404.
+14 (2) In addition to the preliminary property tax request authority,
+15 the political subdivision's property tax request authority may be
+16 increased by:
+17 (a) The product of (i) the amount of property taxes levied in the
+18 prior year, less the sum of exceptions utilized in the prior year
+19 pursuant to subdivisions (1) and (2) of section 13-3404, and (ii) the
+20 political subdivision's growth percentage; and
+21 (b) The product of (i) the amount of property taxes levied in the
+22 prior year, less the sum of exceptions utilized in the prior year
+23 pursuant to subdivisions (1) and (2) of section 13-3404, and (ii) the
+24 greater of zero or the inflation percentage.
+25 Sec. 2. Original section 13-3403, Revised Statutes Supplement,
+26 2025, is repealed.
+-2-

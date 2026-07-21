@@ -1,0 +1,549 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LB1063 LB1063
+2026 2026
+LEGISLATURE OF NEBRASKA
+ONE HUNDRED NINTH LEGISLATURE
+SECOND SESSION
+LEGISLATIVE BILL 1063
+Introduced by Bostar, 29.
+Read first time January 14, 2026
+Committee: Banking, Commerce and Insurance
+1 A BILL FOR AN ACT relating to the Nebraska Money Transmitters Act; to
+2 amend sections 8-2701, 8-2702, 8-2711, and 8-2742, Revised Statutes
+3 Supplement, 2025; to define and redefine terms; to change provisions
+4 relating to applications for licenses and adoption of federal law by
+5 reference; to state legislative findings; to prohibit money
+6 transmission by foreign adversaries as prescribed; to provide
+7 applicability; to provide duties for the Director of Banking and
+8 Finance; to require certain information from applicants and
+9 licensees; to harmonize provisions; and to repeal the original
+10 sections.
+11 Be it enacted by the people of the State of Nebraska,
+-1-
+
+LB1063 LB1063
+2026 2026
+1 Section 1. Section 8-2701, Revised Statutes Supplement, 2025, is
+2 amended to read:
+3 8-2701 Sections 8-2701 to 8-2742 and sections 5 to 8 of this act
+4 shall be known and may be cited as the Nebraska Money Transmitters Act.
+5 Sec. 2. Section 8-2702, Revised Statutes Supplement, 2025, is
+6 amended to read:
+7 8-2702 For purposes of the Nebraska Money Transmitters Act:
+8 (1) Acting in concert means persons knowingly acting together with a
+9 common goal of jointly acquiring control of a licensee whether or not
+10 pursuant to an express agreement;
+11 (2) Applicant means a person filing an application for a license
+12 under the Nebraska Money Transmitters Act;
+13 (3) Authorized delegate means a person designated by the licensee to
+14 engage in money transmission on behalf of the licensee;
+15 (4) Average daily money transmission liability means the amount of
+16 the licensee's outstanding money transmission obligations in this state
+17 at the end of each day in a given period of time, added together, and
+18 divided by the total number of days in the given period of time. For
+19 purposes of calculating average daily money transmission liability under
+20 the Nebraska Money Transmitters Act for any licensee required to do so,
+21 the given period of time shall be each calendar quarter;
+22 (5) Closed loop stored value means stored value that is redeemable
+23 by the issuer of such stored value only for goods or services provided by
+24 the issuer or affiliates of such issuer or franchisees of the issuer or
+25 affiliates of such franchisees, except to the extent the stored value is
+26 required by applicable law to be redeemable in cash for the cash value of
+27 the stored value;
+28 (6)(a) Control means:
+29 (i) Direct or indirect power over the vote of at least twenty-five
+30 percent of the outstanding voting shares or voting interests of a
+31 licensee or person in control of a licensee;
+-2-
+
+LB1063 LB1063
+2026 2026
+1 (ii) The power to elect or appoint a majority of key individuals,
+2 executive officers, managers, directors, trustees, or other persons that
+3 have managerial authority of a person in control of a licensee; or
+4 (iii) The power to exercise, directly or indirectly, a controlling
+5 influence over the management or policies of a licensee or person in
+6 control of a licensee.
+7 (b) For purposes of determining the percentage of a person
+8 controlled by any other person, the person's interest shall be aggregated
+9 with the interest of any other immediate family member, including the
+10 person's spouse, parents, children, siblings, mothers-in-law, fathers-in-
+11 law, sons-in-law, daughters-in-law, brothers-in-law, and sisters-in-law,
+12 and any other person who shares such person's residence;
+13 (7) Department means the Department of Banking and Finance;
+14 (8) Director means the Director of Banking and Finance;
+15 (9) Eligible rating means a credit rating of any of the three
+16 highest rating categories provided by an eligible rating service, whereby
+17 each category may include rating category modifiers such as plus or minus
+18 for Standard and Poor's Corporation or the equivalent for any other
+19 eligible rating service. Long-term credit ratings are deemed eligible if
+20 the rating is equal to A- or higher by Standard and Poor's Corporation,
+21 or the equivalent from any other eligible rating service. Short-term
+22 credit ratings are deemed eligible if the rating is equal to or higher
+23 than A-2 or SP-2 by Standard and Poor's Corporation or the equivalent
+24 from any other eligible rating service. In the event that ratings differ
+25 among eligible rating services, the highest rating shall apply when
+26 determining whether a security bears an eligible rating.
+27 (10) Eligible rating service means any nationally recognized
+28 statistical rating organization approved by the Securities and Exchange
+29 Commission and any other organization designated by the director by rule
+30 or order;
+31 (11) Federally insured depository financial institution means a
+-3-
+
+LB1063 LB1063
+2026 2026
+1 bank, credit union, savings and loan association, trust company, savings
+2 association, savings bank, industrial bank, or industrial loan company
+3 organized under the laws of the United States or any state of the United
+4 States, when such bank, credit union, savings and loan association, trust
+5 company, savings association, savings bank, industrial bank, or
+6 industrial loan company has federally insured deposits;
+7 (12) Foreign adversary person means:
+8 (a) A foreign person that is domiciled in, is headquartered in, has
+9 its principal place of business in, or is organized under the laws of any
+10 country listed in 15 C.F.R. 791.4;
+11 (b) An entity with respect to which a foreign person or combination
+12 of foreign persons described in subdivision (12)(a) of this section
+13 directly or indirectly own at least a twenty-five percent share; or
+14 (c) A person subject to the direction or control of a foreign person
+15 or entity described in subdivision (12)(a) or (b) of this section;
+16 (13) (12) In this state means at a physical location within this
+17 state for a transaction requested in person. For a transaction requested
+18 electronically or by telephone, the provider of money transmission may
+19 determine if the person requesting the transaction is in this state by
+20 relying on other information provided by such person regarding the
+21 location of the individual's residential address or the entity's
+22 principal place of business or other physical address location and any
+23 records associated with such person that the provider of money
+24 transmission may have that indicate the location of the individual's
+25 residential address or the entity's principal place of business or other
+26 physical address location, including, but not limited to, an address
+27 associated with an account;
+28 (14) (13) Individual means a natural person;
+29 (15)(a) Informal value transfer system services means services
+30 provided by any system, mechanism, or network of persons or entities
+31 that:
+-4-
+
+LB1063 LB1063
+2026 2026
+1 (i) Receives money for the purpose of making the funds or an
+2 equivalent value payable to a third party in another geographic location,
+3 whether or not in the same form; or
+4 (ii) Facilitates the transfer of money domestically or
+5 internationally outside the conventional money-transmission system.
+6 (b) Informal value transfer system services includes hawala systems
+7 or agencies or similar systems or agencies for transferring money by
+8 payment to an agent who instructs a remote associate to pay a final
+9 recipient.
+10 (c) Informal value transfer system services does not include armored
+11 car services or issuance of gift cards;
+12 (16) (14) Key individual means any individual ultimately responsible
+13 for establishing or directing policies and procedures of the licensee,
+14 such as an executive officer, manager, director, or trustee;
+15 (17) (15) Licensee means a person licensed under the Nebraska Money
+16 Transmitters Act;
+17 (18) (16) Material litigation means litigation, that according to
+18 United States generally accepted accounting principles, is significant to
+19 a person's financial health and would be required to be disclosed in the
+20 person's annual audited financial statements, report to shareholders, or
+21 similar records;
+22 (19) (17) Model Money Transmission Modernization Act means the Model
+23 Money Transmission Modernization Act approved for state adoption by the
+24 Conference of State Bank Supervisors Board of Directors that sets
+25 nationwide standards, including net worth, surety bond, and permissible
+26 investments requirements, to modernize the supervision and regulation of
+27 money transmitters;
+28 (20) (18) Monetary value means a medium of exchange, whether or not
+29 redeemable in money;
+30 (21) (19) Money means a medium of exchange that is authorized or
+31 adopted by the United States or a foreign government. Money includes a
+-5-
+
+LB1063 LB1063
+2026 2026
+1 monetary unit of account established by an intergovernmental organization
+2 or by agreement between two or more governments;
+3 (22)(a) (20)(a) Money transmission means any of the following:
+4 (i) Selling or issuing payment instruments to a person located in
+5 this state;
+6 (ii) Selling or issuing stored value to a person located in this
+7 state; and
+8 (iii) Receiving money for transmission from a person located in this
+9 state.
+10 (b) Money transmission includes payroll processing services and
+11 informal value transfer system services. Money transmission does not
+12 include the provision solely of online or telecommunications services or
+13 network access;
+14 (23) (21) Multistate licensing process means any agreement entered
+15 into by and among state regulators relating to coordinated processing of
+16 applications for money transmission licenses, applications for the
+17 acquisition of control of a licensee, control determinations, or notice
+18 and information requirements for a change of key individuals;
+19 (24) (22) Nationwide Mortgage Licensing System and Registry means
+20 the Nationwide Mortgage Licensing System and Registry, also known as the
+21 Nationwide Multistate Licensing System and Registry, developed by the
+22 Conference of State Bank Supervisors and the American Association of
+23 Residential Mortgage Regulators and owned and operated by the State
+24 Regulatory Registry LLC, or any successor or affiliated entity, for the
+25 licensing and registration of persons in financial services industries;
+26 (25)(a) (23)(a) Outstanding money transmission obligation means:
+27 (i) Any payment instrument or stored value issued or sold by the
+28 licensee to a person located in the United States or reported as sold by
+29 an authorized delegate of the licensee to a person that is located in the
+30 United States that has not yet been paid or refunded by or for the
+31 licensee or has been escheated in accordance with applicable abandoned
+-6-
+
+LB1063 LB1063
+2026 2026
+1 property laws; or
+2 (ii) Any money received for transmission by the licensee or an
+3 authorized delegate in the United States from a person located in the
+4 United States that has not been received by the payee or refunded to the
+5 sender or has been escheated in accordance with applicable abandoned
+6 property laws.
+7 (b) For purposes of subdivision (25) (23) of this section, in the
+8 United States includes, to the extent applicable, a person in any state,
+9 territory, or possession of the United States; the District of Columbia;
+10 the Commonwealth of Puerto Rico; or a United States military installation
+11 that is located in a foreign country;
+12 (26) (24) Payment instrument means a written or electronic check,
+13 draft, money order, traveler's check, or other written or electronic
+14 instrument for the transmission or payment of money or monetary value,
+15 whether or not negotiable. Payment instrument does not include stored
+16 value or any instrument that:
+17 (a) Is redeemable by the issuer only for goods or services provided
+18 by the issuer or affiliates of such issuer or franchisees of the issuer
+19 or affiliates of such franchisees except to the extent the instrument is
+20 required by applicable law to be redeemable in cash for the cash value of
+21 the instrument; or
+22 (b) Is not sold publicly but issued and distributed as part of a
+23 loyalty, rewards, or promotional program;
+24 (27) (25) Payroll processing services means receiving money for
+25 transmission pursuant to a contract with a person to deliver wages or
+26 salaries, make payment of payroll taxes to state and federal agencies,
+27 make payments relating to employee benefit plans, or make distributions
+28 of other authorized deductions from wages or salaries. Payroll processing
+29 services does not include an employer performing payroll processing
+30 services on the employer's own behalf or on behalf of an affiliate of the
+31 employer;
+-7-
+
+LB1063 LB1063
+2026 2026
+1 (28) (26) Person means any individual, general partnership, limited
+2 partnership, limited liability company, corporation, trust, association,
+3 joint stock corporation, or other corporate entity identified by the
+4 director;
+5 (29) (27) Receipt means a paper receipt, electronic record, or other
+6 written confirmation;
+7 (30) (28) Receiving money for transmission or money received for
+8 transmission means receiving money or monetary value in the United States
+9 for transmission within or outside the United States by electronic or
+10 other means;
+11 (31) (29) Remit means to make direct payments of money to a licensee
+12 or a representative of a licensee authorized to receive money or to
+13 deposit money in a bank in an account specified by the licensee; and
+14 (32) (30) Stored value means monetary value representing a claim
+15 against the issuer of the stored value evidenced by an electronic or
+16 digital record, and that is intended and accepted for use as a means of
+17 redemption for money or monetary value, or payment for goods or services.
+18 Stored value includes, but is not limited to, prepaid access as defined
+19 by 31 C.F.R. 1010.100. Notwithstanding the foregoing, stored value does
+20 not include a payment instrument or closed loop stored value, or stored
+21 value not sold publicly but issued and distributed as part of a loyalty,
+22 rewards, or promotional program.
+23 Sec. 3. Section 8-2711, Revised Statutes Supplement, 2025, is
+24 amended to read:
+25 8-2711 (1) Applicants for a license shall apply in a form and in a
+26 medium as prescribed by the director. Each such form shall contain
+27 content as set forth by rule, regulation, instruction, or procedure of
+28 the director and may be changed or updated by the director in accordance
+29 with applicable law in order to carry out the purposes of the Nebraska
+30 Money Transmitters Act and maintain consistency with Nationwide Mortgage
+31 Licensing System and Registry licensing standards and practices. The
+-8-
+
+LB1063 LB1063
+2026 2026
+1 application shall state or contain, as applicable:
+2 (a) The legal name and residential and business addresses of the
+3 applicant and any fictitious or trade name used by the applicant in
+4 conducting the applicant's business;
+5 (b) A list of any criminal conviction of the applicant and any
+6 material litigation in which the applicant has been involved in the ten-
+7 year period next preceding the submission of the application;
+8 (c) A description of any money transmission previously provided by
+9 the applicant and the money transmission that the applicant seeks to
+10 provide in this state;
+11 (d) A list of the applicant's proposed authorized delegates and the
+12 locations in this state where the applicant and its authorized delegates
+13 propose to engage in money transmission;
+14 (e) A list of other states in which the applicant is licensed to
+15 engage in money transmission and any license revocation, suspension, or
+16 other disciplinary action taken against the applicant in another state;
+17 (f) Information concerning any bankruptcy or receivership proceeding
+18 affecting the applicant or a person in control of an applicant;
+19 (g) A sample form of contract for authorized delegates, if
+20 applicable;
+21 (h) A sample form of payment instrument or stored value, as
+22 applicable;
+23 (i) The name and address of any federally insured depository
+24 financial institution through which the applicant plans to conduct money
+25 transmission; and
+26 (j) A certification that the applicant is not a foreign adversary
+27 person, along with sufficient information to enable the director to
+28 verify the veracity of the certification;
+29 (k) A certification that each key individual and person in control
+30 of the applicant is not a foreign adversary person, along with sufficient
+31 information to enable the director to verify the veracity of the
+-9-
+
+LB1063 LB1063
+2026 2026
+1 certification; and
+2 (l) (j) Any other information the Director or the Nationwide
+3 Mortgage Licensing System and Registry reasonably requires with respect
+4 to the applicant.
+5 (2) If an applicant is a corporation, limited liability company,
+6 partnership, or other legal entity, the applicant shall also provide:
+7 (a) The date of the applicant's incorporation or formation and state
+8 or country of incorporation or formation;
+9 (b) If applicable, a certificate of good standing from the state or
+10 country in which the applicant was incorporated or formed;
+11 (c) A brief description of the structure or organization of the
+12 applicant, including any parents or subsidiaries of the applicant, and
+13 whether any such parents or subsidiaries are publicly traded;
+14 (d) The legal name, any fictitious or trade name, all business and
+15 residential addresses, and the employment, as applicable, of each key
+16 individual and person in control of the applicant in the ten-year period
+17 preceding the submission of the application;
+18 (e) A list of any criminal convictions and material litigation for a
+19 person in control of the applicant that is not an individual that has
+20 been involved with the applicant in the ten-year period preceding the
+21 submission of the application;
+22 (f) A copy of audited financial statements of the applicant for the
+23 most recent fiscal year and for the two-year period preceding the
+24 submission of the application or, if determined to be acceptable to the
+25 director, certified unaudited financial statements for the most recent
+26 fiscal year or any other period acceptable to the director;
+27 (g) A certified copy of unaudited financial statements of the
+28 applicant for the most recent fiscal quarter;
+29 (h) If the applicant is a publicly traded corporation, a copy of the
+30 most recent report filed with the Securities and Exchange Commission
+31 pursuant to the Securities Exchange Act of 1934;
+-10-
+
+LB1063 LB1063
+2026 2026
+1 (i) If the applicant is a wholly owned subsidiary of:
+2 (i) A corporation publicly traded in the United States, a copy of
+3 audited financial statements for the parent corporation for the most
+4 recent fiscal year or a copy of the parent corporation's most recent
+5 report filed pursuant to the Securities Exchange Act of 1934; or
+6 (ii) A corporation publicly traded outside the United States, a copy
+7 of similar documentation filed with the regulator of the parent
+8 corporation's domicile outside the United States;
+9 (j) The name and address of the applicant's registered agent in this
+10 state; and
+11 (k) Any other information the director reasonably requires with
+12 respect to the applicant.
+13 (3) A nonrefundable application fee of one thousand five hundred
+14 dollars must accompany an application for a license under this section.
+15 (4) Other than the nonrefundable application fee, the director may
+16 waive one or more requirements of this section or permit an applicant to
+17 submit other information in lieu of the required information.
+18 Sec. 4. Section 8-2742, Revised Statutes Supplement, 2025, is
+19 amended to read:
+20 8-2742 For purposes of the Nebraska Money Transmitters Act:
+21 (1) 15 C.F.R. 791.4 means 15 C.F.R. 791.4, as such regulation
+22 existed on January 1, 2026;
+23 (2) (1) 31 C.F.R. 1010.100 means 31 C.F.R. 1010.100, as such
+24 regulation existed on January 1, 2025;
+25 (3) (2) Bank Secrecy Act means the Bank Secrecy Act, 31 U.S.C. 5311
+26 et seq., and the implementing regulations of such act, as such act and
+27 regulations existed on January 1, 2025;
+28 (4) (3) Bank Service Company Act means the Bank Service Company Act,
+29 12 U.S.C. 1861 et seq., as such act existed on January 1, 2025;
+30 (5) (4) Commodity Exchange Act means the Commodity Exchange Act, 7
+31 U.S.C. 1 et seq., as such act existed on January 1, 2025;
+-11-
+
+LB1063 LB1063
+2026 2026
+1 (6) (5) Edge Act means the Edge Act, 12 U.S.C. 611 et seq., as such
+2 act existed on January 1, 2025;
+3 (7) (6) Federal Credit Union Act means the Federal Credit Union Act,
+4 12 U.S.C. 1751 et seq., as such act existed on January 1, 2025;
+5 (8) (7) Federal Deposit Insurance Act means the Federal Deposit
+6 Insurance Act, 12 U.S.C. 1811 et seq., as such act existed on January 1,
+7 2025;
+8 (9) (8) Federal remittance rule means 12 C.F.R. part 1005, subpart
+9 B, as such regulation existed on January 1, 2025;
+10 (10) (9) Foreign Account Tax Compliance Act means the Foreign
+11 Account Tax Compliance Act, 26 U.S.C. 1471 et seq., as such act existed
+12 on January 1, 2025;
+13 (11) (10) International Banking Act of 1978 means the International
+14 Banking Act of 1978, 12 U.S.C. 3101 et seq., as such act existed on
+15 January 1, 2025;
+16 (12) (11) Securities Exchange Act of 1934 means the Securities
+17 Exchange Act of 1934, 15 U.S.C. 78a et seq., as such act existed on
+18 January 1, 2025;
+19 (13) (12) United States Bankruptcy Code means 11 U.S.C. 101 et seq.,
+20 as such sections existed on January 1, 2025; and
+21 (14) (13) Uniting and Strengthening America by Providing Appropriate
+22 Tools Required to Intercept and Obstruct Terrorism Act of 2001 means the
+23 Uniting and Strengthening America by Providing Appropriate Tools Required
+24 to Intercept and Obstruct Terrorism Act of 2001, Public Law 107-56, as
+25 such act existed on January 1, 2025.
+26 Sec. 5. The Legislature finds and declares that:
+27 (1) The United States has determined that the governments of China,
+28 Cuba, Iran, North Korea, Russia, and the Maduro Regime in Venezuela are
+29 foreign adversaries of the United States because they have engaged in
+30 long-term patterns or serious instances of conduct significantly adverse
+31 to United States national security or the security and safety of United
+-12-
+
+LB1063 LB1063
+2026 2026
+1 States persons;
+2 (2) China's effort to advance its technological capabilities poses
+3 significant threats to the United States and its citizens;
+4 (3) China is currently operating a Military-Civil Fusion strategy
+5 with the goal of developing the most technologically advanced military in
+6 the world. A key part of this strategy is removing barriers between
+7 China's civilian sectors and its military and defense industrial sectors;
+8 (4) China is also seeking to grow its technological dominance in
+9 international markets;
+10 (5) To advance its missions, China has increased its efforts to
+11 collect foreign data;
+12 (6) Under Article 7 of China's National Intelligence Law of 2017,
+13 which states in part that any organization or citizen shall support,
+14 assist, and cooperate with the state intelligence work, China may compel
+15 its citizens and companies to assist with surveillance efforts or
+16 surrender data to Chinese intelligence agencies, including data belonging
+17 to the United States or its citizens;
+18 (7) China's collection of data is a threat to national security and
+19 the United States Department of Homeland Security and the National
+20 Counterintelligence and Security Center have both issued publications
+21 warning United States citizens and businesses of the potential threats
+22 stemming from China's intelligence laws;
+23 (8) In November 2025, the White House produced a security memo
+24 asserting that a Chinese technology company shares its customers' data,
+25 including customers' payment records, with the Chinese government and
+26 concurrently the Pentagon sent a letter to Congress indicating intent to
+27 list that Chinese technology company as a Chinese military company;
+28 (9) The threat of data collection by foreign adversaries is not only
+29 a national security threat but also a threat to consumers who provide
+30 data and other information to foreign adversary-based companies;
+31 (10) Pursuant to this state's supervisory authority over financial
+-13-
+
+LB1063 LB1063
+2026 2026
+1 transactions, the state has put in place a regulatory scheme for
+2 licensing money transmitters;
+3 (11) Money transmitters provide consumers with nonbank access to
+4 sending and receiving funds, often internationally, and require access to
+5 sensitive customer data;
+6 (12) As a part of the licensing scheme, the state looks at the
+7 character and general fitness of applicants to ensure that it is in the
+8 interest of the public to permit the applicant to engage in money
+9 transmission in the state; and
+10 (13) Due to the risks posed by foreign adversaries to this state and
+11 its citizens, the state finds that it should not grant money transmitter
+12 licenses to companies with connections to foreign adversaries.
+13 Sec. 6. (1)(a) For purposes of section 8-2713, if an applicant or
+14 any key individual or person in control of the applicant fails to
+15 establish that such applicant, key individual, or person is not a foreign
+16 adversary person, the director shall presume that the character and
+17 general fitness of such applicant, key individual, or person indicates
+18 that it is not in the interest of the public to permit the applicant to
+19 engage in money transmission.
+20 (b) For purposes of section 8-2716, if a person, or group of persons
+21 acting in concert, seeking to acquire control of a licensee or if any key
+22 individual or person that would be in control of a licensee after
+23 acquisition of control fails to establish that such person, group, or key
+24 individual is not a foreign adversary person, the director shall presume
+25 that the character and general fitness of such person, group, or key
+26 individual indicates that it is not in the interest of the public to
+27 permit the person, group of persons acting in concert, or key individual
+28 to control the licensee.
+29 (c) For purposes of section 8-2734, if a licensee or authorized
+30 delegate or any key individual or persons in control of a licensee or
+31 responsible person of the authorized delegate fails to establish that
+-14-
+
+LB1063 LB1063
+2026 2026
+1 such licensee, delegate, key individual, or person is not a foreign
+2 adversary person, the director shall presume that the character and
+3 general fitness of such licensee, delegate, key individual, or person
+4 indicates that it is not in the interest of the public to permit the
+5 licensee, delegate, key individual, or person to provide money
+6 transmission.
+7 (d) For purposes of section 8-2735, if an authorized delegate or a
+8 person in control of the authorized delegate fails to establish that such
+9 delegate or person is not a foreign adversary person, the director shall
+10 presume that the character and general fitness of such delegate or person
+11 indicates that it is not in the interest of the public to permit the
+12 authorized delegate to provide money transmission.
+13 (2) The presumptions described in subsection (1) of this section
+14 shall only be rebutted by clear and convincing evidence that:
+15 (a) The relevant foreign government or foreign nongovernment person
+16 listed in 15 C.F.R. 791.4 has expressly exempted the relevant applicant,
+17 licensee, authorized delegate, key individual, or person from all legal
+18 obligations to share any information from an individual in this state
+19 with any foreign adversary person;
+20 (b) The exemption described in subdivision (2)(a) of this section
+21 will be judicially enforceable within this state against the foreign
+22 government and nongovernment person by any individual in this state who
+23 uses the money transmitter services of the exempted individual or person;
+24 (c) The exempted individual or person has established a relationship
+25 with an auditor organized within, and with its primary place of business
+26 within, the United States that will verify, through an external
+27 compliance audit or similar process conducted at least quarterly and in
+28 compliance with all applicable auditing standards, whether any
+29 information is shared by the exempted individual or person with a foreign
+30 adversary person during the duration of the license or at any point
+31 within three years after the expiration of the license; and
+-15-
+
+LB1063 LB1063
+2026 2026
+1 (d) The exempted individual or person has adopted a policy that it
+2 will promptly notify all affected individuals and the Attorney General if
+3 it or its auditor concludes that information has been shared with a
+4 foreign adversary person during the duration of the license or at any
+5 point within three years after the expiration of the license.
+6 Sec. 7. (1) On the effective date of this act, the changes made by
+7 this legislative bill shall apply to all existing and future licenses and
+8 applications for license under the Nebraska Money Transmitters Act.
+9 (2) Within sixty days after the effective date of this act, the
+10 director shall send a written request to each licensee and applicant with
+11 a completed application that requests supplemental information necessary
+12 for the director to investigate and determine compliance with the changes
+13 made by this legislative bill, including the certifications required by
+14 section 8-2711. For any licensee that does not provide such information
+15 within sixty days after receiving such request or that the director has
+16 reasonable suspicion to believe is a foreign adversary person or has any
+17 key individual or person in control that is a foreign adversary person,
+18 the director shall institute proceedings under section 8-2734 to revoke
+19 the licensee's license.
+20 Sec. 8. Within thirty days after the effective date of this act,
+21 the director shall prescribe forms and instructions and issue an order
+22 governing applications under the Nebraska Money Transmitters Act to
+23 require information sufficient to show that the applicant is not a
+24 foreign adversary person.
+25 Sec. 9. Original sections 8-2701, 8-2702, 8-2711, and 8-2742,
+26 Revised Statutes Supplement, 2025, are repealed.
+-16-
